@@ -1,0 +1,1716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:44:50Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:5803887" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:5803887</identifier>
+        <datestamp>2018-02-14</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC5803887</article-id>
+              <article-id pub-id-type="pmcid">PMC5803887</article-id>
+              <article-id pub-id-type="pmc-uid">5803887</article-id>
+              <article-id pub-id-type="pmid">29415697</article-id>
+              <article-id pub-id-type="publisher-id">475</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-018-0475-9</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Study protocol of a randomized controlled trial to test the effect of a smartphone application on oral-health behavior and oral hygiene in adolescents with fixed orthodontic appliances</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8516-0112</contrib-id>
+                  <name>
+                    <surname>Scheerman</surname>
+                    <given-names>Janneke F. M.</given-names>
+                  </name>
+                  <address>
+                    <phone>+31 630 899 701</phone>
+                    <email>j.f.m.scheerman@acta.nl</email>
+                    <email>janneke.scheerman@inholland.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff11">11</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>van Meijel</surname>
+                    <given-names>Berno</given-names>
+                  </name>
+                  <address>
+                    <email>Berno.vanMeijel@inholland.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>van Empelen</surname>
+                    <given-names>Pepijn</given-names>
+                  </name>
+                  <address>
+                    <email>Pepijn.vanEmpelen@tno.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kramer</surname>
+                    <given-names>Gem J. C.</given-names>
+                  </name>
+                  <address>
+                    <email>G.j.c.Kramer@acta.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Verrips</surname>
+                    <given-names>Gijsbert H. W.</given-names>
+                  </name>
+                  <address>
+                    <email>Erik.Verrips@tno.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pakpour</surname>
+                    <given-names>Amir H.</given-names>
+                  </name>
+                  <address>
+                    <email>Pakpour_Amir@yahoo.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff8">8</xref>
+                  <xref ref-type="aff" rid="Aff9">9</xref>
+                  <xref ref-type="aff" rid="Aff10">10</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Van den Braak</surname>
+                    <given-names>Matheus C. T.</given-names>
+                  </name>
+                  <address>
+                    <email>T.vd.braak@hotmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>van Loveren</surname>
+                    <given-names>Cor</given-names>
+                  </name>
+                  <address>
+                    <email>C.van.Loveren@acta.nl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0295 4797</institution-id><institution-id institution-id-type="GRID">grid.424087.d</institution-id><institution>Department of Preventive Dentistry, </institution><institution>Academic Centre for Dentistry Amsterdam (ACTA), </institution></institution-wrap>Amsterdam, the Netherlands </aff>
+                <aff id="Aff2"><label>2</label>Department of Oral Hygiene, Inholland University, Amsterdam, the Netherlands </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0208 7216</institution-id><institution-id institution-id-type="GRID">grid.4858.1</institution-id><institution>Department of Child Health, </institution><institution>Netherlands Organization for Applied Scientific Research (TNO), </institution></institution-wrap>Leiden, the Netherlands </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.448984.d</institution-id><institution>Department of Health, Sports &amp; Welfare/Cluster Nursing, </institution><institution>Inholland University of Applied Sciences, </institution></institution-wrap>Amsterdam, the Netherlands </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0435 165X</institution-id><institution-id institution-id-type="GRID">grid.16872.3a</institution-id><institution>Department of Psychiatry and EMGO Institute for Health and Care Research, </institution><institution>VU University Medical Centre, </institution></institution-wrap>Amsterdam, the Netherlands </aff>
+                <aff id="Aff6"><label>6</label>Parnassia Psychiatric Institute, Parnassia Academy, The Hague, the Netherlands </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0295 4797</institution-id><institution-id institution-id-type="GRID">grid.424087.d</institution-id><institution>Department of Orthodontics, </institution><institution>Academic Centre of Dentistry Amsterdam, </institution></institution-wrap>Amsterdam, the Netherlands </aff>
+                <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0405 433X</institution-id><institution-id institution-id-type="GRID">grid.412606.7</institution-id><institution>Department of Social Determinants of Health, Research Centre (SHD), </institution><institution>Qazvin University of Medical Sciences, </institution></institution-wrap>Qazvin, Iran </aff>
+                <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0414 7587</institution-id><institution-id institution-id-type="GRID">grid.118888.0</institution-id><institution>Department of Nursing, School of Health and Welfare, </institution><institution>Jönköping University, </institution></institution-wrap>Jönköping, Sweden </aff>
+                <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0414 7587</institution-id><institution-id institution-id-type="GRID">grid.118888.0</institution-id><institution>Department of Natural Science and Biomedicine, Centre of Oral Health, School of Health Sciences, </institution><institution>Jönköping University, </institution></institution-wrap>Jönköping, Sweden </aff>
+                <aff id="Aff11"><label>11</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0295 4797</institution-id><institution-id institution-id-type="GRID">grid.424087.d</institution-id><institution>Department of Preventive Dentistry, Academic Centre for Dentistry Amsterdam, </institution><institution>ACTA University, </institution></institution-wrap>Gustav Mahlerlaan 3004, 1081 LA Amsterdam, The Netherlands </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>7</day>
+                <month>2</month>
+                <year>2018</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>7</day>
+                <month>2</month>
+                <year>2018</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2018</year>
+              </pub-date>
+              <volume>18</volume>
+              <elocation-id>19</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>7</day>
+                  <month>1</month>
+                  <year>2017</year>
+                </date>
+                <date date-type="accepted">
+                  <day>12</day>
+                  <month>1</month>
+                  <year>2018</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s). 2018</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Adolescents with fixed orthodontic appliances are at high risk of developing dental caries. To date, new smartphone technologies have seldom been used to support them in the preventive behavior that can help prevent dental caries. After an intervention-mapping process, we developed a smartphone application (the WhiteTeeth app) for preventing dental caries through improved oral-health behavior and oral hygiene. The app, which is intended to be used at home, will help adolescents with fixed orthodontic appliances perform their oral self-care behavior. The app is based on the Health Action Process Approach (HAPA) theory, and incorporates several behavior-change techniques that target the psychosocial factors of oral-health behavior. This article describes the protocol of a randomized controlled trial (RCT) to evaluate the effects of the WhiteTeeth app on oral-health behavior and oral-hygiene outcomes (presence of dental plaque and gingival bleeding) compared with those of care as usual, in patients aged 12–16 with fixed orthodontic appliances.</p>
+                </sec>
+                <sec>
+                  <title>Methods/design</title>
+                  <p id="Par2">The RCT has two conditions: an experimental group that will receive the WhiteTeeth app in addition to care as usual, and a control group that will only receive care as usual. Care as usual will include routine oral-health education and instruction at orthodontic check-ups. In the western part of the Netherlands 146 participants will be recruited from four orthodontic clinics. Data will be collected during three orthodontic check-ups: baseline (T0), 6 weeks of follow-up (T1) and 12 weeks of follow-up (T2). The primary study outcomes are the presence of dental plaque (measured with a modified Silness and Loë Plaque Index); and gingival bleeding (measured with the Bleeding on Marginal Probing Index). Secondary outcomes include changes in self-reported oral-health behaviors and its psychosocial factors identified by the HAPA theory, such as outcome expectancies, intention, action self-efficacy, coping planning and action control.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">Since the intervention was designed to target psychosocial factors in the motivational and volitional components of the behavior-change process, we hypothesize that the app will cause greater improvements in oral-health behavior and oral hygiene more than traditional oral-health-promotion programs (i.e., care as usual).</p>
+                </sec>
+                <sec>
+                  <title>Trial registration.</title>
+                  <p id="Par4">The trial has been registered with the Dutch Trial Register (<ext-link ext-link-type="uri" xlink:href="http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=6206">NTR6206</ext-link>: 20 February 2017).</p>
+                </sec>
+                <sec>
+                  <title>Electronic supplementary material</title>
+                  <p>The online version of this article (10.1186/s12903-018-0475-9) contains supplementary material, which is available to authorized users.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Study protocol</kwd>
+                <kwd>Behavioral intervention</kwd>
+                <kwd>App</kwd>
+                <kwd>M-health</kwd>
+                <kwd>Prevention</kwd>
+                <kwd>Oral health promotion</kwd>
+                <kwd>Oral health behavior</kwd>
+                <kwd>Oral hygiene</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2018</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par15">In 2011, 60% of young Dutch adults had had orthodontic treatment during adolescence [<xref ref-type="bibr" rid="CR1">1</xref>]. Despite its functional and esthetic benefits, fixed-appliances therapy is associated with an increased risk of dental caries, mainly in the form of white-spot lesions, whose estimated prevalence ranges from 50 to 90% [<xref ref-type="bibr" rid="CR2">2</xref>–<xref ref-type="bibr" rid="CR5">5</xref>]. After orthodontic treatment, the lesions can become an esthetic problem, and may progress to more extended caries lesions [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>].</p>
+              <p id="Par16">Although fluoride administration (e.g. fluoride mouth rinses) and the regular and effective removal of plaque from all tooth surfaces are essential to preventing oral diseases [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>], patients undergoing fixed orthodontic treatment have difficulty reducing dental plaque, as fixed orthodontic appliances (brackets) impede cleaning [<xref ref-type="bibr" rid="CR10">10</xref>]. Previous studies also showed that only 50% of patients used fluoride mouth rinses as prescribed [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. Over 60% of orthodontists in the Netherlands stated that patients’ oral hygiene deteriorates during orthodontic treatment [<xref ref-type="bibr" rid="CR13">13</xref>]. A majority of orthodontists indicated that 5–10% of patients interrupt orthodontic treatment prematurely due to poor oral hygiene [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. A recent cross-sectional study in the Dutch city of Almere showed that most young orthodontic patients had low levels of oral hygiene and did not follow oral-health recommendations [<xref ref-type="bibr" rid="CR15">15</xref>]. This emphasizes the need for intervention strategies to improve oral hygiene in young people with such appliances.</p>
+              <p id="Par17">Today’s use of smartphones offers new opportunities for developing oral-health interventions. This high use – particularly by young people – could ensure comprehensive access to adolescents with fixed orthodontic appliances [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>]. Smartphones may thus be an appropriate medium for providing oral-health care information, changing oral-health behavior and improving oral hygiene.</p>
+              <p id="Par18">For this reason, we used the intervention-mapping protocol [<xref ref-type="bibr" rid="CR19">19</xref>] to develop a smartphone application (the WhiteTeeth app) intended to prevent dental caries by improving adolescents’ oral-health behavior and oral hygiene during fixed orthodontic treatment. As part of the intervention mapping process, we conducted a systematic review with meta-analysis and a cross-sectional study in which we analyzed oral-health behaviors and psychosocial factors (i.e. intervention targets) in adolescents [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]. The results of this suggested that the Health Action Process Approach (HAPA) theory would be an appropriate theory for underpinning the present intervention [<xref ref-type="bibr" rid="CR21">21</xref>]. Incorporating several behavior-change techniques that target the psychosocial factors identified by the HAPA theory, the WhiteTeeth app thus focuses (1) on controlling dental plaque levels through improved dental cleaning and (2) on increasing the use of fluoride mouth rinse.</p>
+              <p id="Par19">In this article we describe the design of a randomized controlled trial (RCT) to compare the effectiveness of the WhiteTeeth app with that of care as usual. The primary objective of the study is to determine whether the use of the WhiteTeeth app by orthodontic patients aged 12 to 16 improves oral-health behavior and oral hygiene. The primary outcomes of this RCT are changes in dental plaque levels, and gingival bleeding upon marginal probing. The secondary outcomes are changes in oral-health behaviors, including tooth-brushing and the use of dental-cleaning aids and fluoride mouth rinse, and psychosocial factors of oral-health behavior. We will test the mediating effects of psychosocial factors on changes in oral-health behaviors and oral hygiene. Our hypothesis is that the use of the WhiteTeeth app in the intervention group will improve oral-health behavior and oral hygiene more than usual care does (the control group). We expect changes in the psychosocial factors to be associated with the factual changes in oral-health behavior.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods/design</title>
+              <p id="Par20">This study is a multicenter, parallel, randomized controlled trial with two conditions: an experimental group that will receive the WhiteTeeth app in addition to care as usual, and a control group that will receive only care as usual. Data will be collected during three orthodontic check-ups: baseline (T0), 6 weeks of follow up (T1) and 12 weeks of follow up (T2) (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>An overview of the study procedures and design</p></caption><graphic xlink:href="12903_2018_475_Fig1_HTML" id="MO1"/></fig></p>
+              <sec id="Sec3">
+                <title>Participants and recruitment</title>
+                <p id="Par21">One hundred forty-six orthodontic patients aged 12 to 16 will be recruited in four orthodontic clinics in the western Netherlands. The study sites will be eligible if (1) standard oral-health instructions are administered according to the clinical guidelines of the department of orthodontics at the Academic Centre for Dentistry Amsterdam (ACTA) (See paragraph ‘Care as usual’); if (2) the clinicians are orthodontists registered in the Dutch orthodontic specialist register, or are postgraduate orthodontic students supervised by a registered orthodontist; if (3) the orthodontists are willing not to change their method of providing oral-health education or instructions during the study period (care as usual); if (4) there is scope for the researcher to inform patients about treatment allocation and the app (in the case of participation in the intervention group); and if a dental chair is available for the oral-health assessments. We will include the same number of participants from each study site.</p>
+                <p id="Par22">Before the study starts, a presentation on it will be given at the eligible clinics. Patients who meet the eligibility criteria (Table <xref rid="Tab1" ref-type="table">1</xref>) will be informed about the study by their clinician. They will then receive an information letter and an informed consent form (see Additional file <xref rid="MOESM1" ref-type="media">1</xref>), and have two visits before the baseline measurements. The letter will include information on the intervention, the study design, and ethics. Patients will be recruited over a 3-month period. The baseline assessment will be scheduled after patients’ and their parents’ written informed consent has been received.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Eligibility criteria</p></caption><table frame="hsides" rules="groups"><tbody><tr><td>Patients will be eligible for the study if they meet the following criteria:</td></tr><tr><td>- Boys or girls aged 12 to 16.</td></tr><tr><td>- For at least 6 weeks, they must have maxillary and mandibular fixed orthodontic appliance therapy, which consists of bonding at least premolar-to-premolar with edgewise appliances and their modifications.</td></tr><tr><td>- They have not been scheduled for removal of fixed orthodontic treatment before the end of the study.</td></tr><tr><td>- They have no physical and/or mental disabilities that will impede their ability to perform their own oral hygiene activities.</td></tr><tr><td>- They are not engaged in other oral-health education or research program.</td></tr><tr><td>- They do not have enamel and dentine dysplasia and/or craniofacial malformation (e.g. cleft).</td></tr><tr><td>- They have a sufficient command of the Dutch language.</td></tr><tr><td>- They possess a smartphone with software IOS ≥7 or Android ≥4.1.</td></tr><tr><td>- Patients and their parents are able or willing to give informed consent.</td></tr><tr><td>- Patients must not use medication that may affect plaque accumulation, for example antibiotics and antibacterial mouth rinses.</td></tr></tbody></table></table-wrap></p>
+              </sec>
+              <sec id="Sec4">
+                <title>Randomization</title>
+                <p id="Par23">Randomization to the intervention group or control group will be performed at the patient level. A co-author who is not involved in data collection or analysis will use a random sequence generator (<ext-link ext-link-type="uri" xlink:href="http://www.random.org">http://www.random.org</ext-link>) to allocate patients in a random sequence to the intervention or control group. In a separate room after completion of the baseline measurements, an independent researcher will tell individual participants to which group they have been allocated. If this is the intervention group, the researcher will help them install and unlock the app on their smartphone, and will also provide information on how to use it. To identify dental plaque during the intervention period, participants in the intervention group will receive twelve disclosing tablets (Gum® Red-Cote®). To prevent treatment contamination, adolescents in the control group will not have access to the intervention, as the app will be locked with a personal code that will only be provided to the adolescents in the experimental group.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Care as usual</title>
+                <p id="Par24">Care as usual will be provided according to the orthodontic protocol at the Academic Centre for Dentistry Amsterdam (ACTA). Whether in the intervention group or control group, all patients will receive oral dental-health education and instructions on plaque control at each visit.</p>
+                <p id="Par25">Approximately every 6 weeks, orthodontists will invite their patients for a check-up visit, when they will adjust the braces, evaluate dental hygiene and the progress of the teeth, and, if necessary, provide oral-health education. On the basis of the ACTA guidelines, they will recommend the following oral-health behavior to their patients.</p>
+                <p id="Par26">First, to control dental plaque levels, patients will be recommended to brush their teeth with fluoride-containing toothpaste at least twice a day according to the 5-step method. Thus, (1) after brushing the gingival sites, they should brush (2) above and then (3) under the bracket on the buccal sites of the teeth. They should end by brushing (4) the occlusal sites and (5) the lingual or palatinal sites of the teeth. These five steps take approximately three minutes to fulfill [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+                <p id="Par27">Next, to ensure proper plaque removal, the orthodontists will recommend the use of dental aids (e.g. a proxy brush to clean the tooth surfaces around the brackets). To prevent dental caries during orthodontic treatment, they will also highly recommend the daily use of fluoride-containing mouth rinse and toothpaste [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR11">11</xref>]. Finally, they will recommend patients to limit their consumption of sugars, refined carbohydrates and acid drinks/soft drinks [<xref ref-type="bibr" rid="CR22">22</xref>].</p>
+              </sec>
+              <sec id="Sec6">
+                <title>The behavioral intervention: WhiteTeeth app</title>
+                <p id="Par28">The app is intended for use at home as an add-on intervention to care as usual. The intervention is based on the Health Action Process Approach (HAPA) theory (Fig. <xref rid="Fig2" ref-type="fig">2</xref>), which has demonstrated its usefulness to understanding oral hygiene behaviors in adolescents with fixed orthodontic appliances [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. The theory classifies the establishment of behavior into two phases: a motivational, intention-forming phase, and a volitional phase in which intention is translated into action [<xref ref-type="bibr" rid="CR21">21</xref>]. The WhiteTeeth app integrates several behavior-change techniques (BCTs) that target these motivational and volitional behavior-change processes [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>]. BCTs addressing the factors of the motivational phase include: providing information on health consequences, visualizing dental plaque with disclosing tablets [<xref ref-type="bibr" rid="CR25">25</xref>], and demonstrating the desired behavior [<xref ref-type="bibr" rid="CR24">24</xref>]. BCTs addressing factors in the volitional phase include self-monitoring [<xref ref-type="bibr" rid="CR26">26</xref>], goal-setting and implementation intentions [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>], coping planning (via volitional sheets) [<xref ref-type="bibr" rid="CR29">29</xref>], and behavioral goal reminders [<xref ref-type="bibr" rid="CR30">30</xref>, <xref ref-type="bibr" rid="CR31">31</xref>]. For the experimental group the WhiteTeeth app is available in the App Store for IOS ≥7+ and in the Play Store for Android ≥4.1 as ‘Witgebit’ (free of charge).<fig id="Fig2"><label>Fig. 2</label><caption><p>The Health Action Process Approach Model [<xref ref-type="bibr" rid="CR21">21</xref>]</p></caption><graphic xlink:href="12903_2018_475_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par29">Upon installing and opening the WhiteTeeth app, participants in the intervention group will be required to respond to registration questions and to provide some personal details. These questions will cover the frequency of tooth brushing, the use of fluoride mouth rinse and dental cleaning aids, the length of brushing sessions, and the type of toothbrush. The personal details pertain to outcomes that motivate them to maintain good oral health. Adolescents can select from pre-established outcome-expectancies, such as gum health, fresh breath, plaque removal and whitening. Messages can thus be individualized.</p>
+                <p id="Par30">In the next part of the registration process, which is intended to help adolescents identify their dental plaque levels, they will be asked to use the disclosing tablets and to take a selfie of their teeth on which dental plaque is visualized by the disclosing tablet. The participant has to fit the selfie into a fixed window, upon which the app will superimpose a grid. The adolescent will then be asked to register the amount of plaque by clicking the disclosed areas in the grid. The app will interpret the number of clicks (i.e. absence or presence of plaque). Then, on the basis of this plaque assessment and of the answers to the questions on oral-health procedures during the registration phase, the app will provide feedback. If the adolescent has complied with the oral-health recommendations and if dental plague is absent, positive reinforcement will be given. If the adolescent has not complied with these recommendations or if dental plaque is present, personal oral-health advice will be given in short videos and a peer model (i.e. an adolescent with fixed orthodontic appliances) will demonstrate how to clean teeth with fixed appliances. Adolescents will then set a particular goal with regard to tooth-brushing frequency and duration, the use of a proxy brush and/or fluoride mouth rinse (goal-setting). Next, they will be required to formulate when and where they will perform the oral-health behavior (formulating “if-then” goals or an implementation intention). As part of the implementation planning, the app will provide an option for setting reminders for oral-health-behavior tasks. The action plans formulated will be saved on the main page of the app. At the end of the installation process, the app will encourage adolescents to use the brushing timer daily and to monitor their oral-health behavior by registering in the app whether they have performed their tasks.</p>
+                <p>Every day throughout the 12-week intervention period, push-notifications will be sent instructing adolescents to use the app to enter whether or not they have accomplished their daily dental activities, and to remind them to use the brushing timer when brushing their teeth (at installation, adolescents set the time at which they would like to receive this notification). When adolescents decide to brush, they have the option of turning on the timer. As well as showing the time elapsed during brushing, the timer supports good tooth brushing by showing where and how to brush according to the 5-step method. When adolescents have completed brushing, the app provides positive reinforcement.</p>
+                <p id="Par31">Each week, adolescents will be asked via the app to evaluate their dental plaque levels and review their behavioral goals. For this purpose, they will use a disclosing tablet to visualize the dental plaque. They will also be asked to take a selfie of the result and to indicate the visualized dental plaque (following the same procedure as in the registration phase). On the basis of the information both on the selfie – which indicates an increase or decrease in the number of clicks and thus the amount of plaque – and on the activities performed that week, the app concludes whether the adolescent’s goals have been attained. It then compliments the adolescent for using the app, and, if necessary, helps him or her to set new goals or to adapt the existing ones. If adolescents have failed to attain their goals, they can formulate coping plans, i.e., “if-then” plans specifying how they can deal with difficult situations. To establish these, they use volitional sheets, i.e., sheets with pre-established difficult situations and solutions, such as “If I’m too tired to brush my teeth in the evening, then I’ll brush my teeth right after dinner.” These coping plans will be saved on the main page of the app, so adolescents will be reminded of them when they open the app.</p>
+                <p>If the adolescent does not use the app, it will send personalized text-messages every three days reminding them to use it. These messages will be based on information obtained during installation of the app. For example, “Brushing will help to keep your teeth healthy and beautiful.”</p>
+                <p id="Par32">For two weeks, a prototype of the app was pre-tested by 28 adolescents with fixed orthodontic appliances. The data from this pilot test showed that the adolescents appreciated the app for its high usability and were very satisfied with it – particularly with the videos.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Data collection</title>
+                <p id="Par33">Figure <xref rid="Fig1" ref-type="fig">1</xref> presents an overview of the data-collection procedures. Before the orthodontic check-ups at T0, T1 and T2, all participants will fill in a digital questionnaire on the tablet (Ipad® Air 2.0) in a separate room at the clinic. Next, before the orthodontic check-up, the clinical measurements will be made.</p>
+                <sec id="Sec8">
+                  <title>Demographic or background information</title>
+                  <p id="Par34">The first part of the self-administered digital questionnaire includes questions on the participants’ demographic background and any possible confounding variables (age, sex, education level, nationality, cultural background, and smoking status (see Additional file <xref rid="MOESM2" ref-type="media">2</xref> for questionnaire part I)). Information will be retrieved from the orthodontic files about the date on which treatment with fixed orthodontic appliances started and about the type of orthodontic bracket (e.g., self-ligating or conventional appliances, and the presence of elastic hooks and/or looped wires).</p>
+                </sec>
+                <sec id="Sec9">
+                  <title>Self-reported oral-health behavior and its psychosocial factors</title>
+                  <p id="Par35">The second part of the self-administered digital questionnaire contains questions with both single-response and multiple-response items on oral-health behaviors and their psychosocial factors (HAPA factors) (see Additional file <xref rid="MOESM3" ref-type="media">3</xref> for questionnaire part II). This questionnaire was derived from earlier studies on oral health [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR32">32</xref>–<xref ref-type="bibr" rid="CR34">34</xref>]. The additional file specifies which questions were derived from which original questionnaire. First, to ensure that the integrity of the content was maintained, the original questions were translated into Dutch and then back-translated to English. Next, to ensure that the questions are comprehensible, the questionnaire was piloted.</p>
+                  <p id="Par36">The questionnaire asks respondents to report the frequency with which they use a toothbrush, a proxy brush, dental floss, toothpicks, mouth rinse, and other dental aids. It used the following 7-point scale: 1: less than twice a month or never, 2: twice a month, 3: once a week, 4: two to three times weekly, 5: once daily, 6: twice daily, and 7: three times daily or more. For the analysis, these response options will be recalculated to establish the weekly frequencies of each of the oral-health behaviors. Self-reported tooth-brushing frequency and tooth-brushing duration will both be measured in one open question, i.e., “In the last four weeks, how many times have you brushed your teeth per day?” and “How much time do you spend on brushing your teeth at a time?”. For the analysis, these two items will be multiplied to obtain a single item: self-reported tooth-brushing duration (minutes per day).</p>
+                  <p id="Par37">With regard to the psychosocial factors relevant to tooth brushing and the use of a proxy brush, the questionnaire includes questions on “risk perception”, “action-self-efficacy”, “intention”, “maintenance self-efficacy”, “recovery self-efficacy”, “action control”, “social influences” (including parental support, descriptive and subjective norm), “action planning” and “coping planning”. Next, the questionnaire includes questions on adolescents’ outcome expectancies regarding dental cleaning, and questions about “action-self-efficacy” and “intention” regarding the use of mouth rinse. All psychosocial factors will be assessed on 5-point scales ranging from “very low” (1) to “very high” (5) for risk perception, and from “totally disagree” (1) to “totally agree” (5) for the remaining items. To obtain a single score per psychosocial factor for tooth brushing and the use of a proxy brush, the scores will be summed. The headers in the questionnaire (part II in the Additional file <xref rid="MOESM3" ref-type="media">3</xref>) show the items that are summed to generate the score for each psychosocial factor.</p>
+                </sec>
+                <sec id="Sec10">
+                  <title>Clinical measurements</title>
+                  <p id="Par38">At baseline and at 6 and 12 weeks’ follow-up, the state of adolescents’ oral hygiene will be determined by the amount of plaque and gingival bleeding at the buccal surfaces of the first premolars, canines and incisors. These elements were chosen on the basis of the finding by Chapman et al. (2010) that the maxillary lateral incisor was the tooth most frequently and severely affected by white spot lesions; it was followed by the maxillary canine, premolar, and central incisor [<xref ref-type="bibr" rid="CR2">2</xref>].</p>
+                  <p id="Par39">To achieve this, the following clinical assessments will be carried out:</p>
+                </sec>
+                <sec id="Sec11">
+                  <title>Modified Silness and Loë plaque index</title>
+                  <p id="Par40">A systematic review conducted by Al-Anezi concluded that the modified Silness and Loë plaque index by Williams (1991) is the most valid and discriminatory index for measuring plaque accumulation in orthodontic patients [<xref ref-type="bibr" rid="CR35">35</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]. Using a mouth mirror and a probe, we will therefore use this index to establish the amount of plaque on the buccal surfaces of the first premolars, canines and incisors. According to the position of the orthodontic bracket, the buccal surface of each tooth is divided into four zones, i.e., those mesial, distal, gingival and incisal to the bracket [<xref ref-type="bibr" rid="CR35">35</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]. Each of the four sites of the buccal tooth surface is given a score from 0 to 3, where 0 indicates the absence of plaque; 1 indicates no plaque visible, but an accumulation of soft deposit on a probe when used to clean the surface; 2 indicates a moderate accumulation of soft deposit on the tooth which can be seen with the naked eye; and 3 indicates an abundance of soft matter on the tooth. For the analysis, values are summed to obtain a total score per participant.</p>
+                </sec>
+                <sec id="Sec12">
+                  <title>Bleeding upon marginal probing (BOMP)</title>
+                  <p id="Par41">Gingival bleeding will be assessed with the Bleeding on Marginal Probing index (BOMP). This will be used to score the condition of the gingiva according to the method described by Van der Weijden et al. (1991). In summary, a periodontal probe (tapered tine, tip diameter 0.5 mm; Hu-Friedy, Liemen, Germany) runs along the soft tissue wall at the orifice of the pocket – i.e., the marginal gingiva – at an angle of approximately 60° to the longitudinal axis of the tooth [<xref ref-type="bibr" rid="CR37">37</xref>]. To determine whether probing elicited marginal bleeding (score 1) or not (score 0), we will assess the mesio-vestibular, vestibular, disto-vestibular sections of the vestibular surfaces of the first premolar, canines and incisors. The presence or absence of bleeding will be scored within 30 s of probing. To obtain a total number of bleeding sites per participant, all scores for the analysis will be summed.</p>
+                  <p id="Par42">To ensure the reliability of the clinical measurements, the clinical examiners at each site (a dentist and student dental hygienists) will be trained and calibrated by an experienced ACTA University examiner two weeks before the start of the study. The calibration will involve a separate group of ten people.</p>
+                  <p id="Par43">It will not be possible to determine inter-rater reliability by performing the clinical measurements twice, as the first set of measurements will affect the results of the second: plaque will removed by the probe used to determine the plaque score, and more marginal bleeding might be elicited by the second probing of marginal gingiva. For this reason, one examiner will perform the clinical measurements and another examiner will observe them, and then give a second independent judgement. The inter-rater reliability will thus be determined by comparing the scores made by both examiners. This will be done in a random sample of 10% of the measurements. To determine the inter-rater reliability of the primary outcome measures the Intra-class Correlation Coefficients (ICC) will be calculated.</p>
+                </sec>
+                <sec id="Sec13">
+                  <title>Process evaluation</title>
+                  <p id="Par44">A process evaluation will be performed to examine intervention fidelity (i.e., the extent to which participants comply with the intervention); and participants’ experiences with the intervention program, including the perceived effectiveness of various components of the WhiteTeeth app.</p>
+                  <p id="Par45">Information on intervention fidelity will be collected through the app. For medical-ethical reasons, the app users’ data will not be uploaded automatically. Instead, participants will have to send it themselves from their smartphone to the database. During intervention allocation, participants will be informed about the collection of their users’ data, and will be asked to send it via the app each week. At 6 and 12 weeks follow-up, all participants will be reminded to send their user’s data via the app. User’s data consists of (1) the week that the users’ data is sent, (2) the login code of the app, (3) the total number of selfies, (4) the total number of clicks on the selfie, (5) the total number of times that the brushing timer is opened, (6) the average number of minutes brushed registered by the brushing-timer, (7) the action plans that are entered into the application, (8) the goals that were set, (9) the number of times that they watch a video about (I) dental plaque and cleaning their teeth either with (II) a manual toothbrush, an (III) electric toothbrush, or (IV) interdental brushes; and (10) their initial motives for cleaning their teeth.</p>
+                  <p id="Par46">At 12 weeks follow-up, the participants’ experiences with the intervention program will be examined in a short questionnaire consisting of open and closed questions (See Additional file <xref rid="MOESM4" ref-type="media">4</xref> for questionnaire part III).</p>
+                  <p id="Par47">To maximize retention of participants, all participants will receive a letter at baseline on the importance of adhering to the intervention and on participation in the follow-up measurements. To promote their active participation in the study, participants will receive monetary compensation (€10) at the end of the trial.</p>
+                </sec>
+              </sec>
+              <sec id="Sec14">
+                <title>Data-management</title>
+                <p id="Par48">All data will be recorded using FileMaker Pro© 15 database. Separate FileMaker Pro forms have been designed for both the clinical measurements and the questionnaires.</p>
+                <p id="Par49">The researchers will register clinical data on tablets. To fill in all questionnaires, participants will use the tablets in a separate room. To ensure that appropriate help and guidance can be given when needed, this will be done in the presence of one of the researchers. To minimize data-entry errors, the forms have inbuilt check-and-skip rules. FileMaker Pro will allow us to export the data safely from tablets to SPSS Statistics database. For participants who withdraw from the trial, any data collected up to the withdrawal date will be retained and included in the analyses.</p>
+                <p id="Par50">Names, mobile phone numbers and addresses will not be recorded in the same forms as sensitive data. Each participant will be given a unique identification number. Each participant will send their weekly user’s data to a secure server owned by ACTA University. Only the principal and the co-principal researchers will have access to the participants’ personal data. All data will be saved on password-protected computers and tablets. When the study has been completed, all personal identifiers will be deleted. Data will be kept in stored digitally at the coordinating center (ACTA) for 5 years after completion of the study.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Blinding</title>
+                <p id="Par51">The participants in this study cannot be blinded for the intervention allocation after randomization. To ensure the blindness of assessors and clinicians, the principal researcher will ask the participants not to communicate with outcome assessors or their clinicians on whether they use the app.</p>
+              </sec>
+              <sec id="Sec16">
+                <title>Sample size</title>
+                <p id="Par52">The sample-size calculation will be based on the primary outcome measure, the modified Silness and Loë plaque index. Between treatment groups we have assumed a 0.35 difference in mean change at week 12 [<xref ref-type="bibr" rid="CR38">38</xref>]. The required sample size is 2 × 63 patients (setting α = 5% (two-tailed), a standard deviation (s) of 0.7, and the power (1-β) = 0.80) [<xref ref-type="bibr" rid="CR39">39</xref>]. Allowing for an expected loss of 15%, a sample of 73 patients is needed in each group.</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Statistical analysis</title>
+                <p id="Par53">All statistical analysis will be based on the intention-to-treat (ITT) principle. The participants’ characteristics will be summarized using descriptive statistics (mean, standard deviation, frequency). Baseline data will be used to investigate the characteristics of any participants who discontinue or deviate from the trial and/or intervention. The magnitude of change over time across study groups will be examined by linear mixed models for continuous primary and secondary outcome variables, controlling for baseline variables and other covariates that may relate to the outcome.</p>
+                <p id="Par54">To take account of the correlated observations within the participant, mixed-model analyses will be used. Two analyses will be performed: 1) to evaluate the overall intervention effect, 2) to evaluate the intervention effect at different follow-up times. This will be done by adding time and the interaction between time and intervention group variable into the linear mixed models. For mediation analysis, we will perform linear regressions based on Baron and Kenny’s recommendations [<xref ref-type="bibr" rid="CR40">40</xref>]. A Sobel test will be used to test the mediating effect. A z-value greater than 1.96 and a <italic>p</italic>-value lower than 0.05 will indicate a significant mediating effect [<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+              </sec>
+              <sec id="Sec18">
+                <title>Benefits and harms</title>
+                <p id="Par55">Participants in the experimental condition might benefit from the intervention by achieving better oral health. Since no harmful consequences are expected from exposure to the intervention, a data-monitoring committee is not needed. Unanticipated problems or adverse events that are likely to be related to the trial will be recorded and reported to the METC at VU Medical Centre Amsterdam. Authorship of the publications emerging from the study will be decided on the basis of the guidelines of the International Committee of Medical Journal Editors.</p>
+              </sec>
+              <sec id="Sec19">
+                <title>Dissemination plan</title>
+                <p id="Par56">This protocol was written according to the Standard Protocol Items: Recommendations for Intervention Trials (SPIRIT) guidelines [<xref ref-type="bibr" rid="CR42">42</xref>] (see Additional files <xref rid="MOESM5" ref-type="media">5</xref> and <xref rid="MOESM6" ref-type="media">6</xref>). The research findings will be disseminated through reports, presentations, and scientific articles in peer-reviewed journals. Findings will be reported according to the Consolidated Standards of Reporting Trials (CONSORT) guidelines [<xref ref-type="bibr" rid="CR43">43</xref>]. Important protocol modifications will be reported when findings are disseminated.</p>
+              </sec>
+            </sec>
+            <sec id="Sec20">
+              <title>Discussion</title>
+              <p id="Par57">This paper describes the protocol for an RCT to evaluate the effectiveness of the WhiteTeeth app, which is intended to prevent dental caries in adolescents with fixed orthodontic appliances by improving oral-health behavior and oral hygiene more than care as usual does. By making our study objectives and methods known, the publication of this study protocol will improve the eventual usefulness of our study [<xref ref-type="bibr" rid="CR44">44</xref>].</p>
+              <p id="Par58">The WhiteTeeth app intervention was developed systematically on the basis of the Intervention Mapping protocol [<xref ref-type="bibr" rid="CR19">19</xref>]. This protocol guides the linking of theory to specific behavior-change targets and their associated behavior-change techniques and delivery methods [<xref ref-type="bibr" rid="CR19">19</xref>]. The WhiteTeeth app is based on the HAPA theory, in which changing health-related behaviors comprises two consecutive behavioral phases that are essential to achieving behavior change: a motivational phase and a volitional phase. As the systematic theoretical underpinnings of WhiteTeeth allow additional questions to be addressed regarding the influence of mediating factors on outcomes, we will be able to increase our understanding of the extent to which the outcomes in dental hygiene can be explained by some or all of the underlying psychosocial and behavioral factors (mediators). The process evaluation will provide additional insight into the effective ingredients of the intervention and into the feasibility of the intervention for the target group. Understanding of these issues will underlie the post-trial adjustments necessary to enhancing the effectiveness of WhiteTeeth before any larger scale roll-out.</p>
+              <p id="Par59">We should note some weaknesses in the design of the intervention. First, data on oral-health behaviors and its psychosocial factors will be self-reported. Self-reported measures are prone to bias, such as social desirability bias. As far as possible, we will therefore use the users’ data for several components of the app to evaluate whether the self-reported behavior corresponds to this data. For example, the mean brushing duration collected by the brushing timer of the app will be compared with the self-reported tooth-brushing duration.</p>
+              <p id="Par60">A second limitation is that the participants in the control group might also undergo changes in oral-health behavior, which may conceivably be induced by questions about their behavior. Wilding et al. (2016) have shown that participants’ behavior can be increased or changed simply if questions are asked about their behavior [<xref ref-type="bibr" rid="CR45">45</xref>]. In our study, there is thus a chance that the effects of asking people about their behavior will reduce any differences between the intervention and the control groups, and thereby the possibility of finding a significant effect.</p>
+              <p id="Par61">Although the intervention has been developed to prevent dental caries, this specific health outcome will not be measured in this RCT. Dental caries is nonetheless strongly associated with the outcome measures in the present study: oral-health behavior and oral hygiene measures [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR46">46</xref>]. To prevent caries entirely, good oral-health behavior should be maintained continuously over a long period of time. As habit-formation takes an average of 66 days [<xref ref-type="bibr" rid="CR47">47</xref>], we expect that the 84 days of exposure to the intervention will be long enough to guarantee a long-term behavior change. We assume that if the WhiteTeeth app is effective in improving adolescents’ oral-health behavior and oral hygiene status, it is also likely to affect caries development.</p>
+              <p id="Par62">Thus, if our study confirms the effects we hypothesize on oral-health behavior and oral hygiene status, we will recommend that long-term studies are carried out with dental caries as a primary long-term outcome. On the hypothesis that our preventive oral-health intervention reduces orthodontic patients’ long-term health costs, such long-term follow-up studies should also incorporate health-care costs.</p>
+              <sec id="Sec21">
+                <title>Trial status</title>
+                <p id="Par63">Recruitment started in November 2016 and was continuing when the manuscript was submitted. Inclusion is estimated to finish in October 2017.</p>
+              </sec>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Additional files</title>
+              <sec id="Sec22">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2018_475_MOESM1_ESM.docx">
+                      <label>Additional file 1:</label>
+                      <caption>
+                        <p>Informed Consent Forms. (DOCX 14 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM2">
+                    <media xlink:href="12903_2018_475_MOESM2_ESM.docx">
+                      <label>Additional file 2:</label>
+                      <caption>
+                        <p>Questionnaire part I. (DOCX 22 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM3">
+                    <media xlink:href="12903_2018_475_MOESM3_ESM.docx">
+                      <label>Additional file 3:</label>
+                      <caption>
+                        <p>Questionnaire part II. (DOCX 67 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM4">
+                    <media xlink:href="12903_2018_475_MOESM4_ESM.docx">
+                      <label>Additional file 4:</label>
+                      <caption>
+                        <p>Questionnaire part III. (DOCX 25 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM5">
+                    <media xlink:href="12903_2018_475_MOESM5_ESM.docx">
+                      <label>Additional file 5:</label>
+                      <caption>
+                        <p>Figure SPIRIT Schedule of enrolment, interventions, and assessments. (DOCX 16 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM6">
+                    <media xlink:href="12903_2018_475_MOESM6_ESM.docx">
+                      <label>Additional file 6:</label>
+                      <caption>
+                        <p>SPIRIT Checklist. (DOCX 50 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM7">
+                    <media xlink:href="12903_2018_475_MOESM7_ESM.pdf">
+                      <label>Additional file 7:</label>
+                      <caption>
+                        <p>A copy of the proof of funding. (PDF 292 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM8">
+                    <media xlink:href="12903_2018_475_MOESM8_ESM.pdf">
+                      <label>Additional file 8:</label>
+                      <caption>
+                        <p>A copy of the proof ethics (METC protocol. nr 2016.162). PDF (42 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>ACTA</term>
+                  <def>
+                    <p id="Par5">Academic centre for Dentistry Amsterdam</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>App</term>
+                  <def>
+                    <p id="Par6">Application</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BCTs</term>
+                  <def>
+                    <p id="Par7">Behavior Change Techniques</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BOMP</term>
+                  <def>
+                    <p id="Par8">Bleeding On Marginal Probing index</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CONSORT</term>
+                  <def>
+                    <p id="Par9">Consolidated Standards of Reporting Trials</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HAPA</term>
+                  <def>
+                    <p id="Par10">Health Action Process Approach</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>METC</term>
+                  <def>
+                    <p id="Par11">Medical Ethics Committee</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>PI</term>
+                  <def>
+                    <p id="Par12">Modified Silness and Loë Plaque Index</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>RCT</term>
+                  <def>
+                    <p id="Par13">Randomized Controlled Trial</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SPIRIT</term>
+                  <def>
+                    <p id="Par14">Standard Protocol Items: Recommendations for Intervention Trials</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Electronic supplementary material</bold>
+                </p>
+                <p>The online version of this article (10.1186/s12903-018-0475-9) contains supplementary material, which is available to authorized users.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors would like to Irene Aartman and Boris de Ruyter, Helle Ullerup, and Marko de Jager for valuable comments on an earlier version of the protocol. We would like to thank Alex Laan for programming the WhiteTeeth app and David Alexander for his careful reading of the manuscript.</p>
+              <sec id="FPar1">
+                <title>Funding</title>
+                <p id="Par64">The study will be financed by Inholland University of Applied Sciences, Academic Centre for Dentistry Amsterdam (ACTA), University of Amsterdam and Vrije Universiteit Amsterdam (see Additional file <xref rid="MOESM7" ref-type="media">7</xref>).</p>
+              </sec>
+              <sec id="FPar2">
+                <title>Availability of data and materials</title>
+                <p id="Par65">Upon reasonable request, the datasets used and/or analyzed during the current study will be available from the corresponding author.</p>
+              </sec>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>JS (principal researcher) wrote the first draft of the protocol. All authors contributed to the development of the protocol through its various amendments. JS, GK, MvdB and CvL (co-principal researcher) are responsible for study coordination. JS designed the evaluation and was responsible for obtaining ethical approval for the trial. All authors contributed to the writing of the manuscript and read and approved its final version.</p>
+            </notes>
+            <notes notes-type="COI-statement">
+              <sec id="FPar3">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par66">All procedures will be carried out in compliance with the Helsinki Declaration. The study was approved by the Medical Ethics Committee (METC) at VU Medical Centre Amsterdam (protocol. nr. 2016.162, see Additional file <xref rid="MOESM8" ref-type="media">8</xref>). Before the start of the study, written informed consent will be obtained from each patient and one of their parents (or guardians). All information about the participants will be kept strictly confidential. Clinicians will inform the patients and their parents that participation in the study is entirely voluntary and that, if they refuse, their decision will not affect the care as usual they receive. All patients will also be informed of their right to withdraw from the trial whenever they desire without giving the researchers any reason for their decision.</p>
+              </sec>
+              <sec id="FPar4">
+                <title>Consent for publication</title>
+                <p id="Par67">Not applicable.</p>
+              </sec>
+              <sec id="FPar5">
+                <title>Competing interests</title>
+                <p id="Par68">The authors declare that they have no competing interests.</p>
+              </sec>
+              <sec id="FPar6">
+                <title>Publisher’s Note</title>
+                <p id="Par69">Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </sec>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <mixed-citation publication-type="other">Schuller AA, van Kempen CPF, Poorterman JHG, Verrips GHW. Kies voor tanden. Een onderzoek naar mondgezondheid en preventief tandheelkundig gedrag van jeugdigen. Hoofdmeting 2011, een vervolg op de reeks TJZ-onderzoeken. Leiden, TNO, 2013;44. <ext-link ext-link-type="uri" xlink:href="http://staatvandemondzorg.nl/app/uploads/2016/09/sign-mondzorg-2013_jeugd.pdf">http://staatvandemondzorg.nl/app/uploads/2016/09/sign-mondzorg-2013_jeugd.pdf</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6wpao0z3u">http://www.webcitation.org/6wpao0z3u</ext-link>. Accessed 27 Dec 2016.</mixed-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chapman</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts</surname>
+                      <given-names>WE</given-names>
+                    </name>
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Kula</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>González-Cabezas</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Risk factors for incidence and severity of white spot lesions during treatment with fixed orthodontic appliances</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>2010</year>
+                  <volume>138</volume>
+                  <fpage>188</fpage>
+                  <lpage>194</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ajodo.2008.10.019</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lovrov</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Hertrich</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirschfelder</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Enamel demineralization during fixed orthodontic treatment – incidence and correlation to various oral-hygiene parameters</article-title>
+                  <source>J Orofac Orthop</source>
+                  <year>2007</year>
+                  <volume>68</volume>
+                  <fpage>353</fpage>
+                  <lpage>363</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00056-007-0714-1</pub-id>
+                  <?supplied-pmid 17882363?>
+                  <pub-id pub-id-type="pmid">17882363</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gorelick</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Geiger</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gwinnett</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Incidence of white spot formation after bonding and banding</article-title>
+                  <source>Am J Orthod</source>
+                  <year>1982</year>
+                  <volume>81</volume>
+                  <fpage>93</fpage>
+                  <lpage>98</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0002-9416(82)90032-X</pub-id>
+                  <?supplied-pmid 6758594?>
+                  <pub-id pub-id-type="pmid">6758594</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Boersma</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Der Veen</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Lagerweij</surname>
+                      <given-names>MD</given-names>
+                    </name>
+                    <name>
+                      <surname>Bokhout</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Prahl-Andersen</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries prevalence measured with QLF after treatment with fixed orthodontic appliances: influencing factors</article-title>
+                  <source>Caries Res</source>
+                  <year>2005</year>
+                  <volume>39</volume>
+                  <fpage>41</fpage>
+                  <lpage>47</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000081655</pub-id>
+                  <?supplied-pmid 15591733?>
+                  <pub-id pub-id-type="pmid">15591733</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Øgaard</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of white spot lesions in 19-years-olds; a study on untreated and orthodontically treated persons 5 years after treatment</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>1989</year>
+                  <volume>96</volume>
+                  <fpage>423</fpage>
+                  <lpage>427</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0889-5406(89)90327-2</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <mixed-citation publication-type="other">Shungin D, Olsson AI, Persson M. Orthodontic treatment related white spot lesions: a 14-year prospective quantitative follow-up, including bonding material assessment. Am J Orthod Dentofac Orthop 2010;138:136.e1–136.e8. doi.org/10.1016/j.ajodo.2009.05.020.</mixed-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Axelson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of oral hygiene instruction and pro- fessional toothcleaning on caries and gingivitis in schoolchildren</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>1981</year>
+                  <volume>9</volume>
+                  <fpage>251</fpage>
+                  <lpage>255</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1981.tb00340.x</pub-id>
+                  <pub-id pub-id-type="pmid">6955123</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kerbusch</surname>
+                      <given-names>AEG</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuijpers-Jagtman</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Mulder</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sanden der</surname>
+                      <given-names>WJVD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Methods used for prevention of white spot lesion development during orthodontic treatment with fixed appliances</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2012</year>
+                  <volume>70</volume>
+                  <fpage>564</fpage>
+                  <lpage>568</lpage>
+                  <pub-id pub-id-type="doi">10.3109/00016357.2011.640282</pub-id>
+                  <?supplied-pmid 22250977?>
+                  <pub-id pub-id-type="pmid">22250977</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zachrisson</surname>
+                      <given-names>BU</given-names>
+                    </name>
+                    <name>
+                      <surname>Zachrisson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries incidence and oral hygiene during orthodontic treatment</article-title>
+                  <source>Scand J Dent Res</source>
+                  <year>1971</year>
+                  <volume>79</volume>
+                  <fpage>394</fpage>
+                  <lpage>401</lpage>
+                  <?supplied-pmid 5288673?>
+                  <pub-id pub-id-type="pmid">5288673</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Geiger</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gorelick</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Gwinnett</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Benson</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reducing white spot lesions in orthodontic populations with fluoride rinsing</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>1992</year>
+                  <volume>101</volume>
+                  <fpage>403</fpage>
+                  <lpage>407</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0889-5406(92)70112-N</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Geiger</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gorelick</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Gwinnett</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Griswold</surname>
+                      <given-names>PG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of a fluoride program on white spot formation during orthodontic treatment</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>1988</year>
+                  <volume>93</volume>
+                  <fpage>29</fpage>
+                  <lpage>37</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0889-5406(88)90190-4</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Derks</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuijpers-Jagtman</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Frencken</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Van’t Hof</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Katsaros</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries preventive measures used in orthodontic practices: an evidence-based decision?</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>2007</year>
+                  <volume>132</volume>
+                  <fpage>165</fpage>
+                  <lpage>170</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ajodo.2005.10.028</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mehra</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Nanda</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Sinha</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Orthodontists' Assessment and management of patient compliance</article-title>
+                  <source>Angle Orthod</source>
+                  <year>1998</year>
+                  <volume>68</volume>
+                  <fpage>115</fpage>
+                  <lpage>122</lpage>
+                  <?supplied-pmid 9564420?>
+                  <pub-id pub-id-type="pmid">9564420</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <mixed-citation publication-type="other">JFM S, Empelen Van P, C L v, Pakpour AH, B M v, Gholami M, Mierzaie Z, van den MTC B, GHW V. An application of the health action process approach model to oral hygiene behaviour and dental plaque in adolescents with fixed orthodontic appliances. Int J Pediatr Dent. 2017; in press</mixed-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <mixed-citation publication-type="other">International Telecommunication Union (ITU). ICT Facts &amp; Figures: The World in 2015. Geneva, Switzerland: ITU; 2015. www. itu. int/ en/ ITU- D/ Statistics/ Documents/ facts/ ICTFactsFigures20 15. Pdf. Accessed 27 Dec 2016.</mixed-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <mixed-citation publication-type="other">Pew Research Center. Emerging Nations Embrace Internet, Mobile Technology. Washington, DC: Pew Research Center; 2014. Www. pewglobal. org/ fi les/ 2014/ 02/ Pew- Research- Center- Global- Attitudes Project- Technology- Report- FINALFebruary- 13- 20147. Pdf.http://www.webcitation.org/6wpb6OjE8 Accessed 27 Dec 2016.</mixed-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <mixed-citation publication-type="other">Netherlands GK. "GfK trends in Digital Media &amp; Entertaiment" as cited in press release. June. 2015;18 <ext-link ext-link-type="uri" xlink:href="http://www.gfk.com/nl/insights/press-release/bijna-alle-jongeren-bezitten-een-smartphone">http://www.gfk.com/nl/insights/press-release/bijna-alle-jongeren-bezitten-een-smartphone</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6wpZoWSP0">http://www.webcitation.org/6wpZoWSP0</ext-link>. Accessed 27 Dec 2016.</mixed-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bartholomew</surname>
+                      <given-names>LK</given-names>
+                    </name>
+                    <name>
+                      <surname>Parcel</surname>
+                      <given-names>GS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kok</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Gottlieb</surname>
+                      <given-names>NH</given-names>
+                    </name>
+                    <name>
+                      <surname>Fernandez</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                  </person-group>
+                  <source>Planning health promotion programs: an intervention mapping approach</source>
+                  <year>2011</year>
+                  <publisher-loc>San Francisco, CA</publisher-loc>
+                  <publisher-name>John Wiley &amp; Sons</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Scheerman</surname>
+                      <given-names>JFM</given-names>
+                    </name>
+                    <name>
+                      <surname>Loveren</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Meijel</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Dusseldorp</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Wartewig</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Verrips</surname>
+                      <given-names>GHW</given-names>
+                    </name>
+                    <name>
+                      <surname>Ket</surname>
+                      <given-names>JCF</given-names>
+                    </name>
+                    <name>
+                      <surname>Empelen</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Psychosocial correlates of oral hygiene behaviour in people aged 9 to 19 – a systematic review with meta-analysis</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2016</year>
+                  <volume>44</volume>
+                  <fpage>331</fpage>
+                  <lpage>341</lpage>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12224</pub-id>
+                  <?supplied-pmid 26952723?>
+                  <pub-id pub-id-type="pmid">26952723</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Modeling</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Health behavior change: how to predict and modify the adoption and maintenance of health behaviors</article-title>
+                  <source>Appl Psychol</source>
+                  <year>2008</year>
+                  <volume>57</volume>
+                  <fpage>1</fpage>
+                  <lpage>29</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tougher-Decker</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Loveren</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Sugars and dental caries</article-title>
+                  <source>Am J Clinic Nutr</source>
+                  <year>2003</year>
+                  <volume>78</volume>
+                  <fpage>881S</fpage>
+                  <lpage>892S</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ajcn/78.4.881S</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Michie</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnston</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Francis</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Hardeman</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Eccles</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>From theory to intervention: mapping theoretically derived behavioural determinants to behaviour change techniques</article-title>
+                  <source>Appl Psychol</source>
+                  <year>2008</year>
+                  <volume>57</volume>
+                  <fpage>660</fpage>
+                  <lpage>680</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1464-0597.2008.00341.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kok</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Gottlieb</surname>
+                      <given-names>NH</given-names>
+                    </name>
+                    <name>
+                      <surname>Peters</surname>
+                      <given-names>GJY</given-names>
+                    </name>
+                    <name>
+                      <surname>Mullen</surname>
+                      <given-names>PD</given-names>
+                    </name>
+                    <name>
+                      <surname>Parcel</surname>
+                      <given-names>GS</given-names>
+                    </name>
+                    <name>
+                      <surname>Ruiter</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Fernandez</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Markham</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Bartholomew</surname>
+                      <given-names>LK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A taxonomy of behaviour change methods: an intervention mapping approach</article-title>
+                  <source>Health Psychol Rev</source>
+                  <year>2015</year>
+                  <volume>10</volume>
+                  <fpage>1</fpage>
+                  <lpage>16</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Boyd</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Longitudinal evaluation of a system for self-monitoring plaque control effectiveness in orthodontic patients</article-title>
+                  <source>J Clinic Periodontol</source>
+                  <year>1983</year>
+                  <volume>10</volume>
+                  <fpage>380</fpage>
+                  <lpage>388</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1983.tb01287.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schwarzer</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Antoniuk</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Gholami</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A brief intervention changing oral self-care, self-efficacy, and self-monitoring</article-title>
+                  <source>Br J Health Psychol</source>
+                  <year>2015</year>
+                  <volume>20</volume>
+                  <fpage>56</fpage>
+                  <lpage>67</lpage>
+                  <pub-id pub-id-type="doi">10.1111/bjhp.12091</pub-id>
+                  <?supplied-pmid 24471473?>
+                  <pub-id pub-id-type="pmid">24471473</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gollwitzer</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheeran</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Implementation intentions and goal achievement: a meta-analysis of effects and processes</article-title>
+                  <source>Advance Exp Social Psychol</source>
+                  <year>2006</year>
+                  <volume>38</volume>
+                  <fpage>69</fpage>
+                  <lpage>119</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0065-2601(06)38002-1</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gallo</surname>
+                      <given-names>IS</given-names>
+                    </name>
+                    <name>
+                      <surname>Gollwitzer</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Implementation Intentions: a look back at fifteen years of progress</article-title>
+                  <source>Psicothema</source>
+                  <year>2007</year>
+                  <volume>19</volume>
+                  <fpage>37</fpage>
+                  <lpage>42</lpage>
+                  <pub-id pub-id-type="pmid">17295981</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Armitage</surname>
+                      <given-names>CJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A volitional help sheet to encourage smoking cessation: a randomized exploratory trial</article-title>
+                  <source>Health Psychol</source>
+                  <year>2008</year>
+                  <volume>27</volume>
+                  <fpage>557</fpage>
+                  <lpage>566</lpage>
+                  <pub-id pub-id-type="doi">10.1037/0278-6133.27.5.557</pub-id>
+                  <?supplied-pmid 18823182?>
+                  <pub-id pub-id-type="pmid">18823182</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brent Bowen</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Rinchuse</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Zullo</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>ME</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The influence of text messaging on oral hygiene effectiveness</article-title>
+                  <source>Angle Orthod.</source>
+                  <year>2014</year>
+                  <volume>85</volume>
+                  <fpage>543</fpage>
+                  <lpage>548</lpage>
+                  <pub-id pub-id-type="doi">10.2319/071514-495.1</pub-id>
+                  <?supplied-pmid 25343689?>
+                  <pub-id pub-id-type="pmid">25343689</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <mixed-citation publication-type="other">Jejurikar H, Nene S, Kalia A, Gupta G, Mirdehghan N. Does text messaging reminder help in the orthodontic compliance of patients to maintain their oral hygiene. Oral Hyg Health. 2014; 10.4172/2332-0702.1000152.</mixed-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pakpour</surname>
+                      <given-names>AH</given-names>
+                    </name>
+                    <name>
+                      <surname>Hidarnia</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Hajizadeh</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Plotnikoff</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Action and coping planning with regard to dental brushing among Iranian adolescents</article-title>
+                  <source>Psychol Health Med</source>
+                  <year>2012</year>
+                  <volume>17</volume>
+                  <fpage>176</fpage>
+                  <lpage>187</lpage>
+                  <pub-id pub-id-type="doi">10.1080/13548506.2011.596551</pub-id>
+                  <?supplied-pmid 21777092?>
+                  <pub-id pub-id-type="pmid">21777092</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tolvanen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Lahti</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Miettunen</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Hausen</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Relationship between oral health-related knowledge, attitudes and behavior among 15–16-year-old adolescents—a structural equation modeling approach</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2012</year>
+                  <volume>70</volume>
+                  <fpage>169</fpage>
+                  <lpage>176</lpage>
+                  <pub-id pub-id-type="doi">10.3109/00016357.2011.600722</pub-id>
+                  <?supplied-pmid 21793645?>
+                  <pub-id pub-id-type="pmid">21793645</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schwarzer</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Schüz</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziegelmann</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Lippke</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Luszczynska</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Scholz</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Adoption and maintenance of four health behaviors: theory-guided longitudinal studies on dental flossing, seat belt use, dietary behavior, and physical activity</article-title>
+                  <source>Ann Behav Med</source>
+                  <year>2007</year>
+                  <volume>33</volume>
+                  <fpage>156</fpage>
+                  <lpage>166</lpage>
+                  <pub-id pub-id-type="doi">10.1007/BF02879897</pub-id>
+                  <?supplied-pmid 17447868?>
+                  <pub-id pub-id-type="pmid">17447868</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Al-Anezi</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>NWT</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Quantifying Plaque during orthodontic treatment: a systematic review</article-title>
+                  <source>Angle Orthod</source>
+                  <year>2011</year>
+                  <volume>82</volume>
+                  <fpage>748</fpage>
+                  <lpage>753</lpage>
+                  <pub-id pub-id-type="doi">10.2319/050111-312.1</pub-id>
+                  <?supplied-pmid 22044115?>
+                  <pub-id pub-id-type="pmid">22044115</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Williams</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Clerehugh</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Worthington</surname>
+                      <given-names>HV</given-names>
+                    </name>
+                    <name>
+                      <surname>Shaw</surname>
+                      <given-names>WC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison Of two plaque indices for use in fixed orthodontic appliance patients</article-title>
+                  <source>J Dent Res</source>
+                  <year>1991</year>
+                  <volume>70</volume>
+                  <fpage>703</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Van der Weijden</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Timmerman Nijboer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Reijerse</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Van der Velden</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of different approaches to assess bleeding on probing as indicators of gingivitis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1994</year>
+                  <volume>21</volume>
+                  <fpage>589</fpage>
+                  <lpage>594</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1994.tb00748.x</pub-id>
+                  <?supplied-pmid 7806674?>
+                  <pub-id pub-id-type="pmid">7806674</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zotti</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Dalessandri</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Salgarello</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Piancino</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bonetti</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Visconti</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Paganelli</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Usefulness of an app in improving oral hygiene compliance in adolescent orthodontic patients</article-title>
+                  <source>Angle Orthod</source>
+                  <year>2015</year>
+                  <volume>86</volume>
+                  <fpage>101</fpage>
+                  <lpage>107</lpage>
+                  <pub-id pub-id-type="doi">10.2319/010915-19.1</pub-id>
+                  <?supplied-pmid 25799001?>
+                  <pub-id pub-id-type="pmid">25799001</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Faul</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Erdfelder</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Buchner</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>A-G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Statistical power analyses using G*power 3.1: tests for correlation and regression analyses</article-title>
+                  <source>Behav Res Methods</source>
+                  <year>2009</year>
+                  <volume>41</volume>
+                  <fpage>1149</fpage>
+                  <lpage>1160</lpage>
+                  <pub-id pub-id-type="doi">10.3758/BRM.41.4.1149</pub-id>
+                  <?supplied-pmid 19897823?>
+                  <pub-id pub-id-type="pmid">19897823</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Baron</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Kenny</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The moderator-mediator variable distinction in social psychological research: conceptual, strategic and statistical considerations</article-title>
+                  <source>J Pers Soc Psychol</source>
+                  <year>1986</year>
+                  <volume>51</volume>
+                  <fpage>1173</fpage>
+                  <lpage>1182</lpage>
+                  <pub-id pub-id-type="doi">10.1037/0022-3514.51.6.1173</pub-id>
+                  <?supplied-pmid 3806354?>
+                  <pub-id pub-id-type="pmid">3806354</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <mixed-citation publication-type="other">Sobel ME. Asymptotic confidence intervals for indirect effects in structural equation models. Sociol Methodol. 1982;13:290–12.</mixed-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>AW</given-names>
+                    </name>
+                    <name>
+                      <surname>Tetzlaff</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gøtzsche</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                    <name>
+                      <surname>Mann</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Berlin</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Krleža-Jerić</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials</article-title>
+                  <source>BMJ</source>
+                  <year>2013</year>
+                  <volume>346</volume>
+                  <fpage>e7586</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.e7586</pub-id>
+                  <?supplied-pmid 23303884?>
+                  <pub-id pub-id-type="pmid">23303884</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulz</surname>
+                      <given-names>KF</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                    <name>
+                      <surname>Moher</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</article-title>
+                  <source>J Pharmacol Pharmacother</source>
+                  <year>2010</year>
+                  <volume>1</volume>
+                  <fpage>100</fpage>
+                  <lpage>107</lpage>
+                  <pub-id pub-id-type="doi">10.4103/0976-500X.72352</pub-id>
+                  <?supplied-pmid 21350618?>
+                  <pub-id pub-id-type="pmid">21350618</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Publishing</surname>
+                      <given-names>GF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Study protocols: making them more visible will improve registration, reporting and recruitment. BMC</article-title>
+                  <source>News Views</source>
+                  <year>2001</year>
+                  <volume>2</volume>
+                  <fpage>4</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wilding</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Conner</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sandberg</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Prestwich</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lawton</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Wood</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Miles</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Godin</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheeran</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The question-behaviour effect: a theoretical and methodological review and meta-analysis</article-title>
+                  <source>Eur Rev Soc Psychol</source>
+                  <year>2016</year>
+                  <volume>27</volume>
+                  <fpage>196</fpage>
+                  <lpage>230</lpage>
+                  <pub-id pub-id-type="doi">10.1080/10463283.2016.1245940</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Löe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral hygiene in the prevention of caries and periodontal disease</article-title>
+                  <source>Int Dent J</source>
+                  <year>2000</year>
+                  <volume>50</volume>
+                  <fpage>129</fpage>
+                  <lpage>139</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1875-595X.2000.tb00553.x</pub-id>
+                  <?supplied-pmid 10967765?>
+                  <pub-id pub-id-type="pmid">10967765</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gardner</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Lally</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Wardle</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Making health habitual: the psychology of “habit-formation” and general practice</article-title>
+                  <source>Br J Gen Pract</source>
+                  <year>2012</year>
+                  <volume>62</volume>
+                  <issue>605</issue>
+                  <fpage>664</fpage>
+                  <lpage>666</lpage>
+                  <pub-id pub-id-type="doi">10.3399/bjgp12X659466</pub-id>
+                  <?supplied-pmid 23211256?>
+                  <pub-id pub-id-type="pmid">23211256</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

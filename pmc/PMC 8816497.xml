@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:43:05Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8816497" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8816497</identifier>
+        <datestamp>2022-02-16</datestamp>
+        <setSpec>springeropen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Investig</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Investig</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Investigations</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1432-6981</issn>
+              <issn pub-type="epub">1436-3771</issn>
+              <publisher>
+                <publisher-name>Springer Berlin Heidelberg</publisher-name>
+                <publisher-loc>Berlin/Heidelberg</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8816497</article-id>
+              <article-id pub-id-type="pmcid">PMC8816497</article-id>
+              <article-id pub-id-type="pmc-uid">8816497</article-id>
+              <article-id pub-id-type="pmid">34383142</article-id>
+              <article-id pub-id-type="pmid">34383142</article-id>
+              <article-id pub-id-type="publisher-id">4093</article-id>
+              <article-id pub-id-type="doi">10.1007/s00784-021-04093-2</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Expression of inflammatory mediators in biofilm samples and clinical association in inflammatory bowel disease patients—a preliminary study</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8295-9714</contrib-id>
+                  <name>
+                    <surname>Buchbender</surname>
+                    <given-names>Mayte</given-names>
+                  </name>
+                  <address>
+                    <email>mayte.buchbender@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Fehlhofer</surname>
+                    <given-names>Jakob</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Proff</surname>
+                    <given-names>Peter</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Möst</surname>
+                    <given-names>Tobias</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ries</surname>
+                    <given-names>Jutta</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hannig</surname>
+                    <given-names>Matthias</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Neurath</surname>
+                    <given-names>Markus F.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gund</surname>
+                    <given-names>Madline</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Atreya</surname>
+                    <given-names>Raja</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kesting</surname>
+                    <given-names>Marco</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.5330.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 2107 3311</institution-id><institution>Department of Oral and Maxillofacial Surgery, </institution><institution>University of Erlangen- Nuremberg, </institution></institution-wrap>Glückstrasse 11, 91054 Erlangen, Germany </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.7727.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 2190 5763</institution-id><institution>Head of the Department of Orthodontics, </institution><institution>University of Regensburg, </institution></institution-wrap>Regensburg, Germany </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.11749.3a</institution-id><institution-id institution-id-type="ISNI">0000 0001 2167 7588</institution-id><institution>Head of Department of Clinic of Operative Dentistry, Periodontology and Preventive Dentistry, </institution><institution>Saarland University, </institution></institution-wrap>Homburg, Germany </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.5330.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 2107 3311</institution-id><institution>Department of Medicine, </institution><institution>University of Erlangen-Nuremberg, </institution></institution-wrap>Erlangen, Germany </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.5330.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 2107 3311</institution-id><institution>Deutsches Zentrum Immuntherapie DZI, </institution><institution>University of Erlangen-Nuremberg, </institution></institution-wrap>Erlangen, Germany </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.11749.3a</institution-id><institution-id institution-id-type="ISNI">0000 0001 2167 7588</institution-id><institution>Department of Clinic of Operative Dentistry, Periodontology and Preventive Dentistry, </institution><institution>Saarland University, </institution></institution-wrap>Homburg, Germany </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>12</day>
+                <month>8</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>12</day>
+                <month>8</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <year>2022</year>
+              </pub-date>
+              <volume>26</volume>
+              <issue>2</issue>
+              <fpage>1217</fpage>
+              <lpage>1228</lpage>
+              <history>
+                <date date-type="received">
+                  <day>22</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>19</day>
+                  <month>7</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Objectives</title>
+                  <p id="Par1">Inflammatory bowel disease (IBD) has multiple impacts on soft and hard tissues in the oral cavity. The aim of this study was to analyze the expression of cytokines in biofilm samples from patients suffering from IBD and compare them to healthy patients. It was hypothesized that different cytokine expression levels and clinical associations might be drawn.</p>
+                </sec>
+                <sec>
+                  <title>Material and methods</title>
+                  <p id="Par2">A total of 56 biofilm samples from three different patient cohorts (group 0 = healthy, HC <italic>n</italic> = 30; group 1 = Crohn’s disease, CD, <italic>n</italic> = 19; group 2 = ulcerative colitis, UC, <italic>n</italic> = 7) were examined for the expression levels of the cytokine interleukins IL-2, -6, and -10; matrix metalloproteinases 7 and 9; and surface antigens CD90/CD11a by quantitative real-time PCR and according to clinical parameters (plaque index, BOP, PD, DMFT, CAL). Relative gene expression was determined using the ∆∆CT method.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">The mean BOP values (<italic>p</italic> = 0.001) and PD (<italic>p</italic> = 0.000) were significantly higher in the CD group compared to controls. Expression of IL-10 was significantly higher in the CD (<italic>p</italic> = 0.004) and UC groups (<italic>p</italic> = 0.022). Expression of MMP-7 was significantly higher in the CD group (<italic>p</italic> = 0.032). IBD patients treated with TNF inhibitors (<italic>p</italic> = 0.007) or other immunosuppressants (<italic>p</italic> = 0.014) showed significant overexpression of IL-10 compared to controls.</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p id="Par4">Different expression levels of IL-10 and MMP-7 were detected in plaque samples from IBD patients. As only BOP was significantly increased, we conclude that no clinical impairment of periodontal tissue occurred in IBD patients.</p>
+                </sec>
+                <sec>
+                  <title>Clinical relevance</title>
+                  <p id="Par5">With the worldwide increasing incidence of IBD, it is important to obtain insights into the effects of the disease on the oral cavity. The study was registered (01.09.2020) at the German clinical trial registry (DRKS00022956).</p>
+                </sec>
+                <sec>
+                  <title>Clinical trial registration</title>
+                  <p id="Par6">The study is registered at the German clinical trial registry (DRKS00022956).</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Crohn’s disease</kwd>
+                <kwd>Ulcerative colitis</kwd>
+                <kwd>Cytokine expression</kwd>
+                <kwd>Oral biofilm</kwd>
+                <kwd>Periodontitis</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Deutsche Forschungsgesellschaft DFG</institution>
+                  </funding-source>
+                  <award-id>DFG-SFB/TRR241</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Atreya</surname>
+                      <given-names>Raja</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Friedrich-Alexander-Universität Erlangen-Nürnberg (1041)</institution>
+                  </funding-source>
+                </award-group>
+                <open-access>
+                  <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+                </open-access>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© Springer-Verlag GmbH Germany, part of Springer Nature 2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par7">Inflammatory bowel diseases (IBD) include two major subtypes: Crohn’s disease (CD) and ulcerative colitis (UC), which can affect the entire gastrointestinal tract. These types of chronic IBD are diagnosed by correlating clinical, radiological, endoscopic and histopathological findings and present a chronically relapsing or remitting course (<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>). The highest age-specific incidence of IBD occurs in the second to third decade of life and is reported to be approximately 100–200 per 100,000 for UC and 6.6 per 100,000 for CD (<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR4">4</xref>).</p>
+              <p id="Par8">The etiology of IBD is multifactorial and triggered by many factors, with immunological dysfunction ultimately underlying its development (<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>). The literature currently discusses the influence of the local microbiological gut flora and the influence of environmental factors, like nicotine consumption, which can cause serious deterioration in disease symptoms those with CD but has been shown to have a protective effect on clinical activity in those with UC (<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>). Changes in the oral mucosa (e.g., fistulas, stomatitis, cobblestone mucosa) as a specific (direct consequence of IBD) or non-specific consequence (e.g., malnutrition or malabsorption) and changes in the periodontium can also be observed (<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>).</p>
+              <p id="Par9">Periodontitis (P) is defined as a “dysbiotic inflammatory disease” in which an imbalance between pathogenic and protective bacteria causes dysregulation of the immune response, leading to an excessive inflammatory reaction and thus periodontitis (<xref ref-type="bibr" rid="CR12">12</xref>).</p>
+              <p id="Par10">Accordingly, clinical studies have shown a correlation between the increased incidence of periodontitis and IBD. A systematic review including 9 studies with a total of 1297 patients showed that CD patients had a higher incidence of pocket depth (PD &gt; 3 mm) and a higher DMFT (decayed-missing-filled-teeth) index (<xref ref-type="bibr" rid="CR4">4</xref>). Another study showed no association between periodontitis and IBD in 16 UC and 46 CD patients according to the parameters (bleeding on probing (BOP), PD, clinical attachment loss (CAL) and plaque index (PI)). However, overall, plaque accumulation and the incidence of oral lesions were increased in the patients (<xref ref-type="bibr" rid="CR13">13</xref>).</p>
+              <p id="Par11">Another study included a healthy control group (<italic>n</italic> = 74) and found a correlation between periodontitis and IBD according to the parameters CAL, PD and PI; the authors concluded that there was increased periodontitis prevalence in UC patients (<italic>n</italic> = 80) compared to that in CD (<italic>n</italic> = 99) patients (<xref ref-type="bibr" rid="CR14">14</xref>). The question is how the clinically observed elevated parameters are related to the inflammatory mediators responsible for them in IBD patients.</p>
+              <p id="Par12">In CD, the Th1 cell-associated cytokines IFN-γ and IL-2 are more expressed than in UC and healthy controls, while mucosal cells in UC have been shown to produce the Th2-type cytokines IL-5 and IL-13 (<xref ref-type="bibr" rid="CR10">10</xref>–<xref ref-type="bibr" rid="CR13">13</xref>). Several studies have shown that there is increased production of Th17 cell-associated cytokines, such as IL-17A and IL-17F, by mucosal T cells in both CD and UC. Furthermore, previous data has shown that there is a correlation between the oral presence of cytokines such as IL-6 and IL-17 in extra-intestinal manifestations in UC or active CD or IL-12 and TNF in extra-intestinal manifestations in CD or in complicated UC (<xref ref-type="bibr" rid="CR14">14</xref>–<xref ref-type="bibr" rid="CR17">17</xref>).</p>
+              <p id="Par13">In the oral cavity the immune response to pathogens is also triggered by various immune cells and humoural mediators, such as cytokines (<xref ref-type="bibr" rid="CR15">15</xref>). Cytokine expression in the gingival complex has already been studied, and an increase in pro-inflammatory cytokines such as IL-1ß, -2, -6, -8, tumor necrosis factor (TNF), and interferon-gamma (IFN-γ) has been shown (<xref ref-type="bibr" rid="CR15">15</xref>–<xref ref-type="bibr" rid="CR17">17</xref>).</p>
+              <p id="Par14">Elevated cytokine levels of IL-6 and TNF in saliva have been shown to be correlated with oral mucosal changes in CD patients and to be equally elevated in periodontitis patients, so it is believed that there are correlations between mucosal changes and the severity and degree of periodontitis based on this evidence, which could also be due to common genetic background between these two entities (<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR18">18</xref>–<xref ref-type="bibr" rid="CR20">20</xref>).</p>
+              <p id="Par15">After the gut microbiome, the oral cavity has the second largest microbiome presence (<xref ref-type="bibr" rid="CR21">21</xref>–<xref ref-type="bibr" rid="CR23">23</xref>). Because of the large microbiome and anatomy of the oral cavity, a broad microbial complexity can be found in meta-niches, such as saliva, the palate, the tongue or hard tissue samples of supra-/subgingival plaque (<xref ref-type="bibr" rid="CR24">24</xref>). In a previous study, higher levels of anti- and pro-inflammatory cytokines in supra-and subgingival plaque sample (granulocyte–macrophage colony-stimulating factor GM-CSF, IFN-γ, IL-4, -6, -8, -10) were found in healthy patients, where niches such as saliva, the tongue, the hard palate, the cheek, and the sublingual area were compared (<xref ref-type="bibr" rid="CR24">24</xref>).</p>
+              <p id="Par16">However, the expression of inflammatory markers within the oral cavity and correlation to clinical parameters in IBD patients remains unclear. Hence, we hypothesize that IBD patients have different cytokine expression compared to that in healthy individuals. Thus, in this study, the expression of cytokines in biofilm samples of patients with UC or CD was clinically examined and compared to that in healthy controls.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Material and methods</title>
+              <sec id="Sec3">
+                <title>Study design and patient selection</title>
+                <p id="Par17">This observational prospective cohort study reports patients with either ulcerative colitis or Crohn’s disease in comparison to healthy control patients. The patients included in this study presented with either of these diseases and the healthy ones randomly and seeking for dental treatment to the Department of Oral and Maxillofacial Surgery, University of Erlangen-Nuremberg, from March 2019 to December 2020. The diagnosis of CD or UC was made by the Medical Department 1 for gastroenterology of the University Hospital Erlangen from histopathological, radiological, clinical and endoscopic results. Patients were referred to the oral and maxillofacial surgery department during their follow-up after assessment of the current disease activity (as described below).</p>
+                <p id="Par18">Ethical approval (no.: 399_18 B) for this study was obtained from the ethics committee of the medical faculty of Friedrich-Alexander University Erlangen-Nuremberg, Germany, and the guidelines of the Declaration Helsinki were followed. The study was also registered in the German clinical trial registry (DRKS00022956). After obtaining signed informed consent, patients of all ages and of both sexes were included. The included patients were examined for one hour during one visit and were assigned to group 0 (healthy control, HC), group 1 (patients suffering of Crohn’s disease, CD) and group 2 (patients suffering of ulcerative colitis, UC) according to their underlying disease, respective missing disease.</p>
+                <p id="Par19">The exclusion criteria for all patients of groups 0, 1, and 2 were:<list list-type="bullet"><list-item><p id="Par20">Smoking/nicotine abuse</p></list-item><list-item><p id="Par21">Diabetes type I and II</p></list-item><list-item><p id="Par22">Already diagnosed with periodontitis or had already undergone periodontitis treatment (ever)</p></list-item><list-item><p id="Par23">Poor general health that did not permit a detailed dental examination</p></list-item><list-item><p id="Par24">Toothlessness</p></list-item><list-item><p id="Par25">Prior antibiotic treatment (neither systemic nor local administration at least 4 weeks)</p></list-item></list></p>
+              </sec>
+              <sec id="Sec4">
+                <title>Clinical examination and sampling procedures</title>
+                <p id="Par26">All the sampling procedures and clinical parameters were performed and assessed by one dentist (J.F) according to a standardized procedure during the initial presentation of patients to the Department of Oral and Maxillofacial Surgery.</p>
+                <p id="Par27">The following clinical parameters were collected:<list list-type="bullet"><list-item><p id="Par28">Mombelli Plaque Index (PI), graded from 0 to 3 (grade 0: no plaque detected by inspection or probing; grade 1: accumulation of plaque was visible only by probing the sulcus with a probe but not by eye; grade 2: visible plaque accumulation; grade 3: massive plaque accumulation)</p></list-item><list-item><p id="Par29">Bleeding on probing (BOP) in %</p></list-item><list-item><p id="Par30">Pocket depth (PD—distance from the marginal gingival margin to the bottom of the pocket) on 6 sites (mesio-buccal, buccal, disto-buccal, mesio-lingual, lingual, disto-lingual)</p></list-item><list-item><p id="Par31">DMFT index (decayed, missing and filled tooth)</p></list-item><list-item><p id="Par32">Clinical attachment loss (CAL) in mm (distance from the cementoenamel junction to the bottom of the pocket/sulcus)</p></list-item></list></p>
+                <p id="Par33">Other parameters collected such as positive suppuration of total sites and tooth mobility grade from I to III were also collected for each patient.</p>
+                <p id="Par34">For the collection of biofilm samples, the two deepest pocket sites in four quadrants were selected. To prevent contamination with saliva, cotton rolls were used for isolation. Two biofilm samples were collected by inserting a sterile curette into the gingival pocket, transferred to an Eppendorf tube, stored in transport medium with liquid nitrogen and then placed in a freezer at − 80 °C within less than 15 min until further processing.</p>
+                <p id="Par35">The medication used to treat IBD was also recorded to analyze its influence on the expression of cytokines.</p>
+                <p id="Par36">Moreover, the HBI (Harvey-Bradshaw Index) in CD patients and the pMS (partial Mayo Score) in UC patients were determined to classify disease activity as following (<xref ref-type="bibr" rid="CR25">25</xref>–<xref ref-type="bibr" rid="CR27">27</xref>):</p>
+                <p id="Par37">HBI:<list list-type="bullet"><list-item><p id="Par38">Severe (17 +)</p></list-item><list-item><p id="Par39">Moderate (8–16)</p></list-item><list-item><p id="Par40">Mild (5–7)</p></list-item><list-item><p id="Par41">Remission (0–4)</p></list-item></list></p>
+                <p id="Par42">pMS:<list list-type="bullet"><list-item><p id="Par43">Severe (8–9)</p></list-item><list-item><p id="Par44">Moderate (5–7)</p></list-item><list-item><p id="Par45">Mild (2–4)</p></list-item><list-item><p id="Par46">Remission (0–1)</p></list-item></list></p>
+              </sec>
+              <sec id="Sec5">
+                <title>Laboratory examination</title>
+                <p id="Par47">Total RNA was isolated from the biofilm samples, and the expression of cytokines and inflammatory mediators (IL-2, -6 and -10, metalloproteases (MMP)-7, -9 and CD-90) was determined using reverse transcription quantitative polymerase chain reaction (RT-qPCR). Moreover, integrin alpha L also called CD11a (ITGAL) was included as a positive control to demonstrate that inflammatory material was present in the biofilm samples.</p>
+                <p id="Par48">RNA from the samples was extracted using the TRIzol™ method (Thermo Fischer Scientific, Waltham, Massachusetts, USA) according to the manufacturer’s protocol. The concentration and quality of the isolated RNA were determined using a NanoDrop photospectrometer (PeqLab, Erlangen, Germany). Next, the isolated RNA was transcribed into cDNA using a Quantitect Reverse Transcriptase kit (Qiagen, Venlo, Netherlands) according to the manufacturer’s protocol.</p>
+                <p id="Par49">The cDNA was used to determine the expression of the markers by qPCR. For this analysis, specific QuantiTect Primer Assays (Qiagen, Venlo, Netherlands) were selected for the target genes, IL-2, IL-6, IL-10, MMP7, MMP9, and CD90, and a housekeeping gene, GAPDH (Table <xref rid="Tab1" ref-type="table">1</xref>) (Qiagen, Venlo, Netherlands). SYBR Green Master Mix from Qiagen was used for subsequent qPCR according to the manufacturer’s instructions. qPCR was performed in a 7300 real-time PCR system (Thermo Fisher Scientific, Waltham, Massachusetts, USA). After 15 min of incubation in the instrument, 50 cycles were performed, with each cycle as follows: the first 15 s at 94° for the denaturation process, then 30 s at 55° for the annealing process, and 34 s at 72° for the extending process. Following qPCR, dissociation curve or melting curve analysis was performed for each plate, providing information on the homogeneity of the amplicons. All the samples were analyzed in duplicate, and the average CT was calculated. GAPDH served as an endogenous control. Only samples that showed a clear amplification curve of GAPDH and a CT value of less than 37 cycles were used for additional analyses. Samples that showed a higher ∆CT value for the endogenous control were not considered in further analyses, as it must be assumed that the quality of the obtained sample was insufficient. Samples with an acceptable CT value for GAPDH but no CT value for the target gene were considered undetected. For these samples, a mean CT value of 50 was assumed, which corresponded to the maximum number of cycles of qPCR in our analyses [<xref ref-type="bibr" rid="CR25">25</xref>]. The ∆∆CT method was used to normalize the CT values using GAPDH as an endogenous control. The resulting ∆CT values were used for statistical analysis. A sample from the spleen was used as a positive control in all the PCR investigations.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Product details and charge numbers of the used markers</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Marker</th><th align="left">Product name</th><th align="left">Cat. No</th><th align="left">Lot No</th></tr></thead><tbody><tr><td align="left">IL-2</td><td align="left">Hs_IL2_1_SG</td><td align="left">QT00015435</td><td align="left">354,840,918</td></tr><tr><td align="left">IL-6</td><td align="left">Hs_IL6_1_SG</td><td align="left">QT00083720</td><td align="left">315,797,203</td></tr><tr><td align="left">IL-10</td><td align="left">Hs_IL10_1_SG</td><td align="left">QT00041685</td><td align="left">315,797,224</td></tr><tr><td align="left">MMP7</td><td align="left">Hs_MMP7_1_SG</td><td align="left">QT00001456</td><td align="left">315,797,201</td></tr><tr><td align="left">MMP9</td><td align="left">Hs_MMP9_1_SG</td><td align="left">QT00040040</td><td align="left">354,840,919</td></tr><tr><td align="left">CD90</td><td align="left">Hs_THY1_1_SG</td><td align="left">QT00023569</td><td align="left">354,840,947</td></tr><tr><td align="left">CD11a</td><td align="left">Hs_ITGAL_1_SG</td><td align="left">QT00034006</td><td align="left">361,111,662</td></tr><tr><td align="left">GAPDH</td><td align="left">Hs_GAPDH_1_SG</td><td align="left">QT00079247</td><td align="left">345,551,798</td></tr></tbody></table></table-wrap></p>
+                <p id="Par50">Higher ∆CT values indicate lower expression of the investigated target genes.</p>
+                <p id="Par51">To show the relative change in expression rates, the fold change is used. A fold change of 2 means that the expression has doubled (<xref ref-type="bibr" rid="CR28">28</xref>).</p>
+                <p id="Par52">To minimize the possible bias of sampling from the sulcus, only one practitioner (J.F) took the samples. The term expression is used consecutively and describes the level of concentration of the mediators in the biofilm, since strictly speaking the expression is from cells from the gingival crevicular fluid (GCF) and this can only be sampled by methods other than ours.</p>
+                <p id="Par53">The primary outcome of the study was the difference of the inflammatory markers in terms of their expression levels in the sulcus in each group. Secondary outcomes were the assessment of clinical parameters (plaque index, BOP, PD, DMFT, CAL).</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Statistical analysis</title>
+                <p id="Par54">The study size was not statistically determined in advance, as we first wanted to establish the methodology (especially the laboratory examination) based on the included patients. Statistical analysis of the collected data was performed using SPSS, Version 25 software (IBM, Armonk, New York, USA). If not stated otherwise, data are presented as the mean ± standard deviation. For statistical comparison among the three groups, the non-parametric Kruskal–Wallis test was performed. Differences among groups were considered significant if the <italic>p</italic>-value was &lt; 0.05, and if a statistically significant difference was detected, then we performed an additional pairwise comparison with a separate non-parametric Mann–Whitney <italic>U</italic>-test. For statistical comparison of the data (clinical parameters and expression) among the groups (either HC vs. CD or HC vs. UC), a non-parametric Mann–Whitney <italic>U</italic>-test with a significance level of <italic>p</italic> &lt; 0.05 was performed. The fold change is calculated according to the 2^ − ΔΔCT formula for the significant values The Wilcoxon-Mann–Whitney <italic>U</italic>-test was performed to calculate the post-hoc power analysis.</p>
+              </sec>
+            </sec>
+            <sec id="Sec7">
+              <title>Results</title>
+              <sec id="Sec8">
+                <title>Study population</title>
+                <p id="Par55">A total of 26 IBD patients consisting of 16 females and 10 males were included in this study. Of the patients in the IBD group, a total of 7 (<italic>n</italic> = 2 male, <italic>n</italic> = 5 female) had UC. The mean age of these patients was 37 ± 14 years. There were 19 CD patients (<italic>n</italic> = 8 male, <italic>n</italic> = 11 female), with a mean age of 46 ± 14 years. The HC group consisted of 30 (<italic>n</italic> = 11 male, <italic>n</italic> = 19 female) patients with a mean age of 56 ± 13 years. The study groups were not matched in terms of age or gender. The frequency of distribution between IBD and HC regarding age and gender can be seen in Figs. <xref rid="Fig1" ref-type="fig">1</xref> and <xref rid="Fig2" ref-type="fig">2</xref> without statistic impact. None of the patients has shown a genetic background (neither for CD nor UC), but in one CD patient the family history was positive for colon cancer. All included patients were of Caucasian ethnicity. The year of initial diagnosis of IBD ranged from 1973 to march 2019 in our patients. Twenty patients in the IBD group were treated with a biological or immunosuppressive medication (<italic>n</italic> = 14 TNF inhibitors: <italic>n</italic> = 13 infliximab and <italic>n</italic> = 1 adalimumab; <italic>n</italic> = 8 other immunosuppressants: <italic>n</italic> = 6 vedolizumab and <italic>n</italic> = 2 ustekinumab), and 6 of them received no medication for IBD. Whereas the patient with the initial diagnosis in March 2019 received infliximab as primary therapy, <italic>n</italic> = 10 of the patients received glucocorticoids and others over the past years. In this regard, fistulas or exposed bone were not observed in the group of patients who received a TNF inhibitor medication.<fig id="Fig1"><label>Fig. 1</label><caption><p>Showing the frequency of distribution between IBD and HC regarding the age</p></caption><graphic xlink:href="784_2021_4093_Fig1_HTML" id="MO1"/></fig><fig id="Fig2"><label>Fig. 2</label><caption><p>Showing the frequency of distribution between IBD and HC regarding the gender</p></caption><graphic xlink:href="784_2021_4093_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par56">There were no differences among the 3 groups regarding changes in the oral mucosa (the cheek, mucosa, tongue, vestibulum) or keratinized gingiva and no recessions or furcation was observed in any tooth. Moreover, there were no cases of dry mouth or noticeable salivation in the three groups.</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Clinical parameters</title>
+                <sec id="Sec10">
+                  <title>Mombelli Plaque Index (Mombelli PI)</title>
+                  <p id="Par57">The mean values of the Mombelli PI did not differ significantly between the HC and CD groups as shown in Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>. There was no trend between the study groups and the HC group, and the mean value in the HC group was grade 1.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Mean values of clinical parameters (PSI, BOP, Mombelli Plaque Index) and ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in group 0 (healthy control HC) and group 1 (Crohn’s disease CD) patients with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05), test power, and fold change. With significance in BOP (<italic>p</italic> = 0.001), IL-10 (<italic>p</italic> = 0.004), and MMP-7 (<italic>p</italic> = 0.032)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Group 0 (HC) <italic>n</italic> = 30</th><th align="left">Group 1 (CD) <italic>n</italic> = 19</th><th align="left"><italic>p</italic>-value</th><th align="left">Test power</th><th align="left">Fold change</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td align="left">21.29 ± 4.73 (<italic>n</italic> = 29)</td><td align="left">22.51 ± 4.12 (<italic>n</italic> = 15)</td><td char="." align="char">0.340</td><td align="left">0.130</td><td align="left">0</td></tr><tr><td align="left">∆CT IL-6</td><td align="left">15.35 ± 6.33 (<italic>n</italic> = 28)</td><td align="left">12.91 ± 5.21 (<italic>n</italic> = 17)</td><td char="." align="char">0.215</td><td align="left">0.136</td><td align="left">5</td></tr><tr><td align="left">∆CT IL-10</td><td align="left">19.98 ± 5.76 (<italic>n</italic> = 28)</td><td align="left">12.89 ± 8.06 (<italic>n</italic> = 18)</td><td char="." align="char"><bold>0.004</bold></td><td align="left"><bold>0.892</bold></td><td align="left"><bold>136</bold></td></tr><tr><td align="left">∆CT MMP7</td><td align="left">12.36 ± 7.93 (<italic>n</italic> = 28)</td><td align="left">7.23 ± 6.57 (<italic>n</italic> = 18)</td><td char="." align="char"><bold>0.032</bold></td><td align="left"><bold>0.915</bold></td><td align="left"><bold>35</bold></td></tr><tr><td align="left">∆CT MMP9</td><td align="left">7.62 ± 4.02 (<italic>n</italic> = 26)</td><td align="left">7.62 ± 5.57 (<italic>n</italic> = 17)</td><td char="." align="char">0.901</td><td align="left">0.050</td><td align="left">1</td></tr><tr><td align="left">∆CT CD90</td><td align="left">15.35 ± 6.57 (<italic>n</italic> = 29)</td><td align="left">14.72 ± 7.52 (<italic>n</italic> = 14)</td><td char="." align="char">0.979</td><td align="left">0.057</td><td align="left">2</td></tr><tr><td align="left">∆CT CD11a</td><td align="left">9.95 ± 6.65 (<italic>n</italic> = 27)</td><td align="left">7.53 ± 3.66 (<italic>n</italic> = 18)</td><td char="." align="char">0.660</td><td align="left">0.292</td><td align="left">5</td></tr><tr><td align="left">Mombelli PI (grade 0–3)</td><td align="left">1.17 ± 0.79 (<italic>n</italic> = 30)</td><td align="left">1.53 ± 0.84 (<italic>n</italic> = 19)</td><td char="." align="char">0.178</td><td align="left">0.301</td><td align="left">-</td></tr><tr><td align="left">BOP (in %)</td><td align="left">11.75 ± 6.77 (<italic>n</italic> = 30)</td><td align="left">30.91 ± 26.47 (<italic>n</italic> = 19)</td><td char="." align="char"><bold>0.001</bold></td><td align="left"><bold>0.898</bold></td><td align="left"><bold>-</bold></td></tr><tr><td align="left">PD (mm)</td><td align="left">2.53 ± 0.76</td><td align="left">2.71 ± 0.90</td><td char="." align="char"><bold>0.000</bold></td><td align="left"><bold>0.108</bold></td><td align="left"><bold>-</bold></td></tr><tr><td align="left">DMFT</td><td align="left">15.57 ± 8.90</td><td align="left">13.32 ± 9.76</td><td char="." align="char">0.447</td><td align="left">0.123</td><td align="left">-</td></tr><tr><td align="left">Number of teeth</td><td align="left">23.87 ± 6.57</td><td align="left">24.32 ± 6.38</td><td char="." align="char">0.670</td><td align="left">0.055</td><td align="left">-</td></tr><tr><td align="left">Suppuration total sites</td><td align="left">0.13 ± 0.43</td><td align="left">0.05 ± 0.23</td><td char="." align="char">0.545</td><td align="left">0.117</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade I</td><td align="left">0.60 ± 1.77</td><td align="left">0.26 ± 0.65</td><td char="." align="char">0.906</td><td align="left">0.132</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade II</td><td align="left">0.00 ± 0.00</td><td align="left">0.00 ± 0.00</td><td char="." align="char">1.000</td><td align="left">0</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade III</td><td align="left">0.00 ± 0.00</td><td align="left">0.11 ± 0.46</td><td char="." align="char">0.209</td><td align="left">/</td><td align="left">-</td></tr><tr><td align="left">CAL ≥ 2 mm total sites</td><td align="left">5.70 ± 6.46</td><td align="left">2.79 ± 7.01</td><td char="." align="char">0.069</td><td align="left">0.290</td><td align="left">-</td></tr></tbody></table></table-wrap><table-wrap id="Tab3"><label>Table 3</label><caption><p>Showing the mean values of clinical parameters (PSI, BOP, Mombelli Plaque Index) and ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in group 0 (healthy control HC) and group 2 (ulcerative colitis UC) patients with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05), test power, and fold change. With significance in IL-10 (<italic>p</italic> = 0.022)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Group 0 (HC) <italic>n</italic> = 30</th><th align="left">Group 2 (UC) <italic>n</italic> = 7</th><th align="left"><italic>p</italic>-value</th><th align="left">Test power</th><th align="left">Fold change</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td align="left">21.29 ± 4.73 (<italic>n</italic> = 29)</td><td align="left">18.85 ± 6.03 (<italic>n</italic> = 6)</td><td char="." align="char">0.356</td><td align="left">0.158</td><td align="left">5</td></tr><tr><td align="left">∆CT IL-6</td><td align="left">15.35 ± 6.33 (<italic>n</italic> = 28)</td><td align="left">18.37 ± 5.42 (<italic>n</italic> = 6)</td><td char="." align="char">0.318</td><td align="left">0.190</td><td align="left">0</td></tr><tr><td align="left">∆CT IL-10</td><td align="left">19.98 ± 5.76 (<italic>n</italic> = 28)</td><td align="left">13.83 ± 5.99 (<italic>n</italic> = 7)</td><td char="." align="char"><bold>0.022</bold></td><td align="left"><bold>0.650</bold></td><td align="left"><bold>71</bold></td></tr><tr><td align="left">∆CT MMP7</td><td align="left">12.36 ± 7.93 (<italic>n</italic> = 28)</td><td align="left">12.03 ± 8.25 (<italic>n</italic> = 7)</td><td char="." align="char">0.825</td><td align="left">0.050</td><td align="left">1</td></tr><tr><td align="left">∆CT MMP9</td><td align="left">7.62 ± 4.02 (<italic>n</italic> = 26)</td><td align="left">11.25 ± 6.72 (<italic>n</italic> = 7)</td><td char="." align="char">0.375</td><td align="left">0.307</td><td align="left">0</td></tr><tr><td align="left">∆CT CD90</td><td align="left">15.35 ± 6.57 (<italic>n</italic> = 29)</td><td align="left">13.25 ± 6.63 (<italic>n</italic> = 7)</td><td char="." align="char">0.253</td><td align="left">0.110</td><td align="left">4</td></tr><tr><td align="left">∆CT CD11a</td><td align="left">9.95 ± 6.65 (<italic>n</italic> = 27)</td><td align="left">11.58 ± 6.05 (<italic>n</italic> = 7)</td><td char="." align="char">0.379</td><td align="left">0.088</td><td align="left">0</td></tr><tr><td align="left">Mombelli PI (grade 0–3)</td><td align="left">1.17 ± 0.79 (<italic>n</italic> = 30)</td><td align="left">1.00 ± 0.82 (<italic>n</italic> = 7)</td><td char="." align="char">0.635</td><td align="left">0.076</td><td align="left">-</td></tr><tr><td align="left">BOP (in %)</td><td align="left">11.75 ± 6.77 (<italic>n</italic> = 30)</td><td align="left">18.17 ± 19.20 (<italic>n</italic> = 7)</td><td char="." align="char">0.894</td><td align="left">0.172</td><td align="left">-</td></tr><tr><td align="left">PD (mm)</td><td align="left">2.53 ± 0.76</td><td align="left">2.51 ± 0.71</td><td char="." align="char">0.490</td><td align="left">0.050</td><td align="left">-</td></tr><tr><td align="left">DMFT</td><td align="left">15.57 ± 8.90</td><td align="left">13.57 ± 9.83</td><td char="." align="char">0.482</td><td align="left">0.077</td><td align="left">-</td></tr><tr><td align="left">Number of teeth</td><td align="left">23.87 ± 6.57</td><td align="left">27.57 ± 1.27</td><td char="." align="char">0.227</td><td align="left">0.423</td><td align="left">-</td></tr><tr><td align="left">Suppuration total sites</td><td align="left">0.13 ± 0.43</td><td align="left">0.00 ± 0.00</td><td char="." align="char">0.690</td><td align="left">/</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade I</td><td align="left">0.60 ± 1.77</td><td align="left">0.00 ± 0.00</td><td char="." align="char">0.608</td><td align="left">/</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade II</td><td align="left">0.00 ± 0.00</td><td align="left">0.00 ± 0.00</td><td char="." align="char">1.000</td><td align="left">0</td><td align="left">-</td></tr><tr><td align="left">Tooth mobility grade III</td><td align="left">0.00 ± 0.00</td><td align="left">0.00 ± 0.00</td><td char="." align="char">1.000</td><td align="left">0</td><td align="left">-</td></tr><tr><td align="left">CAL ≥ 2 mm total sites</td><td align="left">5.70 ± 6.46</td><td align="left">4.14 ± 5.93</td><td char="." align="char">0.556</td><td align="left">0.087</td><td align="left">-</td></tr></tbody></table></table-wrap></p>
+                </sec>
+                <sec id="Sec11">
+                  <title>Bleeding on probing (BOP)</title>
+                  <p id="Par58">The mean value of BOP was significantly higher in the CD group than that in the HC group (<italic>p</italic> = 0.001, Table <xref rid="Tab2" ref-type="table">2</xref>) whereas the mean BOP value did not differ significantly between the HC group and the UC group (Table <xref rid="Tab3" ref-type="table">3</xref>). However, BOP tended to be higher in the UC group (mean value of 18.17%) than in the HC group (mean value of 11.75%).</p>
+                </sec>
+                <sec id="Sec12">
+                  <title>Pocket depth (PD)</title>
+                  <p id="Par59">The mean value of PD was significantly higher in the CD group than that in the HC group as shown in Table <xref rid="Tab2" ref-type="table">2</xref> whereas the mean PD did not differ between the HC group and the UC group as shown in 3.</p>
+                </sec>
+                <sec id="Sec13">
+                  <title>DMFT index</title>
+                  <p id="Par60">The mean value of DMFT index did not differ significantly between the HC and CD or UC groups (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>). There was also no difference in relation to the total number of teeth between the groups.</p>
+                </sec>
+                <sec id="Sec14">
+                  <title>Clinical attachment loss (CAL)</title>
+                  <p id="Par61">We evaluated the CAL values with at least ≥ 2 mm. The mean values of the CAL did not differ significantly between the groups (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>).</p>
+                </sec>
+                <sec id="Sec15">
+                  <title>Suppuration and tooth mobility grade from I to III</title>
+                  <p id="Par62">The mean values of suppuration did not differ significantly between the groups (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>). There were no teeth with increased mobility grade II in the HC, CD or UC groups, or III between the HC and UC groups. And no significant differences of teeth with mobility grade III between the HC and CD groups. Moreover, the mean values of tooth mobility grade I did not differ significantly between the groups (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>).</p>
+                </sec>
+              </sec>
+              <sec id="Sec16">
+                <title>Cytokine expressions</title>
+                <p id="Par63">The expression level of CD-11a served as a positive control to demonstrate inflammatory material, and the expression of CD-11a in the three groups is shown in Tables <xref rid="Tab2" ref-type="table">2</xref>, <xref rid="Tab3" ref-type="table">3</xref>, <xref rid="Tab4" ref-type="table">4</xref>, and <xref rid="Tab5" ref-type="table">5</xref>.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Showing the ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in patients without immunosuppressants compared to TNF inhibitors with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05), test power, and fold change. With significance in IL-10 (<italic>p</italic> = 0.007)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">No immunosuppressants</th><th align="left">TNF-α inhibitors</th><th align="left"><italic>p</italic>-value</th><th align="left">Test power</th><th align="left">Fold change</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td char="." align="char">21.38 ± 4.65 (<italic>n</italic> = 31)</td><td char="." align="char">20.43 ± 5.21 (<italic>n</italic> = 13)</td><td char="." align="char">0.748</td><td char="." align="char">0.086</td><td align="left">2</td></tr><tr><td align="left">∆CT IL-6</td><td char="." align="char">15.49 ± 6.32 (<italic>n</italic> = 32)</td><td char="." align="char">13.68 ± 5.29 (<italic>n</italic> = 11)</td><td char="." align="char">0.388</td><td char="." align="char">0.135</td><td align="left">4</td></tr><tr><td align="left">∆CT IL-10</td><td char="." align="char">19.52 ± 6.27 (<italic>n</italic> = 32)</td><td char="." align="char">13.04 ± 7.41 (<italic>n</italic> = 13)</td><td char="." align="char"><bold>0.007</bold></td><td char="." align="char"><bold>0.781</bold></td><td align="left"><bold>89</bold></td></tr><tr><td align="left">∆CT MMP7</td><td char="." align="char">11.93 ± 7.88 (<italic>n</italic> = 32)</td><td char="." align="char">7.41 ± 6.86 (<italic>n</italic> = 13)</td><td char="." align="char">0.054</td><td char="." align="char">0.426</td><td align="left">23</td></tr><tr><td align="left">∆CT MMP9</td><td char="." align="char">8.11 ± 5.47 (<italic>n</italic> = 29)</td><td char="." align="char">8.66 ± 4.68 (<italic>n</italic> = 13)</td><td char="." align="char">0.391</td><td char="." align="char">0.060</td><td align="left">1</td></tr><tr><td align="left">∆CT CD90</td><td char="." align="char">15.43 ± 6.82 (<italic>n</italic> = 33)</td><td char="." align="char">15.29 ± 7.52 (<italic>n</italic> = 10)</td><td char="." align="char">0.796</td><td char="." align="char">0.050</td><td align="left">1</td></tr><tr><td align="left">∆CT CD11a</td><td char="." align="char">9.43 ± 6.35 (<italic>n</italic> = 31)</td><td char="." align="char">9.61 ± 5.40 (<italic>n</italic> = 13)</td><td char="." align="char">0.361</td><td char="." align="char">0.050</td><td align="left">1</td></tr></tbody></table></table-wrap><table-wrap id="Tab5"><label>Table 5</label><caption><p>Showing the ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in patients without immunosuppressants compared to immunosuppressants with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05), test power, and fold change. With significance in IL-10 (<italic>p</italic> = 0.014)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">No immunosuppressants</th><th align="left">Other immunosuppressants</th><th align="left"><italic>p</italic>-value</th><th align="left">Test power</th><th align="left">Fold change</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td char="." align="char">21.38 ± 4.65 (<italic>n</italic> = 31)</td><td char="." align="char">23.29 ± 4.40 (<italic>n</italic> = 6)</td><td char="." align="char">0.365</td><td char="." align="char">0.146</td><td align="left">0</td></tr><tr><td align="left">∆CT IL-6</td><td char="." align="char">15.49 ± 6.32 (<italic>n</italic> = 32)</td><td char="." align="char">14.16 ± 6.04 (<italic>n</italic> = 8)</td><td char="." align="char">0.636</td><td char="." align="char">0.081</td><td align="left">3</td></tr><tr><td align="left">∆CT IL-10</td><td char="." align="char">19.52 ± 6.27 (<italic>n</italic> = 32)</td><td char="." align="char">11.81 ± 6.98 (<italic>n</italic> = 8)</td><td char="." align="char"><bold>0.014</bold></td><td char="." align="char"><bold>0.798</bold></td><td align="left"><bold>209</bold></td></tr><tr><td align="left">∆CT MMP7</td><td char="." align="char">11.93 ± 7.88 (<italic>n</italic> = 32)</td><td char="." align="char">10.30 ± 8.14 (<italic>n</italic> = 8)</td><td char="." align="char">0.521</td><td char="." align="char">0.077</td><td align="left">3</td></tr><tr><td align="left">∆CT MMP9</td><td char="." align="char">8.11 ± 5.47 (<italic>n</italic> = 29)</td><td char="." align="char">7.33 ± 4.46 (<italic>n</italic> = 8)</td><td char="." align="char">0.912</td><td char="." align="char">0.065</td><td align="left">2</td></tr><tr><td align="left">∆CT CD90</td><td char="." align="char">15.43 ± 6.82 (<italic>n</italic> = 33)</td><td char="." align="char">11.66 ± 4.94 (<italic>n</italic> = 7)</td><td char="." align="char">0.328</td><td char="." align="char">0.304</td><td align="left">14</td></tr><tr><td align="left">∆CT CD11a</td><td char="." align="char">9.43 ± 6.35 (<italic>n</italic> = 31)</td><td char="." align="char">7.33 ± 4.46 (<italic>n</italic> = 8)</td><td char="." align="char">0.912</td><td char="." align="char">0.150</td><td align="left">4</td></tr></tbody></table></table-wrap></p>
+                <p id="Par64">The expression of the anti-inflammatory cytokines IL-10 and MMP-7 was significantly higher in the CD group than that in the HC group (<italic>p</italic> IL-10 = 0.004 and <italic>p</italic> MMP-7 = 0.032), as shown in Table <xref rid="Tab2" ref-type="table">2</xref> and Figs. <xref rid="Fig3" ref-type="fig">3</xref> and <xref rid="Fig4" ref-type="fig">4</xref>. However, no difference in MMP-9 was observed between the CD and UC groups compared to that in the HC group.<fig id="Fig3"><label>Fig. 3</label><caption><p>Showing the ∆CT of IL-10 in the three different groups (0 = HC vs. 1 = CD vs. 2 = UC) and fold change values with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05). With significance CD vs. HC (<italic>p</italic> = 0.004 and FC = 136) and UC vs. HC (<italic>p</italic> = 0.022 and FC = 71)</p></caption><graphic xlink:href="784_2021_4093_Fig3_HTML" id="MO3"/></fig><fig id="Fig4"><label>Fig. 4</label><caption><p>Showing the ∆CT of MMP-7 in the three different groups (0 = HC vs. 1 = CD vs. 2 = UC) and fold change values with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05). With significance CD vs. HC (<italic>p</italic> = 0.032 and FC = 35)</p></caption><graphic xlink:href="784_2021_4093_Fig4_HTML" id="MO4"/></fig></p>
+                <p id="Par65">In the UC group, the expression of anti-inflammatory IL-10 was also significantly higher than that in the HC group (<italic>p</italic> = 0.022), as shown in Fig. <xref rid="Fig3" ref-type="fig">3</xref> and Table <xref rid="Tab3" ref-type="table">3</xref>.</p>
+                <p id="Par66">The pro-inflammatory cytokines IL-2, IL-6, MMP9, and CD-90 showed no significant differences in expression in the CD and UC groups compared to that in the HC group (Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>).</p>
+                <p id="Par67">Comparing the study groups in terms of the received medication, the expression of anti-inflammatory IL-10 was significantly higher in the group receiving TNF inhibitors than that in the group receiving no immunosuppressive medication, as shown in Table <xref rid="Tab4" ref-type="table">4</xref> and Fig. <xref rid="Fig5" ref-type="fig">5</xref>. The group that received immunosuppressants other than TNF-α inhibitors showed higher IL-10 expression than that of the group that did not receive immunosuppressants other than TNF inhibitors as shown in Table <xref rid="Tab5" ref-type="table">5</xref> and Fig. <xref rid="Fig5" ref-type="fig">5</xref>. Otherwise, for the other parameters, there were no differences among the groups regarding the different medications (Tables <xref rid="Tab4" ref-type="table">4</xref> and <xref rid="Tab5" ref-type="table">5</xref>).<fig id="Fig5"><label>Fig. 5</label><caption><p>Showing the ∆CT of IL-10 in the three different groups (no immunosuppressants vs. TNF inhibitors vs. other immunosuppressants) and fold change values with the corresponding <italic>p</italic>-value (significant level <italic>p</italic> &lt; 0.05). With significance no immunosuppressants vs. TNF inhibitors (<italic>p</italic> = 0.007 and FC = 89) and no immunosuppressants vs. other immunosuppressants (<italic>p</italic> = 0.014 and FC = 209)</p></caption><graphic xlink:href="784_2021_4093_Fig5_HTML" id="MO5"/></fig></p>
+              </sec>
+              <sec id="Sec17">
+                <title>Disease activity</title>
+                <p id="Par68">The different disease scores of CD and UC patients and correlation to either clinical parameters or cytokine expressions are shown in Tables <xref rid="Tab6" ref-type="table">6</xref> and <xref rid="Tab7" ref-type="table">7</xref>.<table-wrap id="Tab6"><label>Table 6</label><caption><p>Showing the ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in CD patients according to the disease activity and HBI scores</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">CD remission (HBI)</th><th align="left">CD mild (HBI)</th><th align="left">CD moderate (HBI)</th><th align="left">CD total group</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td char="." align="char">21.82 ± 4.66 (<italic>n</italic> = 8)</td><td char="." align="char">24.25 ± 2.73 (<italic>n</italic> = 5)</td><td char="." align="char">20.97 ± 1.17 (<italic>n</italic> = 2)</td><td char="." align="char">22.51 ± 4.12 (<italic>n</italic> = 15)</td></tr><tr><td align="left">∆CT IL-6</td><td char="." align="char">12.24 ± 3.99 (<italic>n</italic> = 9)</td><td char="." align="char">11.52 ± 5.21 (<italic>n</italic> = 5)</td><td char="." align="char"><bold>17.25 ± 5.34 (</bold><bold><italic>n</italic></bold><bold> = 3)</bold></td><td char="." align="char">12.91 ± 5.21 (<italic>n</italic> = 17)</td></tr><tr><td align="left">∆CT IL-10</td><td char="." align="char">11.21 ± 6.48 (<italic>n</italic> = 10)</td><td char="." align="char">16.33 ± 9.84 (<italic>n</italic> = 5)</td><td char="." align="char"><bold>15.70 ± 7.51 (</bold><bold><italic>n</italic></bold><bold> = 3)</bold></td><td char="." align="char">12.89 ± 8.06 (<italic>n</italic> = 18)</td></tr><tr><td align="left">∆CT MMP7</td><td char="." align="char">5.74 ± 5.01 (<italic>n</italic> = 9)</td><td char="." align="char">5.74 ± 2.28 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>16.13 ± 6.91 (</bold><bold><italic>n</italic></bold><bold> = 3)</bold></td><td char="." align="char">7.23 ± 6.57 (<italic>n</italic> = 18)</td></tr><tr><td align="left">∆CT MMP9</td><td char="." align="char">6.80 ± 1.10 (<italic>n</italic> = 9)</td><td char="." align="char">9.82 ± 8.47 (<italic>n</italic> = 6)</td><td char="." align="char">4.67 ± 0.98 (<italic>n</italic> = 2)</td><td char="." align="char">7.62 ± 5.57 (<italic>n</italic> = 17)</td></tr><tr><td align="left">∆CT CD90</td><td char="." align="char">14.60 ± 7.00 (<italic>n</italic> = 7)</td><td char="." align="char">14.66 ± 8.35 (<italic>n</italic> = 5)</td><td char="." align="char">15.25 ± 4.55 (<italic>n</italic> = 2)</td><td char="." align="char">14.72 ± 7.52 (<italic>n</italic> = 14)</td></tr><tr><td align="left">∆CT CD11a</td><td char="." align="char">9.60 ± 3.75 (<italic>n</italic> = 9)</td><td char="." align="char">6.13 ± 1.60 (<italic>n</italic> = 6)</td><td char="." align="char">4.12 ± 0.60 (<italic>n</italic> = 3)</td><td char="." align="char">7.53 ± 3.66 (<italic>n</italic> = 18)</td></tr></tbody></table></table-wrap><table-wrap id="Tab7"><label>Table 7</label><caption><p>Showing the ∆CT values of cytokines (IL-2, -6, -10), MMP-7 and -9, and CD90 in UC patients according to the disease activity and pMS scores</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">UC remission (pMS)</th><th align="left">UC moderate (pMS)</th><th align="left">UC total group</th></tr></thead><tbody><tr><td align="left">∆CT IL-2</td><td char="." align="char">18.98 ± 6.02 (<italic>n</italic> = 5)</td><td char="." align="char">18.24 (<italic>n</italic> = 1)</td><td char="." align="char">18.85 ± 6.03 (<italic>n</italic> = 6)</td></tr><tr><td align="left">∆CT IL-6</td><td char="." align="char">18.34 ± 5.42 (<italic>n</italic> = 5)</td><td char="." align="char">18.52 (<italic>n</italic> = 1)</td><td char="." align="char">18.37 ± 5.42 (<italic>n</italic> = 6)</td></tr><tr><td align="left">∆CT IL-10</td><td char="." align="char">13.04 ± 5.62 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>18.52 (</bold><bold><italic>n</italic></bold><bold> = 1)</bold></td><td char="." align="char">13.83 ± 5.99 (<italic>n</italic> = 7)</td></tr><tr><td align="left">∆CT MMP7</td><td char="." align="char">10.95 ± 7.73 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>18.52 (</bold><bold><italic>n</italic></bold><bold> = 1)</bold></td><td char="." align="char">12.03 ± 8.25 (<italic>n</italic> = 7)</td></tr><tr><td align="left">∆CT MMP9</td><td char="." align="char">10.04 ± 5.90 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>18.52 (</bold><bold><italic>n</italic></bold><bold> = 1)</bold></td><td char="." align="char">11.25 ± 6.72 (<italic>n</italic> = 7)</td></tr><tr><td align="left">∆CT CD90</td><td char="." align="char">12.38 ± 6.21 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>18.52 (</bold><bold><italic>n</italic></bold><bold> = 1)</bold></td><td char="." align="char">13.25 ± 6.63 (<italic>n</italic> = 7)</td></tr><tr><td align="left">∆CT CD11a</td><td char="." align="char">10.42 ± 5.21 (<italic>n</italic> = 6)</td><td char="." align="char"><bold>18.52 (</bold><bold><italic>n</italic></bold><bold> = 1)</bold></td><td char="." align="char">11.58 ± 6.05 (<italic>n</italic> = 7)</td></tr></tbody></table></table-wrap></p>
+                <p id="Par69">Classification of patients according to their HBI disease activity scores showed that the patients included in our study all belonged to either the remission (HBI 0–4), mild (HBI 5–7), or moderate (HBI 8–16) class within the CD group (Table <xref rid="Tab6" ref-type="table">6</xref>). The ∆CT values of the inflammatory markers in correlation to the disease activity are shown in Table <xref rid="Tab6" ref-type="table">6</xref>. Compared to the ∆CT values of the whole CD group, no interpretation of the ∆CT values can be derived based on the small numbers of patients. Therefore, only the higher ∆CT values compared to the total group are marked. It can only be deduced that in the patients with a moderate disease activity (<italic>n</italic> = 3), an overexpression of IL-6, IL-10, and MMP-7 is seen.</p>
+                <p id="Par70">Classification of patients according to their pMS disease activity score showed that two groups (remission pMS 0–1 and moderate pMS 5–7) were represented in our UC group (Table <xref rid="Tab7" ref-type="table">7</xref>). The small number of patients does not allow any interpretation and the higher ∆CT values compared to the total group are marked. It can be seen here that there was an overexpression of IL-10, MMP-7, MMP-9, CD90, and CD11a only in the one patient belonging to the moderate group.</p>
+              </sec>
+            </sec>
+            <sec id="Sec18">
+              <title>Discussion</title>
+              <p id="Par71">Periodontitis (P), which is characterized by the degradation of hard and soft tissues of the periodontium, is multifactorial, and the interplay among bacteria, inflammatory mediators, respective immune responses, and environmental factors (e.g., smoking) seems to be crucial (<xref ref-type="bibr" rid="CR29">29</xref>). IBD is also characterized by an exaggerated immune response and the accompanying release of pro- or anti-inflammatory mediators. We know from the previous literature that some of the same cytokines are involved in IBD and P pathogenesis and that these cytokines are detectable outside the gut, namely, in the oral cavity (<xref ref-type="bibr" rid="CR14">14</xref>–<xref ref-type="bibr" rid="CR17">17</xref>). In this context, many studies have already described altered parameters in the periodontium, in particular, elevated periodontal parameters in IBD patients (<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR30">30</xref>).</p>
+              <p id="Par72">In a retrospective study, 229 IBD patients were compared with 135 healthy subjects regarding DPSI (Dutch PSI) and DMFT. While DMFT was significantly higher in IBD patients than in healthy subjects, DPSI did not differ between the groups regarding specific IBD medications (<xref ref-type="bibr" rid="CR30">30</xref>). Other studies compared 99 CD patients and 80 UC patients with 74 periodontitis patients according to the DMFT, BOP, PD and plaque index parameters. Again, IBD patients had higher DMFT values than those of the other patients and CD patients had less BOP and lower plaque indices but deeper pocket depths than those of P patients (<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR31">31</xref>).</p>
+              <p id="Par73">These findings agree partially with the clinical results of this study. Regarding CAL, DMFT and the Mombelli PI, no differences between IBD and healthy patients were observed. The BOP and PD mean value was significantly increased in CD patients compared to that in healthy patients, without any significance in UC patients. This may be due to the small number of UC patients included in the study. However, as P and IBD are both chronic inflammatory diseases, analyzing the expression of different cytokines in these diseases is crucial. In a previous study, gingival crevicular fluid was evaluated in IBD and chronic P patients with respect to IL-4, -6, -1ß, -18, and IFN-γ; no significant differences were found. Clinical parameters (BOP, CAL, and PI) were also not significantly different between the groups (<xref ref-type="bibr" rid="CR17">17</xref>). In this study, samples were taken from the deepest pocket in IBD and healthy patients both non-periodontal diseased and were examined with respect to cytokine expression. Although IL-6 could be detected in inflamed gingiva tissues and in manifest periodontitis tissue by ELISA in a previous study (<xref ref-type="bibr" rid="CR32">32</xref>) we could not detect any differences in IL-6 expression between healthy controls and IBD patients, even though the cytokine was detectable in all groups.</p>
+              <p id="Par74">Regarding anti-inflammatory IL-10, we observed significant overexpression in both disease groups compared to the healthy group (CD <italic>p</italic> = 0.004, UC <italic>p</italic> = 0.022). IL-10 which serves to maintain intestinal homeostasis could therefore also be detected in biofilm in IBD patients. It is interesting to note that in the context of periodontitis, especially the aggressive form of periodontitis, the plasma concentration of IL-10 is lower than that in healthy patients (<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>). The plasma concentration was not investigated in this study, but the overexpression of IL-10 in the IBD patients did not allow any conclusion to be drawn regarding the possible occurrence of periodontitis in IBD patients. However, the overexpression of IL-10 agrees with our clinical observation that the IBD patients had no signs of periodontitis.</p>
+              <p id="Par75">Pro-inflammatory metalloproteases (MMPs), which are responsible for the breakdown of bone tissue and bone, were also assessed, since the expression of MMP-7 and MMP-9 could also be detected in the active inflammation phase of the intestine of IBD patients. Moreover, CD-90, which is known as a major inflammatory marker but not explicitly in IBD patients, was investigated in this study (<xref ref-type="bibr" rid="CR35">35</xref>, <xref ref-type="bibr" rid="CR36">36</xref>).</p>
+              <p id="Par76">However, a correlation between IBD and CD-90 expression in biofilm samples could not be established. Regarding MMP-9, we did not observe any significant differences. MMP-7 overexpression was only observed in the CD group in comparison to that in the HC group (<italic>p</italic> = 0.032), although as already mentioned, no clinical correlation was observed.</p>
+              <p id="Par77">As known from the literature, the proportion of IL-2 cells is increased in patients with IBD compared to that in healthy people (<xref ref-type="bibr" rid="CR37">37</xref>). In addition, inflamed gingiva shows a much higher infiltration of cells expressing IL-2 in contrast to healthy gingiva (<xref ref-type="bibr" rid="CR38">38</xref>).</p>
+              <p id="Par78">This finding does not correspond to our results within biofilm samples. There were no significant differences in the expression of IL-2 and correlation to clinical parameters between the IBD and healthy groups.</p>
+              <p id="Par79">Another effect on the decreased expression of pro-inflammatory markers is reported in correlation of smoking. This was confirmed in a study of 25 smokers compared with 25 nonsmokers and examination of cytokine expression in plaque samples. Smokers showed significantly reduced TNF levels compared with nonsmokers (<xref ref-type="bibr" rid="CR39">39</xref>). To eliminate this confounding effect on our groups as well as the control group, we excluded smokers within this study.</p>
+              <p id="Par80">Considering the general role of the host response in P patients, medication influencing the immune reaction might be relevant. However, immunosuppressive therapy and its impact on the periodontal condition have already been evaluated and have shown reduced periodontal inflammation in immunosuppressed patients compared to that in non-immunosuppressed patients (<xref ref-type="bibr" rid="CR40">40</xref>). In recent decades, monoclonal antibodies (e.g., infliximab IFX) have been developed and proven effective for the treatment of IBD (<xref ref-type="bibr" rid="CR41">41</xref>–<xref ref-type="bibr" rid="CR44">44</xref>). Even though a 30% rate of non-responders is described in the literature the success of the medication is indisputable (<xref ref-type="bibr" rid="CR45">45</xref>). By neutralizing TNF, IFX induces apoptosis of Th-cells or pro-inflammatory cytokines (<xref ref-type="bibr" rid="CR46">46</xref>, <xref ref-type="bibr" rid="CR47">47</xref>). In addition, IFX can regulate IL-10 production (<xref ref-type="bibr" rid="CR48">48</xref>). This effect is reflected in this study. The overexpression of IL-10 was significant in the TNF inhibitor group compared to that in the group that did not receive TNF inhibitors (<italic>p</italic> = 0.007).</p>
+              <p id="Par81">In another study, it was also shown that TNF inhibitors (IFX) significantly downregulated the infiltration of neutrophils in the inflamed intestinal mucosa and peripheral blood in CD patients. TNF inhibition thus markedly suppressed not only TNF but also the production of pro-inflammatory cytokines, such as IL-6, -IL-8, -1β, and MMPs (<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR50">50</xref>). This finding does not clearly agree with our results. In the TNF inhibitor group, the expression of MMP-7 was not significantly higher (<italic>p</italic> = 0.054) than that in healthy subjects. MMP-9 expression was approximately the same among the groups.</p>
+              <p id="Par82">Moreover, other biological therapies showed no significant differences in this respect.</p>
+              <p id="Par83">Considering these results and the described effects of TNF inhibitors, it was hypothesized that reduced clinical periodontal parameters would be observed. However, only BOP, although not significantly, was increased in the TNF inhibitor group compared to that in healthy individuals and those who received other immunosuppressants.</p>
+              <p id="Par84">Larger numbers of patients and their disease activity and correlation to medication would be very interesting for further studies regarding the expression of inflammatory markers in the sulcus.</p>
+              <p id="Par85">To analyze the exact relationship between the presence of periodontitis and IBD, the composition of the bacteria in the oral biofilm also needs to be determined. P disease is described as a dysbiotic inflammatory disease (<xref ref-type="bibr" rid="CR12">12</xref>). Brito et al. found no significant differences in clinical parameters but an increased number of opportunistic pathogens in IBD patients (<xref ref-type="bibr" rid="CR31">31</xref>). Further studies including patients with P disease and microbiological analyses are necessary.</p>
+              <p id="Par86">There are a few shortcomings and limitations in this study that need to be mentioned and critically discussed. First, the small number of patients included in this study has to be mentioned; because the methodological approach had to be established, we did not include a larger number of patients for now. However, this small number of patients certainly reduced the evidence for the presence of differential expression among groups. Moreover, the lack of matching the patients from the study groups limits the validity of the results. Furthermore, this study did not determine the bacterial composition or include patients with a periodontal disease, which was why no link between IBD and periodontitis or differences in its severity could be proven by these study results, and further studies are necessary on this topic.</p>
+            </sec>
+            <sec id="Sec19">
+              <title>Conclusion</title>
+              <p id="Par87">We detected cytokine expression in plaque samples from IBD patients and found significant differences regarding the expression of IL-10 compared to that in healthy individuals. BOP and PD was significantly higher in CD patients, but no other significant differences in clinical periodontal parameters could be detected between healthy and IBD patients. Thus, we conclude that no clinical impairment of periodontal tissue occurs in IBD patients. Immunosuppressants of any kind led to overexpression of IL-10 in plaque samples from IBD patients. Further studies are needed to analyze cytokine expression in IBD and periodontitis patients to find similarities between these diseases and to provide an explanation for the clinical observation of the prevalence of periodontitis in IBD patients.</p>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>We would like to express our sincere gratitude and special thanks to Andrea Krautheim-Zenk for personal, professional, and technical support for this study.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contribution</title>
+              <p>Conceptualization, M.B. and M.K.; methodology, J.R. and J.F.; software J.F.; validation, M.B., J.R., and M.K.; formal analysis, J.F., J.R.; investigation, J.F.; resources M.K.; data curation, M.K.; writing–original draft preparation, M.B. and J.F.; writing–review and editing, J.R, M.K., T.M, P.P., R.A.; visualization, J.F.; supervision, M.K, P.P., M.H. M.G, R.A.M.N.; project administration, M.K.; The present work was performed in fulfillment of the requirements of the second author (JF) to obtain the doctoral degree (Dr. med. dent.) at the University of Erlangen-Nuremberg, Erlangen, Germany.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Open Access funding enabled and organized by Projekt DEAL. This study was supported by funding from DFG-SFB/TRR241 (IBDome) (R. Atreya). The German Research Council (DFG) funds the Heisenberg Professorship of R. Atreya.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par88">All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards. The study was approved by the local medical faculty ethics committee of the Friedrich-Alexander-University Erlangen-Nuremberg (registration no.: 399_18 B). Informed consent was obtained from all individual participants included in the study.</p>
+              </notes>
+              <notes id="FPar2" notes-type="COI-statement">
+                <title>Conflict of interest</title>
+                <p id="Par89">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmitt</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Neufert</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Neurath</surname>
+                      <given-names>MF</given-names>
+                    </name>
+                    <name>
+                      <surname>Atreya</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Resolution of Crohn's disease</article-title>
+                  <source>Semin Immunopathol</source>
+                  <year>2019</year>
+                  <volume>41</volume>
+                  <issue>6</issue>
+                  <fpage>737</fpage>
+                  <lpage>746</lpage>
+                  <?supplied-pmid 31552470?>
+                  <pub-id pub-id-type="pmid">31552470</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Trikudanathan</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Venkatesh</surname>
+                      <given-names>PG</given-names>
+                    </name>
+                    <name>
+                      <surname>Navaneethan</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Diagnosis and therapeutic management of extra-intestinal manifestations of inflammatory bowel disease</article-title>
+                  <source>Drugs</source>
+                  <year>2012</year>
+                  <volume>72</volume>
+                  <issue>18</issue>
+                  <fpage>2333</fpage>
+                  <lpage>2349</lpage>
+                  <?supplied-pmid 23181971?>
+                  <pub-id pub-id-type="pmid">23181971</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Piras</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Usai</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Mezzena</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Susnik</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ideo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Schirru</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Prevalence of apical periodontitis in patients with inflammatory bowel diseases: a retrospective clinical study</article-title>
+                  <source>J Endod</source>
+                  <year>2017</year>
+                  <volume>43</volume>
+                  <issue>3</issue>
+                  <fpage>389</fpage>
+                  <lpage>394</lpage>
+                  <?supplied-pmid 28231978?>
+                  <pub-id pub-id-type="pmid">28231978</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Papageorgiou</surname>
+                      <given-names>SN</given-names>
+                    </name>
+                    <name>
+                      <surname>Hagner</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Nogueira</surname>
+                      <given-names>AV</given-names>
+                    </name>
+                    <name>
+                      <surname>Franke</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Jager</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Deschner</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inflammatory bowel disease and oral health: systematic review and a meta-analysis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2017</year>
+                  <volume>44</volume>
+                  <issue>4</issue>
+                  <fpage>382</fpage>
+                  <lpage>393</lpage>
+                  <?supplied-pmid 28117909?>
+                  <pub-id pub-id-type="pmid">28117909</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cho</surname>
+                      <given-names>JH</given-names>
+                    </name>
+                    <name>
+                      <surname>Brant</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Recent insights into the genetics of inflammatory bowel disease</article-title>
+                  <source>Gastroenterology</source>
+                  <year>2011</year>
+                  <volume>140</volume>
+                  <issue>6</issue>
+                  <fpage>1704</fpage>
+                  <lpage>1712</lpage>
+                  <?supplied-pmid 21530736?>
+                  <pub-id pub-id-type="pmid">21530736</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marks</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Rahman</surname>
+                      <given-names>FZ</given-names>
+                    </name>
+                    <name>
+                      <surname>Sewell</surname>
+                      <given-names>GW</given-names>
+                    </name>
+                    <name>
+                      <surname>Segal</surname>
+                      <given-names>AW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Crohn's disease: an immune deficiency state</article-title>
+                  <source>Clin Rev Allergy Immunol</source>
+                  <year>2010</year>
+                  <volume>38</volume>
+                  <issue>1</issue>
+                  <fpage>20</fpage>
+                  <lpage>31</lpage>
+                  <?supplied-pmid 19437144?>
+                  <pub-id pub-id-type="pmid">19437144</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lunney</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Leong</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Review article: Ulcerative colitis, smoking and nicotine therapy</article-title>
+                  <source>Aliment Pharmacol Ther</source>
+                  <year>2012</year>
+                  <volume>36</volume>
+                  <issue>11–12</issue>
+                  <fpage>997</fpage>
+                  <lpage>1008</lpage>
+                  <?supplied-pmid 23072629?>
+                  <pub-id pub-id-type="pmid">23072629</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aldhous</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Drummond</surname>
+                      <given-names>HE</given-names>
+                    </name>
+                    <name>
+                      <surname>Anderson</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Baneshi</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <name>
+                      <surname>Arnott</surname>
+                      <given-names>ID</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Smoking habit and load influence age at diagnosis and disease extent in ulcerative colitis</article-title>
+                  <source>Am J Gastroenterol</source>
+                  <year>2007</year>
+                  <volume>102</volume>
+                  <issue>3</issue>
+                  <fpage>589</fpage>
+                  <lpage>597</lpage>
+                  <?supplied-pmid 17338737?>
+                  <pub-id pub-id-type="pmid">17338737</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cosnes</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Nion-Larmurier</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Afchain</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Beaugerie</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Gendre</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Gender differences in the response of colitis to smoking</article-title>
+                  <source>Clin Gastroenterol Hepatol</source>
+                  <year>2004</year>
+                  <volume>2</volume>
+                  <issue>1</issue>
+                  <fpage>41</fpage>
+                  <lpage>48</lpage>
+                  <?supplied-pmid 15017631?>
+                  <pub-id pub-id-type="pmid">15017631</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tan</surname>
+                      <given-names>CX</given-names>
+                    </name>
+                    <name>
+                      <surname>Brand</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                    <name>
+                      <surname>de Boer</surname>
+                      <given-names>NK</given-names>
+                    </name>
+                    <name>
+                      <surname>Forouzanfar</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Gastrointestinal diseases and their oro-dental manifestations: part 2: ulcerative colitis</article-title>
+                  <source>Br Dent J</source>
+                  <year>2017</year>
+                  <volume>222</volume>
+                  <issue>1</issue>
+                  <fpage>53</fpage>
+                  <lpage>57</lpage>
+                  <?supplied-pmid 28084352?>
+                  <pub-id pub-id-type="pmid">28084352</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Vries</surname>
+                      <given-names>SAG</given-names>
+                    </name>
+                    <name>
+                      <surname>Tan</surname>
+                      <given-names>CXW</given-names>
+                    </name>
+                    <name>
+                      <surname>Bouma</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Forouzanfar</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Brand</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                    <name>
+                      <surname>de Boer</surname>
+                      <given-names>NK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary function and oral health problems in Crohn's disease patients</article-title>
+                  <source>Inflamm Bowel Dis</source>
+                  <year>2018</year>
+                  <volume>24</volume>
+                  <issue>6</issue>
+                  <fpage>1361</fpage>
+                  <lpage>1367</lpage>
+                  <?supplied-pmid 29718221?>
+                  <pub-id pub-id-type="pmid">29718221</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hajishengallis</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontitis: from microbial immune subversion to systemic inflammation</article-title>
+                  <source>Nat Rev Immunol</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <issue>1</issue>
+                  <fpage>30</fpage>
+                  <lpage>44</lpage>
+                  <?supplied-pmid 25534621?>
+                  <pub-id pub-id-type="pmid">25534621</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grossner-Schreiber</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Fetter</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Hedderich</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kocher</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Schreiber</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Jepsen</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of dental caries and periodontal disease in patients with inflammatory bowel disease: a case-control study</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2006</year>
+                  <volume>33</volume>
+                  <issue>7</issue>
+                  <fpage>478</fpage>
+                  <lpage>484</lpage>
+                  <?supplied-pmid 16820035?>
+                  <pub-id pub-id-type="pmid">16820035</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brito</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>de Barros</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Zaltman</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Carvalho</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                    <name>
+                      <surname>Carneiro</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Prevalence of periodontitis and DMFT index in patients with Crohn's disease and ulcerative colitis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2008</year>
+                  <volume>35</volume>
+                  <issue>6</issue>
+                  <fpage>555</fpage>
+                  <lpage>560</lpage>
+                  <?supplied-pmid 18400026?>
+                  <pub-id pub-id-type="pmid">18400026</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yucel-Lindberg</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Bage</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inflammatory mediators in the pathogenesis of periodontitis</article-title>
+                  <source>Expert Rev Mol Med</source>
+                  <year>2013</year>
+                  <volume>15</volume>
+                  <fpage>e7</fpage>
+                  <?supplied-pmid 23915822?>
+                  <pub-id pub-id-type="pmid">23915822</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Salvi</surname>
+                      <given-names>GE</given-names>
+                    </name>
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujihashi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kiyono</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>FW</given-names>
+                    </name>
+                    <name>
+                      <surname>Beck</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Inflammatory mediators of the terminal dentition in adult and early onset periodontitis</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>1998</year>
+                  <volume>33</volume>
+                  <issue>4</issue>
+                  <fpage>212</fpage>
+                  <lpage>225</lpage>
+                  <?supplied-pmid 9689617?>
+                  <pub-id pub-id-type="pmid">9689617</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Figueredo</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Brito</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Barros</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Menegat</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>Pedreira</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Expression of cytokines in the gingival crevicular fluid and serum from patients with inflammatory bowel disease and untreated chronic periodontitis</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>2011</year>
+                  <volume>46</volume>
+                  <issue>1</issue>
+                  <fpage>141</fpage>
+                  <lpage>146</lpage>
+                  <?supplied-pmid 20701671?>
+                  <pub-id pub-id-type="pmid">20701671</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Szczeklik</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Owczarek</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Pytko-Polonczyk</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kesek</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Mach</surname>
+                      <given-names>TH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Proinflammatory cytokines in the saliva of patients with active and non-active Crohn's disease</article-title>
+                  <source>Pol Arch Med Wewn</source>
+                  <year>2012</year>
+                  <volume>122</volume>
+                  <issue>5</issue>
+                  <fpage>200</fpage>
+                  <lpage>208</lpage>
+                  <?supplied-pmid 22538761?>
+                  <pub-id pub-id-type="pmid">22538761</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Jiang</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Shen</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>NF-kappaB-dependent cytokines in saliva and serum from patients with oral lichen planus: a study in an ethnic Chinese population</article-title>
+                  <source>Cytokine</source>
+                  <year>2008</year>
+                  <volume>41</volume>
+                  <issue>2</issue>
+                  <fpage>144</fpage>
+                  <lpage>149</lpage>
+                  <?supplied-pmid 18222093?>
+                  <pub-id pub-id-type="pmid">18222093</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rhodus</surname>
+                      <given-names>NL</given-names>
+                    </name>
+                    <name>
+                      <surname>Ho</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Myers</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ondrey</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>NF-kappaB dependent cytokine levels in saliva of patients with oral preneoplastic lesions and oral squamous cell carcinoma</article-title>
+                  <source>Cancer Detect Prev</source>
+                  <year>2005</year>
+                  <volume>29</volume>
+                  <issue>1</issue>
+                  <fpage>42</fpage>
+                  <lpage>45</lpage>
+                  <?supplied-pmid 15734216?>
+                  <pub-id pub-id-type="pmid">15734216</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dewhirst</surname>
+                      <given-names>FE</given-names>
+                    </name>
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Izard</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Paster</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Tanner</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The human oral microbiome</article-title>
+                  <source>J Bacteriol</source>
+                  <year>2010</year>
+                  <volume>192</volume>
+                  <issue>19</issue>
+                  <fpage>5002</fpage>
+                  <lpage>5017</lpage>
+                  <?supplied-pmid 20656903?>
+                  <pub-id pub-id-type="pmid">20656903</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>du Teil</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gabarrini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Harmsen</surname>
+                      <given-names>HJM</given-names>
+                    </name>
+                    <name>
+                      <surname>Westra</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>van Winkelhoff</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>van Dijl</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Talk to your gut: the oral-gut microbiome axis and its immunomodulatory role in the etiology of rheumatoid arthritis</article-title>
+                  <source>FEMS Microbiol Rev</source>
+                  <year>2019</year>
+                  <volume>43</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>18</lpage>
+                  <pub-id pub-id-type="pmid">30219863</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Caselli</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Fabbri</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>D'Accolti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Soffritti</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Bassi</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Mazzacane</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Defining the oral microbiome by whole-genome sequencing and resistome analysis: the complexity of the healthy picture</article-title>
+                  <source>BMC Microbiol</source>
+                  <year>2020</year>
+                  <volume>20</volume>
+                  <issue>1</issue>
+                  <fpage>120</fpage>
+                  <?supplied-pmid 32423437?>
+                  <pub-id pub-id-type="pmid">32423437</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <mixed-citation publication-type="other">Seidel CL, Gerlach RG, Wiedemann P, Weider M, Rodrian G, Hader M, et al. Defining metaniches in the oral cavity according to their microbial composition and cytokine profile. Int J Mol Sci. 2020;21(21).</mixed-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Cohnen</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Klenske</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Schmitt</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Vitali</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirschmann</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Long-term effectiveness, safety and immunogenicity of the biosimilar SB2 in inflammatory bowel disease patients after switching from originator infliximab</article-title>
+                  <source>Therap Adv Gastroenterol</source>
+                  <year>2021</year>
+                  <volume>14</volume>
+                  <fpage>1756284820982802</fpage>
+                  <?supplied-pmid 33505519?>
+                  <pub-id pub-id-type="pmid">33505519</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Best</surname>
+                      <given-names>WR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Predicting the Crohn's disease activity index from the Harvey-Bradshaw Index</article-title>
+                  <source>Inflamm Bowel Dis</source>
+                  <year>2006</year>
+                  <volume>12</volume>
+                  <issue>4</issue>
+                  <fpage>304</fpage>
+                  <lpage>310</lpage>
+                  <?supplied-pmid 16633052?>
+                  <pub-id pub-id-type="pmid">16633052</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lewis</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                    <name>
+                      <surname>Chuai</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nessel</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lichtenstein</surname>
+                      <given-names>GR</given-names>
+                    </name>
+                    <name>
+                      <surname>Aberra</surname>
+                      <given-names>FN</given-names>
+                    </name>
+                    <name>
+                      <surname>Ellenberg</surname>
+                      <given-names>JH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Use of the noninvasive components of the Mayo score to assess clinical response in ulcerative colitis</article-title>
+                  <source>Inflamm Bowel Dis</source>
+                  <year>2008</year>
+                  <volume>14</volume>
+                  <issue>12</issue>
+                  <fpage>1660</fpage>
+                  <lpage>1666</lpage>
+                  <?supplied-pmid 18623174?>
+                  <pub-id pub-id-type="pmid">18623174</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <mixed-citation publication-type="other">Ries J, Agaimy A, Wehrhan F, Baran C, Bolze S, Danzer E, et al. Importance of the PD-1/PD-L1 axis for malignant transformation and risk assessment of oral leukoplakia. Biomedicines. 2021;9(2).</mixed-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cieplik</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Zaura</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Brandt</surname>
+                      <given-names>BW</given-names>
+                    </name>
+                    <name>
+                      <surname>Buijs</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Buchalla</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Crielaard</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Microcosm biofilms cultured from different oral niches in periodontitis patients</article-title>
+                  <source>J Oral Microbiol</source>
+                  <year>2019</year>
+                  <volume>11</volume>
+                  <issue>1</issue>
+                  <fpage>1551596</fpage>
+                  <?supplied-pmid 30598734?>
+                  <pub-id pub-id-type="pmid">30598734</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <mixed-citation publication-type="other">Tan CXW, Brand HS, Kalender B, De Boer NKH, Forouzanfar T, de Visscher J. Dental and periodontal disease in patients with inflammatory bowel disease. Clin Oral Investig. 2021.</mixed-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brito</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Zaltman</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Carvalho</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <name>
+                      <surname>Persson</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Gustafsson</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Subgingival microflora in inflammatory bowel disease patients with untreated periodontitis</article-title>
+                  <source>Eur J Gastroenterol Hepatol</source>
+                  <year>2013</year>
+                  <volume>25</volume>
+                  <issue>2</issue>
+                  <fpage>239</fpage>
+                  <lpage>245</lpage>
+                  <?supplied-pmid 23060013?>
+                  <pub-id pub-id-type="pmid">23060013</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Noh</surname>
+                      <given-names>MK</given-names>
+                    </name>
+                    <name>
+                      <surname>Jung</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>KH</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>DH</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Assessment of IL-6, IL-8 and TNF-alpha levels in the gingival tissue of patients with periodontitis</article-title>
+                  <source>Exp Ther Med</source>
+                  <year>2013</year>
+                  <volume>6</volume>
+                  <issue>3</issue>
+                  <fpage>847</fpage>
+                  <lpage>851</lpage>
+                  <?supplied-pmid 24137277?>
+                  <pub-id pub-id-type="pmid">24137277</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mattuella</surname>
+                      <given-names>LG</given-names>
+                    </name>
+                    <name>
+                      <surname>Campagnaro</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Vargas</surname>
+                      <given-names>AE</given-names>
+                    </name>
+                    <name>
+                      <surname>Xavier</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                    <name>
+                      <surname>Oppermann</surname>
+                      <given-names>RV</given-names>
+                    </name>
+                    <name>
+                      <surname>Chies</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Plasma cytokines levels in aggressive and chronic periodontitis</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2013</year>
+                  <volume>71</volume>
+                  <issue>3–4</issue>
+                  <fpage>683</fpage>
+                  <lpage>688</lpage>
+                  <?supplied-pmid 22943212?>
+                  <pub-id pub-id-type="pmid">22943212</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Neumann</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Scheffold</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Rutz</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Functions and regulation of T cell-derived interleukin-10</article-title>
+                  <source>Semin Immunol</source>
+                  <year>2019</year>
+                  <volume>44</volume>
+                  <fpage>101344</fpage>
+                  <?supplied-pmid 31727465?>
+                  <pub-id pub-id-type="pmid">31727465</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mizoguchi</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Slowikowski</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Wei</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Marshall</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Rao</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Functionally distinct disease-associated fibroblast subsets in rheumatoid arthritis</article-title>
+                  <source>Nat Commun</source>
+                  <year>2018</year>
+                  <volume>9</volume>
+                  <issue>1</issue>
+                  <fpage>789</fpage>
+                  <?supplied-pmid 29476097?>
+                  <pub-id pub-id-type="pmid">29476097</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jakubowska</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Pryczynicz</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Iwanowicz</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Niewinski</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Maciorkowska</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Hapanowicz</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Expressions of matrix metalloproteinases (MMP-2, MMP-7, and MMP-9) and their inhibitors (TIMP-1, TIMP-2) in inflammatory bowel diseases</article-title>
+                  <source>Gastroenterol Res Pract</source>
+                  <year>2016</year>
+                  <volume>2016</volume>
+                  <fpage>2456179</fpage>
+                  <?supplied-pmid 27034654?>
+                  <pub-id pub-id-type="pmid">27034654</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ebrahimpour</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Shahbazi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Khalili</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tahoori</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>ZavaranHosseini</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Amari</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Elevated levels of IL-2 and IL-21 produced by CD4+ T cells in inflammatory bowel disease</article-title>
+                  <source>J Biol Regul Homeost Agents</source>
+                  <year>2017</year>
+                  <volume>31</volume>
+                  <issue>2</issue>
+                  <fpage>279</fpage>
+                  <lpage>287</lpage>
+                  <?supplied-pmid 28685527?>
+                  <pub-id pub-id-type="pmid">28685527</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ozawa</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tada</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Tamai</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Uehara</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamaguchi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Expression of IL-2 receptor beta and gamma chains by human gingival fibroblasts and up-regulation of adhesion to neutrophils in response to IL-2</article-title>
+                  <source>J Leukoc Biol</source>
+                  <year>2003</year>
+                  <volume>74</volume>
+                  <issue>3</issue>
+                  <fpage>352</fpage>
+                  <lpage>359</lpage>
+                  <?supplied-pmid 12949238?>
+                  <pub-id pub-id-type="pmid">12949238</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bunaes</surname>
+                      <given-names>DF</given-names>
+                    </name>
+                    <name>
+                      <surname>Mustafa</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mohamed</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                    <name>
+                      <surname>Lie</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Leknes</surname>
+                      <given-names>KN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of smoking on inflammatory and bone remodeling markers in gingival crevicular fluid and subgingival microbiota following periodontal therapy</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>2017</year>
+                  <volume>52</volume>
+                  <issue>4</issue>
+                  <fpage>713</fpage>
+                  <lpage>724</lpage>
+                  <?supplied-pmid 28306142?>
+                  <pub-id pub-id-type="pmid">28306142</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Seymour</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of medications on the periodontal tissues in health and disease</article-title>
+                  <source>Periodontol</source>
+                  <year>2000</year>
+                  <volume>2006</volume>
+                  <issue>40</issue>
+                  <fpage>120</fpage>
+                  <lpage>129</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Danese</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Vuitton</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Peyrin-Biroulet</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Biologic agents for IBD: practical insights</article-title>
+                  <source>Nat Rev Gastroenterol Hepatol</source>
+                  <year>2015</year>
+                  <volume>12</volume>
+                  <issue>9</issue>
+                  <fpage>537</fpage>
+                  <lpage>545</lpage>
+                  <?supplied-pmid 26284562?>
+                  <pub-id pub-id-type="pmid">26284562</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gomollon</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Dignass</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Annese</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Tilg</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Assche</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindsay</surname>
+                      <given-names>JO</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>3rd European evidence-based consensus on the diagnosis and management of Crohn's disease 2016: part 1: diagnosis and medical management</article-title>
+                  <source>J Crohns Colitis</source>
+                  <year>2017</year>
+                  <volume>11</volume>
+                  <issue>1</issue>
+                  <fpage>3</fpage>
+                  <lpage>25</lpage>
+                  <?supplied-pmid 27660341?>
+                  <pub-id pub-id-type="pmid">27660341</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mowat</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Cole</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Windsor</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ahmad</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Arnott</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Driscoll</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Guidelines for the management of inflammatory bowel disease in adults</article-title>
+                  <source>Gut</source>
+                  <year>2011</year>
+                  <volume>60</volume>
+                  <issue>5</issue>
+                  <fpage>571</fpage>
+                  <lpage>607</lpage>
+                  <?supplied-pmid 21464096?>
+                  <pub-id pub-id-type="pmid">21464096</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Mattos</surname>
+                      <given-names>BR</given-names>
+                    </name>
+                    <name>
+                      <surname>Garcia</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Nogueira</surname>
+                      <given-names>JB</given-names>
+                    </name>
+                    <name>
+                      <surname>Paiatto</surname>
+                      <given-names>LN</given-names>
+                    </name>
+                    <name>
+                      <surname>Albuquerque</surname>
+                      <given-names>CG</given-names>
+                    </name>
+                    <name>
+                      <surname>Souza</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Inflammatory bowel disease: an overview of immune mechanisms and biological treatments</article-title>
+                  <source>Mediators Inflamm</source>
+                  <year>2015</year>
+                  <volume>2015</volume>
+                  <fpage>493012</fpage>
+                  <?supplied-pmid 26339135?>
+                  <pub-id pub-id-type="pmid">26339135</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koga</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsui</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Takatsu</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Takada</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Kishi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Yano</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Trough level of infliximab is useful for assessing mucosal healing in Crohn's disease: a prospective cohort study</article-title>
+                  <source>Intest Res</source>
+                  <year>2018</year>
+                  <volume>16</volume>
+                  <issue>2</issue>
+                  <fpage>223</fpage>
+                  <lpage>232</lpage>
+                  <?supplied-pmid 29743835?>
+                  <pub-id pub-id-type="pmid">29743835</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhou</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Yang</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Fang</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Liu</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Blockade of PLD2 ameliorates intestinal mucosal inflammation of inflammatory bowel disease</article-title>
+                  <source>Mediators Inflamm</source>
+                  <year>2016</year>
+                  <volume>2016</volume>
+                  <fpage>2543070</fpage>
+                  <?supplied-pmid 27721573?>
+                  <pub-id pub-id-type="pmid">27721573</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Danese</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mechanisms of action of infliximab in inflammatory bowel disease: an anti-inflammatory multitasker</article-title>
+                  <source>Dig Liver Dis</source>
+                  <year>2008</year>
+                  <volume>40</volume>
+                  <issue>Suppl 2</issue>
+                  <fpage>S225</fpage>
+                  <lpage>S228</lpage>
+                  <?supplied-pmid 18598993?>
+                  <pub-id pub-id-type="pmid">18598993</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vos</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Wildenberg</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Arijs</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Duijvestein</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Verhaar</surname>
+                      <given-names>AP</given-names>
+                    </name>
+                    <name>
+                      <surname>de Hertogh</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Regulatory macrophages induced by infliximab are involved in healing in vivo and in vitro</article-title>
+                  <source>Inflamm Bowel Dis</source>
+                  <year>2012</year>
+                  <volume>18</volume>
+                  <issue>3</issue>
+                  <fpage>401</fpage>
+                  <lpage>408</lpage>
+                  <?supplied-pmid 21936028?>
+                  <pub-id pub-id-type="pmid">21936028</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mantovani</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Cassatella</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Costantini</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Jaillon</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Neutrophils in the activation and regulation of innate and adaptive immunity</article-title>
+                  <source>Nat Rev Immunol</source>
+                  <year>2011</year>
+                  <volume>11</volume>
+                  <issue>8</issue>
+                  <fpage>519</fpage>
+                  <lpage>531</lpage>
+                  <?supplied-pmid 21785456?>
+                  <pub-id pub-id-type="pmid">21785456</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Shu</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhou</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Chu</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Anti-TNF-alpha therapy suppresses proinflammatory activities of mucosal neutrophils in inflammatory bowel disease</article-title>
+                  <source>Mediators Inflamm</source>
+                  <year>2018</year>
+                  <volume>2018</volume>
+                  <fpage>3021863</fpage>
+                  <?supplied-pmid 30595666?>
+                  <pub-id pub-id-type="pmid">30595666</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

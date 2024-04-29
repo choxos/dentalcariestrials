@@ -1,0 +1,2049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:35:53Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10944617" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10944617</identifier>
+        <datestamp>2024-03-17</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10944617</article-id>
+              <article-id pub-id-type="pmcid">PMC10944617</article-id>
+              <article-id pub-id-type="pmc-uid">10944617</article-id>
+              <article-id pub-id-type="pmid">38493083</article-id>
+              <article-id pub-id-type="pmid">38493083</article-id>
+              <article-id pub-id-type="publisher-id">4057</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-024-04057-4</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Performance of cone-beam computed tomography (CBCT) in comparison to conventional computed tomography (CT) and magnetic resonance imaging (MRI) for the detection of bone invasion in oral squamous cell cancer (OSCC): a prospective study</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Straub</surname>
+                    <given-names>Anton</given-names>
+                  </name>
+                  <address>
+                    <email>Straub_A@ukw.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Linz</surname>
+                    <given-names>Christian</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lapa</surname>
+                    <given-names>Constantin</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hartmann</surname>
+                    <given-names>Stefan</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kübler</surname>
+                    <given-names>Alexander C.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Müller-Richter</surname>
+                    <given-names>Urs D. A.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Faber</surname>
+                    <given-names>Julian</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bley</surname>
+                    <given-names>Thorsten</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Brumberg</surname>
+                    <given-names>Joachim</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kertels</surname>
+                    <given-names>Olivia</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Brands</surname>
+                    <given-names>Roman C.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03pvr2g57</institution-id><institution-id institution-id-type="GRID">grid.411760.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 1378 7891</institution-id><institution>Department of Oral and Maxillofacial Plastic Surgery, </institution><institution>University Hospital Würzburg, </institution></institution-wrap>Pleicherwall 2, 97070 Würzburg, Germany </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/05mxhda18</institution-id><institution-id institution-id-type="GRID">grid.411097.a</institution-id><institution-id institution-id-type="ISNI">0000 0000 8852 305X</institution-id><institution>Department of Oral, Maxillofacial and Plastic Surgery, </institution><institution>University of Köln, Faculty of Medicine and University Hospital Köln, </institution></institution-wrap>Kepenerstr. 62, 50937 Köln, Germany </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03p14d497</institution-id><institution-id institution-id-type="GRID">grid.7307.3</institution-id><institution-id institution-id-type="ISNI">0000 0001 2108 9006</institution-id><institution>Nuclear Medicine, Faculty of Medicine, </institution><institution>University of Augsburg, </institution></institution-wrap>Stenglinstr. 2, 86156 Augsburg, Germany </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03pvr2g57</institution-id><institution-id institution-id-type="GRID">grid.411760.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 1378 7891</institution-id><institution>Department of Diagnostic and Interventional Radiology, </institution><institution>University Hospital Würzburg, </institution></institution-wrap>Oberdürrbacherstr. 6, 97080 Würzburg, Germany </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0245cg223</institution-id><institution-id institution-id-type="GRID">grid.5963.9</institution-id><institution-id institution-id-type="ISNI">0000 0004 0491 7203</institution-id><institution>Department of Nuclear Medicine, Medical Center, Faculty of Medicine, </institution><institution>University of Freiburg, University of Freiburg, </institution></institution-wrap>Hugstetterstr. 55, 79106 Freiburg, Germany </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.6936.a</institution-id><institution-id institution-id-type="ISNI">0000000123222966</institution-id><institution>Department of Diagnostic and Interventional Neuroradiology, Klinikum rechts der Isar, </institution><institution>Technical University of München, </institution></institution-wrap>Ismaninger Str. 22, 81675 München, Germany </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>16</day>
+                <month>3</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>16</day>
+                <month>3</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2024</year>
+              </pub-date>
+              <volume>24</volume>
+              <elocation-id>341</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>19</day>
+                  <month>10</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>21</day>
+                  <month>2</month>
+                  <year>2024</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2024</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Oral squamous carcinoma (OSCC) is often diagnosed at late stages and bone erosion or invasion of the jawbone is frequently present. Computed tomography (CT) and magnetic resonance imaging (MRI) are known to have high diagnostic sensitivities, specificities, and accuracies in detecting these bone affections in patients suffering from OSCC. To date, the existing data regarding the impact of cone-beam computed tomography (CBCT) have been weak. Therefore, this study aimed to investigate whether CBCT is a suitable tool to detect bone erosion or invasion in patients with OSCC.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">We investigated in a prospective trial the impact of CBCT in the diagnosis of bone erosion or invasion in patients with OSCC who underwent surgery. Every participant received a CBCT, CT, and MRI scan during staging. Imaging modalities were evaluated by two specialists in oral and maxillofacial surgery (CBCT) and two specialists in radiology (CT and MRI) in a blinded way, to determine whether a bone affection was present or not. Reporting used the following 3-point system: no bony destruction (“0”), cortical bone erosion (“1”), or medullary bone invasion (“2”). Histological examination or a follow-up served to calculate the sensitivities, specificities, and accuracies of the imaging modalities.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">Our results revealed high diagnostic sensitivities (95.6%, 84.4%, and 88.9%), specificities (87.0%, 91.7%, and 91.7%), and accuracies (89.5%, 89.5%, and 90.8%) for CBCT, CT, and MRI. A pairwise comparison found no statistical difference between CBCT, CT, and MRI.</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p id="Par4">Our data support the routine use of CBCT in the diagnosis of bone erosion and invasion in patients with OSCC as diagnostic accuracy is equal to CT and MRI, the procedure is cost-effective, and it can be performed during initial contact with the patient.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Bone invasion</kwd>
+                <kwd>Bone resection</kwd>
+                <kwd>Computed tomography</kwd>
+                <kwd>Cone-beam computed tomography</kwd>
+                <kwd>Head and neck cancer</kwd>
+                <kwd>Mandibulectomy</kwd>
+                <kwd>Magnetic resonance imaging</kwd>
+                <kwd>Oral cancer</kwd>
+                <kwd>Oral squamous cell carcinoma</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Universitätsklinikum Würzburg (8913)</institution>
+                  </funding-source>
+                </award-group>
+                <open-access>
+                  <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+                </open-access>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2024</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1" sec-type="introduction">
+              <title>Introduction</title>
+              <p id="Par5">Oral squamous cell carcinoma (OSCC) accounts for approximately 5% of all malignant tumors and occurs more frequently in men than in women. The diagnosis is often made at advanced disease stages, and consequently, infiltration of the maxillary and mandibular bone is frequently present in OSCC [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref>]. Despite treatment options such as microvascular reconstructive surgery or newly approved immunotherapies, the five-year survival rate is rather poor and has increased from 55 to only 66% within the last three decades [<xref ref-type="bibr" rid="CR4">4</xref>]. In addition to classic risk factors such as alcohol and tobacco consumption, infection with human papilloma (HP) viruses or chewing areca nut products play an important role [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. However, the different causes of tumorigenesis do not lead to different recommendations regarding the diagnosis and therapy of OSCC [<xref ref-type="bibr" rid="CR2">2</xref>].</p>
+              <p id="Par6">Most commonly, OSCC is treated surgically, with adjuvant radiation or combined radio-/chemotherapy depending on the tumor stage [<xref ref-type="bibr" rid="CR7">7</xref>]. The presence of bone invasion leads to stage IVa status in the tumor, (lymph) nodes, metastases (TNM) classification, whereas only superficial erosion of the jawbone has no effect on the tumor stage. The distinction between erosion and invasion is not only reflected in the tumor stage but is also a prognostic factor and important for surgical planning and the decision whether adjuvant therapy is necessary [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>]. Bone erosion and especially invasion markedly increase the surgical requirement for resection and reconstruction. Therefore, bone erosion, for example, through OSCC of the alveolar gingiva in the lower jaw, could be treated with marginal mandibulectomy, while bone invasion usually requires segmental resection of the mandibula [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. After maxillary and mandibular bone removal, calvaria, iliac crest, and vascularized bone grafts are described in the literature for reconstruction. Iliac crest can be obtained as a non-vascularized bone graft or as a free microvascular flap. Furthermore, fibula or scapula flaps with or without a skin paddle are frequently used in reconstructive maxillofacial surgery [<xref ref-type="bibr" rid="CR11">11</xref>–<xref ref-type="bibr" rid="CR14">14</xref>]. For surgical planning, it is therefore crucial not only to detect the presence of a bone affection preoperatively but also to assess its extent accurately (erosion vs. invasion) [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR15">15</xref>].</p>
+              <p id="Par7">The detection of bone affections caused by OSCC is normally performed with computed tomography (CT) or magnetic resonance imaging (MRI). Both radiological modalities can detect bone erosion or invasion with similar sensitivity, specificity, and accuracy. In the literature, these values were between 41.7 and 89, 86.9–100, and 71.2–85 for CT and 58.3–95%, 73–100%, and 75.8–93%, respectively, for MRI [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>]. Another option to illustrate bone structures and therefore detect bone erosion or invasion in patients with OSCC is cone-beam computed tomography (CBCT), which is commonly used in oral and maxillofacial surgery [<xref ref-type="bibr" rid="CR19">19</xref>–<xref ref-type="bibr" rid="CR21">21</xref>]. In particular, high resolution (0.09–0.4 mm), easy availability, and low radiation doses (29–477 µSv) are advantages of CBCT compared to CT and MRI [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]. In the literature, CBCT has been reported to detect bone erosion and invasion with high sensitivity, specificity, and accuracy (Table <xref rid="Tab1" ref-type="table">1</xref>) [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR24">24</xref>–<xref ref-type="bibr" rid="CR27">27</xref>].</p>
+              <p id="Par8">
+                <table-wrap id="Tab1">
+                  <label>Table 1</label>
+                  <caption>
+                    <p>Sensitivity, specificity and accuracy of CBCT in the detection of a bone invasion in the jaw bone [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR27">27</xref>–<xref ref-type="bibr" rid="CR30">30</xref>]</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left"/>
+                        <th align="left">Subjects</th>
+                        <th align="left">Sensitivity in %</th>
+                        <th align="left">Specificity in %</th>
+                        <th align="left">Accuracy (95% CI)<break/>in %</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">Wang et al., 2021</td>
+                        <td char="." align="char">30</td>
+                        <td align="left">100</td>
+                        <td align="left">100</td>
+                        <td align="left">100</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Czerwonka et al., 2017</td>
+                        <td char="." align="char">45</td>
+                        <td align="left">91</td>
+                        <td align="left">86</td>
+                        <td align="left">--</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Linz et al., 2015</td>
+                        <td char="." align="char">197</td>
+                        <td align="left">87.9</td>
+                        <td align="left">83.2</td>
+                        <td align="left">84.8</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Hakim et al., 2014</td>
+                        <td char="." align="char">48</td>
+                        <td align="left">93</td>
+                        <td align="left">62</td>
+                        <td align="left">77</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Dreiseidler et al., 2011</td>
+                        <td char="." align="char">77</td>
+                        <td align="left">92</td>
+                        <td align="left">96.5</td>
+                        <td align="left">93.1</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Hendrikx et al., 2010</td>
+                        <td char="." align="char">23</td>
+                        <td align="left">90.9</td>
+                        <td align="left">100</td>
+                        <td align="left">95.7</td>
+                      </tr>
+                      <tr>
+                        <td align="left">Momin et al., 2009</td>
+                        <td char="." align="char">50</td>
+                        <td align="left">89</td>
+                        <td align="left">60</td>
+                        <td align="left">--</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </p>
+              <p id="Par9">The current literature has many limitations, such as small and heterogeneous study collectives, different scan protocols (e.g. slice thicknesses), or the fact that not all imaging modalities were performed in one patient; therefore, no intraindividual comparison of the CBCT, CT, and MRI scans was possible. This is the reason why the current German guidelines for the diagnosis and therapy of OSCC do not give a clear recommendation on which imaging modality should be used to detect bone erosion or invasion.</p>
+              <p id="Par10">We hypothesize that CBCT is equally as reliable as CT and MRI in the detection of bone erosion and invasion in patients with OSCC. To our knowledge, this is the first prospective study to investigate the sensitivity, specificity, and accuracy of CBCT, CT, and MRI intraindividually in a large and consistent study collective with OSCC.</p>
+            </sec>
+            <sec id="Sec2" sec-type="materials|methods">
+              <title>Materials and methods</title>
+              <p id="Par11">We initiated a prospective trial from April 2013 to May 2016, in which we investigated the sensitivity, specificity, and accuracy of CBCT, CT, and MRI to detect bone erosion and invasion in patients with OSCC (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).</p>
+              <p id="Par12">
+                <fig id="Fig1">
+                  <label>Fig. 1</label>
+                  <caption>
+                    <p>Flowchart of the study design. When bone erosion or invasion was detected on CBCT, CT, or MRI, a bone resection was performed. The imaging modalities were validated by histological examination of the bone tissue. When no bone erosion or invasion was detected in CBCT, CT, and MRI, normally no bone resection was performed. However, when the tumor had direct contact with the jawbone, a bone resection was performed in some cases, and a histological examination could serve to validate CBCT, CT, and MRI. In cases without any bone resection, a follow-up served to validate the radiological findings</p>
+                  </caption>
+                  <graphic xlink:href="12903_2024_4057_Fig1_HTML" id="d33e518"/>
+                </fig>
+              </p>
+              <p id="Par13">The inclusion criteria were as follows:</p>
+              <p id="Par14">
+                <list list-type="bullet">
+                  <list-item>
+                    <p id="Par15">Age over 18.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par16">Histologically confirmed diagnosis of OSCC.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par17">No previous bone operations.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par18">Preoperative CBCT, CT, and MRI scan performed.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par19">Absence of foreign metal objects.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par20">Surgical tumor therapy administered no later than two weeks after completion of the staging examinations.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par21">Histological examination of the resected bone tissue or clinical and radiological follow-up for at least six months.</p>
+                  </list-item>
+                </list>
+              </p>
+              <p id="Par22">The exclusion criteria were as follows:</p>
+              <p id="Par23">
+                <list list-type="bullet">
+                  <list-item>
+                    <p id="Par24">Artifacts, which highly influence CBCT, CT, and MRI evaluations.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par25">Pre-existing osteoradionecrosis.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par26">Pre-existing drug-related osteonecrosis of the jaw.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par27">Malignancies other than OSCC.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par28">No histological examination or incomplete follow-up.</p>
+                  </list-item>
+                </list>
+              </p>
+              <p id="Par29">The institutional review board of the University of Würzburg approved all the protocols implemented in this study (IRB approval number: 286/12).</p>
+              <sec id="Sec3">
+                <title>Cone-beam computed tomography (CBCT)</title>
+                <p id="Par30">CBCT was performed with a Sirona Dentsply Galileos device (Sirona Dental Systems Inc., Bensheim, Hesse, Germany). The CBCT scans were saved as DICOM files and had 512 × 512 × 512 voxels with a resolution of 0.29 mm. The field of view was 147 × 147 × 147 mm. The evaluation of the CBCT images was performed at a workstation with Picture Archiving and Communication System (PACS)-based software (Merlin, Version Rev: 5.4.168314).</p>
+                <p id="Par31">The evaluation was performed by two experienced specialists in oral and maxillofacial plastic surgery with an additional qualification in dental radiology, especially focusing on CBCT scans in consensus under standardized conditions at the same workstation and in a blinded manner (without knowledge of the reports of the other images and whether a bone invasion was present or not). Consensus means that both specialists agreed on the evaluation or discussed the findings until they reached a consent decision together. Information on the tumor location and any relevant previous surgery (for example, tumor surgery, decortication, or tooth extractions) was provided to the reporting physicians. Reporting used the following 3-point system: no bony destruction (“0”), bone erosion (“1”), or bone invasion (“2”) (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). In addition, it was documented whether artifacts (for example, due to patient movements, dentures, foreign bodies, or similar instances) were present and whether these influenced the findings of bone integrity in the tumor area.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Computed tomography (CT)</title>
+                <p id="Par32">CT was performed with a PET/CT scanner (Siemens Biograph mCT 64, Siemens Healthineers, Knoxville, USA). Contrast-enhanced images from the thorax and abdomen were acquired (dose modulation with 180 mAs, 120 kV, 512 × 512 matrix, 5 mm slice thickness, increment of 30 mm/s, rotation time 0.5 s, and a pitch index of 1.4). Furthermore, a dedicated image of the head and neck region was performed using contrast-enhanced CT (180 mAs, 120 kV, 512 × 512 matrix, 0.75-5 mm slice thickness, increment of 30 mm/s, rotation time of 1.0 s, and a pitch index of 0.9).</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Magnetic resonance imaging (MRI)</title>
+                <p id="Par33">MRI images were obtained from the head and neck region using a 1.5 T scanner (Siemens Magnetom Avanto fit, Siemens Healthcare, Erlangen, Germany) or a 3.0 T scanner (Magnetom Prisma or Skyra Siemens Healthcare, Erlangen, Germany) with a 20-channel head and neck coil as a signal receiver. MRI sequences included coronary T2-weighted inversion recovery magnitude (TIRM), axial T2-weighted sequences, coronary T1-weighted sequences with and without contrast enhancement and subtraction, axial T1-weighted sequences with fatty saturation and contrast enhancement, and axial diffusion weighting. A contrast agent (gadoterate-meglumine, dose 0.1 mmol/kg) was applied to patients using an injection system (Spectris MR Injector, Medrad) with a flow rate of 3 ml/second, followed by 20 ml of 0.9% saline. The MRI slice thicknesses were 3–4 mm.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Image evaluation of CT and MRI scans</title>
+                <p id="Par34">The evaluation was performed by two experienced specialists in radiology in consensus under standardized conditions at the same workstation and in a blinded manner (without knowledge of the reports of the other images and whether a bone invasion was present or not). Information on the tumor location and any relevant previous surgery (for example, tumor surgery, decortication, or tooth extractions) was provided to the reporting physicians. Reporting used the following 3-point system: no bone erosion or invasion (“0”), bone erosion (“1”), or bone invasion (“2”). In addition, it was documented whether artifacts (for example, due to patient movements, dentures, foreign bodies, or similar) were present and whether these influenced the findings of bone integrity in the tumor area (Fig. <xref rid="Fig2" ref-type="fig">2</xref>).</p>
+                <p id="Par35">
+                  <fig id="Fig2">
+                    <label>Fig. 2</label>
+                    <caption>
+                      <p>Panel A portrays a cortical erosion caused by an OSCC (red arrow), and Panel B portrays bone invasion (red arrow) of an OSCC in a different patient in a CBCT scan. A was thus scored in the 3-point system with a <italic>1</italic> (bone erosion), and B was scored with a <italic>2</italic> (bone invasion). The radiological findings in both cases were confirmed by histological examination</p>
+                    </caption>
+                    <graphic xlink:href="12903_2024_4057_Fig2_HTML" id="d33e610"/>
+                  </fig>
+                </p>
+              </sec>
+              <sec id="Sec7">
+                <title>Verification of CBCT, CT, and MRI</title>
+                <p id="Par36">The CBCT, CT, and MRI reports were validated either with the result of the histological examination of the bone tissue or, if no bone tissue was harvested in the operation, by a clinical and radiological follow-up.</p>
+                <p id="Par37">In general, bone was resected when the images detected bone erosion or invasion. In these cases, the histological examination validated the image reports. The bone tissue was fixed in formalin. Thereafter, a decalcification process with methanoic acid (formic acid) was performed for at least 72 h. Subsequently, the paraffin-embedded tissue was cut into 2 μm thick layers and stained with hematoxylin/eosin (HE).</p>
+                <p id="Par38">Erosion was defined as an infiltration of the bone that is limited to the cortical bone. In contrast, invasion was defined as infiltration into the medullary cavity. Histological examination was performed under the supervision of a board-certified pathologist and served as the gold standard for verification of the imaging modalities.</p>
+                <p id="Par39">When no bone tissue was obtained for a histological examination, a clinical and radiological follow-up served to verify the imaging findings. This follow-up was performed for at least six months and included a clinical examination and at least one postoperative CT or MRI scan. If no bone invasion was detected in the primary staging investigation by CBCT, CT, and MRI and a bone relapse occurred during the follow-up, the radiological findings were classified as false-negative when an operation followed and the histological examination confirmed the relapse. If no relapse was detected during the follow-up, the radiological findings were classified as correct-negative.</p>
+                <p id="Par40">Furthermore, we performed different subgroup analyses to evaluate the effect of slice thicknesses in CT and to calculate the sensitivity, specificity, and accuracy only in patients with a histological examination of bone tissue (gold standard).</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Statistical analysis</title>
+                <p id="Par41">Sensitivity, specificity, and accuracy were calculated for each of the above imaging modalities. Pairwise comparisons of the sensitivity and specificity of CBCT, CT, and MRI were performed using McNemar’s tests. All statistical tests were two-sided and calculated at a significance level of <italic>p</italic> &lt; 0.05. No correction of <italic>p</italic> values was applied.</p>
+                <p id="Par42">Statistical analysis was performed using R software (version 3.6.1, R Core Team, Vienna 2019) with Caret (version 6.0–84), DTComPair (version 1.0.3), pROC (version 1.15.3), and verification (version 1.42) packages.</p>
+              </sec>
+            </sec>
+            <sec id="Sec9" sec-type="results">
+              <title>Results</title>
+              <p id="Par43">Statistical analysis of all 153 patients revealed a mean age of approximately 64 years. The youngest patient was 23 years old, and the oldest was 94 years old. Eighty-seven of the 153 patients (57%) were male, and 66 were female. The median histological tumor size was 2.70 cm. T1 and T2 tumors were the most common, numbering 95 cases; T3 tumors were diagnosed in ten cases; and T4 tumors were diagnosed in 47 cases. Other tumor characteristics, such as lymph node status, grade, and venous, lymphatic vessel, and perineural sheath infiltration, are portrayed in Table <xref rid="Tab2" ref-type="table">2</xref>.</p>
+              <p id="Par44">
+                <table-wrap id="Tab2">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Categorical data</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <p>
+                            <bold>Age (years)</bold>
+                          </p>
+                          <p> range</p>
+                        </td>
+                        <td align="left">
+                          <p>63.6 ± 12.2</p>
+                          <p>23–94</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Sex (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> Male/female</td>
+                        <td align="left">87/66</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Localisation (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> Right</td>
+                        <td align="left">65</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Left</td>
+                        <td align="left">60</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Anterior</td>
+                        <td align="left">21</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Affecting right, left, and anterior region</td>
+                        <td align="left">7</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Surgical procedure (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> No bone resection</td>
+                        <td align="left">76</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Bone resection</td>
+                        <td align="left">77</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Partial mandibular resection</td>
+                        <td align="left">36</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Mandibulectomy</td>
+                        <td align="left">24</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Maxillary partial resection</td>
+                        <td align="left">17</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Reconstruction (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> Local or stalked flap</td>
+                        <td align="left">41</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Microvascular radialis graft</td>
+                        <td align="left">85</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Microvascular fibula graft</td>
+                        <td align="left">10</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Other microvascular graft*</td>
+                        <td align="left">15</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> No information</td>
+                        <td align="left">2</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Adjuvant therapy (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> No further therapy</td>
+                        <td align="left">49</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> RCT</td>
+                        <td align="left">64</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> RT</td>
+                        <td align="left">35</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Not specified</td>
+                        <td align="left">5</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Histological results (n)</bold>
+                        </td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left"> T1/T2/T3/T4/Tx</td>
+                        <td align="left">47/48/10/47/1</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Mean tumor size</td>
+                        <td align="left">2.68 ± 1.42</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> N0/N1/N2a/N2b/N2c/N3/Nx</td>
+                        <td align="left">83/20/0/33/5/0/12</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> G1/G2/G3/Gx</td>
+                        <td align="left">18/99/33/3</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Positive V/L/Pn</td>
+                        <td align="left">6/25/26</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> R0/R1/R2/Rx**</td>
+                        <td align="left">119/18/0/16</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> UICC stadium I/II/III/IVa/IVb</td>
+                        <td align="left">37/29/14/69/4</td>
+                      </tr>
+                      <tr>
+                        <td align="left"> Detected bone invasion</td>
+                        <td align="left">45</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Mean duration of follow-up (months)</bold>
+                        </td>
+                        <td align="left">27</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>RCT = radiochemotherapy, RT = radiotherapy alone, T1-4 = tumor size, N0-3 = nodal status, M = presence of distant metastases, G = grading, V = invasion into veins, L = invasion into lymphatic vessels, Pn = invasion into adjunct nerves, R0 = no residual tumor, R1 = microscopic residual tumor, R2 = macroscopic residual tumor, Rx = presence of a residual tumor cannot be assessed. *Other microvascular grafts were obtained from the scapula, vastus, anterolateral thigh, or soleus perforator flap. In two patients, no information was found about the reconstruction method that was used. **The data refer to the primary classification of the pathologist. Some patients who were classified as R1 received a second tumor resection and were finally classified as R0. Furthermore, some of the Rx patients were classified as R0 by the operator.</p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </p>
+              <sec id="Sec10">
+                <title>Detection of a bone invasion</title>
+                <p id="Par46">Across the entire cohort, a sensitivity of 95.6%, a specificity of 87.0%, and an accuracy of 89.5% (83.6–93.9%) with <italic>p</italic> &lt; 0.001 (binominal test of the accuracy) were calculated for CBCT. For CT, a sensitivity of 84.4%, a specificity of 91.7%, and an accuracy of 89.5% (83.6–93.9%) were calculated with <italic>p</italic> &lt; 0.001 (binominal test of the accuracy). For MRI, a sensitivity of 88.9%, a specificity of 91.7%, and an accuracy of 90.8% (85.1–94.9%) were calculated with <italic>p</italic> &lt; 0.001 ((binominal test of the accuracy, Table <xref rid="Tab3" ref-type="table">3</xref>). A pairwise comparison of the sensitivities and specificities of CBCT, CT, and MRI revealed no significant differences in these values (Table <xref rid="Tab4" ref-type="table">4</xref>). The sensitivities of CBCT and CT did not differ significantly (<italic>p</italic> = 0.059) with one misclassification of CBCT when CT classification was correct and six misclassifications of CT when CBCT classification was correct (see Table <xref rid="Tab4" ref-type="table">4</xref>, <sup><bold>+</bold></sup>).</p>
+                <p id="Par47">
+                  <table-wrap id="Tab3">
+                    <label>Table 3</label>
+                    <caption>
+                      <p>General quality of the imaging modalities</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left">Sensitivity in %</th>
+                          <th align="left">Specificity in %</th>
+                          <th align="left">Accuracy (95% CI) in %</th>
+                          <th align="left"><italic>p</italic> value*</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">CBCT</td>
+                          <td char="." align="char">95.6</td>
+                          <td char="." align="char">87.0</td>
+                          <td char="." align="char">89.5 (83.6–93.9)</td>
+                          <td char="." align="char">&lt; 0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left">CT</td>
+                          <td char="." align="char">84.4</td>
+                          <td char="." align="char">91.7</td>
+                          <td char="." align="char">89.5 (83.6–93.3)</td>
+                          <td char="." align="char">&lt; 0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left">MRT</td>
+                          <td char="." align="char">88.9</td>
+                          <td char="." align="char">91.7</td>
+                          <td char="." align="char">90.8 (85.1–94.9)</td>
+                          <td char="." align="char">&lt; 0.001</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>CBCT = cone-beam computed tomography, CT = computed tomography, MRI = magnetic resonance imaging. * Binominal test of the accuracy</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par48">
+                  <table-wrap id="Tab4">
+                    <label>Table 4</label>
+                    <caption>
+                      <p>Pairwise comparisons of sensitivity and specificity</p>
+                    </caption>
+                    <graphic position="anchor" xlink:href="12903_2024_4057_Tab4_HTML" id="d33e965"/>
+                    <table-wrap-foot>
+                      <p>McNemar, <italic>p</italic>-values and in brackets number of misclassifications per procedure, CBCT = cone-beam computed tomography, CT = computed tomography, MRI = magnetic resonance imaging. In the grey area (specificity) the first value refers to the column, the second to the row. In the white area (sensitivity) the first value refers to the row, the second to the column</p>
+                      <p><sup><bold>+</bold></sup> The sensitivity of CBCT and CT did not differ significantly (<italic>p</italic> = 0.059) with one misclassification of CBCT when CT classification was correct and six misclassifications of CT when CBCT classification was correct</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec id="Sec11">
+                <title>Comparison of the different slice thicknesses in CT</title>
+                <p id="Par50">In subgroup A (CT slice thickness from 0.75 to 1.5 mm, <italic>n</italic> = 12), a sensitivity of 88.9%, a specificity of 66.7%, and an accuracy of 83.3% (51.6–97.9%) with <italic>p</italic> &lt; 0.001 (binominal test of the accuracy) were calculated. In subgroup B (CT slice thickness 3 mm, <italic>n</italic> = 41), CT had a sensitivity of 83.3%, a specificity of 89.7%, and an accuracy of 87.8% (73.8–95.9%) with <italic>p</italic> &lt; 0.009, and in subgroup C (CT slice thickness 4 and 5 mm, <italic>n</italic> = 100), a sensitivity of 83.3%, 93.4% and 91.0% (83.6–95.8%) with <italic>p</italic> &lt; 0.001 was determined. No significant difference between CBCT and CT (and MRI) could be found in any subgroup.</p>
+              </sec>
+              <sec id="Sec12">
+                <title>The subgroup with histological examination of bone tissue</title>
+                <p id="Par51">Histological examination of resected bone tissue was conducted in 77 of the 153 patients. Histological examination is considered the gold standard to verify CBCT, CT, and MRI findings. For CBCT, a sensitivity of 95.6%, a specificity of 68.8%, and an accuracy of 84.4% were determined. For CT and MRI, the sensitivity was 84.4% and 88.9%, the specificity was 81.2% (for both modalities), and the accuracy was 83.1% and 85.7%. Differences between the imaging modalities were not statistically significant.</p>
+              </sec>
+              <sec id="Sec13">
+                <title>Artifacts in CBCT, CT, and MRI</title>
+                <p id="Par52">The evaluation of the frequency of artifacts interfering with image evaluation revealed no significant difference between CBCT and MRI. CT resulted in significantly more interfering artifacts than CBCT and MRI (Table <xref rid="Tab5" ref-type="table">5</xref>).</p>
+                <p id="Par53">
+                  <table-wrap id="Tab5">
+                    <label>Table 5</label>
+                    <caption>
+                      <p>Comparison of the frequency of interfering artifacts between CBCT, CT, and MRI</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left"/>
+                          <th align="left" colspan="2">CT</th>
+                          <th align="left" colspan="2">MRI</th>
+                        </tr>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left"/>
+                          <th align="left">No artifacts</th>
+                          <th align="left">Interfering artifacts</th>
+                          <th align="left">No artifacts</th>
+                          <th align="left">Interfering artifacts</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="2">CBCT</td>
+                          <td align="left">No artifacts</td>
+                          <td align="left">96</td>
+                          <td align="left">37</td>
+                          <td align="left">117</td>
+                          <td align="left">16</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Interfering artifacts</td>
+                          <td align="left">11</td>
+                          <td align="left">9</td>
+                          <td align="left">14</td>
+                          <td align="left">6</td>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left"/>
+                          <td align="left">0.855</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>McNemar, CBCT = cone-beam computed tomography, CT = computed tomography, MRI = magnetic resonance imaging. Portrayed are absolute numbers of the collective (<italic>n</italic> = 153).</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+            </sec>
+            <sec id="Sec14" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par55">CBCT is commonly used in oral and maxillofacial surgery, for example, in fracture diagnosis, implant planning, or in general, for therapy planning of jaw pathologies such as cysts [<xref ref-type="bibr" rid="CR23">23</xref>]. Furthermore, some studies have shown evidence that CBCT detects bone invasion caused by oral malignancies with a high sensitivity, specificity, and accuracy. For example, Bombeccari et al. provided a literature overview evaluating seven studies that investigated the impact of CBCT in the detection of bone invasion in patients with OSCC. The diagnostic accuracy and negative predictive value of CBCT were high and comparable to those of CT and MRI. However, it was concluded that the available data are weak and that the impact of CBCT in the diagnosis of bone invasion remains unclear [<xref ref-type="bibr" rid="CR17">17</xref>]. Studies investigating the impact of CBCT enrolled fewer than 50 patients, did not perform all radiological modalities in the same patient, or had a retrospective design [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR24">24</xref>–<xref ref-type="bibr" rid="CR27">27</xref>]. One study enrolled 77 patients but only performed CBCT and CT scans. In that study, CBCT was similarly accurate to CT (sensitivity 92% versus 80% and specificity 96.5% versus 100%) [<xref ref-type="bibr" rid="CR21">21</xref>]. Our study was designed to verify the value of CBCT in the detection of bone erosion or invasion and its role as a staging tool in patients with OSCC. Every patient who was included in our study preoperatively underwent a CBCT, CT, and MRI scan, allowing intraindividual assessment of these imaging modalities.</p>
+              <p id="Par56">The sensitivites, specificities, and accuracies calculated in our study had similar values to those described in the literature and were high for all three imaging modalities without any significant differences among CBCT, CT, and MRI. Our results were highly significant (<italic>p</italic> &lt; 0.001), and observer bias was eliminated by having every modality evaluated by two specialists in consensus. The sensitivity of CBCT was very high (95.6%), which is in line with the literature findings and plausible due to the high bone resolution of CBCT [<xref ref-type="bibr" rid="CR31">31</xref>]. The specificity of CBCT was 87%, which was slightly lower than that of CT and MRI. The tumor itself cannot be visualized in a CBCT scan due to the lack of soft tissue imaging; therefore, it is conclusive that CBCT detects bone invasion with a high sensitivity but lower specificity. Furthermore, dental pathologies such as periodontitis can also lead to bone destruction and may result in higher false-positive results in CBCT, as reported in the literature and supported by the results of our study [<xref ref-type="bibr" rid="CR30">30</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]. The lack of soft tissue and tumor imaging could be responsible for this. A comparison of our findings with the literature is difficult because values are subject to large variations due to small study populations, the heterogeneity of study designs, and different scan protocols and imaging devices [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR29">29</xref>].</p>
+              <p id="Par57">CT and MRI image quality depends on the scan protocols and differs between studies. For example, image quality depends on the slice thicknesses, which were between 1.5 and 6 mm for CT and between 3 and 6 mm for MRI in most studies [<xref ref-type="bibr" rid="CR33">33</xref>–<xref ref-type="bibr" rid="CR35">35</xref>]. In our study, MRI slices were 3 mm in all patients. CT slices differ between 0.75 and 5 mm; we therefore performed a subgroup analysis to investigate the impact of different slice thicknesses in CT on the detection of bone erosion or invasion. Our results revealed no statistical significance between CBCT and CT for small (0.75–1.5 and 3 mm) and large (4–5 mm) slice thicknesses. Values in a small study cohort are subject to large variations, which limits their reliability. It is possible that larger study collectives would find a benefit in favor of thin CT slices in the detection of bone erosion or invasion.</p>
+              <p id="Par58">Furthermore, we performed a subgroup analysis considering only patients with a histological examination of resected bone tissue. This is important because this specific histological examination is considered as the gold standard in the detection of bone erosion or invasion and for the distinction between both. In that subgroup, we did not find any significant difference between the radiological scans, which underlines the value of CBCT in the diagnosis of a bone affection.</p>
+              <p id="Par59">All imaging modalities were found to have artifacts. CBCT and CT had a particularly high rate of artifacts. However, considering only artifacts that interfered with the evaluation of the tumor region, CBCT and MRI had significantly fewer of these than CT. This is in line with the present literature, in which more artifacts are reported for CT than for MRI [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR35">35</xref>].</p>
+              <p id="Par60">In addition, we see great advantages in the early diagnosis of bone erosion or invasion when a CBCT scan is performed during initial contact with a patient exhibiting OSCC or another oral malignancy. This allows the adjustment of the further staging examination and is usually not possible for CT and MRI. For example, it is possible to perform an angiography of the legs if a microvascular fibula transplant is considered or perform a preoperative percutaneous endoscopic gastrostomy. These can prevent delays in tumor therapy caused by a late diagnosis of a bone affection. It must be mentioned that CBCT is only an additional examination to CT and MRI, which are both necessary to visualize the tumor extent and to detect nodal and distant metastases [<xref ref-type="bibr" rid="CR17">17</xref>]. Furthermore, current guidelines recommend dental diagnosis during staging examinations to prevent problems in cases of primary or adjuvant radiation therapy. This dental diagnosis is fully possible with a CBCT scan, and no further dental imaging is necessary [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+              <p id="Par61">Several limitations of our study must be considered. First, the evaluation of CBCT, CT, and MRI scans was performed by different persons (specialists in oral and maxillofacial surgery versus specialists in radiology). This could have caused observer bias that we tried to eliminate by having two specialists in consensus evaluate the images. However, we think this protocol reflects day-to-day practice quite accurately, as CBCT scans were normally evaluated by oral and maxillofacial surgeons, and CT and MRI scans by specialists in radiology. Another limitation is the fact that the CT scan protocols differed, and patients received, for example, CTs with different slice thicknesses. The development of new CBCT devices has led to an even higher resolution, such that the diagnostic accuracy of CBCT could be higher than depicted by the results of our study. Furthermore, the validity of the subgroup analysis was limited due to the small sample size. Only 45 patients were enrolled to evaluate small slice thicknesses in CT. This caused a high variability in the sensitivity, specificity, and accuracy values, and weakens the impact of our results. On the other hand, the study cohort in our subgroups is still larger than those in most of the others studies found in the literature. Furthermore, in 76 of 153 cases, no bone resection was performed. In these cases, the CBCT, CT, and MRI findings were validated by the follow-up. Such a follow-up is less accurate and cannot, for example, differentiate between a case of OSCC that primarily infiltrates the jawbone and has not been detected and OSCC that has grown secondarily during the six months of the follow-up into the jawbone. This limitation could have distorted our values. However, the sensitivities, specificities, and accuracies in the group with a histological examination of bone tissue (<italic>n</italic> = 77) were equal to those in the whole study collective.</p>
+              <p id="Par62">Our data reveal a high diagnostic accuracy for all imaging modalities (CBCT, CT, and MRI) and support the routine use of CBCT scans in the staging examination of patients with oral malignancies and especially those with OSCC. Which combination of imaging modalities should be used must be investigated by further prospective studies.</p>
+            </sec>
+            <sec id="Sec15" sec-type="conclusion">
+              <title>Conclusion</title>
+              <p id="Par63">Our results support the use of CBCT in the detection of bone erosion or invasion in patients suffering from OSCC. We see great advantages in the early detection of a bone affection for the planning of further staging examinations and surgery. Therefore, CBCT should be considered at the point in time of initial contact with such patients.</p>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>AS is the primary investigator. AS and RB were involved in all aspects of the experimental design, data collection, and data analysis and were the primary contributors to the manuscript preparation. CL and RB evaluated the CBCT scans whether a bone erosion or invasion was present or not (oral and maxillofacial specialists). TB, JB, and OK evaluated CT and MRI scans whether a bone erosion or invasion was present or not (specialists for radiology). SH, AK, and JH were involved in manuscript preparation. All the authors have read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Open Access funding enabled and organized by Projekt DEAL. A. S. is supported by the Interdisciplinary Center for Clinical Research (IZKF).</p>
+              <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data availability</title>
+              <p>The dataset used to reach the conclusions in this article is included within the article. Further clinical data and information are not publicly available because other, currently unpublished, studies are based on it. However, these are available from the corresponding author upon reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar2">
+                <title>Institutional review board statement</title>
+                <p id="Par65">The study was conducted in accordance with the Declaration of Helsinki and approved by the Institutional Review Board of the University of Würzburg (protocol code 51/20-me and 143/20-me, 2020) for studies involving humans.</p>
+              </notes>
+              <notes id="FPar3">
+                <title>Informed consent</title>
+                <p id="Par66">All subjects involved in the study provided informed consent. All patients provided written informed consent for publication of this paper.</p>
+              </notes>
+              <notes id="FPar4" notes-type="COI-statement">
+                <title>Conflict of interest</title>
+                <p id="Par67">The authors declare no conflicts of interest.</p>
+              </notes>
+              <notes id="FPar5">
+                <title>Consent for publication</title>
+                <p id="Par68">Not applicable.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lo</surname>
+                      <given-names>WL</given-names>
+                    </name>
+                    <name>
+                      <surname>Kao</surname>
+                      <given-names>SY</given-names>
+                    </name>
+                    <name>
+                      <surname>Chi</surname>
+                      <given-names>LY</given-names>
+                    </name>
+                    <name>
+                      <surname>Wong</surname>
+                      <given-names>YK</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Outcomes of oral squamous cell carcinoma in Taiwan after surgical therapy: factors affecting survival</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2003</year>
+                  <volume>61</volume>
+                  <fpage>751</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1016/s0278-2391(03)00149-6</pub-id>
+                  <?supplied-pmid 12856245?>
+                  <pub-id pub-id-type="pmid">12856245</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <mixed-citation publication-type="other">Wolff KD et al. Konsultationsfassung S3-Leitlinie: Diagnostik und Therapie des Mundhöhlenkarzinoms. <italic>Leitlinienprogramm Onkologie, AWMF</italic> 2019, <italic>3.01</italic>, 154.</mixed-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ferlay</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Colombet</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Soerjomataram</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Dyba</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Randi</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Bettio</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gavin</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Visser</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Bray</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cancer incidence and mortality patterns in Europe: estimates for 40 countries and 25 major cancers in 2018</article-title>
+                  <source>Eur J Cancer</source>
+                  <year>2018</year>
+                  <volume>103</volume>
+                  <fpage>356</fpage>
+                  <lpage>87</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ejca.2018.07.005</pub-id>
+                  <?supplied-pmid 30100160?>
+                  <pub-id pub-id-type="pmid">30100160</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pulte</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Brenner</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Changes in survival in head and neck cancers in the late 20th and early 21st century: a period analysis</article-title>
+                  <source>Oncologist</source>
+                  <year>2010</year>
+                  <volume>15</volume>
+                  <fpage>994</fpage>
+                  <lpage>1001</lpage>
+                  <pub-id pub-id-type="doi">10.1634/theoncologist.2009-0289</pub-id>
+                  <?supplied-pmid 20798198?>
+                  <pub-id pub-id-type="pmid">20798198</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>LW</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Cong</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Hu</surname>
+                      <given-names>XS</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                    <name>
+                      <surname>Hua</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>GY</given-names>
+                    </name>
+                    <name>
+                      <surname>Kerr</surname>
+                      <given-names>AR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Incidence and mortality trends in oral and oropharyngeal cancers in China, 2005–2013</article-title>
+                  <source>Cancer Epidemiol</source>
+                  <year>2018</year>
+                  <volume>57</volume>
+                  <fpage>120</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.canep.2018.10.014</pub-id>
+                  <?supplied-pmid 30396144?>
+                  <pub-id pub-id-type="pmid">30396144</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Blot</surname>
+                      <given-names>WJ</given-names>
+                    </name>
+                    <name>
+                      <surname>McLaughlin</surname>
+                      <given-names>JK</given-names>
+                    </name>
+                    <name>
+                      <surname>Winn</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                    <name>
+                      <surname>Austin</surname>
+                      <given-names>DF</given-names>
+                    </name>
+                    <name>
+                      <surname>Greenberg</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Preston-Martin</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bernstein</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Schoenberg</surname>
+                      <given-names>JB</given-names>
+                    </name>
+                    <name>
+                      <surname>Stemhagen</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Fraumeni</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Jr. Smoking and drinking in relation to oral and pharyngeal cancer</article-title>
+                  <source>Cancer Res</source>
+                  <year>1988</year>
+                  <volume>48</volume>
+                  <fpage>3282</fpage>
+                  <lpage>7</lpage>
+                  <?supplied-pmid 3365707?>
+                  <pub-id pub-id-type="pmid">3365707</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <mixed-citation publication-type="other">Johnson DE, Burtness B, Leemans CR, Lui VWY, Bauman JE, Grandis JR. Head and neck squamous cell carcinoma. Nat Reviews Disease Primers. 2020;6. 10.1038/s41572-020-00224-3.</mixed-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wong</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Keel</surname>
+                      <given-names>SB</given-names>
+                    </name>
+                    <name>
+                      <surname>Glynn</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Varvares</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Histological pattern of mandibular invasion by oral squamous cell carcinoma</article-title>
+                  <source>Laryngoscope</source>
+                  <year>2000</year>
+                  <volume>110</volume>
+                  <fpage>65</fpage>
+                  <lpage>72</lpage>
+                  <pub-id pub-id-type="doi">10.1097/00005537-200001000-00013</pub-id>
+                  <?supplied-pmid 10646718?>
+                  <pub-id pub-id-type="pmid">10646718</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yoshida</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Shimo</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Murase</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Takabatake</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kishimoto</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ibaragi</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoshioka</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Okui</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Nagatsuka</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Sasaki</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Prognostic implications of Bone Invasion in Gingival squamous cell carcinoma</article-title>
+                  <source>Anticancer Res</source>
+                  <year>2018</year>
+                  <volume>38</volume>
+                  <fpage>955</fpage>
+                  <lpage>62</lpage>
+                  <pub-id pub-id-type="doi">10.21873/anticanres.12309</pub-id>
+                  <?supplied-pmid 29374727?>
+                  <pub-id pub-id-type="pmid">29374727</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Michalek</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Brychtova</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pink</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Dvorak</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prognostic and predictive markers for perineural and bone invasion of oral squamous cell carcinoma</article-title>
+                  <source>Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub</source>
+                  <year>2019</year>
+                  <volume>163</volume>
+                  <fpage>302</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.5507/bp.2019.032</pub-id>
+                  <?supplied-pmid 31435075?>
+                  <pub-id pub-id-type="pmid">31435075</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Meng</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Jie</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>He</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Xu</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Accurate Reconstruction of Mandibular defects with vascularized bone flaps through utilization of Mandible Space-Retention guides</article-title>
+                  <source>J Craniofac Surg</source>
+                  <year>2022</year>
+                  <volume>33</volume>
+                  <fpage>1484</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1097/SCS.0000000000008408</pub-id>
+                  <?supplied-pmid 35758435?>
+                  <pub-id pub-id-type="pmid">35758435</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sassano</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gennaro</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Chisci</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Gabriele</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Aboh</surname>
+                      <given-names>IV</given-names>
+                    </name>
+                    <name>
+                      <surname>Mitro</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>di Curzio</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Calvarial onlay graft and submental incision in treatment of atrophic edentulous mandibles: an approach to reduce postoperative complications</article-title>
+                  <source>J Craniofac Surg</source>
+                  <year>2014</year>
+                  <volume>25</volume>
+                  <fpage>693</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1097/SCS.0000000000000611</pub-id>
+                  <?supplied-pmid 24621726?>
+                  <pub-id pub-id-type="pmid">24621726</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>KX</given-names>
+                    </name>
+                    <name>
+                      <surname>Ye</surname>
+                      <given-names>YX</given-names>
+                    </name>
+                    <name>
+                      <surname>Bai</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Sun</surname>
+                      <given-names>YF</given-names>
+                    </name>
+                    <name>
+                      <surname>Jia</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Xiong</surname>
+                      <given-names>XP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Myofascial iliac crest flap for reconstruction of combined oral mucosa-mandibular defects: a single-centre experience</article-title>
+                  <source>J Stomatol Oral Maxillofac Surg</source>
+                  <year>2022</year>
+                  <volume>123</volume>
+                  <fpage>e888</fpage>
+                  <lpage>93</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jormas.2022.06.005</pub-id>
+                  <?supplied-pmid 35691559?>
+                  <pub-id pub-id-type="pmid">35691559</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <mixed-citation publication-type="other">Handschel J, Hassanyar H, Depprich RA, Ommerborn MA, Sproll KC, Hofer M, Kubler NR, Naujoks C. Nonvascularized iliac bone grafts for mandibular reconstruction–requirements and limitations. <italic>In Vivo</italic> 2011, <italic>25</italic>, 795–799.</mixed-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <mixed-citation publication-type="other">Wittekind C. TNM Klassifikation maligner Tumoren. <italic>Wiley-VCH, Weinheim</italic> 2019, <italic>8. Auflage</italic>, 336.</mixed-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Uribe</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Rojas</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosas</surname>
+                      <given-names>CF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Accuracy of imaging methods for detection of bone tissue invasion in patients with oral squamous cell carcinoma</article-title>
+                  <source>Dentomaxillofac Radiol</source>
+                  <year>2013</year>
+                  <volume>42</volume>
+                  <fpage>20120346</fpage>
+                  <pub-id pub-id-type="doi">10.1259/dmfr.20120346</pub-id>
+                  <?supplied-pmid 23420854?>
+                  <pub-id pub-id-type="pmid">23420854</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bombeccari</surname>
+                      <given-names>GP</given-names>
+                    </name>
+                    <name>
+                      <surname>Candotto</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Gianni</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                    <name>
+                      <surname>Carinci</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Spadari</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Accuracy of the Cone Beam Computed Tomography in the detection of Bone Invasion in patients with oral Cancer: a systematic review</article-title>
+                  <source>Eurasian J Med</source>
+                  <year>2019</year>
+                  <volume>51</volume>
+                  <fpage>298</fpage>
+                  <lpage>306</lpage>
+                  <pub-id pub-id-type="doi">10.5152/eurasianjmed.2019.18101</pub-id>
+                  <?supplied-pmid 31692726?>
+                  <pub-id pub-id-type="pmid">31692726</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Linz</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Muller-Richter</surname>
+                      <given-names>UD</given-names>
+                    </name>
+                    <name>
+                      <surname>Buck</surname>
+                      <given-names>AK</given-names>
+                    </name>
+                    <name>
+                      <surname>Mottok</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ritter</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Schneider</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Metzen</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Heuschmann</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Malzahn</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Kubler</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Performance of cone beam computed tomography in comparison to conventional imaging techniques for the detection of bone invasion in oral cancer</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2015</year>
+                  <volume>44</volume>
+                  <fpage>8</fpage>
+                  <lpage>15</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2014.07.023</pub-id>
+                  <?supplied-pmid 25442744?>
+                  <pub-id pub-id-type="pmid">25442744</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Boeddinghaus</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Whyte</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Current concepts in maxillofacial imaging</article-title>
+                  <source>Eur J Radiol</source>
+                  <year>2008</year>
+                  <volume>66</volume>
+                  <fpage>396</fpage>
+                  <lpage>418</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ejrad.2007.11.019</pub-id>
+                  <?supplied-pmid 18082349?>
+                  <pub-id pub-id-type="pmid">18082349</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miracle</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Mukherji</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Conebeam CT of the head and neck, part 2: clinical applications</article-title>
+                  <source>AJNR Am J Neuroradiol</source>
+                  <year>2009</year>
+                  <volume>30</volume>
+                  <fpage>1285</fpage>
+                  <lpage>92</lpage>
+                  <pub-id pub-id-type="doi">10.3174/ajnr.A1654</pub-id>
+                  <?supplied-pmid 19461061?>
+                  <pub-id pub-id-type="pmid">19461061</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dreiseidler</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Alarabi</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ritter</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Rothamel</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Scheer</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Zoller</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Mischkowski</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison of multislice computerized tomography, cone-beam computerized tomography, and single photon emission computerized tomography for the assessment of bone invasion by oral malignancies</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2011</year>
+                  <volume>112</volume>
+                  <fpage>367</fpage>
+                  <lpage>74</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.tripleo.2011.04.001</pub-id>
+                  <?supplied-pmid 21778080?>
+                  <pub-id pub-id-type="pmid">21778080</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulze</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Heiland</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Thurmann</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Adam</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiation exposure during midfacial imaging using 4- and 16-slice computed tomography, cone beam computed tomography systems and conventional radiography</article-title>
+                  <source>Dentomaxillofac Radiol</source>
+                  <year>2004</year>
+                  <volume>33</volume>
+                  <fpage>83</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1259/dmfr/28403350</pub-id>
+                  <?supplied-pmid 15313998?>
+                  <pub-id pub-id-type="pmid">15313998</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Venkatesh</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Elluru</surname>
+                      <given-names>SV</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cone beam computed tomography: basics and applications in dentistry</article-title>
+                  <source>J Istanb Univ Fac Dent</source>
+                  <year>2017</year>
+                  <volume>51</volume>
+                  <fpage>102</fpage>
+                  <lpage>S121</lpage>
+                  <pub-id pub-id-type="doi">10.17096/jiufd.00289</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Slieker</surname>
+                      <given-names>FJB</given-names>
+                    </name>
+                    <name>
+                      <surname>Dankbaar</surname>
+                      <given-names>JW</given-names>
+                    </name>
+                    <name>
+                      <surname>de Bree</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Cann</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Detecting Bone Invasion of the Maxilla by oral squamous cell carcinoma: diagnostic accuracy of Preoperative computed Tomography Versus magnetic resonance imaging</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2020</year>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2020.04.019</pub-id>
+                  <?supplied-pmid 32445627?>
+                  <pub-id pub-id-type="pmid">32445627</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hakim</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Wieker</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Trenkle</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Sieg</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Konitzer</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Holl-Ulrich</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Jacobsen</surname>
+                      <given-names>HC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Imaging of mandible invasion by oral squamous cell carcinoma using computed tomography, cone-beam computed tomography and bone scintigraphy with SPECT</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2014</year>
+                  <volume>18</volume>
+                  <fpage>961</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-013-1042-z</pub-id>
+                  <?supplied-pmid 23873323?>
+                  <pub-id pub-id-type="pmid">23873323</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dreiseidler</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Mischkowski</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Neugebauer</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Ritter</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Zoller</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of cone-beam imaging with orthopantomography and computerized tomography for assessment in presurgical implant dentistry</article-title>
+                  <source>Int J Oral Maxillofac Implants</source>
+                  <year>2009</year>
+                  <volume>24</volume>
+                  <fpage>216</fpage>
+                  <lpage>25</lpage>
+                  <?supplied-pmid 19492636?>
+                  <pub-id pub-id-type="pmid">19492636</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hendrikx</surname>
+                      <given-names>AW</given-names>
+                    </name>
+                    <name>
+                      <surname>Maal</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Dieleman</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Cann</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Merkx</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cone-beam CT in the assessment of mandibular invasion by oral squamous cell carcinoma: results of the preliminary study</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2010</year>
+                  <volume>39</volume>
+                  <fpage>436</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2010.02.008</pub-id>
+                  <?supplied-pmid 20211543?>
+                  <pub-id pub-id-type="pmid">20211543</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pu</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Accuracy of cone-beam computed tomography for the evaluation of mandible invasion by oral squamous cell carcinoma</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2021</year>
+                  <volume>21</volume>
+                  <fpage>226</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-021-01567-3</pub-id>
+                  <?supplied-pmid 33933043?>
+                  <pub-id pub-id-type="pmid">33933043</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Czerwonka</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Bissada</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Goldstein</surname>
+                      <given-names>DP</given-names>
+                    </name>
+                    <name>
+                      <surname>Wood</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                    <name>
+                      <surname>Lam</surname>
+                      <given-names>EW</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Lazinski</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Irish</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>High-resolution cone-beam computed tomography for assessment of bone invasion in oral cancer: comparison with conventional computed tomography</article-title>
+                  <source>Head Neck</source>
+                  <year>2017</year>
+                  <volume>39</volume>
+                  <fpage>2016</fpage>
+                  <lpage>20</lpage>
+                  <pub-id pub-id-type="doi">10.1002/hed.24858</pub-id>
+                  <?supplied-pmid 28703386?>
+                  <pub-id pub-id-type="pmid">28703386</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Momin</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Okochi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Imaizumi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Omura</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Amagasa</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Okada</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ohbayashi</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kurabayashi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Diagnostic accuracy of cone-beam CT in the assessment of mandibular invasion of lower gingival carcinoma: comparison with conventional panoramic radiography</article-title>
+                  <source>Eur J Radiol</source>
+                  <year>2009</year>
+                  <volume>72</volume>
+                  <fpage>75</fpage>
+                  <lpage>81</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ejrad.2008.06.018</pub-id>
+                  <?supplied-pmid 18653297?>
+                  <pub-id pub-id-type="pmid">18653297</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Villamizar-Martinez</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <name>
+                      <surname>Tsugawa</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Diagnostic imaging of oral and maxillofacial anatomy and Pathology</article-title>
+                  <source>Vet Clin North Am Small Anim Pract</source>
+                  <year>2022</year>
+                  <volume>52</volume>
+                  <fpage>67</fpage>
+                  <lpage>105</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cvsm.2021.08.003</pub-id>
+                  <?supplied-pmid 34838256?>
+                  <pub-id pub-id-type="pmid">34838256</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Van Cann</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Koole</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Oyen</surname>
+                      <given-names>WJ</given-names>
+                    </name>
+                    <name>
+                      <surname>de Rooy</surname>
+                      <given-names>JW</given-names>
+                    </name>
+                    <name>
+                      <surname>de Wilde</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Slootweg</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Schipper</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Merkx</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Stoelinga</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessment of mandibular invasion of squamous cell carcinoma by various modes of imaging: constructing a diagnostic algorithm</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2008</year>
+                  <volume>37</volume>
+                  <fpage>535</fpage>
+                  <lpage>41</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2008.02.009</pub-id>
+                  <?supplied-pmid 18406107?>
+                  <pub-id pub-id-type="pmid">18406107</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>van den Brekel</surname>
+                      <given-names>MW</given-names>
+                    </name>
+                    <name>
+                      <surname>Runne</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <name>
+                      <surname>Smeele</surname>
+                      <given-names>LE</given-names>
+                    </name>
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Snow</surname>
+                      <given-names>GB</given-names>
+                    </name>
+                    <name>
+                      <surname>Castelijns</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessment of tumour invasion into the mandible: the value of different imaging techniques</article-title>
+                  <source>Eur Radiol</source>
+                  <year>1998</year>
+                  <volume>8</volume>
+                  <fpage>1552</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s003300050585</pub-id>
+                  <?supplied-pmid 9866760?>
+                  <pub-id pub-id-type="pmid">9866760</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Handschel</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Naujoks</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Depprich</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Kubler</surname>
+                      <given-names>NR</given-names>
+                    </name>
+                    <name>
+                      <surname>Kropil</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuhlemann</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Jansen</surname>
+                      <given-names>TM</given-names>
+                    </name>
+                    <name>
+                      <surname>Boeck</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Sproll</surname>
+                      <given-names>KC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>CT-scan is a valuable tool to detect mandibular involvement in oral cancer patients</article-title>
+                  <source>Oral Oncol</source>
+                  <year>2012</year>
+                  <volume>48</volume>
+                  <fpage>361</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.oraloncology.2011.11.009</pub-id>
+                  <?supplied-pmid 22155255?>
+                  <pub-id pub-id-type="pmid">22155255</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gu</surname>
+                      <given-names>DH</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoon</surname>
+                      <given-names>DY</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Lim</surname>
+                      <given-names>KJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Seo</surname>
+                      <given-names>YL</given-names>
+                    </name>
+                    <name>
+                      <surname>Yun</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Choi</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Bae</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                    <name>
+                      <surname>CT</surname>
+                    </name>
+                    <collab>MR</collab>
+                  </person-group>
+                  <article-title>18)F-FDG PET/CT, and their combined use for the assessment of mandibular invasion by squamous cell carcinomas of the oral cavity</article-title>
+                  <source>Acta Radiol</source>
+                  <year>2010</year>
+                  <volume>51</volume>
+                  <fpage>1111</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.3109/02841851.2010.520027</pub-id>
+                  <?supplied-pmid 20929295?>
+                  <pub-id pub-id-type="pmid">20929295</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nasseh</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Al-Rawi</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cone Beam Computed Tomography</article-title>
+                  <source>Dent Clin North Am</source>
+                  <year>2018</year>
+                  <volume>62</volume>
+                  <fpage>361</fpage>
+                  <lpage>91</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cden.2018.03.002</pub-id>
+                  <?supplied-pmid 29903556?>
+                  <pub-id pub-id-type="pmid">29903556</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

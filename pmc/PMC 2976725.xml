@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:48:52Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:2976725" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:2976725</identifier>
+        <datestamp>2010-11-10</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC2976725</article-id>
+              <article-id pub-id-type="pmcid">PMC2976725</article-id>
+              <article-id pub-id-type="pmc-uid">2976725</article-id>
+              <article-id pub-id-type="pmid">20923557</article-id>
+              <article-id pub-id-type="publisher-id">1472-6831-10-23</article-id>
+              <article-id pub-id-type="pmid">20923557</article-id>
+              <article-id pub-id-type="doi">10.1186/1472-6831-10-23</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Design of the Prevention of Adult Caries Study (PACS): A randomized clinical trial assessing the effect of a chlorhexidine dental coating for the prevention of adult caries</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes" id="A1">
+                  <name>
+                    <surname>Vollmer</surname>
+                    <given-names>William M</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>william.vollmer@kpchr.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A2">
+                  <name>
+                    <surname>Papas</surname>
+                    <given-names>Athena S</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I2">2</xref>
+                  <email>athena.papas@tufts.edu</email>
+                </contrib>
+                <contrib contrib-type="author" id="A3">
+                  <name>
+                    <surname>Bader</surname>
+                    <given-names>James D</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I3">3</xref>
+                  <email>jim_bader@unc.edu</email>
+                </contrib>
+                <contrib contrib-type="author" id="A4">
+                  <name>
+                    <surname>Maupomé</surname>
+                    <given-names>Gerardo</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I4">4</xref>
+                  <email>gmaupome@iupui.edu</email>
+                </contrib>
+                <contrib contrib-type="author" id="A5">
+                  <name>
+                    <surname>Gullion</surname>
+                    <given-names>Christina M</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>christina.guillion@kpchr.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A6">
+                  <name>
+                    <surname>Hollis</surname>
+                    <given-names>Jack F</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>jack.hollis@kpchr.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A7">
+                  <name>
+                    <surname>Snyder</surname>
+                    <given-names>John J</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I5">5</xref>
+                  <email>John.J.Snyder@kp.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A8">
+                  <name>
+                    <surname>Fellows</surname>
+                    <given-names>Jeffrey L</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>jeffrey.fellows@kpchr.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A9">
+                  <name>
+                    <surname>Laws</surname>
+                    <given-names>Reesa L</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>reesa.laws@kpchr.org</email>
+                </contrib>
+                <contrib contrib-type="author" id="A10">
+                  <name>
+                    <surname>White</surname>
+                    <given-names>B Alexander</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I6">6</xref>
+                  <email>a.white@rcn.con</email>
+                </contrib>
+                <on-behalf-of>the PACS Collaborative Research Group william.vollmer@kpchr.org</on-behalf-of>
+              </contrib-group>
+              <aff id="I1"><label>1</label>Center for Health Research, 3800 N. Interstate Blvd, Portland, Oregon 97227, USA</aff>
+              <aff id="I2"><label>2</label>Tufts University School of Dental Medicine, 1 Kneeland St., Boston, MA 02111, USA</aff>
+              <aff id="I3"><label>3</label>Dept. of Operative Dentistry CB#7450, University of North Carolina, Chapel Hill NC 27599- 7450, USA</aff>
+              <aff id="I4"><label>4</label>Indiana University School of Dentistry, 415 Lansing St., Indianapolis IN 46202, USA</aff>
+              <aff id="I5"><label>5</label>Permanente Dental Associates, 500 NE Multnomah St, Suite 100, Portland OR 97232, USA</aff>
+              <aff id="I6"><label>6</label>DentaQuest Institute, 2400 Computer Dr, Westborough MA 01581, USA</aff>
+              <pub-date pub-type="collection">
+                <year>2010</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>5</day>
+                <month>10</month>
+                <year>2010</year>
+              </pub-date>
+              <volume>10</volume>
+              <fpage>23</fpage>
+              <lpage>23</lpage>
+              <history>
+                <date date-type="received">
+                  <day>28</day>
+                  <month>4</month>
+                  <year>2010</year>
+                </date>
+                <date date-type="accepted">
+                  <day>5</day>
+                  <month>10</month>
+                  <year>2010</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>Copyright ©2010 Vollmer et al; licensee BioMed Central Ltd.</copyright-statement>
+                <copyright-year>2010</copyright-year>
+                <copyright-holder>Vollmer et al; licensee BioMed Central Ltd.</copyright-holder>
+                <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+                  <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:href="http://www.biomedcentral.com/1472-6831/10/23"/>
+              <abstract>
+                <sec>
+                  <title>Background</title>
+                  <p>Dental caries is one of the primary causes of tooth loss among adults. It is estimated to affect a majority of Americans aged 55 and older, with a disproportionately higher burden in disadvantaged populations. Although a number of treatments are currently in use for caries prevention in adults, evidence for their efficacy and effectiveness is limited.</p>
+                </sec>
+                <sec>
+                  <title>Methods/Design</title>
+                  <p>The Prevention of Adult Caries Study (PACS) is a multicenter, placebo-controlled, double-blind, randomized clinical trial of the efficacy of a chlorhexidine (10% w/v) dental coating in preventing adult caries. Participants (n = 983) were recruited from four different dental delivery systems serving four diverse communities, including one American Indian population, and were randomized to receive either chlorhexidine or a placebo treatment. The primary outcome is the net caries increment (including non-cavitated lesions) from baseline to 13 months of follow-up. A cost-effectiveness analysis also will be considered.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p>This new dental treatment, if efficacious and approved for use by the Food and Drug Administration (FDA), would become a new in-office, anti-microbial agent for the prevention of adult caries in the United States.</p>
+                </sec>
+                <sec>
+                  <title>Trial Registration Number</title>
+                  <p>NCT00357877</p>
+                </sec>
+              </abstract>
+            </article-meta>
+          </front>
+          <body>
+            <sec>
+              <title>Background</title>
+              <p>Although children are the primary recipients of caries-prevention programs in the United States (US), a recent meta-analysis concluded that older adults experience caries at the same or even higher rates [<xref ref-type="bibr" rid="B1">1</xref>]. Indeed, dental caries is one of the primary causes of tooth loss among adults [<xref ref-type="bibr" rid="B2">2</xref>-<xref ref-type="bibr" rid="B4">4</xref>], and is estimated to affect a majority of Americans aged 55 and older [<xref ref-type="bibr" rid="B5">5</xref>]. Root caries in particular is one of the most common chronic infectious diseases of midlife. Among Americans aged 45-64, root caries is more prevalent (at 35%) [<xref ref-type="bibr" rid="B6">6</xref>] than chronic joint symptoms (32%), hypertension (32%), arthritis (29%), symptoms of mental illness (14%), heart disease (13%), and diabetes (10%) [<xref ref-type="bibr" rid="B7">7</xref>]. Data from a largely employed population with dental insurance found that mean annual spending on adult dental care peaks between ages 55 and 64, at about $700 per capita, and that caries-related treatment accounts for about half of these expenditures [<xref ref-type="bibr" rid="B8">8</xref>].</p>
+              <p>Adult caries can be particularly devastating in disadvantaged populations, such as the uninsured and certain racial and ethnic minority groups [<xref ref-type="bibr" rid="B5">5</xref>]. One subgroup that is particularly affected by dental caries is American Indians. Based on data from the Indian Health Service's 1999 oral health survey [<xref ref-type="bibr" rid="B9">9</xref>], 68% of 19-year-old American Indians have experienced caries, compared to 24% of non-American-Indian 15-19-year-olds. Currently only about half of Americans (and just 1 in 5 over age 65) have dental insurance [<xref ref-type="bibr" rid="B10">10</xref>,<xref ref-type="bibr" rid="B11">11</xref>]. While the literature on the impact of dental insurance on dental health is limited, it is clear that the uninsured have a higher level of edentulism (27% vs. 18.3% among insured) [<xref ref-type="bibr" rid="B12">12</xref>], a higher number of untreated caries [<xref ref-type="bibr" rid="B13">13</xref>], and a lower likelihood of visiting the dentist than the insured [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. When they do see the dentist, the uninsured are more likely to receive a filling or extraction, or other acute care, and are somewhat less likely to receive preventive services.</p>
+              <p>Although several practices are recommended to prevent adult caries, a 2001 National Institutes of Health (NIH) consensus panel concluded that the evidence base for adult caries prevention is limited [<xref ref-type="bibr" rid="B16">16</xref>]. Everyone should be advised to floss daily and use fluoridated toothpaste 2-3 times per day. Adjunctive treatments may be used, including in-office fluoride gels, professionally applied fluoride varnish, or home use of prescription (5000 ppm) topical fluoride [<xref ref-type="bibr" rid="B17">17</xref>-<xref ref-type="bibr" rid="B19">19</xref>].</p>
+              <p>Chlorhexidine is an antimicrobial that may be an effective adjunctive treatment for caries prevention. To date, chlorhexidine rinse (0.12% w/v) has been approved for use to reduce gingivitis, but not for caries prevention. Chlorhexidine rinse, when used in an alternating sequence of daily use for one month, then weekly for 5 months, failed to reduce caries more than a placebo (quinidine) rinse over 5 years in a randomized study of 1101 adults 65 years and older [<xref ref-type="bibr" rid="B20">20</xref>]. In addition, continual use of chlorhexidine rinse may stain teeth.</p>
+              <p>Two placebo-controlled trials of the efficacy of a chlorhexidine (10% w/v) dental coating applied by a dental hygienist or dentist to prevent caries were reported in 2000 [<xref ref-type="bibr" rid="B21">21</xref>,<xref ref-type="bibr" rid="B22">22</xref>]. Possible therapeutic advantages of this formulation include a much higher chlorhexidine concentration and longer contact time with the tooth surface, which should intensify the anti-cariogenic effects of chlorhexidine. In addition, in-office application avoids patient compliance issues.</p>
+              <p>The first study enrolled 240 adults with xerostomia aged 40-80 with an elevated risk of dental caries[<xref ref-type="bibr" rid="B21">21</xref>]. Participants were randomly assigned to active treatment or to one of two control conditions (either a sham treatment that contained quinine hydrochloride to mimic the bitter taste of chlorhexidine or a placebo control) and followed for 13 months, with four initial weekly treatments followed by a fifth treatment at six months. Relative to placebo, the active treatment group had a 24.5% greater reduction in combined root and coronal caries increment (p = 0.03), a 40.8% reduction in root caries increment (p = 0.02), and a 14.4% reduction in coronal caries increment (p = 0.06). Although caries increment scores also were reduced for the active treatment relative to the sham groups (13.8%, 32.5%, and 2.2%), these reductions were not statistically significant (potentially because of the antimicrobial properties of the sham agent, quinine hydrochloride).</p>
+              <p>The second study enrolled 1,240 economically disadvantaged adolescents aged 11-13 years with a history of decay and an elevated level of <italic>Streptococcus mutans </italic>(250,000 cfu/mL). Participants were randomly assigned to one of four arms: active drug, a placebo coating plus best practice preventive care, a best practice preventive care control condition, and a usual care control condition. All participants were followed for three years. Participants in active and placebo-coating arms received four initial weekly treatments, followed by additional treatments at 12 and 24 months post- randomization. Participants also received up to two additional treatments each year, depending upon their level of salivary <italic>S. mutans</italic>. An intent-to-treat analysis found no treatment effect overall [<xref ref-type="bibr" rid="B22">22</xref>], but adherence to the study treatment was poor, possibly affecting the results. Unpublished secondary analysis in the per-protocol sample found significant reduction in caries among girls in the active treatment group compared to girls in control arms, as well as a gender difference in use of sugary carbonated drinks, which may have reduced efficacy.</p>
+              <p>The current manuscript describes the protocol for the Prevention of Adult Caries Study (PACS), which represents a third evaluation of the chlorhexidine dental coating and is being conducted as a "pivotal" study under US Food and Drug Administration IND #45,466. PACS is a randomized clinical trial being conducted over a 13-month observation period among adult participants from four diverse communities in the United States, each of which is served by distinctly different dental-care delivery systems. Of note, PACS includes a large uninsured population lacking regular access to dental care, the western Navajo Nation and Hopi populations in northern Arizona, and a large metropolitan community without a fluoridated water supply. The primary objectives of PACS are (1) to test the hypothesis that the chlorhexidine dental coating, compared to a placebo coating, will reduce dental caries increment in at-risk adults from baseline to the 13-month follow-up visit; and (2) to evaluate the cost and cost-effectiveness of using the treatment from patient, program, and provider perspectives.</p>
+            </sec>
+            <sec>
+              <title>Methods/Design</title>
+              <p>PACS is a multicenter, placebo-controlled, double-blind, randomized clinical trial. Participating institutions include the Kaiser Permanente Center for Health Research in Portland, OR, which serves as the data coordinating center, and four clinical centers: Tufts University School of Dental Medicine (TUSDM) in Boston, MA; the Tuba City Regional Health Care Corporation (TCRHCC) on the Navajo Reservation in northern Arizona; the Dental Service of Massachusetts clinic in Southborough, MA (a part of Delta Dental of Massachusetts); and the Kaiser Permanente Dental Care Program and Permanente Dental Associates in Portland, OR. The study chair is located at Tufts University, and this center also is the location of the microbiology laboratory. The study is sponsored by the National Institute of Dental and Craniofacial Research (NIDCR). The product manufacturer, CHX Technologies Inc., provides the study treatments, a Good Clinical Practice (GCP) auditor (Schiff &amp; Associates), and some additional funding and quality assurance of the product. Independent oversight of trial activities is provided by a Data and Safety Monitoring Board appointed by the NIDCR. The study was approved by the Institutional Review Boards of each participating institution and by the FDA, and all participants provided written informed consent.</p>
+              <sec>
+                <title>Study Population</title>
+                <p>The study population consists of individuals aged 18-80 years, having 20 or more intact teeth and deemed at increased risk of dental caries due to the presence of one or more cavitated lesions at screening (Table <xref ref-type="table" rid="T1">1</xref>). We excluded participants for whom the study treatment would be contraindicated, as well as participants with health conditions that might affect the measurement of study outcomes or their ability to successfully complete the study. We targeted four communities with varying fluoride exposure, dental reimbursement, and overall risk of caries (Table <xref ref-type="table" rid="T2">2</xref>). Financial incentives varied by site and included cash incentives, reimbursement of travel expenses and, for some individuals, reimbursement for the cost of required restorative care. Recruitment began in February, 2007 and concluded in August, 2008.</p>
+                <table-wrap id="T1" position="float">
+                  <label>Table 1</label>
+                  <caption>
+                    <p>Eligibility Criteria for PACS</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">Inclusion Criteria</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">* 18 years of age and older</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* at least 20 intact natural teeth</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* 2 or more lesions, one of which being a cavitated D2 or D3</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* willing and able to provide informed consent</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Exclusion Criteria</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* pregnant or planning to become pregnant during the study (breastfeeding is permitted)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* use of fixed orthodontic appliances</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* allergic to any of the ingredients of the study medication (chlorhexidine diacetate, Sumatra benzoin, alcohol, ammonio methacrylate copolymer type B, or triethyl citrate)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* long-term antibiotic therapy (defined as taking an antibiotic -- including low dose doxycycline (Periostat) - for 30 days or more in the past 3 months)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* currently taking any anti-fungal medication prescribed by a doctor or dentist</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* a history of, or currently active, radiation therapy for cancers of the head or neck</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* Sjögren's syndrome</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* advanced periodontitis and in the clinical judgment of the examiner, there is the likelihood the participant will not have 20 natural teeth at the end of the study</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* having ten or more teeth requiring restorative care at the time of the screening visit</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* requires antibiotic prophylaxis for dental care</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* remineralization therapy within one month of randomization (includes use of a fluoride varnish, 5000 ppm prescription fluoride toothpaste, a 0.12% chlorhexidine mouth rinse or gel, sodium fluoride mouth rinse, use of Xylitol products, by mouth, two or more times per day for four or more days per week (excluding Trident)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">* investigator discretion</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+                <table-wrap id="T2" position="float">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Characteristics of PACS Clinical Center Populations</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">Study Center</th>
+                        <th align="center">Recr quota</th>
+                        <th align="center">Fluoride in water</th>
+                        <th align="center">Dental reimbursement</th>
+                        <th align="center">Est. caries prevalence versus US average</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">KP Portland</td>
+                        <td align="center">400</td>
+                        <td align="center">Partly</td>
+                        <td align="center">Pre-paid managed care</td>
+                        <td align="center">Same</td>
+                      </tr>
+                      <tr>
+                        <td colspan="5">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Tufts</td>
+                        <td align="center">200</td>
+                        <td align="center">Yes</td>
+                        <td align="center">Majority uninsured</td>
+                        <td align="center">Same</td>
+                      </tr>
+                      <tr>
+                        <td colspan="5">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Dental Service of MA, Southborough</td>
+                        <td align="center">200</td>
+                        <td align="center">Partly</td>
+                        <td align="center">Primarily prepaid fee-for-service</td>
+                        <td align="center">Same</td>
+                      </tr>
+                      <tr>
+                        <td colspan="5">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Tuba City</td>
+                        <td align="center">200</td>
+                        <td align="center">Partly</td>
+                        <td align="center">Access to free care</td>
+                        <td align="center">Higher</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+                <p>All participants attended an initial screening visit to assess eligibility. Eligible participants then received necessary restorative care for all cavitated lesions prior to returning for a randomization visit, at which time additional baseline measurements (including a baseline caries examination) were obtained. Individuals who still had cavitated lesions at this point were referred back to their treating dentist for further restorative care prior to randomization, and the randomization visit was then repeated.</p>
+                <p>Eligible participants were randomized to receive five applications of either a chlorhexidine (10% w/v) or placebo dental coating over a seven-month interval. A computerized randomization process confirmed participant eligibility prior to issuing randomization assignments. The latter were stratified by clinical center and age and, within each strata, clustered in blocks of varying sizes. Participants and staff were blinded to treatment assignment. Overall, we randomized 983 participants, close to our goal of 1000.</p>
+              </sec>
+              <sec>
+                <title>Schedule of Activities</title>
+                <p>Treatment and data collection occurred at seven visits during the study period (Table <xref ref-type="table" rid="T3">3</xref>). We collected baseline data and determined study eligibility at both the screening visit (SV) and randomization (V1) visits, which had to occur within 4 months of each other. The first treatment application occurred immediately following randomization at the V1 visit. Three additional treatment applications took place on a roughly weekly basis at the second through fourth visits (V2- V4), followed by a fifth and final treatment application seven months post-randomization as part of the fifth visit (V5). The V5 visit also included a comprehensive outcome assessment, together with a dental caries examination. Active caries discovered at the V5 visit had to be restored before the final treatment application. The final data-collection visit (V6) was scheduled six months later, or approximately 13 months post-randomization. This visit included a comprehensive outcome assessment.</p>
+                <table-wrap id="T3" position="float">
+                  <label>Table 3</label>
+                  <caption>
+                    <p>Schedule of Study Visits</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th/>
+                        <th align="center">SV (t<sub>s</sub>)</th>
+                        <th align="center">V1 (t<sub>0</sub>)</th>
+                        <th align="center">V2 (t<sub>1</sub>)</th>
+                        <th align="center">V3 (t<sub>2</sub>)</th>
+                        <th align="center">V4 (t<sub>3</sub>)</th>
+                        <th align="center">V5 (t<sub>4</sub>)</th>
+                        <th align="center">V5a (t<sub>5</sub>)<break/>Tufts only</th>
+                        <th align="center">V6 (t<sub>6</sub>)</th>
+                        <th align="left">V6a (t<sub>7</sub>)<break/>Tufts only</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">Target date</td>
+                        <td/>
+                        <td align="center">t<sub>s + </sub>4 mos</td>
+                        <td align="center">t<sub>0</sub>+7d</td>
+                        <td align="center">t<sub>1</sub>+7 d</td>
+                        <td align="center">t<sub>2</sub>+7 d</td>
+                        <td align="center">t<sub>0</sub>+7 mos</td>
+                        <td align="center">t<sub>0</sub>+10 mos</td>
+                        <td align="center">t<sub>0</sub>+13 mos</td>
+                        <td align="center">t<sub>0</sub>+19 mos</td>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Allowable window</td>
+                        <td/>
+                        <td align="center"/>
+                        <td align="center">5-14 d</td>
+                        <td align="center">5-14 d</td>
+                        <td align="center">5-14 d</td>
+                        <td align="center">± 1 mo</td>
+                        <td align="center">± 1 mo</td>
+                        <td align="center">± 1 mo</td>
+                        <td align="center">± 1 mo</td>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Eligibility questions</td>
+                        <td align="center">X</td>
+                        <td align="center">X<sup>1</sup></td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Exam for eligibility</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Demographic questions</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Informed consent</td>
+                        <td align="center">X</td>
+                        <td align="center">X<sup>2</sup></td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Dental restorations</td>
+                        <td align="center">X<sup>3</sup></td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X<sup>3</sup></td>
+                        <td/>
+                        <td align="center">X<sup>3</sup></td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Pregnancy test</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Acidic drink consumption questions</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Medical HX questions</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Oral Health HX questions</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Randomization</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Tooth Surface Exam</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Coating Application</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Adverse Events questions</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Medication questions</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Soft Tissue Exam</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Travel time/costs</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Care Utilization</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Candidiasis Lab Tracking</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                        <td align="center">X</td>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Medication Price Survey</td>
+                        <td/>
+                        <td align="center">X</td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td colspan="10">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Microbiology<break/>Tufts only</td>
+                        <td/>
+                        <td align="center">X<sup>4</sup></td>
+                        <td/>
+                        <td/>
+                        <td/>
+                        <td align="center">X<sup>4</sup></td>
+                        <td align="center">X<sup>4</sup></td>
+                        <td align="center">X<sup>5</sup></td>
+                        <td align="center">X<sup>5</sup></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>1 some eligibility information will be reassessed at V1</p>
+                    <p>2 although not required, some study centers will use separate screening and randomization consent forms</p>
+                    <p>3 following the screening visit (SV), any needed dental restorations are made prior to randomization (V1); additional restorative work, if needed, is performed following the dental examinations at the V5 and V6 visits</p>
+                    <p>4  testing for presence and level of <italic>S. mutans </italic>and <italic>C. albicans </italic>in a subset of patients at the Tufts clinical center</p>
+                    <p>5 additional testing for <italic>S. mutans </italic>and <italic>C. albicans </italic>may occur at V6 and V6a depending on results of earlier tests</p>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>Participants at the Tufts clinical center also were asked to take part in an optional substudy to assess the effect of the study medication on resistant (<italic>S. mutans</italic>) and opportunistic (<italic>Candida albicans</italic>) infections in the oral cavity. At each of the V1, V5, V5a, V6, and V6a visits, selected participants provided a sample of stimulated whole saliva for analyses of <italic>S. mutans </italic>sensitivity to chlorhexidine and swabs of the right and left buccal cheek mucosa for analyses of levels of <italic>C. albicans</italic>. Specimens were processed and analyzed by staff trained in Good Laboratory Practice (GLP) at the microbiology laboratory, which forwarded the results directly to the data coordinating center. A total of 143 Tufts subjects participated in this substudy.</p>
+              </sec>
+              <sec>
+                <title>Study Treatments</title>
+                <p>Study treatments were applied in-office by a dental hygienist after a brief rubber cup prophylaxis with non-fluoridated paste and scaling as needed. The coatings were applied in two stages. In stage 1, the first coating was applied to all tooth surfaces in a given quadrant of the dentition. This was immediately followed by application of the second coating (labeled Stage 2 on the vials) to the same quadrant. The other three quadrants were similarly treated and the coatings were air dried to ensure proper hardening. All dental hygienists were trained and certified in the proper application of the coatings, and the entire process typically took 20 minutes to complete.</p>
+                <p>The stage 1 coating contains either chlorhexidine diacetate suspended in a solution of Sumatra benzoin and alcohol (the active treatment) or simply the Sumatra benzoin and alcohol solution (the placebo treatment). The second coating is a proprietary aqueous dispersion of inert methacrylate approved for use by the FDA under license K013671. This second coating lasts until it is abraded by hard foods or is brushed from the teeth, and is designed to give the chlorhexidine extended contact time on the enamel.</p>
+                <p>The component medications used in both the Stage 1 and Stage 2 coatings were made under Good Manufacturing Practices[<xref ref-type="bibr" rid="B23">23</xref>] in an FDA-approved facility. All treatments were packaged in a cardboard box containing ten 2-mL capped amber glass vials (sufficient for all 5 study treatments). Each vial contained either 1 mL of the Stage 1 coating or 1 mL of the Stage 2 coating. The box was labeled for PACS and had a tamper-proof seal. Stage 1 and Stage 2 vials had different colored labels, and each vial was labeled for one of the five visits. The treatment boxes were shipped overnight in refrigerated packaging from the study pharmacist to the clinical centers; thermometers measured trans-shipment temperatures. Upon receipt by the clinical centers, the treatment boxes were immediately refrigerated. Studies have demonstrated that the study treatments are stable at room temperature for longer than three months and at refrigerated temperatures for 30 months [<xref ref-type="bibr" rid="B24">24</xref>,<xref ref-type="bibr" rid="B25">25</xref>].</p>
+                <p>For participants in the active treatment arm, the mean dose of chlorhexidine at each application visit was expected to be approximately 33 mg (or 330 μL), so that the cumulative mean dose for participants completing all five applications was expected to be 165 mg.</p>
+              </sec>
+              <sec>
+                <title>Blinding of Study Treatments</title>
+                <p>Active and placebo-coating materials were packaged identically and were distinguishable only by a numerical label. Each box of treatment material contained a complete supply of coatings for one person for the entire study. Individual vials, together with the box in which they were packaged, were affixed with the same label. The sequence of numerical codes was random with respect to likelihood that the package contained active or placebo coating. Packing was done by a central facility under contract to CHX Technologies Inc., and active and control boxes were prepared in separate production runs using label identifications (IDs) supplied by the data coordinating center. Independent verification of a random sample of boxes was done to confirm that the correct labels were assigned to the active and placebo boxes.</p>
+                <p>Since prior studies have shown that differences in taste or appearance between the study medication and placebo were imperceptible when substances were applied according to protocol, the likelihood of inadvertent unblinding of the patient, dental team, or other clinic staff is minimal. In the unlikely event that staff do become unblinded to the treatment status of a given participant, the nature of the treatment allocation process (as described above) means that the unblinding would be a single event and that nothing could be inferred about other participants' treatment assignments.</p>
+              </sec>
+              <sec>
+                <title>Caries Examination and PACS Taxonomy</title>
+                <p>Caries were diagnosed visually by calibrated examiners using a Community Periodontal Index of Treatment Needs (CPITN) probe, an unblemished, non-magnifying plane mirror; and standard dental operating light and chair. Use of loupes was according to local practice. The participants' teeth were dried for five seconds with an air/water syringe to better enable the examination of tooth surfaces. At the request of the FDA, radiographs were not used in diagnosis. Each central, lateral, and cuspid tooth was deemed to have five coronal (including the incisal) surfaces and four root surfaces. Examiners made only one diagnostic judgment per tooth surface.</p>
+                <p>Two initial 4-day training and calibration sessions were held at the two East Coast and West Coast sites with a gold standard examiner. These were followed by three recalibrations at roughly nine-month intervals.</p>
+                <p>The PACS taxonomy of adult dental caries used the nomenclature of Pitts and Fyffe [<xref ref-type="bibr" rid="B26">26</xref>] that identifies three basic stages of lesions: non-cavitated lesions (D1); lesions where the cavitation extends into, but not through, the enamel (D2); and cavitated lesions that involve the dentine (D3). (A modified taxonomy that does not include the D3 score is used for root surfaces.) Each stage of decay involves different and distinct treatment implications in terms of cost, staff time, and management. The D1, D2, and D3 designations are well understood by the community dentists in all four PACS clinical centers. This taxonomy has been used by Banting et al [<xref ref-type="bibr" rid="B21">21</xref>]. Papas et al.[<xref ref-type="bibr" rid="B27">27</xref>] and Chesters et al. [<xref ref-type="bibr" rid="B28">28</xref>] to detect caries incidence. The descriptors for the D1, D2, and D3 classifications in PACS are adapted from the International Caries Detection and Assessment System (ICDAS) II [<xref ref-type="bibr" rid="B29">29</xref>], as shown in Table <xref ref-type="table" rid="T4">4</xref>. ICDAS II established objective clinical signs that have been associated with severity levels of dental caries (particularly the non-cavitated lesion) and verified histologically, and uses a 2-digit numeric code to classify each tooth site. The PACS taxonomy does not make a number of distinctions that are in the ICDAS II taxonomy. Instead, we have collapsed codes as follows:</p>
+                <table-wrap id="T4" position="float">
+                  <label>Table 4</label>
+                  <caption>
+                    <p>The PACS Taxonomy for Scoring Tooth Surfaces</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="center">PACS code</th>
+                        <th align="left">Definition</th>
+                        <th align="left">Corresponding ICDAS codes</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="center">S</td>
+                        <td align="left">sound or pits-and-fissures sealant on sound surface</td>
+                        <td align="left">00, 10, 20</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">D1</td>
+                        <td align="left">non-cavitated lesion on otherwise sound or sealed surface</td>
+                        <td align="left">01, 02, 11, 12, 21, 22</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">D2</td>
+                        <td align="left">cavitated lesion on otherwise sound or sealed surface</td>
+                        <td align="left">03, 04, 05, 13, 14, 15, 16, 23, 24, 25</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">D3</td>
+                        <td align="left">cavitated lesion extending into the dentine on an otherwise sound or sealed surface</td>
+                        <td align="left">06, 26</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">F</td>
+                        <td align="left">filling on otherwise sound or sealed surface</td>
+                        <td align="left">30, 40, 70, 80</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">FD1</td>
+                        <td align="left">non-cavitated lesion on surface already having a filling</td>
+                        <td align="left">31, 32, 41, 42, 71, 72, 81, 82</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">FD2</td>
+                        <td align="left">cavitated lesion on surface already having a filling</td>
+                        <td align="left">33, 34, 35, 43, 44, 45, 46, 73, 74, 75, 83, 84, 85</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">FD3</td>
+                        <td align="left">cavitated lesion extending into the dentine on a surface already having a filling</td>
+                        <td align="left">36, 76, 86</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">C</td>
+                        <td align="left">full crown on surface otherwise sound or sealed</td>
+                        <td align="left">50, 60</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">CD1</td>
+                        <td align="left">non-cavitated lesion on surface already partially covered by a crown</td>
+                        <td align="left">51, 52, 61, 62</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">CD2</td>
+                        <td align="left">cavitated lesion on surface already partially covered by a crown</td>
+                        <td align="left">53, 54, 55, 63, 64, 65</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">CD3</td>
+                        <td align="left">cavitated lesion extending into the dentine on a surface already partially covered by a crown</td>
+                        <td align="left">56, 66</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">Y</td>
+                        <td align="left">unscorable or invisible surface (e.g., unexposed root)</td>
+                        <td align="left">96, 99</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center">M</td>
+                        <td align="left">surface on missing tooth</td>
+                        <td align="left">97, 98</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+                <p>• The first digit codes 0, 1, 2 are collapsed into S (sound or sealed surface), 3, 4, 7, 8 are collapsed into F (filled), and 5, 6 are collapsed into C (crowned)</p>
+                <p>• The second digit codes 1 and 2 were collapsed into a single D1 code (uncavitated lesion). This was done in recognition of the fact that it is difficult to train dentists in detecting pre-clinical caries lesions.</p>
+                <p>• The second digit codes 3 and 4 were collapsed into a single D2 code (cavitated lesion). This was done because any degree of cavitation is generally regarded as requiring intervention.</p>
+                <p>• The second digit codes 5 and 6 were collapsed into a single D3 code (cavitated lesion into dentin).</p>
+                <p>For purposes of our primary analysis, calls that require intervention are treated identically, so the D2 and D3 calls are collapsed into one category.</p>
+              </sec>
+              <sec>
+                <title>Primary Study Outcome</title>
+                <p>The primary study outcome is the <bold>net caries increment </bold>(root and coronal surfaces combined) from baseline (V1) to end-of-study (V6), scored as the number of changes recorded from V1 to V6, including reversals. This measure permits only one transition per tooth surface (the V5 visit is used only to achieve a more efficient multiple imputation, see below) and allows for theoretically plausible reversals (e.g., from D1 to sound) as well as for implausible reversals that presumably result from measurement error in one of the calls (e.g., D2 to sound). Three additional measures of caries increment (Table <xref ref-type="table" rid="T5">5</xref>) will be included as secondary outcomes, to give a comprehensive view of demineralization and remineralization.</p>
+                <table-wrap id="T5" position="float">
+                  <label>Table 5</label>
+                  <caption>
+                    <p>Analytical Models of Caries Increment</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">Model</th>
+                        <th align="left">Description</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">Crude increment</td>
+                        <td align="left">One event (change) per tooth surface is counted; no reversals are counted</td>
+                      </tr>
+                      <tr>
+                        <td colspan="2">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Cumulative crude increment</td>
+                        <td align="left">Multiple events are possible on a tooth surface; no reversals are counted</td>
+                      </tr>
+                      <tr>
+                        <td colspan="2">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Net increment</td>
+                        <td align="left">One event per tooth surface is counted; reversals are included</td>
+                      </tr>
+                      <tr>
+                        <td colspan="2">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left">Cumulative net increment</td>
+                        <td align="left">Multiple events per tooth surface are possible; reversals are included</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+                <p>The net caries increment is computed as the sum, across tooth surfaces, of transition scores (weights) associated with 121 pre-defined transitions in tooth-surface integrity (Table <xref ref-type="table" rid="T6">6</xref>). Our preliminary weighting scheme, as shown in the table, assigned a range of -2 to +2, with transitions to a worse status receiving positive weights and transitions (reversals) to a better status receiving negative weights. Transitions that reflect no change (e.g., D1 to D1), a change to treated status (e.g., D2 to F or C), or to or from an unscorable status (Y or M) are scored 0 and hence effectively excluded from analysis. Remineralization from D1 to S is considered a plausible reversal (-1), but not from D2 or D3. These tooth-surface transitions are similar to those used by Chesters et al. [<xref ref-type="bibr" rid="B28">28</xref>] in their fluoride-intervention study in young adolescents. Like Chesters, we recognized that reversals from cavitated lesions (bolded in Table <xref ref-type="table" rid="T6">6</xref>) are not plausible. After completion of bootstrapping analyses of a caries increment dataset from another study (Gullion, personal communication, 2009), we concluded that the optimal way to handle unlikely or implausible transitions is to ignore them (i.e., assign a weight of zero). Hence for our primary analysis the bolded values in Table <xref ref-type="table" rid="T6">6</xref> will be ignored.</p>
+                <table-wrap id="T6" position="float">
+                  <label>Table 6</label>
+                  <caption>
+                    <p>Transition Weighting Matrix</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th/>
+                        <th align="center" colspan="12">13-month Visit (V6)</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <bold>Baseline</bold>
+                          <break/>
+                          <bold> Visit (V1)</bold>
+                        </td>
+                        <td/>
+                        <td align="center">
+                          <bold>S</bold>
+                        </td>
+                        <td align="center">
+                          <bold>D1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>D2/D3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>F</bold>
+                        </td>
+                        <td align="center">
+                          <bold>FD1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>FD2/FD3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>C</bold>
+                        </td>
+                        <td align="center">
+                          <bold>CD1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>CD2/CD3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>Y</bold>
+                        </td>
+                        <td align="center">
+                          <bold>M</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="13">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>S</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">2</td>
+                        <td align="center">2</td>
+                        <td align="center">2</td>
+                        <td align="center">2</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>D1</bold>
+                        </td>
+                        <td align="center">-1</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>D2/D3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>F</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>0</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">2</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">2</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>FD1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">-1</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">1</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>FD2/FD3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>C</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>0</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">2</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">2</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>CD1</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">-1</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">-1</td>
+                        <td align="center">0</td>
+                        <td align="center">1</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>CD2/CD3</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-2</bold>
+                        </td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">
+                          <bold>-1</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>Y</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td colspan="12">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td/>
+                        <td align="left">
+                          <bold>M</bold>
+                        </td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                        <td align="center">0</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>KEY</p>
+                    <p>S = sound or pits-and-fissures sealant on sound surface (ICDAS codes 00,10,20)</p>
+                    <p>D1 = non-cavitated lesion on otherwise sound or sealed surface (ICDAS codes 01,02,11,12,21,22)</p>
+                    <p>D2/D3 = cavitated lesion on otherwise sound or sealed surface (ICDAS codes 03,04,05,06,13,14,15,16,23,24,25,26)</p>
+                    <p>F = filling on otherwise sound or sealed surface (ICDAS codes 30,40,70,80)</p>
+                    <p>FD1 = non-cavitated lesion on surface already having a filling (ICDAS codes 31,32,41,42,71,72,81,82)</p>
+                    <p>FD2/FD3 = cavitated lesion on surface already having a filling (ICDAS codes 33, 34, 35, 36, 43, 44, 45, 46, 73, 74, 75, 76, 83, 84, 85, 86)</p>
+                    <p>C = full crown on surface otherwise sound or sealed (ICDAS codes 50,60)</p>
+                    <p>CD1 = non-cavitated lesion on surface already partially covered by a crown (ICDAS codes 51,52,61,62)</p>
+                    <p>CD2/CD3 = cavitated lesion on surface already partially covered by a crown (ICDAS codes 53,54,55,56,63,64,65,66)</p>
+                    <p>Y = unscorable or invisible surface (e.g., unexposed root) (ICDAS code 96,99)</p>
+                    <p>M = surface on missing tooth (ICDAS code 97,98)</p>
+                    <p><underline>NOTE</underline>: some of the ICDAS codes listed may be specific to children, and are included only for completeness.</p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Other Study Measures</title>
+                <p>PACS assessed a number of safety measures and predictors of caries increment at baseline.</p>
+                <sec>
+                  <title>Medical History</title>
+                  <p>At V1, V5, and V6, participants completed a medical history questionnaire indicating whether they had ever been diagnosed or treated for a series of common medical conditions. An additional medical-eligibility questionnaire was asked at the screening visit.</p>
+                </sec>
+                <sec>
+                  <title>Oral Health History</title>
+                  <p>At V1 and V6, participants completed a brief questionnaire regarding their oral hygiene practices and dental history.</p>
+                </sec>
+                <sec>
+                  <title>Soft Tissue Examination</title>
+                  <p>Participants were examined for abnormalities of the oral mucosa at V1, V5, and V6. An assessment for candidiasis was part of this examination. This assessment also provides additional data to the microbiology substudy at the Tufts clinical center.</p>
+                </sec>
+                <sec>
+                  <title>Adverse Events</title>
+                  <p>Starting at V1, participants were asked if they had experienced any adverse events since the last visit. Additionally, at the treatment visits they were asked if they had experienced any adverse events during the treatment application. All serious adverse events (SAEs) were immediately reported to the data-coordinating center, the Project Office, the Study Chair and CHX Technologies Inc.; CHX Technologies Inc., in turn, notified the FDA. The respective Institutional Review Boards of each institution were also notified of adverse events.</p>
+                </sec>
+                <sec>
+                  <title>Medication Use</title>
+                  <p>Prescription medication use was tracked at each clinic visit.</p>
+                </sec>
+                <sec>
+                  <title>Demographic Information</title>
+                  <p>Demographic information was collected as part of the screening visit.</p>
+                </sec>
+                <sec>
+                  <title>Pregnancy Status</title>
+                  <p>Pregnant women and women who were planning to conceive during the course of the study were excluded from participation. As a safety precaution, we confirmed pregnancy status again at V5 and pregnant women did not receive the final treatment application.</p>
+                </sec>
+                <sec>
+                  <title>Acidic Drink Consumption</title>
+                  <p>The consumption of acidic beverages can prematurely erode the protective coating that was applied in stage 2 of the treatment application process. Participants were asked to avoid drinking such beverages for three days following treatment application, and we asked about typical consumption of acidic beverages at the SV, V4, V5, and V6 visits.</p>
+                </sec>
+                <sec>
+                  <title>Intervention and Dental Care Costs</title>
+                  <p>Program cost and cost-effectiveness analyses of the chlorhexidine coating will be assessed from patient and dental plan perspectives [<xref ref-type="bibr" rid="B30">30</xref>]. Study staff conducted comprehensive chart reviews to document all dental-care procedures (CDT and local codes), procedure dates, billed claims, amount paid by insurance, and insurance plan type for encounters of study participants from the randomization date to V6. Procedures and clinical service costs related to SAEs were noted. We obtained clinical staff earnings and clinic facility space to estimate provider training and service delivery costs. We also included participant travel time and costs for each clinical visit. These data will be used to calculate the incremental net cost-effectiveness per prevented caries increment of the intervention, compared to placebo, for total and restoration-related dental care expenditures. All costs will be expressed in a reference year values (e.g., 2009 dollars). Expenditures and outcomes occurring in month 13 will be discounted to present value terms using a financial discount rate for the medical-care service sector. Sensitivity analyses will be conducted by varying key model inputs, and sub-group analyses will be conducted if supported by the data. We also conducted a price opinion survey at SV to estimate patients' willingness to pay for the service and to support a cost-benefit analysis of the intervention [<xref ref-type="bibr" rid="B31">31</xref>]. TCRHCC participants receive free out-of-pocket care and were excluded from the price survey.</p>
+                </sec>
+              </sec>
+              <sec>
+                <title>Quality Control</title>
+                <p>In addition to being trained as caries examiners and recorders, staff were centrally trained and certified in all aspects of study operations, including questionnaire administration, data entry, and application of the dental coatings. Initial training occurred prior to the start of randomization, with recertification occurring roughly annually. The data-coordinating center monitored study progress on an ongoing basis and generated regular trial monitoring reports for review by the Steering Committee and the Data Safety Monitoring Board (DSMB).</p>
+                <p>The data-coordinating center used a secure, web-based application for data entry and management. This application incorporated real-time error checking and quality assurance at the time of data entry and prompted clinical center staff about potentially erroneous data during data entry. Additional "back-end" checks were performed at the data-coordinating center.</p>
+                <p>In addition to the routine trial monitoring reports generated by the data-coordinating center, Internet-enabled reporting tools allowed authorized clinical center staff to access additional reports and edit data on an ad hoc basis. The data-coordinating center maintained an electronic audit trail of all errors and error resolutions.</p>
+                <p>PACS employed three types of site visit monitoring. CHX Technologies Inc. conducted their own ongoing monitoring. Schiff &amp; Associates, an outside contractor employed by CHX Technologies Inc., conducted three independent monitoring visits at each clinical center--at the beginning, middle, and end of the study. And finally, the data-coordinating center conducted annual site visits at each clinical center to review all aspects of quality assurance, as defined in GCP [<xref ref-type="bibr" rid="B32">32</xref>].</p>
+              </sec>
+              <sec>
+                <title>Data Analysis</title>
+                <p>Analyses will be carried out in three samples. The <bold>intent-to-treat (ITT) </bold>sample includes all randomized participants, regardless of their adherence to the protocol, and classifies them according to their assigned treatment group. The <bold>per-protocol </bold>sample consists of participants who received all five applications of their assigned study treatment, or who were removed from treatment due to an adverse event, and did not deviate from the protocol in any significant way that could have affected the results. The <bold>safety </bold>sample consists of all participants who received at least one study treatment. These individuals are classified according to the actual treatment received.</p>
+                <p>In order to include all randomized participants in the ITT sample, we will use multiple imputation [<xref ref-type="bibr" rid="B33">33</xref>] to impute missing caries examination data for the V6 (final) visit. The planned primary- outcome analysis will be repeated in exactly the same way in each of the imputed datasets, and the results combined using Rubin's [<xref ref-type="bibr" rid="B34">34</xref>] rules to produce the adjusted estimates and statistics from which inferences will be drawn.</p>
+                <p>All statistical hypothesis tests will be performed with two-sided type I error level of α=0.05. Interaction terms, when included in the model (e.g., treatment-by-site), will be assessed at α=0.10. No adjustment for multiple testing is planned.</p>
+                <sec>
+                  <title>Primary Analysis</title>
+                  <p>The primary efficacy analysis will be in the ITT population, using analysis of covariance (ANCOVA), with treatment group, clinical center, and examiner included as categorical factors, and age and age-squared as continuous covariates. We will use rank-normalized net caries increment scores in this analysis. We next will evaluate whether an interaction exists between clinical center and treatment and, if so, will estimate and test center-specific treatment effects.</p>
+                </sec>
+                <sec>
+                  <title>Secondary Analyses</title>
+                  <sec>
+                    <title>Secondary Aim 1</title>
+                    <p>We will test whether the effect of the study medication differs within subgroups of the ITT sample defined by: baseline decayed filled surfaces (DFS) (median split), age (quartile groups), sex, and whether these added covariates account for any clinical center differences observed in the primary analysis.</p>
+                  </sec>
+                  <sec>
+                    <title>Secondary Aim 2</title>
+                    <p>We will evaluate incidence and increment of root and coronal caries in ITT participants by age, socioeconomic status (education, income), dental care setting (managed care, fee-for-service, etc.), and health-related profile.</p>
+                  </sec>
+                  <sec>
+                    <title>Secondary Aim 3</title>
+                    <p>We will evaluate the impact that various models of caries increment and detection criteria have on incidence and prevalence estimates of this most common adult disease.</p>
+                  </sec>
+                  <sec>
+                    <title>Secondary Aim 4</title>
+                    <p>We will evaluate the effect of the chlorhexidine (10% w/v) dental coating on resistant (<italic>S. mutans</italic>) and opportunistic (<italic>C. albicans</italic>) infections in the oral cavity using the subset of Tufts participants who are enrolled in the substudy.</p>
+                  </sec>
+                </sec>
+                <sec>
+                  <title>Sensitivity Analyses</title>
+                  <p>We will conduct a number of sensitivity analyses to evaluate the robustness of the primary efficacy analysis with respect to dropouts. In addition, the primary analysis and all sensitivity analyses also will be performed in the "per-protocol" sample.</p>
+                </sec>
+                <sec>
+                  <title>Safety Analyses</title>
+                  <p>Adverse events are classified using the MedDRA system [<xref ref-type="bibr" rid="B35">35</xref>] and categorized by system/diagnosis group, severity, relationship to study drug, action taken, and outcome. Tabulations will be prepared showing number and percent of subjects affected by an adverse event by treatment group, seriousness, relatedness, and level of cumulative exposure. The safety sample will be used for this analysis.</p>
+                </sec>
+              </sec>
+              <sec>
+                <title>Study Power</title>
+                <p>The power analysis takes account of the fact that we plan to transform the observed caries- increment scores to a normal distribution. We used a data simulation to determine what the impact of the transformation would be on the target effect size of 20% reduction in net caries increment. The results of our sample-size modeling, for varying effect sizes (Cohen's <italic>d</italic>, i.e., the ratio of mean difference to standard deviation (SD)), are shown in Figure <xref ref-type="fig" rid="F1">1</xref>. The 20% target effect size--expressed in rank-transformed units--is a <italic>d </italic>of 0.225, at which 416 randomized per group yields a power of 90%. The final target sample size of 1000 (500 per group) was deemed sufficient to provide adequate power, given what we believe to be conservative estimates of the effect size. These calculations do not adjust for attrition since we plan to use multiple imputation to obtain plausible replacement values for missing outcome measures.</p>
+                <fig id="F1" position="float">
+                  <label>Figure 1</label>
+                  <caption>
+                    <p><bold>Sample size needed at varying effect sizes, using normalized Poisson data</bold>.</p>
+                  </caption>
+                  <graphic xlink:href="1472-6831-10-23-1"/>
+                </fig>
+              </sec>
+            </sec>
+            <sec>
+              <title>Discussion</title>
+              <p>Adult dental caries is an expensive and chronic condition for many Americans, particularly certain minority populations. PACS will provide useful data upon which health-care policy makers and the dental community can base decisions about whether to regularly include the use of chlorhexidine coating to decrease or prevent caries in adults. Our study will also analyze whether this treatment can be used cost-effectively in a variety of settings. The latter feature is particularly important given the present state of knowledge, as few dental preventive interventions have been appraised in terms of the economic implications of their cost and their benefit.</p>
+              <p>The PACS population is highly diverse, both in terms of the participants themselves and the dental delivery systems from which they were recruited. In the study's Navajo and Hopi population in the Southwest, no out-of-pocket direct payments are made by clients and indemnity is explicitly assumed by the care system; in the Pacific Northwest, the system is a not-for-profit dental Health Maintenance Organization (HMO) catering primarily to a white population that enjoys dental insurance coverage through employers; and in Massachusetts, the population is a mixed group served by a large dental insurance carrier under various service schema, as well as a study group recruited from Greater Boston by a large university dental clinic serving a primarily uninsured population. While these groups will be pooled for the primary analysis, secondary analyses will look at treatment effects in selected subgroups.</p>
+              <p>We identified several priorities in creating the PACS taxonomy for classifying dental caries. Priorities were creating the taxonomy needed to recognize the growing focus of dentistry on managing the non-cavitated lesion; being primarily visual and requiring only gentle probing to determine cavitation or the texture of the lesion base; being easy to use and reproducible; being backwardly compatible with conventional systems (e.g., Radike, World Health Organization, NIDCR); and avoiding distinguishing between active and non-active lesions to improve reliability of examiners. The resulting PACS taxonomy allows for identification of root carious lesions using a D1-D2 classification within the ICDAS descriptors, as well as allowing for identifying caries lesions associated with existing restorations for both coronal and root caries. This system is being used successfully in a separate, ongoing controlled clinical trial of the chlorhexidine coating in four American Indian communities.</p>
+              <p>Very few longitudinal studies of adult caries (1-4) have been conducted over the last 10 years. The use of D1 lesions in this trial will test the expanded visual diagnostic thresholds of ICDAS II in a large-scale randomized clinical trial. It is theorized that the use of D1 lesions to evaluate caries progression will permit shorter trials with fewer participants and better subject retention. If successful, such use will have implications for future dental research evaluating dental therapies. The PACS study is the first Phase III clinical trial to test this new model.</p>
+              <p>The need for new, cost-effective treatments to prevent or hinder the progression of adult caries is considerable. This study, together with other ongoing and completed trials of a chlorhexidine coating, is an important contribution to the establishment of sound evidence regarding the efficacy of this promising caries-prevention intervention.</p>
+            </sec>
+            <sec>
+              <title>Competing interests</title>
+              <p>The study was initially conceived by CHX Technologies Inc., which recruited the study investigators and actively participated in the protocol development. Although primary funding for the study came from the National Institute of Dental and Craniofacial Research (NIDCR), CHX Technologies Inc. did provide the study treatments as well as financial support for some aspects of the protocol, including full support for the planned cost analysis (funding to JLF) and limited funding to support the microbiology substudy (funding to ASP). The study will also be used by CHX Technologies Inc. as a "pivotal" study under US Food and Drug Administration IND #45,466. Although CHX Technologies Inc. participated in Steering Committee discussions, it was not a voting member of the Steering Committee and is not part of any writing committees.</p>
+              <p>Apart from the above involvement by CHX Technologies Inc., the authors have no financial or non-financial competing interests to declare relative to this manuscript.</p>
+            </sec>
+            <sec>
+              <title>Authors' contributions</title>
+              <p>All of the listed authors substantively contributed to the design or conduct of the study, participated in the preparation of this manuscript, and approved the final version of this manuscript. WMV, ASP, JDB, GM, CMG, JH, JSS, JLF, and BAW contributed to the study conception and design. ASP, GM, JH, JLF, RLL, and BAW contributed to the acquisition of data. WMV, CMG, and JH analyzed and interpreted data. CMG provided statistical analysis. WMV, ASP, CMG, and RLL drafted the manuscript. ASP, JDB, GM, CMG, JH, JSS, JLF, RLL, and BAW critically revised the manuscript. ASP, GM, JH, JSS, JLF, and RLL provided administrative, technical, or material support. WMV, JH, JLF, RLL, and BAW provided supervision. WMV, ASP, JH, JLF, and BAW obtained funding.</p>
+            </sec>
+            <sec>
+              <title>Pre-publication history</title>
+              <p>The pre-publication history for this paper can be accessed here:</p>
+              <p>
+                <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6831/10/23/prepub">http://www.biomedcentral.com/1472-6831/10/23/prepub</ext-link>
+              </p>
+            </sec>
+          </body>
+          <back>
+            <sec>
+              <title>Acknowledgements</title>
+              <p>Primary funding for the study was provided by the National Institute for Dental and Craniofacial Research (NIDCR). CHX Technologies Inc. provided the study treatments and some funding for: the microbiology ancillary study carried out at the Tufts clinical center, economic analyses conducted by the data coordinating center, and the calibration of dental examiners and recorders. The Project Officer from NIDCR served as a voting member on the Steering Committee and CHX Technologies Inc. participated in Steering Committee meetings as a nonvoting member.</p>
+              <p>Grant numbers: U01-DE017745-01-PHIPPS, U01-DE017746-01- SNYDER, U01-DE017747-01-PAPAS, U01-DE017748-01-PAPAS, U01 DE017752 Vollmer (PI) 7/1/2006 to 5/31/2010 funded by the National Institute of Dental and Craniofacial Research (NIDCR). Additional financial support for the study, including provision of study treatments and limited support for some aspects of the protocol, was provided by CHX Technologies Inc.</p>
+            </sec>
+            <ref-list>
+              <ref id="B1">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Griffin</surname>
+                    <given-names>SO</given-names>
+                  </name>
+                  <name>
+                    <surname>Griffin</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                  <name>
+                    <surname>Swann</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Zlobin</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <article-title>New coronal caries in older adults: implications for prevention</article-title>
+                  <source>J Dent Res</source>
+                  <year>2005</year>
+                  <volume>84</volume>
+                  <fpage>715</fpage>
+                  <lpage>720</lpage>
+                  <pub-id pub-id-type="doi">10.1177/154405910508400806</pub-id>
+                  <pub-id pub-id-type="pmid">16040728</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B2">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Fure</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <article-title>Ten-year incidence of tooth loss and dental caries in elderly Swedish individuals</article-title>
+                  <source>Caries Res</source>
+                  <year>2003</year>
+                  <volume>37</volume>
+                  <fpage>462</fpage>
+                  <lpage>469</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000073401</pub-id>
+                  <pub-id pub-id-type="pmid">14571127</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B3">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Broadbent</surname>
+                    <given-names>JM</given-names>
+                  </name>
+                  <name>
+                    <surname>Thomson</surname>
+                    <given-names>WM</given-names>
+                  </name>
+                  <name>
+                    <surname>Poulton</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <article-title>Progression of dental caries and tooth loss between the third and fourth decades of life: a birth cohort study</article-title>
+                  <source>Caries Res</source>
+                  <year>2006</year>
+                  <volume>40</volume>
+                  <fpage>459</fpage>
+                  <lpage>465</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000095643</pub-id>
+                  <pub-id pub-id-type="pmid">17063015</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B4">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Chauncey</surname>
+                    <given-names>HH</given-names>
+                  </name>
+                  <name>
+                    <surname>Glass</surname>
+                    <given-names>RL</given-names>
+                  </name>
+                  <name>
+                    <surname>Alman</surname>
+                    <given-names>JE</given-names>
+                  </name>
+                  <article-title>Dental caries. Principal cause of tooth extraction in a sample of US male adults</article-title>
+                  <source>Caries Res</source>
+                  <year>1989</year>
+                  <volume>23</volume>
+                  <fpage>200</fpage>
+                  <lpage>205</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000261178</pub-id>
+                  <pub-id pub-id-type="pmid">2661000</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B5">
+                <mixed-citation publication-type="book">
+                  <collab>US Department of Health and Human Services</collab>
+                  <source>Oral health in America: A report of the Surgeon General</source>
+                  <year>2000</year>
+                  <publisher-name>Rockville, MD: Department of Health and Human Services, National Institute of Dental and Craniofacial Research, National Institutes of Health</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B6">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Winn</surname>
+                    <given-names>DM</given-names>
+                  </name>
+                  <name>
+                    <surname>Brunelle</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Selwitz</surname>
+                    <given-names>RH</given-names>
+                  </name>
+                  <name>
+                    <surname>Kaste</surname>
+                    <given-names>LM</given-names>
+                  </name>
+                  <name>
+                    <surname>Oldakowski</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Kingman</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Brown</surname>
+                    <given-names>LJK</given-names>
+                  </name>
+                  <article-title>Coronal and root caries in the dentition of adults in the United States, 1988-1991</article-title>
+                  <source>J Dent Res</source>
+                  <year>1996</year>
+                  <volume>75</volume>
+                  <issue>Spec No: 642-651</issue>
+                </mixed-citation>
+              </ref>
+              <ref id="B7">
+                <mixed-citation publication-type="other">
+                  <collab>Centers for Disease Control and Prevention, NCHS</collab>
+                  <source>Vital Statistics, Series 10, Number 22, Summary of health statistics for U.S. adults: National health interview survey</source>
+                  <year>2002</year>
+                </mixed-citation>
+              </ref>
+              <ref id="B8">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>del Aguila</surname>
+                    <given-names>MA</given-names>
+                  </name>
+                  <name>
+                    <surname>Anderson</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Porterfield</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Robertson</surname>
+                    <given-names>PB</given-names>
+                  </name>
+                  <article-title>Patterns of oral care in a Washington State dental service population</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2002</year>
+                  <volume>133</volume>
+                  <fpage>343</fpage>
+                  <lpage>351</lpage>
+                  <pub-id pub-id-type="pmid">11934190</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B9">
+                <mixed-citation publication-type="book">
+                  <collab>Indian Health Service</collab>
+                  <source>The 1999 oral health survey of American Indian and Alaska Native dental patients: Findings, regional differences and national comparisons</source>
+                  <year>2001</year>
+                  <publisher-name>Rockville, MD: U.S. Department of Health and Human Services</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B10">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Greene</surname>
+                    <given-names>VA</given-names>
+                  </name>
+                  <article-title>Underserved elderly issues in the United States: burdens of oral and medical health care</article-title>
+                  <source>Dent Clin North Am</source>
+                  <year>2005</year>
+                  <volume>49</volume>
+                  <fpage>363</fpage>
+                  <lpage>376</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cden.2004.11.001</pub-id>
+                  <pub-id pub-id-type="pmid">15755410</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B11">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Brown</surname>
+                    <given-names>LJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Wall</surname>
+                    <given-names>TP</given-names>
+                  </name>
+                  <name>
+                    <surname>Manski</surname>
+                    <given-names>RJ</given-names>
+                  </name>
+                  <article-title>The funding of dental services among U.S. adults aged 18 years and older: recent trends in expenditures and sources of funding</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2002</year>
+                  <volume>133</volume>
+                  <fpage>627</fpage>
+                  <lpage>635</lpage>
+                  <pub-id pub-id-type="pmid">12036168</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B12">
+                <mixed-citation publication-type="journal">
+                  <collab>Centers for Disease Control and Prevention</collab>
+                  <article-title>Total tooth loss among persons aged &gt; or =65 years--selected states, 1995-1997</article-title>
+                  <source>MMWR Morb Mortal Wkly Rep</source>
+                  <year>1999</year>
+                  <volume>48</volume>
+                  <fpage>206</fpage>
+                  <lpage>210</lpage>
+                  <pub-id pub-id-type="pmid">10099021</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B13">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Reid</surname>
+                    <given-names>BC</given-names>
+                  </name>
+                  <name>
+                    <surname>Hyman</surname>
+                    <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Macek</surname>
+                    <given-names>MD</given-names>
+                  </name>
+                  <article-title>Race/ethnicity and untreated dental caries: The impact of material and behavioral factors</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2004</year>
+                  <volume>32</volume>
+                  <fpage>329</fpage>
+                  <lpage>336</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2004.00165.x</pub-id>
+                  <pub-id pub-id-type="pmid">15341617</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B14">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Locker</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Leake</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <article-title>Inequities in health: Dental insurance coverage and use of dental services among older Ontario adults</article-title>
+                  <source>Can J Public Health</source>
+                  <year>1993</year>
+                  <volume>84</volume>
+                  <fpage>139</fpage>
+                  <lpage>140</lpage>
+                  <pub-id pub-id-type="pmid">8334609</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B15">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Millar</surname>
+                    <given-names>WJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Locker</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <article-title>Dental insurance and use of dental services</article-title>
+                  <source>Health Rep</source>
+                  <year>1999</year>
+                  <volume>11</volume>
+                  <fpage>55</fpage>
+                  <lpage>67</lpage>
+                  <pub-id pub-id-type="pmid">11965824</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B16">
+                <mixed-citation publication-type="journal">
+                  <collab>NIH</collab>
+                  <article-title>Diagnosis and management of dental caries throughout life</article-title>
+                  <source>NIH Consensus Statement</source>
+                  <year>2001</year>
+                  <volume>18</volume>
+                  <fpage>1</fpage>
+                  <lpage>23</lpage>
+                  <pub-id pub-id-type="pmid">11699634</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B17">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Bader</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Shugars</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                  <name>
+                    <surname>Rindal</surname>
+                    <given-names>DB</given-names>
+                  </name>
+                  <article-title>Development of effectiveness of care and use of services measures for dental care plans</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>1999</year>
+                  <volume>59</volume>
+                  <fpage>142</fpage>
+                  <lpage>149</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.1999.tb03263.x</pub-id>
+                  <pub-id pub-id-type="pmid">10649586</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B18">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Bader</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Shugars</surname>
+                    <given-names>DA</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>BA</given-names>
+                  </name>
+                  <name>
+                    <surname>Rindal</surname>
+                    <given-names>DB</given-names>
+                  </name>
+                  <article-title>Evaluation of audit-based performance measures for dental care plans</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>1999</year>
+                  <volume>59</volume>
+                  <fpage>150</fpage>
+                  <lpage>157</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.1999.tb03264.x</pub-id>
+                  <pub-id pub-id-type="pmid">10649587</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B19">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Baysan</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Lynch</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Ellwood</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Petersson</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Borsboom</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <article-title>Reversal of primary root caries using dentifrices containing 5,000 and 1,100 ppm fluoride</article-title>
+                  <source>Caries Res</source>
+                  <year>2001</year>
+                  <volume>35</volume>
+                  <fpage>41</fpage>
+                  <lpage>46</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000047429</pub-id>
+                  <pub-id pub-id-type="pmid">11125195</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B20">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Wyatt</surname>
+                    <given-names>CC</given-names>
+                  </name>
+                  <name>
+                    <surname>Maupome</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Hujoel</surname>
+                    <given-names>PP</given-names>
+                  </name>
+                  <name>
+                    <surname>MacEntee</surname>
+                    <given-names>MI</given-names>
+                  </name>
+                  <name>
+                    <surname>Persson</surname>
+                    <given-names>GR</given-names>
+                  </name>
+                  <name>
+                    <surname>Persson</surname>
+                    <given-names>RE</given-names>
+                  </name>
+                  <name>
+                    <surname>Kiyak</surname>
+                    <given-names>HA</given-names>
+                  </name>
+                  <article-title>Chlorhexidine and preservation of sound tooth structure in older adults. A placebo-controlled trial</article-title>
+                  <source>Caries Res</source>
+                  <year>2007</year>
+                  <volume>41</volume>
+                  <fpage>93</fpage>
+                  <lpage>101</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000098041</pub-id>
+                  <pub-id pub-id-type="pmid">17284909</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B21">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Banting</surname>
+                    <given-names>DW</given-names>
+                  </name>
+                  <name>
+                    <surname>Papas</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Clark</surname>
+                    <given-names>DC</given-names>
+                  </name>
+                  <name>
+                    <surname>Proskin</surname>
+                    <given-names>HM</given-names>
+                  </name>
+                  <name>
+                    <surname>Schultz</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Perry</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <article-title>The effectiveness of 10% chlorhexidine varnish treatment on dental caries incidence in adults with dry mouth</article-title>
+                  <source>Gerodontology</source>
+                  <year>2000</year>
+                  <volume>17</volume>
+                  <fpage>67</fpage>
+                  <lpage>76</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1741-2358.2000.00067.x</pub-id>
+                  <pub-id pub-id-type="pmid">11808057</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B22">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Forgie</surname>
+                    <given-names>AH</given-names>
+                  </name>
+                  <name>
+                    <surname>Paterson</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Pine</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <name>
+                    <surname>Pitts</surname>
+                    <given-names>NB</given-names>
+                  </name>
+                  <name>
+                    <surname>Nugent</surname>
+                    <given-names>ZJ</given-names>
+                  </name>
+                  <article-title>A randomised controlled trial of the caries-preventive efficacy of a chlorhexidine-containing varnish in high-caries-risk adolescents</article-title>
+                  <source>Caries Res</source>
+                  <year>2000</year>
+                  <volume>34</volume>
+                  <fpage>432</fpage>
+                  <lpage>439</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000016619</pub-id>
+                  <pub-id pub-id-type="pmid">11014911</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B23">
+                <mixed-citation publication-type="other">
+                  <article-title>Code of Federal Regulations. 21 CFR 210, 21 CFR 211</article-title>
+                  <year>2009</year>
+                </mixed-citation>
+              </ref>
+              <ref id="B24">
+                <mixed-citation publication-type="other">
+                  <article-title>Health Canada Drug Identification Number 02046245</article-title>
+                  <year>2009</year>
+                </mixed-citation>
+              </ref>
+              <ref id="B25">
+                <mixed-citation publication-type="other">
+                  <article-title>Irish Medicines Board product license PA1205/1/1</article-title>
+                  <year>2009</year>
+                </mixed-citation>
+              </ref>
+              <ref id="B26">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Pitts</surname>
+                    <given-names>NB</given-names>
+                  </name>
+                  <name>
+                    <surname>Fyffe</surname>
+                    <given-names>HE</given-names>
+                  </name>
+                  <article-title>The effect of varying diagnostic thresholds upon clinical caries data for a low prevalence group</article-title>
+                  <source>J Dent Res</source>
+                  <year>1988</year>
+                  <volume>67</volume>
+                  <fpage>592</fpage>
+                  <lpage>596</lpage>
+                  <pub-id pub-id-type="pmid">3049719</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B27">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Papas</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Russell</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Singh</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Kent</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Triol</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Winston</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <article-title>Caries clinical trial of a remineralising toothpaste in radiation patients</article-title>
+                  <source>Gerodontology</source>
+                  <year>2008</year>
+                  <volume>25</volume>
+                  <fpage>76</fpage>
+                  <lpage>88</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1741-2358.2007.00199.x</pub-id>
+                  <pub-id pub-id-type="pmid">18485139</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B28">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Chesters</surname>
+                    <given-names>RK</given-names>
+                  </name>
+                  <name>
+                    <surname>Pitts</surname>
+                    <given-names>NB</given-names>
+                  </name>
+                  <name>
+                    <surname>Matuliene</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Kvedariene</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Huntington</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Bendinskaite</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Balciuniene</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Matheson</surname>
+                    <given-names>JR</given-names>
+                  </name>
+                  <name>
+                    <surname>Nicholson</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Gendvilyte</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Sabalaite</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramanauskiene</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Savage</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Milerine</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <article-title>An abbreviated caries clinical trial design validated over 24 months</article-title>
+                  <source>J Dent Res</source>
+                  <year>2002</year>
+                  <volume>81</volume>
+                  <fpage>637</fpage>
+                  <lpage>640</lpage>
+                  <pub-id pub-id-type="doi">10.1177/154405910208100912</pub-id>
+                  <pub-id pub-id-type="pmid">12202647</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B29">
+                <mixed-citation publication-type="other">
+                  <article-title>ICDAS II</article-title>
+                  <year>2009</year>
+                  <ext-link ext-link-type="uri" xlink:href="http://www.icdas.org/">http://www.icdas.org/</ext-link>
+                </mixed-citation>
+              </ref>
+              <ref id="B30">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Haddix</surname>
+                    <given-names>AC</given-names>
+                  </name>
+                  <name>
+                    <surname>Teutsch</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Corso</surname>
+                    <given-names>PS</given-names>
+                  </name>
+                  <source>Prevention effectiveness: A guide to decision analysis and economic evaluation</source>
+                  <year>2003</year>
+                  <edition>2</edition>
+                  <publisher-name>New York: Oxford University Press</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B31">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Gold</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Siegel</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Russel</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Weinstein</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <source>Cost effectiveness in health and medicine</source>
+                  <year>1996</year>
+                  <publisher-name>New York: Oxford University Press</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B32">
+                <mixed-citation publication-type="other">
+                  <article-title>International Conference on Harmonisations, Guidance for Industry. E6 Good Clinical Practice: Consolidated Guidance;</article-title>
+                  <year>1996</year>
+                  <ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm073122.pdf">http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm073122.pdf</ext-link>
+                  <comment>1-30-2009</comment>
+                </mixed-citation>
+              </ref>
+              <ref id="B33">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Schafer</surname>
+                    <given-names>JL</given-names>
+                  </name>
+                  <name>
+                    <surname>Graham</surname>
+                    <given-names>JW</given-names>
+                  </name>
+                  <article-title>Missing data: our view of the state of the art</article-title>
+                  <source>Psychol Methods</source>
+                  <year>2002</year>
+                  <volume>7</volume>
+                  <fpage>147</fpage>
+                  <lpage>177</lpage>
+                  <pub-id pub-id-type="doi">10.1037/1082-989X.7.2.147</pub-id>
+                  <pub-id pub-id-type="pmid">12090408</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B34">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Rubin</surname>
+                    <given-names>DB</given-names>
+                  </name>
+                  <source>Multiple imputation of nonresponse in surveys</source>
+                  <year>1987</year>
+                  <publisher-name>New York: John Wiley &amp; Sons, Inc.</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B35">
+                <mixed-citation publication-type="other">
+                  <article-title>MedDRA Maintenance and Support Services Organization. MedDRA - the Medical Dictionary for Regulatory Activities</article-title>
+                  <year>2005</year>
+                  <ext-link ext-link-type="uri" xlink:href="http://www.meddramsso.com/index.asp">http://www.meddramsso.com/index.asp</ext-link>
+                  <comment>International Federation of Pharmaceutical Manufacturers and Associations (IFPMA)</comment>
+                </mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

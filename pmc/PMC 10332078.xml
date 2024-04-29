@@ -1,0 +1,2597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:37:43Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10332078" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10332078</identifier>
+        <datestamp>2023-07-11</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10332078</article-id>
+              <article-id pub-id-type="pmcid">PMC10332078</article-id>
+              <article-id pub-id-type="pmc-uid">10332078</article-id>
+              <article-id pub-id-type="pmid">37430291</article-id>
+              <article-id pub-id-type="pmid">37430291</article-id>
+              <article-id pub-id-type="publisher-id">3144</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-023-03144-2</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effect of post-surgical flap position on soft tissue regrowth and keratinized tissue increase following fibre retention osseous resective surgery: a 6-month randomized study with multilevel analysis</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" equal-contrib="yes">
+                  <name>
+                    <surname>Piccoli</surname>
+                    <given-names>Gian Marco</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5172-299X</contrib-id>
+                  <name>
+                    <surname>Romano</surname>
+                    <given-names>Federica</given-names>
+                  </name>
+                  <address>
+                    <email>federica.romano@unito.it</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4553-7234</contrib-id>
+                  <name>
+                    <surname>Giraudi</surname>
+                    <given-names>Marta</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>La Bruna</surname>
+                    <given-names>Nicolò</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4513-7479</contrib-id>
+                  <name>
+                    <surname>Citterio</surname>
+                    <given-names>Filippo</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5740-698X</contrib-id>
+                  <name>
+                    <surname>Mariani</surname>
+                    <given-names>Giulia Maria</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" equal-contrib="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-9395-4967</contrib-id>
+                  <name>
+                    <surname>Baima</surname>
+                    <given-names>Giacomo</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" equal-contrib="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0657-0787</contrib-id>
+                  <name>
+                    <surname>Aimetti</surname>
+                    <given-names>Mario</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/048tbm396</institution-id><institution-id institution-id-type="GRID">grid.7605.4</institution-id><institution-id institution-id-type="ISNI">0000 0001 2336 6580</institution-id><institution>Department of Surgical Sciences, Section of Periodontology, </institution><institution>C.I.R. Dental School, University of Turin, </institution></institution-wrap>Via Nizza 230, Turin, 10126 Italy </aff>
+                <aff id="Aff2"><label>2</label>Private Practice, Udine, Italy </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>10</day>
+                <month>7</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>10</day>
+                <month>7</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2023</year>
+              </pub-date>
+              <volume>23</volume>
+              <elocation-id>472</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>31</day>
+                  <month>3</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>17</day>
+                  <month>6</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2023, corrected publication 2023</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">The aim of this randomized split-mouth study was to assess the influence of primary flap position on the amount of coronal soft tissue regrowth and keratinized tissue (KT) 6 months after osseous resective surgery with fiber retention technique (FibReORS).</p>
+                </sec>
+                <sec>
+                  <title>Materials and methods</title>
+                  <p id="Par2">Two contralateral posterior sextants in 16 patients were treated with FibReORS and randomly assigned to flap positioning either 2 mm below the bone crest (apical group) or at the level of bone crest (crestal group). Clinical parameters were recorded at 1, 3 and 6 months and patient-related outcomes during the first two post-operative weeks.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">Healing period was uneventful. Patient’s discomfort was similar in both groups. The overall soft tissue rebound was higher in the apical than in the crestal group (2.0 ± 1.3 mm <italic>versus</italic> 1.3 ± 0.7 mm), but the difference was statistically significant only interproximally (2.2 ± 1.3 mm <italic>versus</italic> 1.6 ± 0.8 mm). Multilevel analyses showed higher soft tissue rebound in sites with normal compared to thin phenotype (1.5 mm, <italic>p</italic> &lt; 0.0001) and treated with flap positioned 2 mm apically to the bone crest (0.7 mm, <italic>p</italic> &lt; 0.001). An additional 0.5 mm KT increase was observed at interdental sites in the apical group.</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">Apical flap positioning increases soft tissue rebound and KT width, mainly at the interdental sites, with reduced patient discomfort.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par5">The trial was registered at ClinicalTrials.gov (ID: NCT05140681, Registration date: 1/12/2021, retrospectively registered).</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-023-03144-2.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Keratinized tissue</kwd>
+                <kwd>Osseous resective surgery</kwd>
+                <kwd>Periodontitis</kwd>
+                <kwd>Soft tissue rebound</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par13">
+Osseous resective surgery (ORS) is a well-documented treatment approach to eliminate residual periodontal pockets associated with shallow-moderate intrabony defects at posterior teeth [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR4">4</xref>]. This treatment modality resulted in greater probing depth (PD) reduction and lower long-term disease progression than non-surgical therapy and conservative surgery [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. With the aim of limiting the quantity of resected bone, Carnevale introduced the fibre retention osseous resective surgery (FibReORS), using connective fibres as reference point for the ostectomy [<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+              <p id="Par14">
+Classical studies have long questioned the possibility of increasing keratinized tissue (KT) following interventions aimed at pocket elimination through the apically repositioned flap (APF). Pontoniero and Carnevale observed a coronal tissue re-growth with a new “physiological” supracrestal gingival unit at 12 months after ORS in periodontally healthy patients [<xref ref-type="bibr" rid="CR8">8</xref>]. Substantial differences were found depending on the position of the flap after suturing, with a more apical position associated with a greater coronal regrowth [<xref ref-type="bibr" rid="CR9">9</xref>–<xref ref-type="bibr" rid="CR11">11</xref>]. However, leaving a consistent part of interproximal and crestal bone exposed after suturing may cause greater post-operative pain. Recently, Cairo et al. compared soft tissue regrowth following ORS and FibReORS techniques in periodontally compromised patients, showing a minimal difference at 12 months favouring ORS [<xref ref-type="bibr" rid="CR12">12</xref>]. Aimetti et al. observed a comparable coronal soft tissue regrowth at 48 months [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+              <p id="Par15">
+To the current state of knowledge, no study has taken into account the re-growth of soft tissue following FibReORS depending on the position of the flap with respect to the bone crest at the end of surgery. In particular, no study examined the amount of KT obtained following healing. This aspect could have a major clinical impact in the long-term maintenance of oral hygiene and periodontal health, especially for teeth in need of prosthetic treatment.</p>
+              <p id="Par16">
+Considering periodontitis patients treated with FibReORS, this study primarily aimed to compare the amount of soft tissue regrowth and KT increase at 6 months according to the position of the primary flap apically or at the level of the bone crest, and secondly to evaluate the patients’ post-operative discomfort.</p>
+            </sec>
+            <sec id="Sec2" sec-type="materials|methods">
+              <title>Materials and methods</title>
+              <sec id="Sec3">
+                <title>Study design</title>
+                <p id="Par17">
+This split-mouth, double blind, randomized clinical trial was approved by the Institutional Ethics Committee and was conducted according to the Helsinki Declaration. Informed consent was obtained from each patient. This article was reported according to the CONSORT statement. The study was retrospectively registered at ClinicalTrials.gov (ID: NCT05140681, Registration date: 1/12/2021, retrospectively registered).</p>
+                <p id="Par18">
+Patients were serially recruited from those who had completed the cause-related phase of periodontal therapy at the Section of Periodontology, C.I.R. Dental School, University of Turin. Inclusion criteria were as follows: (1) diagnosis of severe chronic periodontitis [<xref ref-type="bibr" rid="CR14">14</xref>] (grade III or IV according to the actual classification); (2) good general health; (3) full-mouth plaque score (FMPS) and full-mouth bleeding score (FMBS) &lt; 20%; (4) two contralateral sextants with residual PDs of &gt; 5 mm and persisting bleeding on probing (BoP) at posterior natural teeth 3 months after the completion of cause-related therapy. Exclusion criteria included: (1) pregnancy and lactation; (2) smoking &gt; 10 cigarettes/day; (3) intake of antibiotics in the previous 6 months. Teeth with degree II or III mobility, horizontal bone loss higher than 1/3 of the root length or designed as abutment for prosthetic rehabilitation were also excluded from the study.</p>
+                <p id="Par19">
+Each patient (experimental unit) contributed with two contralateral posterior sextants (surgical area) containing at least 2 pockets/defects with indication to FibReORS. Each sextant was randomly assigned to one of two treatment modalities: FibReORS associated with APF 2 mm below the bone crest (apical group) and FibReORS associated with APF at the level of the bone crest (crestal group). In each sextant, the site associated with the deepest intrabony defect was selected as the experimental site.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Sample size calculation</title>
+                <p id="Par20">
+The soft tissue regrowth at the experimental site was set as the primary outcome. A sample size of 14 patients was calculated to detect a minimum difference of 1.12 mm between groups with an expected standard deviation of 0.60 mm [<xref ref-type="bibr" rid="CR8">8</xref>], an alpha error of 5% and a power of 80%. For compensation of possible dropouts, 16 individuals were recruited.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Randomization and allocation concealment</title>
+                <p id="Par21">
+According to a computer-generated balanced block randomization table with a 1:1 allocation, each of the two sextants in the enrolled patients was assigned to the apical or crestal group. Treatment assignments were concealed in opaque envelopes with the corresponding number on the outside (identifying both patient and sextant). A clinician not involved in the study informed the surgeon after bone remodelling, in which position he should suture the flap. The first sextant was operated 2–3 weeks after the patients’ enrolment, while the contralateral sextant in a time between 6 and 12 weeks after the first surgery.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Surgical procedures and post-surgical care</title>
+                <p id="Par22">
+Antibiotic (amoxicillin 2 g) and anti-inflammatory therapy (ibuprofen 600 mg) was administered 1 h prior to the surgery. Surgical procedures were performed by one operator using loops 4X under coaxial light as described in detail elsewhere [<xref ref-type="bibr" rid="CR15">15</xref>]. Bone remodelling was made according to the FibReORS technique to eliminate the infrabony defect and re-shape positive attached fibres/bony architecture [<xref ref-type="bibr" rid="CR7">7</xref>]. The flap margins were placed at the bone crest level (crestal group) or 2 mm apically (apical group) and secured using vertically external mattress sutures with periosteal anchorage.</p>
+                <p id="Par23">
+Patients avoided brushing in the treated sextants for 2 weeks after surgery and rinsed twice daily for 1 min with a 0.20% chlorhexidine gluconate solution. At week 1, sutures were removed. Patients resumed toothbrushing with soft toothbrush after 2 weeks and interdental cleaning after 4 weeks. Weekly prophylaxis was delivered during the first 3 weeks after surgery and thereafter patients entered a 3-month recall system.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Clinical outcomes</title>
+                <p id="Par24">
+All measurements were made with a 1-mm graduated periodontal probe (PCP 15, Hu-Friedy, Chicago, IL, USA) by one calibrated and masked clinician. Presence/absence of plaque, presence/absence of BoP and PD were measured at 6 points on the treated teeth at baseline, 3 and 6 months post-surgery. FMPS and FMBS were also recorded.</p>
+                <p id="Par25">
+The distance of the gingival margin (GMD) and the amount of KT were measured using individual acrylic stent, used as fixed-reference mark, at the end of the surgical session, 1 month, 3 and 6 months post-surgery at interdental and buccal aspects [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>]. The intra-class correlation coefficients were 0.94 for GMD and 0.86 for KT.</p>
+                <p id="Par26">
+Periodontal phenotype was determined before surgery using a 25 endodontic reamer at the mid-buccal aspect of the experimental tooth, 1 mm apically to the gingival margin level. If there was no attached gingiva, the same measurement was made on the alveolar mucosa [<xref ref-type="bibr" rid="CR16">16</xref>]. Phenotype was classified as thin if gingival thickness was less than 1 mm, normal if equal to 1 mm, and thick if more than 1 mm [<xref ref-type="bibr" rid="CR17">17</xref>].</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Surgical and patients-related outcomes (PROs)</title>
+                <p id="Par27">
+Wound healing and patients’ pain/discomfort were assessed at week 1 and 2. Patients scored the intensity using a horizontal visual analogue scale (VAS), 10-cm long (0 = no pain; 10 = extreme pain), one for each treated sextant and one for each follow-up visit [<xref ref-type="bibr" rid="CR18">18</xref>]. They recorded also the number of painkillers taken and the quality of diet during the first two post-operative weeks using a questionnaire. The diet was classified as normal (solid/soft and hot food), moderately changed (only cold solid/soft food), or severely changed (only cold liquid food) [<xref ref-type="bibr" rid="CR19">19</xref>].</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Statistical analysis</title>
+                <p id="Par28">
+Statistical analysis was performed using STATA Statistical Software (College Station, TX: StataCorp LP). Repeated measures ANOVA and paired Student t-test with Bonferroni correction were applied for within and between groups analysis, respectively, for quantitative variables at both the surgical area and experimental site and chi-square test for qualitative variables.</p>
+                <p id="Par29">
+Multilevel linear regression models at three levels (Patient, Site and Time) were built to analyse factors associated with KT increase (KT-Inc) and soft tissue rebound (GMD reduction, GMD-Red) at both the surgical area and experimental site. KT-Inc and GMD-Red were calculated as the difference in mm between the corresponding values at 6 months and those at the end of the surgery. At the patient level the covariates were gender, age (years), smoking habit (dichotomous), phenotype (normal/ thick/thin), and treatment (apical/crestal flap). GMD<sub>0</sub> (baseline GMD in mm) and KT<sub>0</sub> (baseline KT in mm) were entered at the site level and T1 (1 month), T3 (3 months) and T6 (6 months) at the Time level. Interactions were also estimated. <italic>P</italic> &lt; 0.05 was considered statistically significant.</p>
+              </sec>
+            </sec>
+            <sec id="Sec10" sec-type="results">
+              <title>Results</title>
+              <sec id="Sec11">
+                <title>Study population</title>
+                <p id="Par30">
+A total of 31 patients were screened; 12 patients did not meet the inclusion criteria and 3 declined to participate (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Finally, 16 patients (12 females and 4 males, mean age 42.9 ± 9.1 years) were enrolled and completed the trial. Three patients were light smokers. Five patients showed a normal phenotype, five a thin phenotype and six a thick phenotype. All patients completed the trial. The last visit was scheduled in October 2018.</p>
+                <p id="Par31">
+                  <fig id="Fig1">
+                    <label>Fig. 1</label>
+                    <caption>
+                      <p>CONSORT flow diagram of patients’ recruitment and follow-up</p>
+                    </caption>
+                    <graphic xlink:href="12903_2023_3144_Fig1_HTML" id="d32e468"/>
+                  </fig>
+                </p>
+                <p id="Par32">
+Healing period was uneventful. Interproximal fibrin deposits were detectable in 15 of the 16 treated sextants after both procedures at day 7. At day 14 they were still present in 8 sextants of the apical group and in 5 sextants of the crestal group. Wound healing was completed within 3 weeks.</p>
+              </sec>
+              <sec id="Sec12">
+                <title>Clinical outcomes</title>
+                <p id="Par33">
+FMPS and FMBS remained below 20% throughout the study period. PD values were comparable at baseline between the two procedures. At 6-month examination, shallow PDs were obtained with no differences between the groups (Supplementary Table <xref rid="MOESM1" ref-type="media">1</xref>).</p>
+                <p id="Par35">
+                  <table-wrap id="Tab1">
+                    <label>Table 1</label>
+                    <caption>
+                      <p>Gingival margin distance (GMD) measured over the experimental period at the surgical area (mean ± SD)</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left">Time</th>
+                          <th align="left" colspan="7">Treatment group</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3"><italic>P-</italic>value</th>
+                        </tr>
+                        <tr>
+                          <th align="left" rowspan="2"/>
+                          <th align="left" colspan="3">Apical</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3">Crestal</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3"/>
+                        </tr>
+                        <tr>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                          <th align="left"/>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                          <th align="left"/>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Baseline</td>
+                          <td align="left">4.3 ± 2.1</td>
+                          <td align="left">3.7 ± 2.0</td>
+                          <td align="left">5.5 ± 2.3</td>
+                          <td align="left"/>
+                          <td align="left">4.6 ± 2.0</td>
+                          <td align="left">4.0 ± 1.7</td>
+                          <td align="left">5.9 ± 2.5</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Post-surgery (T0)</td>
+                          <td align="left">8.0 ± 1.9</td>
+                          <td align="left">7.7 ± 1.8</td>
+                          <td align="left">8.5 ± 2.4</td>
+                          <td align="left"/>
+                          <td align="left">7.3 ± 1.7</td>
+                          <td align="left">7.1 ± 1.6</td>
+                          <td align="left">7.8 ± 1.9</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">1 month (T1)</td>
+                          <td align="left">6.6 ± 1.9</td>
+                          <td align="left">6.2 ± 1.7</td>
+                          <td align="left">7.4 ± 2.4</td>
+                          <td align="left"/>
+                          <td align="left">6.6 ± 2.1</td>
+                          <td align="left">6.2 ± 2.0</td>
+                          <td align="left">7.4 ± 2.4</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T1</td>
+                          <td align="left">–1.4 ± 0.9</td>
+                          <td align="left">–1.5 ± 0.9</td>
+                          <td align="left">–1.1 ± 1.2</td>
+                          <td align="left"/>
+                          <td align="left">–0.7 ± 0.6</td>
+                          <td align="left">–0.9 ± 0.6</td>
+                          <td align="left">–0.3 ± 0.7</td>
+                          <td align="left"/>
+                          <td align="left">0.04</td>
+                          <td align="left">0.04</td>
+                          <td align="left">N</td>
+                        </tr>
+                        <tr>
+                          <td align="left">3 months (T3)</td>
+                          <td align="left">6.2 ± 2.1</td>
+                          <td align="left">5.8 ± 2.0</td>
+                          <td align="left">7.0 ± 2.4</td>
+                          <td align="left"/>
+                          <td align="left">6.3 ± 2.0</td>
+                          <td align="left">5.8 ± 1.9</td>
+                          <td align="left">7.2 ± 2.3</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T<sub>3</sub></td>
+                          <td align="left">–1.8 ± 1.2</td>
+                          <td align="left">–1.9 ± 1.1</td>
+                          <td align="left">–1.5 ± 1.5</td>
+                          <td align="left"/>
+                          <td align="left">–1.0 ± 0.6</td>
+                          <td align="left">–1.3 ± 0.6</td>
+                          <td align="left">–0.5 ± 0.7</td>
+                          <td align="left"/>
+                          <td align="left">0.04</td>
+                          <td align="left">0.04</td>
+                          <td align="left">0.05</td>
+                        </tr>
+                        <tr>
+                          <td align="left">6 months (T6)</td>
+                          <td align="left">6.0 ± 2.0</td>
+                          <td align="left">5.5 ± 1.9</td>
+                          <td align="left">6.9 ± 2.4</td>
+                          <td align="left"/>
+                          <td align="left">6.0 ± 2.1</td>
+                          <td align="left">5.5 ± 2.0</td>
+                          <td align="left">7.0 ± 2.3</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T6</td>
+                          <td align="left">–2.0 ± 1.3</td>
+                          <td align="left">–2.2 ± 1.3</td>
+                          <td align="left">–1.6 ± 1.6</td>
+                          <td align="left"/>
+                          <td align="left">–1.3 ± 0.7</td>
+                          <td align="left">–1.6 ± 0.8</td>
+                          <td align="left">–0.8 ± 0.7</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">0.045</td>
+                          <td align="left">NS</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p><italic>SD</italic> standard deviation; <italic>NS</italic> not statistically significant</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par34">
+Changes of GMD and KT at the surgical area are presented in Tables <xref rid="Tab1" ref-type="table">1</xref> and <xref rid="Tab2" ref-type="table">2</xref>. The apical group showed higher GMD than the crestal one at the time of suturing and higher overall tissue regrowth (2.0 ± 1.3 mm versus 1.3 ± 0.7 mm for the apical group, <italic>p</italic> = 0.06). At the interproximal level the coronal displacement was significantly greater in the apical group (2.2 ± 1.3 mm versus 1.6 ± 0.8 mm, <italic>p</italic> = 0.045). Approximately 87.6% and 78.0% of the regrowth occurred during the first 3 months in the apical and crestal groups, respectively. Regarding KT (Table <xref rid="Tab2" ref-type="table">2</xref>), no statistically significant difference was detected at 6 months between the groups, but a statistically significant additional 0.5 mm increase was detected inter-proximally in the apical group (<italic>p</italic> = 0.03).</p>
+                <p id="Par36">
+                  <table-wrap id="Tab2">
+                    <label>Table 2</label>
+                    <caption>
+                      <p>Keratinized tissue (mm) measured over the experimental period at the surgical area (mean ± SD)</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left">Time</th>
+                          <th align="left" colspan="7">Treatment group</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3"><italic>P-</italic>value</th>
+                        </tr>
+                        <tr>
+                          <th align="left" rowspan="2"/>
+                          <th align="left" colspan="3">Apical</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3">Crestal</th>
+                          <th align="left"/>
+                          <th align="left" colspan="3"/>
+                        </tr>
+                        <tr>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                          <th align="left"/>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                          <th align="left"/>
+                          <th align="left">Overall</th>
+                          <th align="left">Inter-proximal</th>
+                          <th align="left">Buccal</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Baseline</td>
+                          <td align="left">6.0 ± 1.4</td>
+                          <td align="left">6.6 ± 1.3</td>
+                          <td align="left">4.9 ± 1.6</td>
+                          <td align="left"/>
+                          <td align="left">5.8 ± 1.4</td>
+                          <td align="left">6.4 ± 1.4</td>
+                          <td align="left">4.7 ± 1.7</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Post-surgery (T0)</td>
+                          <td align="left">3.3 ± 0.9</td>
+                          <td align="left">3.5 ± 1.0</td>
+                          <td align="left">2.8 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">3.6 ± 0.9</td>
+                          <td align="left">3.9 ± 1.0</td>
+                          <td align="left">2.9 ± 1.0</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">1 month (T1)</td>
+                          <td align="left">4.8 ± 1.1</td>
+                          <td align="left">5.3 ± 1.2</td>
+                          <td align="left">3.9 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">4.8 ± 0.9</td>
+                          <td align="left">5.2 ± 0.9</td>
+                          <td align="left">3.9 ± 1.1</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T1</td>
+                          <td align="left">1.5 ± 0.9</td>
+                          <td align="left">1.8 ± 1.1</td>
+                          <td align="left">1.0 ± 0.8</td>
+                          <td align="left"/>
+                          <td align="left">1.2 ± 0.8</td>
+                          <td align="left">1.3 ± 0.8</td>
+                          <td align="left">1.0 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">3 months (T3)</td>
+                          <td align="left">5.1 ± 1.1</td>
+                          <td align="left">5.7 ± 1.2</td>
+                          <td align="left">4.1 ± 1.0</td>
+                          <td align="left"/>
+                          <td align="left">5.2 ± 0.9</td>
+                          <td align="left">5.7 ± 1.0</td>
+                          <td align="left">4.1 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T<sub>3</sub></td>
+                          <td align="left">1.9 ± 0.9</td>
+                          <td align="left">2.2 ± 1.0</td>
+                          <td align="left">1.3 ± 0.8</td>
+                          <td align="left"/>
+                          <td align="left">1.6 ± 0.8</td>
+                          <td align="left">1.8 ± 0.9</td>
+                          <td align="left">1.2 ± 0.8</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">6 months (T6)</td>
+                          <td align="left">5.4 ± 1.1</td>
+                          <td align="left">6.0 ± 1.2</td>
+                          <td align="left">4.2 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">5.4 ± 0.9</td>
+                          <td align="left">5.9 ± 0.9</td>
+                          <td align="left">4.2 ± 1.0</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                        <tr>
+                          <td align="left">ΔT0-T6</td>
+                          <td align="left">2.1 ± 0.9</td>
+                          <td align="left">2.5 ± 1.1</td>
+                          <td align="left">1.4 ± 0.7</td>
+                          <td align="left"/>
+                          <td align="left">1.8 ± 0.9</td>
+                          <td align="left">2.0 ± 1.0</td>
+                          <td align="left">1.3 ± 0.9</td>
+                          <td align="left"/>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p><italic>SD</italic> standard deviation; <italic>NS</italic> not statistically significant</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par37">
+At the experimental site level (Table <xref rid="Tab3" ref-type="table">3</xref>), at 6 months the soft tissue rebound was twice as high in the apical compared to the crestal group (2.6 ± 1.3 mm <italic>versus</italic> 1.2 ± 0.9 mm, <italic>p</italic> = 0.005). Consistently, higher KT increase was detected at both 3- and 6-month examinations in the apical group (<italic>p</italic> = 0.007 and <italic>p</italic> = 0.003). Figures <xref rid="Fig2" ref-type="fig">2</xref> and <xref rid="Fig3" ref-type="fig">3</xref> showed the coronal regrowth in both the experimental groups.</p>
+                <p id="Par38">
+                  <table-wrap id="Tab3">
+                    <label>Table 3</label>
+                    <caption>
+                      <p>Gingival margin distance (GMD) and Keratinized tissue width (KT) measured over the experimental period at the experimental site (mean ± SD)</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left"/>
+                          <th align="left" colspan="8">Time</th>
+                        </tr>
+                        <tr>
+                          <th align="left">Group</th>
+                          <th align="left">Variable</th>
+                          <th align="left">Baseline</th>
+                          <th align="left">Post-surgery (T0)</th>
+                          <th align="left">1 month (T1)</th>
+                          <th align="left">Δ<sub>T0−T1</sub></th>
+                          <th align="left">3 months (T3)</th>
+                          <th align="left">Δ<sub>T0−T3</sub></th>
+                          <th align="left">6 months (T6)</th>
+                          <th align="left">Δ<sub>T0−T6</sub></th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">
+                            <bold>GMD (mm)</bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Apical</td>
+                          <td align="left"/>
+                          <td align="left">3.7 ± 2.4</td>
+                          <td align="left">8.7 ± 2.1</td>
+                          <td align="left">6.7 ± 1.9</td>
+                          <td align="left">–2.0 ± 1.0</td>
+                          <td align="left">6.2 ± 2.1</td>
+                          <td align="left">–2.4 ± 1.0</td>
+                          <td align="left">6.1 ± 2.1</td>
+                          <td align="left">–2.6 ± 1.3</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Crestal</td>
+                          <td align="left"/>
+                          <td align="left">5.6 ± 2.7</td>
+                          <td align="left">8.2 ± 23</td>
+                          <td align="left">7.4 ± 2.4</td>
+                          <td align="left">–0.8 ± 0.7</td>
+                          <td align="left">7.1 ± 2.3</td>
+                          <td align="left">–1.1 ± 0.9</td>
+                          <td align="left">6.9 ± 2.2</td>
+                          <td align="left">–1.2 ± 0.9</td>
+                        </tr>
+                        <tr>
+                          <td align="left"><italic>P</italic>-value</td>
+                          <td align="left"/>
+                          <td align="left">0.03</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">0.002</td>
+                          <td align="left">NS</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.18</td>
+                          <td align="left">0.005</td>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">
+                            <bold>KT (mm)</bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Apical</td>
+                          <td align="left"/>
+                          <td align="left">6.6 ± 1.8</td>
+                          <td align="left">3.2 ± 1.0</td>
+                          <td align="left">5.2 ± 1.9</td>
+                          <td align="left">2.0 ± 1.5</td>
+                          <td align="left">5.6 ± 1.6</td>
+                          <td align="left">2.4 ± 1.3</td>
+                          <td align="left">6.1 ± 1.7</td>
+                          <td align="left">2.9 ± 1.5</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Crestal</td>
+                          <td align="left"/>
+                          <td align="left">5.2 ± 2.5</td>
+                          <td align="left">3.1 ± 1.2</td>
+                          <td align="left">4.1 ± 1.4</td>
+                          <td align="left">1.0 ± 1.0</td>
+                          <td align="left">4.4 ± 1.6</td>
+                          <td align="left">1.3 ± 1.2</td>
+                          <td align="left">4.6 ± 1.6</td>
+                          <td align="left">1.5 ± 1.3</td>
+                        </tr>
+                        <tr>
+                          <td align="left"><italic>P</italic>-value</td>
+                          <td align="left"/>
+                          <td align="left">0.07</td>
+                          <td align="left">NS</td>
+                          <td align="left">NS</td>
+                          <td align="left">0.02</td>
+                          <td align="left">0.03</td>
+                          <td align="left">0.007</td>
+                          <td align="left">0.02</td>
+                          <td align="left">0.003</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p><italic>SD</italic> standard deviation; <italic>NS</italic> not statistically significant</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par39">
+                  <fig id="Fig2">
+                    <label>Fig. 2</label>
+                    <caption>
+                      <p>Wound healing and soft tissue regrowth in a sextant treated with FibReORS and apically positioned flap at the level of the bone crest. (<bold>A</bold>) Baseline measurements with individual acrylic stent; (<bold>B</bold>) Intrasurgical view before bone remodelling; (<bold>C</bold>) Intrasurgical view after bone remodelling; (<bold>D</bold>) Sutures (buccal view); (<bold>E</bold>) Sutures (lingual view); (<bold>F</bold>) Post-surgery measurements (<bold>G</bold>) 3 months after surgery; (H) 6 months after surgery</p>
+                    </caption>
+                    <graphic xlink:href="12903_2023_3144_Fig2_HTML" id="d32e1320"/>
+                  </fig>
+                </p>
+                <p id="Par40">
+                  <fig id="Fig3">
+                    <label>Fig. 3</label>
+                    <caption>
+                      <p>Wound healing and soft tissue regrowth in a sextant treated with FibReORS and apically positioned flap 2 mm below the bone crest. (<bold>A</bold>) Baseline; (<bold>B</bold>) Intrasurgical view before bone remodelling; (<bold>C</bold>) Intrasurgical view after bone remodelling; (<bold>D</bold>) Sutures; (<bold>E</bold>) 3 months after surgery; (<bold>F</bold>) 6 months after surgery</p>
+                    </caption>
+                    <graphic xlink:href="12903_2023_3144_Fig3_HTML" id="d32e1351"/>
+                  </fig>
+                </p>
+              </sec>
+              <sec id="Sec13">
+                <title>Multilevel analysis</title>
+                <p id="Par41">
+Factors associated with 6-month GMD-Red are presented in Table <xref rid="Tab4" ref-type="table">4</xref>. At the surgical area, baseline GMD, flap position and time were significantly associated with GMD-Red (<italic>p</italic> &lt; 0.001). The interaction between treatment and time was statistically significant resulting for the coronal group in a lower tissue regrowth of 0.7 mm at 6 months (<italic>p</italic> &lt; 0.001). At the experimental site, higher soft tissue rebound was expected in sites with normal than thin phenotype (1.5 mm, <italic>p</italic> &lt; 0.001).</p>
+                <p id="Par42">
+                  <table-wrap id="Tab4">
+                    <label>Table 4</label>
+                    <caption>
+                      <p>Multilevel model to explore factors associated with the 6-month gingival margin distance reduction (mm) at the surgical area and at the experimental site</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left">Term</th>
+                          <th align="left"/>
+                          <th align="left" colspan="4">Surgical Area</th>
+                          <th align="left" colspan="4">Experimental Site</th>
+                        </tr>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left"/>
+                          <th align="left">Estimate</th>
+                          <th align="left">SE</th>
+                          <th align="left">p-Value</th>
+                          <th align="left">95% CI</th>
+                          <th align="left">Estimate</th>
+                          <th align="left">SE</th>
+                          <th align="left"><italic>p</italic>-value</th>
+                          <th align="left">95% CI</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Intercept</td>
+                          <td align="left"/>
+                          <td align="left">3.73</td>
+                          <td align="left">0.89</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.98; 5.47</td>
+                          <td align="left">4.30</td>
+                          <td align="left">1.07</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">2.19; 6.40</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Patient level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Gender</td>
+                          <td align="left"/>
+                          <td align="left">–0.32</td>
+                          <td align="left">0.43</td>
+                          <td align="left">0.46</td>
+                          <td align="left">–1.15; 0.52</td>
+                          <td align="left">–0.57</td>
+                          <td align="left">0.49</td>
+                          <td align="left">0.25</td>
+                          <td align="left">–1.54; 0.39</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Age</td>
+                          <td align="left"/>
+                          <td align="left">0.02</td>
+                          <td align="left">0.02</td>
+                          <td align="left">0.28</td>
+                          <td align="left">–0.02; 0.06</td>
+                          <td align="left">0.06</td>
+                          <td align="left">0.02</td>
+                          <td align="left">0.01</td>
+                          <td align="left">0.02; 0.10</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Smoke</td>
+                          <td align="left"/>
+                          <td align="left">0.25</td>
+                          <td align="left">0.42</td>
+                          <td align="left">0.56</td>
+                          <td align="left">–0.58;1.07</td>
+                          <td align="left">0.15</td>
+                          <td align="left">0.48</td>
+                          <td align="left">0.75</td>
+                          <td align="left">–0.80; 1.09</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Phenotype</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">1</td>
+                          <td align="left">–0.55</td>
+                          <td align="left">0.39</td>
+                          <td align="left">0.15</td>
+                          <td align="left">–1.32; 0.21</td>
+                          <td align="left">–1.46</td>
+                          <td align="left">0.45</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.34; 0.58</td>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">2</td>
+                          <td align="left">0.19</td>
+                          <td align="left">0.43</td>
+                          <td align="left">0.65</td>
+                          <td align="left">–0.65; 1.04</td>
+                          <td align="left">0.43</td>
+                          <td align="left">0.50</td>
+                          <td align="left">0.39</td>
+                          <td align="left">–0.55; 1.40</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Site level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (0 = Apical)</td>
+                          <td align="left"/>
+                          <td align="left">–0.95</td>
+                          <td align="left">0.25</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–1.44; -0.46</td>
+                          <td align="left">–1.60</td>
+                          <td align="left">0.39</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.35; − 0.83</td>
+                        </tr>
+                        <tr>
+                          <td align="left">GMD T0</td>
+                          <td align="left"/>
+                          <td align="left">0.80</td>
+                          <td align="left">0.09</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.62; 0.97</td>
+                          <td align="left">0.60</td>
+                          <td align="left">0.08</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.45; 0.75</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Time level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">T1</td>
+                          <td align="left"/>
+                          <td align="left">–1.39</td>
+                          <td align="left">0.16</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–1.70; -1.08</td>
+                          <td align="left">–2.00</td>
+                          <td align="left">0.20</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.40; − 1.60</td>
+                        </tr>
+                        <tr>
+                          <td align="left">T3</td>
+                          <td align="left"/>
+                          <td align="left">–1.76</td>
+                          <td align="left">0.16</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.07; -1.45</td>
+                          <td align="left">–2.44</td>
+                          <td align="left">0.20</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.84; − 2.03</td>
+                        </tr>
+                        <tr>
+                          <td align="left">T6</td>
+                          <td align="left"/>
+                          <td align="left">–2.01</td>
+                          <td align="left">0.16</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.32; -1.70</td>
+                          <td align="left">–2.62</td>
+                          <td align="left">0.20</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–3.02; − 2.22</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Interaction</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (1 = Crestal)*T1</td>
+                          <td align="left"/>
+                          <td align="left">0.65</td>
+                          <td align="left">0.22</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.21; 1.09</td>
+                          <td align="left">1.19</td>
+                          <td align="left">0.29</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.61; 1.76</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (1 = Crestal)*T3</td>
+                          <td align="left"/>
+                          <td align="left">0.75</td>
+                          <td align="left">0.22</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.31; 1.19</td>
+                          <td align="left">1.31</td>
+                          <td align="left">0.29</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.74; 1.88</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (1 = Crestal)*T6</td>
+                          <td align="left"/>
+                          <td align="left">0.71</td>
+                          <td align="left">0.22</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.27; 1.15</td>
+                          <td align="left">1.38</td>
+                          <td align="left">0.29</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.80; 1.94</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Variances</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>n patient</td>
+                          <td align="left"/>
+                          <td align="left">0.12</td>
+                          <td align="left">0.15</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">1.94<sup>− 11</sup></td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>u site</td>
+                          <td align="left"/>
+                          <td align="left">0.29</td>
+                          <td align="left">0.13</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">0.71</td>
+                          <td align="left">0.19</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>e time</td>
+                          <td align="left"/>
+                          <td align="left">0.20</td>
+                          <td align="left">0.02</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Theoretic model at the surgical area and at the experimental site: GMDijk = β0ijk + β1k Gender (0 = female) + β2k Age + β3k Smoke (0 = No) + β4k Phenotype (0 = thin) + β5jk Treatment (0 = Apical) + β6jk GMD T0 + β7ijk T1 (GMD 1 month respect to GMD at surgery) + β8ijk T3 (GMD 3 months respect to GMD at surgery) + β9ijk T6 (GMD 6 months respect to GMD at surgery) + β10ijk Treatment (0 = Apical)*T1 + β11ijk Treatment (0 = Apical)*T3 + β12ijk Treatment (0 = Apical)*T6.</p>
+                      <p>σ2n, σ2u, and σ2e indicate the variances at the Patient, at the Site and at the Time level respectively. In the theoretic model formula, the subscript k refers to the Patient level. The subscript j refers to the Site level. The subscript i refers to the Time level. b0ijk is the “intercept”. <italic>SE</italic> standard error; <italic>Apical</italic> Flap apical to the bone crest; <italic>Crestal</italic> Flap at the level of the bone crest</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par43">
+Factors associated with 6-month KT-Inc are presented in Table <xref rid="Tab5" ref-type="table">5</xref>. At the surgical area smoking (<italic>p</italic> = 0.04), baseline KT values (<italic>p</italic> &lt; 0.001) and time (<italic>p</italic> &lt; 0.001) were significantly associated with KT-Inc. There was no interaction between time and treatment. At the experimental site, the interaction between treatment and time was statistically significant favoring the apical group (<italic>p</italic> ≤ 0.01), with an additional KT increase of 0.9 mm at 6 months (<italic>p</italic> = 0.015).</p>
+                <p id="Par44">
+                  <table-wrap id="Tab5">
+                    <label>Table 5</label>
+                    <caption>
+                      <p>Multilevel model to explore factors associated with the 6-month keratinized tissue increase (mm) at the surgical area and at the experimental site</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left">Term</th>
+                          <th align="left"/>
+                          <th align="left" colspan="4">Surgical Area</th>
+                          <th align="left" colspan="4">Experimental Site</th>
+                        </tr>
+                        <tr>
+                          <th align="left"/>
+                          <th align="left"/>
+                          <th align="left">Estimate</th>
+                          <th align="left">SE</th>
+                          <th align="left">p-Value</th>
+                          <th align="left">95% CI</th>
+                          <th align="left">Estimate</th>
+                          <th align="left">SE</th>
+                          <th align="left"><italic>p</italic>-value</th>
+                          <th align="left">95% CI</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Intercept</td>
+                          <td align="left"/>
+                          <td align="left">1.60</td>
+                          <td align="left">0.94</td>
+                          <td align="left">0.08</td>
+                          <td align="left">–0.24; 3.44</td>
+                          <td align="left">0.28</td>
+                          <td align="left">1.03</td>
+                          <td align="left">0.78</td>
+                          <td align="left">–1.73; 2.30</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Patient level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Gender</td>
+                          <td align="left"/>
+                          <td align="left">–0.54</td>
+                          <td align="left">0.31</td>
+                          <td align="left">0.08</td>
+                          <td align="left">–1.14; 0.06</td>
+                          <td align="left">–0.43</td>
+                          <td align="left">0.42</td>
+                          <td align="left">0.30</td>
+                          <td align="left">–1.25; 0.39</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Age</td>
+                          <td align="left"/>
+                          <td align="left">–0.02</td>
+                          <td align="left">0.01</td>
+                          <td align="left">0.09</td>
+                          <td align="left">–0.05; 0.00</td>
+                          <td align="left">–0.00</td>
+                          <td align="left">0.02</td>
+                          <td align="left">0.82</td>
+                          <td align="left">–0.04; 0.03</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Smoke</td>
+                          <td align="left"/>
+                          <td align="left">0.66</td>
+                          <td align="left">0.32</td>
+                          <td align="left">0.04</td>
+                          <td align="left">0.04;1.28</td>
+                          <td align="left">0.42</td>
+                          <td align="left">0.43</td>
+                          <td align="left">0.32</td>
+                          <td align="left">–0.41;1.26</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Phenotype</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">1</td>
+                          <td align="left">0.34</td>
+                          <td align="left">0.29</td>
+                          <td align="left">0.24</td>
+                          <td align="left">–0.22; 0.90</td>
+                          <td align="left">0.32</td>
+                          <td align="left">0.36</td>
+                          <td align="left">0.37</td>
+                          <td align="left">–0.38; 1.03</td>
+                        </tr>
+                        <tr>
+                          <td align="left"/>
+                          <td align="left">2</td>
+                          <td align="left">–0.09</td>
+                          <td align="left">0.29</td>
+                          <td align="left">0.75</td>
+                          <td align="left">–0.66; 0.47</td>
+                          <td align="left">–0.07</td>
+                          <td align="left">0.39</td>
+                          <td align="left">0.85</td>
+                          <td align="left">–0.85; 0.70</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Site level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (0 = Apical)</td>
+                          <td align="left"/>
+                          <td align="left">0.22</td>
+                          <td align="left">0.19</td>
+                          <td align="left">0.23</td>
+                          <td align="left">-0.15; 0.59</td>
+                          <td align="left">0.48</td>
+                          <td align="left">0.37</td>
+                          <td align="left">0.19</td>
+                          <td align="left">–0.24; 1.20</td>
+                        </tr>
+                        <tr>
+                          <td align="left">KT T0</td>
+                          <td align="left"/>
+                          <td align="left">0.44</td>
+                          <td align="left">0.09</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">0.26; 0.63</td>
+                          <td align="left">0.46</td>
+                          <td align="left">0.07</td>
+                          <td align="left">0.001</td>
+                          <td align="left">0.32; 0.60</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Time level</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">T1</td>
+                          <td align="left"/>
+                          <td align="left">1.38</td>
+                          <td align="left">0.11</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.17; 1.60</td>
+                          <td align="left">2.00</td>
+                          <td align="left">0.26</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.48; 2.52</td>
+                        </tr>
+                        <tr>
+                          <td align="left">T3</td>
+                          <td align="left"/>
+                          <td align="left">1.75</td>
+                          <td align="left">0.11</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.54; 1.97</td>
+                          <td align="left">2.44</td>
+                          <td align="left">0.26</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.92; 2.96</td>
+                        </tr>
+                        <tr>
+                          <td align="left">T6</td>
+                          <td align="left"/>
+                          <td align="left">1.97</td>
+                          <td align="left">0.11</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">1.76; 2.19</td>
+                          <td align="left">2.87</td>
+                          <td align="left">0.26</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">2.35; 3.40</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Interaction</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (1 = Crestal)*T1</td>
+                          <td align="left"/>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">–1.00</td>
+                          <td align="left">0.37</td>
+                          <td align="left">0.01</td>
+                          <td align="left">–1.73; − 0.26</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment (1 = Crestal)*T3</td>
+                          <td align="left"/>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">–1.12</td>
+                          <td align="left">0.37</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–1.86; − 0.39</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Treatment(1 = Crestal)*T6</td>
+                          <td align="left"/>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">/</td>
+                          <td align="left">–1.37</td>
+                          <td align="left">0.37</td>
+                          <td align="left">&lt; 0.001</td>
+                          <td align="left">–2.11; 0.64</td>
+                        </tr>
+                        <tr>
+                          <td align="left">
+                            <bold>
+                              <underline>Variances</underline>
+                            </bold>
+                          </td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>n patient</td>
+                          <td align="left"/>
+                          <td align="left">1.54<sup>− 14</sup></td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">4.08<sup>− 7</sup></td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>u site</td>
+                          <td align="left"/>
+                          <td align="left">0.26</td>
+                          <td align="left">0.07</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">0.45</td>
+                          <td align="left">0.13</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">σ<sup>2</sup>e time</td>
+                          <td align="left"/>
+                          <td align="left">0.19</td>
+                          <td align="left">0.02</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left">0.56</td>
+                          <td align="left">0.06</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Theoretic model at the surgical area: KT ijk = β0ijk + β1k Gender (0 = female) + β2k Age + β3k Smoke (0 = No) + β4k Phenotype (0 = thin) + β5jk Treatment (0 = Apical) + β6jk KT T0 + β7ijk T1 (KT 1 month respect to KT at surgery) + β8ijk T3 (KT 3 months respect to KT at surgery) + β9ijk T7 (KT 6 months respect to KT at surgery)</p>
+                      <p>Theoretic model at the experimental site: KT ijk = β0ijk + β1k Gender (0 = female) + β2k Age + β3k Smoke (0 = No) + β4k Phenotype (0 = thin) + β5jk Treatment (0 = Apical) + β6jk KT T0 + β7ijk T1 (KT 1 month respect to KT at surgery) + β8ijk T3 (KT 3 months respect to KT at surgery) + β9ijk T6 (KT 6 months respect to KT at surgery) + β10ijk Treatment (0 = Apical)*T1 + β11ijk Treatment (0 = Apical)*T3 + β12ijk Treatment (0 = Apical)*T6.</p>
+                      <p>σ2n, σ2u, and σ2e indicate the variances at the Patient, at the Site and at the Time level respectively. In the theoretic model formula, the subscript k refers to the Patient level. The subscript j refers to the Site level. The subscript i refers to the Time level. β0ijk is the “intercept”. <italic>SE</italic> standard error; <italic>Apical</italic> Flap apical to the bone crest; <italic>Crestal</italic> Flap at the level of the bone crest</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec id="Sec14">
+                <title>PROs</title>
+                <p id="Par45">
+The extent of discomfort/pain, the changes in the dietary habits (Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>), as well as the consumption of analgesic medication (Fig. <xref rid="Fig4" ref-type="fig">4</xref>) were comparable between the two procedures during the first two post-therapy weeks.</p>
+                <p id="Par46">
+                  <fig id="Fig4">
+                    <label>Fig. 4</label>
+                    <caption>
+                      <p>Painkillers consumption at different postoperative times according to postoperative position of the gingival margin</p>
+                    </caption>
+                    <graphic xlink:href="12903_2023_3144_Fig4_HTML" id="d32e2408"/>
+                  </fig>
+                </p>
+              </sec>
+            </sec>
+            <sec id="Sec15" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par47">
+The present RCT demonstrated a higher coronal soft tissue rebound and KT increase over 6-month healing period following FibReORS when APF was placed 2 mm apically to the bone crest instead at the bone level. A split-mouth design was used to reduce biological variability.</p>
+              <p id="Par48">
+While several studies analysed soft-tissue behaviour following crown lengthening in patients with healthy periodontium [<xref ref-type="bibr" rid="CR8">8</xref>–<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR20">20</xref>–<xref ref-type="bibr" rid="CR22">22</xref>], scanty data are available following ORS and FibReORS in periodontitis patients. In particular, no study investigated the influence of flap position on the healing outcomes.</p>
+              <p id="Par49">
+We applied the FibReORS technique because it has been shown similarly effective as ORS for PD reduction with less extent of bone removal and faster soft tissue healing [<xref ref-type="bibr" rid="CR23">23</xref>]. The present findings confirmed its efficacy in achieving and maintaining minimal PDs over a 6-month period [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR23">23</xref>].</p>
+              <p id="Par50">
+The marginal periodontal tissue showed a tendency to grow in a coronal direction from the level defined after flap suture in both groups over the 6 months, with a mean GMD-Red of 2.0 mm for the apical group and 1.3 mm for the crestal group, suggesting a tendency of the periodontium to reform a new “physiological” supracrestal gingival unit [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. When considering only the interdental sites the differences between them were even more pronounced (2.3 mm <italic>versus</italic> 1.6 mm), reaching statistical significance. These findings are consistent with those by Cairo et al. [<xref ref-type="bibr" rid="CR12">12</xref>], reporting an overall mean GMD-Red of 2.0 mm in sextants treated with FibReORS and APF at the bone crest level, which increased to 2.2 mm inter-proximally. However, the authors considered CEJ as the reference point to measure the soft-tissue coronal rebound, while we used a customized acrylic stent to enhance measurement reliability.</p>
+              <p id="Par51">
+Similarly, Aimetti et al. [<xref ref-type="bibr" rid="CR15">15</xref>] observed an overall coronal re-growth of 1.6 mm in the surgical area treated with FibReORS and of 3.0 mm at the experimental sites, identified as those with greater baseline PD, at 12 months. In the present study, the amount of soft tissue re-growth at the experimental site level was twice as high in the apical than in the crestal group (2.6 mm v<italic>ersus</italic> 1.2 mm), but data are referred to 6-month behaviour. As previously reported, the periodontium tends to recreate a supracrestal gingival unit re-establishing a supracrestal connective attachment [<xref ref-type="bibr" rid="CR24">24</xref>]. We observed that soft-tissue rebound had already started after 1 month. At the 3-month follow-up, 87% of coronal rebound had occurred for the apical group compared to 78% for the crestal one. It should be taken into account that a strict monitoring of plaque accumulation was performed, which is critical for a physiological soft-tissue healing process to occur [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+              <p id="Par52">
+The role of KT width in the maintenance of periodontal health has been debated for many years and remains controversial. Several site-related conditions, such as gingival recessions, thin phenotype, and root prominence, combined with reduced or missing amount of attached gingiva, may impair maintenance of proper oral hygiene and periodontal health and, thus, may be indication to perform augmentation procedures [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR27">27</xref>]. Agudio et al. confirmed findings from previous studies about the beneficial contribution of the attached gingiva on periodontal stability [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR29">29</xref>]. In the current study higher KT gain was obtained in the apical compared to the crestal group at 6 months at both the surgical area (2.1 mm <italic>versus</italic> 1.8 mm) and the experimental site level (2.9 mm <italic>versus</italic> 1.5 mm).</p>
+              <p id="Par53">
+Differences in the amount of soft tissue regrowth and KT increase could be related to specific biological mechanisms triggered during the healing process [<xref ref-type="bibr" rid="CR30">30</xref>]. Histologically, periosteal retention limits the amount of both bone resorption and granulation tissue production leading to a thinner connective tissue layer formation and to a faster wound re-epithelialization as compared to the complete bone denudation. In this study, flap positioning 2 mm below the bone crest may have stimulated granulation tissue proliferation from bone marrow space and periodontal ligament with consequent formation of higher band of KT and greater tissue rebound [<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+              <p id="Par54">
+Factors associated with both soft tissue re-growth and KT changes were also investigated using multilevel models. The estimated difference in KT gain between apical and crestal groups was constant over time and amounted to 0.2 mm favouring the apical group. Instead, considering the experimental site, there was a positive interaction between treatment and time of observation. At 6 months the apical group achieved a 0.9 mm higher KT increase than the crestal group. Regarding the soft tissue re-growth, the multilevel model showed a positive interaction between treatment and time of observation with 0.7 mm lower soft tissue rebound at the surgical area for the coronal flap at 6 months post-surgery.</p>
+              <p id="Par55">
+Thick periodontal tissue has been associated with higher soft-tissue rebound after crown lengthening procedures [<xref ref-type="bibr" rid="CR8">8</xref>]. In this study, normal gingival phenotype was associated with greater tendency to coronal displacement than thin phenotype at the experimental site. This discrepancy may be related to differences in definitions of periodontal phenotype, in reference points used to measure soft-tissue re-growth and in the healing response between patients with periodontitis and healthy periodontium. Further studies are warranted to investigate this aspect. Also, smoking increased the KT width at 6 months even though the three smoker patients daily consumed less than 10 cigarettes.</p>
+              <p id="Par56">
+It is noteworthy that there were no differences in the quality of wound healing and in the intensity of postoperative discomfort. The re-epithelisation was completed after 3 weeks for both groups. Pain-related VAS values as well as the mean quantity of analgesic tablets taken during the first two weeks after surgery were similar between the two groups.</p>
+              <sec id="Sec16">
+                <title>Limitations</title>
+                <p id="Par57">
+One limitation of this study may be related to the length of follow-up set at 6 months. Nevertheless, the most relevant proportion of soft tissue re-growth occurs during this interval and only minor changes are to be expected thereafter [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. Secondly, flap repositioning may be regarded as an operator dependent endpoint especially in relation to the need of suturing it 2 mm below the crest. However, an acrylic stent was employed to standardize the reference points and to increase the reproducibility of measurements. Finally, we enrolled into the study only non- or light smokers. This may limit the generalizability of the present results. While smoking is not an absolute contraindication to ORS, it is expected that heavy smokers experience less favourable healing following surgery as well as an increased risk of relapse during post-surgical maintenance [<xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR33">33</xref>].</p>
+              </sec>
+            </sec>
+            <sec id="Sec17" sec-type="conclusion">
+              <title>Conclusions</title>
+              <p id="Par58">
+This study confirmed the benefits of FibReORS in the treatment of shallow-moderate intrabony defects and demonstrated that the placement of the primary flap apically to the bone crest resulted in greater soft tissue regrowth and formation of wider band of KT without any impact on the healing process and patient discomfort. This trend appeared statistically significant at the interdental level and at the experimental sites associated with the greatest intrabony defects.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <sec id="Sec18">
+                <title>Electronic supplementary material</title>
+                <p>Below is the link to the electronic supplementary material.</p>
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2023_3144_MOESM1_ESM.docx">
+                      <caption>
+                        <p>Supplementary Material 1: <bold>Supplementary Table 1</bold> Probing Depth (mm) over the experimental period at the surgical area (mean ± SD). <bold>Supplementary Table 2</bold> Patients reported outcomes.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>List of abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>APF</term>
+                  <def>
+                    <p id="Par301">Apically repositioned flap</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BoP</term>
+                  <def>
+                    <p id="Par302">Bleeding on probing</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FibReORS</term>
+                  <def>
+                    <p id="Par303">Osseous resective surgery with fiber retention technique</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FMBS</term>
+                  <def>
+                    <p id="Par304">Full-mouth bleeding score</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FMPS</term>
+                  <def>
+                    <p id="Par305">Full-mouth plaque score</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>GMD</term>
+                  <def>
+                    <p id="Par306">Distance of the gingival margin</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>KT</term>
+                  <def>
+                    <p id="Par307">Keratinized tissue</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ORS</term>
+                  <def>
+                    <p id="Par308">Osseous resective surgery</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>PD</term>
+                  <def>
+                    <p id="Par309">Probing depth</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>PRO</term>
+                  <def>
+                    <p id="Par310">Patient reported outcome</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>RCT</term>
+                  <def>
+                    <p id="Par311">Randomized clinical trial</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VAS</term>
+                  <def>
+                    <p id="Par312">Horizontal visual analogue scale</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+              <fn>
+                <p>Gian Marco Piccoli, Federica Romano, Giacomo Baima and Mario Aimetti contributed equally to this manuscript.</p>
+              </fn>
+              <fn>
+                <p>
+                  <bold>Change history</bold>
+                </p>
+                <p>10/6/2023</p>
+                <p>The CRUI-CARE TA funding note has been removed.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>GMM, GP, MA and MG made substantial contributions to conception of the study. GP, FC, FR, GB and MA contributed to the study design. GMM, GP, MG, and NLB performed clinical examinations and treatments. GP and FC performed data analysis. GB and FR performed data interpretation. GB, GP and FR prepared the first draft of the manuscript. All authors have read, revised critically, and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>The authors declare that there was no financial support from any external source regarding the current study.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data Availability</title>
+              <p>The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar2">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par62">Ethical approval was obtained from the Institutional Ethics Committee of the AOU Città della Salute e della Scienza Turin, Italy (approval No. 0096635). All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. Written informed consent was obtained from each participant in this study.</p>
+              </notes>
+              <notes id="FPar3">
+                <title>Consent for publication</title>
+                <p id="Par63">Not applicable.</p>
+              </notes>
+              <notes id="FPar1" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par61">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Friedman</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal osseous surgery: osteoplasty and ostectomy</article-title>
+                  <source>J Periodontol</source>
+                  <year>1955</year>
+                  <volume>29</volume>
+                  <fpage>15</fpage>
+                  <lpage>26</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ochsenbein</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A primer for osseous surgery</article-title>
+                  <source>Int J Periodontics Restorative Dent</source>
+                  <year>1986</year>
+                  <volume>6</volume>
+                  <fpage>8</fpage>
+                  <lpage>47</lpage>
+                  <?supplied-pmid 3457776?>
+                  <pub-id pub-id-type="pmid">3457776</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Kaldahl</surname>
+                      <given-names>WB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Osseous resective surgery</article-title>
+                  <source>Periodontol 2000</source>
+                  <year>2000</year>
+                  <volume>22</volume>
+                  <fpage>59</fpage>
+                  <lpage>87</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-0757.2000.2220106.x</pub-id>
+                  <?supplied-pmid 11276517?>
+                  <pub-id pub-id-type="pmid">11276517</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ferrarotti</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Giraudi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Citterio</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Fratini</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Gualini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Piccoli</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Mariani</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Romano</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Aimetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pocket elimination after osseous resective surgery: a systematic review and meta-analysis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2020</year>
+                  <volume>47</volume>
+                  <fpage>756</fpage>
+                  <lpage>67</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.13281</pub-id>
+                  <?supplied-pmid 32145035?>
+                  <pub-id pub-id-type="pmid">32145035</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kaldhal</surname>
+                      <given-names>WB</given-names>
+                    </name>
+                    <name>
+                      <surname>Kalkwarf</surname>
+                      <given-names>KL</given-names>
+                    </name>
+                    <name>
+                      <surname>Patil</surname>
+                      <given-names>KD</given-names>
+                    </name>
+                    <name>
+                      <surname>Molvar</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Dyer</surname>
+                      <given-names>JK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term evaluation of periodontal therapy: I. Response to 4 therapeutic modalities</article-title>
+                  <source>J Periodontol</source>
+                  <year>1996</year>
+                  <volume>67</volume>
+                  <fpage>92</fpage>
+                  <lpage>102</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kaldhal</surname>
+                      <given-names>WB</given-names>
+                    </name>
+                    <name>
+                      <surname>Kalkwarf</surname>
+                      <given-names>KL</given-names>
+                    </name>
+                    <name>
+                      <surname>Patil</surname>
+                      <given-names>KD</given-names>
+                    </name>
+                    <name>
+                      <surname>Molvar</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Dyer</surname>
+                      <given-names>JK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term evaluation of periodontal therapy. II. Incidence of sites breaking down</article-title>
+                  <source>J Periodontol</source>
+                  <year>1996</year>
+                  <volume>67</volume>
+                  <fpage>103</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1996.67.2.103</pub-id>
+                  <pub-id pub-id-type="pmid">8667129</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Fibre retention osseous resective surgery: a novel conservative approach for pocket elimination</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2007</year>
+                  <volume>34</volume>
+                  <fpage>182</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2006.01027.x</pub-id>
+                  <?supplied-pmid 17184280?>
+                  <pub-id pub-id-type="pmid">17184280</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pontoriero</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Surgical crown lengthening: a 12-month clinical wound healing study</article-title>
+                  <source>J Periodontol</source>
+                  <year>2011</year>
+                  <volume>72</volume>
+                  <fpage>841</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2001.72.7.841</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Deas</surname>
+                      <given-names>DE</given-names>
+                    </name>
+                    <name>
+                      <surname>Moritz</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>McDonnell</surname>
+                      <given-names>HT</given-names>
+                    </name>
+                    <name>
+                      <surname>Powell</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Mealey</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Osseous surgery for crown lengthening: a 6-month clinical study</article-title>
+                  <source>J Periodontol</source>
+                  <year>2004</year>
+                  <volume>75</volume>
+                  <fpage>1288</fpage>
+                  <lpage>94</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2004.75.9.1288</pub-id>
+                  <?supplied-pmid 15515347?>
+                  <pub-id pub-id-type="pmid">15515347</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Perez</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <name>
+                      <surname>Smukler</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Nunn</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical evaluation of the supraosseous gingivae before and after crown lengthening</article-title>
+                  <source>J Periodontol</source>
+                  <year>2007</year>
+                  <volume>78</volume>
+                  <fpage>1023</fpage>
+                  <lpage>30</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2007.060485</pub-id>
+                  <?supplied-pmid 17539715?>
+                  <pub-id pub-id-type="pmid">17539715</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arora</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Satisch</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Tewari</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of supracrestal gingival tissue after surgical crown lengthening: a 6 months clinical study</article-title>
+                  <source>J Periodontol</source>
+                  <year>2013</year>
+                  <volume>84</volume>
+                  <fpage>934</fpage>
+                  <lpage>40</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2012.120162</pub-id>
+                  <?supplied-pmid 23088528?>
+                  <pub-id pub-id-type="pmid">23088528</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cairo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Buti</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Soft-tissue regrowth following fibre retention osseous resective surgery or osseous resective surgery. A multilevel analysis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2015</year>
+                  <volume>42</volume>
+                  <fpage>373</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12383</pub-id>
+                  <?supplied-pmid 25692329?>
+                  <pub-id pub-id-type="pmid">25692329</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aimetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mariani</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ercoli</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Audagna</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Romano</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Soft tissue re-growth after osseous resective surgery with and without fibre retention technique. Four-year follow-up of a randomized clinical trial</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <fpage>364</fpage>
+                  <lpage>72</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12848</pub-id>
+                  <?supplied-pmid 29218735?>
+                  <pub-id pub-id-type="pmid">29218735</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Armitage</surname>
+                      <given-names>GC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Development of a classification system for periodontal diseases and conditions</article-title>
+                  <source>Ann Periodontol</source>
+                  <year>1999</year>
+                  <volume>4</volume>
+                  <fpage>1</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1902/annals.1999.4.1.1</pub-id>
+                  <?supplied-pmid 10863370?>
+                  <pub-id pub-id-type="pmid">10863370</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aimetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mariani</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferrarotti</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Osseous resective surgery with and without fibre retention technique in the treatment of shallow intrabony defects: a split-mouth randomized clinical trial</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2015</year>
+                  <volume>42</volume>
+                  <fpage>182</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12343</pub-id>
+                  <?supplied-pmid 25441978?>
+                  <pub-id pub-id-type="pmid">25441978</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Da Silva</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                    <name>
+                      <surname>Joly</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lima</surname>
+                      <given-names>AF</given-names>
+                    </name>
+                    <name>
+                      <surname>Tatakis</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Root coverage using the coronally positioned flap with or without a subepithelial connective tissue graft</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2004</year>
+                  <volume>75</volume>
+                  <fpage>413</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2004.75.3.413</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Schaller</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Eger</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Heinecke</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Thickness of masticatory mucosa</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2000</year>
+                  <volume>27</volume>
+                  <fpage>431</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051x.2000.027006431.x</pub-id>
+                  <?supplied-pmid 10883873?>
+                  <pub-id pub-id-type="pmid">10883873</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cortellini</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Baldi</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Does placement of a connective tissue graft improve the outcomes of coronally advanced flap for coverage of single gingival recessions in upper anterior teeth? A multi-centre, randomized, double-blind, clinical trial</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2009</year>
+                  <volume>36</volume>
+                  <fpage>68</fpage>
+                  <lpage>79</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2008.01346.x</pub-id>
+                  <?supplied-pmid 19046326?>
+                  <pub-id pub-id-type="pmid">19046326</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Del Pizzo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Modica</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Bethaz</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Priotto</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Romagnoli</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The connective tissue graft: a comparative clinical evaluation of wound healing at the palatal donor site. A preliminary study</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2002</year>
+                  <volume>29</volume>
+                  <fpage>848</fpage>
+                  <lpage>54</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051X.2002.290910.x</pub-id>
+                  <?supplied-pmid 12423299?>
+                  <pub-id pub-id-type="pmid">12423299</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bragger</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Lauchenauer</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Surgical lengthening of the clinical crown</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1992</year>
+                  <volume>19</volume>
+                  <fpage>58</fpage>
+                  <lpage>63</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1992.tb01150.x</pub-id>
+                  <?supplied-pmid 1732311?>
+                  <pub-id pub-id-type="pmid">1732311</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lanning</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Waldrop</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Maynard</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Surgical crown lengthening: evaluation of the biological width</article-title>
+                  <source>J Periodontol</source>
+                  <year>2003</year>
+                  <volume>74</volume>
+                  <fpage>468</fpage>
+                  <lpage>74</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2003.74.4.468</pub-id>
+                  <?supplied-pmid 12747451?>
+                  <pub-id pub-id-type="pmid">12747451</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Van der Velden</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Regeneration of the interdental soft tissues following denudation procedures</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1982</year>
+                  <volume>9</volume>
+                  <fpage>455</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1982.tb02106.x</pub-id>
+                  <?supplied-pmid 6960021?>
+                  <pub-id pub-id-type="pmid">6960021</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cairo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Nieri</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mervelt</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Ciccinelli</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Martinolli</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Pini-Prato</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Benefits of fibre retention osseous resective surgery in the treatment of shallow infrabony defects. A double-blind, randomized, clinical trial describing clinical, radiographic and patient-reported outcomes</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2013</year>
+                  <volume>40</volume>
+                  <fpage>163</fpage>
+                  <lpage>71</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12042</pub-id>
+                  <?supplied-pmid 23252480?>
+                  <pub-id pub-id-type="pmid">23252480</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Oakley</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Rhyu</surname>
+                      <given-names>IC</given-names>
+                    </name>
+                    <name>
+                      <surname>Karatzas</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Gandini-Santiago</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Nevins</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Caton</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Formation of the biologic width following crown lengthening in nonhuman primates</article-title>
+                  <source>Int J Periodontics Restorative Dent</source>
+                  <year>1999</year>
+                  <volume>19</volume>
+                  <fpage>529</fpage>
+                  <lpage>41</lpage>
+                  <?supplied-pmid 10815592?>
+                  <pub-id pub-id-type="pmid">10815592</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nyman</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosling</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of professional tooth cleaning after periodontal surgery</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1975</year>
+                  <volume>2</volume>
+                  <fpage>80</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1975.tb01728.x</pub-id>
+                  <?supplied-pmid 1094035?>
+                  <pub-id pub-id-type="pmid">1094035</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Consensus Report. Mucogingival therapy</article-title>
+                  <source>Ann Periodontol</source>
+                  <year>1996</year>
+                  <volume>1</volume>
+                  <fpage>702</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1902/annals.1996.1.1.702</pub-id>
+                  <pub-id pub-id-type="pmid">9118277</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Serino</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Wennstrom</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Eneroth</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The prevalence and distribution of gingival recession in subjects with a high standard of oral hygiene</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1994</year>
+                  <volume>21</volume>
+                  <fpage>57</fpage>
+                  <lpage>63</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1994.tb00278.x</pub-id>
+                  <?supplied-pmid 8126246?>
+                  <pub-id pub-id-type="pmid">8126246</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Agudio</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Nieri</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Rotundo</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Cortellini</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Pini Prato</surname>
+                      <given-names>GP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal conditions of sites treated with gingival-augmentation surgery compared to untreated contralateral homologous sites: a 10- to 27-year long-term study</article-title>
+                  <source>J Periodontol</source>
+                  <year>2009</year>
+                  <volume>80</volume>
+                  <fpage>1399</fpage>
+                  <lpage>405</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2009.090122</pub-id>
+                  <?supplied-pmid 19722789?>
+                  <pub-id pub-id-type="pmid">19722789</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                    <name>
+                      <surname>Loe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The relationship between the width of keratinized gingiva and gingival health</article-title>
+                  <source>J Periodontol</source>
+                  <year>1972</year>
+                  <volume>43</volume>
+                  <issue>10</issue>
+                  <fpage>623</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1972.43.10.623</pub-id>
+                  <?supplied-pmid 4507712?>
+                  <pub-id pub-id-type="pmid">4507712</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Staffileno</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Levy</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Gargiulo</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Histologic study of cellular mobilization and repair following a periosteal retention operation via split thickness mucogingival surgery</article-title>
+                  <source>J Periodontol</source>
+                  <year>1966</year>
+                  <volume>37</volume>
+                  <fpage>117</fpage>
+                  <lpage>31</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1966.37.2.117</pub-id>
+                  <?supplied-pmid 5217762?>
+                  <pub-id pub-id-type="pmid">5217762</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Karring</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Cumming</surname>
+                      <given-names>BR</given-names>
+                    </name>
+                    <name>
+                      <surname>Oliver</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                    <name>
+                      <surname>Loe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The origin of granulation tissue and its impact on postoperative results of mucogingival surgery</article-title>
+                  <source>J Periodontol</source>
+                  <year>1975</year>
+                  <volume>46</volume>
+                  <fpage>577</fpage>
+                  <lpage>85</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1975.46.10.577</pub-id>
+                  <?supplied-pmid 810567?>
+                  <pub-id pub-id-type="pmid">810567</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kotsakis</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Javed</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Hinrichs</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Karoussis</surname>
+                      <given-names>IK</given-names>
+                    </name>
+                    <name>
+                      <surname>Romanos</surname>
+                      <given-names>GE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of cigarette smoking on clinical outcomes of periodontal flap surgical procedures: a systematic review and meta-analysis</article-title>
+                  <source>J Periodontol</source>
+                  <year>2015</year>
+                  <volume>86</volume>
+                  <fpage>254</fpage>
+                  <lpage>63</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2014.140452</pub-id>
+                  <?supplied-pmid 25299388?>
+                  <pub-id pub-id-type="pmid">25299388</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Carnevale</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cairo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term effects of supportive therapy in periodontal patients treated with fibre retention osseous resective surgery. I: recurrence of pockets, bleeding on probing and tooth loss</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2007</year>
+                  <volume>34</volume>
+                  <fpage>334</fpage>
+                  <lpage>41</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2007.01051.x</pub-id>
+                  <?supplied-pmid 17324157?>
+                  <pub-id pub-id-type="pmid">17324157</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

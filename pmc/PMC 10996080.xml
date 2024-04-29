@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:35:53Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10996080" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10996080</identifier>
+        <datestamp>2024-04-05</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10996080</article-id>
+              <article-id pub-id-type="pmcid">PMC10996080</article-id>
+              <article-id pub-id-type="pmc-uid">10996080</article-id>
+              <article-id pub-id-type="pmid">38575929</article-id>
+              <article-id pub-id-type="pmid">38575929</article-id>
+              <article-id pub-id-type="publisher-id">4201</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-024-04201-0</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Alternatives to dental opioid prescribing after tooth extraction (ADOPT): protocol for a stepped wedge cluster randomized trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Oyler</surname>
+                    <given-names>Douglas R.</given-names>
+                  </name>
+                  <address>
+                    <email>doug.oyler@uky.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Westgate</surname>
+                    <given-names>Philip M.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Walsh</surname>
+                    <given-names>Sharon L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dolly Prothro</surname>
+                    <given-names>Jennifer</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Miller</surname>
+                    <given-names>Craig S.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Roberts</surname>
+                    <given-names>Monica F.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Freeman</surname>
+                    <given-names>Patricia R.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Knudsen</surname>
+                    <given-names>Hannah K.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lang</surname>
+                    <given-names>Maggie</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dominguez-Fernandez</surname>
+                    <given-names>Enif</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rojas-Ramirez</surname>
+                    <given-names>Marcia V.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Department of Pharmacy Practice and Science, College of Pharmacy, </institution><institution>University of Kentucky, </institution></institution-wrap>760 Press Avenue, Ste. 260, Lexington, KY 40536 USA </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Department of Biostatistics, College of Public Health, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Department of Behavioral Science and Center on Drug and Alcohol Research, College of Medicine, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Department of Oral Diagnosis, Medicine, and Radiology, College of Dentistry, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Substance Use Priority Research Area, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02k3smh20</institution-id><institution-id institution-id-type="GRID">grid.266539.d</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 8438</institution-id><institution>Department of Oral Health Science, College of Dentistry, </institution><institution>University of Kentucky, </institution></institution-wrap>Lexington, KY USA </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>4</day>
+                <month>4</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>4</day>
+                <month>4</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2024</year>
+              </pub-date>
+              <volume>24</volume>
+              <elocation-id>414</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>22</day>
+                  <month>2</month>
+                  <year>2024</year>
+                </date>
+                <date date-type="accepted">
+                  <day>28</day>
+                  <month>3</month>
+                  <year>2024</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2024</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Dentists and oral surgeons are leading prescribers of opioids to adolescents and young adults (AYA), who are at high risk for developing problematic opioid use after an initial exposure. Most opioids are prescribed after tooth extraction, but non-opioid analgesics provide similar analgesia and are recommended by multiple professional organizations.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">This multi-site stepped wedge cluster-randomized trial will assess whether a multicomponent behavioral intervention can influence opioid prescribing behavior among dentists and oral surgeons compared to usual practice. Across up to 12 clinical practices (clusters), up to 33 dentists/oral surgeons (provider participants) who perform tooth extractions for individuals 12–25 years old will be enrolled. After enrollment, all provider participants will receive the intervention at a time based on the sequence to which their cluster is randomized. The intervention consists of prescriber education via academic detailing plus provision of standardized patient post-extraction instructions and blister packs of acetaminophen and ibuprofen. Provider participants will dispense the blister packs and distribute the patient instructions at their discretion to AYA undergoing tooth extraction, with or without additional analgesics. The primary outcome is a binary, patient-level indicator of electronic post-extraction opioid prescription. Data for the primary outcome will be collected from the provider participant’s electronic health records quarterly throughout the study. Provider participants will complete a survey before and approximately 3 months after transitioning into the intervention condition to assess implementation outcomes. AYA patients undergoing tooth extraction will be offered a survey to assess pain control and satisfaction with pain management in the week after their extraction. Primary analyses will use generalized estimating equations to compare the binary patient-level indicator of being prescribed a post-extraction opioid in the intervention condition compared to usual practice. Secondary analyses will assess provider participants’ perceptions of feasibility and appropriateness of the intervention, and patient-reported pain control and satisfaction with pain management. Analyses will adjust for patient-level factors (e.g., sex, number of teeth extracted, etc.).</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">This real-world study will address an important need, providing information on the effectiveness of a multicomponent intervention at modifying dental prescribing behavior and reducing opioid prescriptions to AYA.</p>
+                </sec>
+                <sec>
+                  <title>ClinicalTrials.gov</title>
+                  <p id="Par4">NCT06275191.</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-024-04201-0.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Analgesics</kwd>
+                <kwd>Opioid</kwd>
+                <kwd>Pain management</kwd>
+                <kwd>Dentists</kwd>
+                <kwd>Adolescent</kwd>
+                <kwd>Acetaminophen</kwd>
+                <kwd>Ibuprofen</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000002</institution-id>
+                      <institution>National Institutes of Health</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                  <award-id>4UH3DE032621</award-id>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2024</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par5">Reducing adolescent and young adult (AYA) substance use is a national priority [<xref ref-type="bibr" rid="CR1">1</xref>]. Any prescription opioid use in or before high school is associated with future opioid misuse [<xref ref-type="bibr" rid="CR2">2</xref>], and prescription opioid misuse by AYA is associated with future illicit drug use [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR5">5</xref>]. Strategies to reduce unnecessary opioid exposure among AYA are needed.</p>
+              <p id="Par6">Dentists are a leading prescriber of opioids to AYA [<xref ref-type="bibr" rid="CR6">6</xref>], and many of these prescriptions may be unnecessary. Between 65% and 70% of dental opioid prescriptions are issued after tooth extraction [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>], but individuals who use opioids to manage acute pain after a dental procedure do not report improved pain control or satisfaction with pain management [<xref ref-type="bibr" rid="CR9">9</xref>]. In a comparison of over 58,000 patients with post-operative pain (almost exclusively after third molar extraction) across several studies, a combination of acetaminophen and ibuprofen was the most effective of the 46 analgesic regimens evaluated, including opioids [<xref ref-type="bibr" rid="CR10">10</xref>]. Accordingly, non-opioid analgesics like acetaminophen and non-steroidal anti-inflammatory drugs (NSAIDs) are recommended as first-line analgesics for acute dental pain by the American Dental Association (ADA) [<xref ref-type="bibr" rid="CR11">11</xref>], U.S. Centers for Disease Control and Prevention [<xref ref-type="bibr" rid="CR12">12</xref>], and American Association of Oral and Maxillofacial Surgeons (AAOMS) [<xref ref-type="bibr" rid="CR13">13</xref>]. </p>
+              <p id="Par7">Despite these recommendations, dentists and oral surgeons in the U.S. continue to prescribe opioids at rates much higher than in other countries [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>], and this may disproportionately affect AYA. Analysis of 44,387 individuals undergoing tooth extraction at the University of Kentucky (UK) College of Dentistry found that 41% of AYA patients received opioid prescriptions compared to 23% of patients from other age groups (<italic>p</italic> &lt; 0.001) [<xref ref-type="bibr" rid="CR16">16</xref>]. While opioid prescription likelihood is related to expected procedural characteristics (e.g., surgical extraction, number of teeth extracted, etc.), non-clinical variables such as day of the week and clinical practice site also increase the likelihood of opioid prescription [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>]. </p>
+              <p id="Par8">Together, the mismatch between existing practice (i.e., opioid prescribing despite recommendations to use more effective therapies) and the presence of non-clinical variables influencing practice suggest that comprehensive behavioral interventions to modify prescriber behavior are needed. The COM-B model for behavior change describes three primary drivers of behavior: capability (i.e., psychological and physical ability), opportunity (i.e., external factors), and motivation (i.e., conscious and unconscious processes) [<xref ref-type="bibr" rid="CR19">19</xref>]. In the context of opioid prescribing for acute pain management after dental procedures, these may be considered as [1] knowledge regarding risks and benefits of analgesics; [2] pressure to prescribe opioids, which we have previously established is related to patient expectations; [<xref ref-type="bibr" rid="CR20">20</xref>] and [3] removing immediate barriers to acute pain management [<xref ref-type="bibr" rid="CR21">21</xref>]. In that context, this study will combine three elements to create a multicomponent intervention to modify prescriber behavior: [1] prescriber education using academic detailing [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>], [2] standardized patient post-extraction instructions for distribution, and [3] blister packaged acetaminophen and ibuprofen for distribution.</p>
+              <p id="Par9">Previous efforts to change dental providers’ opioid prescribing behaviors have had mixed results. In 2016, the University of Minnesota School of Dentistry implemented an opioid prescribing protocol with concomitant provider education emphasizing first-line ibuprofen use unless contraindicated [<xref ref-type="bibr" rid="CR24">24</xref>]. Compared to the 15 months before implementation of the protocol, the 15 months after protocol implementation reduced opioid prescriptions by 47.1% (2,792 prescriptions after vs. 5,279 prescriptions before). Teoh, et al. reported that combining a single group provider education session with an online dental prescribing reference reduced inappropriate antibiotic or opioid prescriptions from 130 (in the 6 weeks before the intervention) to 72 (in the 6 weeks after the intervention [<xref ref-type="bibr" rid="CR25">25</xref>] supporting a general role for dentist/oral surgeon education to modify behavior. However, the recently published De-Implementing Opioids for Dental Extractions study found that a combination of clinical decision support and patient education did not change opioid prescribing across 49 providers in 22 clinics in Minnesota [odds ratio (OR) 1.27, 95% confidence interval (CI) 0.86–1.79, <italic>p</italic> = 0.18 compared to usual practice], largely due to low use of the clinical decision support tool by oral surgeons [<xref ref-type="bibr" rid="CR26">26</xref>]. This suggests that interventions may need to be more comprehensive and implemented at the site, rather than individual, level (i.e., clinics instead of individual providers) to improve adherence and accountability.</p>
+              <p id="Par10">One additive behavioral intervention that may change prescribing behaviors is providing prescribers with physical resources to issue instead of writing a new prescription. While this strategy has not been studied in dentists/oral surgeons performing tooth extractions, studies from other domains show promise. For example, the addition of generic drug vouchers (i.e., vouchers providing coverage for a 30-day supply of generic medication) to academic detailing increased prescribing of generic medications from 53.4 to 60.8% by 53 primary care physicians across 9 clinics [<xref ref-type="bibr" rid="CR27">27</xref>]. Additionally, the use of drug samples (i.e., physical medication for distribution, a common strategy employed by pharmaceutical companies to increase prescribing of new medications) as described by Shrank and colleagues [<xref ref-type="bibr" rid="CR28">28</xref>] has been associated with additive behavior change when compared to academic detailing alone. A claims analysis of 651 physicians who received academic detailing found that providing samples for generic atorvastatin was associated with a 2.6% increase in market share for the drug compared to other statin medications [<xref ref-type="bibr" rid="CR29">29</xref>]. Similarly, a survey of 206 clinicians with (<italic>N</italic> = 148) and without (<italic>N</italic> = 58) industry-provided drug samples (i.e., samples for new brand-name medications) available in their practices found that sample availability influenced behavior: providers with samples available were significantly less likely to prescribe first-line generic therapies in standardized case vignettes [<xref ref-type="bibr" rid="CR30">30</xref>]. Another study of over 2.3 million managed care organization beneficiaries found that providing generic first-line antibiotic drug samples to prescribers increased the prescribing rate of first-line antibiotics [<xref ref-type="bibr" rid="CR31">31</xref>]. Finally, blister-packaged acetaminophen and ibuprofen has been provided to patients after tooth extraction previously, but the effect on provider behavior has not been measured. In a 2020 study, Derefinko, et al. randomized 76 adult patients undergoing dental surgery to an opioid misuse prevention program (<italic>n</italic> = 34) or treatment as usual (<italic>n</italic> = 32) [<xref ref-type="bibr" rid="CR32">32</xref>]. The opioid misuse prevention program consisted of a 10-minute patient education session presented by an interventionalist plus a 7-day supply of acetaminophen and ibuprofen added to usual care. Although 95% of patients in both cohorts received an opioid prescription, patients who received the intervention reduced self-reported total opioid use in the week after surgery (38 vs. 48 total morphine milligram equivalents).</p>
+              <p id="Par11">The primary objective of this study is to establish the effectiveness of the multicomponent intervention (academic detailing, patient education, and blister-packaged non-opioid analgesics) at reducing opioid prescriptions following tooth extraction among AYAs. The study will use a prospective, stepped wedge, cluster randomized trial (SW-CRT) design to assess the effectiveness of the intervention, which will be measured using encounter-level data from the electronic health record (EHR) to compare the odds of post-extraction opioid prescriptions to AYA under the intervention and control conditions. Secondary objectives are to examine implementation outcomes of the intervention (e.g., appropriateness and feasibility), and to assess AYA patient-reported pain management, satisfaction, and analgesic use after tooth extraction.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <p id="Par12">This study is based on the standard protocol items: recommendations for interactive trials (SPIRIT).</p>
+              <sec id="Sec3">
+                <title>Study design</title>
+                <p id="Par13">To optimize statistical power and allow each clinic to serve as an ethical control while ensuring each clinic is studied under the intervention condition, this study uses a flexible stepped wedge design. This novel design will allow for intervention start up in no more than two clusters at once.</p>
+                <p id="Par14">Consistent with revised Consolidated Standards of Reporting Trials (CONSORT) guidelines for reporting SW-CRTs [<xref ref-type="bibr" rid="CR33">33</xref>], this study is a repeated cross-sectional SW-CRT involving a sequential crossover of clusters from the control condition to the intervention condition, so that every cluster begins in the control condition and eventually receives the intervention condition. The period duration is 5 months with a 1-month transition period between the control and intervention conditions. The study uses 8 sequences, and each cluster is randomly assigned to a specific sequence. A schematic of the study design is presented in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.</p>
+                <p id="Par15">
+                  <fig id="Fig1">
+                    <label>Fig. 1</label>
+                    <caption>
+                      <p>ADOPT study design. Stepped wedge schematic for the study assuming study initiation (T1) begins early 2024. Each ‘step’ from T1 to T9 will be 5 months in length. Shaded gray cells represent the baseline (T0) period during which clusters are screened for eligibility. Shaded green cells represent the control condition of usual care. Shaded peach cells represent the 1-month transition period, during which provider participants undergo the academic detailing session. Shaded blue cells represent the intervention condition, where provider participants distribute standardized post-extraction instructions and blister packs</p>
+                    </caption>
+                    <graphic xlink:href="12903_2024_4201_Fig1_HTML" id="d33e471"/>
+                  </fig>
+                </p>
+                <p id="Par16">The cluster unit for this study is the participating dental or oral surgery practice. Each cluster contains a unique group of providers that can practice at one or more physical clinic locations, but may not practice in another cluster (i.e., a given cluster may consist of more than one physical clinic location if a practice has multiple offices). Up to 12 clusters may be included (accrual goal: <italic>n</italic> = 8), including up to 33 dentists (accrual goal: <italic>n</italic> = 24).</p>
+                <p id="Par17">Patients (up to <italic>n</italic> = 50,000; minimum accrual goal: <italic>n</italic> = 5,040) will be exposed to the study condition of their dental clinic based on the date of their appointment. Opioid prescribing, measured at the encounter level from the electronic health record (EHR), will serve as the primary outcome. Additional implementation outcomes of appropriateness and feasibility will be measured at the provider level, and patient-reported pain-related outcomes will be measured using patient surveys.</p>
+                <p id="Par18">Randomization to a specific sequence occurs at the cluster level to minimize potential contamination effects between providers at the same practice being randomized to receive the intervention at different times. The University of Kentucky (UK) institutional review board reviewed and approved this study.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Study setting</title>
+                <p id="Par19">Participating clinics include a mixture of academic and community settings across Kentucky and Southern Indiana, accounting for nearly 10,000 AYA tooth extractions annually. Each participating clinic uses EHRs and electronic controlled substance prescribing, and specific data queries have been developed for each EHR (WinOMS, axiUm, and Epic). The UK Biomedical Informatics Core at the Center for Clinical and Translational Science (CCTS) serves as the primary operational support to facilitate data sharing and storage in the UK Enterprise Data Warehouse, with additional logistical support provided by the UK Investigational Drug Service and Center on Drug and Alcohol Research. A full list of participating clinic sites can be found at clinicaltrials.gov.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Eligibility criteria</title>
+                <p id="Par20">Study-eligible clusters are dental or oral surgery practices that (a) performed permanent tooth extractions on at least 70 AYA in the baseline screening period of 5 months (from July 2022-November 2022) and (b) prescribed opioids in at least 30% of these AYA tooth extractions. Study-eligible providers are practicing dentists or oral surgeons at a study-eligible cluster. Study-eligible dental patients are aged 12–25 years that have a permanent tooth extraction performed by a study-eligible provider during the study period; the survey must be completed between post-extraction days 6 and 10. There are no additional exclusion criteria.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Interventions</title>
+                <p id="Par21">The study intervention follows the COM-B model for behavior change as outlined in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. The intervention is composed of three elements: academic detailing, provision of standardized post-extraction patient instructions, and provision of blister-packaged acetaminophen and ibuprofen for distribution.</p>
+                <p id="Par22">
+                  <fig id="Fig2">
+                    <label>Fig. 2</label>
+                    <caption>
+                      <p>COM-B theoretical framework. Capability, Opportunity, and Motivation for Behavior Change (COM-B) model, adapted from Michie, et al. [<xref ref-type="bibr" rid="CR19">19</xref>] As applied to the study intervention, academic detailing aims to increase physical capability, psychological capability, and automatic motivation; revised patient instructions aim to reduce social pressures and reflective motivation; and blister-packaged analgesics aim to provide a physical resource to increase opportunity and reflective motivation</p>
+                    </caption>
+                    <graphic xlink:href="12903_2024_4201_Fig2_HTML" id="d33e518"/>
+                  </fig>
+                </p>
+                <sec id="Sec7">
+                  <title>Academic detailing</title>
+                  <p id="Par23">During the transition period, providers will receive at least one 45-to-60 min in-person or video-assisted academic detailing session with an academic detailing pharmacist trained by the National Resource Center for Academic Detailing. Academic detailing will build on the safer opioid prescribing for acute dental clinics strategy from the Opioid-overdose Reduction Continuum of Continuum of Care Approach [<xref ref-type="bibr" rid="CR34">34</xref>], applying principles and methodology from the Centers for Disease Control and Prevention Academic Detailing to Enhance Overdose Prevention implementation guide [<xref ref-type="bibr" rid="CR35">35</xref>]. Specifically, the format of the academic detailing visit will follow the Introduction; Needs Assessment; Key Messages, Features, and Benefits; Barriers and Objections; and Summary and Close steps outlined in the CDC implementation guide. Academic detailing for the ADOPT study will focus on 5 key messages:</p>
+                  <p id="Par24">
+                    <list list-type="order">
+                      <list-item>
+                        <p id="Par25">Use acetaminophen and ibuprofen first line for pain management.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par26">Carefully consider risk factors for overdose when prescribing opioids.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par27">Warn patients and parents about misuse when prescribing opioids to AYA.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par28">Establish realistic expectations and help every patient understand the pain management plan.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par29">Keep your community safe with medication disposal education.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par30">Academic detailing materials were developed by the study team based on materials used in the HEALing (Helping to End Addiction Long Term<sup>SM</sup>) Communities Study-Kentucky [<xref ref-type="bibr" rid="CR34">34</xref>] and were peer-reviewed in collaboration with AAOMS.</p>
+                </sec>
+                <sec id="Sec8">
+                  <title>Standardized post-extraction patient instructions</title>
+                  <p id="Par31">Distribution of post-extraction instructions after tooth extraction is usual care. In the intervention condition, provider participants will receive standardized paper post-extraction patient instructions for distribution. These materials were developed by the study team based on existing patient education materials at participating clinics and the ADA’s Tooth Extraction: Post-Operative Instructions brochure, and materials were peer-reviewed in collaboration with AAOMS. Specific messages in these materials regarding pain management mirror relevant components of academic detailing sessions, specifically focusing on taking medications as directed, using acetaminophen and ibuprofen first, and how to dispose of unused opioids (if prescribed) based on available community resources (i.e., local take-back locations). Additionally, patient instructional materials include information consistent with labeling of acetaminophen and ibuprofen.</p>
+                  <p id="Par32">In the intervention condition, provider participants (or other clinical staff specific to a given participating clinic’s standard workflow) can distribute the standardized patient post-extraction instructions instead of the usual post-extraction instruction.</p>
+                </sec>
+                <sec id="Sec9">
+                  <title>Standardized, pre-packaged Acetaminophen and ibuprofen blister packs</title>
+                  <p id="Par33">In the intervention condition, provider participants will receive standardized, pre-packaged blister packs containing a 7-day supply of acetaminophen 500 mg and ibuprofen 400 mg for oral use every 6 h (i.e., 28 tablets of each medication in a single 7-day pack). In the intervention condition, provider participants (or other clinical staff specific to a given participating clinic’s standard workflow) can distribute the standardized, pre-packaged blister packs consistent with clinical judgment in accordance with appropriate state medication dispensing regulations.</p>
+                  <p id="Par34">Acetaminophen is packaged as 500 mg per dose to be administered four times daily (total 2,000 mg per day). This dose is as effective as higher doses [<xref ref-type="bibr" rid="CR10">10</xref>]. Use of a 500 mg dose administered 4 times per day results in a total daily dose below the daily maximum recommended by the U.S. Food and Drug Administration (4,000 mg) and ADA (3,000 mg). Additionally, this dose can be used across the entire patient population targeted by this study, as this is acceptable pediatric dosing for any individual weighing at least 27 kg, which is the 1st percentile for weight for 12-year-old boys and 0th percentile for weight for all other age/sex groups. As opioid prescriptions can still be provided, 2,000 mg total daily dose of acetaminophen allows for the most common opioid prescription issued (hydrocodone with acetaminophen 5/325 mg every 6 h) [<xref ref-type="bibr" rid="CR7">7</xref>] to be co-administered while still staying under the maximum recommended total daily dose of acetaminophen.</p>
+                  <p id="Par35">Ibuprofen will be packaged as 400 mg per dose to be administered four times daily (total 1,600 mg per day). This dose is as effective as higher doses and more effective than lower doses [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]. Multiple studies indicate a favorable safety profile of ibuprofen and no significant increase in risk of gastrointestinal, cardiovascular, renal, or hepatic adverse reactions at this dose [<xref ref-type="bibr" rid="CR37">37</xref>–<xref ref-type="bibr" rid="CR40">40</xref>], which is acceptable dosing for the entire patient population targeted by this study.</p>
+                </sec>
+              </sec>
+              <sec id="Sec10">
+                <title>Outcomes</title>
+                <p id="Par36">Primary and secondary outcomes are listed in Table <xref rid="Tab1" ref-type="table">1</xref>. The primary outcome measure, AYA receipt of an opioid prescription after tooth extraction, will be compared between intervention and control conditions using EHR extracts from each participating clinic. Secondary outcomes are assessed using electronic surveys and include provider participant assessment of intervention implementation feasibility and appropriateness (2a, 2b), as well as patient-reported pain intensity (2c), interference (2d), and satisfaction (2e).</p>
+                <p id="Par37">
+                  <table-wrap id="Tab1">
+                    <label>Table 1</label>
+                    <caption>
+                      <p>Objectives, endpoints, and data sources</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left">Objectives</th>
+                          <th align="left">Endpoint</th>
+                          <th align="left">Data Source</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" colspan="3">
+                            <bold>Primary</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare the odds of post-extraction opioid prescriptions to AYA under the intervention condition relative to the control condition</td>
+                          <td align="left">Study condition comparison of the patient-level odds of post-extraction opioid prescription</td>
+                          <td align="left">EHR</td>
+                        </tr>
+                        <tr>
+                          <td align="left" colspan="3">
+                            <bold>Secondary</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare provider-perceived intervention appropriateness and feasibility before and after intervention implementation</td>
+                          <td align="left">Differential pre- to post-intervention change by provider in the rating of intervention feasibility and appropriateness</td>
+                          <td align="left">Provider survey before and after transition period</td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare provider-perceived appropriateness and feasibility of decreasing opioid prescribing to AYA before and after intervention implementation</td>
+                          <td align="left">Differential pre- to post-intervention change by provider in the rating of opioid prescribing reduction feasibility and appropriateness</td>
+                          <td align="left">Provider survey before and after transition period</td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare AYA self-reported pain level within 10 days after tooth extraction based on self-reported opioid use.</td>
+                          <td align="left">Comparison of worst, least, and average pain over the 10 days after extraction based on self-reported opioid use</td>
+                          <td align="left">Patient survey within 6–10 days after tooth extraction</td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare AYA self-reported pain interference within 10 days after tooth extraction based on self-reported opioid use.</td>
+                          <td align="left">Comparison of average pain interference T-score (NIH PROMIS Pediatric Short Form v1.0 – Pain Interference 8a, or NIH PROMIS Adult Short Form v1.0 – Pain Interference 6b) based on self-reported opioid use.</td>
+                          <td align="left">Patient survey within 6–10 days after tooth extraction</td>
+                        </tr>
+                        <tr>
+                          <td align="left">To compare AYA self-reported satisfaction with pain management within 10 days after tooth extraction based on self-reported opioid use</td>
+                          <td align="left">Comparison of average overall pain satisfaction based on self-reported opioid use.</td>
+                          <td align="left">Patient survey within 6–10 days after tooth extraction</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>AYA, adolescent and young adult; EHR, electronic health record</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec id="Sec11">
+                <title>Statistical analysis</title>
+                <p id="Par38">Analyses comparing intervention (academic detailing and provision of patient post-extraction instructions and blister packs for distribution) to usual practice (control condition) will be based on the intent-to-treat approach. Specifically, any given patient’s observations in analyses will correspond to the trial condition to which their cluster was randomized during the given period. Analyses will be conducted in SAS 9.4 or higher and/or R, and all statistical tests will be two-sided with a significance level of 0.05.</p>
+                <sec id="Sec12">
+                  <title>Primary outcome</title>
+                  <p id="Par39">The primary outcome is a patient-level binary indicator for being prescribed an opioid. Generalized estimating equations (GEE) will be used to fit a population-averaged, or marginal, model to compare the odds of opioid prescribing between intervention and control conditions, accounting for the statistical correlation among outcomes from the same cluster [<xref ref-type="bibr" rid="CR41">41</xref>–<xref ref-type="bibr" rid="CR43">43</xref>]. The primary statistical test will be the test of trial condition to determine if the intervention decreases the odds of opioid prescribing. Furthermore, in accordance with statistical modeling expectations for the analysis of data arising from stepped wedge cluster randomized trials, our model will adjust for period such that time will not confound the estimated impact of the intervention [<xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR44">44</xref>, <xref ref-type="bibr" rid="CR45">45</xref>]. PROC GLIMMIX in SAS will be used to fit the marginal logistic regression model [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR46">46</xref>]. To ensure valid inference, small-sample adjustments to standard error estimates, and the use of degrees of freedom equaling the number of clusters minus two, will be utilized [<xref ref-type="bibr" rid="CR42">42</xref>]. </p>
+                </sec>
+                <sec id="Sec13">
+                  <title>Secondary outcomes</title>
+                  <p id="Par40">Analyses of secondary objectives 1 and 2 are meant to be exploratory in nature. Therefore, we will assess pre-transition survey and post-transition survey scores based on descriptive statistics (e.g., sample median, sample size, etc.). However, we will formally test for differences based on appropriate paired tests. Specifically, because all survey items will be ranked using a numerical 5-point Likert scale, we anticipate Wilcoxon signed-rank tests on the pairs will be utilized. However, paired t-tests or mixed models will first be considered if assumptions are adequately met to improve power. To account for statistical correlation among outcomes from provider participants at the same cluster with paired tests, provider participant outcomes will first be averaged over each cluster for any given time point. Secondary objectives 1 and 2 are each addressed via two sub-objectives, each utilizing 4 Likert-type questions, and hence corresponding analyses as described above. To account for multiple testing within sub-objectives, <italic>p</italic>-values will be adjusted based on the false discovery rate [<xref ref-type="bibr" rid="CR47">47</xref>]. </p>
+                  <p id="Par41">Secondary objectives 3, 4, and 5 compare patient participants who were and who were not prescribed opioids, based on self-report, as opposed to comparing intervention to control conditions. Therefore, the independent variable of interest in statistical modeling for this aim is a subject-level indicator for having been prescribed opioids. However, models will still adjust for the trial arm condition based on randomization, and hence account for the intention-to-treat principle, as well as period and adjusting for patient-level factors. All available data will be utilized. Scores for these objectives will be treated as continuous patient participant-level outcomes and analyzed using linear mixed effects models. PROC GLIMMIX in SAS will be used to fit the models.</p>
+                </sec>
+              </sec>
+              <sec id="Sec14">
+                <title>Sample size</title>
+                <p id="Par42">This study is powered based on the primary outcome. Power calculations are based on 8 clusters being randomized to 8 different sequences corresponding to the stepped-wedge design. Based on historic pilot data, at least 70 patients will be observed per cluster per period. At least 41% of patients in the control condition are expected to receive an opioid prescription. Based on the effectiveness of individual intervention components, the intervention should decrease the marginal percentage by at least 18% (i.e., from 41 to 23%).</p>
+                <p id="Par43">Power calculations consider the intra-cluster correlation coefficient (ICC) and inter-period correlation. The ICC, or within-period correlation among subject-level opioid prescription outcomes from within the same cluster during the same period, is conservatively estimated at 0.10 [<xref ref-type="bibr" rid="CR48">48</xref>, <xref ref-type="bibr" rid="CR49">49</xref>]. Assuming the ICC and inter-period correlations are equivalent, this study has over 99% power to detect the intervention effect [<xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR44">44</xref>]. Furthermore, conservatively assuming no inter-period correlation, this study has at least 86% power.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Participant recruitment and informed consent</title>
+                <p id="Par44">Providers, oftentimes the owners of eligible clusters, have been engaged in cluster recruitment. Full informed consent from providers will be obtained prior to enrollment. Consistent with the stepped wedge design, all clusters (and thus all providers) will begin the study in the control condition and will transition to the intervention condition based on the sequence to which they are randomized.</p>
+                <p id="Par45">For the survey-based secondary study objectives, QR-coded signage will be placed in high-traffic areas in participating clinics inviting AYA patients to complete the survey. QR codes may also be distributed with patient materials, based on the workflow at each clinic. As dental patients are only eligible between post-extraction days 6 and 10, patients who attempt to access the survey early (e.g., at or before the extraction appointment) will be invited to receive an automated text or email reminder to complete the survey on post-extraction day 7. Stratified sampling will not be used because the secondary survey objectives are not directly related to the intervention. A survey cover letter will be used in lieu of full informed consent for survey participation.</p>
+              </sec>
+              <sec id="Sec16">
+                <title>Randomization</title>
+                <p id="Par46">The study statistician will randomize between 8 and 12 clusters to the 8 sequences via a random permutation. If more than 8 clusters are enrolled, additional clusters will be randomized to sequences 4, 5, 3, and 6 (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). The study statistician will notify investigators of the next cluster to transition at the end of each period.</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Data collection</title>
+                <p id="Par47">EHR data will be utilized for the primary objective. EHR extracts will be uploaded by participating clinics quarterly using a secure file transfer process managed by the UK Institute for Biomedical Informatics. EHR extracts will contain analgesic prescriptions and associated characteristics (e.g., medication name, strength, directions, and quantity), as well as patient-level variables including demographics, number and site of teeth extracted, and extraction method.</p>
+                <p id="Par48">Secondary objectives will be assessed by provider and participant surveys conducted using Research Electronic Data Capture (REDCap) tools hosted at UK [<xref ref-type="bibr" rid="CR50">50</xref>, <xref ref-type="bibr" rid="CR51">51</xref>]. Pre- and post-transition provider participant surveys will be administered at the final visit in the control condition, approximately 1 month prior to the transition period, and at the third visit in the intervention condition approximately 3 months after the transition period. The surveys each contain between 17 and 21 total questions (based on branching logic), are completed electronically, and take less than 5 min to complete. The survey instrument was developed based on the validated instrument from Weiner, et al. to assess acceptability, appropriateness, and feasibility of implementation measures using a 5-point Likert scale from completely agree to completely disagree. Based on feedback obtained during a pilot of the survey with 5 dentists, acceptability measures were removed from the final survey instrument.</p>
+                <p id="Par49">Patient survey data will be collected electronically using a REDCap survey completed between post-extraction days 6 and 10. The patient survey instrument contains between 19 and 27 questions (based on branching logic) and takes approximately 5 min to complete. The survey was modeled after a previously published survey of 329 patients (average age 41–52 years) undergoing tooth extraction. The instrument for this study was modified to reduce Flesh-Kincaid reading level to 6.3 and added pain interference, pain intensity, and medication use questions. Pain interference is assessed using NIH PROMIS Pediatric Short Form v1.0 – Pain Interference 8a or NIH PROMIS Adult Short Form v1.0 – Pain Interference 6b, based on a respondent age cutoff of 18 years. Pain intensity is measured using the Brief Pain Inventory. The instrument used for this study was piloted with 8 patients aged 12–25 years undergoing tooth extraction at UK.</p>
+              </sec>
+              <sec id="Sec18">
+                <title>Missing data</title>
+                <p id="Par50">For the primary outcome, patients are not followed over time, so no missing outcome data are expected, and analyses will use all available data. Similarly, regarding secondary endpoints from patients and provider participants, all available data will be utilized. Although unlikely, if a cluster or provider drops out of the study, all available data to the point of withdrawal will be used.</p>
+              </sec>
+              <sec id="Sec19">
+                <title>Data management</title>
+                <p id="Par51">Data collection and accurate documentation are the responsibility of the research personnel under the supervision of the principal investigators. All source documents and reports will be reviewed by the study team and data entry staff to ensure accuracy and completeness. All EHR data shared via the secure file transfer will be de-identified and uploaded to a secure server folder in the UK Enterprise Data Warehouse by an honest broker affiliated with UK CCTS. Access to the secure folder will be limited to members of the biostatistical study team, with analysis using the CCTS Virtual Machine. Survey data will be collected in REDCap, stored on secure REDCap servers in the UK CCTS, only accessible to members of the study team. Data analysis will be conducted in accordance with the statistical analysis plan.</p>
+              </sec>
+              <sec id="Sec20">
+                <title>Quality control and fidelity monitoring</title>
+                <p id="Par52">Study personnel are trained to conduct study visits using Meeting Guides, which provide scripted verbiage and checklists to ensure consistent protocol implementation and barrier assessments across clinics and participants. Quality assurance reviews are conducted weekly, with study-wide summary reports compiled on a semiannual and annual basis. Corrective action plans are devised from findings and progress is reviewed monthly.</p>
+                <p id="Par53">Quality and fidelity of the academic detailing session is monitored using electronic case report forms in the REDCap database. Fidelity achievement for academic detailing visits is defined as a visit lasting at least 30 min with delivery of at least 3 key messages.</p>
+                <p id="Par54">Distribution of patient post-extraction instruction materials and blister packs is at the discretion of the provider participant. Clinics will record materials provided to patients using a distribution monitoring log. The log is reviewed during routine visits with study staff, which occur at least quarterly throughout the study, and reconciled with EHR data extracts to proactively address barriers to distribution. Individuals completing the patient survey during the intervention condition are asked about receipt of blister packs to allow for additional fidelity monitoring.</p>
+              </sec>
+              <sec id="Sec21">
+                <title>Clinic workflow considerations</title>
+                <p id="Par55">All reasonable efforts to remove participation barriers will be attempted throughout the study. As the unit of randomization is the clinic (vs. the individual provider), only a single workflow for the clinic is required. Additionally, study staff will conduct on-site visits with participating clinics at least quarterly to assess barriers to participation. Data collection relies primarily on EHR extracts, which requires no additional real-time study documentation and has been customized to and piloted with each potential clinic prior to study enrollment.</p>
+              </sec>
+              <sec id="Sec22">
+                <title>Safety assessments</title>
+                <p id="Par56">This study does not include objectives or endpoints concerning safety. However, monitoring activities, including active assessment of potential adverse events in the patient survey, will be conducted to assess possible harm.</p>
+              </sec>
+            </sec>
+            <sec id="Sec23" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par57">Opioids continue to be frequently prescribed after tooth extractions in the United States. Given many of these extractions are performed in AYA, a population at particularly high risk of developing problematic opioid use, strategies are needed to reduce unnecessary opioid exposure. It is well-established that nonopioid analgesics such as acetaminophen and ibuprofen provide similar analgesia, so strategies to translate research to practice are necessary. This trial examines the effectiveness of a targeted strategy built around an established model of behavior change (COM-B) to facilitate guideline-concordant opioid prescribing. Additionally, this study uses established implementation frameworks to assess appropriateness and feasibility of both the intervention and changing prescribing and expands on existing patient satisfaction data to an AYA cohort. Thus, the findings from this study could identify effective, scalable means to change practice, improve patient care, and reduce unnecessary risk.</p>
+              <sec id="Sec24">
+                <title>Trial status</title>
+                <p id="Par58">The ADOPT study is a current, ongoing trial that is not yet recruiting study participants. Recruitment initiation is planned for March 2024, with the study conducted from March 2024 through November 2027. Results will be presented in 2028.</p>
+              </sec>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <sec id="Sec25">
+                <title>Electronic supplementary material</title>
+                <p>Below is the link to the electronic supplementary material.</p>
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2024_4201_MOESM1_ESM.docx">
+                      <caption>
+                        <p>Supplementary Material 1</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>DRO and MVR conceived the initial idea and methodology and wrote the initial draft. PMW aided in methodology, analysis, review, and editing. JDP aided in the initial draft, review, editing, and project administration. CSM aided in idea conception, methodology, review, and editing. SLW, MR, PRF, ED, and HKK aided in methodology, review, and editing. ML aided in analysis, review, and editing.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>This study is supported by the National Institute of Dental and Craniofacial Research (NIDCR) under award numbers UG3DE032621 and UH3DE032621. The content is solely the responsibility of the authors and does not necessarily represent the official views of NIDCR or the National Institutes of Health.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data availability</title>
+              <p>Results generated from this study will be available at clinicaltrials.gov at the completion of the study. Underlying primary data will be deposited for sharing in the National Addiction &amp; HIV Data Archive Program. Other study materials will be deposited for sharing in the Open Science Foundation repository.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar3">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par62">This protocol has been reviewed and approved by the UK Medical Institutional Review Board (IRB) under protocol number 80758. Provider participants will provide full informed consent prior to participation. Patient participants (survey respondents) will acknowledge review of a cover letter in lieu of full informed consent, and the parental permission requirement has been waived by the IRB. A waiver of informed consent has been granted by the IRB for EHR review. Protocol modifications require prior approval from the IRB and notification of the sponsor/medical monitor prior to implementation.</p>
+              </notes>
+              <notes id="FPar4">
+                <title>Consent for publication</title>
+                <p id="Par63">Not applicable.</p>
+              </notes>
+              <notes id="FPar2" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par61">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>AAOMS</term>
+                  <def>
+                    <p>American Association of Oral and Maxillofacial Surgeons</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ADA</term>
+                  <def>
+                    <p>American Dental Association</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>AYA</term>
+                  <def>
+                    <p>Adolescent and young adult</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CCTS</term>
+                  <def>
+                    <p>Center for Clinical and Translational Science</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>COM-B</term>
+                  <def>
+                    <p>Capability, Opportunity, and Motivation?Behavior (Model)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CONSORT</term>
+                  <def>
+                    <p>Consolidated Standards of Reporting Trials</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HER</term>
+                  <def>
+                    <p>Electronic health record</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>GEE</term>
+                  <def>
+                    <p>Generalized estimating equations</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HEALing</term>
+                  <def>
+                    <p>Helping End Addiction Long-Term</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICC</term>
+                  <def>
+                    <p>Intra-cluster correlation coefficient</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>NSAID</term>
+                  <def>
+                    <p>Nonsteroidal anti-inflammatory drug</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>REDCap</term>
+                  <def>
+                    <p>Research Electronic Data Capture</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SW-CRT</term>
+                  <def>
+                    <p>Stepped wedge cluster randomized trial</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>UK</term>
+                  <def>
+                    <p>University of Kentucky</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <mixed-citation publication-type="other">Office of National Drug Control Policy. U.S. National Drug Control Strategy. 2022.</mixed-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miech</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnston</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>O’Malley</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>Keyes</surname>
+                      <given-names>KM</given-names>
+                    </name>
+                    <name>
+                      <surname>Heard</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prescription opioids in Adolescence and Future Opioid Misuse</article-title>
+                  <source>Pediatrics</source>
+                  <year>2015</year>
+                  <volume>136</volume>
+                  <issue>5</issue>
+                  <fpage>e1169</fpage>
+                  <lpage>77</lpage>
+                  <pub-id pub-id-type="doi">10.1542/peds.2015-1364</pub-id>
+                  <?supplied-pmid 26504126?>
+                  <pub-id pub-id-type="pmid">26504126</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hudgins</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                    <name>
+                      <surname>Porter</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Monuteaux</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bourgeois</surname>
+                      <given-names>FT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prescription opioid use and misuse among adolescents and young adults in the United States: a national survey study</article-title>
+                  <source>PLoS Med</source>
+                  <year>2019</year>
+                  <volume>16</volume>
+                  <issue>11</issue>
+                  <fpage>e1002922</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pmed.1002922</pub-id>
+                  <?supplied-pmid 31689290?>
+                  <pub-id pub-id-type="pmid">31689290</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <mixed-citation publication-type="other">Muhuri P, Gfroerer J, Davies M. Associations of Nonmedical Pain Reliever Use and initiation of Heroin Use in the United States. SAMHSA CBHSQ Data Rev. 2013.</mixed-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Heroin use and heroin use risk behaviors among nonmedical users of prescription opioid pain relievers - United States, 2002–2004 and 2008–2010</article-title>
+                  <source>Drug Alcohol Depend</source>
+                  <year>2013</year>
+                  <volume>132</volume>
+                  <issue>1–2</issue>
+                  <fpage>95</fpage>
+                  <lpage>100</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2013.01.007</pub-id>
+                  <?supplied-pmid 23410617?>
+                  <pub-id pub-id-type="pmid">23410617</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Volkow</surname>
+                      <given-names>ND</given-names>
+                    </name>
+                    <name>
+                      <surname>McLellan</surname>
+                      <given-names>TA</given-names>
+                    </name>
+                    <name>
+                      <surname>Cotto</surname>
+                      <given-names>JH</given-names>
+                    </name>
+                    <name>
+                      <surname>Karithanom</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Weiss</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Characteristics of opioid prescriptions in 2009</article-title>
+                  <source>JAMA</source>
+                  <year>2011</year>
+                  <volume>305</volume>
+                  <issue>13</issue>
+                  <fpage>1299</fpage>
+                  <lpage>301</lpage>
+                  <pub-id pub-id-type="doi">10.1001/jama.2011.401</pub-id>
+                  <?supplied-pmid 21467282?>
+                  <pub-id pub-id-type="pmid">21467282</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Oyler</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Patterns of opioid prescribing in an Appalachian college of dentistry</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2021</year>
+                  <volume>152</volume>
+                  <issue>3</issue>
+                  <fpage>209</fpage>
+                  <lpage>14</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2020.12.002</pub-id>
+                  <?supplied-pmid 33632410?>
+                  <pub-id pub-id-type="pmid">33632410</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chua</surname>
+                      <given-names>KP</given-names>
+                    </name>
+                    <name>
+                      <surname>Hu</surname>
+                      <given-names>HM</given-names>
+                    </name>
+                    <name>
+                      <surname>Waljee</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                    <name>
+                      <surname>Brummett</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Nalliah</surname>
+                      <given-names>RP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Opioid prescribing patterns by dental procedure among US publicly and privately insured patients, 2013 through 2018</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2021</year>
+                  <volume>152</volume>
+                  <issue>4</issue>
+                  <fpage>309</fpage>
+                  <lpage>17</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2021.01.001</pub-id>
+                  <?supplied-pmid 33637299?>
+                  <pub-id pub-id-type="pmid">33637299</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nalliah</surname>
+                      <given-names>RP</given-names>
+                    </name>
+                    <name>
+                      <surname>Sloss</surname>
+                      <given-names>KR</given-names>
+                    </name>
+                    <name>
+                      <surname>Kenney</surname>
+                      <given-names>BC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bettag</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Dubois</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Association of Opioid Use with Pain and satisfaction after Dental extraction</article-title>
+                  <source>JAMA Netw Open</source>
+                  <year>2020</year>
+                  <volume>3</volume>
+                  <issue>3</issue>
+                  <fpage>e200901</fpage>
+                  <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2020.0901</pub-id>
+                  <?supplied-pmid 32167567?>
+                  <pub-id pub-id-type="pmid">32167567</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moore</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziegler</surname>
+                      <given-names>KM</given-names>
+                    </name>
+                    <name>
+                      <surname>Lipman</surname>
+                      <given-names>RD</given-names>
+                    </name>
+                    <name>
+                      <surname>Aminoshariae</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Carrasco-Labra</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Mariotti</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Benefits and harms associated with analgesic medications used in the management of acute dental pain: an overview of systematic reviews</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2018</year>
+                  <volume>149</volume>
+                  <issue>4</issue>
+                  <fpage>256</fpage>
+                  <lpage>e653</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2018.02.012</pub-id>
+                  <?supplied-pmid 29599019?>
+                  <pub-id pub-id-type="pmid">29599019</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>ADA President Calls on Dentists to Help Curb Opioid Abuse</collab>
+                  </person-group>
+                  <source>J Calif Dent Assoc</source>
+                  <year>2016</year>
+                  <volume>44</volume>
+                  <issue>9</issue>
+                  <fpage>543</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dowell</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Ragan</surname>
+                      <given-names>KR</given-names>
+                    </name>
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Baldwin</surname>
+                      <given-names>GT</given-names>
+                    </name>
+                    <name>
+                      <surname>Chou</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>CDC Clinical Practice Guideline for Prescribing opioids for Pain - United States, 2022</article-title>
+                  <source>MMWR Recomm Rep</source>
+                  <year>2022</year>
+                  <volume>71</volume>
+                  <issue>3</issue>
+                  <fpage>1</fpage>
+                  <lpage>95</lpage>
+                  <pub-id pub-id-type="doi">10.15585/mmwr.rr7103a1</pub-id>
+                  <?supplied-pmid 36327391?>
+                  <pub-id pub-id-type="pmid">36327391</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <mixed-citation publication-type="other">American Association of Oral and Maxillofacial Surgeons. White paper: opioid prescribing: acute and postoperative pain management. 2023.</mixed-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Suda</surname>
+                      <given-names>KJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Durkin</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Calip</surname>
+                      <given-names>GS</given-names>
+                    </name>
+                    <name>
+                      <surname>Gellad</surname>
+                      <given-names>WF</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Lockhart</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Comparison of Opioid Prescribing by dentists in the United States and England</article-title>
+                  <source>JAMA Netw Open</source>
+                  <year>2019</year>
+                  <volume>2</volume>
+                  <issue>5</issue>
+                  <fpage>e194303</fpage>
+                  <pub-id pub-id-type="doi">10.1001/jamanetworkopen.2019.4303</pub-id>
+                  <?supplied-pmid 31125102?>
+                  <pub-id pub-id-type="pmid">31125102</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hollingworth</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Pham</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Shi</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ford</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prescribing patterns of analgesics and other medicines by dental practitioners in Australia from 2001 to 2012</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2017</year>
+                  <volume>45</volume>
+                  <issue>4</issue>
+                  <fpage>303</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12291</pub-id>
+                  <?supplied-pmid 28251672?>
+                  <pub-id pub-id-type="pmid">28251672</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <mixed-citation publication-type="other">Oyler DR, Rojas-Ramirez MV, Nakamura A, Quesinberry D, Surratt HL, Bernard P et al. Factors Influencing Opioid Prescribing after Tooth Extr J Am Dent Assoc. 2022.</mixed-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Priest</surname>
+                      <given-names>CR</given-names>
+                    </name>
+                    <name>
+                      <surname>Kenney</surname>
+                      <given-names>BC</given-names>
+                    </name>
+                    <name>
+                      <surname>Brummett</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Waljee</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                    <name>
+                      <surname>Englesbe</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Nalliah</surname>
+                      <given-names>RP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Increased opioid prescription fills after dental procedures performed before weekends and holidays</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2020</year>
+                  <volume>151</volume>
+                  <issue>6</issue>
+                  <fpage>388</fpage>
+                  <lpage>e981</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2020.03.014</pub-id>
+                  <?supplied-pmid 32450977?>
+                  <pub-id pub-id-type="pmid">32450977</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hubbard</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Evans</surname>
+                      <given-names>CT</given-names>
+                    </name>
+                    <name>
+                      <surname>Calip</surname>
+                      <given-names>GS</given-names>
+                    </name>
+                    <name>
+                      <surname>Rowan</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Gellad</surname>
+                      <given-names>WF</given-names>
+                    </name>
+                    <name>
+                      <surname>Campbell</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Characteristics Associated with Opioid and Antibiotic Prescribing by dentists</article-title>
+                  <source>Am J Prev Med</source>
+                  <year>2021</year>
+                  <volume>60</volume>
+                  <issue>5</issue>
+                  <fpage>648</fpage>
+                  <lpage>57</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.amepre.2020.11.017</pub-id>
+                  <?supplied-pmid 33745816?>
+                  <pub-id pub-id-type="pmid">33745816</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Michie</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>van Stralen</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>West</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The behaviour change wheel: a new method for characterising and designing behaviour change interventions</article-title>
+                  <source>Implement Sci</source>
+                  <year>2011</year>
+                  <volume>6</volume>
+                  <fpage>42</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1748-5908-6-42</pub-id>
+                  <?supplied-pmid 21513547?>
+                  <pub-id pub-id-type="pmid">21513547</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Oyler</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>Deep</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>PK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Opioid use in the acute setting: a survey of providers at an academic medical center</article-title>
+                  <source>J Opioid Manag</source>
+                  <year>2018</year>
+                  <volume>14</volume>
+                  <issue>3</issue>
+                  <fpage>203</fpage>
+                  <lpage>10</lpage>
+                  <pub-id pub-id-type="doi">10.5055/jom.2018.0450</pub-id>
+                  <?supplied-pmid 30044485?>
+                  <pub-id pub-id-type="pmid">30044485</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sharp</surname>
+                      <given-names>LK</given-names>
+                    </name>
+                    <name>
+                      <surname>Solanki</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Boyer</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Vivo</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kale</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Hughes</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A qualitative exploration of dentists’ opioid prescribing decisions within U.S. veterans affairs facilities</article-title>
+                  <source>Pain</source>
+                  <year>2023</year>
+                  <volume>164</volume>
+                  <issue>4</issue>
+                  <fpage>749</fpage>
+                  <lpage>57</lpage>
+                  <pub-id pub-id-type="doi">10.1097/j.pain.0000000000002759</pub-id>
+                  <?supplied-pmid 35984367?>
+                  <pub-id pub-id-type="pmid">35984367</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <mixed-citation publication-type="other">Kulbokas V, Hanson KA, Smart MH, Mandava MR, Lee TA, Pickard AS. Academic detailing interventions for opioid-related outcomes: a scoping review. Drugs Context. 2021;10.</mixed-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Larson</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Browne</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Nikitin</surname>
+                      <given-names>RV</given-names>
+                    </name>
+                    <name>
+                      <surname>Wooten</surname>
+                      <given-names>NR</given-names>
+                    </name>
+                    <name>
+                      <surname>Ball</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Adams</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Physicians report adopting safer opioid prescribing behaviors after academic detailing intervention</article-title>
+                  <source>Subst Abus</source>
+                  <year>2018</year>
+                  <volume>39</volume>
+                  <issue>2</issue>
+                  <fpage>218</fpage>
+                  <lpage>24</lpage>
+                  <pub-id pub-id-type="doi">10.1080/08897077.2018.1449175</pub-id>
+                  <?supplied-pmid 29608412?>
+                  <pub-id pub-id-type="pmid">29608412</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nadeau</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Hasstedt</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sunstrum</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                    <name>
+                      <surname>Wagner</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Tu</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Addressing the opioid epidemic: impact of Opioid Prescribing Protocol at the University of Minnesota School of Dentistry</article-title>
+                  <source>Craniomaxillofac Trauma Reconstr</source>
+                  <year>2018</year>
+                  <volume>11</volume>
+                  <issue>2</issue>
+                  <fpage>104</fpage>
+                  <lpage>10</lpage>
+                  <pub-id pub-id-type="doi">10.1055/s-0038-1649498</pub-id>
+                  <?supplied-pmid 29892324?>
+                  <pub-id pub-id-type="pmid">29892324</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Teoh</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Stewart</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Marino</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>McCullough</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Improvement of dental prescribing practices using education and a prescribing tool: a pilot intervention study</article-title>
+                  <source>Br J Clin Pharmacol</source>
+                  <year>2021</year>
+                  <volume>87</volume>
+                  <issue>1</issue>
+                  <fpage>152</fpage>
+                  <lpage>62</lpage>
+                  <pub-id pub-id-type="doi">10.1111/bcp.14373</pub-id>
+                  <?supplied-pmid 32436349?>
+                  <pub-id pub-id-type="pmid">32436349</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gryczynski</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Mitchell</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Asche</surname>
+                      <given-names>SE</given-names>
+                    </name>
+                    <name>
+                      <surname>Truitt</surname>
+                      <given-names>AR</given-names>
+                    </name>
+                    <name>
+                      <surname>Worley</surname>
+                      <given-names>DC</given-names>
+                    </name>
+                    <name>
+                      <surname>Rindal</surname>
+                      <given-names>DB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>De-implementing opioids for Dental extractions (DIODE): a multi-clinic, cluster-randomized trial of clinical decision support strategies in dentistry</article-title>
+                  <source>Implement Sci</source>
+                  <year>2023</year>
+                  <volume>18</volume>
+                  <issue>1</issue>
+                  <fpage>5</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s13012-023-01262-7</pub-id>
+                  <?supplied-pmid 36765414?>
+                  <pub-id pub-id-type="pmid">36765414</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bhargava</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Greg</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Shields</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Addition of generic medication vouchers to a pharmacist academic detailing program: effects on the generic dispensing ratio in a physician-hospital organization</article-title>
+                  <source>J Manag Care Pharm</source>
+                  <year>2010</year>
+                  <volume>16</volume>
+                  <issue>6</issue>
+                  <fpage>384</fpage>
+                  <lpage>92</lpage>
+                  <?supplied-pmid 20635829?>
+                  <pub-id pub-id-type="pmid">20635829</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shrank</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                    <name>
+                      <surname>Choudhry</surname>
+                      <given-names>NK</given-names>
+                    </name>
+                    <name>
+                      <surname>Solomon</surname>
+                      <given-names>DH</given-names>
+                    </name>
+                    <name>
+                      <surname>Snedden</surname>
+                      <given-names>TM</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>TH</given-names>
+                    </name>
+                    <name>
+                      <surname>Glynn</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Rationale and design of the study assessing the Effect of Cardiovascular medications provided as Low-cost, evidence-based Generic Samples (SAMPLES) trial</article-title>
+                  <source>Am Heart J</source>
+                  <year>2009</year>
+                  <volume>157</volume>
+                  <issue>4</issue>
+                  <fpage>613</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ahj.2008.12.006</pub-id>
+                  <?supplied-pmid 19332186?>
+                  <pub-id pub-id-type="pmid">19332186</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Worthington</surname>
+                      <given-names>HC</given-names>
+                    </name>
+                    <name>
+                      <surname>Cheng</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Majumdar</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Morgan</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Raymond</surname>
+                      <given-names>CB</given-names>
+                    </name>
+                    <name>
+                      <surname>Soumerai</surname>
+                      <given-names>SB</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The impact of a physician detailing and sampling program for generic atorvastatin: an interrupted time series analysis</article-title>
+                  <source>Implement Sci</source>
+                  <year>2017</year>
+                  <volume>12</volume>
+                  <issue>1</issue>
+                  <fpage>141</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s13012-017-0671-z</pub-id>
+                  <?supplied-pmid 29178960?>
+                  <pub-id pub-id-type="pmid">29178960</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pinckney</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <name>
+                      <surname>Helminski</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kennedy</surname>
+                      <given-names>AG</given-names>
+                    </name>
+                    <name>
+                      <surname>Maclean</surname>
+                      <given-names>CD</given-names>
+                    </name>
+                    <name>
+                      <surname>Hurowitz</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Cote</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of medication samples on self-reported prescribing practices: a statewide, cross-sectional survey</article-title>
+                  <source>J Gen Intern Med</source>
+                  <year>2011</year>
+                  <volume>26</volume>
+                  <issue>1</issue>
+                  <fpage>40</fpage>
+                  <lpage>4</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11606-010-1483-x</pub-id>
+                  <?supplied-pmid 20809157?>
+                  <pub-id pub-id-type="pmid">20809157</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Conklin</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Culley</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>O’Donnell</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Case study of the effects of office-based generic drug sampling on antibiotic drug costs and first-line antibiotic prescribing ratios</article-title>
+                  <source>J Manag Care Pharm</source>
+                  <year>2009</year>
+                  <volume>15</volume>
+                  <issue>1</issue>
+                  <fpage>55</fpage>
+                  <lpage>61</lpage>
+                  <?supplied-pmid 19125550?>
+                  <pub-id pub-id-type="pmid">19125550</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Derefinko</surname>
+                      <given-names>KJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Salgado Garcia</surname>
+                      <given-names>FI</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>KC</given-names>
+                    </name>
+                    <name>
+                      <surname>Hand</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Murphy</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                    <name>
+                      <surname>McDevitt-Murphy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A randomized pilot program to reduce opioid use following dental surgery and increase safe medication return</article-title>
+                  <source>Addict Behav</source>
+                  <year>2020</year>
+                  <volume>102</volume>
+                  <fpage>106190</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.addbeh.2019.106190</pub-id>
+                  <?supplied-pmid 31704436?>
+                  <pub-id pub-id-type="pmid">31704436</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hemming</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Taljaard</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>McKenzie</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Hooper</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Copas</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Thompson</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Reporting of stepped wedge cluster randomised trials: extension of the CONSORT 2010 statement with explanation and elaboration</article-title>
+                  <source>BMJ</source>
+                  <year>2018</year>
+                  <volume>363</volume>
+                  <fpage>k1614</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.k1614</pub-id>
+                  <?supplied-pmid 30413417?>
+                  <pub-id pub-id-type="pmid">30413417</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>HEALing Communities Study Consortium</collab>
+                  </person-group>
+                  <article-title>The HEALing (helping to End Addiction Long-Term (SM)) communities Study: protocol for a cluster randomized trial at the community level to reduce opioid overdose deaths through implementation of an integrated set of evidence-based practices</article-title>
+                  <source>Drug Alcohol Depend</source>
+                  <year>2020</year>
+                  <volume>217</volume>
+                  <fpage>108335</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.drugalcdep.2020.108335</pub-id>
+                  <pub-id pub-id-type="pmid">33248391</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <mixed-citation publication-type="other">Centers for Disease Control and Prevention, National Injury Center for Injury Prevention and Control. Department of Health and Human Services. Academic detailing to enhance overdose prevention: an implementation guide for organizations. 2022.</mixed-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Motov</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Masoudi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Drapkin</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sotomayor</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Butt</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Comparison of oral ibuprofen at three single-dose regimens for treating Acute Pain in the Emergency Department: a Randomized Controlled Trial</article-title>
+                  <source>Ann Emerg Med</source>
+                  <year>2019</year>
+                  <volume>74</volume>
+                  <issue>4</issue>
+                  <fpage>530</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.annemergmed.2019.05.037</pub-id>
+                  <?supplied-pmid 31383385?>
+                  <pub-id pub-id-type="pmid">31383385</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rainsford</surname>
+                      <given-names>KD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ibuprofen: pharmacology, efficacy and safety</article-title>
+                  <source>Inflammopharmacology</source>
+                  <year>2009</year>
+                  <volume>17</volume>
+                  <issue>6</issue>
+                  <fpage>275</fpage>
+                  <lpage>342</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s10787-009-0016-x</pub-id>
+                  <?supplied-pmid 19949916?>
+                  <pub-id pub-id-type="pmid">19949916</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lewis</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <name>
+                      <surname>Langman</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Laporte</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <name>
+                      <surname>Matthews</surname>
+                      <given-names>JN</given-names>
+                    </name>
+                    <name>
+                      <surname>Rawlins</surname>
+                      <given-names>MD</given-names>
+                    </name>
+                    <name>
+                      <surname>Wiholm</surname>
+                      <given-names>BE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dose-response relationships between individual nonaspirin nonsteroidal anti-inflammatory drugs (NANSAIDs) and serious upper gastrointestinal bleeding: a meta-analysis based on individual patient data</article-title>
+                  <source>Br J Clin Pharmacol</source>
+                  <year>2002</year>
+                  <volume>54</volume>
+                  <issue>3</issue>
+                  <fpage>320</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2125.2002.01636.x</pub-id>
+                  <?supplied-pmid 12236853?>
+                  <pub-id pub-id-type="pmid">12236853</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <mixed-citation publication-type="other">Henry D, McGettigan P. Epidemiology overview of gastrointestinal and renal toxicity of NSAIDs. Int J Clin Pract Suppl. 2003(135):43–9.</mixed-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aithal</surname>
+                      <given-names>GP</given-names>
+                    </name>
+                    <name>
+                      <surname>Day</surname>
+                      <given-names>CP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nonsteroidal anti-inflammatory drug-induced hepatotoxicity</article-title>
+                  <source>Clin Liver Dis</source>
+                  <year>2007</year>
+                  <volume>11</volume>
+                  <issue>3</issue>
+                  <fpage>563</fpage>
+                  <lpage>75</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cld.2007.06.004</pub-id>
+                  <?supplied-pmid 17723920?>
+                  <pub-id pub-id-type="pmid">17723920</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hussey</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Hughes</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Design and analysis of stepped wedge cluster randomized trials</article-title>
+                  <source>Contemp Clin Trials</source>
+                  <year>2007</year>
+                  <volume>28</volume>
+                  <issue>2</issue>
+                  <fpage>182</fpage>
+                  <lpage>91</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cct.2006.05.007</pub-id>
+                  <?supplied-pmid 16829207?>
+                  <pub-id pub-id-type="pmid">16829207</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ford</surname>
+                      <given-names>WP</given-names>
+                    </name>
+                    <name>
+                      <surname>Westgate</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Maintaining the validity of inference in small-sample stepped wedge cluster randomized trials with binary outcomes when using generalized estimating equations</article-title>
+                  <source>Stat Med</source>
+                  <year>2020</year>
+                  <volume>39</volume>
+                  <issue>21</issue>
+                  <fpage>2779</fpage>
+                  <lpage>92</lpage>
+                  <pub-id pub-id-type="doi">10.1002/sim.8575</pub-id>
+                  <?supplied-pmid 32578264?>
+                  <pub-id pub-id-type="pmid">32578264</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Westgate</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A readily available improvement over method of moments for intra-cluster correlation estimation in the context of cluster randomized trials and fitting a GEE-type marginal model for binary outcomes</article-title>
+                  <source>Clin Trials</source>
+                  <year>2019</year>
+                  <volume>16</volume>
+                  <issue>1</issue>
+                  <fpage>41</fpage>
+                  <lpage>51</lpage>
+                  <pub-id pub-id-type="doi">10.1177/1740774518803635</pub-id>
+                  <?supplied-pmid 30295512?>
+                  <pub-id pub-id-type="pmid">30295512</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Campbell</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Walters</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <source>How to design, Analyse and Rport Cluster Randomised trials in Medicine and Health Related Research</source>
+                  <year>2014</year>
+                  <publisher-loc>Ltd</publisher-loc>
+                  <publisher-name>Wiley</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hemming</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Haines</surname>
+                      <given-names>TP</given-names>
+                    </name>
+                    <name>
+                      <surname>Chilton</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Girling</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lilford</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The stepped wedge cluster randomised trial: rationale, design, analysis, and reporting</article-title>
+                  <source>BMJ</source>
+                  <year>2015</year>
+                  <volume>350</volume>
+                  <fpage>h391</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.h391</pub-id>
+                  <?supplied-pmid 25662947?>
+                  <pub-id pub-id-type="pmid">25662947</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fitzmaurice</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Laird</surname>
+                      <given-names>NM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ware</surname>
+                      <given-names>JH</given-names>
+                    </name>
+                  </person-group>
+                  <source>Applied Longitudinal Analysis</source>
+                  <year>2011</year>
+                  <edition>2</edition>
+                  <publisher-loc>Hoboken, NJ</publisher-loc>
+                  <publisher-name>John Wiley &amp; Sons, Inc</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Benjamini</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Hochberg</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Controlling the false Discovery rate: a practical and powerful Approach to multiple testing</article-title>
+                  <source>J Royal Stat Soc</source>
+                  <year>1995</year>
+                  <volume>57</volume>
+                  <fpage>289</fpage>
+                  <lpage>300</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Eldridge</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Okoumunne</surname>
+                      <given-names>O</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The intra-cluster correlation coefficient in cluster randomized trials: a review of definitions</article-title>
+                  <source>Int Stat Rev</source>
+                  <year>2009</year>
+                  <volume>77</volume>
+                  <fpage>378</fpage>
+                  <lpage>94</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1751-5823.2009.00092.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hemming</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kasza</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Hooper</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Forbes</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Taljaard</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A tutorial on sample size calculation for multiple-period cluster randomized parallel, cross-over and stepped-wedge trials using the Shiny CRT Calculator</article-title>
+                  <source>Int J Epidemiol</source>
+                  <year>2020</year>
+                  <volume>49</volume>
+                  <issue>3</issue>
+                  <fpage>979</fpage>
+                  <lpage>95</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ije/dyz237</pub-id>
+                  <?supplied-pmid 32087011?>
+                  <pub-id pub-id-type="pmid">32087011</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Harris</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Minor</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                    <name>
+                      <surname>Elliott</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Fernandez</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>O’Neal</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The REDCap consortium: building an international community of software platform partners</article-title>
+                  <source>J Biomed Inf</source>
+                  <year>2019</year>
+                  <volume>95</volume>
+                  <fpage>103208</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jbi.2019.103208</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Harris</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Thielke</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Payne</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Gonzalez</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Conde</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Research electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics support</article-title>
+                  <source>J Biomed Inf</source>
+                  <year>2009</year>
+                  <volume>42</volume>
+                  <issue>2</issue>
+                  <fpage>377</fpage>
+                  <lpage>81</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jbi.2008.08.010</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

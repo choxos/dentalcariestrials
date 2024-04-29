@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:37:33Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10560183" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10560183</identifier>
+        <datestamp>2023-10-09</datestamp>
+        <setSpec>springeropen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Investig</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Investig</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Investigations</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1432-6981</issn>
+              <issn pub-type="epub">1436-3771</issn>
+              <publisher>
+                <publisher-name>Springer Berlin Heidelberg</publisher-name>
+                <publisher-loc>Berlin/Heidelberg</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10560183</article-id>
+              <article-id pub-id-type="pmcid">PMC10560183</article-id>
+              <article-id pub-id-type="pmc-uid">10560183</article-id>
+              <article-id pub-id-type="pmid">37561212</article-id>
+              <article-id pub-id-type="pmid">37561212</article-id>
+              <article-id pub-id-type="publisher-id">5195</article-id>
+              <article-id pub-id-type="doi">10.1007/s00784-023-05195-9</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>The impact of orthodontic-surgical treatment on facial expressions—a four-dimensional clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Quast</surname>
+                    <given-names>Anja</given-names>
+                  </name>
+                  <address>
+                    <email>anja.quast@med.uni-goettingen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sadlonova</surname>
+                    <given-names>Monika</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Asendorf</surname>
+                    <given-names>Thomas</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Derad</surname>
+                    <given-names>Carlotta</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mouchoux</surname>
+                    <given-names>Jérémy</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Horn</surname>
+                    <given-names>Julia</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Schliephake</surname>
+                    <given-names>Henning</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kauffmann</surname>
+                    <given-names>Philipp</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Meyer-Marcotty</surname>
+                    <given-names>Philipp</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/021ft0n22</institution-id><institution-id institution-id-type="GRID">grid.411984.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 0482 5331</institution-id><institution>Department of Orthodontics, </institution><institution>University Medical Center Goettingen, </institution></institution-wrap>Robert-Koch-Str. 40, 37075 Goettingen, Germany </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/002pd6e78</institution-id><institution-id institution-id-type="GRID">grid.32224.35</institution-id><institution-id institution-id-type="ISNI">0000 0004 0386 9924</institution-id><institution>Department of Psychiatry, </institution><institution>Massachusetts General Hospital, </institution></institution-wrap>Boston, MA USA </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.38142.3c</institution-id><institution-id institution-id-type="ISNI">000000041936754X</institution-id><institution>Department of Psychiatry, </institution><institution>Harvard Medical School, </institution></institution-wrap>Boston, MA USA </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01y9bpm73</institution-id><institution-id institution-id-type="GRID">grid.7450.6</institution-id><institution-id institution-id-type="ISNI">0000 0001 2364 4210</institution-id><institution>Department of Psychosomatic Medicine and Psychotherapy, </institution><institution>University of Goettingen Medical Center, </institution></institution-wrap>Goettingen, Germany </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/01y9bpm73</institution-id><institution-id institution-id-type="GRID">grid.7450.6</institution-id><institution-id institution-id-type="ISNI">0000 0001 2364 4210</institution-id><institution>Department of Cardiovascular and Thoracic Surgery, </institution><institution>University of Goettingen Medical Center, </institution></institution-wrap>Goettingen, Germany </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/021ft0n22</institution-id><institution-id institution-id-type="GRID">grid.411984.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 0482 5331</institution-id><institution>Department of Medical Statistics, </institution><institution>University Medical Center Goettingen, </institution></institution-wrap>Goettingen, Germany </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/021ft0n22</institution-id><institution-id institution-id-type="GRID">grid.411984.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 0482 5331</institution-id><institution>Department of Oral and Maxillofacial Surgery, </institution><institution>University Medical Center Goettingen, </institution></institution-wrap>Goettingen, Germany </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>10</day>
+                <month>8</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>10</day>
+                <month>8</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <year>2023</year>
+              </pub-date>
+              <volume>27</volume>
+              <issue>10</issue>
+              <fpage>5841</fpage>
+              <lpage>5851</lpage>
+              <history>
+                <date date-type="received">
+                  <day>21</day>
+                  <month>3</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>28</day>
+                  <month>7</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2023</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Objective</title>
+                  <p id="Par1">The objective of this clinical trial was to compare facial expressions (magnitude, shape change, time, and symmetry) before (T0) and after (T1) orthognathic surgery by implementing a novel method of four-dimensional (4D) motion capture analysis, known as videostereophotogrammetry, in orthodontics.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">This prospective, single-centre, single-arm trial included a total of 26 adult patients (mean age 28.4 years; skeletal class II: <italic>n</italic> = 13, skeletal class III: <italic>n</italic> = 13) with indication for orthodontic-surgical treatment. Two reproducible facial expressions (maximum smile, lip purse) were captured at T0 and T1 by videostereophotogrammetry as 4D face scan. The magnitude, shape change, symmetry, and time of the facial movements were analysed. The motion changes were analysed in dependence of skeletal class and surgical movements.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">4D motion capture analysis was feasible in all cases. The magnitude of the expression maximum smile increased from 15.24 to 17.27 mm (<italic>p</italic> = 0.002), while that of the expression lip purse decreased from 9.34 to 8.31 mm (<italic>p</italic> = 0.01). Shape change, symmetry, and time of the facial movements did not differ significantly pre- and postsurgical. The changes in facial movements following orthodontic-surgical treatment were observed independently of skeletal class and surgical movements.</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">Orthodontic-surgical treatment not only affects static soft tissue but also soft tissue dynamics while smiling or lip pursing.</p>
+                </sec>
+                <sec>
+                  <title>Clinical relevance</title>
+                  <p id="Par5">To achieve comprehensive orthodontic treatment plans, the integration of facial dynamics via videostereophotogrammetry provides a promising approach in diagnostics.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration number</title>
+                  <p id="Par6">DRKS00017206.</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1007/s00784-023-05195-9.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Facial motion</kwd>
+                <kwd>Stereophotogrammetry</kwd>
+                <kwd>Orthognathic surgery</kwd>
+                <kwd>Quality of life</kwd>
+                <kwd>Self-efficacy</kwd>
+                <kwd>Dentofacial deformity</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Deutsche Forschungsgemeinschaft DFG, German Research Foundation</institution>
+                  </funding-source>
+                  <award-id>427616114</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Quast</surname>
+                      <given-names>Anja</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Deutsche Gesellschaft für Kieferorthopädie (DGKFO, German Orthodontic Society)</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Georg-August-Universität Göttingen (1018)</institution>
+                  </funding-source>
+                </award-group>
+                <open-access>
+                  <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+                </open-access>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© Springer-Verlag GmbH Germany, part of Springer Nature 2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par7">Facial expressions as a type of nonverbal communication play an essential role in daily conversations. When assessing emotions, facial expressions carry more weight than the spoken message [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. As early as 1872, Charles Darwin postulated the universality of emotional facial expressions across cultural boundaries in his work “The expression of the emotions in man and animals” [<xref ref-type="bibr" rid="CR3">3</xref>]. However, the extent of the facial movements can vary significantly between individuals depending on the facial morphology [<xref ref-type="bibr" rid="CR4">4</xref>–<xref ref-type="bibr" rid="CR6">6</xref>]. This is also evident in patients with dentofacial deformities, whose movement patterns with certain facial expressions deviate from those of individuals with neutral jaw relation [<xref ref-type="bibr" rid="CR7">7</xref>]. Orthodontic-surgical treatment seems to standardise facial expressions [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Despite these findings, the evaluation of facial movements is not yet a routinely used parameter in orthodontics. Therefore, asymmetries and abnormalities that manifest during facial expressions may remain undetected [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>].</p>
+              <p id="Par8">Since orthodontic treatment, and in particular orthodontic-surgical treatment, always affects the appearance of the facial soft tissue, three-dimensional (3D) imaging using stereophotogrammetry has become increasingly important in recent years. In orthodontic-surgical treatment, this helps to predict postsurgical soft tissue changes and to improve the surgical plan [<xref ref-type="bibr" rid="CR11">11</xref>]. However, the surgical effects in the areas of the lower face and the lips, which are very dynamic structures in daily communication, can only be predicted to a limited extent [<xref ref-type="bibr" rid="CR12">12</xref>–<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+              <p id="Par9">Non-invasive, four-dimensional (4D) video stereophotogrammetry offers a modern and promising approach for the objective recording and evaluation of facial movements [<xref ref-type="bibr" rid="CR15">15</xref>–<xref ref-type="bibr" rid="CR17">17</xref>], which has hardly been used in orthodontics to date. This technology allows to record a sequence of 60 3D images with stepwise changes in facial expressions and a radius of 180 to 360° depending on the number and orientation of the cameras [<xref ref-type="bibr" rid="CR18">18</xref>]. Therefore, after implementing 3D imaging into orthodontic-surgical treatment, the next step is the integration of 4D motion capture.</p>
+              <p id="Par10">The aim of the present study was to compare facial expressions before (T0) and after (T1) orthognathic surgery by implementing the novel method of 4D videostereophotogrammetry in orthodontics. We hypothesised that the magnitude, shape change, symmetry, and time of facial expressions change from T0 until T1.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Subjects and methods</title>
+              <sec id="Sec3">
+                <title>Trial design</title>
+                <p id="Par11">This study was a prospective, single-centre, single-arm trial and investigated facial expressions before (T0) and 4 months after orthognathic surgery (T1). It was approved by the institutional ethics committee (application number 13/2/19) in accordance with the Declaration of Helsinki. All participants gave written informed consent to take part in the study. The trial was registered before recruitment started (DRKS00017206). No changes occurred after trial commencement.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Participants, eligibility criteria, and settings</title>
+                <p id="Par12">Patients seeking orthodontic-surgical treatment with an orthodontics first approach at the Department of Orthodontics, University Medical Center Goettingen, Germany, were enrolled consecutively. The eligibility criteria for participants were adults over 18 years old, orthodontic therapy with fixed appliance, pronounced malocclusion (skeletal class II: Wits appraisal &gt; 2 mm; skeletal class III: Wits-appraisal &lt;  − 2 mm), and indication for combined orthodontic-surgical treatment (classified as grade 4 or higher using the index of orthognathic functional treatment need [<xref ref-type="bibr" rid="CR19">19</xref>]). Patients with cleft lip and/or palate, craniofacial syndromes, impaired facial motion, previous orthognathic surgery, Menton deviation &gt; 4 mm, or beard were excluded.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Sample size</title>
+                <p id="Par13">As this trial is an early clinical trial with the aim to implement the novel method of 4D videostereophotogrammetry, sample size calculation was not based on a priori-hypothesis testing. Based on previous treatment numbers, in total 45 patients (1 skeletal class I, 21 skeletal class II, 23 skeletal class III) were operated in an interval similar to the scheduled recruitment phase of this study; a feasible sample size of 20 patients was planned for recruitment. The final sample size was 26 patients (13 skeletal class II, 13 skeletal class III) and a complete case analysis was performed.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Intervention</title>
+                <p id="Par14">All patients underwent virtually planned, splint-based orthognathic surgery performed by an interdisciplinary team of orthodontists and maxillofacial surgeons as described previously [<xref ref-type="bibr" rid="CR20">20</xref>]. The surgical procedure included the preservation of a pre-surgical defined condylar position using a centric splint [<xref ref-type="bibr" rid="CR21">21</xref>–<xref ref-type="bibr" rid="CR23">23</xref>]. In bimaxillary surgeries, Le Fort I osteotomy was performed first, followed by bilateral sagittal split osteotomy according to well-recognised protocols [<xref ref-type="bibr" rid="CR24">24</xref>–<xref ref-type="bibr" rid="CR27">27</xref>]. All patients were invited to record their facial expressions during smiling and lip purse at baseline (T0, after orthodontic decompensation, 1 to 6 weeks before surgery) and 4 months post-surgical (T1).</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Blinding</title>
+                <p id="Par15">Blinding was not applicable.</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Outcome—facial expressions</title>
+                <p id="Par16">Facial expressions were recorded as 3D videos using non-invasive 4D stereophotogrammetry with nine cameras (6 greyscaled and 3 coloured) and 60 frames per seconds (see Fig. <xref rid="Fig1" ref-type="fig">1</xref>; DI4D PRO System, Dimensional Imaging Ltd., Glasgow, UK). Before each capture, the system was calibrated according to a standardised protocol. Each patient was asked to sit upright approximately 95 cm in front of the cameras, to keep the eyes open, to have the head in natural head position and to move the head as little as possible. Then, the patients performed two reproducible facial expressions: (1) maximum smile and (2) lip purse. Both were demonstrated to the patients and practiced several times prior video acquisition.<fig id="Fig1"><label>Fig. 1</label><caption><p>Motion capture system recording facial expressions as 3D videos using non-invasive 4D stereophotogrammetry with nine cameras (6 greyscaled and 3 coloured) from three directions (DI4D PRO System, Dimensional Imaging Ltd., Glasgow, UK). [<xref ref-type="bibr" rid="CR1">1</xref>] and [<xref ref-type="bibr" rid="CR3">3</xref>], video lighting system; [<xref ref-type="bibr" rid="CR2">2</xref>] blue screen; [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>], and [<xref ref-type="bibr" rid="CR6">6</xref>] camera pods</p></caption><graphic xlink:href="784_2023_5195_Fig1_HTML" id="MO1"/></fig></p>
+                <p id="Par17">All video captures and post-processing were performed by the same trained investigator (J.H.). The 3D videos were cut to analyse the movements from the last frame in rest position (= start frame) to the first frame with the facial expression at its maximum extent (= end frame) (DI4D Setup, Dimensional Imaging Ltd., Glasgow, UK). To track the facial movement, a dummy mesh was applied to the individual patient morphology in the first frame of each video (see Fig. <xref rid="Fig2" ref-type="fig">2</xref>). This patient characteristic mesh was automatically tracked throughout the sequence of 3D images and manually corrected if necessary (see Fig. <xref rid="Fig3" ref-type="fig">3</xref>; DI4D track, Dimensional Imaging Ltd., Glasgow, UK). The Euclidean distance <italic>d</italic> between the points of the start frame <italic>s</italic> and the end frame <italic>e</italic> in the 3D space were calculated using Python and a self-edited SciPy based code [<xref ref-type="bibr" rid="CR28">28</xref>].<fig id="Fig2"><label>Fig. 2</label><caption><p>Information captured by videostereophotogrammetry in the first frame. Left side: video data containing the colour and texture of the subject. Right side: dummy mesh applied to the individual patient morphology to track the facial movement</p></caption><graphic xlink:href="784_2023_5195_Fig2_HTML" id="MO2"/></fig><fig id="Fig3"><label>Fig. 3</label><caption><p>Sequence of exemplary 3D images recorded by the 4D system. The patient-specific mesh applied in the first frame was automatically tracked throughout the sequence of 3D images and manually corrected if necessary</p></caption><graphic xlink:href="784_2023_5195_Fig3_HTML" id="MO3"/></fig></p>
+                <p id="Par18">Two regions of interest were determined (see Fig. <xref rid="Fig4" ref-type="fig">4</xref>):<list list-type="bullet"><list-item><p id="Par19">the lower face: the area of the lower face limited by a plane through the landmark subnasale parallel to Frankfort Horizontal containing the same automatically selected 559 points for each participant, and</p></list-item><list-item><p id="Par20">the landmarks undergoing the biggest change during facial expression: cheilion left and right for maximum smile, and labrale superius and inferius for lip purse.</p></list-item></list><fig id="Fig4"><label>Fig. 4</label><caption><p>Data analysis in Python. Left side: selection of the region of interest “lower face” limited by a plane through subnasale (green points). The region of interest was determined in the first patient analysed and automatically transferred to each subsequent patient. Right side: the landmarks undergoing the biggest change during facial expression (green points) were determined individually for each capture</p></caption><graphic xlink:href="784_2023_5195_Fig4_HTML" id="MO4"/></fig></p>
+                <p id="Par21">For each facial expression, four parameters were calculated to objectively evaluate the movement (see Table <xref rid="Tab1" ref-type="table">1</xref> and Fig. <xref rid="Fig5" ref-type="fig">5</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Parameters calculated to objectively evaluate the facial expressions</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Outcome</th><th align="left">Definition</th></tr></thead><tbody><tr><td align="left">Magnitude, mm</td><td align="left"><p>Magnitude of facial expression in the most moving area of the lips</p><p>For maximum smile: <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$magnitude= \frac{{ d}_{Cheilion right}+{d}_{Cheilion left}}{2}$$\end{document}</tex-math><mml:math id="M2"><mml:mrow><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>n</mml:mi><mml:mi>i</mml:mi><mml:mi>t</mml:mi><mml:mi>u</mml:mi><mml:mi>d</mml:mi><mml:mi>e</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Cheilionright</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Cheilionleft</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:math><inline-graphic xlink:href="784_2023_5195_Article_IEq1.gif"/></alternatives></inline-formula></p><p>For lip purse: <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$magnitude= \frac{{ d}_{Labrale superius}+{d}_{Labrale inferius}}{2}$$\end{document}</tex-math><mml:math id="M4"><mml:mrow><mml:mi>m</mml:mi><mml:mi>a</mml:mi><mml:mi>g</mml:mi><mml:mi>n</mml:mi><mml:mi>i</mml:mi><mml:mi>t</mml:mi><mml:mi>u</mml:mi><mml:mi>d</mml:mi><mml:mi>e</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Labralesuperius</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Labraleinferius</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:math><inline-graphic xlink:href="784_2023_5195_Article_IEq2.gif"/></alternatives></inline-formula></p></td></tr><tr><td align="left">Shape change, mm</td><td align="left">Shape change in the lower face during the facial expression calculated as Procrustes distance after superimposing the 3D image of the start and end frame by translating, scaling and rotating as the square root of the sum of squared differences in the positions of all landmarks of the lower face</td></tr><tr><td align="left">Symmetry, mm</td><td align="left"><p>Differences in facial expression between the two most moving areas of the lips</p><p>For maximum smile: <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$symmetry= \left|{d}_{Cheilion right}-{d}_{Cheilion left}\right|$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:mi>s</mml:mi><mml:mi>y</mml:mi><mml:mi>m</mml:mi><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>t</mml:mi><mml:mi>r</mml:mi><mml:mi>y</mml:mi><mml:mo>=</mml:mo><mml:mfenced close="|" open="|"><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Cheilionright</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Cheilionleft</mml:mi></mml:mrow></mml:msub></mml:mfenced></mml:mrow></mml:math><inline-graphic xlink:href="784_2023_5195_Article_IEq3.gif"/></alternatives></inline-formula></p><p>For lip purse: <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$symmetry= \left|{d}_{Labrale superius}-{d}_{Labrale inferius}\right|$$\end{document}</tex-math><mml:math id="M8"><mml:mrow><mml:mi>s</mml:mi><mml:mi>y</mml:mi><mml:mi>m</mml:mi><mml:mi>m</mml:mi><mml:mi>e</mml:mi><mml:mi>t</mml:mi><mml:mi>r</mml:mi><mml:mi>y</mml:mi><mml:mo>=</mml:mo><mml:mfenced close="|" open="|"><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Labralesuperius</mml:mi></mml:mrow></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi mathvariant="italic">Labraleinferius</mml:mi></mml:mrow></mml:msub></mml:mfenced></mml:mrow></mml:math><inline-graphic xlink:href="784_2023_5195_Article_IEq4.gif"/></alternatives></inline-formula></p></td></tr><tr><td align="left">Time, s</td><td align="left">Time needed to reach the maximum facial expression</td></tr></tbody></table><table-wrap-foot><p>d, Euclidian distance</p></table-wrap-foot></table-wrap><fig id="Fig5"><label>Fig. 5</label><caption><p>Exemplary illustration of the measurement “magnitude” for the facial expression maximum smile at the landmark cheilion right. The image at rest position (yellow) and the image at the maximum extent of the movement (transparent) are superimposed and the Euclidian distance between the landmark cheilion right at rest position and at maximum smile is measured (orange arrow)</p></caption><graphic xlink:href="784_2023_5195_Fig5_HTML" id="MO5"/></fig></p>
+              </sec>
+              <sec id="Sec9">
+                <title>Method error analysis</title>
+                <p id="Par22">To assess the reliability of the 4D tracking of facial expressions, the same investigator repeated the application of the dummy mesh to the individual patients’ morphology in ten cases. Additionally, a second examiner performed the same task one time. Agreement was excellent for the magnitude of facial expression (ICC = 0.982; 95% CI [0.933, 0.995]) and good to excellent for the shape change in the region of interest lower face (ICC = 0.947; 95% CI [0.814, 0.986]).</p>
+              </sec>
+              <sec id="Sec10">
+                <title>Statistical analysis</title>
+                <p id="Par23">The analysis was performed using linear mixed-effects models with factors time, skeletal class, and their interaction. A sensitivity analysis using a paired Wilcoxon-signed rank test was performed. Estimated marginal means are reported with 95% confidence interval and compared between time and skeletal class [<xref ref-type="bibr" rid="CR29">29</xref>]. Pre- and postoperative differences of 4D tracking variables were correlated within a multivariate linear model. Intra-class-correlation (ICC) was calculated to assess agreement between raters and consistency within raters. Baseline data are described using means and standard deviation. Statistical analysis was done using the statistical programming language R 4.1.3 [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+              </sec>
+            </sec>
+            <sec id="Sec11">
+              <title>Results</title>
+              <sec id="Sec12">
+                <title>Participant flow and recruitment</title>
+                <p id="Par24">Recruitment lasted from September 2020 until August 2021. The last follow-up was completed in December 2021. Of a total of 39 consecutive patients assessed for eligibility, 31 fulfilled the inclusion criteria (see CONSORT flow diagram in Fig. <xref rid="Fig6" ref-type="fig">6</xref>). During the observation, 1 patient declined surgery, 1 patient missed his follow-up appointment, 2 patients had surgical complications, and 1 patient was still exceptionally swollen at T1. The final sample consisted of 26 participants. Table <xref rid="Tab2" ref-type="table">2</xref> shows their baseline demographic data and clinical characteristics.<fig id="Fig6"><label>Fig. 6</label><caption><p>Consort flow chart</p></caption><graphic xlink:href="784_2023_5195_Fig6_HTML" id="MO6"/></fig><table-wrap id="Tab2"><label>Table 2</label><caption><p>Baseline demographic data and clinical characteristics of the final sample (<italic>n</italic> = 26)</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left" colspan="2">Gender</td></tr><tr><td align="left">  Female</td><td align="left"><bold><italic>n</italic></bold> = 15</td></tr><tr><td align="left">  Male</td><td align="left"><bold><italic>n</italic></bold> = 11</td></tr><tr><td align="left">Age, years</td><td align="left"><italic>M</italic> = 28.4 SD = 8</td></tr><tr><td align="left"><p>Skeletal class II</p><p>Wits appraisal, mm</p></td><td align="left"><p><italic>n</italic> = 13</p><p><italic>M</italic> = 5.2 SD = 1.6</p></td></tr><tr><td align="left"><p>Skeletal class III</p><p>Wits appraisal, mm</p></td><td align="left"><p><italic>n</italic> = 13</p><p><italic>M</italic> = -9.2 SD = 4.4</p></td></tr><tr><td align="left"><p>Surgical intervention</p><p>Le Fort I + BSSO</p><p>BSSO</p></td><td align="left"><p><italic>n</italic> = 21</p><p><italic>n</italic> = 5</p></td></tr><tr><td align="left"><p>Surgical movements</p><p>Sagittal translation maxilla, mm</p></td><td align="left"><italic>M</italic> = 2.82 SD = 2.2</td></tr><tr><td align="left">Vertical translation maxilla, mm</td><td align="left"><italic>M</italic> = 1.76 SD = 1.3</td></tr><tr><td align="left">Transversal translation maxilla, mm</td><td align="left"><italic>M</italic> = 0.95 SD = 0.9</td></tr><tr><td align="left">Sagittal translation mandibula, mm</td><td align="left"><italic>M</italic> = 4.13 SD = 2.83</td></tr><tr><td align="left">Vertical translation mandibula, mm</td><td align="left"><italic>M</italic> = 2.42 SD = 1.58</td></tr><tr><td align="left">Transversal translation mandibula, mm</td><td align="left"><italic>M</italic> = 1.48 SD = 1.27</td></tr><tr><td align="left">Roll maxillomandibular complex, °</td><td align="left"><italic>M</italic> = 0.62 SD = 0.85</td></tr><tr><td align="left">Pitch maxillomandibular complex, °</td><td align="left"><italic>M</italic> = 1.58 SD = 2.48</td></tr><tr><td align="left">Yaw maxillomandibular complex, °</td><td align="left"><italic>M</italic> = 0.73 SD = 1.04</td></tr></tbody></table><table-wrap-foot><p><italic>M</italic>, mean; <italic>SD</italic>, standard deviation</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec13">
+                <title>4D motion capture</title>
+                <p id="Par25">4D motion capture was feasible using stereophotogrammetry and resulted in 3D videos with a rate of 60 frames per second. Colour and texture were recorded as well as surface geometry (see Supplementary Information <xref rid="MOESM1" ref-type="media">1</xref> for a video example). All movements could be tracked from the start frame (rest position) to the end frame (maximum movement) semi-automatically.</p>
+              </sec>
+              <sec id="Sec14">
+                <title>Facial expressions</title>
+                <p id="Par26">For maximum smile the mean magnitude of movement increased significantly from T0 until T1 by 2 mm. At T1, smiling became more asymmetric. No differences in shape change or time was observed. The mean magnitude of lip purse decreased from T0 until T1 by 1 mm. Shape change, symmetry, and time for the facial expression did not differ significantly between T0 and T1 (Table <xref rid="Tab3" ref-type="table">3</xref>).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Means and 95% CI of the parameters analysing facial expressions pre- (T0) and post-surgical (T1) in all patients (<italic>n</italic> = 26)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left" colspan="3">Pre-surgical T0</th><th align="left" colspan="3">Post-surgical T1</th><th align="left"/></tr><tr><th align="left"/><th align="left"/><th align="left" colspan="2">95% CI</th><th align="left"/><th align="left" colspan="2">95% CI</th><th align="left"/></tr><tr><th align="left"/><th align="left">Mean</th><th align="left">Lower</th><th align="left">Upper</th><th align="left">Mean</th><th align="left">Lower</th><th align="left">Upper</th><th align="left"><italic>p</italic></th></tr></thead><tbody><tr><td align="left" colspan="8">Maximum smile</td></tr><tr><td align="left">Magnitude, mm</td><td align="left">15.24</td><td align="left">13.07</td><td align="left">17.4</td><td align="left">17.27</td><td align="left">15.1</td><td align="left">19.44</td><td align="left">0.002</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.03</td><td align="left">0.01</td><td align="left">0.05</td><td align="left">0.05</td><td align="left">0.03</td><td align="left">0.07</td><td align="left">0.122</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">0.99</td><td align="left">0.52</td><td align="left">1.46</td><td align="left">1.78</td><td align="left">1.31</td><td align="left">2.25</td><td align="left">0.024</td></tr><tr><td align="left">Time, s</td><td align="left">0.41</td><td align="left">0.36</td><td align="left">0.45</td><td align="left">0.43</td><td align="left">0.39</td><td align="left">0.47</td><td align="left">0.41</td></tr><tr><td align="left" colspan="8">Lip purse</td></tr><tr><td align="left">Magnitude, mm</td><td align="left">9.34</td><td align="left">8.43</td><td align="left">10.25</td><td align="left">8.31</td><td align="left">7.4</td><td align="left">9.22</td><td align="left">0.01</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.022</td><td align="left">0.019</td><td align="left">0.026</td><td align="left">0.02</td><td align="left">0.017</td><td align="left">0.024</td><td align="left">0.19</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">1.27</td><td align="left">0.88</td><td align="left">1.66</td><td align="left">1.06</td><td align="left">0.67</td><td align="left">1.45</td><td align="left">0.38</td></tr><tr><td align="left">Time, s</td><td align="left">0.36</td><td align="left">0.33</td><td align="left">0.39</td><td align="left">0.32</td><td align="left">0.29</td><td align="left">0.35</td><td align="left">0.052</td></tr></tbody></table></table-wrap></p>
+                <p id="Par27">The post-surgical increase in the magnitude of maximum smile and the decrease in the magnitude of lip purse were observed in all but 5 and 6 patients, respectively.</p>
+                <p id="Par28">Subgroup analysis showed that these results apply to patients with skeletal classes II and III (Table <xref rid="Tab4" ref-type="table">4</xref>).<table-wrap id="Tab4"><label>Table 4</label><caption><p>Means and 95% CI in the changes of the facial expressions (T1–T0) compared between patients with skeletal class II (<italic>n</italic> = 13) and skeletal class III (<italic>n</italic> = 13)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left" colspan="3">Pre-surgical T0</th><th align="left" colspan="4">Post-surgical T1</th></tr><tr><th align="left"/><th align="left"/><th align="left" colspan="2">95% CI</th><th align="left"/><th align="left" colspan="2">95% CI</th><th align="left"/></tr><tr><th align="left"/><th align="left">Mean</th><th align="left">Lower</th><th align="left">Upper</th><th align="left">Mean</th><th align="left">Lower</th><th align="left">Upper</th><th align="left"><italic>p</italic></th></tr></thead><tbody><tr><td align="left" colspan="8"><p>Skeletal class II</p><p>Maximum smile</p></td></tr><tr><td align="left">Magnitude, mm</td><td align="left">15.67</td><td align="left">12.61</td><td align="left">18.74</td><td align="left">17.67</td><td align="left">14.61</td><td align="left">20.73</td><td align="left">0.1</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.031</td><td align="left">0.002</td><td align="left">0.06</td><td align="left">0.067</td><td align="left">0.04</td><td align="left">0.097</td><td align="left">0.23</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">0.89</td><td align="left">0.23</td><td align="left">1.55</td><td align="left">1.78</td><td align="left">1.12</td><td align="left">2.44</td><td align="left">0.25</td></tr><tr><td align="left">Time, s</td><td align="left">0.42</td><td align="left">0.36</td><td align="left">0.48</td><td align="left">0.42</td><td align="left">0.36</td><td align="left">0.48</td><td align="left">1</td></tr><tr><td align="left" colspan="8"><p>Skeletal class III</p><p>Maximum smile</p></td></tr><tr><td align="left">Magnitude, mm</td><td align="left">14.8</td><td align="left">11.74</td><td align="left">17.87</td><td align="left">16.87</td><td align="left">13.8</td><td align="left">19.93</td><td align="left">0.09</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.032</td><td align="left">0.003</td><td align="left">0.062</td><td align="left">0.308</td><td align="left">0.009</td><td align="left">0.067</td><td align="left">0.99</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">1.09</td><td align="left">0.42</td><td align="left">1.75</td><td align="left">1.78</td><td align="left">1.12</td><td align="left">2.45</td><td align="left">0.46</td></tr><tr><td align="left">Time, s</td><td align="left">0.39</td><td align="left">0.33</td><td align="left">0.45</td><td align="left">0.44</td><td align="left">0.38</td><td align="left">0.49</td><td align="left">0.58</td></tr><tr><td align="left" colspan="8"><p>Skeletal class II</p><p>Lip purse</p></td></tr><tr><td align="left">Magnitude, mm</td><td align="left">8.76</td><td align="left">7.47</td><td align="left">10.04</td><td align="left">7.67</td><td align="left">6.38</td><td align="left">8.95</td><td align="left">0.18</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.02</td><td align="left">0.01</td><td align="left">0.025</td><td align="left">0.02</td><td align="left">0.012</td><td align="left">0.023</td><td align="left">0.77</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">1.22</td><td align="left">0.67</td><td align="left">1.77</td><td align="left">1.32</td><td align="left">0.77</td><td align="left">1.87</td><td align="left">0.99</td></tr><tr><td align="left">Time, s</td><td align="left">0.38</td><td align="left">0.34</td><td align="left">0.42</td><td align="left">0.31</td><td align="left">0.27</td><td align="left">0.36</td><td align="left">0.12</td></tr><tr><td align="left" colspan="8"><p>Skeletal class III</p><p>Lip purse</p></td></tr><tr><td align="left">Magnitude, mm</td><td align="left">9.92</td><td align="left">8.63</td><td align="left">11.2</td><td align="left">8.96</td><td align="left">7.67</td><td align="left">10.24</td><td align="left">0.27</td></tr><tr><td align="left">Shape change, mm</td><td align="left">0.025</td><td align="left">0.02</td><td align="left">0.03</td><td align="left">0.024</td><td align="left">0.018</td><td align="left">0.029</td><td align="left">0.79</td></tr><tr><td align="left">Symmetry, mm</td><td align="left">1.31</td><td align="left">0.76</td><td align="left">1.87</td><td align="left">0.8</td><td align="left">0.25</td><td align="left">1.35</td><td align="left">0.42</td></tr><tr><td align="left">Time, s</td><td align="left">0.34</td><td align="left">0.3</td><td align="left">0.39</td><td align="left">0.32</td><td align="left">0.28</td><td align="left">0.37</td><td align="left">0.94</td></tr></tbody></table></table-wrap></p>
+                <p id="Par29">The results of the multivariate linear model with the difference in the magnitude of maximum smile as dependent variable showed that the pre- and postsurgical differences in the magnitude of smile cannot be explained by the surgical movements, the type of surgical intervention, or the skeletal class (Table <xref rid="Tab5" ref-type="table">5</xref>). The multivariate linear model for the magnitude of lip purse indicated the same—the postsurgical change in the movement of the lips showed no correlation with the surgical intervention or the skeletal class (Table <xref rid="Tab6" ref-type="table">6</xref>).<table-wrap id="Tab5"><label>Table 5</label><caption><p>Results of the multivariate linear model with the difference in the magnitude of maximum smile as dependent variable and the surgical movements, the type of surgical intervention, and the skeletal class as explaining variables. The difference in the magnitude of maximum smile cannot be explained by the explaining variables</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Estimate</th><th align="left">Std. error</th><th align="left"><italic>t</italic> value</th><th align="left"><italic>p</italic></th></tr></thead><tbody><tr><td align="left">(Intercept)</td><td char="." align="char">4.53</td><td char="." align="char">3.15</td><td char="." align="char">1.44</td><td char="." align="char">0.173</td></tr><tr><td align="left">Sagittal translation maxilla</td><td char="." align="char">0.23</td><td char="." align="char">0.48</td><td char="." align="char">0.48</td><td char="." align="char">0.637</td></tr><tr><td align="left">Vertical translation maxilla</td><td char="." align="char"> − 0.29</td><td char="." align="char">0.79</td><td char="." align="char"> − 0.37</td><td char="." align="char">0.719</td></tr><tr><td align="left">Transversal translation maxilla</td><td char="." align="char"> − 0.54</td><td char="." align="char">1.14</td><td char="." align="char"> − 0.47</td><td char="." align="char">0.645</td></tr><tr><td align="left">Sagittal translation mandibula</td><td char="." align="char"> − 0.09</td><td char="." align="char">0.34</td><td char="." align="char"> − 0.27</td><td char="." align="char">0.793</td></tr><tr><td align="left">Vertical translation mandibula</td><td char="." align="char"> − 0.27</td><td char="." align="char">0.53</td><td char="." align="char"> − 0.51</td><td char="." align="char">0.619</td></tr><tr><td align="left">Transversal translation mandibula</td><td char="." align="char"> − 0.21</td><td char="." align="char">0.77</td><td char="." align="char"> − 0.27</td><td char="." align="char">0.792</td></tr><tr><td align="left">Roll maxillomandibular complex</td><td char="." align="char">0.54</td><td char="." align="char">0.97</td><td char="." align="char">0.55</td><td char="." align="char">0.588</td></tr><tr><td align="left">Pitch maxillomandibular complex</td><td char="." align="char">0.61</td><td char="." align="char">0.5</td><td char="." align="char">1.22</td><td char="." align="char">0.242</td></tr><tr><td align="left">Yaw maxillomandibular complex</td><td char="." align="char"> − 1.36</td><td char="." align="char">0.99</td><td char="." align="char"> − 1.37</td><td char="." align="char">0.191</td></tr><tr><td align="left">Skeletal class</td><td char="." align="char"> − 0.47</td><td char="." align="char">1.54</td><td char="." align="char"> − 0.30</td><td char="." align="char">0.766</td></tr><tr><td align="left">Type of surgical intervention</td><td char="." align="char"> − 4.43</td><td char="." align="char">2.16</td><td char="." align="char"> − 2.04</td><td char="." align="char">0.060</td></tr></tbody></table></table-wrap><table-wrap id="Tab6"><label>Table 6</label><caption><p>Results of the multivariate linear model with the difference in the magnitude of lip purse as dependent variable and the surgical movements, the type of surgical intervention, and the skeletal class as explaining variables. The difference in the magnitude of lip purse cannot be explained by the explaining variables</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Estimate</th><th align="left">Std. error</th><th align="left"><italic>t</italic> value</th><th align="left"><italic>p</italic></th></tr></thead><tbody><tr><td align="left">(Intercept)</td><td align="left"> − 1.92</td><td char="." align="char">2.41</td><td align="left"> − 0.8</td><td char="." align="char">0.438</td></tr><tr><td align="left">Sagittal translation maxilla</td><td align="left">0.22</td><td char="." align="char">0.37</td><td align="left">0.61</td><td char="." align="char">0.553</td></tr><tr><td align="left">Vertical translation maxilla</td><td align="left"> − 0.39</td><td char="." align="char">0.61</td><td align="left"> − 0.64</td><td char="." align="char">0.534</td></tr><tr><td align="left">Transversal translation maxilla</td><td align="left"> − 0.73</td><td char="." align="char">0.87</td><td align="left"> − 0.84</td><td char="." align="char">0.416</td></tr><tr><td align="left">Sagittal translation mandibula</td><td align="left"> − 0.08</td><td char="." align="char">0.27</td><td align="left"> − 0.29</td><td char="." align="char">0.775</td></tr><tr><td align="left">Vertical translation mandibula</td><td align="left">0.37</td><td char="." align="char">0.41</td><td align="left">0.91</td><td char="." align="char">0.383</td></tr><tr><td align="left">Transversal translation mandibula</td><td align="left">0.19</td><td char="." align="char">0.59</td><td align="left">0.33</td><td char="." align="char">0.746</td></tr><tr><td align="left">Roll maxillomandibular complex</td><td align="left">0.91</td><td char="." align="char">0.74</td><td align="left">1.23</td><td char="." align="char">0.239</td></tr><tr><td align="left">Pitch maxillomandibular complex</td><td align="left">0.18</td><td char="." align="char">0.38</td><td align="left">0.48</td><td char="." align="char">0.639</td></tr><tr><td align="left">Yaw maxillomandibular complex</td><td align="left"> − 0.22</td><td char="." align="char">0.76</td><td align="left"> − 0.29</td><td char="." align="char">0.776</td></tr><tr><td align="left">Skeletal class</td><td align="left"> − 0.04</td><td char="." align="char">1.17</td><td align="left"> − 0.03</td><td char="." align="char">0.977</td></tr><tr><td align="left">Type of surgical intervention</td><td align="left">0.63</td><td char="." align="char">1.65</td><td align="left">0.38</td><td char="." align="char">0.707</td></tr></tbody></table></table-wrap></p>
+              </sec>
+              <sec id="Sec15">
+                <title>Harms</title>
+                <p id="Par30">No harms were observed.</p>
+              </sec>
+            </sec>
+            <sec id="Sec16">
+              <title>Discussion</title>
+              <sec id="Sec17">
+                <title>Main findings in context of the existing evidence—method</title>
+                <p id="Par31">The main strength of this study was the implementation of modern videostereophotogrammetry in orthodontics and its use to capture facial movements in 4D. In contrast to previous attempts analysing facial expressions using markers on the patients’ face [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>], static recordings of the movement at its maximal extent [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR32">32</xref>], two-dimensional videography [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>], or the use of the facial acting coding system [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR35">35</xref>], 4D stereophotogrammetry offers an objective and reliable method to measure facial movements. Static recordings at rest position and maximum extent bear the risk of unnatural freezing of the facial expression. Compared to 3D measurements, 2D analyses using videos underestimate the amplitude of facial motion by as much as 43% [<xref ref-type="bibr" rid="CR36">36</xref>]. This discrepancy is particularly pronounced in the area of the lower face, which is usually in the focus of orthodontics. Marker-based tracking systems are criticised because the direct positioning of the markers on the patient’s face shows large variances and may affect the natural facial expressions [<xref ref-type="bibr" rid="CR37">37</xref>]. Videostereophotogrammetry proved to be a feasible objective tool for assessing the impact of surgical interventions on facial movements [<xref ref-type="bibr" rid="CR15">15</xref>], and demonstrated good to excellent reliability within the sample of this study.</p>
+                <p id="Par32">A current disadvantage of videostereophotogrammetry is that the necessary cameras, lightning systems, computers, and software are expensive and bulky. However, portable low-cost 4D cameras already exist and make their way in clinical application [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]. Big companies like Microsoft are working on these technologies trying to facilitate automatic landmark tracking, which will not only reduce costs of videostereophotogrammetry but also emphasise the impact of 4D measurements in the near future [<xref ref-type="bibr" rid="CR40">40</xref>].</p>
+              </sec>
+              <sec id="Sec18">
+                <title>Main findings in context of the existing evidence—results</title>
+                <p id="Par33">The main finding was that orthodontic-surgical treatment increases the magnitude of the facial expression maximum smile by approximately 13% (= 2 mm), while it decreases that of the facial expression lip purse by approximately 11% (= 1 mm). The parameters shape change, time, and symmetry of the movement demonstrated no relevant changes from T0 to T1. The novelty of videostereophotogrammetry makes it difficult to compare these results with existing evidence. There are first attempts to integrate the dynamics of facial motion in orthodontic-surgical research [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. However, the interpretation of the data is limited by small study samples, methodological limitations, and divergent results. In 13 patients with maxillary hypoplasia and Le Fort I osteotomy, Al-Hiyali and co-workers reported a reduction in the magnitude of facial expressions of approximately 23% [<xref ref-type="bibr" rid="CR17">17</xref>]. Since the authors summarised the data for three facial expressions (maximum smile, lip purse, and cheek puff), it remains unclear whether the change in the magnitude of movement differed between maximum smile and lip purse like observed in the current sample. Furthermore, in accordance with our observations, they demonstrated no clinically relevant difference in the asymmetry score for patients without facial asymmetry. For three patients with skeletal class III, Nooreyazdan and co-workers reported greater upward movement for cheilion left and right during smiling and reduced lip movement during lip purse [<xref ref-type="bibr" rid="CR6">6</xref>], which is in agreement with the present results. Johns and co-workers, who also observed an increase in facial movement while smiling in patients with maxillary advancement, postulated that the anterior movement of the maxilla lengthens the facial muscles resulting in increased mobility [<xref ref-type="bibr" rid="CR33">33</xref>]. This might only explain the increased magnitude in maximum smile in part as we found no interaction between the surgical movements and the parameters of facial expressions. Maybe, the explanation for the increased smile is as simple as the patients prefer smiling and displaying their teeth after surgical correction of the dentofacial deformity more than before. Nevertheless, it can be speculated that the surgical change in the underlying skeletal support affects the mobility of the overlying soft tissues. How good this adaption succeeds and whether the dynamics of facial soft tissues have an impact on skeletal relapse remain to be elucidated and is an aspect for future studies using the novel method of 4D motion capture. However, no significant impact of surgical movements, type of surgical intervention, or skeletal morphology on soft tissue dynamics was observed in this preliminary study. This may be due to the small sample sizes, implying a comparably low statistical power, but indicates that the postsurgical adaptation is highly individual and prediction of postsurgical facial movements is currently not possible. In contrast, Nooreyazdan and co-workers found presurgical differences between patients with skeletal class II, open bite, and class III for the movement lip purse, while there were no differences for the movements smile, mouth opening, cheek puff, eye opening, eye closure, or grimace even though their sample size was even smaller than in the present study [<xref ref-type="bibr" rid="CR6">6</xref>].</p>
+                <p id="Par34">Furthermore, the question arises whether 1 or 2 mm (11–13%) changes in the magnitude of the facial expressions, like found in the present study, are clinically relevant. With regard to social interaction the interpretation of the data gets even more complex as culture and gender shapes our expectations about the intensity of facial expressions in the sense of emotions [<xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR42">42</xref>]. In contrast to orthopaedics, where gait measures start to establish as potential disease biomarkers [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>], no references for an ideal facial movement exist in orthodontics. Therefore, efforts should be made to collect movement data in class I subjects and the integration of facial dynamics in diagnostics should be driven forward to achieve patient-centred comprehensive treatment plans. Until then, differences of 1–2 mm should be judged as relevant because studies assessing the activity of other muscles of the skull, e.g. the dimension of masticatory muscles or jaw movement, often show pre-/postsurgical differences of 1–2 mm [<xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR46">46</xref>].</p>
+              </sec>
+              <sec id="Sec19">
+                <title>Limitations</title>
+                <p id="Par35">The participants of the study were not operated on by the same surgeon, but all surgeries were performed at a single centre following the same stringent protocol. Since a multi-centre study revealed that even different surgeons at different centres obtain similar accuracy when following a virtual treatment plan [<xref ref-type="bibr" rid="CR47">47</xref>], it can be assumed that the surgical results within this study were reproducible and representative for orthodontic-surgical interventions.</p>
+                <p id="Par36">It is possible that the patients’ compliance, the intensity of care provided by the orthodontic-surgical treatment team, and subsequently the speed of post-surgical recovery were influenced by the fact that the patients were part of a clinical trial. Because of that Hawthorne effect, the participants in the present study might show increased facial expressiveness.</p>
+                <p id="Par37">The observed changes in maximum smile and lip purse were rather small. Due to the novelty of the method, there are no reference values which indicate what amount of change should be considered clinical relevant and what extent of change is detected by orthodontists, surgeons, laypersons, or the patients themselves. Future studies are needed to generate norm values.</p>
+              </sec>
+              <sec id="Sec20">
+                <title>Generalisability</title>
+                <p id="Par38">The results of this trial were from a single specialist clinic in Germany, which might reduce the applicability to other clinical settings. However, the eligibility criteria include most patients undergoing orthodontic-surgical treatment and the followed surgery protocol is widely used and well established.</p>
+                <p id="Par39">This study did not have the purpose to investigate gender differences in orthodontic surgical treatment and gender distribution within the study sample was not equal. This reflects the real clinical situation since women are more likely to accept surgical intervention than men [<xref ref-type="bibr" rid="CR48">48</xref>–<xref ref-type="bibr" rid="CR50">50</xref>]. The results may be generalised to a similar population with indication for orthodontic-surgical treatment and similar gender distribution.</p>
+              </sec>
+              <sec id="Sec21">
+                <title>Further research</title>
+                <p id="Par40">The focus of this study was the integration of videostereophotogrammetry in orthodontic-surgical treatment. To fully understand the effect of orthodontic-surgical treatment on facial expressions, long-term observations and extended study periods are needed. Baseline assessment was performed after orthodontic decompensation with fixed appliances in situ, which might have affected facial movements. Future studies should consider recruitment of patients with severe malocclusions prior orthodontic treatment. The follow-up of 4 months post-surgical in this study was chosen because the swelling has usually subsided by that time [<xref ref-type="bibr" rid="CR51">51</xref>, <xref ref-type="bibr" rid="CR52">52</xref>] and the fixed appliance is still in place. This allowed a comparison of the pre- and post-surgical data without considering an influence of the orthodontic appliance. Since we expected an average post-surgical orthodontic treatment time of 5 to 6 months [<xref ref-type="bibr" rid="CR53">53</xref>, <xref ref-type="bibr" rid="CR54">54</xref>], T1 was set at 4 months post-surgical to reduce dropouts. However, studies on changes of masticatory performance following orthodontic-surgical treatment indicate that an observation period of up to 5 years is necessary to show all effects induced by the intervention since the muscles of mastication need time to regain full strength [<xref ref-type="bibr" rid="CR55">55</xref>, <xref ref-type="bibr" rid="CR56">56</xref>]. Whether this also applies to the facial muscles has not yet been investigated and further studies with an extended follow-up period are required.</p>
+              </sec>
+            </sec>
+            <sec id="Sec22">
+              <title>Conclusions</title>
+              <p id="Par41">The present study implemented the novel approach of 4D motion capture using videostereophotogrammetry in orthodontic research. Within the limitations of this clinical trial, the following conclusion can be made:<list list-type="order"><list-item><p id="Par42">Implementation of videostereophotogrammetry in orthodontic-surgical treatment is feasible and allows the evaluation of facial movements.</p></list-item><list-item><p id="Par43">The magnitude of the expression maximum smile increases while that of lip purse decreases.</p></list-item><list-item><p id="Par44">This change in facial movements following orthodontic-surgical treatment was observed independently of skeletal classes, surgical movements, or type of surgical intervention in this preliminary study.</p></list-item></list></p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <sec id="Sec23">
+                <title>Supplementary Information</title>
+                <p>Below is the link to the electronic supplementary material.<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="784_2023_5195_MOESM1_ESM.mp4"><caption><p>Supplementary file1 (MP4 39959 KB)</p></caption></media></supplementary-material></p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>A.Q., M.S., H.S. and P.M.M. contributed to study conception and design. A.Q., J.H. and P.K. recruited participants and collected the data. J.H. performed the 4D tracking. J.M. wrote the code for data analysis. A.Q., T.A. and C.D. analyzed and interpreted the data. A.Q. and P.M.M. drafted the manuscript. All authors critically revised the manuscript and gave final approval.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Open Access funding enabled and organized by Projekt DEAL. This work was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation)—427616114—and by the Deutsche Gesellschaft für Kieferorthopädie (DGKFO, German Orthodontic Society).</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data Availability</title>
+              <p>The data that support the findings of this study are not openly available due to reasons of sensitivity and are available from the corresponding author upon reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par45">The authors declare no competing interests.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Ethical approval</title>
+                <p id="Par46">This study was approved by the institutional ethics committee (application number 13/2/19) in accordance with the Declaration of Helsinki.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Conflict of interest</title>
+                <p id="Par47">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ekman</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Facial expression and emotion</article-title>
+                  <source>Am Psychol</source>
+                  <year>1993</year>
+                  <volume>48</volume>
+                  <fpage>384</fpage>
+                  <lpage>392</lpage>
+                  <pub-id pub-id-type="doi">10.1037/0003-066X.48.4.384</pub-id>
+                  <?supplied-pmid 8512154?>
+                  <pub-id pub-id-type="pmid">8512154</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mehrabian</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferris</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inference of attitudes from nonverbal communication in two channels</article-title>
+                  <source>J Consult Psychol</source>
+                  <year>1967</year>
+                  <volume>31</volume>
+                  <fpage>248</fpage>
+                  <lpage>252</lpage>
+                  <pub-id pub-id-type="doi">10.1037/h0024648</pub-id>
+                  <?supplied-pmid 6046577?>
+                  <pub-id pub-id-type="pmid">6046577</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ekman</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Darwin’s contributions to our understanding of emotional expressions</article-title>
+                  <source>Philos Trans R Soc Lond B Biol Sci</source>
+                  <year>2009</year>
+                  <volume>364</volume>
+                  <fpage>3449</fpage>
+                  <lpage>3451</lpage>
+                  <pub-id pub-id-type="doi">10.1098/rstb.2009.0189</pub-id>
+                  <?supplied-pmid 19884139?>
+                  <pub-id pub-id-type="pmid">19884139</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Weeden</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Trotman</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Faraway</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Three dimensional analysis of facial movement in normal adults: influence of sex and facial shape</article-title>
+                  <source>Angle Orthod</source>
+                  <year>2001</year>
+                  <volume>71</volume>
+                  <fpage>132</fpage>
+                  <lpage>140</lpage>
+                  <pub-id pub-id-type="doi">10.1043/0003-3219(2001)071&lt;0132:TDAOFM&gt;2.0.CO;2</pub-id>
+                  <?supplied-pmid 11302590?>
+                  <pub-id pub-id-type="pmid">11302590</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Holberg</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Maier</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Steinhauser</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Inter-individual variability of the facial morphology during conscious smiling</article-title>
+                  <source>J Orofac Orthop</source>
+                  <year>2006</year>
+                  <volume>67</volume>
+                  <fpage>234</fpage>
+                  <lpage>243</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00056-006-0518-8</pub-id>
+                  <?supplied-pmid 16838092?>
+                  <pub-id pub-id-type="pmid">16838092</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nooreyazdan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Trotman</surname>
+                      <given-names>C-A</given-names>
+                    </name>
+                    <name>
+                      <surname>Faraway</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Modeling facial movement: II. A dynamic analysis of differences caused by orthognathic surgery</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2004</year>
+                  <volume>62</volume>
+                  <fpage>1380</fpage>
+                  <lpage>1386</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2004.03.015</pub-id>
+                  <?supplied-pmid 15510359?>
+                  <pub-id pub-id-type="pmid">15510359</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Trotman</surname>
+                      <given-names>C-A</given-names>
+                    </name>
+                    <name>
+                      <surname>Faraway</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Modeling facial movement: I. A dynamic analysis of differences based on skeletal characteristics</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2004</year>
+                  <volume>62</volume>
+                  <fpage>1372</fpage>
+                  <lpage>1379</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2004.03.014</pub-id>
+                  <?supplied-pmid 15510358?>
+                  <pub-id pub-id-type="pmid">15510358</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nafziger</surname>
+                      <given-names>YJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A study of patient facial expressivity in relation to orthodontic/surgical treatment</article-title>
+                  <source>Am J Orthod Dentofacial Orthop</source>
+                  <year>1994</year>
+                  <volume>106</volume>
+                  <fpage>227</fpage>
+                  <lpage>237</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0889-5406(94)70041-9</pub-id>
+                  <?supplied-pmid 8074086?>
+                  <pub-id pub-id-type="pmid">8074086</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hallac</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Feng</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kane</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Dynamic facial asymmetry in patients with repaired cleft lip using 4D imaging (video stereophotogrammetry)</article-title>
+                  <source>J Craniomaxillofac Surg</source>
+                  <year>2017</year>
+                  <volume>45</volume>
+                  <fpage>8</fpage>
+                  <lpage>12</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jcms.2016.11.005</pub-id>
+                  <?supplied-pmid 28011182?>
+                  <pub-id pub-id-type="pmid">28011182</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhao</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Hallac</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Seaward</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Analysis of facial movement in repaired unilateral cleft lip using three-dimensional motion capture</article-title>
+                  <source>J Craniofac Surg</source>
+                  <year>2021</year>
+                  <volume>32</volume>
+                  <fpage>2074</fpage>
+                  <lpage>2077</lpage>
+                  <pub-id pub-id-type="doi">10.1097/SCS.0000000000007636</pub-id>
+                  <?supplied-pmid 33770029?>
+                  <pub-id pub-id-type="pmid">33770029</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ho</surname>
+                      <given-names>C-T</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>H-H</given-names>
+                    </name>
+                    <name>
+                      <surname>Liou</surname>
+                      <given-names>EJW</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Three-dimensional surgical simulation improves the planning for correction of facial prognathism and asymmetry: a qualitative and quantitative study</article-title>
+                  <source>Sci Rep</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <fpage>512</fpage>
+                  <pub-id pub-id-type="doi">10.1038/srep40423</pub-id>
+                  <pub-id pub-id-type="pmid">28360414</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Elshebiny</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Morcos</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Mohammad</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Accuracy of three-dimensional soft tissue prediction in orthognathic cases using dolphin three-dimensional software</article-title>
+                  <source>J Craniofac Surg</source>
+                  <year>2018</year>
+                  <pub-id pub-id-type="doi">10.1097/SCS.0000000000005037</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Resnick</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Dang</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Glick</surname>
+                      <given-names>SJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Accuracy of three-dimensional soft tissue prediction for Le Fort I osteotomy using Dolphin 3D software: a pilot study</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2017</year>
+                  <volume>46</volume>
+                  <fpage>289</fpage>
+                  <lpage>295</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2016.10.016</pub-id>
+                  <?supplied-pmid 27856149?>
+                  <pub-id pub-id-type="pmid">27856149</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Modabber</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Baron</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Peters</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Comparison of soft tissue simulations between two planning software programs for orthognathic surgery</article-title>
+                  <source>Sci Rep</source>
+                  <year>2022</year>
+                  <volume>12</volume>
+                  <fpage>2014</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41598-022-08991-7</pub-id>
+                  <pub-id pub-id-type="pmid">35132079</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shujaat</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Khambay</surname>
+                      <given-names>BS</given-names>
+                    </name>
+                    <name>
+                      <surname>Ju</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The clinical application of three-dimensional motion capture (4D): a novel approach to quantify the dynamics of facial animations</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2014</year>
+                  <volume>43</volume>
+                  <fpage>907</fpage>
+                  <lpage>916</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2014.01.010</pub-id>
+                  <?supplied-pmid 24583138?>
+                  <pub-id pub-id-type="pmid">24583138</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ju</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>O’Leary</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Peng</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evaluation of the reproducibility of nonverbal facial expressions using a 3D motion capture system</article-title>
+                  <source>Cleft Palate Craniofac J</source>
+                  <year>2016</year>
+                  <volume>53</volume>
+                  <fpage>22</fpage>
+                  <lpage>29</lpage>
+                  <pub-id pub-id-type="doi">10.1597/14-090r</pub-id>
+                  <?supplied-pmid 25531739?>
+                  <pub-id pub-id-type="pmid">25531739</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Al-Hiyali</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ayoub</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ju</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The impact of orthognathic surgery on facial expressions</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2015</year>
+                  <volume>73</volume>
+                  <fpage>2380</fpage>
+                  <lpage>2390</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2015.05.008</pub-id>
+                  <?supplied-pmid 26044608?>
+                  <pub-id pub-id-type="pmid">26044608</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gattani</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ju</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Gillgrass</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>An innovative assessment of the dynamics of facial movements in surgically managed unilateral cleft lip and palate using 4D imaging</article-title>
+                  <source>Cleft Palate Craniofac J</source>
+                  <year>2020</year>
+                  <volume>57</volume>
+                  <fpage>1125</fpage>
+                  <lpage>1133</lpage>
+                  <pub-id pub-id-type="doi">10.1177/1055665620924871</pub-id>
+                  <?supplied-pmid 32419475?>
+                  <pub-id pub-id-type="pmid">32419475</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ireland</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cunningham</surname>
+                      <given-names>SJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Petrie</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>An index of orthognathic functional treatment need (IOFTN)</article-title>
+                  <source>J Orthod</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <fpage>77</fpage>
+                  <lpage>83</lpage>
+                  <pub-id pub-id-type="doi">10.1179/1465313314Y.0000000100</pub-id>
+                  <?supplied-pmid 24951095?>
+                  <pub-id pub-id-type="pmid">24951095</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Quast</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Santander</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kahlmeier</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Predictability of maxillary positioning: a 3D comparison of virtual and conventional orthognathic surgery planning</article-title>
+                  <source>Head Face Med</source>
+                  <year>2021</year>
+                  <volume>17</volume>
+                  <fpage>27</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s13005-021-00279-x</pub-id>
+                  <?supplied-pmid 34256775?>
+                  <pub-id pub-id-type="pmid">34256775</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Luhr</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The significance of condylar position using rigid fixation in orthognathic surgery</article-title>
+                  <source>Clin Plast Surg</source>
+                  <year>1989</year>
+                  <volume>16</volume>
+                  <fpage>147</fpage>
+                  <lpage>156</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0094-1298(20)31375-4</pub-id>
+                  <?supplied-pmid 2924488?>
+                  <pub-id pub-id-type="pmid">2924488</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schwestka</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Engelke</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Kubein-Meesenburg</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Condylar position control during maxillary surgery: the condylar positioning appliance and three-dimensional double splint method</article-title>
+                  <source>Int J Adult Orthodon Orthognath Surg</source>
+                  <year>1990</year>
+                  <volume>5</volume>
+                  <fpage>161</fpage>
+                  <lpage>165</lpage>
+                  <?supplied-pmid 2098451?>
+                  <pub-id pub-id-type="pmid">2098451</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Quast</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Santander</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Trautmann</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A new approach in three dimensions to define pre- and intraoperative condyle–fossa relationships in orthognathic surgery – is there an effect of general anaesthesia on condylar position?</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2020</year>
+                  <volume>49</volume>
+                  <fpage>1303</fpage>
+                  <lpage>1310</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2020.02.011</pub-id>
+                  <?supplied-pmid 32173246?>
+                  <pub-id pub-id-type="pmid">32173246</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bell</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Le Forte I osteotomy for correction of maxillary deformities</article-title>
+                  <source>J Oral Surg</source>
+                  <year>1975</year>
+                  <volume>33</volume>
+                  <fpage>412</fpage>
+                  <lpage>426</lpage>
+                  <?supplied-pmid 1055202?>
+                  <pub-id pub-id-type="pmid">1055202</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Epker</surname>
+                      <given-names>BN</given-names>
+                    </name>
+                    <name>
+                      <surname>Wylie</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Control of the condylar-proximal mandibular segments after sagittal split osteotomies to advance the mandible</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol</source>
+                  <year>1986</year>
+                  <volume>62</volume>
+                  <fpage>613</fpage>
+                  <lpage>617</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0030-4220(86)90251-3</pub-id>
+                  <?supplied-pmid 3467286?>
+                  <pub-id pub-id-type="pmid">3467286</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hunsuck</surname>
+                      <given-names>EE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A modified intraoral sagittal splitting technic for correction of mandibular prognathism</article-title>
+                  <source>J Oral Surg</source>
+                  <year>1968</year>
+                  <volume>26</volume>
+                  <fpage>250</fpage>
+                  <lpage>253</lpage>
+                  <?supplied-pmid 5237786?>
+                  <pub-id pub-id-type="pmid">5237786</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Trauner</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Obwegeser</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The surgical correction of mandibular prognathism and retrognathia with consideration of genioplasty</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol</source>
+                  <year>1957</year>
+                  <volume>10</volume>
+                  <fpage>677</fpage>
+                  <lpage>689</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0030-4220(57)80063-2</pub-id>
+                  <?supplied-pmid 13441284?>
+                  <pub-id pub-id-type="pmid">13441284</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Virtanen</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gommers</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Oliphant</surname>
+                      <given-names>TE</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>SciPy 1.0: fundamental algorithms for scientific computing in Python</article-title>
+                  <source>Nat Methods</source>
+                  <year>2020</year>
+                  <volume>17</volume>
+                  <fpage>261</fpage>
+                  <lpage>272</lpage>
+                  <pub-id pub-id-type="doi">10.1038/s41592-019-0686-2</pub-id>
+                  <?supplied-pmid 32015543?>
+                  <pub-id pub-id-type="pmid">32015543</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <mixed-citation publication-type="other">Lenth R (2022) emmeans: estimated marginal means, aka least-squares means. R package version 1.7.3. <ext-link ext-link-type="uri" xlink:href="https://CRAN.R-project.org/package=emmeans">https://CRAN.R-project.org/package=emmeans</ext-link>. Accessed 20 Mar 2023</mixed-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <mixed-citation publication-type="other">R Core Team R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. <ext-link ext-link-type="uri" xlink:href="https://www.r-project.org/">https://www.r-project.org/</ext-link>. Accessed 20 Mar 2023</mixed-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Johnston</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Mayes</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Hughes</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Brain networks subserving the evaluation of static and dynamic facial expressions</article-title>
+                  <source>Cortex</source>
+                  <year>2013</year>
+                  <volume>49</volume>
+                  <fpage>2462</fpage>
+                  <lpage>2472</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cortex.2013.01.002</pub-id>
+                  <?supplied-pmid 23410736?>
+                  <pub-id pub-id-type="pmid">23410736</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Verze</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Bianchi</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Dell’Acqua</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Facial mobility after bimaxillary surgery in class III patients: a three-dimensional study</article-title>
+                  <source>J Craniofac Surg</source>
+                  <year>2011</year>
+                  <volume>22</volume>
+                  <fpage>2304</fpage>
+                  <lpage>2307</lpage>
+                  <pub-id pub-id-type="doi">10.1097/SCS.0b013e318232a7f0</pub-id>
+                  <?supplied-pmid 22134264?>
+                  <pub-id pub-id-type="pmid">22134264</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Johns</surname>
+                      <given-names>FR</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Buckley</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Changes in facial movement after maxillary osteotomies</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>1997</year>
+                  <volume>55</volume>
+                  <fpage>1044</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0278-2391(97)90275-5</pub-id>
+                  <?supplied-pmid 9331225?>
+                  <pub-id pub-id-type="pmid">9331225</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paletz</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Manktelow</surname>
+                      <given-names>RT</given-names>
+                    </name>
+                    <name>
+                      <surname>Chaban</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The shape of a normal smile: implications for facial paralysis reconstruction</article-title>
+                  <source>Plast Reconstr Surg</source>
+                  <year>1994</year>
+                  <volume>93</volume>
+                  <fpage>784</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1097/00006534-199404000-00020</pub-id>
+                  <?supplied-pmid 8134437?>
+                  <pub-id pub-id-type="pmid">8134437</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ekman</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <source>Facial action coding system</source>
+                  <year>1978</year>
+                  <publisher-loc>Palo Alto, Calif</publisher-loc>
+                  <publisher-name>Consulting Psychologists Press Inc</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gross</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Trotman</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Moffatt</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison of three-dimensional and two-dimensional analyses of facial motion</article-title>
+                  <source>Angle Orthod</source>
+                  <year>1996</year>
+                  <volume>66</volume>
+                  <fpage>189</fpage>
+                  <lpage>194</lpage>
+                  <pub-id pub-id-type="doi">10.1043/0003-3219(1996)066&lt;0189:ACOTDA&gt;2.3.CO;2</pub-id>
+                  <?supplied-pmid 8805913?>
+                  <pub-id pub-id-type="pmid">8805913</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Popat</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Richmond</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Benedikt</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Quantitative analysis of facial movement—a review of three-dimensional imaging techniques</article-title>
+                  <source>Comput Med Imaging Graph</source>
+                  <year>2009</year>
+                  <volume>33</volume>
+                  <fpage>377</fpage>
+                  <lpage>383</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.compmedimag.2009.03.003</pub-id>
+                  <?supplied-pmid 19406613?>
+                  <pub-id pub-id-type="pmid">19406613</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Siena</surname>
+                      <given-names>FL</given-names>
+                    </name>
+                    <name>
+                      <surname>Byrom</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Watts</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Utilising the Intel RealSense camera for measuring health outcomes in clinical research</article-title>
+                  <source>J Med Syst</source>
+                  <year>2018</year>
+                  <volume>42</volume>
+                  <fpage>53</fpage>
+                  <pub-id pub-id-type="doi">10.1007/s10916-018-0905-x</pub-id>
+                  <?supplied-pmid 29404692?>
+                  <pub-id pub-id-type="pmid">29404692</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>ten Harkel</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Speksnijder</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Heijden</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Depth accuracy of the RealSense F200: low-cost 4D facial imaging</article-title>
+                  <source>Sci Rep</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <fpage>16263</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41598-017-16608-7</pub-id>
+                  <?supplied-pmid 29176666?>
+                  <pub-id pub-id-type="pmid">29176666</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <mixed-citation publication-type="other">Avidan S, Brostow G, Cissé M et al (eds) (2022) Computer Vision – ECCV 17th European Conference, Tel Aviv, Israel, October 23–27, 2022. In: Proceedings, Part XVI (Lecture Notes in Computer Science, 13676, Band 13676) Paperback</mixed-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jack</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                    <name>
+                      <surname>Garrod</surname>
+                      <given-names>OGB</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Facial expressions of emotion are not culturally universal</article-title>
+                  <source>Proc Natl Acad Sci U S A</source>
+                  <year>2012</year>
+                  <volume>109</volume>
+                  <fpage>7241</fpage>
+                  <lpage>7244</lpage>
+                  <pub-id pub-id-type="doi">10.1073/pnas.1200155109</pub-id>
+                  <?supplied-pmid 22509011?>
+                  <pub-id pub-id-type="pmid">22509011</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hess</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Blairy</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kleck</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The intensity of emotional facial expressions and decoding accuracy</article-title>
+                  <source>J Nonverbal Behav</source>
+                  <year>1997</year>
+                  <volume>21</volume>
+                  <fpage>241</fpage>
+                  <lpage>257</lpage>
+                  <pub-id pub-id-type="doi">10.1023/A:1024952730333</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Desai</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Blacutt</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Youdan</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Postural control and gait measures derived from wearable inertial measurement unit devices in Huntington’s disease: recommendations for clinical outcomes</article-title>
+                  <source>Clin Biomech</source>
+                  <year>2022</year>
+                  <volume>96</volume>
+                  <fpage>105658</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.clinbiomech.2022.105658</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bois</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervil</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Moreau</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A topological data analysis-based method for gait signals with an application to the study of multiple sclerosis</article-title>
+                  <source>PLoS One</source>
+                  <year>2022</year>
+                  <volume>17</volume>
+                  <fpage>e0268475</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0268475</pub-id>
+                  <?supplied-pmid 35560328?>
+                  <pub-id pub-id-type="pmid">35560328</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Muftuoglu</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Akturk</surname>
+                      <given-names>ES</given-names>
+                    </name>
+                    <name>
+                      <surname>Eren</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Long-term evaluation of masseter muscle activity, dimensions, and elasticity after orthognathic surgery in skeletal class III patients</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2023</year>
+                  <pub-id pub-id-type="doi">10.1007/s00784-023-05004-3</pub-id>
+                  <?supplied-pmid 37022528?>
+                  <pub-id pub-id-type="pmid">37022528</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>D-H</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>H-S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Masseter muscle changes following orthognathic surgery: a long-term three-dimensional computed tomography follow-up</article-title>
+                  <source>Angle Orthod</source>
+                  <year>2012</year>
+                  <volume>82</volume>
+                  <fpage>792</fpage>
+                  <lpage>798</lpage>
+                  <pub-id pub-id-type="doi">10.2319/111911-717.1</pub-id>
+                  <?supplied-pmid 22390633?>
+                  <pub-id pub-id-type="pmid">22390633</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hsu</surname>
+                      <given-names>SS-P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gateno</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Bell</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Accuracy of a computer-aided surgical simulation protocol for orthognathic surgery: a prospective multicenter study</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2013</year>
+                  <volume>71</volume>
+                  <fpage>128</fpage>
+                  <lpage>142</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2012.03.027</pub-id>
+                  <?supplied-pmid 22695016?>
+                  <pub-id pub-id-type="pmid">22695016</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Proffit</surname>
+                      <given-names>WR</given-names>
+                    </name>
+                    <name>
+                      <surname>Phillips</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Dann</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Who seeks surgical-orthodontic treatment?</article-title>
+                  <source>Int J Adult Orthodon Orthognath Surg</source>
+                  <year>1990</year>
+                  <volume>5</volume>
+                  <fpage>153</fpage>
+                  <lpage>160</lpage>
+                  <?supplied-pmid 2098450?>
+                  <pub-id pub-id-type="pmid">2098450</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Proffit</surname>
+                      <given-names>WR</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>RP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Who needs surgical-orthodontic treatment?</article-title>
+                  <source>Int J Adult Orthodon Orthognath Surg</source>
+                  <year>1990</year>
+                  <volume>5</volume>
+                  <fpage>81</fpage>
+                  <lpage>89</lpage>
+                  <?supplied-pmid 2074379?>
+                  <pub-id pub-id-type="pmid">2074379</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Espeland</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Hogevold</surname>
+                      <given-names>HE</given-names>
+                    </name>
+                    <name>
+                      <surname>Stenvik</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A 3-year patient-centred follow-up of 516 consecutively treated orthognathic surgery patients</article-title>
+                  <source>Eur J Orthod</source>
+                  <year>2007</year>
+                  <volume>30</volume>
+                  <fpage>24</fpage>
+                  <lpage>30</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ejo/cjm081</pub-id>
+                  <?supplied-pmid 18033770?>
+                  <pub-id pub-id-type="pmid">18033770</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yamamoto</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Miyachi</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujii</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Intuitive facial imaging method for evaluation of postoperative swelling: a combination of 3-dimensional computed tomography and laser surface scanning in orthognathic Surgery</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2016</year>
+                  <volume>74</volume>
+                  <fpage>2506.e1</fpage>
+                  <lpage>2506.e10</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2016.08.039</pub-id>
+                  <?supplied-pmid 27669371?>
+                  <pub-id pub-id-type="pmid">27669371</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Semper-Hogg</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Fuessinger</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Dirlewanger</surname>
+                      <given-names>TW</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The influence of dexamethasone on postoperative swelling and neurosensory disturbances after orthognathic surgery: a randomized controlled clinical trial</article-title>
+                  <source>Head Face Med</source>
+                  <year>2017</year>
+                  <volume>13</volume>
+                  <fpage>19</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s13005-017-0153-1</pub-id>
+                  <?supplied-pmid 29116013?>
+                  <pub-id pub-id-type="pmid">29116013</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR53">
+                <label>53.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>RJH</given-names>
+                    </name>
+                    <name>
+                      <surname>Perera</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Naoum</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Treatment time for surgical-orthodontic cases: a private versus public setting comparison</article-title>
+                  <source>Australas Orthod J</source>
+                  <year>2021</year>
+                  <volume>37</volume>
+                  <fpage>31</fpage>
+                  <lpage>36</lpage>
+                  <pub-id pub-id-type="doi">10.21307/aoj-2021-003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR54">
+                <label>54.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dowling</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Espeland</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Krogstad</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Duration of orthodontic treatment involving orthognathic surgery</article-title>
+                  <source>Int J Adult Orthodon Orthognath Surg</source>
+                  <year>1999</year>
+                  <volume>14</volume>
+                  <fpage>146</fpage>
+                  <lpage>152</lpage>
+                  <?supplied-pmid 10686838?>
+                  <pub-id pub-id-type="pmid">10686838</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR55">
+                <label>55.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>van den Braber</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Bilt</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Glas</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The influence of mandibular advancement surgery on oral function in retrognathic patients: a 5-year follow-up study</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2006</year>
+                  <volume>64</volume>
+                  <fpage>1237</fpage>
+                  <lpage>1240</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2006.04.019</pub-id>
+                  <?supplied-pmid 16860216?>
+                  <pub-id pub-id-type="pmid">16860216</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR56">
+                <label>56.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Magalhães</surname>
+                      <given-names>IB</given-names>
+                    </name>
+                    <name>
+                      <surname>Pereira</surname>
+                      <given-names>LJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The influence of malocclusion on masticatory performance</article-title>
+                  <source>Angle Orthod</source>
+                  <year>2010</year>
+                  <volume>80</volume>
+                  <fpage>981</fpage>
+                  <lpage>987</lpage>
+                  <pub-id pub-id-type="doi">10.2319/011910-33.1</pub-id>
+                  <?supplied-pmid 20578873?>
+                  <pub-id pub-id-type="pmid">20578873</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

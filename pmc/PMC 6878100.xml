@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:45:49Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:6878100" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:6878100</identifier>
+        <datestamp>2019-12-12</datestamp>
+        <setSpec>mhealth</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">JMIR Mhealth Uhealth</journal-id>
+              <journal-id journal-id-type="iso-abbrev">JMIR Mhealth Uhealth</journal-id>
+              <journal-id journal-id-type="publisher-id">JMU</journal-id>
+              <journal-title-group>
+                <journal-title>JMIR mHealth and uHealth</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2291-5222</issn>
+              <publisher>
+                <publisher-name>JMIR Publications</publisher-name>
+                <publisher-loc>Toronto, Canada</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC6878100</article-id>
+              <article-id pub-id-type="pmcid">PMC6878100</article-id>
+              <article-id pub-id-type="pmc-uid">6878100</article-id>
+              <article-id pub-id-type="pmid">31710306</article-id>
+              <article-id pub-id-type="publisher-id">v7i11e14247</article-id>
+              <article-id pub-id-type="pmid">31710306</article-id>
+              <article-id pub-id-type="doi">10.2196/14247</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Paper</subject>
+                </subj-group>
+                <subj-group subj-group-type="article-type">
+                  <subject>Original Paper</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>An Interactive Parent-Targeted Text Messaging Intervention to Improve Oral Health in Children Attending Urban Pediatric Clinics: Feasibility Randomized Controlled Trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="editor">
+                  <name>
+                    <surname>Eysenbach</surname>
+                    <given-names>Gunther</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <contrib-group>
+                <contrib contrib-type="reviewer">
+                  <name>
+                    <surname>Jamir</surname>
+                    <given-names>Limalemla</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="reviewer">
+                  <name>
+                    <surname>Smith</surname>
+                    <given-names>Sharlene</given-names>
+                  </name>
+                </contrib>
+                <contrib contrib-type="reviewer">
+                  <name>
+                    <surname>Card</surname>
+                    <given-names>Alan</given-names>
+                  </name>
+                </contrib>
+              </contrib-group>
+              <contrib-group>
+                <contrib id="contrib1" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Borrelli</surname>
+                    <given-names>Belinda</given-names>
+                  </name>
+                  <degrees>PhD</degrees>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0859-796X</contrib-id>
+                  <xref ref-type="aff" rid="aff1">1</xref>
+                  <xref ref-type="aff" rid="aff2">2</xref>
+                  <address>
+                    <institution>Center for Behavioral Science Research</institution>
+                    <institution>Boston University Henry M Goldman School of Dental Medicine</institution>
+                    <addr-line>560 Harrison Ave, 3rd floor</addr-line>
+                    <addr-line>Boston, MA, 02118</addr-line>
+                    <country>United States</country>
+                    <phone>1 617 358 3358</phone>
+                    <email>belindab@bu.edu</email>
+                  </address>
+                </contrib>
+                <contrib id="contrib2" contrib-type="author">
+                  <name>
+                    <surname>Henshaw</surname>
+                    <given-names>Michelle</given-names>
+                  </name>
+                  <degrees>DDS</degrees>
+                  <xref ref-type="aff" rid="aff2">2</xref>
+                  <xref ref-type="aff" rid="aff3">3</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2586-8466</contrib-id>
+                </contrib>
+                <contrib id="contrib3" contrib-type="author">
+                  <name>
+                    <surname>Endrighi</surname>
+                    <given-names>Romano</given-names>
+                  </name>
+                  <degrees>PhD</degrees>
+                  <xref ref-type="aff" rid="aff1">1</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-9272-5513</contrib-id>
+                </contrib>
+                <contrib id="contrib4" contrib-type="author">
+                  <name>
+                    <surname>Adams</surname>
+                    <given-names>William G</given-names>
+                  </name>
+                  <degrees>MD</degrees>
+                  <xref ref-type="aff" rid="aff4">4</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5330-0010</contrib-id>
+                </contrib>
+                <contrib id="contrib5" contrib-type="author">
+                  <name>
+                    <surname>Heeren</surname>
+                    <given-names>Timothy</given-names>
+                  </name>
+                  <degrees>PhD</degrees>
+                  <xref ref-type="aff" rid="aff5">5</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5643-3559</contrib-id>
+                </contrib>
+                <contrib id="contrib6" contrib-type="author">
+                  <name>
+                    <surname>Rosen</surname>
+                    <given-names>Rochelle K</given-names>
+                  </name>
+                  <degrees>PhD</degrees>
+                  <xref ref-type="aff" rid="aff6">6</xref>
+                  <xref ref-type="aff" rid="aff7">7</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1598-667X</contrib-id>
+                </contrib>
+                <contrib id="contrib7" contrib-type="author">
+                  <name>
+                    <surname>Bock</surname>
+                    <given-names>Beth</given-names>
+                  </name>
+                  <degrees>PhD</degrees>
+                  <xref ref-type="aff" rid="aff6">6</xref>
+                  <xref ref-type="aff" rid="aff8">8</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4530-7618</contrib-id>
+                </contrib>
+                <contrib id="contrib8" contrib-type="author">
+                  <name>
+                    <surname>Werntz</surname>
+                    <given-names>Scott</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff9">9</xref>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3189-7952</contrib-id>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1">
+                <label>1</label>
+                <institution>Center for Behavioral Science Research</institution>
+                <institution>Boston University Henry M Goldman School of Dental Medicine</institution>
+                <addr-line>Boston, MA</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff2">
+                <label>2</label>
+                <institution>Center for Research to Evaluate &amp; Eliminate Dental Disparities</institution>
+                <institution>Department of Health Policy &amp; Health Services Research</institution>
+                <institution>Boston University Henry M Goldman School of Dental Medicine</institution>
+                <addr-line>Boston, MA</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff3">
+                <label>3</label>
+                <institution>Office of Global &amp; Population Health</institution>
+                <institution>Boston University Henry M Goldman School of Dental Medicine</institution>
+                <addr-line>Boston, MA</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff4">
+                <label>4</label>
+                <institution>Department of Pediatrics</institution>
+                <institution>Boston Medical Center &amp; Boston University School of Medicine</institution>
+                <addr-line>Boston, MA</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff5">
+                <label>5</label>
+                <institution>Department of Biostatistics</institution>
+                <institution>Boston University School of Public Health</institution>
+                <addr-line>Boston, MA</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff6">
+                <label>6</label>
+                <institution>Centers for Behavioral and Preventive Medicine</institution>
+                <institution>The Miriam Hospital</institution>
+                <addr-line>Providence, RI</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff7">
+                <label>7</label>
+                <institution>Department of Behavioral and Social Sciences</institution>
+                <institution>Brown University School of Public Health</institution>
+                <addr-line>Providence, RI</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff8">
+                <label>8</label>
+                <institution>Department of Psychiatry and Human Behavior</institution>
+                <institution>Alpert Medical School at Brown University</institution>
+                <addr-line>Providence, RI</addr-line>
+                <country>United States</country>
+              </aff>
+              <aff id="aff9">
+                <label>9</label>
+                <institution>Agile Health, Inc</institution>
+                <addr-line>Lincolnshire, IL</addr-line>
+                <country>United States</country>
+              </aff>
+              <author-notes>
+                <corresp>Corresponding Author: Belinda Borrelli <email>belindab@bu.edu</email></corresp>
+              </author-notes>
+              <pub-date pub-type="collection">
+                <month>11</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>11</day>
+                <month>11</month>
+                <year>2019</year>
+              </pub-date>
+              <volume>7</volume>
+              <issue>11</issue>
+              <elocation-id>e14247</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>3</day>
+                  <month>4</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="rev-request">
+                  <day>14</day>
+                  <month>6</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="rev-recd">
+                  <day>6</day>
+                  <month>8</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="accepted">
+                  <day>18</day>
+                  <month>8</month>
+                  <year>2019</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>©Belinda Borrelli, Michelle Henshaw, Romano Endrighi, William G Adams, Timothy Heeren, Rochelle K Rosen, Beth Bock, Scott Werntz. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 11.11.2019.</copyright-statement>
+                <copyright-year>2019</copyright-year>
+                <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/">
+                  <license-p><!--CREATIVE COMMONS-->This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR mhealth and uhealth, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link ext-link-type="uri" xlink:href="http://mhealth.jmir.org/">http://mhealth.jmir.org/</ext-link>, as well as this copyright and license information must be included.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:type="simple" xlink:href="https://mhealth.jmir.org/2019/11/e14247"/>
+              <abstract>
+                <sec sec-type="background">
+                  <title>Background</title>
+                  <p>Effective preventive treatments for dental decay exist, but caries experience among preschoolers has not changed, with marked disparities in untreated decay. Despite near-universal use of SMS text messaging, there are no studies using text messages to improve the oral health of vulnerable children.</p>
+                </sec>
+                <sec sec-type="objective">
+                  <title>Objective</title>
+                  <p>This randomized controlled feasibility trial aimed to test the effects of oral health text messages (OHT) versus a control (child wellness text messages or CWT). OHT was hypothesized to outperform CWT on improving pediatric oral health behaviors and parent attitudes.</p>
+                </sec>
+                <sec sec-type="methods">
+                  <title>Methods</title>
+                  <p>Parents with a child aged &lt;7 years were recruited at urban clinics during pediatric appointments (79% [41/52] below poverty line; 66% [36/55] black) and randomized to OHT (text messages on brushing, dental visits, bottle and sippy cups, healthy eating and sugary beverages, and fluoride) or CWT (text messages on reading, safety, physical activity and development, secondhand smoke, and stress) groups. Automated text messages based on Social Cognitive Theory were sent twice each day for 8-weeks. Groups were equivalent on the basis of the number of text messages sent, personalization, interactivity, and opportunity to earn electronic badges and unlock animated characters. Assessments were conducted at baseline and 8 weeks later. Data were analyzed with linear mixed–effects models.</p>
+                </sec>
+                <sec sec-type="results">
+                  <title>Results</title>
+                  <p>A total of 55 participants were randomized (28 OHT and 27 CWT). Only one participant dropped out during the text message program and 47 (24 OHT and 23 CWT) completed follow up surveys. Response rates exceeded 68.78% (1040/1512) and overall program satisfaction was high (OHT mean 6.3; CWT mean 6.2; 1-7 scale range). Of the OHT group participants, 84% (21/25) would recommend the program to others. Overall program likeability scores were high (OHT mean 5.90; CWT mean 6.0; 1-7 scale range). Participants reported high perceived impact of the OHT program on brushing their child’s teeth, motivation to address their child's oral health, and knowledge of their child's oral health needs (mean 4.7, 4.6, and 4.6, respectively; 1-5 scale range). At follow up, compared with CWT, OHT group participants were more likely to brush their children’s teeth twice per day (odds ratio [OR] 1.37, 95% CI 0.28-6.50) and demonstrated improved attitudes regarding the use of fluoride (OR 3.82, 95% CI 0.9-16.8) and toward getting regular dental checkups for their child (OR 4.68, 95% CI 0.24-91.4). There were modest, but not significant, changes in motivation (F1,53=0.60; <italic>P</italic>=.45) and self–efficacy (F1,53=0.24; <italic>P</italic>=.63) to engage in oral health behaviors, favoring OHT (<italic>d</italic>=0.28 and <italic>d</italic>=0.16 for motivation and self–efficacy, respectively).</p>
+                </sec>
+                <sec sec-type="conclusions">
+                  <title>Conclusions</title>
+                  <p>The OHT program demonstrated feasibility was well utilized and appealing to the target population and showed promise for efficacy.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>oral health</kwd>
+                <kwd>mHealth</kwd>
+                <kwd>text message</kwd>
+                <kwd>dental caries</kwd>
+                <kwd>health behavior</kwd>
+              </kwd-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec sec-type="introduction">
+              <title>Introduction</title>
+              <sec>
+                <title>Background</title>
+                <p>Although there are effective preventive treatments for dental decay, caries experience among preschoolers has remained relatively unchanged for the past two decades [<xref rid="ref1" ref-type="bibr">1</xref>]. However, not all populations share the burden of the disease equally, demonstrated by the persistent and marked disparities in caries experience, untreated decay, and the lack of dental care access by both race or ethnicity and income [<xref rid="ref1" ref-type="bibr">1</xref>]. Finding innovative strategies to reduce the prevalence and severity of this disease in high–risk populations is essential to reducing disparities. For young children, the role of the primary caregiver is especially important in reducing caries risk [<xref rid="ref2" ref-type="bibr">2</xref>].</p>
+                <p>Community health centers provide comprehensive and cost–effective primary health care for America's most underserved communities. Nationally, there are almost 1400 community health centers with over 11,000 locations that treat 28 million patients per year, of which 8.4 million are children [<xref rid="ref3" ref-type="bibr">3</xref>]. Community health centers provide care primarily to low–income persons (91%), the under- or uninsured (49% Medicaid; government–funded medical and dental insurance for low–income individuals; and 23% uninsured), and racial and ethnic minority groups (63%) [<xref rid="ref3" ref-type="bibr">3</xref>]—the same groups that are at highest risk for caries. Despite guidelines that the first dental visit should occur by age 1 year, less than 2% of children enrolled in Medicaid meet this recommendation, and only 9% of 1- and 2-year olds receive preventive dental visits [<xref rid="ref4" ref-type="bibr">4</xref>]. In contrast, almost 90% of US children attend well–child primary care visits [<xref rid="ref5" ref-type="bibr">5</xref>]. This high attendance rate, coupled with the fact that during the first 3 years of life, children have 12 well–child visits scheduled, provides an infrastructure with the potential to reach both children at high risk for caries and their parents.</p>
+                <p>Short message service (SMS) text messaging may be one way to reach busy parents in their everyday lives with evidenced–based information. Over 95% of adults in the United States regularly use SMS text messaging, with no disparities in race, ethnicity, and income [<xref rid="ref6" ref-type="bibr">6</xref>,<xref rid="ref7" ref-type="bibr">7</xref>]. The advantages of an SMS text messaging intervention are as follows: access anytime and place, ability to tailor to content timing and intensity, provision of real–time coping strategies to users in everyday settings, few barriers to participation, interactive functionality in real time, low participant burden, reduced cost burden on the health care system [<xref rid="ref8" ref-type="bibr">8</xref>,<xref rid="ref9" ref-type="bibr">9</xref>], and high potential for dissemination.</p>
+                <p>SMS text messaging interventions have been effective across a wide variety of behaviors, such as smoking cessation [<xref rid="ref10" ref-type="bibr">10</xref>], medication adherence, diabetes care [<xref rid="ref11" ref-type="bibr">11</xref>], and weight management [<xref rid="ref12" ref-type="bibr">12</xref>,<xref rid="ref13" ref-type="bibr">13</xref>]. Although there are 3 studies that use SMS text messaging to improve pediatric oral health, they have small samples and short–term outcomes (1 week-3 months) and lack rigorous controls [<xref rid="ref14" ref-type="bibr">14</xref>-<xref rid="ref16" ref-type="bibr">16</xref>]. Only 1 was conducted in the United States and was limited in that it used text messages as <italic>reminders</italic> only, and text messages were sent for only 7 days [<xref rid="ref14" ref-type="bibr">14</xref>].</p>
+                <p>We developed a text message program focused on motivating adherence to pediatric oral health behaviors. The program content and structure was based on clinical guidelines [<xref rid="ref17" ref-type="bibr">17</xref>,<xref rid="ref18" ref-type="bibr">18</xref>] and recommendations from a multidisciplinary scientific advisory board [<xref rid="ref19" ref-type="bibr">19</xref>]. We also interviewed medical assistants, nurses, and pediatricians (n=9) to assess their opinions about the program and on how to integrate it into the clinic flow. We conducted 11 focus groups with parents (n=63) to develop text message content, match content to participants’ literacy levels, design program preferences (ie, features, structure, length, and badges), incorporate cultural considerations, identify knowledge gaps, and map text message content onto a theoretical model and mediators (Social Cognitive Theory) [<xref rid="ref20" ref-type="bibr">20</xref>-<xref rid="ref22" ref-type="bibr">22</xref>]. To ensure functionality, we conducted an internal pilot (9 users) followed by a usability study during which participants from the target population (n=21) used the text message program for one month and completed self–report questionnaires and qualitative interviews at the middle and end of the month regarding their opinions on program content, badges, and structure as well as satisfaction, comprehension, and perceived impact on hypothesized mediators and behavior.</p>
+              </sec>
+              <sec>
+                <title>Objective</title>
+                <p>In this paper, we report the results from the text message program that we developed using the iterative process outlined above. Parents who attended the target pediatric clinics and have children under the age of 7 years were randomized into the pilot feasibility randomized controlled trial employing a parallel design and using a 1:1 allocation ratio to receive the oral health text messages (OHT) or child wellness text messages (CWT) for 2 months. Our comparison group, CWT, was developed by our team and scientific advisory board, using clinical guidelines [<xref rid="ref23" ref-type="bibr">23</xref>,<xref rid="ref24" ref-type="bibr">24</xref>]. The aim of the pilot was to test recruitment processes and assess participant satisfaction and the potential impact of OHT on putative Social Cognitive Theory mediators, oral health knowledge and attitudes, and pediatric oral health behaviors. We hypothesized that participant satisfaction would be equivalent between conditions (to preserve internal validity), and participants randomized to OHT group would experience positive changes in relevant Social Cognitive Theory constructs (eg, motivation, self–efficacy, and outcome expectations) and report improved knowledge, attitudes, and oral health behaviors (tooth brushing).</p>
+              </sec>
+            </sec>
+            <sec sec-type="methods">
+              <title>Methods</title>
+              <sec>
+                <title>Participants</title>
+                <p>Potential participants were parents (or caregivers) of children who were patients of pediatric clinics in 2 community health centers in an urban area of Boston, United States. The majority of patients in these clinics receive Medicaid (&gt;88%). Participants were recruited to participate in our study, described as a <italic>child wellness study</italic>, by research assistants in pediatric waiting rooms and clinic staff referral. The research assistants administered informed consent to potential participants, and those who consented documented the consent in writing and were asked to complete baseline questionnaires. Participants were then randomized (using random number functions in a 1:1 allocation ratio using the statistical package SAS 9.4 (TS1M5) platform by SAS Institute Inc) to receive either OHT or CWT. Randomization triggered a text message asking the participant to <italic>opt into</italic> the program. A permutated randomized block design was used, stratified by clinic, child age, and history of caries. Research assistants were masked to treatment condition, as participants’ first text messages were delivered 24 hours after enrollment.</p>
+                <p>Parents were considered eligible if they met the following criteria: aged ≥18 years and had a child aged 6 months to 7 years who received medical care at one of the target community health centers; lived in the greater Boston area and were not planning on moving for 8 weeks; spoke, understood, and read either English or Spanish fluently; had a mobile phone with unlimited SMS text messaging capability; texted at least one time in the past month; adequate ability to read health–related material [<xref rid="ref25" ref-type="bibr">25</xref>]; were not enrolled in another mobile phone child health or wellness study; reported no abuse of alcohol or drugs [<xref rid="ref26" ref-type="bibr">26</xref>]; and no previous serious mental illness. The study received ethical approval from our human subject institutional review board along with review and approval by the ethical committees at the community health centers. Participant recruitment and follow up assessment took place from March through May 2017.</p>
+              </sec>
+              <sec>
+                <title>Procedure</title>
+                <sec>
+                  <title>Structure of the Programs</title>
+                  <p>OHT and CWT were matched on program duration (8 weeks) and dose (2 text messages per day for 1 month followed by 1 text message per day for 1 month), engagement strategies (quizzes on fun facts, birthday text messages, ability to earn child–friendly animated badges for goal achievement, and ability to <italic>unlock</italic> higher levels of animated badges for engaging in the target behavior), and personalization and customization that allowed for the tailoring of message content. Text messages in both conditions were interactive, focusing on problem–solving barriers to behavior change. For OHT, the target goal was brushing every day, twice per day, and for CWT, the target goal was reading every day. Both programs provided feedback on progress toward goal attainment via ability to electronically view a <italic>trophy case</italic> of badges earned so far and motivational text messages. Participants could also participate in <italic>challenge weeks</italic> during which they were given daily electronic badges for achieving the target behavior. The text messages were fully automated, but all incoming text messages could be monitored and responded to in real time via a dashboard interface. Responding to participants directly was necessary if the system did not recognize a text and, therefore, could not produce an automated response—for example, some participants sent a <italic>smiley</italic> emoji or asked a study–related question. The dashboard interface also allowed the study team to respond to participants who did not respond to assessments and allowed for rapid adjustment of personalization settings, such as changing the language of the text messages (ie, English to Spanish or Spanish to English). The dashboard was not used to communicate additional intervention content to participants. Text messages were delivered by Agile Health, Inc. Their system is Health Insurance Portability and Accountability Act compliant, and all data are encrypted in transit and at rest.</p>
+                </sec>
+                <sec>
+                  <title>Oral Health Text Messages</title>
+                  <p>OHT received core topic text messages (tooth brushing and cleaning gums and visiting the dentist) and choice topic text messages (bedtime routine, bottle and sippy cup use, sugar–sweetened beverages, healthy eating, getting fluoride, and fun facts). In month 1, participants received 1 text message from the core topics and 1 text message from the choice topics each day; in month 2, only 1 text message was sent per day, alternating between core and choice topics. Participants earned weekly badges depicting colorful dental–related images if they met the goal of brushing twice each day, working toward the goal of earning a <italic>SuperTooth Hero</italic> badge at the end of each of the 2 months (<italic>Charlie Chew</italic> and <italic>Molly Molar</italic>). Participants could also opt into a <italic>challenge week</italic> in which they were cued daily to brush their child's teeth to unlock <italic>bonus SuperTooth Heroes</italic> (<italic>Faye Fluoride</italic> and <italic>Captain Chomp</italic>) upon achieving brushing twice a day. SuperTooth Heroes were 4 different anthropomorphized teeth wearing capes and holding toothbrushes. The badges and heroes were accompanied by a description of the goal that was achieved. Other text message features specific to OHT included a <italic>dentist finder</italic> (geared to find pediatric dentists), photos and video of brushing technique, and Web links (eg, amount of sugar in popular food and drinks).</p>
+                </sec>
+                <sec>
+                  <title>Child Wellness Text Messages</title>
+                  <p>Participants who were randomized to CWT received core topic text messages focused on the promotion of reading and safety in the home. Choice topic text messages were as follows: healthy sleep and behavior, safety hazards, child development, physical activity, stress tips, and eliminating second hand smoke. CWT earned weekly badges depicting cartoon animals for reading to their child every day. If they earned 4 different weekly badges (each badge specifying the reading goal achieved), they were entitled to <italic>book buddy</italic> badges (anthropomorphized books) each month. They could also earn 2 <italic>mystery book buddies</italic> for the completion of challenge weeks. The badges and buddies were accompanied by a statement of the goal that was achieved. Other text message features specific to CWT included strategies for handling challenging child behaviors, Web links for community resources for parents, and photos or video of important concepts.</p>
+                </sec>
+              </sec>
+              <sec>
+                <title>Measures</title>
+                <p>Surveys were self–administered on the Web at baseline, before randomization, and at the 2-month follow up (after the end of daily text message programs). Participants were compensated a total of US $25 for completing the baseline survey and US $40 for completing the follow up survey. To prevent participant expectations from unduly influencing the results, assessments of CWT (reading and safety) and OHT (oral health behavior) outcomes were given to all participants. As the main purpose of the study was to report on OHT, we have presented the measures and results of only those outcomes.</p>
+                <sec>
+                  <title>Sociodemographics</title>
+                  <p>Sociodemographics including age, sex, education, income, race and ethnicity, marital and employment status, and child characteristics were obtained through self–report at baseline.</p>
+                </sec>
+                <sec>
+                  <title>Program Satisfaction</title>
+                  <p>Program satisfaction measures were given at the conclusion of the text message programs (2 months after baseline). We used several indices of satisfaction because of the multidimensional nature of program satisfaction. First, we measured the <italic>share–worthiness</italic> of the text messages by asking whether participants showed the text messages to others and the extent to which they believed that the text messages would be helpful to family and friends (ranges from 1=<italic>not at all helpful</italic> to 7=<italic>very helpful</italic>). The perceived quality of the text messages were measured with 2 items from the Mobile Application Rating Scale (MARS) [<xref rid="ref27" ref-type="bibr">27</xref>]; one assessing perceived quality through a <italic>star</italic> rating (1 star=<italic>one of the worst text message programs</italic>, 3 stars=<italic>average</italic>, and 5 stars=<italic>one of the best text message programs</italic>) and the other assessing how much longer they would have liked to receive the text messages (range from 1=<italic>1 month</italic> to 5=<italic>5 months</italic>). Satisfaction with each program component and overall program satisfaction were assessed with 11 items, each rated on a 1 to 7 scale (range from 1=<italic>not satisfied at all</italic> to 7=<italic>very much satisfied</italic>). The <italic>likeability</italic> of each program component was assessed with 10 items, each rated on a 1 to 7 scale (range from 1=<italic>did not like it at all</italic> to 7=<italic>liked it very much</italic>); we also computed an overall likeability score by averaging across the items. We assessed the perceived impact of the text messages with a 6-item scale from the MARS [<xref rid="ref27" ref-type="bibr">27</xref>]. This scale assessed the extent to which participants randomized to the OHT group perceived that the program had an impact on their knowledge about oral health, their motivation to brush their child’s teeth, their attitude toward changing their oral health practices, and likelihood of actual behavior change [<xref rid="ref27" ref-type="bibr">27</xref>]. Each item was rated on a 5-point Likert scale (range from 1=<italic>strongly disagree</italic> to 5=<italic>strongly agree</italic>). We also assessed the perceived impact of the program on 6 key behaviors that corresponded to core and choice topics in the OHT. Participants rated the extent to which the program had an impact on each behavior using a 7-point Likert scale (range from 1=<italic>not at all</italic> to 7=<italic>very much</italic>) [<xref rid="ref27" ref-type="bibr">27</xref>].</p>
+                </sec>
+                <sec>
+                  <title>Child Brushing and Fluoride Use</title>
+                  <p>Child tooth brushing was assessed as <italic>never</italic>, <italic>sometimes but not every day</italic>, <italic>once a day</italic>, <italic>twice a day</italic>, and <italic>more than twice a day</italic> [<xref rid="ref28" ref-type="bibr">28</xref>]. Responses were collapsed into 2 levels: yes=achieved brushing recommendations (<italic>twice a day</italic> or <italic>more than twice a day</italic>) versus no (<italic>never</italic>, <italic>sometimes but not every day</italic>, or <italic>once a day</italic>). In the OHT group alone, brushing was assessed weekly through text messages in which participants were asked how many days in the last 7 days were their child’s teeth brushed and how many times each day (1, 2, or more). We computed a brushing behavior variable by multiplying the number of days (0-7) by the number of times per day the child’s teeth were brushed each week. Use of fluoride toothpaste was assessed with 1 item, “when your child's teeth are brushed, is fluoride toothpaste usually used (yes/no)?” [<xref rid="ref28" ref-type="bibr">28</xref>].</p>
+                </sec>
+                <sec>
+                  <title>Attitudes Toward Oral Health</title>
+                  <p>Attitudes toward oral health were assessed with 3 items from the Basic Risk Factors Questionnaire [<xref rid="ref29" ref-type="bibr">29</xref>-<xref rid="ref32" ref-type="bibr">32</xref>]: (1) “Children can get cavities as soon as their first tooth comes in,” (2) “It is best to use toothpaste with fluoride when brushing a child’s teeth,” and (3) “Children’s teeth should be brushed the last thing before bed.” Participants rated each on a 4-point scale (1=<italic>strongly disagree</italic>, 2=<italic>somewhat disagree</italic>, 3=<italic>somewhat agree</italic>, and 4=<italic>strongly agree</italic>). For analyses, <italic>strongly disagree</italic>, <italic>somewhat disagree</italic>, and <italic>somewhat agree</italic> were collapsed into a <italic>not strongly agree</italic> category and compared against the <italic>strongly agree</italic> group.</p>
+                </sec>
+                <sec>
+                  <title>Social Cognitive Theory Constructs</title>
+                  <p>Social Cognitive Theory constructs were assessed with measures from the Basic Risk Factors Questionnaire [<xref rid="ref32" ref-type="bibr">32</xref>]. Outcome expectations or beliefs that engaging in a behavior will produce a desired outcome was measured with 3 items: (1) “Limiting my child’s intake of sugary foods and drinks can help prevent cavities,” (2) “Drinking tap water can help prevent cavities,” and (3) “Regular dental checkups help keep children’s teeth and mouth healthy,” each rated on a 4 point scale (1=<italic>strongly disagree</italic>, 2=<italic>somewhat disagree</italic>, 3=<italic>somewhat agree</italic>, and 4=<italic>strongly agree</italic>). <italic>Strongly disagree</italic>, <italic>somewhat disagree</italic>, and <italic>somewhat agree</italic> were collapsed into <italic>not strongly agree</italic> and compared against <italic>strongly agree</italic>. Motivation was assessed with 4 items measuring participants’ degree of desire to engage in recommended oral health behaviors, each rated on a scale ranging from 1 to 5 (higher scores reflect higher motivation). Self–efficacy was assessed with 4 items that assessed participants’ perceived degree of confidence in their ability to engage in recommended oral health behaviors, each item rated on a scale ranging from 1 to 5 (higher scores reflect greater self–efficacy).</p>
+                </sec>
+                <sec>
+                  <title>Program Engagement</title>
+                  <p>Engagement was collected automatically through program interaction. We computed <italic>dose received</italic> by dividing the number of text messages sent to participants each week by the number of participants and then averaging across all weeks. A <italic>total response rate</italic> was computed by computing the number of participant–submitted responses to texts in which a response was expected and dividing this by the number of possible responses. An <italic>assessment response rate</italic> was computed by dividing the number of participants that responded to assessment texts by the number of participants. The number of <italic>unsolicited</italic> user texts (texts sent by users where a response was not expected such as <italic>emojis</italic> and <italic>thank you</italic>) was an additional index of user engagement. We also tracked the number of participants who opted into <italic>challenge weeks</italic> in which users were to set a daily behavioral goal (for the OHT group participants, the <italic>challenge</italic> was brushing their child’s teeth twice per day, and for the CWT group participants, the <italic>challenge</italic> was reading to their child for 10 min each day). For OHT group, we also assessed the proportion of participants choosing each <italic>choice</italic> module across the 8-week program. This was computed by combining the number of OHT participants that selected any given <italic>choice</italic> module every week the module was available and dividing it by the number of potential module choices (product of number of weeks a module was made available and sample size).</p>
+                </sec>
+              </sec>
+              <sec>
+                <title>Analytic Plan</title>
+                <p>At baseline, study groups were compared on sociodemographic characteristics using independent sample <italic>t</italic> tests for continuous variables or chi–square tests for categorical variables. The baseline characteristics of participants who did not complete the follow up survey (n=8) were also compared with the rest of the sample using <italic>t</italic> tests or chi–square tests as appropriate. User engagement and interaction with the program data were summarized and compared between study groups. Program satisfaction was compared between groups with <italic>t</italic> tests, and perceived program impact descriptives are presented for the OHT group.</p>
+                <p>Changes in oral health attitudes and behaviors from baseline to follow up in the OHT group compared with the CWT group were analyzed through models for longitudinal data with a group–by–time interaction representing the intervention effect. For binary outcomes, Generalized Estimating Equations (GEE) logistic regression for longitudinal data estimated the odds of achieving a behavior (eg, brushing recommendations or use of fluoride toothpaste) at follow up compared with baseline, for those in the OHT versus CWT group. For outcome expectations and attitudes toward oral health, GEE logistic regression estimated the odds of strongly versus not strongly agreeing to each construct item at follow up versus baseline, for the OHT versus CWT group. For continuous outcomes, mixed–effects linear regression models were used to compare changes in group means from baseline to follow up, in the OHT versus CWT group. Effect sizes for continuous measures are presented as Cohen <italic>d</italic> calculated on the change score between baseline and follow up. Effect sizes for binary measures are presented as odds ratios (OR) with 95% confidence intervals. Analyses were conducted on participants who completed the follow up assessment (n=47).</p>
+              </sec>
+            </sec>
+            <sec sec-type="results">
+              <title>Results</title>
+              <sec>
+                <title>Overview</title>
+                <p>As shown in <xref rid="figure1" ref-type="fig">Figure 1</xref>, 55 out of the 65 individuals (55/65, 85%) who were eligible and signed the informed consent were randomized and initiated the text messages programs; 47 out of the 55 randomized participants (47/55, 85%) completed the end of treatment assessment with no significant differences in completion rates between groups. Participants who did not complete the follow up survey (n=8) were significantly younger (mean age in years 26.8 vs 31.6; <italic>P</italic>=.02). Satisfaction data were completed by 48 participants. Only 1 participant dropped out of the text message program. Owing to a technical problem, there were 3 CWT that were scheduled to be delivered but were not delivered. A total of 2 of these text messages applied only to participants who had toddlers, and 1 text message applied only to those who chose the stress management module. Therefore, this technical problem affected &lt;2% of the text messages. There were no other unintended or harmful effect to participants.</p>
+                <fig id="figure1" position="float">
+                  <label>Figure 1</label>
+                  <caption>
+                    <p>Consolidated Standards of Reporting Trials diagram.</p>
+                  </caption>
+                  <graphic xlink:href="mhealth_v7i11e14247_fig1"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Sociodemographics</title>
+                <p>Compared with OHT, CWT group participants were more likely to be employed (χ<sup>2</sup><sub>4</sub>=14.7; <italic>P</italic>=.005) and have received information about children’s dental health at pediatric visits in the past year (χ<sup>2</sup><sub>1</sub>=4.1; <italic>P</italic>=.04). The mean age of the child was 2.7 years (SD 1.7) in the OHT group and 3.0 years (SD 1.9) in the CWT group. Out of the 28 children, 6 (6/28, 21%) in the OHT group, and out of the 27 children, 5 (5/27, 18%) in the CWT group had a history of cavities, reported via parent self–report. The baseline characteristics of the participants are shown in <xref rid="table1" ref-type="table">Table 1</xref>.</p>
+                <table-wrap id="table1" position="float">
+                  <label>Table 1</label>
+                  <caption>
+                    <p>Baseline characteristics of participants by treatment group.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+                    <col width="30" span="1"/>
+                    <col width="250" span="1"/>
+                    <col width="280" span="1"/>
+                    <col width="300" span="1"/>
+                    <col width="140" span="1"/>
+                    <thead>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Baseline characteristics</td>
+                        <td rowspan="1" colspan="1">Oral health text messages (n=28), n (%)</td>
+                        <td rowspan="1" colspan="1">Child wellness text messages (n=27), n (%)</td>
+                        <td rowspan="1" colspan="1">All (N=55), n (%)</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Female</td>
+                        <td rowspan="1" colspan="1">28 (100)</td>
+                        <td rowspan="1" colspan="1">25 (93)</td>
+                        <td rowspan="1" colspan="1">53 (96)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Parent/caregiver age (year), mean (SD)</td>
+                        <td rowspan="1" colspan="1">31.0 (6.4)</td>
+                        <td rowspan="1" colspan="1">31.0 (6.9)</td>
+                        <td rowspan="1" colspan="1">31.0 (6.6)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Below poverty line</td>
+                        <td rowspan="1" colspan="1">23 (88)<sup>a</sup></td>
+                        <td rowspan="1" colspan="1">18 (69)<sup>a</sup></td>
+                        <td rowspan="1" colspan="1">41 (79)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Less than high school education</td>
+                        <td rowspan="1" colspan="1">6 (21)</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">8 (15)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Full/part time employment<sup>b</sup></td>
+                        <td rowspan="1" colspan="1">8 (29)</td>
+                        <td rowspan="1" colspan="1">21 (78)</td>
+                        <td rowspan="1" colspan="1">29 (53)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Married/engaged/live together</td>
+                        <td rowspan="1" colspan="1">10 (36)</td>
+                        <td rowspan="1" colspan="1">5 (19)</td>
+                        <td rowspan="1" colspan="1">15 (27)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="5" rowspan="1">
+                          <bold>Race/ethnicity</bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Black—African American</td>
+                        <td rowspan="1" colspan="1">18 (64)</td>
+                        <td rowspan="1" colspan="1">18 (67)</td>
+                        <td rowspan="1" colspan="1">36 (66)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">White—non-Hispanic</td>
+                        <td rowspan="1" colspan="1">4 (14)</td>
+                        <td rowspan="1" colspan="1">0 (0)</td>
+                        <td rowspan="1" colspan="1">4 (7)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Asian</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">1 (4)</td>
+                        <td rowspan="1" colspan="1">3 (5)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Hispanic (black/white)</td>
+                        <td rowspan="1" colspan="1">3 (11)</td>
+                        <td rowspan="1" colspan="1">6 (22)</td>
+                        <td rowspan="1" colspan="1">9 (16)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Multiracial/other</td>
+                        <td rowspan="1" colspan="1">1 (4)</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">3 (6)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Received dental health information<sup>c</sup></td>
+                        <td rowspan="1" colspan="1">9 (32)</td>
+                        <td rowspan="1" colspan="1">16 (59)</td>
+                        <td rowspan="1" colspan="1">25 (45)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="2" rowspan="1">Use fluoride toothpaste</td>
+                        <td rowspan="1" colspan="1">12 (46)<sup>a</sup></td>
+                        <td rowspan="1" colspan="1">12 (48)<sup>d</sup></td>
+                        <td rowspan="1" colspan="1">24 (47)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="5" rowspan="1">
+                          <bold>Mobile communication preference<sup>e</sup></bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Text message</td>
+                        <td rowspan="1" colspan="1">21 (78)</td>
+                        <td rowspan="1" colspan="1">21 (78)</td>
+                        <td rowspan="1" colspan="1">42 (78)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Phone call</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">4 (7)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">No preference</td>
+                        <td rowspan="1" colspan="1">4 (15)</td>
+                        <td rowspan="1" colspan="1">4 (15)</td>
+                        <td rowspan="1" colspan="1">8 (15)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="5" rowspan="1">
+                          <bold>Texting frequency<sup>e</sup></bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Every day</td>
+                        <td rowspan="1" colspan="1">21 (78)</td>
+                        <td rowspan="1" colspan="1">24 (89)</td>
+                        <td rowspan="1" colspan="1">45 (83)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Most days</td>
+                        <td rowspan="1" colspan="1">6 (22)</td>
+                        <td rowspan="1" colspan="1">1 (4)</td>
+                        <td rowspan="1" colspan="1">7 (13)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Occasionally</td>
+                        <td rowspan="1" colspan="1">0 (0)</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">2 (4)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="5" rowspan="1">
+                          <bold>Number of text messages sent per day</bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">1-3</td>
+                        <td rowspan="1" colspan="1">4 (14)</td>
+                        <td rowspan="1" colspan="1">2 (7)</td>
+                        <td rowspan="1" colspan="1">6 (11)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">4-10</td>
+                        <td rowspan="1" colspan="1">7 (25)</td>
+                        <td rowspan="1" colspan="1">9 (33)</td>
+                        <td rowspan="1" colspan="1">16 (29)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">≥11</td>
+                        <td rowspan="1" colspan="1">17 (61)</td>
+                        <td rowspan="1" colspan="1">16 (59)</td>
+                        <td rowspan="1" colspan="1">33 (60)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="table1fn1">
+                      <p><sup>a</sup>n=26.</p>
+                    </fn>
+                    <fn id="table1fn2">
+                      <p><sup>b</sup><italic>P</italic>=.005.</p>
+                    </fn>
+                    <fn id="table1fn3">
+                      <p><sup>c</sup><italic>P</italic>=.04.</p>
+                    </fn>
+                    <fn id="table1fn4">
+                      <p><sup>d</sup>n=25.</p>
+                    </fn>
+                    <fn id="table1fn5">
+                      <p><sup>e</sup>Oral health text messages, n=27.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Program Satisfaction</title>
+                <p>In the OHT group, 8 out of 25 participants (8/25, 32%) showed the text messages to others compared with 11 out of 23 (11/23, 47%) in the CWT group (χ<sup>2</sup><sub>1</sub>=1.0; <italic>P</italic>=.32). Participants in both groups believed that the text messages would be helpful to family/friends (1-7 scale; OHT mean 5.7, SD 1.6; CWT mean 6.0, SD 1.0; <italic>t</italic>
+<sub>47</sub>=−0.9; <italic>P</italic>=.35), and 84% (21/25) of OHT group participants said that they would recommend the program to others. In the OHT group, 15 out of 22 (15/22, 68%) participants rated the program 4 stars or more compared with 16 out of 21 (16/21, 78%) in the CWT group (χ<sup>2</sup><sub>1</sub>=0.6; <italic>P</italic>=.34). Out of 19 participants, 12 (12/19, 63%) in the OHT group wanted the program to last up to 2 months longer, and 7 participants (7/19, 37%) indicated that they wanted the program to last ≥3 months longer, which was not significantly different from the CWT group (χ<sup>2</sup><sub>1</sub>=1.8; <italic>P</italic>=.18). Satisfaction ratings were generally high for program components (<xref rid="table2" ref-type="table">Table 2</xref>). The mean overall level of program satisfaction was also high with no significant group differences (1-7 scale range; OHT mean 6.3, SD 1.4; CWT mean 6.2, SD 0.9; <italic>t</italic>
+<sub>46</sub>=0.4; <italic>P</italic>=.70).</p>
+                <table-wrap id="table2" position="float">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Participant's satisfaction with the text message program.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+                    <col width="400" span="1"/>
+                    <col width="300" span="1"/>
+                    <col width="300" span="1"/>
+                    <thead>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Program satisfaction scale items</td>
+                        <td rowspan="1" colspan="1">Oral health text messages (n=25), mean (SD)</td>
+                        <td rowspan="1" colspan="1">Child wellness text messages (n=23), mean (SD)</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The ability to choose topics of interest to me</td>
+                        <td rowspan="1" colspan="1">6.29 (1.4)</td>
+                        <td rowspan="1" colspan="1">6.21 (1.0)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The ability to earn electronic badges</td>
+                        <td rowspan="1" colspan="1">5.66 (1.8)</td>
+                        <td rowspan="1" colspan="1">5.72 (1.2)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The ability to unlock levels of badges</td>
+                        <td rowspan="1" colspan="1">5.63 (1.9)</td>
+                        <td rowspan="1" colspan="1">5.66 (1.3)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The level of program customization to child</td>
+                        <td rowspan="1" colspan="1">6.25 (1.4)</td>
+                        <td rowspan="1" colspan="1">5.78 (1.2)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Receipt of support when needed</td>
+                        <td rowspan="1" colspan="1">6.20 (1.1)</td>
+                        <td rowspan="1" colspan="1">5.65 (1.0)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The amount of information in the text messages</td>
+                        <td rowspan="1" colspan="1">6.24 (1.3)</td>
+                        <td rowspan="1" colspan="1">5.86 (1.3)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The quality of the information in the text messages</td>
+                        <td rowspan="1" colspan="1">6.08 (1.4)</td>
+                        <td rowspan="1" colspan="1">5.86 (1.0)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Relevancy of program was for self and family</td>
+                        <td rowspan="1" colspan="1">6.32 (1.4)</td>
+                        <td rowspan="1" colspan="1">5.95 (1.1)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Age–appropriateness of the messages for child</td>
+                        <td rowspan="1" colspan="1">6.00 (1.4)</td>
+                        <td rowspan="1" colspan="1">6.21 (0.8)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The trustworthiness of the information</td>
+                        <td rowspan="1" colspan="1">6.33 (0.8)</td>
+                        <td rowspan="1" colspan="1">6.17 (0.9)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The degree to which the text messages apply to their family</td>
+                        <td rowspan="1" colspan="1">5.96 (1.6)</td>
+                        <td rowspan="1" colspan="1">6.00 (1.0)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+                <p>With regard to the <italic>likeability</italic> of program components (<xref rid="table3" ref-type="table">Table 3</xref>), there were no significant differences between groups in overall <italic>likeability</italic> scores (1-7 scale range; OHT mean 5.90, SD 1.40; CWT mean 6.00, SD 0.80; <italic>t</italic>
+<sub>46</sub>=−0.4; <italic>P</italic>=.70). Participants in both groups liked the frequency of the text messages (mean 5.75, SD 1.60), timing of the text messages (mean 5.74, SD 1.4) and text message features such as the ability to set goals (mean 6.21, SD 1.00), choose topics of interest (mean 6.40, SD 1.00), earn weekly badges (mean 5.68, SD 1.60), and participate in challenge weeks (mean 6.55, SD 0.70). With regard to the perceived impact of the program, OHT group participants indicated that taking part in the program increased their awareness of their child’s oral health (1-5 scale range; mean 4.64, SD 1.10), increased their knowledge and understanding of their child’s oral health needs (mean 4.64, SD 1.00), increased their motivation to address their child’s oral health (mean 4.64, SD 1.00), improved their attitude toward their child’s oral health (mean 4.64, SD 0.80), encouraged them to bring their child to the dentist for regular checkups (mean 4.48, SD 1.10), and helped them ensure their child’s teeth were brushed (mean 4.68, SD 1.0). OHT group participants also indicated that the program had a positive impact on brushing their child’s teeth (1-7 scale range; mean 6.40, SD 1.50), increasing the amount of their child’s tap water consumption (mean 5.48, SD 2.00), and decreasing their child’s consumption of sugar–sweetened beverages (mean 6.32, SD 1.30) and sugary foods (mean 6.12, SD 1.50). OHT group participants also indicated that the program had a positive impact on their willingness to take their child to the dentist (mean 5.84, SD 2.0) and overall knowledge about their child's oral health (mean 6.20, SD 1.5).</p>
+                <table-wrap id="table3" position="float">
+                  <label>Table 3</label>
+                  <caption>
+                    <p>Likeability of the text message program.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+                    <col width="640" span="1"/>
+                    <col width="180" span="1"/>
+                    <col width="180" span="1"/>
+                    <thead>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Likeability scale items</td>
+                        <td rowspan="1" colspan="1">Oral health text messages (n=25), mean (SD)</td>
+                        <td rowspan="1" colspan="1">Child wellness text messages (n=23), mean (SD)</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Responding to text message questions on a daily basis</td>
+                        <td rowspan="1" colspan="1">5.52 (1.8)</td>
+                        <td rowspan="1" colspan="1">5.82 (1.2)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Responding to text messages about the frequency of the target behavior (brushing or reading)</td>
+                        <td rowspan="1" colspan="1">5.88 (1.6)</td>
+                        <td rowspan="1" colspan="1">6.00 (1.0)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Setting goals</td>
+                        <td rowspan="1" colspan="1">6.41 (0.9)</td>
+                        <td rowspan="1" colspan="1">6.00 (1.2)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The ability to choose text message topics of interest to you</td>
+                        <td rowspan="1" colspan="1">6.25 (1.4)</td>
+                        <td rowspan="1" colspan="1">6.56 (0.6)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Receiving information about a particular topic</td>
+                        <td rowspan="1" colspan="1">6.29 (1.4)</td>
+                        <td rowspan="1" colspan="1">6.30 (0.8)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The frequency with which texts were delivered</td>
+                        <td rowspan="1" colspan="1">5.64 (2.0)</td>
+                        <td rowspan="1" colspan="1">5.86 (1.3)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">The time of the day texts were received</td>
+                        <td rowspan="1" colspan="1">5.83 (1.6)</td>
+                        <td rowspan="1" colspan="1">5.65 (1.2)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Earning weekly badges</td>
+                        <td rowspan="1" colspan="1">5.65 (2.0)</td>
+                        <td rowspan="1" colspan="1">5.72 (1.4)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Earning monthly animated characters (<italic>SuperTooth Heroes</italic> or <italic>Book Buddies</italic>)</td>
+                        <td rowspan="1" colspan="1">5.60 (2.0)</td>
+                        <td rowspan="1" colspan="1">5.47 (1.3)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">Participating in a <italic>challenge week</italic></td>
+                        <td rowspan="1" colspan="1">6.79 (0.5)</td>
+                        <td rowspan="1" colspan="1">6.30 (0.8)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Child Brushing and Fluoride Use</title>
+                <p>The proportion of participants meeting pediatric brushing recommendations increased from baseline to follow up in both groups, with the effect size favoring OHT (OR 1.37, 95% CI 0.28-6.50). In the OHT group, brushing was also assessed weekly through text messages, and increased rates of brushing was reported over the course of the 8-week program (time effect <italic>F</italic><sub>1,94</sub>=8.4; <italic>P</italic>=.005; see <xref ref-type="supplementary-material" rid="app1">Multimedia Appendix 1</xref>). The proportions of participants using fluoride toothpaste to brush their child’s teeth increased from baseline to follow up in both groups, with the effect size favoring CWT (OR 0.81, 95% CI 0.25-2.65).</p>
+              </sec>
+              <sec>
+                <title>Attitudes Toward Oral Health</title>
+                <p>As shown in <xref rid="table4" ref-type="table">Table 4</xref>, the proportion of participants strongly agreeing that “children can get cavities in baby’s teeth” increased from baseline to follow up in both groups, with the effect size favoring the OHT group (OR 1.98, 95% CI 0.54-7.18). The proportion of participants strongly agreeing that “it is best to use toothpaste with fluoride when brushing a child’s teeth” increased from baseline to follow up in the OHT group alone (OR 3.82, 95% CI 0.90-16.80), and the proportion strongly agreeing that “children’s teeth should be brushed the last thing before bed” increased in both groups, with the effect size favoring the OHT group (OR 2.07, 95% CI 0.10-41.50).</p>
+                <table-wrap id="table4" position="float">
+                  <label>Table 4</label>
+                  <caption>
+                    <p>Oral health behaviors and attitudes.</p>
+                  </caption>
+                  <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+                    <col width="30" span="1"/>
+                    <col width="300" span="1"/>
+                    <col width="110" span="1"/>
+                    <col width="130" span="1"/>
+                    <col width="130" span="1"/>
+                    <col width="130" span="1"/>
+                    <col width="170" span="1"/>
+                    <thead>
+                      <tr valign="top">
+                        <td rowspan="2" colspan="2"> Oral health behavior and attitudes</td>
+                        <td colspan="2" rowspan="1">Baseline</td>
+                        <td colspan="2" rowspan="1">Follow up</td>
+                        <td rowspan="2" colspan="1">Odds Ratio (95% CI)</td>
+                      </tr>
+                      <tr valign="bottom">
+                        <td rowspan="1" colspan="1">OHT<sup>a</sup> n/N, n (%)</td>
+                        <td rowspan="1" colspan="1">CWT<sup>b</sup> n/N, n (%)</td>
+                        <td rowspan="1" colspan="1">OHT n/N, n (%)</td>
+                        <td rowspan="1" colspan="1">CWT n/N, n (%)</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr valign="top">
+                        <td colspan="7" rowspan="1">
+                          <bold>Oral health behavior</bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Achieved child brushing recommendations<sup>c</sup>
+</td>
+                        <td rowspan="1" colspan="1">17/26 (65)</td>
+                        <td rowspan="1" colspan="1">15/24 (62)</td>
+                        <td rowspan="1" colspan="1">17/22 (77)</td>
+                        <td rowspan="1" colspan="1">16/23 (70)</td>
+                        <td rowspan="1" colspan="1">1.37 (0.28-6.5)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Used fluoride toothpaste to brush child’s teeth</td>
+                        <td rowspan="1" colspan="1">12/26 (46)</td>
+                        <td rowspan="1" colspan="1">12/25 (48)</td>
+                        <td rowspan="1" colspan="1">14/22 (64)</td>
+                        <td rowspan="1" colspan="1">14/21 (67)</td>
+                        <td rowspan="1" colspan="1">0.81 (0.25-2.65)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="7" rowspan="1">
+                          <bold>Attitudes toward oral health (strongly agree)</bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Children can get cavities in baby's teeth</td>
+                        <td rowspan="1" colspan="1">6/25 (24)</td>
+                        <td rowspan="1" colspan="1">10/26 (38)</td>
+                        <td rowspan="1" colspan="1">11/24 (46)</td>
+                        <td rowspan="1" colspan="1">11/22 (50)</td>
+                        <td rowspan="1" colspan="1">1.98 (0.54-7.18)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Best to use fluoride toothpaste for children</td>
+                        <td rowspan="1" colspan="1">9/21 (43)</td>
+                        <td rowspan="1" colspan="1">15/24 (62)</td>
+                        <td rowspan="1" colspan="1">15/22 (68)</td>
+                        <td rowspan="1" colspan="1">12/22 (54)</td>
+                        <td rowspan="1" colspan="1">3.82 (0.90-16.8)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Should brush teeth last thing before bed</td>
+                        <td rowspan="1" colspan="1">21/25 (84)</td>
+                        <td rowspan="1" colspan="1">22/26 (85)</td>
+                        <td rowspan="1" colspan="1">23/24 (96)</td>
+                        <td rowspan="1" colspan="1">21/23 (91)</td>
+                        <td rowspan="1" colspan="1">2.07 (0.10-41.50)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td colspan="7" rowspan="1">
+                          <bold>Outcome expectations (strongly agree)</bold>
+                        </td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Limiting sugary foods helps prevent cavities</td>
+                        <td rowspan="1" colspan="1">19/25 (76)</td>
+                        <td rowspan="1" colspan="1">19/26 (73)</td>
+                        <td rowspan="1" colspan="1">21/24 (87)</td>
+                        <td rowspan="1" colspan="1">18/23 (78)</td>
+                        <td rowspan="1" colspan="1">1.68 (0.23-11.80)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Drinking tap water helps prevent cavities</td>
+                        <td rowspan="1" colspan="1">5/22 (23)</td>
+                        <td rowspan="1" colspan="1">4/26 (15)</td>
+                        <td rowspan="1" colspan="1">8/22 (36)</td>
+                        <td rowspan="1" colspan="1">4/20 (20)</td>
+                        <td rowspan="1" colspan="1">1.42 (0.24-8.60)</td>
+                      </tr>
+                      <tr valign="top">
+                        <td rowspan="1" colspan="1">
+                          <break/>
+                        </td>
+                        <td rowspan="1" colspan="1">Dental checkups help keep teeth healthy</td>
+                        <td rowspan="1" colspan="1">20/26 (77)</td>
+                        <td rowspan="1" colspan="1">23/26 (88)</td>
+                        <td rowspan="1" colspan="1">23/24 (96)</td>
+                        <td rowspan="1" colspan="1">21/23 (91)</td>
+                        <td rowspan="1" colspan="1">4.70 (0.24-91.40)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="table4fn1">
+                      <p><sup>a</sup>OHT: oral health text message.</p>
+                    </fn>
+                    <fn id="table4fn2">
+                      <p><sup>b</sup>CWT: child wellness text message.</p>
+                    </fn>
+                    <fn id="table4fn3">
+                      <p><bold><sup>c</sup></bold>Brushing twice per day, 6 or more days per week.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Social Cognitive Theory Constructs</title>
+                <p>With regard to outcome expectations, <xref rid="table4" ref-type="table">Table 4</xref> shows that the proportion of participants strongly agreeing that “limiting children’s intake of sugary foods helps prevent cavities” increased from baseline to follow up in both groups, with the effect size favoring the OHT group (OR 1.68, 95% CI 0.23-11.80). There was a similar pattern for the belief that “drinking tap water can help prevent cavities,” with the effect size favoring the OHT group (OR 1.42, 95% CI 0.24-8.60), and for “regular dental check–ups help keep children’s teeth and mouth healthy,” with the effect size in favor of the OHT group (OR 4.68, 95% CI 0.24-91.40).</p>
+                <p>Participants' motivation to engage in oral health promoting behaviors score increased between baseline (OHT mean 4.31 and CWT mean 4.42) and follow up (OHT mean 4.64 and CWT mean 4.52) in both groups, with the effect size favoring the OHT group (d=0.28) and no significant between–group differences (<italic>F</italic><sub>1,53</sub>=0.60; <italic>P</italic>=.45). A similar pattern emerged for self–efficacy. Scores increased between baseline (OHT mean 4.50 and CWT mean 4.60) and follow up (OHT mean 4.76 and CWT mean 4.76) in both groups, with the effect size favoring the OHT group (d=0.16) and no significant between–group differences (<italic>F</italic><sub>1,53</sub>=0.24; <italic>P</italic>=.63).</p>
+              </sec>
+              <sec>
+                <title>Program Engagement</title>
+                <p>The mean weekly number of texts sent was comparable between groups (15.3 in OHT vs 15.4 in CWT), indicating dose equivalence. Aggregating over the 8-week study period, in the OHT group, there were 1040 responses out of the 1512 (1040/1512, 68.8% overall total response rate) possible responses, whereas in the CWT group, there were 1167 responses out of the 1463 (1167/1463, 79.8% overall total response rate) possible responses. Response to text messages did not taper off as the program progressed, remaining consistent across weeks for both groups (see <xref ref-type="supplementary-material" rid="app2">Multimedia Appendix 2</xref>). Averaging across the study period, of the 28 OHT group participants, the mean number of participants responding to weekly assessment texts was 19.3 (19.3/28, 69% overall assessment response rate). Of the 27 CWT group participants, the mean number of participants responding to weekly assessment texts was 19 (19/27, 70% overall assessment response rate). Of the 28 OHT group participants, 16 (16/28, 57%) opted into at least one of the 2 possible <italic>challenge weeks</italic>. Of the 27 CWT group participants, 17 (17/27, 63%) opted into at least one of the 2 possible <italic>challenge weeks</italic>. Participants in the OHT group sent a total of 439 <italic>unsolicited</italic> text messages and participants in the CWT group sent a total of 475 unsolicited text messages during the 8 week program. With regard to choosing <italic>choice</italic> topics, aggregating over 8 weeks when <italic>bedtime routine</italic> was offered, 42% (35/84) selected the module; when <italic>bottle/sippy cup</italic> was offered, 21% (23/112) selected the module; when <italic>fun facts</italic> was offered, 30% (25/84) selected the module; when <italic>getting fluoride</italic> was offered, 32% (27/84) selected the module; when <italic>healthy eating</italic> was offered, 51% (57/112) selected the module; and when <italic>sugar–sweetened beverages</italic> was offered, 26% (29/112) selected the module.</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion">
+              <title>Discussion</title>
+              <sec>
+                <title>Principal Findings</title>
+                <p>Sustainability of health behavior change is greatest if interventions are integrated into existing channels and woven into the fabric of people's lives. Our study incorporated both of these elements by partnering with pediatric clinics regularly visited by underserved families and using text messages, a preferred and near–universal form of communication. Text message interventions have the advantage of reaching large segments of previously unreachable populations with evidenced–based information, in real time and real–life settings. No previous studies have tested text messages to improve the oral health of at–risk children in a randomized controlled trial, matching for treatment dose and intensity. Our pilot study showed proof of concept of our OHT intervention with 4 principal findings: (1) OHT was perceived as highly acceptable and satisfactory, (2) participants in both conditions demonstrated a high level of engagement, (3) OHT had an impact on parent’s attitudes toward oral health and social cognitive mediators, and (4) the program showed preliminary effectiveness at increasing brushing behaviors among those randomized to the OHT versus CWT group.</p>
+                <p>The high levels of acceptability and satisfaction reported by participants could be a function of the fact that we co–designed the program content and structure with the target population. Focus groups and interviews enabled us to ascertain participant preferences about the <italic>surface structure</italic> of the program (look and feel and images of the electronic badges) and the <italic>deep structure</italic> of the program (values and beliefs of the population) [<xref rid="ref33" ref-type="bibr">33</xref>]. Collecting both quantitative and qualitative data during program development helped ensure that the words and images used were acceptable and incorporated cultural preferences and ensure that we could address any knowledge gaps and myths about oral health behaviors. We assessed satisfaction not only for the program as a whole but also for each program component, which has been rarely reported in the literature but is essential for the design of effective programs. Aside from self–report of satisfaction, another indicator of program satisfaction is whether or not participants report sharing the text messages with others. A large minority of our participants indicated that they shared the texts with family and friends. Thus, the program could also have a <italic>contagion</italic> effect, that is, unmeasured effects within each person’s social network.</p>
+                <p>Our strategies for engagement not only included <italic>static</italic> strategies, such as personalization and customization, but also included <italic>dynamic</italic> strategies that required participant interaction, such as quizzes on fun facts, the ability to earn child–friendly electronic badges, and enticement to <italic>unlock</italic> access to other characters. Program engagement was high on all 3 indicators and did not significantly differ between groups. It is important to have several indicators of engagement to avoid masking differential engagement rates, such as those that might exist between overall program responses and responses to research–related text messages. In addition, few, if any studies, have reported on <italic>unsolicited</italic> texts from participants, but this is also an important indicator of engagement because proactive responding could be an indicator of deeper processing of the text messages by participants, rather than simply reacting to text messages. Of the 3 studies that have used text messages for pediatric oral health, only 1 reported on program engagement, but that program was only 7 days in duration [<xref rid="ref14" ref-type="bibr">14</xref>].</p>
+                <p>Few studies have examined the effect of a pediatric oral health intervention on parental attitudes, and previous studies have supported the association between attitudes and behavior [<xref rid="ref28" ref-type="bibr">28</xref>]. Our findings indicated that, with the exception of using fluoridated toothpaste to brush their child’s teeth, OHT consistently showed promise for changing caregiver attitudes and behaviors toward their child’s oral health. No studies to date have used theory (Social Cognitive Theory) to develop a comprehensive oral health intervention to improve children’s oral health through text messages. It may be that the development of text messages grounded in theory is an important factor in improving both parental attitudes and behaviors toward child’s oral health. This is supported by the fact that OHT also showed promise for changing variables integral to the Social Cognitive Theory, such as motivation, self–efficacy, and outcome expectations.</p>
+                <p>Feasibility studies are used to determine whether an intervention is appropriate for further testing, particularly when there are few or no published studies on a particular intervention technique [<xref rid="ref34" ref-type="bibr">34</xref>]. Our study met the criteria for intervention feasibility outlined by Bowen et al [<xref rid="ref34" ref-type="bibr">34</xref>]. Specifically, we demonstrated acceptability (satisfaction and perceived appropriateness), demand (participants were engaged with the program), implementation (successful execution; no technical problems with the text messages), practicality (ease and quality of implementation and low burden on patients and providers), integration (fit into clinic work flow and lack of disruption of clinical care), and limited efficacy (intended effects of the program on key variables; perceived impact).</p>
+              </sec>
+              <sec>
+                <title>Limitations</title>
+                <p>The primary purpose of the study was feasibility rather than a fully powered clinical trial, so caution should be used when interpreting group differences because of the lack of power. The small sample precludes generalization to the larger population, and as the sample was mostly women and those whose income was below the poverty line, it is unclear if the program would also be acceptable to men and those having higher incomes. Generalizability was also limited by our inclusion and exclusion criteria, which included adequate ability to read health–related material, no previous or current serious mental illness, and no current alcohol or drug abuse. These limitations are offset by the strengths of our study design, which matched groups on text message dose, frequency, and features; creative engagement strategies; objective measurement of engagement; targeting a high–risk population; and implementation in a real–world setting.</p>
+              </sec>
+              <sec>
+                <title>Conclusions</title>
+                <p>Dissemination of text message interventions is highly viable given the high rate of SMS text messaging and lack of disparities by income, race, or ethnicity. Text message interventions could be disseminated at low cost and are delivered exactly as designed, resulting in 100% reliable intervention. This study provides evidence that a larger fully powered randomized controlled trial with objective outcomes (clinical exam) should be conducted. If effective, the program could be disseminated nationally to other federally qualified pediatric clinics that serve vulnerable and high–risk populations.</p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>This study was funded by the National Institute of Dental and Craniofacial Research UH2 DE025492 to BB (lead co–principal investigator) and MH (co–principal investigator).</p>
+            </ack>
+            <fn-group>
+              <fn fn-type="COI-statement">
+                <p>Conflicts of Interest: SW is the chief executive officer of Agile Health, the company that deployed the text messages described in this study.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Editorial Notice:</bold> This randomized study has not been registered, explained by authors with "During the time of study start-up, the rules regarding clinical trial registration were unclear for pilot feasibility studies and we were advised not to register it." The editor granted an exception from ICMJE rules mandating prospective registration of randomized trials because the risk of bias appears low and the study was considered formative, guiding the development of the application. However, readers are advised to carefully assess the validity of any potential explicit or implicit claims related to primary outcomes or effectiveness, as retrospective registration does not prevent authors from changing their outcome measures retrospectively.</p>
+              </fn>
+            </fn-group>
+            <app-group>
+              <app>
+                <title>Appendix</title>
+                <supplementary-material content-type="local-data" id="app1">
+                  <label>Multimedia Appendix 1</label>
+                  <p>Engagement and interaction with the text message program over time.</p>
+                  <media xlink:href="mhealth_v7i11e14247_app1.pdf" xlink:title="PDF File (Adobe PDF File), 77 KB" xlink:type="simple" id="d35e1920" position="anchor"/>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="app2">
+                  <label>Multimedia Appendix 2</label>
+                  <p>Changes in child brushing over time in the oral health text messages group.</p>
+                  <media xlink:href="mhealth_v7i11e14247_app2.pdf" xlink:title="PDF File (Adobe PDF File), 52 KB" xlink:type="simple" id="d35e1926" position="anchor"/>
+                </supplementary-material>
+                <supplementary-material content-type="local-data" id="app3">
+                  <label>Multimedia Appendix 3</label>
+                  <p>CONSORT-EHEALTH checklist (V 1.6.1).</p>
+                  <media xlink:href="mhealth_v7i11e14247_app3.pdf" xlink:title="PDF File (Adobe PDF File), 2819 KB" xlink:type="simple" id="d35e1932" position="anchor"/>
+                </supplementary-material>
+              </app>
+            </app-group>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term id="abb1">CWT</term>
+                  <def>
+                    <p>child wellness text messages</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term id="abb2">GEE</term>
+                  <def>
+                    <p>Generalized Estimating Equations</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term id="abb3">MARS</term>
+                  <def>
+                    <p>Mobile Application Rating Scale</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term id="abb4">OHT</term>
+                  <def>
+                    <p>oral health text messages</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term id="abb5">OR</term>
+                  <def>
+                    <p>odds ratio</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term id="abb6">SMS</term>
+                  <def>
+                    <p>short message service</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <ref-list>
+              <ref id="ref1">
+                <label>1</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dye</surname>
+                      <given-names>BA</given-names>
+                    </name>
+                    <name>
+                      <surname>Mitnik</surname>
+                      <given-names>GL</given-names>
+                    </name>
+                    <name>
+                      <surname>Iafolla</surname>
+                      <given-names>TJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Vargas</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trends in dental caries in children and adolescents according to poverty status in the United States from 1999 through 2004 and from 2011 through 2014</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2017</year>
+                  <month>12</month>
+                  <volume>148</volume>
+                  <issue>8</issue>
+                  <fpage>550</fpage>
+                  <lpage>65.e7</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2017.04.013</pub-id>
+                  <pub-id pub-id-type="medline">28619207</pub-id>
+                  <!--<pub-id pub-id-type="pii">S0002-8177(17)30348-3</pub-id>-->
+                  <pub-id pub-id-type="pmid">28619207</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref2">
+                <label>2</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preventing childhood caries: a review of recent behavioral research</article-title>
+                  <source>J Dent Res</source>
+                  <year>2016</year>
+                  <month>1</month>
+                  <volume>95</volume>
+                  <issue>1</issue>
+                  <fpage>35</fpage>
+                  <lpage>42</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/26438210"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1177/0022034515609034</pub-id>
+                  <pub-id pub-id-type="medline">26438210</pub-id>
+                  <!--<pub-id pub-id-type="pii">0022034515609034</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC4700662</pub-id>-->
+                  <pub-id pub-id-type="pmid">26438210</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref3">
+                <label>3</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Finlayson</surname>
+                      <given-names>TL</given-names>
+                    </name>
+                    <name>
+                      <surname>Siefert</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ismail</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                    <name>
+                      <surname>Delva</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sohn</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reliability and validity of brief measures of oral health-related knowledge, fatalism, and self-efficacy in mothers of African American children</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2005</year>
+                  <volume>27</volume>
+                  <issue>5</issue>
+                  <fpage>422</fpage>
+                  <lpage>8</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/16435644"/>
+                  </comment>
+                  <pub-id pub-id-type="medline">16435644</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC1388259</pub-id>-->
+                  <pub-id pub-id-type="pmid">16435644</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref4">
+                <label>4</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bouchery</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Utilization of dental services among medicaid-enrolled children</article-title>
+                  <source>Medicare Medicaid Res Rev</source>
+                  <year>2013</year>
+                  <volume>3</volume>
+                  <issue>3</issue>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/24753978"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.5600/mmrr.003.03.b04</pub-id>
+                  <pub-id pub-id-type="medline">24753978</pub-id>
+                  <!--<pub-id pub-id-type="pii">mmrr2013-003-03-b04</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC3983737</pub-id>-->
+                </element-citation>
+              </ref>
+              <ref id="ref5">
+                <label>5</label>
+                <element-citation publication-type="webpage">
+                  <source>Child Trends</source>
+                  <year>2018</year>
+                  <date-in-citation>2019-03-15</date-in-citation>
+                  <comment>Well-Child Visits: Key Facts About Well-Child Visits. <ext-link ext-link-type="uri" xlink:href="https://www.childtrends.org/?indicators=well-child-visits">https://www.childtrends.org/?indicators=well-child-visits</ext-link></comment>
+                </element-citation>
+              </ref>
+              <ref id="ref6">
+                <label>6</label>
+                <element-citation publication-type="webpage">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Duggan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <source>Pew Research Center</source>
+                  <year>2012</year>
+                  <date-in-citation>2019-03-15</date-in-citation>
+                  <comment>Cell Phone Activities 2012. <ext-link ext-link-type="uri" xlink:href="http://www.pewinternet.org/2012/11/25/cell-phone-activities-2012/">http://www.pewinternet.org/2012/11/25/cell-phone-activities-2012/</ext-link></comment>
+                </element-citation>
+              </ref>
+              <ref id="ref7">
+                <label>7</label>
+                <element-citation publication-type="webpage">
+                  <source>Pew Research Center</source>
+                  <year>2019</year>
+                  <date-in-citation>2019-03-15</date-in-citation>
+                  <comment>Mobile Fact Sheet. <ext-link ext-link-type="uri" xlink:href="http://www.pewinternet.org/fact-sheet/mobile/">http://www.pewinternet.org/fact-sheet/mobile/</ext-link></comment>
+                </element-citation>
+              </ref>
+              <ref id="ref8">
+                <label>8</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Guerriero</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Cairns</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodgers</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Whittaker</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Free</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The cost-effectiveness of smoking cessation support delivered by mobile phone text messaging: Txt2Stop</article-title>
+                  <source>Eur J Health Econ</source>
+                  <year>2013</year>
+                  <month>10</month>
+                  <volume>14</volume>
+                  <issue>5</issue>
+                  <fpage>789</fpage>
+                  <lpage>97</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/22961230"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1007/s10198-012-0424-5</pub-id>
+                  <pub-id pub-id-type="medline">22961230</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC3751449</pub-id>-->
+                  <pub-id pub-id-type="pmid">22961230</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref9">
+                <label>9</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>YF</given-names>
+                    </name>
+                    <name>
+                      <surname>Madan</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Welton</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Yahaya</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Aveyard</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Bauld</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Fry-Smith</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Munafò</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effectiveness and cost-effectiveness of computer and other electronic aids for smoking cessation: a systematic review and network meta-analysis</article-title>
+                  <source>Health Technol Assess</source>
+                  <year>2012</year>
+                  <volume>16</volume>
+                  <issue>38</issue>
+                  <fpage>1</fpage>
+                  <lpage>205, iii-v</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://www.journalslibrary.nihr.ac.uk/hta/volume-16/issue-38"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.3310/hta16380</pub-id>
+                  <pub-id pub-id-type="medline">23046909</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref10">
+                <label>10</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Scott-Sheldon</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <name>
+                      <surname>Lantini</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Jennings</surname>
+                      <given-names>EG</given-names>
+                    </name>
+                    <name>
+                      <surname>Thind</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosen</surname>
+                      <given-names>RK</given-names>
+                    </name>
+                    <name>
+                      <surname>Salmoirago-Blotcher</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Bock</surname>
+                      <given-names>BC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Text messaging-based interventions for smoking cessation: a systematic review and meta-analysis</article-title>
+                  <source>JMIR Mhealth Uhealth</source>
+                  <year>2016</year>
+                  <month>5</month>
+                  <day>20</day>
+                  <volume>4</volume>
+                  <issue>2</issue>
+                  <fpage>e49</fpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://mhealth.jmir.org/2016/2/e49/"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.2196/mhealth.5436</pub-id>
+                  <pub-id pub-id-type="medline">27207211</pub-id>
+                  <!--<pub-id pub-id-type="pii">v4i2e49</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC4893152</pub-id>-->
+                  <pub-id pub-id-type="pmid">27207211</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref11">
+                <label>11</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Saffari</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ghanizadeh</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Koenig</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Health education via mobile text messaging for glycemic control in adults with type 2 diabetes: a systematic review and meta-analysis</article-title>
+                  <source>Prim Care Diabetes</source>
+                  <year>2014</year>
+                  <month>12</month>
+                  <volume>8</volume>
+                  <issue>4</issue>
+                  <fpage>275</fpage>
+                  <lpage>85</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.pcd.2014.03.004</pub-id>
+                  <pub-id pub-id-type="medline">24793589</pub-id>
+                  <!--<pub-id pub-id-type="pii">S1751-9918(14)00041-2</pub-id>-->
+                  <pub-id pub-id-type="pmid">24793589</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref12">
+                <label>12</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Finitsis</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Pellowski</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>BT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Text message intervention designs to promote adherence to antiretroviral therapy (ART): a meta-analysis of randomized controlled trials</article-title>
+                  <source>PLoS One</source>
+                  <year>2014</year>
+                  <month>2</month>
+                  <day>5</day>
+                  <volume>9</volume>
+                  <issue>2</issue>
+                  <fpage>e88166</fpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://dx.plos.org/10.1371/journal.pone.0088166"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0088166</pub-id>
+                  <pub-id pub-id-type="medline">24505411</pub-id>
+                  <!--<pub-id pub-id-type="pii">PONE-D-13-33524</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC3914915</pub-id>-->
+                  <pub-id pub-id-type="pmid">24505411</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref13">
+                <label>13</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stockwell</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kharbanda</surname>
+                      <given-names>EO</given-names>
+                    </name>
+                    <name>
+                      <surname>Martinez</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Vargas</surname>
+                      <given-names>CY</given-names>
+                    </name>
+                    <name>
+                      <surname>Vawdrey</surname>
+                      <given-names>DK</given-names>
+                    </name>
+                    <name>
+                      <surname>Camargo</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of a text messaging intervention on influenza vaccination in an urban, low-income pediatric and adolescent population: a randomized controlled trial</article-title>
+                  <source>J Am Med Assoc</source>
+                  <year>2012</year>
+                  <month>4</month>
+                  <day>25</day>
+                  <volume>307</volume>
+                  <issue>16</issue>
+                  <fpage>1702</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1001/jama.2012.502</pub-id>
+                  <pub-id pub-id-type="medline">22535855</pub-id>
+                  <!--<pub-id pub-id-type="pii">307/16/1702</pub-id>-->
+                </element-citation>
+              </ref>
+              <ref id="ref14">
+                <label>14</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hashemian</surname>
+                      <given-names>TS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kritz-Silverstein</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Baker</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Text2Floss: the feasibility and acceptability of a text messaging intervention to improve oral health behavior and knowledge</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>2015</year>
+                  <volume>75</volume>
+                  <issue>1</issue>
+                  <fpage>34</fpage>
+                  <lpage>41</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jphd.12068</pub-id>
+                  <pub-id pub-id-type="medline">25091471</pub-id>
+                  <pub-id pub-id-type="pmid">25091471</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref15">
+                <label>15</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sharma</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Hebbal</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ankola</surname>
+                      <given-names>AV</given-names>
+                    </name>
+                    <name>
+                      <surname>Murugabupathy</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mobile-phone text messaging (SMS) for providing oral health education to mothers of preschool children in Belgaum City</article-title>
+                  <source>J Telemed Telecare</source>
+                  <year>2011</year>
+                  <volume>17</volume>
+                  <issue>8</issue>
+                  <fpage>432</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1258/jtt.2011.110416</pub-id>
+                  <pub-id pub-id-type="medline">22025742</pub-id>
+                  <!--<pub-id pub-id-type="pii">jtt.2011.110416</pub-id>-->
+                  <pub-id pub-id-type="pmid">22025742</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref16">
+                <label>16</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Makvandi</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Karimi-Shahanjarini</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Faradmal</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Bashirian</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of an oral health intervention among mothers of young children: a clustered randomized trial</article-title>
+                  <source>J Res Health Sci</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <issue>2</issue>
+                  <fpage>88</fpage>
+                  <lpage>93</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://jrhs.umsha.ac.ir/index.php/JRHS/article/view/1955/"/>
+                  </comment>
+                  <pub-id pub-id-type="medline">26175290</pub-id>
+                  <!--<pub-id pub-id-type="pii">1955</pub-id>-->
+                  <pub-id pub-id-type="pmid">26175290</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref17">
+                <label>17</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>American Academy on Pediatric Dentistry</collab>
+                    <collab>American Academy of Pediatrics</collab>
+                  </person-group>
+                  <article-title>Policy on early childhood caries (ECC): classifications, consequences, and preventive strategies</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2008</year>
+                  <volume>30</volume>
+                  <issue>7 Suppl</issue>
+                  <fpage>40</fpage>
+                  <lpage>3</lpage>
+                  <pub-id pub-id-type="medline">19216381</pub-id>
+                  <pub-id pub-id-type="pmid">19216381</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref18">
+                <label>18</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>American Academy on Pediatric Dentistry Council on Clinical Affairs</collab>
+                  </person-group>
+                  <article-title>Policy on early childhood caries (ECC): unique challenges and treatment option</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2008</year>
+                  <volume>30</volume>
+                  <issue>7 Suppl</issue>
+                  <fpage>44</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="medline">19216382</pub-id>
+                  <pub-id pub-id-type="pmid">19216382</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref19">
+                <label>19</label>
+                <element-citation publication-type="confproc">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Borrelli</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Henshaw</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosen</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Endrighi</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Heeren</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Diamond</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mixed Methods to Develop Parent-targeted Pediatric Oral Health Text Messages</article-title>
+                  <source>Proceedings of the International Association for Dental Research</source>
+                  <year>2017</year>
+                  <conf-name>IADR'17</conf-name>
+                  <conf-date>March 22-25, 2017</conf-date>
+                  <conf-loc>San Francisco, CA</conf-loc>
+                </element-citation>
+              </ref>
+              <ref id="ref20">
+                <label>20</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bandura</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <source>Social Foundations Of Thought And Action: A Social Cognitive Theory</source>
+                  <year>1986</year>
+                  <publisher-loc>Upper Saddle River, NJ</publisher-loc>
+                  <publisher-name>Prentice Hall</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="ref21">
+                <label>21</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rimer</surname>
+                      <given-names>BK</given-names>
+                    </name>
+                    <name>
+                      <surname>Glanz</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <source>Theory at a Glance: A Guide for Health Promotion Practice. Second edition</source>
+                  <year>2005</year>
+                  <publisher-loc>Washington, DC</publisher-loc>
+                  <publisher-name>US Department of Health and Human Services</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="ref22">
+                <label>22</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bandura</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Freeman</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                    <name>
+                      <surname>Lightsey</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <source>Self-Efficacy: The Exercise of Control</source>
+                  <year>1997</year>
+                  <publisher-loc>New York</publisher-loc>
+                  <publisher-name>Worth Publishers</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="ref23">
+                <label>23</label>
+                <element-citation publication-type="webpage">
+                  <source>Healthy Children</source>
+                  <year>2019</year>
+                  <date-in-citation>2019-03-15</date-in-citation>
+                  <comment>The AAP Parenting Website. <ext-link ext-link-type="uri" xlink:href="https://www.healthychildren.org/English/Pages/default.aspx">https://www.healthychildren.org/English/Pages/default.aspx</ext-link></comment>
+                </element-citation>
+              </ref>
+              <ref id="ref24">
+                <label>24</label>
+                <element-citation publication-type="webpage">
+                  <source>Bright Futures - AAP</source>
+                  <year>2019</year>
+                  <date-in-citation>2019-03-15</date-in-citation>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="https://brightfutures.aap.org/Pages/default.aspx">https://brightfutures.aap.org/Pages/default.aspx</ext-link>
+                  </comment>
+                </element-citation>
+              </ref>
+              <ref id="ref25">
+                <label>25</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Morris</surname>
+                      <given-names>NS</given-names>
+                    </name>
+                    <name>
+                      <surname>MacLean</surname>
+                      <given-names>CD</given-names>
+                    </name>
+                    <name>
+                      <surname>Chew</surname>
+                      <given-names>LD</given-names>
+                    </name>
+                    <name>
+                      <surname>Littenberg</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The single item literacy screener: evaluation of a brief instrument to identify limited reading ability</article-title>
+                  <source>BMC Fam Pract</source>
+                  <year>2006</year>
+                  <month>3</month>
+                  <day>24</day>
+                  <volume>7</volume>
+                  <fpage>21</fpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="https://bmcfampract.biomedcentral.com/articles/10.1186/1471-2296-7-21"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1186/1471-2296-7-21</pub-id>
+                  <pub-id pub-id-type="medline">16563164</pub-id>
+                  <!--<pub-id pub-id-type="pii">1471-2296-7-21</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC1435902</pub-id>-->
+                  <pub-id pub-id-type="pmid">16563164</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref26">
+                <label>26</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bush</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kivlahan</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>McDonell</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Fihn</surname>
+                      <given-names>SD</given-names>
+                    </name>
+                    <name>
+                      <surname>Bradley</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory care quality improvement project (ACQUIP). Alcohol use disorders identification test</article-title>
+                  <source>Arch Intern Med</source>
+                  <year>1998</year>
+                  <month>9</month>
+                  <day>14</day>
+                  <volume>158</volume>
+                  <issue>16</issue>
+                  <fpage>1789</fpage>
+                  <lpage>95</lpage>
+                  <pub-id pub-id-type="medline">9738608</pub-id>
+                  <pub-id pub-id-type="pmid">9738608</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref27">
+                <label>27</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stoyanov</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Hides</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Kavanagh</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Zelenko</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Tjondronegoro</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Mani</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mobile app rating scale: a new tool for assessing the quality of health mobile apps</article-title>
+                  <source>JMIR Mhealth Uhealth</source>
+                  <year>2015</year>
+                  <month>11</month>
+                  <day>3</day>
+                  <volume>3</volume>
+                  <issue>1</issue>
+                  <fpage>e27</fpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://mhealth.jmir.org/2015/1/e27/"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.2196/mhealth.3422</pub-id>
+                  <pub-id pub-id-type="medline">25760773</pub-id>
+                  <!--<pub-id pub-id-type="pii">v3i1e27</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC4376132</pub-id>-->
+                  <pub-id pub-id-type="pmid">25760773</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref28">
+                <label>28</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wilson</surname>
+                      <given-names>AR</given-names>
+                    </name>
+                    <name>
+                      <surname>Brega</surname>
+                      <given-names>AG</given-names>
+                    </name>
+                    <name>
+                      <surname>Campagna</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Braun</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Henderson</surname>
+                      <given-names>WG</given-names>
+                    </name>
+                    <name>
+                      <surname>Bryant</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                    <name>
+                      <surname>Batliner</surname>
+                      <given-names>TS</given-names>
+                    </name>
+                    <name>
+                      <surname>Quissell</surname>
+                      <given-names>DO</given-names>
+                    </name>
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Validation and impact of caregivers' oral health knowledge and behavior on children's oral health status</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2016</year>
+                  <volume>38</volume>
+                  <issue>1</issue>
+                  <fpage>47</fpage>
+                  <lpage>54</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/26892215"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1016/j.pec.2013.10.018</pub-id>
+                  <pub-id pub-id-type="medline">26892215</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC4762180</pub-id>-->
+                </element-citation>
+              </ref>
+              <ref id="ref29">
+                <label>29</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Braun</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Lind</surname>
+                      <given-names>KE</given-names>
+                    </name>
+                    <name>
+                      <surname>Batliner</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Brega</surname>
+                      <given-names>AG</given-names>
+                    </name>
+                    <name>
+                      <surname>Henderson</surname>
+                      <given-names>WG</given-names>
+                    </name>
+                    <name>
+                      <surname>Nadeau</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Wilson</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caregiver reported oral health-related quality of life in young American Indian children</article-title>
+                  <source>J Immigr Minor Health</source>
+                  <year>2014</year>
+                  <month>10</month>
+                  <volume>16</volume>
+                  <issue>5</issue>
+                  <fpage>951</fpage>
+                  <lpage>8</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/23857123"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1007/s10903-013-9870-0</pub-id>
+                  <pub-id pub-id-type="medline">23857123</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC3868637</pub-id>-->
+                  <pub-id pub-id-type="pmid">23857123</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref30">
+                <label>30</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hoeft</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Barker</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Shiboski</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pantoja-Guzman</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Hiatt</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effectiveness evaluation of Contra Caries Oral Health Education Program for improving Spanish-speaking parents' preventive oral health knowledge and behaviors for their young children</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2016</year>
+                  <month>12</month>
+                  <volume>44</volume>
+                  <issue>6</issue>
+                  <fpage>564</fpage>
+                  <lpage>76</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/27517458"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12250</pub-id>
+                  <pub-id pub-id-type="medline">27517458</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC5097025</pub-id>-->
+                  <pub-id pub-id-type="pmid">27517458</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref31">
+                <label>31</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Quissell</surname>
+                      <given-names>DO</given-names>
+                    </name>
+                    <name>
+                      <surname>Henderson</surname>
+                      <given-names>WG</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                    <name>
+                      <surname>Bryant</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                    <name>
+                      <surname>Braun</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors associated with oral health status in American Indian children</article-title>
+                  <source>J Racial Ethn Health Disparities</source>
+                  <year>2014</year>
+                  <month>9</month>
+                  <day>1</day>
+                  <volume>1</volume>
+                  <issue>3</issue>
+                  <fpage>148</fpage>
+                  <lpage>56</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/25232515"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1007/s40615-014-0017-3</pub-id>
+                  <pub-id pub-id-type="medline">25232515</pub-id>
+                  <!--<pub-id pub-id-type="pmcid">PMC4163944</pub-id>-->
+                  <pub-id pub-id-type="pmid">25232515</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref32">
+                <label>32</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Gansky</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Henshaw</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Barker</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Brega</surname>
+                      <given-names>AG</given-names>
+                    </name>
+                    <name>
+                      <surname>Gregorich</surname>
+                      <given-names>SE</given-names>
+                    </name>
+                    <name>
+                      <surname>Heaton</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Batliner</surname>
+                      <given-names>TS</given-names>
+                    </name>
+                    <name>
+                      <surname>Borrelli</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Geltman</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kressin</surname>
+                      <given-names>NR</given-names>
+                    </name>
+                    <name>
+                      <surname>Weintraub</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Finlayson</surname>
+                      <given-names>TL</given-names>
+                    </name>
+                    <name>
+                      <surname>Garcia</surname>
+                      <given-names>RI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The basic research factors questionnaire for studying early childhood caries</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2017</year>
+                  <month>5</month>
+                  <day>19</day>
+                  <volume>17</volume>
+                  <issue>1</issue>
+                  <fpage>83</fpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-017-0374-5"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1186/s12903-017-0374-5</pub-id>
+                  <pub-id pub-id-type="medline">28526003</pub-id>
+                  <!--<pub-id pub-id-type="pii">10.1186/s12903-017-0374-5</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC5437655</pub-id>-->
+                  <pub-id pub-id-type="pmid">28526003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref33">
+                <label>33</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Resnicow</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Soler</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Braithwaite</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                    <name>
+                      <surname>Ahluwalia</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>Butler</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cultural sensitivity in substance use prevention</article-title>
+                  <source>J Community Psychol</source>
+                  <year>2000</year>
+                  <month>5</month>
+                  <volume>28</volume>
+                  <issue>3</issue>
+                  <fpage>271</fpage>
+                  <lpage>90</lpage>
+                  <pub-id pub-id-type="doi">10.1002/(sici)1520-6629(200005)28:3&lt;271::aid-jcop4&gt;3.0.co;2-i</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="ref34">
+                <label>34</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bowen</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Kreuter</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Spring</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Cofta-Woerpel</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Linnan</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Weiner</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakken</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kaplan</surname>
+                      <given-names>CP</given-names>
+                    </name>
+                    <name>
+                      <surname>Squiers</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Fabrizio</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Fernandez</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>How we design feasibility studies</article-title>
+                  <source>Am J Prev Med</source>
+                  <year>2009</year>
+                  <month>5</month>
+                  <volume>36</volume>
+                  <issue>5</issue>
+                  <fpage>452</fpage>
+                  <lpage>7</lpage>
+                  <comment>
+                    <ext-link ext-link-type="uri" xlink:href="http://europepmc.org/abstract/MED/19362699"/>
+                  </comment>
+                  <pub-id pub-id-type="doi">10.1016/j.amepre.2009.02.002</pub-id>
+                  <pub-id pub-id-type="medline">19362699</pub-id>
+                  <!--<pub-id pub-id-type="pii">S0749-3797(09)00096-8</pub-id>-->
+                  <!--<pub-id pub-id-type="pmcid">PMC2859314</pub-id>-->
+                  <pub-id pub-id-type="pmid">19362699</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

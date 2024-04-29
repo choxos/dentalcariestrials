@@ -1,0 +1,2921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:46:12Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:7175303" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:7175303</identifier>
+        <datestamp>2020-04-28</datestamp>
+        <setSpec>biomol</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Biomolecules</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Biomolecules</journal-id>
+              <journal-id journal-id-type="publisher-id">biomolecules</journal-id>
+              <journal-title-group>
+                <journal-title>Biomolecules</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2218-273X</issn>
+              <publisher>
+                <publisher-name>MDPI</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC7175303</article-id>
+              <article-id pub-id-type="pmcid">PMC7175303</article-id>
+              <article-id pub-id-type="pmc-uid">7175303</article-id>
+              <article-id pub-id-type="pmid">32143418</article-id>
+              <article-id pub-id-type="doi">10.3390/biom10030395</article-id>
+              <article-id pub-id-type="publisher-id">biomolecules-10-00395</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>An Oral Rinse Active Matrix Metalloproteinase-8 Point-of-Care Immunotest May Be Less Accurate in Patients with Crohn’s Disease</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rautava</surname>
+                    <given-names>Jaana</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af1-biomolecules-10-00395">1</xref>
+                  <xref ref-type="aff" rid="af2-biomolecules-10-00395">2</xref>
+                  <xref rid="c1-biomolecules-10-00395" ref-type="corresp">*</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-1225-5751</contrib-id>
+                  <name>
+                    <surname>Gürsoy</surname>
+                    <given-names>Ulvi K.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af3-biomolecules-10-00395">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kullström</surname>
+                    <given-names>Adrian</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af1-biomolecules-10-00395">1</xref>
+                  <xref ref-type="aff" rid="af3-biomolecules-10-00395">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Könönen</surname>
+                    <given-names>Eija</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af3-biomolecules-10-00395">3</xref>
+                  <xref ref-type="aff" rid="af4-biomolecules-10-00395">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sorsa</surname>
+                    <given-names>Timo</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af5-biomolecules-10-00395">5</xref>
+                  <xref ref-type="aff" rid="af6-biomolecules-10-00395">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8817-896X</contrib-id>
+                  <name>
+                    <surname>Tervahartiala</surname>
+                    <given-names>Taina</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af5-biomolecules-10-00395">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-8545-6821</contrib-id>
+                  <name>
+                    <surname>Gürsoy</surname>
+                    <given-names>Mervi</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="af3-biomolecules-10-00395">3</xref>
+                </contrib>
+              </contrib-group>
+              <aff id="af1-biomolecules-10-00395"><label>1</label>Department of Oral Pathology and Oral Radiology, Institute of Dentistry, University of Turku, 20520 Turku, Finland; <email>adrian.a.kullstrom@utu.fi</email></aff>
+              <aff id="af2-biomolecules-10-00395"><label>2</label>Department of Pathology, Turku University Hospital, 20521 Turku, Finland</aff>
+              <aff id="af3-biomolecules-10-00395"><label>3</label>Department of Periodontology, Institute of Dentistry, University of Turku, 20520 Turku, Finland; <email>ulvi.gursoy@utu.fi</email> (U.K.G.); <email>eija.kononen@utu.fi</email> (E.K.); <email>mervi.gursoy@utu.fi</email> (M.G.)</aff>
+              <aff id="af4-biomolecules-10-00395"><label>4</label>Oral Health Care, Welfare Division, City of Turku, 20101 Turku, Finland</aff>
+              <aff id="af5-biomolecules-10-00395"><label>5</label>Department of Oral and Maxillofacial Disease, Helsinki University Hospital, University of Helsinki, 00014 Helsinki, Finland; <email>timo.sorsa@helsinki.fi</email> (T.S.); <email>taina.tervahartiala@helsinki.fi</email> (T.T.)</aff>
+              <aff id="af6-biomolecules-10-00395"><label>6</label>Department of Dental Medicine, Karolinska Institute, 14152 Huddinge, Sweden</aff>
+              <author-notes>
+                <corresp id="c1-biomolecules-10-00395"><label>*</label>Correspondence: <email>jaapoh@utu.fi</email>; Tel.: +358-29-4505000</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>04</day>
+                <month>3</month>
+                <year>2020</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <month>3</month>
+                <year>2020</year>
+              </pub-date>
+              <volume>10</volume>
+              <issue>3</issue>
+              <elocation-id>395</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>03</day>
+                  <month>2</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="accepted">
+                  <day>26</day>
+                  <month>2</month>
+                  <year>2020</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© 2020 by the authors.</copyright-statement>
+                <copyright-year>2020</copyright-year>
+                <license license-type="open-access">
+                  <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+                </license>
+              </permissions>
+              <abstract>
+                <p>The diagnostic accuracy of point-of-care (PoC) applications may be compromised in individuals with additional inflammatory conditions. This cross-sectional study examined the performance of a commercial oral rinse active matrix metalloproteinase-8 (aMMP-8) PoC immunotest in individuals with (<italic>n</italic> = 47) and without Crohn’s disease (CD) (<italic>n</italic> = 41). Oral rinse collected from the participants was analyzed by the PoC immunotest. Molecular forms and fragments of salivary MMP-8 were detected by western immunoblotting. The sensitivity of the immunotest for periodontitis was 60.0% in the CD group and 90.0% in the control group. The respective specificity was 75.0% and 80.0%. In both groups, clinical diagnosis of periodontitis exhibited a significant association with the immunotest results, however, the odds ratio (OR) was more than ten-fold in controls (OR 54.3, 95% CI: 3.1–953, <italic>p</italic> = 0.006) in comparison to CD patients (OR 5.2, 95% CI: 1.3–21.6, <italic>p</italic> = 0.022). According to Western immunoblot results, the immunotest MMP-8 positivity was not related to elevated levels of molecular forms and fragments of MMP-8 in the CD group, as in the control group. The diagnostic accuracy of the aMMP-8 PoC oral rinse immunotest is reduced in CD patients, which may be related to lower levels or undetectable complexes.</p>
+              </abstract>
+              <kwd-group>
+                <kwd>collagenases</kwd>
+                <kwd>Crohn’s disease</kwd>
+                <kwd>dental caries</kwd>
+                <kwd>mouth</kwd>
+                <kwd>periodontitis</kwd>
+              </kwd-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec sec-type="intro" id="sec1-biomolecules-10-00395">
+              <title>1. Introduction</title>
+              <p>Crohn’s disease (CD) is a chronic inflammatory disease of the gastrointestinal tract, involving a complex interplay between genetic risk, environmental exposures, the microbiota, and the immune system. Individuals suffering from CD seem to be prone to developing periodontitis, caries, and oral mucosal lesions [<xref rid="B1-biomolecules-10-00395" ref-type="bibr">1</xref>,<xref rid="B2-biomolecules-10-00395" ref-type="bibr">2</xref>,<xref rid="B3-biomolecules-10-00395" ref-type="bibr">3</xref>]. CD patients have a higher decayed-missed-filled teeth (DMFT) index than healthy individuals, which could be due to differences in their diet [<xref rid="B3-biomolecules-10-00395" ref-type="bibr">3</xref>]. Indeed, CD patients reportedly exhibit an increased sugar consumption and have insufficient oral hygiene [<xref rid="B4-biomolecules-10-00395" ref-type="bibr">4</xref>]. The suggested link between CD and periodontitis may be explained by shared pathways in their pathogenesis related to altered gut/oral microbiota [<xref rid="B5-biomolecules-10-00395" ref-type="bibr">5</xref>,<xref rid="B6-biomolecules-10-00395" ref-type="bibr">6</xref>] and immune responsiveness [<xref rid="B7-biomolecules-10-00395" ref-type="bibr">7</xref>]. Both CD and periodontitis have been linked to a disrupted immunological response to the local microbiota. The innate immune system, particularly neutrophils and their inadequate function, plays a major role in the pathogenesis of these diseases [<xref rid="B8-biomolecules-10-00395" ref-type="bibr">8</xref>,<xref rid="B9-biomolecules-10-00395" ref-type="bibr">9</xref>,<xref rid="B10-biomolecules-10-00395" ref-type="bibr">10</xref>]. Of tissue-degrading matrix metalloproteinases (MMPs), MMP-8 is the key inflammatory mediator in their inter-relationship; elevated MMP-8 levels have been detected in CD patients both in the intestine and in the oral cavity [<xref rid="B11-biomolecules-10-00395" ref-type="bibr">11</xref>,<xref rid="B12-biomolecules-10-00395" ref-type="bibr">12</xref>].</p>
+              <p>Periodontitis is diagnosed based on clinical signs of gingival bleeding, loss of clinical attachment, deepened periodontal pockets, and the presence of radiographical alveolar bone loss [<xref rid="B13-biomolecules-10-00395" ref-type="bibr">13</xref>,<xref rid="B14-biomolecules-10-00395" ref-type="bibr">14</xref>]. Yet, the use of these parameters carries limitations, since they do not recognize the onset of inflammation or identify individuals who are at risk of disease initiation or progression in a given population [<xref rid="B15-biomolecules-10-00395" ref-type="bibr">15</xref>]. Instead, biomarker-based diagnostic methods are less laborious, non-invasive, and do not require trained dentists, being especially useful in studies with large study populations [<xref rid="B16-biomolecules-10-00395" ref-type="bibr">16</xref>].</p>
+              <p>In periodontology, point-of-care (PoC) tests aim to detect periodontal diseases by analyzing the levels of biomarkers in oral fluids (saliva, oral rinse, and/or gingival crevicular fluid) without need of a laboratory [<xref rid="B17-biomolecules-10-00395" ref-type="bibr">17</xref>,<xref rid="B18-biomolecules-10-00395" ref-type="bibr">18</xref>]. Among the tested biomarkers, salivary and oral rinse levels of MMP-8 are shown to be effective in distinguishing periodontitis patients from periodontally healthy individuals [<xref rid="B19-biomolecules-10-00395" ref-type="bibr">19</xref>,<xref rid="B20-biomolecules-10-00395" ref-type="bibr">20</xref>,<xref rid="B21-biomolecules-10-00395" ref-type="bibr">21</xref>]. For instance, PoC tests using active MMP (aMMP)-8 as a diagnostic marker with a threshold of 20 ng/mL can successfully identify periodontitis with 64–95% sensitivity and 60–100% specificity [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>,<xref rid="B23-biomolecules-10-00395" ref-type="bibr">23</xref>,<xref rid="B24-biomolecules-10-00395" ref-type="bibr">24</xref>,<xref rid="B25-biomolecules-10-00395" ref-type="bibr">25</xref>]. Notably, the test sensitivity improves in line with disease severity [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>,<xref rid="B24-biomolecules-10-00395" ref-type="bibr">24</xref>].</p>
+              <p>To date, no data exist on the performance of the selected oral rinse aMMP-8 PoC immunotest in individuals with compromised immune responsiveness. In the present case-control study, we hypothesized that CD, a systemic condition with impaired immune function, leads to decreased sensitivity and specificity of the PoC immunotest. Our aim was to evaluate the utility of the immunotest for chair-side diagnostics of periodontal disease in subjects with and without CD. As a main conclusion, we state that the accuracy of the immunotest was impaired in individuals with CD.</p>
+            </sec>
+            <sec id="sec2-biomolecules-10-00395">
+              <title>2. Materials and Methods</title>
+              <sec id="sec2dot1-biomolecules-10-00395" sec-type="subjects">
+                <title>2.1. Study Design and Enrolment of Participants</title>
+                <p>This was a case-control study conducted at the Institute of Dentistry, University of Turku, from January 2017 to May 2018. The CD group, consisting of 47 CD patients between the ages of 22 and 77 years, was recruited from a Crohn and Colitis patient organization (IBD Association of Finland). Their diagnosis of CD had previously been confirmed by endoscopy and histopathological analysis of intestinal biopsy specimens. The control group, including 41 age- and gender-matched individuals without CD or other immune-related diseases, was recruited using advertisements placed at the Institute of Dentistry, University of Turku. Exclusion criteria for both groups included diabetes mellitus, smoking, excessive use of alcohol, less than 24 teeth, and the use of antimicrobial medication in the preceding six months prior to the clinical examination. In addition, individuals with periodontitis as a manifestation of systemic disease [<xref rid="B26-biomolecules-10-00395" ref-type="bibr">26</xref>] as well as pregnant or lactating women were excluded.</p>
+                <p>The research protocol was approved by the Ethical Committee of the Hospital District of Southwest Finland (114/1801/2016), and the study was conducted according to the guidelines of the World Medical Association Declaration of Helsinki. Each participant was informed of the purpose, potential side effects and benefits of the study and gave their written consent. A structured questionnaire was collected from all participants regarding their demographic data (such as age, sex, and residence), general health, medications, and previous dental care. Additionally, the short Crohn’s disease activity index (CDAI) was used to assess the disease activity of the CD patients [<xref rid="B27-biomolecules-10-00395" ref-type="bibr">27</xref>].</p>
+              </sec>
+              <sec id="sec2dot2-biomolecules-10-00395">
+                <title>2.2. Clinical Oral Examination</title>
+                <p>The full-mouth clinical examination included registrations of oral mucosal status performed by a specialist in oral pathology (JR) together with cariological and periodontal measurements generated by a periodontist (MG). Before this study, the intra-examiner (MG) agreement was tested in double measurements of 10 patients and discovered to be very good.</p>
+                <p>The oral mucosal examination included visual inspection of the lips, mucous membranes of the oral cavity, and oropharynx while pressing the tongue down as well as manual palpation of the neck. All mucosal findings were described by clinical appearance and the site of the lesion. CD-associated mucosal lesions (sulcular ulceration, aphthous stomatitis, mucosal cobblestone appearance, lip swelling, angular cheilitis, mucogingivitis) were registered separately [<xref rid="B28-biomolecules-10-00395" ref-type="bibr">28</xref>,<xref rid="B29-biomolecules-10-00395" ref-type="bibr">29</xref>].</p>
+                <p>Cariological status was assessed based on visual inspection, fiber-optic transillumination and tactile examination on the five surfaces of each tooth. Additionally, initial caries lesions together with other hard tissue defects on tooth surfaces, such as erosion and attrition, were determined. Caries prevalence in the whole dentition (excluding the third molars) was expressed using the decayed-missed-filled surface (DMFS) index. The participants were classified as having caries when they had at least one tooth surface with a carious lesion.</p>
+                <p>Periodontal status was obtained from six sites per each natural tooth and dental implant using a WHO probe (LM-Instruments Oy, Parainen, Finland) with a ball-tip end diameter of 0.5 mm. A full-mouth dichotomous visible plaque index (VPI) score was recorded as percentage. Gingival recession (REC) was detected as the distance between the cemento-enamel junction and free gingival margin, while probing pocket depth (PPD) was measured from the free gingival margin to the most apical penetration point of the probe. Loss of clinical attachment level (CAL) was determined as the sum of REC and PPD. A full-mouth dichotomous gingival bleeding score was obtained upon bleeding on probing (BOP) and presented as percentage. In addition, furcation defects and tooth mobility scores were recorded.</p>
+                <p>Individuals with BOP &lt; 15%, PPD &lt; 4 mm, and no loss of CAL were regarded as periodontally healthy, whereas gingivitis was diagnosed in the presence of BOP ≥15% without periodontal pockets and loss of CAL [<xref rid="B30-biomolecules-10-00395" ref-type="bibr">30</xref>]. The diagnostic criteria for periodontitis included PPD ≥ 4 mm and/or loss of CAL on ≥ 2 non-adjacent teeth together with BOP [<xref rid="B31-biomolecules-10-00395" ref-type="bibr">31</xref>]. The severity of the disease was classified based on PPD and loss of CAL as follows: initial periodontitis (PPD 4 mm, CAL loss 1–2 mm), moderate periodontitis (PPD 5–6 mm, CAL loss 3–4 mm), and severe periodontitis (PPD ≥ 7 mm, CAL loss ≥ 5 mm). After the clinical examination, the patient was informed both orally and in written form of the findings. The patients with need for treatment were advised to contact their own dentist.</p>
+              </sec>
+              <sec id="sec2dot3-biomolecules-10-00395">
+                <title>2.3. Application of an Oral Rinse aMMP-8 PoC Immunotest</title>
+                <p>The study participants were instructed to avoid tooth brushing, eating, and chewing gum 30 min prior to the visit. Oral rinse sampling was performed before the clinical oral examination. First, each participant pre-rinsed the mouth with tap water for 30 s and then spitted out or swallowed the fluid. After 60 s of waiting, they re-rinsed vigorously the mouth with 5 mL of rinsing fluid<sup>‡</sup> for 30 s and then poured the entire sample into a measuring cup, from which the sample was drawn up into a syringe and used for the aMMP-8 PoC analysis.</p>
+                <p>The immunotest (PerioSafe<sup>®</sup> PRO, Dentognostics GmbH, Jena, Germany) was used according to the manufacturer’s instructions. A single examiner (UKG) ran all tests, and the result was interpreted by visual estimation 5 min after testing. The outcome was defined as positive (+) when a double line (i.e., both test and control line) was visible on the test window or negative (−) when only a single line was observed [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>].</p>
+              </sec>
+              <sec id="sec2dot4-biomolecules-10-00395">
+                <title>2.4. MMP-8 Western Immunoblot</title>
+                <p>Stimulated saliva samples were collected for 5 min from the patients, separately from the immunotest. A modified enhanced chemiluminescence (ECL) western blotting kit (GE Healthcare, Amersham, UK) was used to detect the molecular forms of MMP-8 from the stimulated saliva as described earlier [<xref rid="B32-biomolecules-10-00395" ref-type="bibr">32</xref>,<xref rid="B33-biomolecules-10-00395" ref-type="bibr">33</xref>]. Salivary flow levels were measured to minimize the variations in sample collection and sample loading during immunoblottings. Briefly, the saliva samples were mixed with Laemmli’s buffer without any reducing reagents. The samples were heated for 5 min, followed by protein separation with 11% sodium dodecyl sulphate (SDS)-polyacrylamide gels. The proteins were then electro-transferred onto nitrocellulose membranes (Protran, Whatman GmbH, Dassel, Germany). Milk powder (5%; Valio Ltd., Helsinki, Finland) was used to block non-specific binding in TBST buffer (10 mM Tris-HCl, pH 7.5, containing 22 mM NaCl and 0.05% Triton-X) for 1 h. The membranes were incubated with polyclonal primary antibodies anti-MMP-8 [<xref rid="B34-biomolecules-10-00395" ref-type="bibr">34</xref>] overnight and followed by the horseradish peroxidase-linked secondary antibody (GE Healthcare, Buckinghamshire, UK) for 1 h. The target proteins were visualized using the ECL system, and scanned and converted into arbitrary units (relative levels of mean intensity) using GS-700 Imaging Densitometer Scanner (BioRad, Hercules, CA, USA) and Bio-Rad Quantity One program. Purified human activated MMP-8 (BioTeZ, Berlin, Germany) was used as positive control and low range prestained SDS-PAGE Standards (BioRad) served as a molecular weight marker.</p>
+              </sec>
+              <sec id="sec2dot5-biomolecules-10-00395">
+                <title>2.5. Statistical Analyses</title>
+                <p>All statistical analyses were performed using the SPSS statistical program (version 24.0; IBM Inc., Armonk, NY, USA). The Chi square test was used for comparing demographic and clinical data (with the exception of age and number of teeth) between the CD and control groups. Age, salivary flow rate, and number of teeth were compared between the groups with one-way ANOVA test. Multinomial regression analyses were performed to describe the associations between periodontal diseases and the immunotest result, after adjusting for furcation and attrition defects. Statistical significance was defined as <italic>p</italic> &lt; 0.05.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="sec3-biomolecules-10-00395">
+              <title>3. Results</title>
+              <sec id="sec3dot1-biomolecules-10-00395">
+                <title>3.1. Crohn’s Disease Status</title>
+                <p>Of the 47 CD patients, 89.4% received medication for CD and 34.0% had undergone surgical treatment for CD. According to the short CDAI score, 53.2% of the subjects were in remission (short CDAI &lt; 150 points), 31.9% had mild disease (short CDAI 150–219 points), 14.9% had moderate disease (short CDAI 220–450 points), and none had severe disease (CDAI &gt; 450 points).</p>
+              </sec>
+              <sec id="sec3dot2-biomolecules-10-00395">
+                <title>3.2. Oral Health Status</title>
+                <p>Characterization of the CD and control groups on the basis of periodontal findings is presented in <xref rid="biomolecules-10-00395-t001" ref-type="table">Table 1</xref>.</p>
+                <p>The DMFS index was 35.8 for the CD patients and 23.9 for the controls (<italic>p</italic> = 0.015). At least one dentin caries lesion was found in 31.9% of the CD patients and 12.2% of the controls (<italic>p</italic> = 0.028). The mean stimulated salivary flow was 1.42 mL/min and 1.59 mL/min, respectively. CD-associated mucosal lesions were detected in 10.6% of the CD patients. Mucosal lesions not associated with CD were found in 34.0% of the CD patients and 36.6% of the controls.</p>
+              </sec>
+              <sec id="sec3dot3-biomolecules-10-00395">
+                <title>3.3. Oral Rinse aMMP-8 PoC Immunotest</title>
+                <p>The outcomes of the aMMP-8 PoC immunotest were tested against various clinical outcomes and diagnoses in terms of its sensitivity and specificity as presented in <xref rid="biomolecules-10-00395-t002" ref-type="table">Table 2</xref>. Sensitivity and specificity values of the aMMP-8 PoC immunotest for detecting periodontitis were 60.0% and 75.0% in the CD patients, 90.9% and 80.0% in the controls, and 73.1% and 77.4% in the whole population, respectively.</p>
+                <p>The results of the aMMP-8 PoC immunotest were significantly associated with the diagnosis of periodontitis in the CD patients (OR: 5.2, 95% CI: 1.26–21.6, <italic>p</italic> = 0.022), in the controls (OR: 54.3, 95% CI: 3.09–953, <italic>p</italic> = 0.006), and in the whole population (OR: 8.5, 95% CI: 2.88–25.3, <italic>p</italic> &lt; 0.001), as shown in <xref rid="biomolecules-10-00395-t003" ref-type="table">Table 3</xref>.</p>
+              </sec>
+              <sec id="sec3dot4-biomolecules-10-00395">
+                <title>3.4. MMP-8 Immunoblot</title>
+                <p><xref ref-type="fig" rid="biomolecules-10-00395-f001">Figure 1</xref> presents the relative levels of molecular forms, activations, and fragments of MMP-8 in saliva.</p>
+                <p>According to the immunoblot results, in the control group the PoC immunotest positivity is related to elevated levels of different forms and fragments of MMP-8 in saliva (<xref rid="biomolecules-10-00395-t004" ref-type="table">Table 4</xref>). In CD patients, however, no difference in the levels of salivary forms of MMP-8 was observed between the PoC immunotest positive and negative individuals.</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="sec4-biomolecules-10-00395">
+              <title>4. Discussion</title>
+              <p>To our knowledge, this is the first study to investigate the sensitivity and specificity of a chairside diagnostic kit in detection of periodontitis in patients with disrupted immune responsiveness. Our findings demonstrate that both the sensitivity and specificity of the aMMP-8 oral rinse PoC immunotest are significantly impaired in CD patients.</p>
+              <p>A comprehensive examination of periodontal, cariological, and oral mucosal health is the strength of the present study. Although there was no significant decrease in salivary flow in the CD group, the DMFS index was significantly higher in CD patients than in controls. Only 25% of the CD patients were periodontally healthy compared to 37% of the control group. In addition, CD patients presented more gingivitis and initial periodontitis than their generally healthy controls. These clinical findings are in line with several previous studies indicating differences in caries and periodontal states of CD patients in comparison to systemically healthy individuals [<xref rid="B1-biomolecules-10-00395" ref-type="bibr">1</xref>,<xref rid="B2-biomolecules-10-00395" ref-type="bibr">2</xref>,<xref rid="B3-biomolecules-10-00395" ref-type="bibr">3</xref>]. On one hand, a higher DMF index may be attributed to nutritional and behavioral changes, such as an increased intake of carbohydrates and alterations in bacterial conditions in the oral cavity favoring mutans streptococci and lactobacilli [<xref rid="B4-biomolecules-10-00395" ref-type="bibr">4</xref>,<xref rid="B34-biomolecules-10-00395" ref-type="bibr">34</xref>,<xref rid="B35-biomolecules-10-00395" ref-type="bibr">35</xref>], although these factors were not examined in the present study. On the other hand, the association between CD and periodontitis has been attributed to common predisposing factors, including age, genetic predisposition, and lifestyle factors, but perhaps more importantly to defects in the mucosal barrier, disrupted immune responses, and the exuberant host-response to bacteria leading to chronic inflammation [<xref rid="B36-biomolecules-10-00395" ref-type="bibr">36</xref>]. Moreover, CD patients seem to exhibit a higher prevalence and more generalized and more severe periodontitis than non-CD individuals [<xref rid="B2-biomolecules-10-00395" ref-type="bibr">2</xref>,<xref rid="B3-biomolecules-10-00395" ref-type="bibr">3</xref>,<xref rid="B37-biomolecules-10-00395" ref-type="bibr">37</xref>,<xref rid="B38-biomolecules-10-00395" ref-type="bibr">38</xref>]. Contrarily, in the present study, severe periodontitis (12%) was diagnosed only in the control group. The small group size may have an impact on the results, but it was not possible to expand the present study sample size due to the low prevalence of Crohn’s disease. The cross-sectional study design is another limitation of the present study, and thus, we cannot infer any temporal association between CD and oral disease. Moreover, the recruitment of the control group was in part undertaken at a dental clinic, which may result in a selection bias. However, this does not weaken the associations between the outcomes of the chairside test and periodontitis diagnosis after adjusting for clinical parameters.</p>
+              <p>The PoC oral rinse and salivary tests can be used as noninvasive and economic methods for screening and diagnosing disease. Various inflammatory proteins present in saliva have been tested as candidate biomarkers for periodontitis [<xref rid="B39-biomolecules-10-00395" ref-type="bibr">39</xref>,<xref rid="B40-biomolecules-10-00395" ref-type="bibr">40</xref>,<xref rid="B41-biomolecules-10-00395" ref-type="bibr">41</xref>,<xref rid="B42-biomolecules-10-00395" ref-type="bibr">42</xref>,<xref rid="B43-biomolecules-10-00395" ref-type="bibr">43</xref>]. For example, salivary MMP-8 can be detected in different isoforms based on its origin (neutrophilic or mesenchymal type) or molecular forms (active, pro-, fragmented, complex) [<xref rid="B32-biomolecules-10-00395" ref-type="bibr">32</xref>,<xref rid="B33-biomolecules-10-00395" ref-type="bibr">33</xref>]. Moreover, neutrophils, fibroblasts, and endothelial cells are the main sources of MMP-8 in the oral cavity [<xref rid="B44-biomolecules-10-00395" ref-type="bibr">44</xref>,<xref rid="B45-biomolecules-10-00395" ref-type="bibr">45</xref>]. Some studies have indicated that dental caries has an impact on oral MMP-8 levels, and thereby, caries lesions may affect the outcome of oral rinse aMMP-8 PoC immunotests [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>,<xref rid="B46-biomolecules-10-00395" ref-type="bibr">46</xref>]. The causal relationship between caries and salivary MMP-8 has not been established, but the association between the number of cariotic lesions and MMP-8 levels suggests a role for the collagenase in the dentin caries process [<xref rid="B46-biomolecules-10-00395" ref-type="bibr">46</xref>]. In our study, the sensitivity and specificity of the kit for caries detection in the whole population were low, 55.0% and 67.6%, respectively. One explanation for this could be the activity of the cariotic process. In comparison to chronic or stable caries lesions, active lesions seem to correlate more with MMP activity [<xref rid="B47-biomolecules-10-00395" ref-type="bibr">47</xref>]. In addition, open caries lesions may more likely cause leakage of MMPs into the saliva in comparison to non-cavitated small caries lesions [<xref rid="B47-biomolecules-10-00395" ref-type="bibr">47</xref>].</p>
+              <p>Recent research has shown promising results regarding the use of aMMP-8 as a diagnostic biomarker in PoC oral rinse tests for periodontitis [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>,<xref rid="B23-biomolecules-10-00395" ref-type="bibr">23</xref>,<xref rid="B24-biomolecules-10-00395" ref-type="bibr">24</xref>,<xref rid="B25-biomolecules-10-00395" ref-type="bibr">25</xref>,<xref rid="B43-biomolecules-10-00395" ref-type="bibr">43</xref>,<xref rid="B48-biomolecules-10-00395" ref-type="bibr">48</xref>]. The oral rinse aMMP-8 PoC immunotest, also used in the present study, applies lateral flow chromatography and detects the active form of MMP-8 with targeted antibodies [<xref rid="B43-biomolecules-10-00395" ref-type="bibr">43</xref>,<xref rid="B48-biomolecules-10-00395" ref-type="bibr">48</xref>]. A positive result of the test is based on a cutoff of 20 ng/mL for aMMP-8, and it can identify periodontitis with 64–95% sensitivity and 60–100% specificity [<xref rid="B22-biomolecules-10-00395" ref-type="bibr">22</xref>,<xref rid="B23-biomolecules-10-00395" ref-type="bibr">23</xref>,<xref rid="B24-biomolecules-10-00395" ref-type="bibr">24</xref>,<xref rid="B25-biomolecules-10-00395" ref-type="bibr">25</xref>]. In comparison to salivary MMP-8 analyses, the oral rinse aMMP-8 PoC immunotest has demonstrated a higher accuracy when differentiating periodontal health from the disease [<xref rid="B43-biomolecules-10-00395" ref-type="bibr">43</xref>,<xref rid="B48-biomolecules-10-00395" ref-type="bibr">48</xref>]. However, little information is still available regarding the limitations of this test.</p>
+              <p>There are common and discordant elements in the pathogenesis of CD and periodontitis. Indeed, both disorders lead to a substantial defect in the mucosal barrier and exuberant host response to bacteria, resulting in inflammation and tissue destruction. It is reasonable to speculate that the dysregulation of the immune system in CD may have an effect on MMP-8 levels in the oral cavity. It has been shown in a mouse model simulating inflammatory bowel disease that inflammation in the colon changes the microbiota not only in the colon but also in the oral cavity [<xref rid="B9-biomolecules-10-00395" ref-type="bibr">9</xref>]. In the current study, the sensitivity and specificity estimates of the aMMP-8 PoC immunotest for detecting periodontitis were found to be poorer in CD patients (60.0% and 75.0%) than in systemically healthy controls (90.9% and 80.0%). The reasons for this are most likely multifactorial. Firstly, it can be argued that the prescribed immunomodulatory or anti-inflammatory medications affect the test accuracy. However, these medications act as suppressors of inflammatory response, which means that both clinical and sub-clinical indices of periodontitis (i.e., bleeding on probing as well as MMP-8 expression and activation, respectively) can be restrained. Thus, the use of medications does not fully explain the low sensitivity and specificity values of aMMP-8 PoC test in periodontitis patients with Crohn’s disease. Secondly, impaired neutrophil MMP-8 function might be another explanation for the low sensitivity of the test in CD patients. Our western immunoblot experiment of salivary MMP-8 indicated that the aMMP-8 PoC oral rinse immunotest positivity in the CD group does not reflect the changes in the levels of molecular forms and fragments of MMP-8, varying from that observed in the control group. The difference may be explained, at least in part, by genetics. Indeed, a mutation in the nucleotide-binding oligomerization domain 2/caspase recruitment domain 15 (NOD2/CARD15) gene, which impairs the ability to recognize bacterial components and thus triggers an inadequate immune response, has been reported in patients with CD [<xref rid="B49-biomolecules-10-00395" ref-type="bibr">49</xref>]. Interestingly, when patients suffering from rheumatoid arthritis - another example of a disease with dysregulated immune system - were compared to systemically healthy periodontitis patients, they exhibited increased aMMP-8 levels in gingival crevicular fluid [<xref rid="B50-biomolecules-10-00395" ref-type="bibr">50</xref>]. Additionally, in presence of vascular leakage components in saliva samples, alpha 2-macroglobulin may form complexes with proteases, which in turn may partly explain the high-molecular weight complexes [<xref rid="B51-biomolecules-10-00395" ref-type="bibr">51</xref>]. Formation of these complexes, however, may not totally explain the current results, since all samples were free of blood contamination. Finally, all these observations indicate that patients with a systemic disease manifested with impaired immune responsiveness need to be evaluated in a disease-specific manner before any diagnostic test can be reliably utilized. The reasons why (1) MMP-8 is not a functioning biomarker in CD patients or (2) aMMP-8 PoC immunotest seem to produce less accurate results in CD patients remain unsolved. Therefore, further studies are still required.</p>
+            </sec>
+            <sec sec-type="conclusions" id="sec5-biomolecules-10-00395">
+              <title>5. Conclusions</title>
+              <p>In conclusion, the performance of the oral rinse aMMP-8 PoC immunotest for recognizing periodontitis seem to be less reliable in CD patients than in systemically healthy individuals.</p>
+            </sec>
+            <sec id="sec6-biomolecules-10-00395">
+              <title>6. Patents</title>
+              <p>Professor Timo Sorsa is an inventor of US patents 5652223, 5736341, 5866932, 6143476, 20145192, 15/121801 and US 10,488,415 B2.</p>
+            </sec>
+          </body>
+          <back>
+            <notes>
+              <title>Author Contributions</title>
+              <p>Conceptualization, J.R., U.K.G. and M.G.; Data curation, U.K.G.; Formal analysis, J.R., U.K.G., A.K., T.T. and M.G.; Funding acquisition, J.R. and T.S.; Investigation, J.R., U.K.G., A.K., T.T. and M.G.; Methodology, J.R., U.K.G., A.K., E.K., T.S., T.T. and M.G.; Project administration, E.K.; Resources, E.K. and T.S.; Supervision, E.K. and T.S.; Visualization, T.T. and M.G.; Writing—original draft, J.R., U.K.G., A.K. and T.T.; Writing—review &amp; editing, E.K., T.S. and M.G. All authors have read and agreed to the published version of the manuscript.</p>
+            </notes>
+            <notes notes-type="COI-statement">
+              <title>Conflicts of Interest</title>
+              <p>The authors declare no conflicts of interests related to this study.</p>
+            </notes>
+            <glossary>
+              <title>Abbreviations</title>
+              <p>PoC = point-of-care; MMP = matrix metalloproteinase; aMMP-8 = active matrix metalloproteinase-8; CD = Crohn’s disease; OR = odds ratio; DMFT index = decayed-missed-filled teeth index; CDAI = Crohn’s disease activity index; VPI = visible plaque index; REC = gingival recession; PPD = probing pocket depth; CAL = loss of clinical attachment level; BOP = bleeding on probing; ECL = enhanced chemiluminescence.</p>
+            </glossary>
+            <ref-list>
+              <title>References</title>
+              <ref id="B1-biomolecules-10-00395">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Papageorgiou</surname>
+                      <given-names>S.N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Hagner</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nogueira</surname>
+                      <given-names>A.V.B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Franke</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jäger</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Deschner</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inflammatory bowel disease and oral health: Systematic review and a meta-analysis</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2017</year>
+                  <volume>44</volume>
+                  <fpage>382</fpage>
+                  <lpage>393</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12698</pub-id>
+                  <?supplied-pmid 28117909?>
+                  <pub-id pub-id-type="pmid">28117909</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B2-biomolecules-10-00395">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Habashneh</surname>
+                      <given-names>R.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Khader</surname>
+                      <given-names>Y.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Alhumouz</surname>
+                      <given-names>M.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jadallah</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ajlouni</surname>
+                      <given-names>Y.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The association between inflammatory bowel disease and periodontitis among Jordanians: A case-control study</article-title>
+                  <source>J. Periodontal. Res.</source>
+                  <year>2012</year>
+                  <volume>47</volume>
+                  <fpage>293</fpage>
+                  <lpage>298</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0765.2011.01431.x</pub-id>
+                  <?supplied-pmid 22050539?>
+                  <pub-id pub-id-type="pmid">22050539</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B3-biomolecules-10-00395">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brito</surname>
+                      <given-names>F.</given-names>
+                    </name>
+                    <name>
+                      <surname>de Barros</surname>
+                      <given-names>F.C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Zaltman</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Carvalho</surname>
+                      <given-names>A.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Carneiro</surname>
+                      <given-names>A.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>R.G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gustafsson</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Figueredo</surname>
+                      <given-names>C.M.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of periodontitis and dmft index in patients with Crohn’s disease and ulcerative colitis</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2008</year>
+                  <volume>35</volume>
+                  <fpage>555</fpage>
+                  <lpage>560</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2008.01231.x</pub-id>
+                  <pub-id pub-id-type="pmid">18400026</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B4-biomolecules-10-00395">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schütz</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Drude</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Paulisch</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lange</surname>
+                      <given-names>K.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lochs</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Sugar intake, taste changes and dental health in Crohn’s disease</article-title>
+                  <source>Dig. Dis.</source>
+                  <year>2003</year>
+                  <volume>21</volume>
+                  <fpage>252</fpage>
+                  <lpage>257</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000073343</pub-id>
+                  <?supplied-pmid 14571099?>
+                  <pub-id pub-id-type="pmid">14571099</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B5-biomolecules-10-00395">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Said</surname>
+                      <given-names>H.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Suda</surname>
+                      <given-names>W.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nakagome</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Chinen</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Oshima</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kimura</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Iraha</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ishida</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujita</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Dysbiosis of salivary microbiota in inflammatory bowel disease and its association with oral immunological biomarkers</article-title>
+                  <source>DNA Res.</source>
+                  <year>2014</year>
+                  <volume>21</volume>
+                  <fpage>15</fpage>
+                  <lpage>25</lpage>
+                  <pub-id pub-id-type="doi">10.1093/dnares/dst037</pub-id>
+                  <?supplied-pmid 24013298?>
+                  <pub-id pub-id-type="pmid">24013298</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B6-biomolecules-10-00395">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rautava</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pinnell</surname>
+                      <given-names>L.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Vong</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Akseer</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Assa</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sherman</surname>
+                      <given-names>P.M.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral microbiome composition changes in mouse models of colitis</article-title>
+                  <source>J. Gastroenterol. Hepatol.</source>
+                  <year>2015</year>
+                  <volume>30</volume>
+                  <fpage>521</fpage>
+                  <lpage>527</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jgh.12713</pub-id>
+                  <pub-id pub-id-type="pmid">25180790</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B7-biomolecules-10-00395">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Keskin</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Zeidán-Chuliá</surname>
+                      <given-names>F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Rautava</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>U.K.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Two cheers for Crohn’s disease and periodontitis: Beta-defensin-2 as an actionable target to intervene on two clinically distinct diseases</article-title>
+                  <source>OMICS</source>
+                  <year>2015</year>
+                  <volume>19</volume>
+                  <fpage>443</fpage>
+                  <lpage>450</lpage>
+                  <pub-id pub-id-type="doi">10.1089/omi.2015.0077</pub-id>
+                  <pub-id pub-id-type="pmid">26171729</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B8-biomolecules-10-00395">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goethel</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Croitoru</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Philpott</surname>
+                      <given-names>D.J.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The interplay between microbes and the immune response in inflammatory bowel disease</article-title>
+                  <source>J. Physiol.</source>
+                  <year>2018</year>
+                  <volume>596</volume>
+                  <fpage>3869</fpage>
+                  <lpage>3882</lpage>
+                  <pub-id pub-id-type="doi">10.1113/JP275396</pub-id>
+                  <pub-id pub-id-type="pmid">29806140</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B9-biomolecules-10-00395">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Somasundaram</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nuij</surname>
+                      <given-names>V.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Woude</surname>
+                      <given-names>C.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuipers</surname>
+                      <given-names>E.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Peppelenbosch</surname>
+                      <given-names>M.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fuhler</surname>
+                      <given-names>G.M.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Peripheral neutrophil functions and cell signalling in Crohn’s disease</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2013</year>
+                  <volume>8</volume>
+                  <elocation-id>e84521</elocation-id>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0084521</pub-id>
+                  <pub-id pub-id-type="pmid">24367671</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B10-biomolecules-10-00395">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Levine</surname>
+                      <given-names>A.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Segal</surname>
+                      <given-names>A.W.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>What is wrong with granulocytes in inflammatory bowel diseases?</article-title>
+                  <source>Dig. Dis.</source>
+                  <year>2013</year>
+                  <volume>31</volume>
+                  <fpage>321</fpage>
+                  <lpage>327</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000354686</pub-id>
+                  <pub-id pub-id-type="pmid">24246982</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B11-biomolecules-10-00395">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmidt</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Weigert</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Leuschner</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Hartmann</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Raddatz</surname>
+                      <given-names>D.</given-names>
+                    </name>
+                    <name>
+                      <surname>Haak</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Mausberg</surname>
+                      <given-names>R.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kottmann</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Schmalz</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziebolz</surname>
+                      <given-names>D.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Active matrix metalloproteinase-8 and periodontal bacteria-interlink between periodontitis and inflammatory bowel disease?</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>89</volume>
+                  <fpage>699</fpage>
+                  <lpage>707</lpage>
+                  <pub-id pub-id-type="doi">10.1002/JPER.17-0486</pub-id>
+                  <?supplied-pmid 29574823?>
+                  <pub-id pub-id-type="pmid">29574823</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B12-biomolecules-10-00395">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koelink</surname>
+                      <given-names>P.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Overbeek</surname>
+                      <given-names>S.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Braber</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Morgan</surname>
+                      <given-names>M.E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Henrkicks</surname>
+                      <given-names>P.A.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Roda</surname>
+                      <given-names>M.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Verspaget</surname>
+                      <given-names>H.W.</given-names>
+                    </name>
+                    <name>
+                      <surname>Wolfkamp</surname>
+                      <given-names>S.C.</given-names>
+                    </name>
+                    <name>
+                      <surname>te Velde</surname>
+                      <given-names>A.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>C.W.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Collagen degradation and neutrophilic infiltration: A vicious circle in inflammatory bowel disease</article-title>
+                  <source>Gut</source>
+                  <year>2014</year>
+                  <volume>63</volume>
+                  <fpage>578</fpage>
+                  <lpage>587</lpage>
+                  <pub-id pub-id-type="doi">10.1136/gutjnl-2012-303252</pub-id>
+                  <?supplied-pmid 23525573?>
+                  <pub-id pub-id-type="pmid">23525573</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B13-biomolecules-10-00395">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Papapanou</surname>
+                      <given-names>P.N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sanz</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Buduneli</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Dietrich</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Feres</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fine</surname>
+                      <given-names>D.H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Flemmig</surname>
+                      <given-names>T.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Garcia</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Giannobile</surname>
+                      <given-names>W.V.</given-names>
+                    </name>
+                    <name>
+                      <surname>Graziani</surname>
+                      <given-names>F.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the classification of periodontal and peri-implant diseases and conditions</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>89</volume>
+                  <fpage>S173</fpage>
+                  <lpage>S182</lpage>
+                  <pub-id pub-id-type="doi">10.1002/JPER.17-0721</pub-id>
+                  <?supplied-pmid 29926951?>
+                  <pub-id pub-id-type="pmid">29926951</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B14-biomolecules-10-00395">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>M.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Greenwell</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kornman</surname>
+                      <given-names>K.S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Staging and grading of periodontitis: Framework and proposal of a new classification and case definition</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>89</volume>
+                  <fpage>S159</fpage>
+                  <lpage>S172</lpage>
+                  <pub-id pub-id-type="doi">10.1002/JPER.18-0006</pub-id>
+                  <pub-id pub-id-type="pmid">29926952</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B15-biomolecules-10-00395">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ramseier</surname>
+                      <given-names>C.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kinney</surname>
+                      <given-names>J.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Herr</surname>
+                      <given-names>A.E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Braun</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sugai</surname>
+                      <given-names>J.V.</given-names>
+                    </name>
+                    <name>
+                      <surname>Shelburne</surname>
+                      <given-names>C.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Rayburn</surname>
+                      <given-names>L.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tran</surname>
+                      <given-names>H.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Singh</surname>
+                      <given-names>A.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Giannobile</surname>
+                      <given-names>W.V.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Identification of pathogen and host-response markers correlated with periodontal disease</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2009</year>
+                  <volume>80</volume>
+                  <fpage>436</fpage>
+                  <lpage>446</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2009.080480</pub-id>
+                  <pub-id pub-id-type="pmid">19254128</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B16-biomolecules-10-00395">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>U.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pussinen</surname>
+                      <given-names>P.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Salomaa</surname>
+                      <given-names>V.</given-names>
+                    </name>
+                    <name>
+                      <surname>Syrjäläinen</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cumulative use of salivary markers with an adaptive design improves detection of periodontal disease over fixed biomarker thresholds</article-title>
+                  <source>Acta Odontol. Scand.</source>
+                  <year>2018</year>
+                  <volume>76</volume>
+                  <fpage>493</fpage>
+                  <lpage>496</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016357.2018.1441436</pub-id>
+                  <pub-id pub-id-type="pmid">29463174</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B17-biomolecules-10-00395">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>U.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nwhator</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Hernandez</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Leppilahti</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Emingil</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pussinen</surname>
+                      <given-names>P.J.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Analysis of matrix metalloproteinases, especially MMP-8, in gingival creviclular fluid, mouthrinse and saliva for monitoring periodontal diseases</article-title>
+                  <source>Periodontol. 2000</source>
+                  <year>2016</year>
+                  <volume>70</volume>
+                  <fpage>142</fpage>
+                  <lpage>163</lpage>
+                  <pub-id pub-id-type="doi">10.1111/prd.12101</pub-id>
+                  <pub-id pub-id-type="pmid">26662488</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B18-biomolecules-10-00395">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ji</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Choi</surname>
+                      <given-names>Y.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Point-of-care diagnosis of periodontitis using saliva: Technically feasible but still a challenge</article-title>
+                  <source>Front. Cell Infect. Microbiol.</source>
+                  <year>2015</year>
+                  <volume>5</volume>
+                  <fpage>65</fpage>
+                  <pub-id pub-id-type="doi">10.3389/fcimb.2015.00065</pub-id>
+                  <pub-id pub-id-type="pmid">26389079</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B19-biomolecules-10-00395">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mauramo</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ramseier</surname>
+                      <given-names>A.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Mauramo</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Buser</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Waltimo</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Associations of oral fluid MMP-8 with periodontitis in Swiss adult subjects</article-title>
+                  <source>Oral Dis.</source>
+                  <year>2018</year>
+                  <volume>24</volume>
+                  <fpage>449</fpage>
+                  <lpage>455</lpage>
+                  <pub-id pub-id-type="doi">10.1111/odi.12769</pub-id>
+                  <pub-id pub-id-type="pmid">28889479</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B20-biomolecules-10-00395">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>X.</given-names>
+                    </name>
+                    <name>
+                      <surname>Yan</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Huang</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary matrix metalloproteinase (MMP)-8 as a biomarker for periodontitis: A PRISMA-compliant systematic review and meta-analysis</article-title>
+                  <source>Medicine (Baltimore)</source>
+                  <year>2018</year>
+                  <volume>97</volume>
+                  <fpage>e9642</fpage>
+                  <pub-id pub-id-type="doi">10.1097/MD.0000000000009642</pub-id>
+                  <pub-id pub-id-type="pmid">29504999</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B21-biomolecules-10-00395">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Alassiri</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Räisänen</surname>
+                      <given-names>I.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pärnänen</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nwhator</surname>
+                      <given-names>S.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gieselmann</surname>
+                      <given-names>D.-R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sakellari</surname>
+                      <given-names>D.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Active MMP-8 (aMMP-8) as a grading and staging biomarker in the periodontitis classification</article-title>
+                  <source>Diagnostics</source>
+                  <year>2020</year>
+                  <volume>10</volume>
+                  <elocation-id>61</elocation-id>
+                  <comment>in press</comment>
+                  <pub-id pub-id-type="doi">10.3390/diagnostics10020061</pub-id>
+                  <?supplied-pmid 31979091?>
+                  <pub-id pub-id-type="pmid">31979091</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B22-biomolecules-10-00395">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Heikkinen</surname>
+                      <given-names>A.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nwhator</surname>
+                      <given-names>S.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Rathnayake</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Mäntylä</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Vatanen</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pilot study on oral health status as assessed by an active matrix metalloproteinase-8 chairside mouthrinse test in adolescents</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2016</year>
+                  <volume>87</volume>
+                  <fpage>36</fpage>
+                  <lpage>40</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2015.150377</pub-id>
+                  <?supplied-pmid 26430926?>
+                  <pub-id pub-id-type="pmid">26430926</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B23-biomolecules-10-00395">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ebersole</surname>
+                      <given-names>J.L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kryscio</surname>
+                      <given-names>R.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Danaher</surname>
+                      <given-names>R.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Dawson</surname>
+                      <given-names>D.</given-names>
+                      <suffix>3rd</suffix>
+                    </name>
+                    <name>
+                      <surname>Al-Sabbagh</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>C.S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Rapid assessment of salivary MMP-8 and periodontal disease using lateral flow immunoassay</article-title>
+                  <source>Oral Dis.</source>
+                  <year>2016</year>
+                  <volume>22</volume>
+                  <fpage>681</fpage>
+                  <lpage>687</lpage>
+                  <pub-id pub-id-type="doi">10.1111/odi.12521</pub-id>
+                  <?supplied-pmid 27273425?>
+                  <pub-id pub-id-type="pmid">27273425</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B24-biomolecules-10-00395">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Räisänen</surname>
+                      <given-names>I.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Heikkinen</surname>
+                      <given-names>A.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Siren</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gieselmann</surname>
+                      <given-names>D.R.</given-names>
+                    </name>
+                    <name>
+                      <surname>van der School</surname>
+                      <given-names>G.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Schoor</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Point-of-care/chairside aMMP-8 analytics of periodontal diseases activity and episodic progression</article-title>
+                  <source>Diagnostics</source>
+                  <year>2018</year>
+                  <volume>8</volume>
+                  <elocation-id>74</elocation-id>
+                  <pub-id pub-id-type="doi">10.3390/diagnostics8040074</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B25-biomolecules-10-00395">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nwhator</surname>
+                      <given-names>S.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ayanbadejo</surname>
+                      <given-names>P.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Umeizudike</surname>
+                      <given-names>K.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Opeodu</surname>
+                      <given-names>O.I.</given-names>
+                    </name>
+                    <name>
+                      <surname>Agbelusi</surname>
+                      <given-names>G.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Olamijulo</surname>
+                      <given-names>J.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Arowojolu</surname>
+                      <given-names>M.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Babajide</surname>
+                      <given-names>B.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Opedun</surname>
+                      <given-names>D.O.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical correlates of a lateral-flow immunoassay rinse risk indicator</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2014</year>
+                  <volume>85</volume>
+                  <fpage>188</fpage>
+                  <lpage>194</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2013.130116</pub-id>
+                  <pub-id pub-id-type="pmid">23600996</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B26-biomolecules-10-00395">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jepsen</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Caton</surname>
+                      <given-names>J.G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Albandar</surname>
+                      <given-names>J.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bissada</surname>
+                      <given-names>N.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bouchard</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Cortellini</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Demirel</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                    <name>
+                      <surname>de Sanctis</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ercoli</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fan</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Periodontal manifestations of systemic diseases and developmental and acquired conditions: Consensus report of workgroup of the 2017 World Workshop on the classification of periodontal and peri-implant diseases and conditions</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>89</volume>
+                  <fpage>S237</fpage>
+                  <lpage>S248</lpage>
+                  <pub-id pub-id-type="doi">10.1002/JPER.17-0733</pub-id>
+                  <pub-id pub-id-type="pmid">29926943</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B27-biomolecules-10-00395">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thia</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Faubion</surname>
+                      <given-names>W.A.</given-names>
+                      <suffix>Jr.</suffix>
+                    </name>
+                    <name>
+                      <surname>Loftus</surname>
+                      <given-names>E.V.</given-names>
+                      <suffix>Jr.</suffix>
+                    </name>
+                    <name>
+                      <surname>Persson</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Persson</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sandborn</surname>
+                      <given-names>W.J.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Short CDAI: Development and validation of a shortened and simplified Crohn’s disease activity index</article-title>
+                  <source>Inflamm. Bowel Dis.</source>
+                  <year>2011</year>
+                  <volume>17</volume>
+                  <fpage>105</fpage>
+                  <lpage>111</lpage>
+                  <pub-id pub-id-type="doi">10.1002/ibd.21400</pub-id>
+                  <pub-id pub-id-type="pmid">20629100</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B28-biomolecules-10-00395">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lankarani</surname>
+                      <given-names>K.B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sivandzadeh</surname>
+                      <given-names>G.R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassanpour</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral manifestation in inflammatory bowel disease: A review</article-title>
+                  <source>World J. Gastroenterol.</source>
+                  <year>2013</year>
+                  <volume>19</volume>
+                  <fpage>8571</fpage>
+                  <lpage>8579</lpage>
+                  <pub-id pub-id-type="doi">10.3748/wjg.v19.i46.8571</pub-id>
+                  <pub-id pub-id-type="pmid">24379574</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B29-biomolecules-10-00395">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Harty</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleming</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Rowland</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Crushell</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>McDermott</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Drumm</surname>
+                      <given-names>B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bourke</surname>
+                      <given-names>B.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A prospective study of the oral manifestations of Crohn’s disease</article-title>
+                  <source>Clin. Gastroenterol. Hepatol.</source>
+                  <year>2005</year>
+                  <volume>3</volume>
+                  <fpage>886</fpage>
+                  <lpage>891</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S1542-3565(05)00424-6</pub-id>
+                  <pub-id pub-id-type="pmid">16234026</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B30-biomolecules-10-00395">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sanz</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bäumer</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Buduneli</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Dommisch</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Farina</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Linden</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Meyle</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Preshaw</surname>
+                      <given-names>P.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Quirynen</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Effect of professional mechanical plaque removal on secondary prevention of periodontitis and the complications of gingival and periodontal preventive measures: Consensus report of group 4 of the 11th European Workshop on Periodontology on effective prevention of periodontal and peri-implant diseases</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2015</year>
+                  <volume>42</volume>
+                  <fpage>S214</fpage>
+                  <lpage>S220</lpage>
+                  <pub-id pub-id-type="pmid">25626357</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B31-biomolecules-10-00395">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <article-title>American Academy of Periodontology task force report on the update to the 1999 classification of periodontal diseases and conditions</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2015</year>
+                  <volume>86</volume>
+                  <fpage>835</fpage>
+                  <lpage>838</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2015.157001</pub-id>
+                  <?supplied-pmid 26125117?>
+                  <pub-id pub-id-type="pmid">26125117</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B32-biomolecules-10-00395">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Buduneli</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Mäntylä</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Emingil</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pussinen</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Barış</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Akıllı</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Atilla</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Acute myocardial infarction is reflected in salivary matrix metalloproteinase-8 activation level</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2011</year>
+                  <volume>82</volume>
+                  <fpage>716</fpage>
+                  <lpage>725</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2010.100492</pub-id>
+                  <?supplied-pmid 21091346?>
+                  <pub-id pub-id-type="pmid">21091346</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B33-biomolecules-10-00395">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>U.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitkänen</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Torvi</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Suominen</surname>
+                      <given-names>A.L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pussinen</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Molecular forms and fragments of salivary MMP-8 in relation to periodontitis</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <fpage>1421</fpage>
+                  <lpage>1428</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.13024</pub-id>
+                  <?supplied-pmid 30341955?>
+                  <pub-id pub-id-type="pmid">30341955</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B34-biomolecules-10-00395">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grössner-Schreiber</surname>
+                      <given-names>B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fetter</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Hedderich</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kocher</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Schreiber</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jepsen</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of dental caries and periodontal disease in patients with inflammatory bowel disease: A case-control study</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2006</year>
+                  <volume>33</volume>
+                  <fpage>478</fpage>
+                  <lpage>484</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2006.00942.x</pub-id>
+                  <?supplied-pmid 16820035?>
+                  <pub-id pub-id-type="pmid">16820035</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B35-biomolecules-10-00395">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Järnerot</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Järnmark</surname>
+                      <given-names>I.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nilsson</surname>
+                      <given-names>K.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Consumption of refined sugar by patients with Crohn’s disease, ulcerative colitis, or irritable bowel syndrome</article-title>
+                  <source>Scand. J. Gastroenterol.</source>
+                  <year>1983</year>
+                  <volume>18</volume>
+                  <fpage>999</fpage>
+                  <lpage>1002</lpage>
+                  <pub-id pub-id-type="doi">10.3109/00365528309181832</pub-id>
+                  <?supplied-pmid 6673083?>
+                  <pub-id pub-id-type="pmid">6673083</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B36-biomolecules-10-00395">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Indriolo</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Greco</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ravelli</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fagiuoli</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>What can we learn about biofilm/host interactions from the study of inflammatory bowel disease</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2011</year>
+                  <volume>38</volume>
+                  <fpage>36</fpage>
+                  <lpage>43</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01680.x</pub-id>
+                  <pub-id pub-id-type="pmid">21323702</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B37-biomolecules-10-00395">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stein</surname>
+                      <given-names>J.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lammert</surname>
+                      <given-names>F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Zimmer</surname>
+                      <given-names>V.</given-names>
+                    </name>
+                    <name>
+                      <surname>Granzow</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Reichert</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Schulz</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ocklenburg</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Conrads</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical periodontal and microbiologic parameters in patients with Crohn’s disease with consideration of the CARD 15 genotype</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2010</year>
+                  <volume>81</volume>
+                  <fpage>535</fpage>
+                  <lpage>545</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2009.090563</pub-id>
+                  <pub-id pub-id-type="pmid">20373538</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B38-biomolecules-10-00395">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Flemmig</surname>
+                      <given-names>T.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Shanahan</surname>
+                      <given-names>F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Miyasaki</surname>
+                      <given-names>K.T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence and severity of periodontal disease in patients with inflammatory bowel disease</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>1991</year>
+                  <volume>18</volume>
+                  <fpage>690</fpage>
+                  <lpage>697</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1991.tb00111.x</pub-id>
+                  <pub-id pub-id-type="pmid">1960238</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B39-biomolecules-10-00395">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rathnayake</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Akerman</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Klinge</surname>
+                      <given-names>B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lundegren</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jansson</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tryselius</surname>
+                      <given-names>Y.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gustafsson</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary biomarkers of oral health: A cross-sectional study</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2013</year>
+                  <volume>40</volume>
+                  <fpage>140</fpage>
+                  <lpage>147</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12038</pub-id>
+                  <pub-id pub-id-type="pmid">23174014</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B40-biomolecules-10-00395">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>C.S.</given-names>
+                    </name>
+                    <name>
+                      <surname>King</surname>
+                      <given-names>C.P.</given-names>
+                      <suffix>Jr.</suffix>
+                    </name>
+                    <name>
+                      <surname>Langub</surname>
+                      <given-names>M.C.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kryscio</surname>
+                      <given-names>R.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>M.V.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary biomarkers of existing periodontal disease: A cross-sectional study</article-title>
+                  <source>J. Am. Dent. Assoc.</source>
+                  <year>2006</year>
+                  <volume>137</volume>
+                  <fpage>322</fpage>
+                  <lpage>329</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.2006.0181</pub-id>
+                  <pub-id pub-id-type="pmid">16570465</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B41-biomolecules-10-00395">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sexton</surname>
+                      <given-names>W.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>Y.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kryscio</surname>
+                      <given-names>R.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Dawson</surname>
+                      <given-names>D.R.</given-names>
+                      <suffix>3rd</suffix>
+                    </name>
+                    <name>
+                      <surname>Ebersole</surname>
+                      <given-names>J.L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>C.S.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary biomarkers of periodontal disease in response to treatment</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2011</year>
+                  <volume>38</volume>
+                  <fpage>434</fpage>
+                  <lpage>441</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01706.x</pub-id>
+                  <?supplied-pmid 21480939?>
+                  <pub-id pub-id-type="pmid">21480939</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B42-biomolecules-10-00395">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gürsoy</surname>
+                      <given-names>U.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Könönen</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pradhan-Palikhe</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pussinen</surname>
+                      <given-names>P.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Suominen-Taipale</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary MMP-8, TIMP-1, and ICTP as markers of advanced periodontitis</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2010</year>
+                  <volume>37</volume>
+                  <fpage>487</fpage>
+                  <lpage>493</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01563.x</pub-id>
+                  <?supplied-pmid 20507371?>
+                  <pub-id pub-id-type="pmid">20507371</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B43-biomolecules-10-00395">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Räisänen</surname>
+                      <given-names>I.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Schoor</surname>
+                      <given-names>G.J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Schoor</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gieselmann</surname>
+                      <given-names>D.R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Heikkinen</surname>
+                      <given-names>A.M.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Active matrix metalloproteinase-8 point-of-care (PoC)/chairside mouthrinse test vs. bleeding on probing in diagnosing subclinical periodontitis in adolescents</article-title>
+                  <source>Diagnostics</source>
+                  <year>2019</year>
+                  <volume>23</volume>
+                  <elocation-id>9</elocation-id>
+                  <pub-id pub-id-type="doi">10.3390/diagnostics9010034</pub-id>
+                  <?supplied-pmid 30909530?>
+                  <pub-id pub-id-type="pmid">30909530</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B44-biomolecules-10-00395">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hanemaaijer</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Konttinen</surname>
+                      <given-names>Y.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ding</surname>
+                      <given-names>Y.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutinen</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Visser</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>van Hinsbergh</surname>
+                      <given-names>V.W.</given-names>
+                    </name>
+                    <name>
+                      <surname>Helaakoski</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kainulainen</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Rönkä</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Matrix metalloproteinase-8 is expressed in rheumatoid synovial fibroblasts and endothelial cells. Regulation by tumor necrosis factor-alpha and doxycycline</article-title>
+                  <source>J. Biol. Chem.</source>
+                  <year>1997</year>
+                  <volume>272</volume>
+                  <fpage>31504</fpage>
+                  <lpage>31509</lpage>
+                  <pub-id pub-id-type="doi">10.1074/jbc.272.50.31504</pub-id>
+                  <?supplied-pmid 9395486?>
+                  <pub-id pub-id-type="pmid">9395486</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B45-biomolecules-10-00395">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Herman</surname>
+                      <given-names>M.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sukhova</surname>
+                      <given-names>G.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Libby</surname>
+                      <given-names>P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gerdes</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tang</surname>
+                      <given-names>N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Horton</surname>
+                      <given-names>D.B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kilbride</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Breitbart</surname>
+                      <given-names>R.E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Chun</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Schönbeck</surname>
+                      <given-names>U.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Expression of neutrophil collagenase (matrix metalloproteinase-8) in human atheroma: A novel collagenolytic pathway suggested by transcriptional profiling</article-title>
+                  <source>Circulation</source>
+                  <year>2001</year>
+                  <volume>104</volume>
+                  <fpage>1899</fpage>
+                  <lpage>1904</lpage>
+                  <pub-id pub-id-type="doi">10.1161/hc4101.097419</pub-id>
+                  <pub-id pub-id-type="pmid">11602491</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B46-biomolecules-10-00395">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hedenbjörk-Lager</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bjørndal</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gustafsson</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tjäderhane</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Åkerman</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ericson</surname>
+                      <given-names>D.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries correlates strongly to salivary levels of matrix metalloproteinase-8</article-title>
+                  <source>Caries Res.</source>
+                  <year>2015</year>
+                  <volume>49</volume>
+                  <fpage>1</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000360625</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B47-biomolecules-10-00395">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nascimento</surname>
+                      <given-names>F.D.</given-names>
+                    </name>
+                    <name>
+                      <surname>Minciotti</surname>
+                      <given-names>C.L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Feraldeli</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Carrilho</surname>
+                      <given-names>M.R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Pashely</surname>
+                      <given-names>D.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tay</surname>
+                      <given-names>F.R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nader</surname>
+                      <given-names>H.B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Salo</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tjäderhane</surname>
+                      <given-names>L.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tersariol</surname>
+                      <given-names>I.L.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cysteine cathepsins in human carious dentin</article-title>
+                  <source>J. Dent. Res.</source>
+                  <year>2011</year>
+                  <volume>90</volume>
+                  <fpage>506</fpage>
+                  <lpage>511</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034510391906</pub-id>
+                  <pub-id pub-id-type="pmid">21248362</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B48-biomolecules-10-00395">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Räisänen</surname>
+                      <given-names>I.T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Heikkinen</surname>
+                      <given-names>A.M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Nwhator</surname>
+                      <given-names>S.O.</given-names>
+                    </name>
+                    <name>
+                      <surname>Umeizudike</surname>
+                      <given-names>K.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervahartiala</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorsa</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>On the diagnostic discrimination ability of mouthrinse and salivary aMMP-8 point-of-care testing regarding periodontal health and disease</article-title>
+                  <source>Diagn. Microbiol. Infect. Dis.</source>
+                  <year>2019</year>
+                  <volume>95</volume>
+                  <fpage>114871</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.diagmicrobio.2019.114871</pub-id>
+                  <pub-id pub-id-type="pmid">31473032</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B49-biomolecules-10-00395">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Huqot</surname>
+                      <given-names>J.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Chamaillard</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Zouali</surname>
+                      <given-names>H.</given-names>
+                    </name>
+                    <name>
+                      <surname>Lesage</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Cezard</surname>
+                      <given-names>J.P.</given-names>
+                    </name>
+                    <name>
+                      <surname>Belaiche</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Almer</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tysk</surname>
+                      <given-names>C.</given-names>
+                    </name>
+                    <name>
+                      <surname>O’Morain</surname>
+                      <given-names>C.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Gassull</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Association of NOD2 leucine-rich repeat variants with susceptibility to Crohn’s disease</article-title>
+                  <source>Nature</source>
+                  <year>2001</year>
+                  <volume>411</volume>
+                  <fpage>599</fpage>
+                  <lpage>603</lpage>
+                  <pub-id pub-id-type="doi">10.1038/35079107</pub-id>
+                  <pub-id pub-id-type="pmid">11385576</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B50-biomolecules-10-00395">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kirchner</surname>
+                      <given-names>A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Jäger</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                    <name>
+                      <surname>Krohn-Grimberghe</surname>
+                      <given-names>B.</given-names>
+                    </name>
+                    <name>
+                      <surname>Patschan</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Kottmann</surname>
+                      <given-names>T.</given-names>
+                    </name>
+                    <name>
+                      <surname>Schmalz</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Mausberg</surname>
+                      <given-names>R.F.</given-names>
+                    </name>
+                    <name>
+                      <surname>Haak</surname>
+                      <given-names>R.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziebolz</surname>
+                      <given-names>D.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Active matrix metalloproteinase-8 and periodontal bacteria depending on periodontal status in patients with rheumatoid arthritis</article-title>
+                  <source>J. Periodontal Res.</source>
+                  <year>2017</year>
+                  <volume>52</volume>
+                  <fpage>745</fpage>
+                  <lpage>754</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jre.12443</pub-id>
+                  <pub-id pub-id-type="pmid">28321852</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B51-biomolecules-10-00395">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Serifova</surname>
+                      <given-names>X.</given-names>
+                    </name>
+                    <name>
+                      <surname>Ugarte-Berzal</surname>
+                      <given-names>E.</given-names>
+                    </name>
+                    <name>
+                      <surname>Opdenakker</surname>
+                      <given-names>G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Vandooren</surname>
+                      <given-names>J.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Homotrimeric MMP-9 is an active hitchhiker on alpha-2-macroglobulin partially escaping protease inhibition and internalization through LRP-1</article-title>
+                  <source>Cell Mol. Life Sci.</source>
+                  <year>2019</year>
+                  <comment>Oct 23, Epub ahead of print</comment>
+                  <pub-id pub-id-type="doi">10.1007/s00018-019-03338-4</pub-id>
+                  <?supplied-pmid 31642940?>
+                  <pub-id pub-id-type="pmid">31642940</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+          <floats-group>
+            <fig id="biomolecules-10-00395-f001" orientation="portrait" position="float">
+              <label>Figure 1</label>
+              <caption>
+                <p>Western immunoblot analysis of salivary samples studied for molecular forms, degree of activation and related fragmentation of matrix metalloproteinase (MMP)-8. “PMN” indicates neutrophil-type collagenase (70–80 kDa) and “Mes” fibroblast-type MMP-8 collagenase (50–65 kDa) together with their pro and active forms. “Complexes” indicate multiple forms of MMP-8 (&gt;110 kDa) and “fragments” the fragmented MMP-8 species (20–30 kDa). Lanes 1 and 2 illustrate the Crohn’s disease group, and lanes 3 and 4 the control group. All laboratory conditions (incl. time of exposure) and image analyses were standardized. Purified human activated MMP-8<sup>##</sup> was used as positive control (lane 5). Mobilities of the molecular weight markers (low range prestained SDS-PADE Standards (Bio-Rad Laboratories, Inc, Richmond, CA, USA) are indicated on the left.</p>
+              </caption>
+              <graphic xlink:href="biomolecules-10-00395-g001"/>
+            </fig>
+            <table-wrap id="biomolecules-10-00395-t001" orientation="portrait" position="float">
+              <object-id pub-id-type="pii">biomolecules-10-00395-t001_Table 1</object-id>
+              <label>Table 1</label>
+              <caption>
+                <p>Characterization of the study groups (patients with Crohn’s disease and their age- and gender-matched healthy controls) according to periodontal health status and stimulated salivary flow. PPD = probing pocket depth; BOP = bleeding on probing.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Findings</th>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Crohn’s Disease Group (N = 47)</th>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Control Group (N = 41)</th>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Difference <italic>P</italic>-Value</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Gender (male %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">23.4</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">29.3</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.629</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Age, years (mean, st.dev)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">46.4 (13.9)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">47.4 (13.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.734</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">No. of teeth (mean, st.dev)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">27 (2.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">27.6 (2.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.192</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">VPI % (mean, st.dev)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">23.8 (20.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">22.9 (18.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.828</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">BOP % (mean, st.dev)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">32.7 (23.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">33.9 (28.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.820</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Individuals with PPD 4 mm (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">22 (46.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">13 (31.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.192</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Individuals with PPD 5–6 mm (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1 (2.1)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">8 (19.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>0.011</bold>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Individuals with PPD ≥ 7 mm (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">5 (12.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>0.019</bold>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Individuals with REC ≥ 1 mm (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">33 (70.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">28 (68.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.000</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Individuals with REC ≥ 3 mm (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">14 (29.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">12 (29.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.073</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Periodontal diagnosis</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>0.021</bold>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Periodontally healthy (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">12 (25)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">15 (36.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Gingivitis (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">20 (42.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">15 (36.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Initial periodontitis (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">14 (29.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">4 (9.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Moderate periodontitis (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1 (2.1)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">2 (4.9)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Severe periodontitis (n, %)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0 (0)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">5 (12.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stimulated salivary flow, ml/min (mean, st.dev) </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.42 (0.72)</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.59 (0.90)</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.313</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <table-wrap id="biomolecules-10-00395-t002" orientation="portrait" position="float">
+              <object-id pub-id-type="pii">biomolecules-10-00395-t002_Table 2</object-id>
+              <label>Table 2</label>
+              <caption>
+                <p>Sensitivity and specificity of the oral rinse active matrix metalloproteinase-8 oral rinse point-of-care immunotest in relation to the presence of probing pocket depth (PPD), bleeding on probing (BOP), furcation defects, attrition, periodontal diseases (gingivitis or periodontitis), and periodontitis. (- = no individuals with PPD ≥ 7 mm)</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Periodontal Findings</th>
+                    <th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sensitivity/Spesificity</th>
+                    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Crohn’s Disease Group</th>
+                    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Control Group</th>
+                    <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Whole Population</th>
+                  </tr>
+                  <tr>
+                    <th align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+                    <th align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(N = 47)</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(N = 41)</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">(N = 88)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">PPD 4 mm</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">54.5</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">84.6</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">65.7</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">82.1</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81.1</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">PPD 5–6 mm</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">87.5</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">88.9</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">65.2</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">72.7</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">68.4</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">PPD ≥ 7 mm</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">-</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">100</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">-</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">69.4</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">66.3</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">BOP ≥ 15%</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">37.1</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">57.7</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">45.9</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">66.7</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93.3</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">81.5</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Furcation defect</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">40</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">66.7</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">54.5</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">64.9</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">72.4</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">68.2</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Attrition</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">52.4</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">38.9</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">46.2</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">76.9</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">60.9</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">69.4</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Periodontal diseases</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">35.3</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">57.7</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">45</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">61.5</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">93.3</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">78.6</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Periodontitis</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Sensitivity</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">60</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">90.9</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">73.1</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Specificity</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">75</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">80</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">77.4</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <table-wrap id="biomolecules-10-00395-t003" orientation="portrait" position="float">
+              <object-id pub-id-type="pii">biomolecules-10-00395-t003_Table 3</object-id>
+              <label>Table 3</label>
+              <caption>
+                <p>Unadjusted and adjusted (furcation defects and attrition) associations of the selected oral rinse active matrix metalloproteinase 8 point-of-care immunotest with periodontal diseases (gingivitis or periodontitis) or with periodontitis. Data are given as odds ratio (95% confident intervals), and <italic>p</italic>-value.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" style="border-top:solid thin" rowspan="1" colspan="1">Group</th>
+                    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Periodontal Diseases</th>
+                    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Periodontitis</th>
+                  </tr>
+                  <tr>
+                    <th align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Unadjusted</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adjusted</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Unadjusted</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Adjusted</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Crohn’s disease group (N = 47)</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">0.9 (0.23–3.26), 0.84</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">1.3 (0.29–5.58), 0.752</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">4.5 (1.22–16.6), 0.024</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">5.2 (1.26–21.6), 0.022</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">Control group (N = 41)</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">19.1 (2.17–167), 0.08</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">20.4 (1.92–216), 0.012</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">40 (4.25–376), 0.001</td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">54.3 (3.09–953), 0.006</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Whole population (N = 88)</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.0 (1.06–8.45), 0.038</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.16 (1.34–12.9), 0.014</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">9.3 (3.25–26.6), &lt;0.001</td>
+                    <td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">8.5 (2.88–25.3), &lt;0.001</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <table-wrap id="biomolecules-10-00395-t004" orientation="portrait" position="float">
+              <object-id pub-id-type="pii">biomolecules-10-00395-t004_Table 4</object-id>
+              <label>Table 4</label>
+              <caption>
+                <p>Relative levels of mean intensity (median, min-max) of molecular forms and fragments of salivary MMP-8 as regards to oral rinse point-of care immunotest positivity (+) and negativity (−). <italic>p</italic> values indicating a significant difference (&lt;0.05) are bolded.</p>
+              </caption>
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th rowspan="2" colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Group</th>
+                    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Complexes of MMP-8</th>
+                    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">PMN</th>
+                    <th colspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Mesenchymal</th>
+                    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Fragments of MMP-8</th>
+                    <th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Total MMP-8</th>
+                  </tr>
+                  <tr>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pro MMP-8</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">aMMP-8</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pro MMP-8</th>
+                    <th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">aMMP-8</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+                      <bold>Crohn’s disease Group</bold>
+                    </td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">
+                      <bold>+ (N = 17)</bold>
+                    </td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">
+                      <bold>1.8 (0.6–4.1)</bold>
+                    </td>
+                    <td align="center" valign="middle" rowspan="1" colspan="1">
+                      <bold>0.4 (0.1–2.1)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.0 (0.0–1.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.6 (0.0–1.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.5 (0.0–1.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–1.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">3.8 (1.0–9.5)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>− (N = 30)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.5 (0.2–4.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.4 (0.0–1.1)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–1.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.8 (0.0–1.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.8 (0.0–1.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.6 (0.0–0.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">3.7 (1.5–8.2)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>
+                        <italic>P</italic>
+                      </bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.330</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.877</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.708</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.303</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.061</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.192</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.982</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+                      <bold>Control Group</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>+ (N = 16)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.4 (0.1–4.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.6 (0.0–1.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.4 (0.0–1.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.0 (0.1–1.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.9 (0.0–1.9)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–2.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">4.9 (0.4–11.8)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>− (N = 25)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.5 (0.0–3.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.2 (0.0–1.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.0 (0.0–1.0)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.6 (0.0–1.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.7 (0.0–1.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.0 (0.0–0.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">2.2 (0.2–7.6)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>
+                        <italic>P</italic>
+                      </bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.022</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.037</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.015</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.121</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.209</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.046</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.015</bold>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td rowspan="3" align="center" valign="middle" style="border-bottom:solid thin" colspan="1">
+                      <bold>Whole</bold>
+                      <break/>
+                      <bold>Population</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>+ (N = 33)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.6 (0.1–4.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.4 (0.0–2.1)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–1.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.8 (0.0–1.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.2 (0.0–1.9)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–2.4)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">3.9 (0.4–11.8)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">
+                      <bold>− (N = 55)</bold>
+                    </td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">1.0 (0.0–4.2)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.3 (0.0–1.8)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.5 (0.0–1.3)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.7 (0.0–1.6)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.7 (0.0–1.7)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">0.1 (0.0–0.5)</td>
+                    <td align="left" valign="middle" rowspan="1" colspan="1">3.1 (0.2–8.2)</td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>
+                        <italic>P</italic>
+                      </bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.032</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.174</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.140</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.670</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.689</td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+                      <bold>0.020</bold>
+                    </td>
+                    <td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.062</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </floats-group>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

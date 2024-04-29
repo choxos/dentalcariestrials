@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:37:31Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10729058" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10729058</identifier>
+        <datestamp>2023-12-19</datestamp>
+        <setSpec>bmjo</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMJ Open</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMJ Open</journal-id>
+              <journal-id journal-id-type="hwp">bmjopen</journal-id>
+              <journal-id journal-id-type="publisher-id">bmjopen</journal-id>
+              <journal-title-group>
+                <journal-title>BMJ Open</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2044-6055</issn>
+              <publisher>
+                <publisher-name>BMJ Publishing Group</publisher-name>
+                <publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10729058</article-id>
+              <article-id pub-id-type="pmcid">PMC10729058</article-id>
+              <article-id pub-id-type="pmc-uid">10729058</article-id>
+              <article-id pub-id-type="pmid">38101830</article-id>
+              <article-id pub-id-type="pmid">38101830</article-id>
+              <article-id pub-id-type="publisher-id">bmjopen-2023-076226</article-id>
+              <article-id pub-id-type="doi">10.1136/bmjopen-2023-076226</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Dentistry and Oral Medicine</subject>
+                </subj-group>
+                <subj-group subj-group-type="hwp-journal-coll">
+                  <subject>1506</subject>
+                  <subject>1686</subject>
+                </subj-group>
+                <series-title>Protocol</series-title>
+              </article-categories>
+              <title-group>
+                <article-title>Evaluation of antimicrobial photodynamic therapy and minimal intervention associated with deproteinisation in permanent teeth with molar incisor hypomineralisation: study protocol for a clinical, controlled, blinded trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="author-108544319" contrib-type="author">
+                  <name>
+                    <surname>Mandetta</surname>
+                    <given-names>Amanda Rafaelly Honório</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-108544383" contrib-type="author">
+                  <name>
+                    <surname>Bortoletto</surname>
+                    <given-names>Carolina Carvalho</given-names>
+                  </name>
+                  <xref rid="aff2" ref-type="aff">2</xref>
+                </contrib>
+                <contrib id="author-55977762" contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6846-6574</contrib-id>
+                  <name>
+                    <surname>Sobral</surname>
+                    <given-names>Ana Paula Taboada</given-names>
+                  </name>
+                  <xref rid="aff3" ref-type="aff">3</xref>
+                  <xref rid="aff4" ref-type="aff">4</xref>
+                </contrib>
+                <contrib id="author-77204731" contrib-type="author">
+                  <name>
+                    <surname>Gonçalves</surname>
+                    <given-names>Marcela Letícia Leal</given-names>
+                  </name>
+                  <xref rid="aff3" ref-type="aff">3</xref>
+                  <xref rid="aff4" ref-type="aff">4</xref>
+                </contrib>
+                <contrib id="author-55972405" contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-7774-4345</contrib-id>
+                  <name>
+                    <surname>Motta</surname>
+                    <given-names>Lara Jansiski</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-46214497" contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3476-9064</contrib-id>
+                  <name>
+                    <surname>Horliana</surname>
+                    <given-names>Anna Carolina Ratto Tempestini</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-46230321" contrib-type="author">
+                  <name>
+                    <surname>Ferrari</surname>
+                    <given-names>Raquel Agnelli Mesquita</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-104479575" contrib-type="author">
+                  <name>
+                    <surname>Prates</surname>
+                    <given-names>Renato Araujo</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-73771163" contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0014-6953</contrib-id>
+                  <name>
+                    <surname>Deana</surname>
+                    <given-names>Alessandro Melo</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-108544573" contrib-type="author">
+                  <name>
+                    <surname>Cordeiro</surname>
+                    <given-names>Rita de Cássia Loiola</given-names>
+                  </name>
+                  <xref rid="aff5" ref-type="aff">5</xref>
+                </contrib>
+                <contrib id="author-108544630" contrib-type="author">
+                  <name>
+                    <surname>Pinto</surname>
+                    <given-names>Lourdes Aparecida Martins dos Santos</given-names>
+                  </name>
+                  <xref rid="aff5" ref-type="aff">5</xref>
+                </contrib>
+                <contrib id="author-46230302" contrib-type="author">
+                  <name>
+                    <surname>Fernandes</surname>
+                    <given-names>Kristianne Porta Santos</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-46230318" contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9853-1138</contrib-id>
+                  <name>
+                    <surname>Bussadori</surname>
+                    <given-names>Sandra Kalil</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                  <xref rid="aff4" ref-type="aff">4</xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1"><label>1</label><institution content-type="department">Postgraduate Program in Biophotonics Applied to Health Sciences</institution>, <institution specific-use="Ringgold_307212">Universidade Nove de Julho, Campus Vergueiro</institution>, <addr-line content-type="city">São Paulo</addr-line>, <addr-line content-type="state">SP</addr-line>, <country>Brazil</country></aff>
+              <aff id="aff2"><label>2</label><institution content-type="department">School of Dentistry</institution>, <institution>Universidade Nove de Julho</institution>, <addr-line content-type="city">São Paulo</addr-line>, <addr-line content-type="state">SP</addr-line>, <country>Brazil</country></aff>
+              <aff id="aff3"><label>3</label><institution content-type="department">Postgraduation Program in Health and Environment</institution>, <institution specific-use="Ringgold_199076">Universidade Metropolitana de Santos</institution>, <addr-line content-type="city">Santos</addr-line>, <addr-line content-type="state">SP</addr-line>, <country>Brazil</country></aff>
+              <aff id="aff4"><label>4</label><institution content-type="department">School of Dentistry</institution>, <institution>Universidade Metropolitana de Santos</institution>, <addr-line content-type="city">Santos</addr-line>, <addr-line content-type="state">SP</addr-line>, <country>Brazil</country></aff>
+              <aff id="aff5"><label>5</label><institution content-type="department">Research of Department of Pediatric Dentistry</institution>, <institution specific-use="Ringgold_153998">Universidade Estadual Paulista Júlio de Mesquita Filho, Campus de Araraquara</institution>, <addr-line content-type="city">Araraquara</addr-line>, <addr-line content-type="state">SP</addr-line>, <country>Brazil</country></aff>
+              <author-notes>
+                <corresp><label>Correspondence to</label> Dr Sandra Kalil Bussadori; <email>sandra.skb@gmail.com</email></corresp>
+              </author-notes>
+              <pub-date pub-type="collection">
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>14</day>
+                <month>12</month>
+                <year>2023</year>
+              </pub-date>
+              <volume>13</volume>
+              <issue>12</issue>
+              <elocation-id>e076226</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>31</day>
+                  <month>5</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>30</day>
+                  <month>11</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</copyright-statement>
+                <copyright-year>2023</copyright-year>
+                <ali:free_to_read/>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbynclicense" start_date="2023-12-14">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+                  <license-p>This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:title="pdf" xlink:href="bmjopen-2023-076226.pdf"/>
+              <self-uri content-type="reviewers-comments-pdf" xlink:href="bmjopen-2023-076226.reviewer_comments.pdf"/>
+              <self-uri content-type="draft-revisions-pdf" xlink:href="bmjopen-2023-076226.draft_revisions.pdf"/>
+              <abstract>
+                <sec>
+                  <title>Introduction</title>
+                  <p>Molar incisor hypomineralisation (MIH) is a qualitative defect of enamel development that occurs in the mineralisation phase. MIH affects one or more permanent molars and, occasionally, permanent incisors. The aim of the proposed study is to evaluate the clinical effect of antimicrobial photodynamic therapy (aPDT) on permanent teeth with MIH through decontamination and sensitivity control.</p>
+                </sec>
+                <sec>
+                  <title>Methods and analysis</title>
+                  <p>Patients from 8 to 12 years of age with permanent molars will be randomly allocated to three groups. Group 1: selective chemical–mechanical removal of carious dentinal tissue around the walls of the cavity with Papacárie Duo and a curette followed by the application of aPDT and deproteinisation with Papacárie Duo; group 2: selective removal of carious dentinal tissue around the walls of the cavity with a curette, followed by the application of aPDT and deproteinisation with a 5% sodium hypochlorite solution; group 3: selective removal of carious dentinal tissue using a curette. The selected teeth must have a carious lesion in the dentin and posteruptive enamel breakdown on one or more surfaces with an indication for clinical restorative treatment. The teeth will subsequently be restored using a mixed technique with resin-modified glass ionomer cement and bulk-fill composite resin. The data will be submitted to descriptive statistical analysis. Associations with age and sex will be tested using either the χ<sup>2</sup> test or Fisher’s exact test. Pearson’s correlation coefficients will be calculated to determine the strength of correlations between variables. Comparisons of the microbiological results (colony-forming units) will be performed using analysis of variance and the Kruskal-Wallis test. Kaplan-Meier survival analysis will be performed to assess the performance of the restorations.</p>
+                </sec>
+                <sec>
+                  <title>Ethics and dissemination</title>
+                  <p>This protocol has been approved by the Human Research Ethics Committee of Nove de Julho University (certificate number: 61027522.0.0000.5511/approval date: 23 August 2022). The findings will be published in a peer-reviewed journal.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration number</title>
+                  <p><ext-link xlink:href="NCT05443035" ext-link-type="ClinicalTrials.gov">NCT05443035</ext-link>.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>Laser therapy</kwd>
+                <kwd>Clinical trials</kwd>
+                <kwd>Child protection</kwd>
+              </kwd-group>
+              <funding-group specific-use="FundRef">
+                <award-group id="funding-1">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>CAPES (Coordination for the Advancement of Higher Education)</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>Protocol number 88887.687413/2022-00</award-id>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>special-feature</meta-name>
+                  <meta-value>unlocked</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <boxed-text id="BX1" position="float">
+              <caption>
+                <title>STRENGTHS AND LIMITATIONS OF THIS STUDY</title>
+              </caption>
+              <list list-type="bullet">
+                <list-item>
+                  <p>Combination of innovative treatment with the use of minimally invasive procedures aiming for a better pulp prognosis for young teeth with molar incisor hypomineralisation (MIH).</p>
+                </list-item>
+                <list-item>
+                  <p>Use of antimicrobial photodynamic therapy for decontamination and control of hypersensitivity aiming for a better prognosis after restorative treatment.</p>
+                </list-item>
+                <list-item>
+                  <p>Comparison of two deproteinising agents to increase the longevity of restorations in teeth with MIH.</p>
+                </list-item>
+                <list-item>
+                  <p>Relative isolation can be considered a limitation of this study.</p>
+                </list-item>
+              </list>
+            </boxed-text>
+            <sec sec-type="intro" id="s1">
+              <title>Introduction</title>
+              <p>Molar incisor hypomineralisation (MIH) is a complex multifactorial qualitative developmental defect of enamel with a genetic component that affects the permanent first molars and occasionally the permanent incisors. MIH presents itself clinically as a demarcated opacity that ranges in colour from creamy white to brownish yellow. Darker opacities have a more porous affected area and are more susceptible to fractures.<xref rid="R1" ref-type="bibr">1</xref> The main therapeutic challenges posed by this condition are an increased risk of caries, aesthetic problems, dental hypersensitivity, difficult adherence of restorative materials and treatment failures.<xref rid="R2" ref-type="bibr">2</xref></p>
+              <p>The hypomineralised enamel has lower mechanical properties with less hardness and modulus of elasticity. The high protein content is the main challenge to the adherence of restorative materials to this substrate. Thus, treatment failure and the need for retreatment are common.<xref rid="R3" ref-type="bibr">3 4</xref> Dentin hypersensitivity to thermal and mechanical stimuli is a symptom that may be present in individuals with MIH. The mechanism of hypersensitivity in MIH is not fully understood, but the high porosity of the affected enamel is believed to favour the penetration of bacteria into the dentinal tubules, causing subclinical pulpal inflammation.<xref rid="R5" ref-type="bibr">5 6</xref></p>
+              <p>Considering the hypersensitivity of teeth affected by MIH and the difficulty in managing the behaviour of children, the chemical–mechanical removal of carious tissue is a viable option. This method consists of the application of a proteolytic substance that softens the carious dentinal tissue and facilitates its removal with manual instruments.<xref rid="R7" ref-type="bibr">7 8</xref> The method is often painless, avoids the need for a drill and local anaesthesia and enables the greater preservation of dentinal tissue.<xref rid="R8" ref-type="bibr">8–10</xref> Enzyme-based materials, such as papain, have anti-inflammatory and bactericidal properties, resulting in significantly less pain compared with the conventional mechanical method with rotary instruments.<xref rid="R8" ref-type="bibr">8–11</xref> The control of hypersensitivity during the treatment of teeth with MIH can be challenging, even with adequate anaesthetic methods. Thus, the investigation of alternative, more conservative methods is of considerable importance.<xref rid="R12" ref-type="bibr">12</xref></p>
+              <p>Restorative treatment is recommended for teeth with MIH and cavities. Glass ionomer cement (GIC) is a material recommended in the literature for the restorative treatment of teeth with HMI and we can highlight, among its properties, biocompatibility and a coefficient of thermal expansion similar to the tooth structure. Furthermore, the material has the advantage of continuous release of fluoride, which provides protection for the tooth structure and can also help control tooth sensitivity.<xref rid="R13" ref-type="bibr">13</xref> When GIC is used in the mixed technique (sandwich technique), the material is applied as a base to replace dentin, and the composite resin that is applied to complete the restoration will have the advantages of mechanical resistance, colour stability, surface smoothness and reduction of polymerisation contraction.<xref rid="R14" ref-type="bibr">14</xref> Despite divergent opinions in the literature regarding the use of relative isolation in restorative procedures, it has been shown to be effective on teeth with MIH restored with hybrid glass materials.<xref rid="R15" ref-type="bibr">15</xref> Moreover, some studies have found no differences in the longevity of resin restorations in the comparison of the two isolation methods (relative and absolute).<xref rid="R15" ref-type="bibr">15–18</xref></p>
+              <p>The decision to remove all hypomineralised enamel is based on the need to avoid fractures at the margins of restorations. However, the complete removal of the altered enamel weakens the dental structure, which increases the likelihood of a failed restoration.<xref rid="R19" ref-type="bibr">19</xref> Studies point to deproteinisation as a way to improve the adhesion of restorative materials to enamel.<xref rid="R20" ref-type="bibr">20–24</xref> Papain gel is an alternative to 5% sodium hypochlorite in the deproteination for the bonding of adhesives to hypomineralised enamel. Hypochlorite is a strong oxidising agent that requires careful use in order not to affect soft tissues.<xref rid="R4" ref-type="bibr">4</xref></p>
+              <p>Other therapeutic measures have also been developed for the treatment of caries, such as antimicrobial photodynamic therapy (aPDT).<xref rid="R25" ref-type="bibr">25 26</xref> Photodynamic action occurs when the photosensitising agent absorbs photons from the light source and its electrons enter an excited singlet state.<xref rid="R27" ref-type="bibr">27</xref> For light to produce biological effects, it must interact with the tissue. A chromophore applied to the dentin has the function of absorbing the radiation of the light, thereby enhancing the interaction between the light and tissue.<xref rid="R28" ref-type="bibr">28–30</xref></p>
+              <p>Therefore, the aim of the proposed study is to investigate the antimicrobial and therapeutic action of aPDT on permanent teeth with MIH and cavities. The adhesion of restorative material following the deproteinisation of the hypomineralised enamel and selective chemical–mechanical removal of the carious tissue will also be assessed. Currently, evidence in the literature is weak regarding a minimally invasive approach to the treatment of teeth with MIH, which justifies the present study. The primary outcomes of the study will be the decontamination of teeth with MIH. In addition, the control of sensitivity and longevity of restorations will also be evaluated.</p>
+            </sec>
+            <sec sec-type="methods" id="s2">
+              <title>Methods</title>
+              <p>This study protocol was designed as a randomised, controlled, blind, clinical trial and follows the Standard Protocol Items for Randomised Trials (SPIRIT) recommendations, as displayed in <xref rid="T1" ref-type="table">table 1</xref>.</p>
+              <table-wrap position="float" id="T1">
+                <label>Table 1</label>
+                <caption>
+                  <p>Schedule of enrolment, interventions and assessments of the study</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <td align="left" valign="bottom" rowspan="1" colspan="1"/>
+                      <td align="left" valign="bottom" colspan="8" rowspan="1">Study period</td>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>Enrolment</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>Allocation</bold>
+                      </td>
+                      <td align="left" valign="top" colspan="5" rowspan="1">
+                        <bold>Post allocation</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>Close-out</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>Timepoint*</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>-t1</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>0</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T1</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T2</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T3</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T4</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T5</bold>
+                      </td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <bold>T6</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Enrolment:</td>
+                      <td align="left" valign="top" colspan="8" rowspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Eligibility screen</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Informed consent</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Allocation</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Interventions:</td>
+                      <td align="left" valign="top" colspan="8" rowspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">PDT+deproteinisation Papacárie Duo</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">PDT+deproteinisation<break/>NaClO 5%</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Atraumatic Restorative Treatment</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Assessments:</td>
+                      <td align="left" valign="top" colspan="8" rowspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Microbiological sample collection</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Clinical aspects</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Dentin sensitivity</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">X</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="T1_FN1">
+                    <p>*-t1=before the baseline, 0=baseline, T1=immediately after treatment, T2=48 hours after treatment, T3=03 months after the treatment, T4=06 months after the treatment, T5=09 months after the treatment, T6=12 months after the treatment.</p>
+                  </fn>
+                  <fn id="T1_FN2">
+                    <p>PDT, photodynamic therapy.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <sec id="s2-1">
+                <title>Description of sample</title>
+                <p>Sixty-nine teeth will be selected in healthy male and female children 8–12 years of age<xref rid="R31" ref-type="bibr">31</xref> (no distinction in terms of ethnicity) enrolled for treatment at the paediatric dental clinic of Universidade Nove de Julho with permanent first molars exhibiting MIH and the need for restorative treatment. Individuals who meet the inclusion criteria will be immediately randomised and treated. Each participant will receive treatment of a single tooth affected by MIH. If more than one tooth meets the inclusion criteria, the tooth to be included in the study will be selected randomly through a simple lottery procedure. The reporting of results will follow the Consolidated Standards of Reporting Trials guidelines.</p>
+              </sec>
+              <sec id="s2-2">
+                <title>Participants</title>
+                <sec id="s2-2-1">
+                  <title>Inclusion criteria</title>
+                  <list list-type="bullet">
+                    <list-item>
+                      <p>Male and female children.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Age between 8 and 12 years.</p>
+                    </list-item>
+                    <list-item>
+                      <p>At least one permanent first molar with MIH and active caries on the dentin (International Caries Detection and Assessment System (ICDAS) 5 or 6) with posteruptive fracture on a single surface or multiple surfaces with an indication for direct restorative treatment.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Direct view and access.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Cooperative patients (use of Venham Picture Test).</p>
+                    </list-item>
+                  </list>
+                </sec>
+                <sec id="s2-2-2">
+                  <title>Exclusion criteria</title>
+                  <list list-type="bullet">
+                    <list-item>
+                      <p>Clinically: sign or symptom of pulpal involvement.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Radiographically: evidence of pulpal involvement (initial periapical radiograph).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Teeth by MIH without indication for direct restorative treatment (multiple surfaces associated with large extensions of MIH).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Partially erupted teeth with MIH.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Previous restorative treatment.</p>
+                    </list-item>
+                  </list>
+                </sec>
+              </sec>
+              <sec id="s2-3">
+                <title>Patient and public involvement</title>
+                <p>The guardians of the patients were not involved in the design of this study. After the data analysis, the guardians will be given the opportunity to participate in a result-sharing meeting if they so desire. The consent form signed by guardians of the participants explains that the storage of data for each participant and family member is within the terms of confidentiality.</p>
+              </sec>
+              <sec id="s2-4">
+                <title>Calculation of sample size</title>
+                <p>The sample size was determined considering the primary outcome (bacterial count).<xref rid="R32" ref-type="bibr">32</xref> The initial estimate for a significance level of 0.05 and 80% test power was 18 teeth per group, to which 25% will be added to compensate for possible dropouts, resulting in 23 teeth per group. A statistical power analysis program (G* Power software V.3.1.9.6; Universität Düsseldorf, Düsseldorf, NRW, Germany) was used for the calculation of the sample size.</p>
+              </sec>
+              <sec id="s2-5">
+                <title>Randomisation</title>
+                <p>The participants will be randomly allocated to the different groups using a block randomisation method. A computer-generated sequence (random.org; Randomness and Integrity Services, Dublin, Leinster, Ireland) will be used to allocate each participant to a specific group maintaining a proportion of 1:1:1 (equal number of participants in all groups). Allocation concealment will be ensured with the use of sequentially numbered sealed opaque envelopes. The teeth selected for restorative treatment will be randomised into three groups:</p>
+                <p><bold>Group 1</bold>: Papacárie+aPDT.</p>
+                <p><bold>Group 2</bold>: NaClO 5%+aPDT.</p>
+                <p><bold>Group 3</bold>: Control.</p>
+              </sec>
+              <sec id="s2-6">
+                <title>Blinding</title>
+                <p>All treatments will be performed for the four groups by a single operator who will have undergone training and calibration exercises in the initial phase of the study. Clinical evaluations after 48 hours as well as at 3, 6, 9 and 12 months of follow-up will be performed by an assessor blinded to the treatments (single-blind study). The operator and assessor will be previously calibrated (calculation using Kappa statistic) to ensure interobserver agreement higher than 85% based on the criteria of the modified United States Public Health Service (USPHS)<xref rid="R20" ref-type="bibr">20 33</xref> index as well as criteria established by the European Academy of Paediatric Dentistry<xref rid="R34" ref-type="bibr">34</xref> and the ICDAS.<xref rid="R35" ref-type="bibr">35</xref> The data will be analysed by a blinded statistician.</p>
+              </sec>
+              <sec id="s2-7">
+                <title>Interventions</title>
+                <sec id="s2-7-1">
+                  <title>Group 1</title>
+                  <p>Selective chemical–mechanical removal of carious dentinal tissue around the walls of the cavity with Papacárie Duo and a curett followed by the application of aPDT and deproteinisation with Papacárie Duo.</p>
+                  <list list-type="order">
+                    <list-item>
+                      <p>Initial periapical radiograph.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Visual analogue scale (VAS) for pain (participant’s subjective assessment) and Schiff Cold Air Sensitivity Scale (SCASS; operator’s assessment).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Relative isolation (lip bumper, cotton roll and aspirator).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Microbiological sampling with Meyhoefer curette (for standardisation of volume of carious tissue).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Application of Papacárie Duo (Papacárie Duo; Fórmula &amp; Ação, São Paulo, SP, Brazil) to carious dentinal tissue allowed to act for 30–40 s.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Selective removal of infected carious tissue by scraping of softened tissue.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Second microbiological sample of remaining dentinal tissue with curette.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Application of methylene blue (Evilux 5; Fórmula &amp; Ação, São Paulo, SP, Brazil) to affected surface for 3 min.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Irradiation of affected dentinal tissue—aPDT (single point).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Third microbiological sample of remaining dentinal tissue with curette after aPDT.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Cleaning with cotton ball and water.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Clinical evaluation—inspection of texture of remaining dentin with ballpoint exploratory probe.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Protection of pulpal or axial wall with resin-modified GIC (Riva Light Cure; SDI, Melbourne, Vic, Australia) followed by photoactivation for 20 s.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Selective etching of adjacent enamel and demarcated opacities with 35% phosphoric acid (Ultra Etch; Ultradent, Indaiatuba, SP, Brazil) for 20 s.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Rinsing for 15 s and drying.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Application of Papacárie Duo (Papacárie Duo; Fórmula &amp; Ação, São Paulo, SP, Brazil) to adjacent enamel and demarcated opacities for deproteinisation; allowed to act for 60 s.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Cleaning with cotton ball and water.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Application of universal adhesive (Ambar; FGM, Joinville, SC, Brazil) to dentin and enamel for 20 s (repeat procedure).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Mild compressed air over adhesive for 5 s.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Photoactivation for 10 s (peak 1200 mW/cm<sup>2</sup>) (Radii Cal photopolymerising agent; SDI, Melbourne, Vic, Australia).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Restoration with bulk-fill composite resin (Tetric N Ceram Bulk Fill; Ivoclar Vivadent, Barueri, SP, Brazil) extending to adjacent demarcated opacities.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Photoactivation for 10 s, increments of up to 4 mm (Radii Cal photopolymerising agent; SDI, Melbourne, Vic, Australia).</p>
+                    </list-item>
+                    <list-item>
+                      <p>VAS for pain (participant’s subjective assessment), SCASS (operator’s assessment) and Venham Picture Test after 48 hours.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Clinical follow-up at 3-month intervals for a period of 12 months (modified USPHS index).</p>
+                    </list-item>
+                    <list-item>
+                      <p>VAS for pain (participant’s subjective assessment) and SCASS (operator’s assessment) at 3-month intervals for a period of 12 months of follow-up.</p>
+                    </list-item>
+                  </list>
+                </sec>
+                <sec id="s2-7-2">
+                  <title>Group 2</title>
+                  <p>Selective removal of carious tissue with curette+application of methylene blue and low-level laser (aPDT)+deproteinisation of adjacent enamel with 5% NaOCl.</p>
+                  <p>The same sequence as that used for group 1, with the exception of steps 5 (Papacárie will not be applied) and step 16, for which 5% NaOCl (Sodium Hypochlorite; Fórmula &amp; Ação, São Paulo, SP, Brazil) will be used for deproteinisation.</p>
+                </sec>
+                <sec id="s2-7-3">
+                  <title>Group 3</title>
+                  <p>Selective removal of carious tissue with curette (control group).</p>
+                  <p>The same sequence as that used for group 1, with the exception of steps 4, 5, 7, 8, 9, 10 and 16.</p>
+                  <p>All interventions will be initiated without the previous administration of local anaesthesia. Each child will be informed that anaesthesia could be administered at any time during the intervention.</p>
+                </sec>
+              </sec>
+              <sec id="s2-8">
+                <title>Antimicrobial photodynamic therapy</title>
+                <p>The light source used for aPDT will be a laser device (Therapy XT; DMC, São Carlos, SP, Brazil) emitting red light at λ=660 nm. The device will be calibrated according to previous mathematical calculations for the determination of the parameters to be used with the light source for aPDT. Laser parameters (<xref rid="T2" ref-type="table">table 2</xref>) will be set at continuous mode with 100 mW, 6 J per point, 60 s, 3571 mW/cm<sup>2</sup> and 214 J/cm<sup>2</sup>. The aPDT session will be held at the paediatric dental clinic. Only the volunteer and operator will be present and both will use protective eyewear. The active tip of the laser will be covered with disposal plastic wrap (PVC) to avoid cross-contamination and for reasons of hygiene. The operator will wear proper garments.</p>
+                <table-wrap position="float" id="T2">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Laser parameters</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <td align="left" valign="bottom" rowspan="1" colspan="1">Application technique</td>
+                        <td align="left" valign="bottom" rowspan="1" colspan="1">Contact</td>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Number of points irradiated</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Number and frequency of sessions</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">1 session</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Wavelength (nm)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">660±10</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Radiance (mW/cm<sup>2</sup>)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3571</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Spectral width (FWHM)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">4.8±2 nm</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Temporal regime</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Continuous</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Power</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">100 mW</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Beam type</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Multimode</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Beam area (cm<sup>2</sup>)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">0.028</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Exposure time</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">60 s</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Energy density (J/cm<sup>2</sup>)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">214</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Energy (J)</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">6</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="T2_FN1">
+                      <p>FWHM, Full width half maximum.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec id="s2-9">
+                <title>Radiographic and digital scanner assessments</title>
+                <p>Periapical radiographs will be taken to discard the possibility of a carious lesion with pulpal involvement. Follow-up radiographs will only be taken if pain symptoms justify exposure. A digital scanner (iTero Element 5D; Align Technology, San Jose, California, USA) with near-infrared imaging technology will be used for the assessment of the internal structure in real time.</p>
+              </sec>
+              <sec id="s2-10">
+                <title>Microbiological evaluation</title>
+                <p>The collection of infected dentin from each selected tooth will be performed in three stages: before and after the selective removal of carious tissue, and after aPDT. The collection will be performed on the pulpal or axial wall, with remnants of decayed dentin. The tissue will be removed using the Meyhoefer auricular curette no 2 (Meyhoefer curette; ABC Surgical Instruments, São Paulo, SP, Brazil) and the infected sample at each moment will be deposited in one eppendorf-type flask containing 1 mL of broth culture medium BHI (BHI Broth; Himedia, Kelton, Pennsylvania, USA). Samples will be packed on ice for transport to the laboratory where microbial quantification will be performed. In the laboratory, the BHI vial will be homogenised in a vortex (Vortex Q220 shaker; Quimis, Diadema, SP, Brazil) for 30 s at speed 10 (maximum). Serial dilutions of 10<sup>−1</sup> to 10<sup>−5</sup> times the original concentration will be performed. Aliquots of 10 μL will be seeded in a petri dish containing BHI medium (BHI Agar; Himedia) and incubated in microaerophilic conditions at 37°C for 48 hours (CO2 incubator Revco Elite II; Kendro Laboratory Products, Asheville, North Carolina, USA). Subsequently, colony forming units (CFUs) will be counted and converted by CFUs/mL for comparison between groups.<xref rid="R18" ref-type="bibr">18</xref> The procedure will be performed in duplicate.</p>
+              </sec>
+              <sec id="s2-11">
+                <title>Clinical evaluation</title>
+                <p>The clinical evaluation will be performed by an assessor who will be blinded to the treatment group to which each tooth is allocated. The criteria used for the clinical evaluation will be the retention of the restorative material in the cavity, breakdown of the enamel adjacent to the restoration and the occurrence of secondary caries. The criteria of the modified USPHS index will be used for the evaluation.<xref rid="R34" ref-type="bibr">34</xref> The restoration will be characterised as failed and the tooth will be excluded from the study if the C score is determined for any of the USPHS criteria. Photographs of the restorations will also be taken using a digital single-lens reflex camera (Canon EOS 700D; Canon, Tokyo, Honshu, Japan) to complement the clinical data. The visual demonstration could contribute to any necessary clarifications as well as make the discussion and documentation of the cases more efficient.</p>
+              </sec>
+              <sec id="s2-12">
+                <title>Assessment of dentinal sensitivity</title>
+                <p>Prior to the removal of the carious tissue, the volunteers in the different groups will indicate the degree of pain or discomfort on the VAS<xref rid="R36" ref-type="bibr">36</xref> following isolation of the neighbouring teeth and the application of compressed air to the tooth with MIH for 1 s. The operator and assessor will also use the SCASS.<xref rid="R5" ref-type="bibr">5</xref> The sensitivity readings (VAS and SCASS) will be repeated 48 hours after the restorative treatment and at 3-months intervals for a 12-month follow-up period.</p>
+              </sec>
+              <sec id="s2-13">
+                <title>Patient-centered research</title>
+                <p>Care with results centred on the paediatric patient with the assessment of anxiety and fear is increasingly evident in good dental practice and the improvement of the proposed techniques. In the present study, an anxiety scale (the Venham Picture Test)<xref rid="R33" ref-type="bibr">33 37</xref> will be used before treatment and after 48 hours. This scale consists of eight pairs of drawings including a fightened image (score 1) and non-frightened image (score 0). The children will be instructed to indicate which picture reflects their feelings at the moment. The final score will be the sum of all images ranging from 0 to 8, with higher scores indicating a higher level of anxiety and fear.<xref rid="R37" ref-type="bibr">37</xref></p>
+              </sec>
+              <sec id="s2-14">
+                <title>Statistical analysis</title>
+                <p>The primary outcome will be CFU/mL. Parametric and non-parametric statistics will be used to test the hypothesis. The results will be expressed using descriptive statistical analysis. Associations with age and sex will be performed using the accuracy test or Fisher’s exact test. The Student’s t-test and analysis of variance (ANOVA) will be used for the comparison of means of signs and symptoms of reversible pulpitis. Pearson’s correlation coefficients will be calculated to determine the strength of correlations between variables. Comparisons of the microbiological results (CFU) will be performed by the ANOVA and Kruskal-Wallis tests. Follow-up and all intention-to-treat analyses will be performed for each group. The repeated-measures mixed linear model will be used for inclusion in case of incomplete sequential elements. Kaplan-Meier survival analysis will be performed to assess the performance of the restorations. The data will be analysed statistically using these different tests and considering a 5% significance level.</p>
+              </sec>
+              <sec id="s2-15">
+                <title>Ethics and dissemination</title>
+                <p>The study will be conducted in accordance with the ethical precepts stipulated in the Declaration of Helsinki (World Medical Association Declaration of Helsinki, 2008) and in accordance with the norms governing research involving human subjects stipulated in Resolution no 466/12 and 510/2016 of the Brazilian National Board of Health and has received approval from the Human Research Ethics Committee of Nove de Julho University (certificate number: 61027522.0.0000.5511/approval date: August 23, 2022). The study was registered in ClinicalTrials.gov (NCT05443035, Last Update: November 22, 2023). Legal guardians will agree to the participation of the children by signing in writing a statement of informed consent. Recruitment will be initiated after approval from the Human Research Ethics Committee. Study findings will be disseminated through publication in a peer-reviewed journal.</p>
+                <p>The participants will be informed that they may withdraw from the study at any time for any reason, if they so wish. The researchers will also be able to remove participants from the study if deemed necessary.</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="s3">
+              <title>Discussion</title>
+              <p>MIH and caries generate a negative impact on the life of affected individuals. The search for effective conservative treatments with the aim of preserving pulpal vitality and tooth structure seems to be the most adequate choice for teeth that require early treatment. It is therefore fundamental to seek a clinical protocol that promotes decontamination, the control of hypersensitivity and greater longevity of restorations and incorporates the concept of minimal intervention.</p>
+              <p>Minimal intervention and knowledge of cariology have transformed the paradigm of restorative treatment for caries.<xref rid="R38" ref-type="bibr">38</xref> With this minimal intervention approach, the selective removal of carious tissue is less invasive and consistent. There is a total removal of carious tissue from the walls of the surrounding cavity and the removal of the softened dentin is performed on the pulp wall in the contaminated, necrotic zones with the preservation of the sound structure capable of remineralisation after the execution of the definitive sealing of the cavity.<xref rid="R39" ref-type="bibr">39</xref> Removal of all carious tissue is no longer indicated. In cases of deep injuries, it can cause accidental pulpal exposure and postoperative symptoms.<xref rid="R32" ref-type="bibr">32 38–43</xref> Furthermore, selective removal of carious tissue has been shown to be a promising technique for teeth with MIH.<xref rid="R15" ref-type="bibr">15 44–46</xref></p>
+              <p>The lack of randomised clinical trials with longitudinal follow-ups that prove the effectiveness of aPDT on permanent teeth with MIH constitutes a gap in the scientific literature that needs to be filled. Thus, any immediate bacterial reduction obtained through dentinal decontamination would increase the likelihood of successful treatment with an additional reduction over time, along with greater longevity of the restorative material.<xref rid="R32" ref-type="bibr">32</xref></p>
+              <p>The positive effects of the laser in modulating inflammation and the possibility of accelerating the formation of tertiary dentin<xref rid="R47" ref-type="bibr">47</xref> as a secondary effect of aPDT would be interesting for teeth with MIH and hypersensitivity. According to the literature, teeth with atypical restorations may present mild-to-moderate sensitivity,<xref rid="R5" ref-type="bibr">5</xref> therefore, finding an effective treatment to control pain after restorative treatment would be very important. The longevity of restorations in teeth with MIH is another limitation of treatment and also one of the main challenges for professionals. The need for constant retreatment generates emotional exhaustion for the patient, in addition to financial expense with each new procedure.<xref rid="R48" ref-type="bibr">48</xref> In view of this, it is essential that we understand the real effect of deproteinisation on teeth with MIH, aiming at maximum preservation of the enamel structure and thus providing effective long-term treatment.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary Material</title>
+              <supplementary-material content-type="local-data" id="d64e239">
+                <caption>
+                  <title>Reviewer comments</title>
+                </caption>
+                <media xlink:href="bmjopen-2023-076226.reviewer_comments.pdf"/>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="d64e240">
+                <caption>
+                  <title>Author's
+manuscript</title>
+                </caption>
+                <media xlink:href="bmjopen-2023-076226.draft_revisions.pdf"/>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>The authors are grateful to Nove de Julho University (UNINOVE) for the availability of laboratories and volunteers. To the guardians of the patients for agreeing to participate in this study.</p>
+            </ack>
+            <fn-group>
+              <fn fn-type="other">
+                <p><bold>Contributors:</bold> Substantial contributions to the conception: ARHM and SKB. Design of the work: ARHM, CCB, APTS, MLLG, LJM, ACRTH, RdCLC, LAMdSP and SKB. Drafting the work: ARHM, CCB, APTS, MLLG, LJM, RdCLC, LAMdSP and SKB. Revising the work: ARHM, CCB, APTS, MLLG, LJM, ACRTH, RAMF, RAP, AMD, RdCLC, LAMdSP, KPSF and SKB. Final approval of the work: ARHM, CCB, APTS, MLLG, LJM, ACRTH, RAMF and SKB. If stopping the trial is necessary, these authors will have.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Funding:</bold> Protocol number 88887.687413/2022-00 of CAPES (Coordination for the Advancement of Higher Education) /faleconosco@capes.gov.br / Setor Bancário Norte (SBN), Quadra 2, Bloco L, Lote 06, Edifício CAPES-70.040-031-Brasília, DF-Brazil</p>
+              </fn>
+              <fn fn-type="COI-statement">
+                <p><bold>Competing interests:</bold> None declared.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Patient and public involvement:</bold> Patients and/or the public were not involved in the design, or conduct, or reporting, or dissemination plans of this research.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p>
+              </fn>
+            </fn-group>
+            <sec sec-type="ethics-statement">
+              <title>Ethics statements</title>
+              <sec>
+                <title>Patient consent for publication</title>
+                <p content-type="ethics-consent-to-publish">Not applicable.</p>
+              </sec>
+            </sec>
+            <ref-list>
+              <title>References</title>
+              <ref id="R1">
+                <label>1</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bussaneli</surname><given-names>DG</given-names></string-name>, <string-name><surname>Vieira</surname><given-names>AR</given-names></string-name>, <string-name><surname>Santos-Pinto</surname><given-names>L</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Molar-Incisor hypomineralisation: an updated view for Aetiology 20 years later</article-title>. <source>Eur Arch Paediatr Dent</source><year>2022</year>;<volume>23</volume>:<fpage>193</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1007/s40368-021-00659-6</pub-id><pub-id pub-id-type="pmid">34392496</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R2">
+                <label>2</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Negre-Barber</surname><given-names>A</given-names></string-name>, <string-name><surname>Montiel-Company</surname><given-names>JM</given-names></string-name>, <string-name><surname>Catalá-Pizarro</surname><given-names>M</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Degree of severity of molar Incisor hypomineralization and its relation to dental caries</article-title>. <source>Sci Rep</source><year>2018</year>;<volume>8</volume>:<fpage>1248</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-018-19821-0</pub-id><pub-id pub-id-type="pmid">29352193</pub-id></mixed-citation>
+              </ref>
+              <ref id="R3">
+                <label>3</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lagarde</surname><given-names>M</given-names></string-name>, <string-name><surname>Vennat</surname><given-names>E</given-names></string-name>, <string-name><surname>Attal</surname><given-names>J-P</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Strategies to optimize bonding of adhesive materials to molar-Incisor hypomineralization-affected enamel: a systematic review</article-title>. <source>Int J Paediatr Dent</source><year>2020</year>;<volume>30</volume>:<fpage>405</fpage>–<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1111/ipd.12621</pub-id><pub-id pub-id-type="pmid">31990108</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R4">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ekambaram</surname><given-names>M</given-names></string-name>, <string-name><surname>Anthonappa</surname><given-names>RP</given-names></string-name>, <string-name><surname>Govindool</surname><given-names>SR</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Comparison of deproteinization agents on bonding to developmentally hypomineralized enamel</article-title>. <source>J Dent</source><year>2017</year>;<volume>67</volume>:<fpage>94</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1016/j.jdent.2017.10.004</pub-id><pub-id pub-id-type="pmid">29031995</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R5">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Linner</surname><given-names>T</given-names></string-name>, <string-name><surname>Khazaei</surname><given-names>Y</given-names></string-name>, <string-name><surname>Bücher</surname><given-names>K</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Hypersensitivity in teeth affected by molar-Incisor hypomineralization (MIH)</article-title>. <source>Sci Rep</source><year>2021</year>;<volume>11</volume>:<fpage>17922</fpage>. <pub-id pub-id-type="doi">10.1038/s41598-021-95875-x</pub-id><pub-id pub-id-type="pmid">34504122</pub-id></mixed-citation>
+              </ref>
+              <ref id="R6">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Raposo</surname><given-names>F</given-names></string-name>, <string-name><surname>de Carvalho Rodrigues</surname><given-names>AC</given-names></string-name>, <string-name><surname>Lia</surname><given-names>ÉN</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Prevalence of hypersensitivity in teeth affected by molar-Incisor Hypomineralization (MIH)</article-title>. <source>Caries Res</source><year>2019</year>;<volume>53</volume>:<fpage>424</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1159/000495848</pub-id><pub-id pub-id-type="pmid">30677762</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R7">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Abdul Khalek</surname><given-names>A</given-names></string-name>, <string-name><surname>Elkateb</surname><given-names>MA</given-names></string-name>, <string-name><surname>Abdel Aziz</surname><given-names>WE</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of papacarie and alternative restorative treatment on pain reaction during caries removal among children: a randomized controlled clinical trial</article-title>. <source>J Clin Pediatr Dent</source><year>2017</year>;<volume>41</volume>:<fpage>219</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.17796/1053-4628-41.3.219</pub-id><pub-id pub-id-type="pmid">28422591</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R8">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bussadori</surname><given-names>SK</given-names></string-name>, <string-name><surname>Guedes</surname><given-names>CC</given-names></string-name>, <string-name><surname>Hermida Bruno</surname><given-names>ML</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Chemo-mechanical removal of caries in an adolescent patient using a papain GEL: case report</article-title>. <source>J Clin Pediatr Dent</source><year>2008</year>;<volume>32</volume>:<fpage>177</fpage>–<lpage>80</lpage>. <pub-id pub-id-type="doi">10.17796/jcpd.32.3.1168770338617085</pub-id><pub-id pub-id-type="pmid">18524264</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R9">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bittencourt</surname><given-names>ST</given-names></string-name>, <string-name><surname>Pereira</surname><given-names>JR</given-names></string-name>, <string-name><surname>Rosa</surname><given-names>AW</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Mineral content removal after papacarie application in primary teeth: a quantitative analysis</article-title>. <source>J Clin Pediatr Dent</source><year>2010</year>;<volume>34</volume>:<fpage>229</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.17796/jcpd.34.3.k15t8q1805538524</pub-id><pub-id pub-id-type="pmid">20578660</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R10">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Beeley</surname><given-names>JA</given-names></string-name>, <string-name><surname>Yip</surname><given-names>HK</given-names></string-name>, <string-name><surname>Stevenson</surname><given-names>AG</given-names></string-name></person-group>. <article-title>Chemochemical caries removal: a review of the techniques and latest developments</article-title>. <source>Br Dent J</source><year>2000</year>;<volume>188</volume>:<fpage>427</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1038/sj.bdj.4800501</pub-id><pub-id pub-id-type="pmid">10953400</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R11">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cardoso</surname><given-names>M</given-names></string-name>, <string-name><surname>Coelho</surname><given-names>A</given-names></string-name>, <string-name><surname>Lima</surname><given-names>R</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Efficacy and patient's acceptance of alternative methods for Caries removal-a systematic review</article-title>. <source>J Clin Med</source><year>2020</year>;<volume>9</volume>:<elocation-id>3407</elocation-id>. <pub-id pub-id-type="doi">10.3390/jcm9113407</pub-id><pub-id pub-id-type="pmid">33114249</pub-id></mixed-citation>
+              </ref>
+              <ref id="R12">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Özgül</surname><given-names>BM</given-names></string-name>, <string-name><surname>Sakaryalı</surname><given-names>D</given-names></string-name>, <string-name><surname>Tirali</surname><given-names>RE</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Does MIH affects preoperative and intraoperative hypersensitivity?</article-title><source>J Clin Pediatr Dent</source><year>2022</year>;<volume>46</volume>:<fpage>204</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.17796/1053-4625-46.3.6</pub-id><pub-id pub-id-type="pmid">35830629</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R13">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fragelli</surname><given-names>CMB</given-names></string-name>, <string-name><surname>Souza</surname><given-names>J de</given-names></string-name>, <string-name><surname>Jeremias</surname><given-names>F</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Molar Incisor hypomineralization (MIH): conservative treatment management to restore affected teeth</article-title>. <source>Braz Oral Res</source><year>2015</year>;<volume>29</volume>. <pub-id pub-id-type="doi">10.1590/1807-3107BOR-2015.vol29.0076</pub-id></mixed-citation>
+              </ref>
+              <ref id="R14">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Medeiros</surname><given-names>F de L</given-names></string-name>, <string-name><surname>Dias</surname><given-names>BAS</given-names></string-name>, <string-name><surname>Silva</surname><given-names>GCB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The use and inter-relationship of compound resin and glass Ionomer cement (GIC) in sandwich Restorations</article-title>. <source>Research, Society and Development</source><year>2021</year>;<volume>10</volume>. <pub-id pub-id-type="doi">10.33448/rsd-v10i6.15617</pub-id></mixed-citation>
+              </ref>
+              <ref id="R15">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Grossi</surname><given-names>J de A</given-names></string-name>, <string-name><surname>Cabral</surname><given-names>RN</given-names></string-name>, <string-name><surname>Ribeiro</surname><given-names>APD</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Glass hybrid restorations as an alternative for restoring hypomineralized molars in the ART model</article-title>. <source>BMC Oral Health</source><year>2018</year>;<volume>18</volume>:<elocation-id>65</elocation-id>. <pub-id pub-id-type="doi">10.1186/s12903-018-0528-0</pub-id><pub-id pub-id-type="pmid">29669561</pub-id></mixed-citation>
+              </ref>
+              <ref id="R16">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Raskin</surname><given-names>A</given-names></string-name>, <string-name><surname>Setcos</surname><given-names>JC</given-names></string-name>, <string-name><surname>Vreven</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Influence of the isolation method on the 10-year clinical behaviour of posterior resin composite Restorations</article-title>. <source>Clin Oral Investig</source><year>2000</year>;<volume>4</volume>:<fpage>148</fpage>–<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1007/s007840000069</pub-id></mixed-citation>
+              </ref>
+              <ref id="R17">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Miao</surname><given-names>C</given-names></string-name>, <string-name><surname>Yang</surname><given-names>X</given-names></string-name>, <string-name><surname>Wong</surname><given-names>MC</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Rubber dam isolation for restorative treatment in dental patients</article-title>. <source>Cochrane Database Syst Rev</source><year>2021</year>;<volume>5</volume>:<elocation-id>CD009858</elocation-id>. <pub-id pub-id-type="doi">10.1002/14651858.CD009858.pub3</pub-id><pub-id pub-id-type="pmid">33998662</pub-id></mixed-citation>
+              </ref>
+              <ref id="R18">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sabbagh</surname><given-names>J</given-names></string-name>, <string-name><surname>Dagher</surname><given-names>S</given-names></string-name>, <string-name><surname>El Osta</surname><given-names>N</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Randomized clinical trial of a self-adhering flowable composite for class I restorations: 2-year results</article-title>. <source>Int J Dent</source><year>2017</year>:<elocation-id>5041529</elocation-id>. <pub-id pub-id-type="doi">10.1155/2017/5041529</pub-id><pub-id pub-id-type="pmid">28348594</pub-id></mixed-citation>
+              </ref>
+              <ref id="R19">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>William</surname><given-names>V</given-names></string-name>, <string-name><surname>Messer</surname><given-names>LB</given-names></string-name>, <string-name><surname>Burrow</surname><given-names>MF</given-names></string-name></person-group>. <article-title>Molar Incisor hypomineralization: review and recommendations for clinical management</article-title>. <source>Pediatr Dent</source><year>2006</year>;<volume>28</volume>:<fpage>224</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">16805354</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R20">
+                <label>20</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sönmez</surname><given-names>H</given-names></string-name>, <string-name><surname>Saat</surname><given-names>S</given-names></string-name></person-group>. <article-title>A clinical evaluation of deproteinization and different cavity designs on resin restoration performance in MIH-affected molars: two-year results</article-title>. <source>J Clin Pediatr Dent</source><year>2017</year>;<volume>41</volume>:<fpage>336</fpage>–<lpage>42</lpage>. <pub-id pub-id-type="doi">10.17796/1053-4628-41.5.336</pub-id><pub-id pub-id-type="pmid">28872993</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R21">
+                <label>21</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Agarwal</surname><given-names>RM</given-names></string-name>, <string-name><surname>Yeluri</surname><given-names>R</given-names></string-name>, <string-name><surname>Singh</surname><given-names>C</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Enamel deproteinization using papacarie and 10% Papain GEL on shear bond strength of orthodontic brackets before and after acid etching</article-title>. <source>J Clin Pediatr Dent</source><year>2015</year>;<volume>39</volume>:<fpage>348</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.17796/1053-4628-39.4.348</pub-id><pub-id pub-id-type="pmid">26161607</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R22">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bayrak</surname><given-names>G-D</given-names></string-name>, <string-name><surname>Gurdogan-Guler</surname><given-names>E-B</given-names></string-name>, <string-name><surname>Yildirim</surname><given-names>Y</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Assessment of shear bond strength and microleakage of fissure sealant following enamel deproteinization: an in Vitro study</article-title>. <source>J Clin Exp Dent</source><year>2020</year>;<volume>12</volume>:<fpage>e220</fpage>–<lpage>6</lpage>. <pub-id pub-id-type="doi">10.4317/jced.56281</pub-id><pub-id pub-id-type="pmid">32190191</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R23">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kusumasari</surname><given-names>C</given-names></string-name>, <string-name><surname>Abdou</surname><given-names>A</given-names></string-name>, <string-name><surname>Tichy</surname><given-names>A</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of smear layer deproteinization with chemo-mechanical caries removal agents on sealing performances of self-Etch adhesives</article-title>. <source>J Dent</source><year>2020</year>;<volume>94</volume>:<fpage>103300</fpage>. <pub-id pub-id-type="doi">10.1016/j.jdent.2020.103300</pub-id><pub-id pub-id-type="pmid">32070754</pub-id></mixed-citation>
+              </ref>
+              <ref id="R24">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lee</surname><given-names>Y-L</given-names></string-name>, <string-name><surname>Li</surname><given-names>KC</given-names></string-name>, <string-name><surname>Yiu</surname><given-names>CKY</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Evaluation of developmentally hypomineralised enamel after surface pretreatment with papacarie duo GEL and different etching modes: an in vitro SEM and AFM study</article-title>. <source>Eur Arch Paediatr Dent</source><year>2022</year>;<volume>23</volume>:<fpage>117</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.1007/s40368-021-00671-w</pub-id><pub-id pub-id-type="pmid">34586616</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R25">
+                <label>25</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>de Oliveira</surname><given-names>AB</given-names></string-name>, <string-name><surname>Ferrisse</surname><given-names>TM</given-names></string-name>, <string-name><surname>Marques</surname><given-names>RS</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of photodynamic therapy on microorganisms responsible for dental caries: a systematic review and meta-analysis</article-title>. <source>Int J Mol Sci</source><year>2019</year>;<volume>20</volume>:<elocation-id>3585</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijms20143585</pub-id><pub-id pub-id-type="pmid">31340425</pub-id></mixed-citation>
+              </ref>
+              <ref id="R26">
+                <label>26</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wilson</surname><given-names>M</given-names></string-name></person-group>. <article-title>Lethal photosensitisation of oral bacteria and its potential application in the photodynamic therapy of oral infections</article-title>. <source>Photochem Photobiol Sci</source><year>2004</year>;<volume>3</volume>:<fpage>412</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1039/b211266c</pub-id><pub-id pub-id-type="pmid">15122357</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R27">
+                <label>27</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Maisch</surname><given-names>T</given-names></string-name>, <string-name><surname>Baier</surname><given-names>J</given-names></string-name>, <string-name><surname>Franz</surname><given-names>B</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The role of singlet oxygen and oxygen concentration in photodynamic inactivation of bacteria</article-title>. <source>Proc Natl Acad Sci U S A</source><year>2007</year>;<volume>104</volume>:<fpage>7223</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0611328104</pub-id><pub-id pub-id-type="pmid">17431036</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R28">
+                <label>28</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Nogueira</surname><given-names>AC</given-names></string-name>, <string-name><surname>Graciano</surname><given-names>AX</given-names></string-name>, <string-name><surname>Nagata</surname><given-names>JY</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Photosensitizer and light diffusion through Dentin in Photodynamic therapy</article-title>. <source>J Biomed Opt</source><year>2013</year>;<volume>18</volume>:<elocation-id>55004</elocation-id>. <pub-id pub-id-type="doi">10.1117/1.JBO.18.5.055004</pub-id><pub-id pub-id-type="pmid">23703574</pub-id></mixed-citation>
+              </ref>
+              <ref id="R29">
+                <label>29</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kömerik</surname><given-names>N</given-names></string-name>, <string-name><surname>Nakanishi</surname><given-names>H</given-names></string-name>, <string-name><surname>MacRobert</surname><given-names>AJ</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>In vivo killing of porphyromonas gingivalis by toluidine blue-mediated photosensitization in an animal model</article-title>. <source>Antimicrob Agents Chemother</source><year>2003</year>;<volume>47</volume>:<fpage>932</fpage>–<lpage>40</lpage>. <pub-id pub-id-type="doi">10.1128/AAC.47.3.932-940.2003</pub-id><pub-id pub-id-type="pmid">12604524</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R30">
+                <label>30</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cieplik</surname><given-names>F</given-names></string-name>, <string-name><surname>Buchalla</surname><given-names>W</given-names></string-name>, <string-name><surname>Hellwig</surname><given-names>E</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Antimicrobial photodynamic therapy as an adjunct for treatment of deep carious lesions-a systematic review</article-title>. <source>Photodiagnosis Photodyn Ther</source><year>2017</year>;<volume>18</volume>:<fpage>54</fpage>–<lpage>62</lpage>. <pub-id pub-id-type="doi">10.1016/j.pdpdt.2017.01.005</pub-id><pub-id pub-id-type="pmid">28099873</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R31">
+                <label>31</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jälevik</surname><given-names>B</given-names></string-name></person-group>. <article-title>Prevalence and diagnosis of molar-Incisor- hypomineralisation (MIH): a systematic review</article-title>. <source>Eur Arch Paediatr Dent</source><year>2010</year>;<volume>11</volume>:<fpage>59</fpage>–<lpage>64</lpage>. <pub-id pub-id-type="doi">10.1007/BF03262714</pub-id><pub-id pub-id-type="pmid">20403299</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R32">
+                <label>32</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Guglielmi</surname><given-names>C de A</given-names></string-name>, <string-name><surname>Simionato</surname><given-names>MRL</given-names></string-name>, <string-name><surname>Ramalho</surname><given-names>KM</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Clinical use of photodynamic antimicrobial chemotherapy for the treatment of deep carious lesions</article-title>. <source>J Biomed Opt</source><year>2011</year>;<volume>16</volume>:<elocation-id>088003</elocation-id>. <pub-id pub-id-type="doi">10.1117/1.3611009</pub-id><pub-id pub-id-type="pmid">21895343</pub-id></mixed-citation>
+              </ref>
+              <ref id="R33">
+                <label>33</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rolim</surname><given-names>TZC</given-names></string-name>, <string-name><surname>da Costa</surname><given-names>TRF</given-names></string-name>, <string-name><surname>Wambier</surname><given-names>LM</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Adhesive restoration of molars affected by molar Incisor hypomineralization: a randomized clinical trial</article-title>. <source>Clin Oral Investig</source><year>2021</year>;<volume>25</volume>:<fpage>1513</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03459-2</pub-id></mixed-citation>
+              </ref>
+              <ref id="R34">
+                <label>34</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lygidakis</surname><given-names>NA</given-names></string-name>, <string-name><surname>Garot</surname><given-names>E</given-names></string-name>, <string-name><surname>Somani</surname><given-names>C</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Best clinical practice guidance for clinicians dealing with children presenting with molar-incisor-hypomineralisation (MIH): an updated European academy of paediatric dentistry policy document</article-title>. <source>Eur Arch Paediatr Dent</source><year>2022</year>;<volume>23</volume>:<fpage>3</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1007/s40368-021-00668-5</pub-id><pub-id pub-id-type="pmid">34669177</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R35">
+                <label>35</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Farias</surname><given-names>L</given-names></string-name>, <string-name><surname>Laureano</surname><given-names>ICC</given-names></string-name>, <string-name><surname>Fernandes</surname><given-names>LHF</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Presence of molar-Incisor hypomineralization is associated with dental caries in Brazilian schoolchildren</article-title>. <source>Braz Oral Res</source><year>2021</year>;<volume>35</volume>. <pub-id pub-id-type="doi">10.1590/1807-3107bor-2021.vol35.0013</pub-id></mixed-citation>
+              </ref>
+              <ref id="R36">
+                <label>36</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jensen</surname><given-names>MP</given-names></string-name>, <string-name><surname>Karoly</surname><given-names>P</given-names></string-name>, <string-name><surname>Braver</surname><given-names>S</given-names></string-name></person-group>. <article-title>The measurement of clinical pain intensity: a comparison of six methods</article-title>. <source>Pain</source><year>1986</year>;<volume>27</volume>:<fpage>117</fpage>–<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1016/0304-3959(86)90228-9</pub-id><pub-id pub-id-type="pmid">3785962</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R37">
+                <label>37</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Reddy</surname><given-names>RE</given-names></string-name>, <string-name><surname>Merum</surname><given-names>K</given-names></string-name>, <string-name><surname>Mudusu</surname><given-names>SP</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Effect of digitalized previsit imagery on behavior of children in the dental operatory</article-title>. <source>Int J Clin Pediatr Dent</source><year>2021</year>;<volume>14</volume>:<fpage>S124</fpage>–<lpage>30</lpage>. <pub-id pub-id-type="doi">10.5005/jp-journals-10005-2089</pub-id><pub-id pub-id-type="pmid">35645482</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R38">
+                <label>38</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bussadori</surname><given-names>SK</given-names></string-name>, <string-name><surname>Guedes</surname><given-names>CC</given-names></string-name>, <string-name><surname>Bachiega</surname><given-names>JC</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Clinical and radiographic study of chemical-mechanical removal of caries using papacárie: 24-month follow up</article-title>. <source>J Clin Pediatr Dent</source><year>2011</year>;<volume>35</volume>:<fpage>251</fpage>–<lpage>4</lpage>. <pub-id pub-id-type="doi">10.17796/jcpd.35.3.75803m02524625h5</pub-id><pub-id pub-id-type="pmid">21678665</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R39">
+                <label>39</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Barros</surname><given-names>M</given-names></string-name>, <string-name><surname>De Queiroz Rodrigues</surname><given-names>MI</given-names></string-name>, <string-name><surname>Muniz</surname><given-names>F</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Selective, stepwise, or nonselective removal of carious tissue: which technique offers lower risk for the treatment of dental caries in permanent teeth? a systematic review and meta-analysis</article-title>. <source>Clin Oral Investig</source><year>2020</year>;<volume>24</volume>:<fpage>521</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-019-03114-5</pub-id></mixed-citation>
+              </ref>
+              <ref id="R40">
+                <label>40</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Matsumoto</surname><given-names>SFB</given-names></string-name>, <string-name><surname>Motta</surname><given-names>LJ</given-names></string-name>, <string-name><surname>Alfaya</surname><given-names>TA</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Assessment of Chemomechanical removal of Carious lesions using Papacarie duo: randomized longitudinal clinical trial</article-title>. <source>Indian J Dent Res</source><year>2013</year>;<volume>24</volume>:<fpage>488</fpage>–<lpage>92</lpage>. <pub-id pub-id-type="doi">10.4103/0970-9290.118393</pub-id><pub-id pub-id-type="pmid">24047844</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R41">
+                <label>41</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Oliveira</surname><given-names>EF</given-names></string-name>, <string-name><surname>Carminatti</surname><given-names>G</given-names></string-name>, <string-name><surname>Fontanella</surname><given-names>V</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>The monitoring of deep Caries lesions after incomplete Dentine Caries removal: results after 14-18 months</article-title>. <source>Clin Oral Investig</source><year>2006</year>;<volume>10</volume>:<fpage>134</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-006-0033-8</pub-id></mixed-citation>
+              </ref>
+              <ref id="R42">
+                <label>42</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Anegundi</surname><given-names>RT</given-names></string-name>, <string-name><surname>Patil</surname><given-names>SB</given-names></string-name>, <string-name><surname>Tegginmani</surname><given-names>V</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>A comparative Microbiological study to assess Caries excavation by conventional rotary method and a Chemo-mechanical method</article-title>. <source>Contemp Clin Dent</source><year>2012</year>;<volume>3</volume>:<fpage>388</fpage>–<lpage>92</lpage>. <pub-id pub-id-type="doi">10.4103/0976-237X.107420</pub-id><pub-id pub-id-type="pmid">23633794</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R43">
+                <label>43</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kumar</surname><given-names>J</given-names></string-name>, <string-name><surname>Nayak</surname><given-names>M</given-names></string-name>, <string-name><surname>Prasad</surname><given-names>KL</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>A comparative study of the clinical efficiency of Chemomechanical Caries removal using Carisolv and Papacarie - a Papain GEL</article-title>. <source>Indian J Dent Res</source><year>2012</year>;<volume>23</volume>:<fpage>697</fpage>. <pub-id pub-id-type="doi">10.4103/0970-9290.107429</pub-id></mixed-citation>
+              </ref>
+              <ref id="R44">
+                <label>44</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gatón-Hernandéz</surname><given-names>P</given-names></string-name>, <string-name><surname>Serrano</surname><given-names>CR</given-names></string-name>, <string-name><surname>da Silva</surname><given-names>LAB</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Minimally Interventive restorative care of teeth with molar Incisor Hypomineralization and open apex-A 24-month longitudinal study</article-title>. <source>Int J Paediatr Dent</source><year>2020</year>;<volume>30</volume>:<fpage>4</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1111/ipd.12581</pub-id><pub-id pub-id-type="pmid">31593607</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R45">
+                <label>45</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Durmus</surname><given-names>B</given-names></string-name>, <string-name><surname>Sezer</surname><given-names>B</given-names></string-name>, <string-name><surname>Tugcu</surname><given-names>N</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Two-year survival of high-viscosity glass Ionomer in children with molar Incisor Hypomineralization</article-title>. <source>Med Princ Pract</source><year>2021</year>;<volume>30</volume>:<fpage>73</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1159/000508676</pub-id><pub-id pub-id-type="pmid">32417844</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R46">
+                <label>46</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bastos-Bitencourt</surname><given-names>NA</given-names></string-name>, <string-name><surname>Mosquim</surname><given-names>V</given-names></string-name>, <string-name><surname>Zabeu</surname><given-names>GS</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>MIH-affected teeth: clinical challenges from diagnosis to restorative management</article-title>. <source>Int J Periodontics Restorative Dent</source><year>2022</year>;<volume>42</volume>:<fpage>225</fpage>–<lpage>31</lpage>. <pub-id pub-id-type="doi">10.11607/prd.4896</pub-id><pub-id pub-id-type="pmid">35353092</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="R47">
+                <label>47</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ferreira</surname><given-names>L de A</given-names></string-name>, <string-name><surname>Anestino</surname><given-names>TA</given-names></string-name>, <string-name><surname>Branco</surname><given-names>NTT</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Adjunctive therapies for in vitro carious lesions: antimicrobial activity, activation of dentin metalloproteinases and effects on dental pulp cells</article-title>. <source>Photodiagnosis Photodyn Ther</source><year>2022</year>;<volume>40</volume>:<fpage>103168</fpage>. <pub-id pub-id-type="doi">10.1016/j.pdpdt.2022.103168</pub-id><pub-id pub-id-type="pmid">36265565</pub-id></mixed-citation>
+              </ref>
+              <ref id="R48">
+                <label>48</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Jälevik</surname><given-names>B</given-names></string-name>, <string-name><surname>Klingberg</surname><given-names>GA</given-names></string-name></person-group>. <article-title>Dental treatment, dental fear and behaviour management problems in children with severe enamel hypomineralization of their permanent first molars</article-title>. <source>Int J Paediatr Dent</source><year>2002</year>;<volume>12</volume>:<fpage>24</fpage>–<lpage>32</lpage>.:<elocation-id>11853245</elocation-id>.<pub-id pub-id-type="pmid">11853245</pub-id>
+</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

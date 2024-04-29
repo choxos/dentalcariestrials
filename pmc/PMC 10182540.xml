@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:38:29Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10182540" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10182540</identifier>
+        <datestamp>2023-05-14</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10182540</article-id>
+              <article-id pub-id-type="pmcid">PMC10182540</article-id>
+              <article-id pub-id-type="pmc-uid">10182540</article-id>
+              <article-id pub-id-type="pmid">37179287</article-id>
+              <article-id pub-id-type="publisher-id">2966</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-023-02966-4</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Trehalose versus carboxymethylcellulose oral spray for relieving radiation-induced xerostomia in head and neck cancer patients: a randomized controlled trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Piboonratanakit</surname>
+                    <given-names>Pornpan</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ferreira</surname>
+                    <given-names>Joao N.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pravinvongvuthi</surname>
+                    <given-names>Kulpriya</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Maison</surname>
+                    <given-names>Khwanchanok</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Urkasemsin</surname>
+                    <given-names>Ganokon</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Boonroung</surname>
+                    <given-names>Thirayu</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Prayongrat</surname>
+                    <given-names>Anussara</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lertbutsayanukul</surname>
+                    <given-names>Chawalit</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sucharitakul</surname>
+                    <given-names>Jeerus</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Vacharaksa</surname>
+                    <given-names>Anjalee</given-names>
+                  </name>
+                  <address>
+                    <email>anjalee.v@chula.ac.th</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff9">9</xref>
+                  <xref ref-type="aff" rid="Aff10">10</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Department of Oral Medicine, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Research Unit in Oral Diseases, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Avatar Biotechnologies for Oral Health and Healthy Longevity Research Unit, Department of Research Affairs, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Geriatric and Special Patients (International) Program, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>34 Henri-Dunant Road, Pathumwan, Bangkok, 10330 Thailand </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.10223.32</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0490</institution-id><institution>Department of Preclinic and Applied Animal Science, Faculty of Veterinary Science, </institution><institution>Mahidol University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.411628.8</institution-id><institution-id institution-id-type="ISNI">0000 0000 9758 8584</institution-id><institution>Dental Department, </institution><institution>King Chulalongkorn Memorial Hospital, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Division of Radiation Oncology, Department of Radiology, Faculty of Medicine, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Department of Biochemistry, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Department of Microbiology, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+                <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="GRID">grid.7922.e</institution-id><institution-id institution-id-type="ISNI">0000 0001 0244 7875</institution-id><institution>Excellent Center on Microbiology and Immunology, Faculty of Dentistry, </institution><institution>Chulalongkorn University, </institution></institution-wrap>Bangkok, Thailand </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>13</day>
+                <month>5</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>13</day>
+                <month>5</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2023</year>
+              </pub-date>
+              <volume>23</volume>
+              <elocation-id>288</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>17</day>
+                  <month>11</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>15</day>
+                  <month>4</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2023</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">The aim of this study was to investigate the effect of trehalose oral spray to relieve radiation-induced xerostomia on a randomized controlled trial (RCT).</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Prior to RCT, the effect of trehalose (5–20%) on the epithelial growth of fetal mouse salivary gland (SG) explants was evaluated to confirm if 10% trehalose exerted the best epithelial outcomes. Participants who completed radiotherapy for head and neck cancer (HNC) treatment were enrolled in a double-blind RCT, according to inclusion and exclusion criteria as per the CONSORT statement. The experimental group (n = 35) received 10% trehalose spray, while the control group (n = 35) received carboxymethylcellulose (CMC) spray to apply intra-orally 4 times/day for 14 days. Salivary pH and unstimulated salivary flow rate were recorded pre- and post-interventions. The Xerostomia-related Quality of Life scale (XeQoLs) was filled, and scores assessed post-interventions.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">In the SG explant model, pro-acinar epithelial growth and mitosis was supported by 10% topical trehalose. As for RCT outcomes, salivary pH and unstimulated salivary flow rate were significantly improved after use of 10% trehalose spray when compared to CMC (<italic>p</italic> &lt; 0.05). Participants reported an improvement of XeQoLs dimension scores after using trehalose or CMC oral sprays in terms of physical, pain/discomfort, and psychological dimensions (<italic>p</italic> &lt; 0.05), but not social <italic>(p</italic> &gt; 0.05). When comparing between CMC and trehalose sprays, XeQoLs total scores were not statistically different (<italic>p</italic> &gt; 0.05).</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">The 10% trehalose spray improved salivary pH, unstimulated salivary flow rate, and the quality-of-life dimensions linked with physical, pain/discomfort, and psychological signs. The clinical efficacy of 10% trehalose spray was equivalent with CMC-based saliva substitutes for relieving radiation-induced xerostomia; therefore, trehalose may be suggested in alternative to CMC-based oral spray.<bold>(</bold>Thai Clinical Trials Registry; <ext-link ext-link-type="uri" xlink:href="https://www.thaiclinicaltrials.org/">https://www.thaiclinicaltrials.org/</ext-link> TCTR20190817004).</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-023-02966-4.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Head and neck cancer</kwd>
+                <kwd>Radiotherapy</kwd>
+                <kwd>Salivary gland</kwd>
+                <kwd>Hyposalivation</kwd>
+                <kwd>Xerostomia</kwd>
+                <kwd>Trehalose</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>CU Graduate School Thesis Grant</institution>
+                  </funding-source>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                  <award-id>GCUGR1225632040M</award-id>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Dental Research Fund, Faculty of Dentistry, Chulalongkorn University</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>mid-career research grant, the National Research Council of Thailand</institution>
+                  </funding-source>
+                  <award-id>NRCT5-RSA63001-12</award-id>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Ratchadaphiseksomphot Endowment Fund</institution>
+                  </funding-source>
+                  <award-id>33/2565</award-id>
+                  <award-id>33/2565</award-id>
+                  <award-id>33/2565</award-id>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>ASEAN Scholarship</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1" sec-type="introduction">
+              <title>Introduction</title>
+              <p id="Par5">Almost a million people are affected by head and neck cancers (HNC) worldwide [<xref ref-type="bibr" rid="CR1">1</xref>]. Radiotherapy is a standard treatment for HNC; however, radiation also induces collateral damage to surrounding normal tissues and causes several complications including sore throat, altered taste, limited saliva flow, dental caries, as well as impaired speaking, chewing or swallowing functions. Salivary glands (SG) are often affected by radiation exposure causing a reduction in salivation and pH of secreted saliva [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>]. The total dose of radiotherapy for HNC ranges from 50 to 70 Gy, while doses over 52 Gy begin to impair SG function [<xref ref-type="bibr" rid="CR4">4</xref>–<xref ref-type="bibr" rid="CR6">6</xref>]. Thus, SG hypofunction is frequently reported in HNC patients treated with radiotherapy [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>]. Many reports showed that salivary flow rate decreases steeply after radiotherapy, and it may take 3 to 6 months until SG gradually recovers [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Saliva plays a significant role as an oral lubricant to maintain oral health, facilitate masticatory functions, speaking and other normal daily activities [<xref ref-type="bibr" rid="CR9">9</xref>]. Therefore, radiation-related SG hypofunction affects physiologic functions, nutritional intake causing weight loss, and compromised general health and quality of life.</p>
+              <p id="Par6">Xerostomia is subjective perception of dry mouth associated with SG hypofunction [<xref ref-type="bibr" rid="CR10">10</xref>]. Treatment approach for radiation-related xerostomia focuses on relieving symptoms including saliva substitutes or stimulants. However, saliva stimulants tend to have adverse effects such as sweating, dizziness, flushing of the face and neck, chills, or increased urge to urinate [<xref ref-type="bibr" rid="CR11">11</xref>], whereas the saliva substitutes, for example in the form of oral rinse or moisturizing gel [<xref ref-type="bibr" rid="CR12">12</xref>–<xref ref-type="bibr" rid="CR14">14</xref>], were simple and effective to manage dry mouth [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. Saliva substitutes have been reported to physically coat oral tissues for moisture retention [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. Contents of saliva substitutes commonly are carboxymethylcellulose (CMC), mucins, xanthan gum, hydroxymethylcellulose, linseed oil, or polyethylene oxide. Most saliva substitutes contain CMC because CMC has high viscosity and mucoadhesive property that can retain coating on oral mucosa to improve dry mouth [<xref ref-type="bibr" rid="CR16">16</xref>]. However, xylitol or sorbitol may be added to CMC-based saliva substitutes as a sweetener to improve its taste and increase patient compliance [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+              <p id="Par7">There are other natural moistening agents, such as trehalose, to keep the lining mucosa moisturized [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>]. Trehalose is a nonreducing disaccharide with two glucose units (1,1-glycosidic linkage). This sugar is reportedly synthesized by many organisms, including bacteria, yeast, fungi, insects, invertebrates, and lower and higher plants [<xref ref-type="bibr" rid="CR18">18</xref>]. Trehalose enhances the desiccation endurance on mammalian cells [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>], and it is also a therapeutic agent for dehydration and oxidative stress [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. Trehalose has been approved for a variety of medical applications in ophthalmology [<xref ref-type="bibr" rid="CR23">23</xref>]. Regarding its moistening properties, a previous study has shown that trehalose can protect corneal epithelial cells from dehydration as well as cells and their protein content from oxygen radical damage [<xref ref-type="bibr" rid="CR20">20</xref>]. An adjuvant treatment of 3% trehalose was reported to prevent dry eye after Laser In-Situ Keratomileusis [<xref ref-type="bibr" rid="CR24">24</xref>]. Although trehalose has been chemically defined as a sugar, it is not a substrate for glucosyltransferase and can inhibit the synthesis of water-insoluble glucan, all of which are relevant to control dental caries [<xref ref-type="bibr" rid="CR25">25</xref>]. Taken together, trehalose is a non-cariogenic substance with moisture retention capabilities and sugar content. Trehalose may serve as a good alternative for saliva substitutes without any additional flavor enhancer.</p>
+              <p id="Par8">The utilization of a moisturizing oral spray containing 10% trehalose solution has been reported for the first time in a preliminary study by Mori et al. [<xref ref-type="bibr" rid="CR17">17</xref>] with only ten healthy patients. In the study by Mori et al., the recovery of oral moisture by trehalose solution was shown by the reduction of fungiform papillae shrinkage [<xref ref-type="bibr" rid="CR17">17</xref>]. Consistent with these observations, Ota et al. [<xref ref-type="bibr" rid="CR12">12</xref>] found dry mouth symptoms had remarkably improved after using micro-gel spray for one week. Despite these positive clinical outcomes on dry mucosal surfaces from previous preliminary studies, a limited understanding of such phenomena persists, and research questions remain as to what biological mechanisms and effects can trehalose exert on the SG and mucosal tissues. Both CMC- and trehalose-based oral spray appear to have moisture retention capability; however, a clinical comparison between trehalose and conventional CMC-based saliva substitutes has never been performed with radiation-induced xerostomia patients. The objective of this study was to compare the xerostomia-related treatment outcomes of 10% trehalose to be equivalent with the conventional CMC-based saliva substitutes for relieving radiation-induced xerostomia in a double-blind, randomized-controlled trial (RCT). The xerostomia-related quality of life scores reflecting physical, pain/discomfort, psychological and social dimension were collected for the primary outcome. Salivary pH and volume were collected as secondary outcomes.</p>
+            </sec>
+            <sec id="Sec2" sec-type="materials|methods">
+              <title>Materials and methods</title>
+              <sec id="Sec3">
+                <title>Clinical study ethics and sampled population</title>
+                <p id="Par9">The study was approved by the Institutional Review Board of the Faculty of Medicine, Chulalongkorn University (IRB No.534/62), and registered in an international clinical trial register (Thai Clinical Trials Registry; <ext-link ext-link-type="uri" xlink:href="https://www.thaiclinicaltrials.org/">https://www.thaiclinicaltrials.org/</ext-link>; TCTR20190817004; First submitted date 17/08/2019) prior to participant recruitment. From January to September 2020, patients from the Head and Neck Cancer Unit (at King Chulalongkorn Memorial Hospital) fulfilling specific inclusion and exclusion criteria were recruited with informed consent. Criteria for inclusion were patients over 18 years of age who previously completed radiotherapy course of 51–70 Gy with the fields of radiation encompassing the major and minor salivary glands for at least 1 month. Exclusion criteria were patients with Sjögren’s syndrome or other salivary gland diseases, being uncooperative, nor on feeding tube. The number of participants was calculated using G*Power software based on the study of Gerardo Gormez-Moreno et al. [<xref ref-type="bibr" rid="CR26">26</xref>], at the significant level (α) of 0.05, and the power (1-β) of 0.8. A drop-out rate was estimated at 10%, therefore a sample size of 32 was required per intervention.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Test solution preparation</title>
+                <p id="Par10">Trehalose solution spray (10%) was prepared, sterilized and packaged in the unlabeled 15-ml spray bottles. Briefly, trehalose powder (TREHA®, Nagase America LLC., USA) was weighed and dissolved in sterilized drinking water to produce 10% trehalose solution (10 g in 100 mL). Potassium metabisulfite was added as a preservative to the final concentration of 0.05% [<xref ref-type="bibr" rid="CR12">12</xref>]. CMC solution spray was purchased from Pharmacy Department at King Chulalongkorn Memorial Hospital, and then refilled in unlabeled 15-ml spray bottles identical to trehalose solution spray bottles.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Data collection</title>
+                <p id="Par11">The research design was a block-randomized controlled trial. After enrollment, 70 participants were randomly and blindly assigned to use either 10% trehalose intervention, or CMC oral solution control group. Before intervention (day 0), the participants were interviewed for the XeQoLs questionnaire and demographic data. Then, unstimulated saliva was collected by spitting into a 50-mL Eppendorf tube for 5 min and was calculated to unstimulated salivary flow rate (mL/min) (AP). Salivary pH was measured with a pH meter (HI 98,100 Checker Plus, HANNA Instruments, Thailand). To prevent contamination and disease transmission, saliva volume was measured after centrifugation in the biosafety tissue culture hood (KP).</p>
+                <p id="Par12">Previously, a random allocation sequence was generated using a random-numbers table with a block size of 10 based on an estimated number of participants per week. The bottles of oral spray were sequentially numbered (KP) to be given to participants. The bottle of oral spray had no label so that the allocation was concealed to both patients and the researcher (AP). Participants were then instructed to use oral spray 4 times a day, after each meal and before bedtime. Each time, two pumps (approximately 0.4 mL) were intraorally applied. After 14 days of intervention (day 14), all participants were interviewed by phone using the XeQoLs questionnaire (KP), and VAS scores were recorded as a primary outcome by one researcher (KP). Because of COVID-19 pandemic, only some participants came back for saliva collection post treatment. Salivary pH and unstimulated salivary flow rate were recorded as secondary outcomes (KP). The sequential numbers on the bottles remained blinded to the researcher (AP) throughout the data collection phase.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Questionnaires</title>
+                <p id="Par13">The study used the quality-of-life questionnaire for the primary outcome. The questionnaire was modified from Xerostomia-related Quality of Life scale (XeQoLs) [<xref ref-type="bibr" rid="CR27">27</xref>–<xref ref-type="bibr" rid="CR30">30</xref>] and translated into Thai language by 4 dentists [<xref ref-type="bibr" rid="CR27">27</xref>]. The questionnaire consisted of 14 questions and divided into 4 dimensions: (1) 4 questions of physical, (2) 4 questions of pain/discomfort, (3) 3 questions of psychological, and (4) 3 questions of social dimension. The index of item objective congruence (IOC) was adjusted to ≥ 0.5 in every question and was tested in the same subjects (18 patients) for reliability measurement with Cronbach’s alpha of 0.81. The subjects were asked to reply in Visual Analogue Scale (VAS) for the perception of dryness. The VAS was scaled from 0 to 10, in which “0” was the most positive response and “10” was the most negative response for example, “0” for not dry at all and “10” for the worst imaginable dryness.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Data analysis</title>
+                <p id="Par14">As for the RCT, all statistical analyses were performed using SPSS software v25.0 (SPSS Inc. New York, NY, USA). Description of the subjects was carried out by descriptive statistics. Shapiro-Wilk test was used as a normality test. Wilcoxon Signed Ranks was used to compare the quality-of-life scores between before and after intervention in CMC and trehalose group. Mann-Whitney U test was used to compare the quality-of-life before-after difference scores between both treatment group. Chi-square test was used to compare the percentage of cases with concomitant chemotherapy between both treatment group. Independent T-test was used to compare the means of duration (month) post treatment and the means of parotid gland mean doses between ipsilateral and contralateral sides in each intervention group and between trehalose and CMC solution spray groups, unstimulated salivary flow rate and salivary pH between trehalose and CMC solution spray groups. Paired T-test was used to compare unstimulated salivary flow rate and salivary pH pre- and post-intervention in each treatment group. The significance level was set at 5%.</p>
+              </sec>
+            </sec>
+            <sec id="Sec8" sec-type="results">
+              <title>Results</title>
+              <sec id="Sec9">
+                <title>Characteristics of the study population</title>
+                <p id="Par15">Seventy patients previously diagnosed with HNC were enrolled after completing radiotherapy. Demographic data and clinical characteristics of study participants are shown in Table <xref rid="Tab1" ref-type="table">1</xref>. CMC-based (control; n = 35) and trehalose-based oral sprays (intervention; n = 35) were randomly assigned to participants as described in materials and methods. The mean age of participants was 54.14 ± 13.89 years (range: 36–75) and 58.29 ± 14.75 years (range: 22–85) in CMC and trehalose intervention groups, respectively. Participants were 65.71% male and 34.29% female in CMC group, and 62.86% male and 37.14% female in trehalose group. Nasopharynx was the most frequent primary site in this study, 71.42% in CMC and 31.43% in trehalose group. While, the second common site was the oral cavity, 20% in CMC and 34.29% in trehalose group. Other primary cancer sites, including salivary gland, nasal cavity and paranasal sinus and larynx, were approximately 3% and 10% in CMC and trehalose group, respectively. Most participants were diagnosed with cancer progression, 48.57% in CMC and 37.14% in trehalose group were at stage III, and 40% of both groups were at stage IV. Most patients were treated using Intensity Modulated Radiation Therapy/Volumetric Modulated Radiation Therapy (IMRT/VMAT), while 5.71% and 8.57% received three-dimensional conformal radiation therapy (3D CRT). Approximately 91% and 66% in CMC and trehalose groups (<italic>p</italic> &lt; 0.05), respectively, concomitantly received chemotherapy. The mean of time post-radiation was 7.06 ± 3.86 months, and 4.71 ± 3.41 months, for CMC and trehalose group (<italic>p</italic> &lt; 0.05), respectively.</p>
+                <p id="Par16">
+                  <table-wrap id="Tab1">
+                    <label>Table 1</label>
+                    <caption>
+                      <p>Patient characteristics</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="2">Participant characteristics</th>
+                          <th align="left" colspan="2">Intervention</th>
+                        </tr>
+                        <tr>
+                          <th align="left">CMC (n = 35)</th>
+                          <th align="left">Trehalose (n = 35)</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Age</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">mean (years) ± SD</td>
+                          <td align="left">54.14 ± 13.89</td>
+                          <td align="left">58.29 ± 14.75</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Range</td>
+                          <td align="left">36–75</td>
+                          <td align="left">22–85</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Gender, n (%)</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Male</td>
+                          <td align="left">23 (65.71%)</td>
+                          <td align="left">22 (62.86%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Female</td>
+                          <td align="left">12 (34.29%)</td>
+                          <td align="left">13 (37.14%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Primary cancer site, n (%)</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Nasopharynx</td>
+                          <td align="left">25 (71.42%)</td>
+                          <td align="left">11 (31.43%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Oral cavity</td>
+                          <td align="left">7 (20%)</td>
+                          <td align="left">12 (34.29%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Salivary gland</td>
+                          <td align="left">1 (2.86%)</td>
+                          <td align="left">3 (8.57%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Nasal cavity and paranasal sinus</td>
+                          <td align="left">1 (2.86%)</td>
+                          <td align="left">4 (11.43%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Larynx</td>
+                          <td align="left">1 (2.86%)</td>
+                          <td align="left">4 (11.43%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Thyroid</td>
+                          <td align="left">0 (0%)</td>
+                          <td align="left">1 (2.86%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Stage of cancer, n (%)</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Stage I</td>
+                          <td align="left">1 (2.86%)</td>
+                          <td align="left">1 (2.86%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Stage II</td>
+                          <td align="left">3 (8.57%)</td>
+                          <td align="left">7 (20%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Stage III</td>
+                          <td align="left">17 (48.57%)</td>
+                          <td align="left">13 (37.14%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Stage IV</td>
+                          <td align="left">14 (40%)</td>
+                          <td align="left">14 (40%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Radiation technique, n (%)</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">IMRT/VMAT<sup>a</sup></td>
+                          <td align="left">33 (94.29%)</td>
+                          <td align="left">32 (91.43%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">3D CRT<sup>b</sup></td>
+                          <td align="left">2 (5.71%)</td>
+                          <td align="left">3 (8.57%)</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Duration after radiation (months)</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Mean ± SD</td>
+                          <td align="left">7.06 ± 3.86<sup>c</sup></td>
+                          <td align="left">4.71 ± 3.41</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Range</td>
+                          <td align="left">1–12</td>
+                          <td align="left">1–11</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Concomitant chemotherapy, n (%)</td>
+                          <td align="left">32 (91.42%)<sup>d</sup></td>
+                          <td align="left">23 (65.71%)</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p><sup>a</sup> Intensity Modulated Radiation Therapy/Volumetric Modulated Radiation Therapy</p>
+                      <p><sup>b</sup> Three-dimensional conformal radiation therapy</p>
+                      <p><sup>c</sup> The mean duration after radiation of CMC was significantly higher than trehalose; Independent T test; <italic>p</italic> &lt; 0.05</p>
+                      <p><sup>d</sup> The percentage of patients receiving concomitant chemotherapy during CMC treatment was significantly higher than during trehalose treatment; Chi-square test; <italic>p</italic> &lt; 0.05</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par17">To evaluate the irradiation effect on the SG, the parotid gland mean dose in the CMC and trehalose interventions was determined (Table <xref rid="Tab2" ref-type="table">2</xref>). The mean dose on the ipsilateral side targeted for radiotherapy was significantly higher than the contralateral side (<italic>p</italic> &lt; 0.001). Nonetheless, the parotid gland mean doses between CMC and trehalose groups were not statistically different (in either the ipsilateral or contralateral sides), suggesting a similar exposure to radiation in both groups.</p>
+                <p id="Par18">
+                  <table-wrap id="Tab2">
+                    <label>Table 2</label>
+                    <caption>
+                      <p>The absorbed radiation dose on parotid glands of both ipsilateral and contralateral sides in HNC patients receiving CMC-based or trehalose oral spray</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="2">Position<break/>related to HNC</th>
+                          <th align="left" colspan="2">Parotid gland mean dose<break/>(Gy) ± SD</th>
+                          <th align="left" rowspan="2"><italic>p</italic>-value</th>
+                        </tr>
+                        <tr>
+                          <th align="left">CMC</th>
+                          <th align="left">Trehalose</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Ipsilateral</td>
+                          <td align="left">28.59 ± 10.37</td>
+                          <td align="left">27.74 ± 15.67</td>
+                          <td char="." align="char">0.791</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Contralateral</td>
+                          <td align="left">23.70 ± 6.38</td>
+                          <td align="left">21.71 ± 12.17</td>
+                          <td char="." align="char">0.396</td>
+                        </tr>
+                        <tr>
+                          <td align="left"><italic>p</italic>-value</td>
+                          <td align="left">0.000***</td>
+                          <td align="left">0.000***</td>
+                          <td align="left"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Independent T-test was used to compare the parotid gland mean doses between trehalose and CMC solution spray, and between ipsilateral and contralateral sides in each group. ***<italic>p</italic> &lt; 0.001</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec id="Sec20">
+                <title>Trehalose oral spray increased salivary pH and unstimulated salivary flow rate</title>
+                <p id="Par19">In pre-clinical trials perfomed ex vivo, 10% trehalose dose regimen supported the pro-acinar growth of the mouse fetal SG (Additional file <xref rid="MOESM1" ref-type="media">1</xref><bold>: Supplemental Fig. </bold><xref rid="MOESM1" ref-type="media">1</xref>). Twenty participants were not able to come for the collection on day 14 (post-intervention) due to COVID-19 infection, hence the number of saliva samples was 25 for each intervention group. Table <xref rid="Tab3" ref-type="table">3</xref> displays the salivary pH and unstimulated salivary flow rate. At baseline (day 0), the mean salivary pH was 6.78 ± 0.64 in CMC and 6.91 ± 0.67 in trehalose group, respectively. At the same time point, unstimulated salivary flow rate was 0.17 ± 0.16 mL/min in CMC, and 0.16 ± 0.22 mL/min in trehalose group. The results on day 14 demonstrated that salivary pH and unstimulated salivary flow rate were increased after the interventions. In CMC group, salivary pH (<italic>p</italic> = 0.202) and unstimulated salivary flow rate (<italic>p</italic> = 0.146) were increased but not significantly. However, salivary pH and unstimulated salivary flow rate remarkably increased to 7.16 ± 0.56 (<italic>p</italic> = 0.033), and 0.20 ± 0.24 mL/min (<italic>p</italic> = 0.009), respectively, after using trehalose oral spray.</p>
+                <p id="Par20">
+                  <table-wrap id="Tab3">
+                    <label>Table 3</label>
+                    <caption>
+                      <p>Salivary pH and unstimulated salivary flow rate before and after treatment with CMC and trehalose solution spray</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="2">Intervention</th>
+                          <th align="left" rowspan="2">Measurement<break/>(mean ± SD)</th>
+                          <th align="left" colspan="2">Day of data collection</th>
+                          <th align="left" rowspan="2"><italic>p</italic>-value</th>
+                        </tr>
+                        <tr>
+                          <th align="left">Day 0<break/>(Before)</th>
+                          <th align="left">Day 14<break/>(After)</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="2">CMC</td>
+                          <td align="left">Salivary pH</td>
+                          <td align="left">6.78 ± 0.64</td>
+                          <td align="left">6.96 ± 0.7</td>
+                          <td align="left">0.20</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Unstimulated salivary flow rate (mL/min)</td>
+                          <td align="left">0.17 ± 0.16</td>
+                          <td align="left">0.19 ± 0.20</td>
+                          <td align="left">0.146</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="2">Trehalose</td>
+                          <td align="left">Salivary pH</td>
+                          <td align="left">6.91 ± 0.67</td>
+                          <td align="left">7.16 ± 0.56</td>
+                          <td align="left">0.033*</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Unstimulated salivary flow rate (mL/min)</td>
+                          <td align="left">0.16 ± 0.22</td>
+                          <td align="left">0.20 ± 0.24</td>
+                          <td align="left">0.009**</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Paired T-test was used to compare unstimulated salivary flow rate and salivary pH pre- and post-intervention in each treatment group. *<italic>p</italic> &lt; 0.05; **<italic>p</italic> &lt; 0.01</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec id="Sec10">
+                <title>Radiation-induced xerostomia and quality of life is improved with both oral sprays</title>
+                <p id="Par21">The quality-of-life scores from participants in the trehalose group were similar to the CMC group (Table <xref rid="Tab4" ref-type="table">4</xref>). The responses from Q1 to Q4 regarding chewing (<italic>p</italic> = 0.015), swallowing (<italic>p</italic> = 0.000), talking (<italic>p</italic> = 0.002) and taste alteration (<italic>p</italic> = 0.000) were significantly improved with trehalose oral spray. Scores pertaining to pain and discomfort dimensions were significantly increased in Q5 (<italic>p</italic> = 0.000), Q6 (<italic>p</italic> = 0.003) and Q7 (<italic>p</italic> = 0.000). Psychological effects of oral dryness in Q9 (<italic>p</italic> = 0.005), Q10 (<italic>p</italic> = 0.004), and Q11 (<italic>p</italic> = 0.046) were significantly improved. However, the responses related to social interaction, Q12, Q13, Q14, did not change in participants in both the CMC and trehalose interventions.</p>
+                <p id="Par22">
+                  <table-wrap id="Tab4">
+                    <label>Table 4</label>
+                    <caption>
+                      <p>The median XeQoLs scores taken before and after treatment with CMC or trehalose solution spray</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="3">Questionnaire</th>
+                          <th align="left" colspan="6">XeQoLs score (Median ± IQR)</th>
+                        </tr>
+                        <tr>
+                          <th align="left" colspan="3">CMC group (n = 35)</th>
+                          <th align="left" colspan="3">Trehalose group (n = 35)</th>
+                        </tr>
+                        <tr>
+                          <th align="left">Before</th>
+                          <th align="left">After</th>
+                          <th align="left"><italic>ρ</italic>-value</th>
+                          <th align="left">Before</th>
+                          <th align="left">After</th>
+                          <th align="left"><italic>ρ</italic>-value</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Part 1: Physical</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q1: Rate your difficulty in chewing due to dryness</td>
+                          <td char="?" align="char">4.00 ± 7.00</td>
+                          <td char="?" align="char">3.00 ± 5.00</td>
+                          <td align="left">0.002**</td>
+                          <td align="left">0.00 ± 5.00</td>
+                          <td align="left">0.00 ± 4.00</td>
+                          <td align="left">0.015*</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q2: Rate your difficulty in swallowing food due to dryness</td>
+                          <td char="?" align="char">5.00 ± 4.00</td>
+                          <td char="?" align="char">3.00 ± 4.00</td>
+                          <td align="left">0.000***</td>
+                          <td align="left">5.00 ± 5.00</td>
+                          <td align="left">4.00 ± 4.00</td>
+                          <td align="left">0.000***</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q3: Rate your difficulty in talking due to dryness</td>
+                          <td char="?" align="char">3.00 ± 5.00</td>
+                          <td char="?" align="char">2.00 ± 4.00</td>
+                          <td align="left">0.003**</td>
+                          <td align="left">4.00 ± 5.00</td>
+                          <td align="left">3.00 ± 4.00</td>
+                          <td align="left">0.002**</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q4: Rate your taste alteration</td>
+                          <td char="?" align="char">5.00 ± 4.00</td>
+                          <td char="?" align="char">5.00 ± 4.00</td>
+                          <td align="left">0.000***</td>
+                          <td align="left">6.00 ± 4.00</td>
+                          <td align="left">5.00 ± 3.00</td>
+                          <td align="left">0.000***</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 2: Pain / Discomfort</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q5: Rate your feeling dry mouth</td>
+                          <td char="?" align="char">6.00 ± 3.00</td>
+                          <td char="?" align="char">4.00 ± 3.00</td>
+                          <td align="left">0.000***</td>
+                          <td align="left">6.00 ± 3.00</td>
+                          <td align="left">4.00 ± 2.00</td>
+                          <td align="left">0.000***</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q6: Rate the frequency of sipping water (nocturnal)</td>
+                          <td char="?" align="char">4.00 ± 5.00</td>
+                          <td char="?" align="char">3.00 ± 5.00</td>
+                          <td align="left">0.047*</td>
+                          <td align="left">4.00 ± 5.00</td>
+                          <td align="left">3.00 ± 3.00</td>
+                          <td align="left">0.003**</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q7: Rate the frequency of sipping water (daytime)</td>
+                          <td char="?" align="char">8.00 ± 2.00</td>
+                          <td char="?" align="char">6.00 ± 4.00</td>
+                          <td align="left">0.001**</td>
+                          <td align="left">0.00 ± 1.00</td>
+                          <td align="left">0.00 ± 1.00</td>
+                          <td align="left">0.000***</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q8: Rate your pain and discomfort</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td align="left">0.768</td>
+                          <td align="left">0.00 ± 1.00</td>
+                          <td align="left">0.00 ± 1.00</td>
+                          <td align="left">0.066</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 3: Psychological</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q9: My mouth/throat dryness interferes with my daily activity</td>
+                          <td char="?" align="char">2.00 ± 5.00</td>
+                          <td char="?" align="char">0.00 ± 4.00</td>
+                          <td align="left">0.011*</td>
+                          <td align="left">0.00 ± 5.00</td>
+                          <td align="left">0.00 ± 4.00</td>
+                          <td align="left">0.005**</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q10: My mouth/throat dryness makes me nervous</td>
+                          <td char="?" align="char">2.00 ± 5.00</td>
+                          <td char="?" align="char">0.00 ± 5.00</td>
+                          <td align="left">0.006**</td>
+                          <td align="left">0.00 ± 3.00</td>
+                          <td align="left">0.00 ± 3.00</td>
+                          <td align="left">0.004**</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q11: My mouth/throat dryness reduces my general happiness</td>
+                          <td char="?" align="char">0.00 ± 5.00</td>
+                          <td char="?" align="char">0.00 ± 4.00</td>
+                          <td align="left">0.019*</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.00 ± 4.00</td>
+                          <td align="left">0.046*</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 4: Social</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q12: My mouth/throat dryness makes me uncomfortable speaking in front of other people</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td align="left">0.103</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.180</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q13: My mouth/throat dryness makes me uncomfortable when eating in front of other people</td>
+                          <td char="?" align="char">0.00 ± 4.00</td>
+                          <td char="?" align="char">0.00 ± 4.00</td>
+                          <td align="left">0.169</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.157</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q14: My mouth/throat dryness makes me from socializing (going out)</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td align="left">0.211</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.00 ± 0.00</td>
+                          <td align="left">0.109</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Wilcoxon Signed Ranks was used to compare the XeQoLs scores between before and after intervention in each treatment group. *<italic>p</italic> &lt; 0.05; **<italic>p</italic> &lt; 0.01, ***<italic>p</italic> &lt; 0.001</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p id="Par23">XeQoLs scores revealed that the quality of life improved after using both oral sprays (Table <xref rid="Tab4" ref-type="table">4</xref>). In the CMC intervention, the scores pertaining to the physical dimension, Q1-Q4, specifically chewing (<italic>p</italic> = 0.002), swallowing (<italic>p</italic> = 0.000), talking (<italic>p</italic> = 0.003) and taste alteration (<italic>p</italic> = 0.000) were significantly improved. Scores in pain and discomfort dimensions were also significantly better in questions Q5 (<italic>p</italic> = 0.000), Q6 (<italic>p</italic> = 0.047) and Q7 (<italic>p</italic> = 0.001). Psychological effects of oral dryness with negative impact on daily activities and nervousness was probed by Q9-Q11, and participant responses showed a significant improvement with both oral sprays (<italic>p</italic> &lt; 0.05).</p>
+                <p id="Par24">The XeQoLs before-after treatment delta scores, differences between pre- and post-treament, of the CMC and trehalose group were analyzed and reported (Table <xref rid="Tab5" ref-type="table">5</xref>). The XeQoLs scores of all four dimensions were improved after intervention, and the differences were compared between CMC and trehalose groups. No item demonstrated statistical differences of the XeQoLs before-after treatment delta scores (<italic>p</italic> &gt; 0.05).</p>
+                <p id="Par25">
+                  <table-wrap id="Tab5">
+                    <label>Table 5</label>
+                    <caption>
+                      <p>
+                        <bold>The median of the XeQoLs before-after treatment difference scores taken from CMC- or trehalose-based oral spray treatment groups</bold>
+                      </p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="2">Questionnaire</th>
+                          <th align="left" colspan="3">Difference of XeQoL score (Before-After) Median ± IQR</th>
+                        </tr>
+                        <tr>
+                          <th align="left">CMC<break/>(n = 35)</th>
+                          <th align="left">Trehalose<break/>(n = 35)</th>
+                          <th align="left"><italic>ρ</italic>-value</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left">Part 1: Physical</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q1: Rate your difficulty in chewing due to dryness</td>
+                          <td char="?" align="char">0.00 ± 0.10</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.320</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q2: Rate your difficulty in swallowing food due to dryness</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">1.00 ± 2.00</td>
+                          <td align="left">0.381</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q3: Rate your difficulty in talking due to dryness</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td align="left">0.744</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q4: Rate your taste alteration</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td align="left">0.628</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 2: Pain / Discomfort</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q5: Rate your feeling dry mouth</td>
+                          <td char="?" align="char">2.00 ± 2.00</td>
+                          <td char="?" align="char">2.00 ± 2.00</td>
+                          <td align="left">0.841</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q6: Rate the frequency of sipping water (nocturnal)</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td align="left">0.421</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q7: Rate the frequency of sipping water (daytime)</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td char="?" align="char">0.00 ± 2.00</td>
+                          <td align="left">0.781</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q8: Rate your pain and discomfort</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.685</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 3: Psychological</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q9: My mouth/throat dryness interferes with my daily activity</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td align="left">0.749</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q10: My mouth/throat dryness makes me nervous</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 1.00</td>
+                          <td align="left">0.753</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q11: My mouth/throat dryness reduces my general happiness</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.451</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Part 4: Social</td>
+                          <td align="left"/>
+                          <td align="left"/>
+                          <td align="left"/>
+                        </tr>
+                        <tr>
+                          <td align="left">Q12: My mouth/throat dryness makes me uncomfortable speaking in front of other people</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.655</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q13: My mouth/throat dryness makes me uncomfortable when eating in front of other people</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.977</td>
+                        </tr>
+                        <tr>
+                          <td align="left">Q14: My mouth/throat dryness makes me from socializing (going out)</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td char="?" align="char">0.00 ± 0.00</td>
+                          <td align="left">0.645</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <p>Mann-Whitney U test was used to compare the XeQoLs before-after treatment difference scores between both treatment group</p>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+            </sec>
+            <sec id="Sec11" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par26">Up to this date, this is the first RCT showing that trehalose oral spray can improve dry mouth symptoms and xerostomia-related quality of life in a comparable fashion to a CMC spray. Saliva substitutes containing CMC are prescribed to relieve xerostomia and improve quality of life [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR30">30</xref>]. Major therapeutical advantages of CMC are to coat and moisten the oral mucosa to improve dry mouth [<xref ref-type="bibr" rid="CR31">31</xref>]. Alternatively, trehalose has been introduced as a moistening reagent in several health products [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]. Trehalose was reported to maintain moisture, prevent atrophy of the tongue mucosa, and relieve the oral dryness discomfort after dental treatment in preliminary studies [<xref ref-type="bibr" rid="CR17">17</xref>]. Nonetheless and up to now, the evidence supporting trehalose-based interventions to relieve dry mouth remains limited and comparison trials with CMC are lacking. This RCT compared the effects of trehalose and CMC oral sprays in patients with xerostomia. In radiation-induced xerostomia subjects, 10% trehalose oral spray significantly increased salivary pH and saliva volume after 14 days of use. XeQoLs scores revealed subjects’ positive responses and satisfaction with both trehalose and CMC oral sprays. Hence, our findings suggest that trehalose can be used as oral spray to effectively relieve dry mouth.</p>
+              <p id="Par27">Though, this study has its own limitations. Subjects did receive different radiotherapy treatment regimens, however, the radiation exposure of the parotid gland (on both sides) to such regimens was similar among all subjects. The radiation exposure was not assessed in the submandibular and sublingual glands. Secondly, polypharmacy may have affected xerostomia levels since a comprehensive medication list could not be collected during this RCT. Thirdly, subjects may have been affected by COVID-19 pandemic and in such cases, they refused to commute to the hospital. To overcome this, questionnaires were performed over the phone, and this may introduce some information bias.</p>
+              <p id="Par28">Radiation exposure after radiotherapy was evenly distributed between two intervention groups according to parotid gland radiation dose assessments. Mean parotid gland doses were 24–28 Gy in our study participants. Previous studies [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>] showed that radiation doses of 10–15 Gy start to induce a slight reduction of SG function, but such function can be gradually improved when the average radiation remains lower than 20–40 Gy. However, a strong effect can occur when the average radiation dose goes over 40 Gy [<xref ref-type="bibr" rid="CR35">35</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]. Therefore, mean parotid gland doses reported herein were consistent with SG hypofunction reflecting a decrease in salivary volume and pH. After 2 weeks of treatment, trehalose-based oral spray improved the salivary volume and pH. Our earlier ex vivo SG models support these observations, upon mimicking a topical administration route with 10–15% trehalose, the pro-acinar epithelial growth was maintained, and epithelial mitosis increased particularly with 10% trehalose (Additional file 1). These outcomes align with those from the in vitro study by Mori et al. [<xref ref-type="bibr" rid="CR17">17</xref>]. Moreover, this latter study indicated that plaque pH never reached a critical pH after trehalose mouthwash was provided [<xref ref-type="bibr" rid="CR25">25</xref>], suggesting that trehalose supports the neutralizing function of the saliva to balance dental plaque pH. Therefore, trehalose may not only moisten mucosal surfaces, but also have a biological effect on the function of SG relating to oral health.</p>
+              <p id="Par29">Both CMC and trehalose oral sprays improved xerostomia-related quality of life particularly in physical, pain/discomfort, and psychological dimensions. However, major changes in the social dimension were not seen, which could relate to COVID-19 lockdown policies. The number of social events were dramatically reduced during the COVID-19 lockdown, and anxiety levels increased. Some participants avoided or were denied hospital visits for saliva collection, but the post intervention questionnaires were implemented through the phone.</p>
+              <p id="Par30">The recovery of salivary gland function after radiation is related to radiation dose, radiation technique, concomitant chemotherapy and the involvement of radiation damage to salivary glands. Oral dryness is common, but improves over time in 10–30% of HNC patients [<xref ref-type="bibr" rid="CR36">36</xref>]. Salivary flow rate and pH steeply decreased during the first month, then gradually increased within 3–6 months after radiotherapy [<xref ref-type="bibr" rid="CR9">9</xref>]. Salivary gland function may recover after 12 months following completion of radiotherapy only, or concomitant chemotherapy treatment [<xref ref-type="bibr" rid="CR36">36</xref>]. Then, unstimulated salivary flow rates slowly regain within 2 years although stimulated saliva levels remain low [<xref ref-type="bibr" rid="CR37">37</xref>]. In this study, patients who completed radiotherapy for less than 1 month was excluded, and all data collection was performed within 12-month post radiation. Nonetheless, the CMC group had mean duration time after radiation and number of cases with concomitant chemotherapy higher than the trehalose group. The longer duration after radiation may reflect to lower effect on salivary gland function while the higher number of ongoing chemotherapy cases suggested higher effect on salivary gland function [<xref ref-type="bibr" rid="CR38">38</xref>]. Despite the data being collected from different post-treatment periods, the mean pH and salivary flow rate were similar among the CMC and trehalose group. The pH and salivary flow rate was significantly improved only after using trehalose oral spray. Consequently, participants reported better effect of trehalose oral spray when the four dimensions were measured by XeQoLs scoring. Hence, while salivary gland functionally recover, the application of oral moisturizing agents including trehalose or CMC oral sprays are critical to improve oral health and quality of life as well as relieve other associated complications from radiotherapy and chemotherapy like oral mucositis.</p>
+              <p id="Par31">Adverse effects of CMC when taken as a saliva substitute therapy have been reported [<xref ref-type="bibr" rid="CR39">39</xref>]. An interaction between calcium and phosphate ions resulted in the formation of a chemical complex that decreases the demineralizing capabilities of saliva [<xref ref-type="bibr" rid="CR39">39</xref>] and interferes with the dentin remineralization process [<xref ref-type="bibr" rid="CR40">40</xref>, <xref ref-type="bibr" rid="CR41">41</xref>]. Remineralization effects by CMC interventions have been observed with higher salivary pH which improves when pH increases from 5.5 to 6.5 [<xref ref-type="bibr" rid="CR40">40</xref>]. In addition, trehalose oral applications are more advantageous than CMC when it comes to subject’s overall satisfaction, taste perception and cost/affordability. Individuals using trehalose spray responded with higher satisfaction compared to those with CMC spray, due to the sweeter taste and less viscosity of trehalose [<xref ref-type="bibr" rid="CR42">42</xref>, <xref ref-type="bibr" rid="CR43">43</xref>]. Nonetheless, in this RCT, a 10% trehalose oral spray improved xerostomia and the quality of life alike the CMC spray.</p>
+            </sec>
+            <sec id="Sec12" sec-type="conclusion">
+              <title>Conclusion</title>
+              <p id="Par32">Intraoral administration of 10% trehalose spray improved unstimulated salivary flow rate and pH in xerostomia subjects after radiotherapy for HNC. Equivalent with conventional CMC-based interventions, a trehalose oral spray can effectively relieve dry mouth symptoms in post-radiotherapy xerostomia patients with superior patients’ satisfaction. Thus, trehalose solution spray can be indicated as an alternative therapeutical option to relieve oral dryness and improve the quality of life in HNC patients post radiotherapy.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Electronic supplementary material</title>
+              <sec id="Sec14">
+                <p>Below is the link to the electronic supplementary material.</p>
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2023_2966_MOESM1_ESM.docx">
+                      <caption>
+                        <p><bold>Additional File 1</bold>: <bold>Supplement Figure 1</bold> : Topical effects of trehalose in the mouse SG epithelia. Supplement Table 1: The mean XeQoLs scores taken before and after treatment with CMC or trehalose solution spray. <bold>Supplement Table 2</bold>: The mean difference in the XeQoLs scores taken before and after CMC or trehalose oral spray treatment</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Saliva collection was performed with great support from the Head and Neck Cancer Unit at King Chulalongkorn Memorial Hospital.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>P.P., J.S., and A.V. conceived the original idea, planed the research project, A.V. and J.F. wrote the proposal for funding, and wrote the main manuscript, K.P. carried out the experiment, collected, analyzed, and prepared clinical data under the support by A.V., K.M. and G.U. contributed to the interpretation of the results and prepared Fig. 1 under the support by J.F., T.B., A.P., C.L. and J.S. collected, analyzed and prepared clinical data and contributed to the interpretation of the results. All authors contributed to the final version of the manuscript.</p>
+              <p><underline>Authorship</underline>.</p>
+              <p>The corresponding author has read the journal publishing policies and submits this manuscript in accordance with those policies.</p>
+              <p><underline>Third Party Material</underline>.</p>
+              <p>All the material is owned by the authors therefore no permissions are required from any third party.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p><italic>Pornpan Piboonratanakit, Thirayu Boonroung, Anussara Prayongrat, Chawalit Lertbutsayanukul</italic>, <italic>Jeerus Sucharitakul</italic> and <italic>Anjalee Vacharaksa</italic> were funded by CU Graduate School Thesis Grant (GCUGR1225632040M), and the Dental Research Fund, Faculty of Dentistry, Chulalongkorn University. <italic>Joao N. Ferreira</italic> was funded by the Dental Research Fund, Faculty of Dentistry, Chulalongkorn University; mid-career research grant, the National Research Council of Thailand (NRCT5-RSA63001-12); Ratchadaphiseksomphot Endowment Fund, 33/2565, and the ASEAN Scholarship, Chulalongkorn University. <italic>Kulpriya Pravinvongvuthi</italic> was funded by CU Graduate School Thesis Grant (GCUGR1225632040M). <italic>Khwanchanok Maison</italic> was funded by Ratchadaphiseksomphot Endowment Fund, 33/2565, and the ASEAN Scholarship, Chulalongkorn University. <italic>Ganokon Urkasemsin</italic> was funded by Ratchadaphiseksomphot Endowment Fund, 33/2565.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data availability</title>
+              <p>The datasets generated and/or analysed during the current study are not publicly available because some data contained information that compromised the privacy of research participants, but are available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar3">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par33">Human ethics was reviewed by the full review board of the Faculty of Medicine, Chulalongkorn University (IRB No.534/62). Patients in the Head and Neck Cancer Unit, King Chulalongkorn Memorial Hospital, from January to September 2020, matched with the inclusion and exclusion criteria were recruited after signing the written informed consent. All procedures involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki Declaration and its later amendments or comparable ethical standards.</p>
+              </notes>
+              <notes id="FPar4">
+                <title>Consent for publication</title>
+                <p id="Par34">Not applicable.</p>
+              </notes>
+              <notes id="FPar2" notes-type="COI-statement">
+                <title>Competing interest</title>
+                <p id="Par35">The authors declare that they have no competing interests as defined by Springer, or other interests that might be perceived to influence the results and/or discussion reported in this paper. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>De Felice</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Polimeni</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Valentini</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Radiotherapy controversies and prospective in head and neck cancer: a literature-based critical review</article-title>
+                  <source>Neoplasia</source>
+                  <year>2018</year>
+                  <volume>20</volume>
+                  <fpage>227</fpage>
+                  <lpage>32</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.neo.2018.01.002</pub-id>
+                  <?supplied-pmid 29448084?>
+                  <pub-id pub-id-type="pmid">29448084</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lastrucci</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Bertocci</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bini</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Xerostomia Quality of Life Scale (XeQoLS) questionnaire: validation of italian version in head and neck cancer patients</article-title>
+                  <source>Radiol Med</source>
+                  <year>2018</year>
+                  <volume>123</volume>
+                  <fpage>44</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11547-017-0798-7</pub-id>
+                  <?supplied-pmid 28861706?>
+                  <pub-id pub-id-type="pmid">28861706</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dirix</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Nuyts</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Van den Bogaert</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiation-induced xerostomia in patients with head and neck cancer: a literature review</article-title>
+                  <source>Cancer</source>
+                  <year>2006</year>
+                  <volume>107</volume>
+                  <fpage>2525</fpage>
+                  <lpage>34</lpage>
+                  <pub-id pub-id-type="doi">10.1002/cncr.22302</pub-id>
+                  <?supplied-pmid 17078052?>
+                  <pub-id pub-id-type="pmid">17078052</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <mixed-citation publication-type="other">Shiboski CH, Hodgson TA, Ship JA, Schiødt M. (2007) Management of salivary hypofunction during and after radiotherapy. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 103 Suppl: S66.e1-19. doi: 10.1016/j.tripleo.2006.11.013.</mixed-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Porter</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Scully</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Hegarty</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>An update of the etiology and management of xerostomia</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2004</year>
+                  <volume>97</volume>
+                  <fpage>28</fpage>
+                  <lpage>46</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.tripleo.2003.07.010</pub-id>
+                  <?supplied-pmid 14716254?>
+                  <pub-id pub-id-type="pmid">14716254</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Guchelaar</surname>
+                      <given-names>HJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Vermes</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Meerwaldt</surname>
+                      <given-names>JH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiation-induced xerostomia: pathophysiology, clinical course and supportive treatment</article-title>
+                  <source>Support Care Cancer</source>
+                  <year>1997</year>
+                  <volume>5</volume>
+                  <fpage>281</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s005200050075</pub-id>
+                  <?supplied-pmid 9257424?>
+                  <pub-id pub-id-type="pmid">9257424</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Deasy</surname>
+                      <given-names>JO</given-names>
+                    </name>
+                    <name>
+                      <surname>Moiseenko</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Marks</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Chao</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Nam</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Eisbruch</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiotherapy dose-volume effects on salivary gland function</article-title>
+                  <source>Int J Radiat Oncol Biol Phys</source>
+                  <year>2010</year>
+                  <volume>76</volume>
+                  <fpage>58</fpage>
+                  <lpage>S63</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2009.06.090</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>CY</given-names>
+                    </name>
+                    <name>
+                      <surname>Ju</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chia</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>CW</given-names>
+                    </name>
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of radiotherapy on salivary gland function in patients with head and neck cancers</article-title>
+                  <source>J Dent Sci</source>
+                  <year>2015</year>
+                  <volume>10</volume>
+                  <fpage>253</fpage>
+                  <lpage>62</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jds.2015.01.004</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dodds</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Roland</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Edgar</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Thornhill</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Saliva. A review of its role in maintaining oral health and preventing dental disease</article-title>
+                  <source>BDJ Team</source>
+                  <year>2015</year>
+                  <volume>2</volume>
+                  <fpage>15123</fpage>
+                  <pub-id pub-id-type="doi">10.1038/bdjteam.2015.123</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Plemons</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Al-Hashimi</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Marek</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Managing xerostomia and salivary gland hypofunction: executive summary of a report from the american Dental Association Council on Scientific Affairs</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2014</year>
+                  <volume>145</volume>
+                  <fpage>867</fpage>
+                  <lpage>73</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.2014.44</pub-id>
+                  <?supplied-pmid 25082939?>
+                  <pub-id pub-id-type="pmid">25082939</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Silvestre-Donat</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Miralles-Jorda</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Martınez-Mihi</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Protocol for the clinical management of dry mouth</article-title>
+                  <source>Med Oral</source>
+                  <year>2004</year>
+                  <volume>9</volume>
+                  <fpage>273</fpage>
+                  <lpage>9</lpage>
+                  <?supplied-pmid 15292864?>
+                  <pub-id pub-id-type="pmid">15292864</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ota</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Morito</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujisawa</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evaluation of a moisturising micro-gel spray for prevention of cell dryness in oral mucosal cells: an in vitro study and evaluation in a clinical setting</article-title>
+                  <source>Eur J Cancer Care</source>
+                  <year>2012</year>
+                  <volume>21</volume>
+                  <fpage>728</fpage>
+                  <lpage>34</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2354.2012.01349.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Davies</surname>
+                      <given-names>AN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The management of xerostomia: a review</article-title>
+                  <source>Eur J Cancer Care</source>
+                  <year>1997</year>
+                  <volume>6</volume>
+                  <fpage>209</fpage>
+                  <lpage>14</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2354.1997.00036.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Murakami</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Nishi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujishima</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Impact of types of moisturizers and humidity on the residual weight and viscosity of liquid and gel oral moisturizers</article-title>
+                  <source>J Prosthodont</source>
+                  <year>2016</year>
+                  <volume>25</volume>
+                  <fpage>570</fpage>
+                  <lpage>5</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jopr.12341</pub-id>
+                  <?supplied-pmid 26376003?>
+                  <pub-id pub-id-type="pmid">26376003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mardani</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Ghannadi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Rashnavadi</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Kamali</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of ginger herbal spray on reducing xerostomia in patients with type II diabetes</article-title>
+                  <source>Avicenna J Phytomed</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <fpage>308</fpage>
+                  <lpage>16</lpage>
+                  <?supplied-pmid 28884081?>
+                  <pub-id pub-id-type="pmid">28884081</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hahnel</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Behr</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Handel</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Burgers</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Saliva substitutes for the treatment of radiation-induced xerostomia-a review</article-title>
+                  <source>Support Care Cancer</source>
+                  <year>2009</year>
+                  <volume>17</volume>
+                  <fpage>1331</fpage>
+                  <lpage>43</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00520-009-0671-x</pub-id>
+                  <?supplied-pmid 19495809?>
+                  <pub-id pub-id-type="pmid">19495809</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mori</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Yano</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Shimohata</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Suzuki</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Chung</surname>
+                      <given-names>UI</given-names>
+                    </name>
+                    <name>
+                      <surname>Takato</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trehalose inhibits oral dryness by protecting the cell membrane</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2010</year>
+                  <volume>39</volume>
+                  <fpage>916</fpage>
+                  <lpage>21</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2010.04.047</pub-id>
+                  <?supplied-pmid 20605407?>
+                  <pub-id pub-id-type="pmid">20605407</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Elbein</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Pan</surname>
+                      <given-names>YT</given-names>
+                    </name>
+                    <name>
+                      <surname>Pastuszak</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Carroll</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>New insights on trehalose: a multifunctional molecule</article-title>
+                  <source>Glycobiology</source>
+                  <year>2003</year>
+                  <volume>13</volume>
+                  <fpage>17R</fpage>
+                  <lpage>27R</lpage>
+                  <pub-id pub-id-type="doi">10.1093/glycob/cwg047</pub-id>
+                  <?supplied-pmid 12626396?>
+                  <pub-id pub-id-type="pmid">12626396</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Guo</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Puhlev</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>Mansbridge</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Levine</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trehalose expression confers desiccation tolerance on human cells</article-title>
+                  <source>Nat Biotechnol</source>
+                  <year>2000</year>
+                  <volume>18</volume>
+                  <fpage>168</fpage>
+                  <lpage>71</lpage>
+                  <pub-id pub-id-type="doi">10.1038/72616</pub-id>
+                  <?supplied-pmid 10657122?>
+                  <pub-id pub-id-type="pmid">10657122</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Matsuo</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trehalose protects corneal epithelial cells from death by drying</article-title>
+                  <source>Br J Ophthalmol</source>
+                  <year>2001</year>
+                  <volume>85</volume>
+                  <fpage>610</fpage>
+                  <lpage>2</lpage>
+                  <pub-id pub-id-type="doi">10.1136/bjo.85.5.610</pub-id>
+                  <?supplied-pmid 11316726?>
+                  <pub-id pub-id-type="pmid">11316726</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tanaka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Machida</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Nukina</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A novel therapeutic strategy for polyglutamine diseases by stabilizing aggregation-prone proteins with small molecules</article-title>
+                  <source>J Mol Med (Berl)</source>
+                  <year>2005</year>
+                  <volume>83</volume>
+                  <fpage>343</fpage>
+                  <lpage>52</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00109-004-0632-2</pub-id>
+                  <?supplied-pmid 15759103?>
+                  <pub-id pub-id-type="pmid">15759103</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mancini</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Maynard</surname>
+                      <given-names>HD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trehalose glycopolymers for stabilization of protein conjugates to environmental stressors</article-title>
+                  <source>J Am Chem Soc</source>
+                  <year>2012</year>
+                  <volume>134</volume>
+                  <fpage>8474</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1021/ja2120234</pub-id>
+                  <?supplied-pmid 22519420?>
+                  <pub-id pub-id-type="pmid">22519420</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Luyckx</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Baudouin</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Trehalose: an intriguing disaccharide with potential for medical application in ophthalmology</article-title>
+                  <source>Clin Ophthalmol</source>
+                  <year>2011</year>
+                  <volume>5</volume>
+                  <fpage>577</fpage>
+                  <lpage>81</lpage>
+                  <pub-id pub-id-type="doi">10.2147/OPTH.S18827</pub-id>
+                  <?supplied-pmid 21654884?>
+                  <pub-id pub-id-type="pmid">21654884</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mateo Orobia</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Casas Pascual</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Cristóbal Bescós</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Effects of 3% trehalose as an adjuvant treatment after LASIK</article-title>
+                  <source>Clin Ophthalmol</source>
+                  <year>2017</year>
+                  <volume>11</volume>
+                  <fpage>347</fpage>
+                  <lpage>53</lpage>
+                  <pub-id pub-id-type="doi">10.2147/OPTH.S125203</pub-id>
+                  <?supplied-pmid 28243058?>
+                  <pub-id pub-id-type="pmid">28243058</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <mixed-citation publication-type="other">Neta T, Takada K, Hirasawa M. (2000) Low-cariogenicity of trehalose as a substrate. J Dent 2000 28:571–576. doi: 10.1016/s0300-5712(00)00038-5.</mixed-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gómez-Moreno</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cabrera‐Ayala</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Aguilar‐Salvatierra</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evaluation of the efficacy of a topical sialogogue spray containing malic acid 1% in elderly people with xerostomia: a double‐blind, randomized clinical trial</article-title>
+                  <source>Gerodontology</source>
+                  <year>2014</year>
+                  <volume>31</volume>
+                  <fpage>274</fpage>
+                  <lpage>80</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ger.12034</pub-id>
+                  <?supplied-pmid 23294350?>
+                  <pub-id pub-id-type="pmid">23294350</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sulistiyani</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Brimson</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Chansaenroj</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Epigallocatechin-3-gallate protects pro-acinar epithelia against salivary gland radiation injury</article-title>
+                  <source>Int J Mol Sci</source>
+                  <year>2021</year>
+                  <volume>22</volume>
+                  <fpage>3162</fpage>
+                  <pub-id pub-id-type="doi">10.3390/ijms22063162</pub-id>
+                  <?supplied-pmid 33808935?>
+                  <pub-id pub-id-type="pmid">33808935</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Boonroung</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Narongdej</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Vadcharavivad</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparative study of carboxymethylcellulose and enzyme-containing saliva substitute on quality of life in head and neck cancer patients with self-reported postradiation-xerostomia</article-title>
+                  <source>Thai Pharm Health Sci J</source>
+                  <year>2011</year>
+                  <volume>6</volume>
+                  <fpage>17</fpage>
+                  <lpage>24</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Henson</surname>
+                      <given-names>BS</given-names>
+                    </name>
+                    <name>
+                      <surname>Inglehart</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                    <name>
+                      <surname>Eisbruch</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ship</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preserved salivary output and xerostomia-related quality of life in head and neck cancer patients receiving parotid-sparing radiotherapy</article-title>
+                  <source>Oral Oncol</source>
+                  <year>2001</year>
+                  <volume>37</volume>
+                  <fpage>84</fpage>
+                  <lpage>93</lpage>
+                  <pub-id pub-id-type="doi">10.1016/s1368-8375(00)00063-4</pub-id>
+                  <?supplied-pmid 11120488?>
+                  <pub-id pub-id-type="pmid">11120488</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Meirovitz</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Murdoch-Kinch</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Schipper</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Pan</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Eisbruch</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Grading xerostomia by physicians or by patients after intensity-modulated radiotherapy of head-and-neck cancer</article-title>
+                  <source>Int J Radiat Oncol Biol Phys</source>
+                  <year>2006</year>
+                  <volume>66</volume>
+                  <fpage>445</fpage>
+                  <lpage>53</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2006.05.002</pub-id>
+                  <?supplied-pmid 16839705?>
+                  <pub-id pub-id-type="pmid">16839705</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Oh</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JY</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>YK</given-names>
+                    </name>
+                    <name>
+                      <surname>Kho</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of carboxymethylcellulose (CMC)-based artificial saliva in patients with xerostomia</article-title>
+                  <source>Int J Oral Maxillofac Surg</source>
+                  <year>2008</year>
+                  <volume>37</volume>
+                  <fpage>1027</fpage>
+                  <lpage>31</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijom.2008.06.006</pub-id>
+                  <?supplied-pmid 18640823?>
+                  <pub-id pub-id-type="pmid">18640823</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Doan</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bremond-Gignac</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Chiambaretta</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of the effect of a hyaluronate-trehalose solution to hyaluronate alone on ocular surface Disease Index in patients with moderate to severe dry eye disease</article-title>
+                  <source>Curr Med Res Opin</source>
+                  <year>2018</year>
+                  <volume>34</volume>
+                  <fpage>1373</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1080/03007995.2018.1434496</pub-id>
+                  <?supplied-pmid 29381080?>
+                  <pub-id pub-id-type="pmid">29381080</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hey</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Setz</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Gerlach</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Parotid gland-recovery after radiotherapy in the head and neck region–36 months follow-up of a prospective clinical study</article-title>
+                  <source>Radiat Oncol</source>
+                  <year>2011</year>
+                  <volume>6</volume>
+                  <fpage>125</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1748-717X-6-125</pub-id>
+                  <?supplied-pmid 21951317?>
+                  <pub-id pub-id-type="pmid">21951317</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Blanco</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                    <name>
+                      <surname>Chao</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>El Naqa</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Dose-volume modeling of salivary function in patients with head-and-neck cancer receiving radiotherapy</article-title>
+                  <source>Int J Radiat Oncol Biol Phys</source>
+                  <year>2005</year>
+                  <volume>62</volume>
+                  <fpage>1055</fpage>
+                  <lpage>69</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijrobp.2004.12.076</pub-id>
+                  <?supplied-pmid 15990009?>
+                  <pub-id pub-id-type="pmid">15990009</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chao</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Deasy</surname>
+                      <given-names>JO</given-names>
+                    </name>
+                    <name>
+                      <surname>Markman</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A prospective study of salivary function sparing in patients with head-and-neck cancers receiving intensity-modulated or three-dimensional radiation therapy: initial results</article-title>
+                  <source>Int J Radiat Oncol Biol Phys</source>
+                  <year>2001</year>
+                  <volume>49</volume>
+                  <fpage>907</fpage>
+                  <lpage>16</lpage>
+                  <pub-id pub-id-type="doi">10.1016/s0360-3016(00)01441-3</pub-id>
+                  <?supplied-pmid 11240231?>
+                  <pub-id pub-id-type="pmid">11240231</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Likhterov</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Ru</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ganz</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Objective and subjective hyposalivation after treatment for head and neck cancer: long-term outcomes</article-title>
+                  <source>Laryngoscope</source>
+                  <year>2018</year>
+                  <volume>128</volume>
+                  <fpage>2732</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1002/lary.27224</pub-id>
+                  <?supplied-pmid 30325025?>
+                  <pub-id pub-id-type="pmid">30325025</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jensen</surname>
+                      <given-names>SB</given-names>
+                    </name>
+                    <name>
+                      <surname>Pedersen</surname>
+                      <given-names>AML</given-names>
+                    </name>
+                    <name>
+                      <surname>Vissink</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A systematic review of salivary gland hypofunction and xerostomia induced by cancer therapies: prevalence, severity and impact on quality of life</article-title>
+                  <source>Support Care Cancer</source>
+                  <year>2010</year>
+                  <volume>18</volume>
+                  <fpage>1039</fpage>
+                  <lpage>60</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00520-010-0827-8</pub-id>
+                  <?supplied-pmid 20237805?>
+                  <pub-id pub-id-type="pmid">20237805</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vistoso</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Polonsky</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Shiboski</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Salivary gland dysfunction secondary to Cancer Treatment</article-title>
+                  <source>Front Oral Health</source>
+                  <year>2022</year>
+                  <volume>3</volume>
+                  <fpage>907778</fpage>
+                  <pub-id pub-id-type="doi">10.3389/froh.2022.907778</pub-id>
+                  <pub-id pub-id-type="pmid">35757443</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Meyer-Lueckel</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Tschoppe</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kielbassa</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Linseed based saliva substitutes and their effect on mineral dissolution of predemineralized bovine dentin in vitro</article-title>
+                  <source>J Dent</source>
+                  <year>2006</year>
+                  <volume>34</volume>
+                  <fpage>751</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2006.01.006</pub-id>
+                  <?supplied-pmid 16519983?>
+                  <pub-id pub-id-type="pmid">16519983</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tschoppe</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Meyer-Lueckel</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kielbassa</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of carboxymethylcellulose-based saliva substitutes on predemineralised dentin evaluated by microradiography</article-title>
+                  <source>Arch Oral Biol</source>
+                  <year>2008</year>
+                  <volume>53</volume>
+                  <fpage>250</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.archoralbio.2007.10.001</pub-id>
+                  <?supplied-pmid 18070615?>
+                  <pub-id pub-id-type="pmid">18070615</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Meyer-Lückel</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kielbassa</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of calcium phosphates added to mucin-based saliva substitutes on bovine dentin</article-title>
+                  <source>Quintessence Int</source>
+                  <year>2006</year>
+                  <volume>37</volume>
+                  <fpage>537</fpage>
+                  <lpage>44</lpage>
+                  <?supplied-pmid 16841601?>
+                  <pub-id pub-id-type="pmid">16841601</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Portmann</surname>
+                      <given-names>M-O</given-names>
+                    </name>
+                    <name>
+                      <surname>Birch</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Sweet taste and solution properties of α,α-trehalose</article-title>
+                  <source>J Sci Food Agri</source>
+                  <year>1995</year>
+                  <volume>69</volume>
+                  <fpage>275</fpage>
+                  <lpage>81</lpage>
+                  <pub-id pub-id-type="doi">10.1002/jsfa.2740690303</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vissink</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Waterman</surname>
+                      <given-names>HA</given-names>
+                    </name>
+                    <name>
+                      <surname>s-Gravenmade</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Panders</surname>
+                      <given-names>AK</given-names>
+                    </name>
+                    <name>
+                      <surname>Vermey</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Rheological properties of saliva substitutes containing mucin, carboxymethylcellulose or polyethylenoxide</article-title>
+                  <source>J Oral Pathol</source>
+                  <year>1984</year>
+                  <volume>13</volume>
+                  <fpage>22</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0714.1984.tb01397.x</pub-id>
+                  <?supplied-pmid 6422019?>
+                  <pub-id pub-id-type="pmid">6422019</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

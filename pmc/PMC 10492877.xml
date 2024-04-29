@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:37:30Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10492877" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10492877</identifier>
+        <datestamp>2023-09-11</datestamp>
+        <setSpec>springeropen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Investig</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Investig</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Investigations</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1432-6981</issn>
+              <issn pub-type="epub">1436-3771</issn>
+              <publisher>
+                <publisher-name>Springer Berlin Heidelberg</publisher-name>
+                <publisher-loc>Berlin/Heidelberg</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10492877</article-id>
+              <article-id pub-id-type="pmcid">PMC10492877</article-id>
+              <article-id pub-id-type="pmc-uid">10492877</article-id>
+              <article-id pub-id-type="pmid">37589748</article-id>
+              <article-id pub-id-type="pmid">37589748</article-id>
+              <article-id pub-id-type="publisher-id">5186</article-id>
+              <article-id pub-id-type="doi">10.1007/s00784-023-05186-w</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effects of mandibular advancement devices on upper airway dimensions in obstructive sleep apnea: responders versus non-responders</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Shi</surname>
+                    <given-names>Xiaoxin</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lobbezoo</surname>
+                    <given-names>Frank</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Chen</surname>
+                    <given-names>Hui</given-names>
+                  </name>
+                  <address>
+                    <email>h.chen@sdu.edu.cn</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rosenmöller</surname>
+                    <given-names>Boudewijn R. A. M.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Berkhout</surname>
+                    <given-names>Erwin</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>de Lange</surname>
+                    <given-names>Jan</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Aarab</surname>
+                    <given-names>Ghizlane</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.7177.6</institution-id><institution-id institution-id-type="ISNI">0000000084992262</institution-id><institution>Department of Orofacial Pain and Dysfunction, Academic Centre for Dentistry Amsterdam (ACTA), </institution><institution>University of Amsterdam and Vrije Universiteit Amsterdam, </institution></institution-wrap>Amsterdam, The Netherlands </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.7177.6</institution-id><institution-id institution-id-type="ISNI">0000000084992262</institution-id><institution>Department of Oral Radiology &amp; Digital Dentistry, Academic Centre for Dentistry Amsterdam (ACTA), </institution><institution>University of Amsterdam and Vrije Universiteit Amsterdam, </institution></institution-wrap>Amsterdam, The Netherlands </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7177.6</institution-id><institution-id institution-id-type="ISNI">0000000084992262</institution-id><institution>Department of Oral and Maxillofacial Surgery, Amsterdam University Medical Centers/Academic Centre for Dentistry Amsterdam (ACTA), </institution><institution>University of Amsterdam, </institution></institution-wrap>Amsterdam, The Netherlands </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.27255.37</institution-id><institution-id institution-id-type="ISNI">0000 0004 1761 1174</institution-id><institution>Department of Orthodontics, School and Hospital of Stomatology, Cheeloo College of Medicine, </institution><institution>Shandong University &amp; Shandong Key Laboratory of Oral Tissue Regeneration &amp; Shandong Engineering Laboratory for Dental Materials and Oral Tissue Regeneration, </institution></institution-wrap>No. 44-1 Wenhua Road West, Jinan, 250012 Shandong China </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>17</day>
+                <month>8</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>17</day>
+                <month>8</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <year>2023</year>
+              </pub-date>
+              <volume>27</volume>
+              <issue>9</issue>
+              <fpage>5649</fpage>
+              <lpage>5660</lpage>
+              <history>
+                <date date-type="received">
+                  <day>3</day>
+                  <month>4</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>28</day>
+                  <month>7</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2023</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Study objectives</title>
+                  <p id="Par1">To compare the effects of mandibular advancement device (MAD) therapy on upper airway dimensions between responders and non-responders with mild to moderate obstructive sleep apnea (OSA).</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Thirty-one participants (21 men and 10 women) with a mean ± SD apnea-hypopnea index (AHI) of 16.6 ± 6.7 events/h, and aged 48.5 ± 13.9 years, were included in this study. Polysomnographic recordings and cone beam computed tomography (CBCT) scans in supine position were performed for every participant at baseline and at 3-month follow-up with their MAD in situ. Responders were defined as having ≥ 50% reduction in baseline AHI with a residual AHI &lt; 10 events/h. The primary outcome variable was the minimal cross-sectional area of the upper airway (CSAmin).</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">No significant differences were found between responders (<italic>n</italic> = 15) and non-responders (<italic>n</italic> = 16) in age, gender distribution, body mass index, and neck circumference (<italic>P</italic> = 0.06–0.93), nor in AHI and CSAmin (<italic>P</italic> = 0.40 and 0.65, respectively) at baseline. The changes of the CSAmin with MAD in situ in the responder group were not significantly different compared to those in the non-responder group (<italic>P</italic> = 0.06).</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p id="Par4">Within the limitations of this study, we conclude that the changes of the upper airway dimensions induced by MADs are not significantly different between responders and non-responders with mild to moderate OSA.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par5">ClinicalTrials.gov Identifier: NCT02724865. <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02724865">https://clinicaltrials.gov/ct2/show/NCT02724865</ext-link></p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Obstructive sleep apnea</kwd>
+                <kwd>Mandibular advancement device</kwd>
+                <kwd>Cone beam computed tomography</kwd>
+                <kwd>Treatment response</kwd>
+                <kwd>Upper airway dimensions</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© Springer-Verlag GmbH Germany, part of Springer Nature 2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par6">Obstructive sleep apnea (OSA) is a common sleep-related breathing disorder characterized by recurrent complete (i.e., apnea) and partial (i.e., hypopnea) obstructions of the upper airway, often resulting in oxygen desaturations and arousals from sleep [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. The diagnosis of OSA depends on either the presence of apnea-hypopnea index (AHI) ≥ 15 events/h, or an AHI ≥ 5 events/h accompanied by one or more of the symptoms such as excessive daytime sleepiness, fatigue, or impaired cognition [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. Most OSA patients have an impaired upper airway anatomy, which is also the key target of most existing treatments, such as continuous positive airway pressure (CPAP), upper airway surgery, weight loss, positional therapy, and mandibular advancement device (MAD) therapy [<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR4">4</xref>]. Compared to other treatment options, MADs are easy to use, non-invasive, less expensive, and have similar treatment effects as CPAP in mild to moderate cases [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. However, the efficacy of MAD therapy is variable and unpredictable, with approximately 50% non-responders [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>] when using the recommended success criterion (i.e., ≥ 50% reduction in AHI with post-treatment AHI &lt; 10 events/h) [<xref ref-type="bibr" rid="CR10">10</xref>]. At this moment, the mechanism underlying different responses is not fully understood [<xref ref-type="bibr" rid="CR11">11</xref>]. Therefore, there is an ongoing interest in the underlying mechanism of inter-individual variability in treatment responses. This knowledge is important for selecting the best candidates for MAD therapy.</p>
+              <p id="Par7">The rationale behind the efficacy of MADs is that advancement of the mandible and tongue improves upper airway patency during sleep by enlarging the upper airway and by decreasing upper airway collapsibility [<xref ref-type="bibr" rid="CR12">12</xref>–<xref ref-type="bibr" rid="CR16">16</xref>]. However, the changes of the upper airway dimensions with the same mandibular advancement may differ between individuals due to many factors, such as the mandible morphology [<xref ref-type="bibr" rid="CR17">17</xref>] and the soft tissue structures around the upper airway [<xref ref-type="bibr" rid="CR18">18</xref>]. Some cephalometric studies suggested that the improvement of the upper airway dimensions was only observed in responders [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. However, the 2-D images used in those studies could only provide limited information about the actual 3-D upper airway structures and may have projection errors [<xref ref-type="bibr" rid="CR20">20</xref>]. Based on 3-D imaging techniques, such as magnetic resonance imaging (MRI) and cone beam computed tomography (CBCT), the differences observed in the effects of MADs on upper airway dimensions between responders and non-responders are not consistent. A study of Chan et al. [<xref ref-type="bibr" rid="CR21">21</xref>] indicated that the enlargement of the upper airway dimensions with MAD in situ is present in responders only. By contrast, other studies suggested that there is no significant difference in the changes of upper airway dimensions between both groups [<xref ref-type="bibr" rid="CR22">22</xref>–<xref ref-type="bibr" rid="CR24">24</xref>]. The different results could be explained by the different imaging techniques (MRI vs. CBCT), imaging posture (supine vs. upright), and the upper airway variables used. Besides, some of these studies have compared both groups in a sub-group analysis, with shortcomings of either having potential confounding factors (e.g., different baseline OSA severity) and/or small sample size. Consequently, whether the different effects of MAD on upper airway dimensions is one of the underlying mechanisms explaining responder and non-responder status has not yet been fully determined. Therefore, more evidence is needed to better understand the difference in the effects of MADs on upper airway dimensions between both groups.</p>
+              <p id="Par8">Since the primary working mechanism of MAD is to improve the upper airway dimensions, we hypothesized the following: (1) with MAD in situ, responders will show a larger improvement of the upper airway dimensions compared to non-responders; and (2) the improvement of the upper airway dimensions is positively associated with the improvement in the AHI. Therefore, the primary aim of this study was to compare the effects of MAD therapy on the upper airway dimensions between responders and non-responders with mild to moderate OSA based on CBCT images in the supine position. The secondary aim was to investigate the correlations between the changes in upper airway dimensions and the changes in AHI in the total group.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <sec id="Sec3">
+                <title>Overview</title>
+                <p id="Par9">This study was part of a randomized controlled trial, in which individuals diagnosed with mild to moderate OSA (5 ≤ AHI &lt; 30 events/h) were recruited to compare the efficacy of two types of MADs [<xref ref-type="bibr" rid="CR25">25</xref>]. This study was approved by the Medical Research Ethics Committee of the Academic Medical Center Amsterdam (AMC), the Netherlands (#: NL44085.018.13). The study was registered at clinicaltrials.gov (ClinicalTrials.gov identifier: NCT02724865). Written informed consent was obtained from all participants.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Participants</title>
+                <p id="Par10">Eligible patients, diagnosed with OSA at one of four sleep centers in the Netherlands (Onze Lieve Vrouwe Gasthuis Ziekenhuis, Nederlands Slaap Instituut, Medisch Centrum Jan van Goyen, and AMC), were referred to the department of Oral and Maxillofacial Surgery of the AMC to participate in the present study. The inclusion criteria were as follows: (1) ≥18 years old; (2) ability to speak, read, and write Dutch; (3) ability to follow-up; (4) ability to use a computer with internet connection for online questionnaires; (5) diagnosis with symptomatic mild or moderate OSA (5 ≤ apnea-hypopnea index (AHI) &lt; 30 events/h) with at least two OSA symptoms (e.g., snoring, fragmented sleep, witnessed apneas, and/or excessive daytime sleepiness [<xref ref-type="bibr" rid="CR26">26</xref>]); and (6) expected to maintain current lifestyle (e.g., sports, medicine, diet). The exclusion criteria were as follows: (1) untreated periodontal problems, dental pain, and/or a lack of retention possibilities for an MAD; (2) medication usage that could influence respiration or sleep; (3) evidence of respiratory/sleep disorders other than OSA (e.g., central sleep apnea syndrome); (4) systematic disorders based on medical history and examination (e.g., rheumatoid arthritis); (5) severe temporomandibular disorders based on a functional examination of the masticatory system; (6) coexistence of non-respiratory sleep disorders (e.g., insomnia, periodic limb movement disorder, or narcolepsy); (7) known medical history of mental retardation, memory disorders, or psychiatric disorders; (8) reversible morphological upper airway abnormalities (e.g., enlarged tonsils, deviated nasal septum, and/or inferior nasal turbinate hypertrophy); (9) inability to provide informed consent; (10) simultaneous use of other modalities to treat OSA; and/or (11) previous treatment with an MAD.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>MADs</title>
+                <p id="Par11">Two types of MAD were used in this study, namely, MAD-H (Herbst appliance; 4Dental labs, Amsterdam, the Netherlands) and MAD-S (SomnoDent appliance; SomnoDent Flex, SomnoMed, Sydney, Australia). Both types of MAD were titratable, two-piece, custom-made MADs, and were randomly allocated to the participants [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+                <p id="Par12">The detailed titration protocol was described previously [<xref ref-type="bibr" rid="CR27">27</xref>]. In short, both types of MAD were set at 60% of the maximal mandibular advancement at baseline, and titrated backwards or forwards based on a weighted compromise between subjective improvement and side-effects during a 3-month follow-up. No adjustments were made when the patient reported a sufficient efficacy without side effects.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Side effects and compliance</title>
+                <p id="Par13">Self-reported side effects were recorded at each clinical visit, including the following: (1) sensitive teeth in the morning; (2) painful jaw muscles; (3) painful temporomandibular joints; and (4) changed occlusion in the morning. Information about the adherence and satisfaction level was collected by a telephone survey, which were expressed as follows: (1) percentage of hours of MAD use per total sleep time, (2) percentage of days of MAD use per week, and (3) the overall level of satisfaction with the MAD usage.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Polysomnographic (PSG) recordings</title>
+                <p id="Par14">This study consisted of two PSG recordings for each participant: one at baseline without MAD and one at 3-month follow-up with MAD in situ. A digital PSG system (Embla A10, Broomfield, CO, USA) was used and recorded electroencephalogram (EEG) (FP2-C4/C4-O2), electrooculogram (EOG), electrocardiogram (ECG), and submental and anterior tibial electromyogram (EMG). Nasal airflow was measured by a nasal pressure cannula, and blood oxygen saturation was measured by finger pulse oximetry. Straps containing piezoelectric transducers recorded thoracoabdominal motion, and a position sensor (Sleepsense, St Charles, IL, USA) attached to the midline of the abdominal wall was used to differentiate between supine, prone, right lateral, left lateral, and upright positions [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR29">29</xref>].</p>
+                <p id="Par15">PSG parameters, including sleep and respiratory variables, were analyzed following the recommendations of the American Academy of Sleep Medicine [<xref ref-type="bibr" rid="CR1">1</xref>]. Responders were defined as having ≥ 50% reduction in baseline AHI with a residual AHI &lt;10 events/h at the time of therapy evaluation. If this criterion was not met, patients were regarded as non-responders [<xref ref-type="bibr" rid="CR10">10</xref>].</p>
+              </sec>
+              <sec id="Sec8">
+                <title>CBCT scans</title>
+                <p id="Par16">Two CBCT scans (NewTom 5G, QR systems, Italy) were performed for every participant at the department of Oral Radiology of the Academic Centre for Dentistry Amsterdam (ACTA): one without MAD at baseline and one with MAD in situ at 3-month follow-up in the same protrusion position as during the follow-up PSG recording. CBCT scans were performed while the patient was awake in the supine position with quiet breathing. The head of the patient was positioned with the Frankfort plane being perpendicular to the floor. After CBCT scanning, we further standardized the head position, during which the palatal plane (anterior nasal spine (ANS)-posterior nasal spine (PNS)) was adjusted to be parallel to the axial plane and the sagittal plane, and perpendicular to the coronal plane [<xref ref-type="bibr" rid="CR30">30</xref>]. CBCT datasets were saved as Digital Imaging and Communications in Medicine (DICOM) files for further analysis.</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Craniofacial characteristics</title>
+                <p id="Par17">Measurements of the positions of the maxilla and mandible were performed using 3Diagnosys® software (v5.3.1, 3diemme, Cantu, Italy). The angle between sella, nasion, and subspinale (SNA angle), and the angle between sella, nasion, and supramentale (SNB angle) were used to represent the anteroposterior position of the maxilla and mandible relative to the cranial base, respectively. Landmarks are illustrated in Fig. <xref rid="Fig1" ref-type="fig">1</xref>A.<fig id="Fig1"><label>Fig. 1</label><caption><p>Craniofacial landmarks and measurements of the upper airway dimensions based on cone beam computed tomography (CBCT) imaging. <bold>A</bold> N = nasion, S = sella, A = subspinale, B = supramentale, U= the upper boundary of the upper airway (hard palate plane), L = the lower boundary of the upper airway (plane cross the base of the epiglottis) on the mid-sagittal plane. <bold>B</bold> The minimal cross-sectional area of the upper airway (CSAmin) on the axial plane. <bold>C</bold> The measurement of the anteroposterior dimension (A-P) and the lateral dimension (La) of the CSAmin</p></caption><graphic xlink:href="784_2023_5186_Fig1_HTML" id="MO1"/></fig></p>
+              </sec>
+              <sec id="Sec10">
+                <title>Upper airway dimensions</title>
+                <p id="Par18">The measurements of upper airway dimensions were performed using the Amira® software (v4.1, Visage Imaging Inc., Carlsbad, CA, USA). After setting the superior boundary of the upper airway (i.e., the palatal plane) and the inferior boundary (i.e., the horizontal plane across the base of the epiglottis) (Fig. <xref rid="Fig1" ref-type="fig">1</xref>A), the volume of the upper airway (V), the sequence number of each slice, and the cross-sectional area (CSA) of each slice were calculated automatically in the software [<xref ref-type="bibr" rid="CR30">30</xref>]. Based on the CSA, the minimum CSA (CSAmin) could be identified and located (Fig. <xref rid="Fig1" ref-type="fig">1</xref>B), on which the anteroposterior dimension (A-P) and lateral dimension (La) of CSAmin could be measured (Fig. <xref rid="Fig1" ref-type="fig">1</xref>C). Based on the slice numbers of the upper airway, the length of upper airway (L) was calculated by multiplying the slice number with 0.3mm (the thickness of every slice). The investigator was blinded for the treatment response.</p>
+                <p id="Par19">Since the CSAmin is suggested to be the most relevant anatomical characteristic related to the pathogenesis of OSA [<xref ref-type="bibr" rid="CR31">31</xref>], the CSAmin was the primary outcome variable of the upper airway dimensions. The secondary upper airway variables included the lateral dimension (La) and anteroposterior dimension (A-P) of the CSAmin, upper airway volume (V), and upper airway length (L).</p>
+                <p id="Par20">An experienced examiner who was blinded to the membership of the patients measured all the upper airway variables. Ten CBCT scans were randomly selected and re-measured after a 1-month interval of the original measurements, and the intra-rater reliability was assessed.</p>
+              </sec>
+              <sec id="Sec11">
+                <title>Statistical analysis</title>
+                <p id="Par21">Normality assumptions were verified with the Shapiro–Wilk test. Independent t test (for normally distributed variables), Mann-Whitney <italic>U</italic> test (for non-normally distributed variables), and Chi-squared test or Fisher’s exact test (for categorical variables) were used to compare the baseline demographic and craniofacial characteristics, as well as MAD type, mandibular protrusion, side effects, and adherence reports between the responder group and the non-responder group.</p>
+                <p id="Par22">A two-way mixed, absolute agreement, single measures intraclass correlation coefficient (ICC) was used to determine the intra-rater reliability for the upper airway variables. Analyses of covariance (ANCOVA) were used to compare changes in sleep, respiratory, and upper airway variables between baseline and therapy evaluation between both groups. Significantly different baseline characteristics between responders and non-responders were controlled for as covariates [<xref ref-type="bibr" rid="CR32">32</xref>]. Bonferroni-Holm method was used to correct the multiple comparisons of the secondary outcome variables of the upper airway [<xref ref-type="bibr" rid="CR33">33</xref>]. Correlations between the changes in respiratory variables and the changes in upper airway dimensions were assessed using Pearson’s correlations (for normally distributed variables) or Spearman’s correlation (for non-normally distributed variables).</p>
+                <p id="Par23">To test the robustness of the results of ANCOVA and correlation analyses, sensitivity analyses were performed by excluding the outliers of the primary variable (i.e., CSAmin) [<xref ref-type="bibr" rid="CR34">34</xref>]. An outlier was defined as individual patients with the change of the primary variable (i.e., the change of CSAmin) more than 3 times the interquartile range (IQR) of the change above the 75<sup>th</sup> percentile or below the 25<sup>th</sup> percentile of all participants.</p>
+                <p id="Par24">Statistical analysis was performed using the SPSS software (SPSS version 26, Chicago, IL, USA). A post hoc power analysis was conducted for the primary outcome variable (i.e., CSAmin) using software G*power (version 3.1.9, Franz Faul, Universität Kiel, Germany).</p>
+              </sec>
+            </sec>
+            <sec id="Sec12">
+              <title>Results</title>
+              <sec id="Sec13">
+                <title>Recruitment</title>
+                <p id="Par25">Of the 49 patients who were initially recruited, 18 patients were excluded for reasons of lost contact (<italic>n </italic>= 5), quit study due to MAD complaints (<italic>n </italic>= 4), refused the second PSG recordings (<italic>n </italic>= 2), and with incomplete dataset (<italic>n </italic>= 7). Finally, 31 patients were included in this study: 15 of them were classified as responders, and 16 were non-responders.</p>
+              </sec>
+              <sec id="Sec14">
+                <title>Patient characteristics</title>
+                <p id="Par26">The baseline demographic and craniofacial characteristics of the responder group and the non-responder group are shown in Table <xref rid="Tab1" ref-type="table">1</xref>. There were no significant differences between responders (<italic>n</italic> = 15) and non-responders (<italic>n</italic> = 16) in gender distribution, body mass index (BMI), neck circumference, and OSA severity categories (<italic>P</italic> = 0.61–0.93). Besides, there were no significant differences in SNA angle and SNB angle between both groups (<italic>P</italic> = 0.50 and 0.34, respectively). The responder group (43.7 ± 11.1 years) tended to be significantly younger than the non-responder group (52.9 ± 15.1 years) (<italic>t</italic> = −1.93, <italic>P</italic> = 0.06). Therefore, age was considered a covariate in the ANCOVA.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Baseline demographic and craniofacial characteristics of the responder group and the non-responder group</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th>Responders (<italic>n</italic> = 15)</th><th>Non-responders (<italic>n</italic> = 16)</th><th>Test statistics</th><th><italic>P</italic></th></tr></thead><tbody><tr><td colspan="5">Demographic characteristics</td></tr><tr><td> Age (years)</td><td>43.7 ± 11.1</td><td>52.9 ± 15.1</td><td>−1.93 (t)</td><td>0.06</td></tr><tr><td> Gender (men vs. women)</td><td>11 vs. 4</td><td>10 vs. 6</td><td>FET</td><td>0.70</td></tr><tr><td> BMI (kg/m<sup>2</sup>)</td><td>25.0|26.0|29.4</td><td>24.0|27.4|30.7</td><td>−0.38 (Z)</td><td>0.71</td></tr><tr><td> Neck circumference (cm)</td><td>38.9 ± 4.0</td><td>39.1 ± 4.0</td><td>−0.09 (t)</td><td>0.93</td></tr><tr><td> OSA severity (mild vs. moderate)</td><td>6 vs. 9</td><td>5 vs. 11</td><td>0.26(χ<sup>2</sup>)</td><td>0.61</td></tr><tr><td colspan="5">Craniofacial characteristics</td></tr><tr><td> SNA (°)</td><td>78.3|81.5|84.7</td><td>79.6|80.8|84.8</td><td>−0.67 (Z)</td><td>0.50</td></tr><tr><td> SNB (°)</td><td>76.7 ± 4.3</td><td>78.1 ± 3.8</td><td>−0.96 (t)</td><td>0.34</td></tr></tbody></table><table-wrap-foot><p>Normally distributed data are shown as mean ± standard deviation (SD); non-normally distributed data are presented as 25th percentile|median|75th percentile; <italic>t</italic>, independent t test; <italic>Z</italic>, Mann-Whitney <italic>U</italic> test; <italic>FET</italic>, Fisher’s exact test; <italic>χ</italic><sup>2</sup>, Chi-squared test; <italic>BMI</italic>, body mass index; <italic>mild OSA severity</italic>, 5 ≤ AHI &lt; 15 events/h; <italic>moderate OSA severity</italic>, 15 ≤ AHI &lt; 30 events/h; <italic>SNA</italic>, angle between sella, nasion, and subspinale; <italic>SNB</italic>, angle between sella, nasion, and supramentale</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec15">
+                <title>MAD use</title>
+                <p id="Par27">The MAD type, amount of mandibular advancement, side effects, and adherence reports of the responder group and the non-responder group are presented in Table <xref rid="Tab2" ref-type="table">2</xref>. There was no significant difference in MAD type used between both groups <italic>(χ</italic><sup>2</sup> = 0.03<italic>, P</italic> =0.85). Besides, no significant difference was found between both groups in the amount of mandible advancement in both percentage (%) and actual amount (mm) of the maximum protrusion (<italic>P</italic> = 0.34 and 0.12, respectively). No significant difference was found between both groups in their side effects either (<italic>P</italic> = 0.33–0.65). Nine patients in the responder group and 8 patients in the non-responder group responded on the adherence questionnaire. No significant differences in adherence reports were found between both groups (<italic>P</italic> = 0.29–0.86).<table-wrap id="Tab2"><label>Table 2</label><caption><p>MAD type, amount of mandibular advancement, side effects, and adherence reports of the responder group and the non-responder group</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th>Responders (<italic>n =</italic> 15)</th><th>Non-responders (<italic>n =</italic> 16)</th><th><italic>t</italic>/<italic>Z</italic>/<italic>χ</italic><sup>2</sup>/FET</th><th><italic>P</italic></th></tr></thead><tbody><tr><td colspan="5">MAD type</td></tr><tr><td> MAD-H vs. MAD-S</td><td>8 vs. 7</td><td>8 vs. 8</td><td>0.03 (<italic>χ</italic><sup>2</sup>)</td><td>0.85</td></tr><tr><td colspan="5">Mandibular advancement</td></tr><tr><td> Advancement (%)</td><td>70.0|75.0|90.0</td><td>62.5|75.0|75.0</td><td>−0.96 (<italic>Z</italic>)</td><td>0.34</td></tr><tr><td> Advancement (mm)</td><td>9.2 ± 2.5</td><td>8.0 ± 1.6</td><td>1.60 (<italic>t</italic>)</td><td>0.12</td></tr><tr><td colspan="5">Side effects</td></tr><tr><td> Sensitive teeth in the morning</td><td>3</td><td>2</td><td>FET</td><td>0.65</td></tr><tr><td> Painful jaw muscles</td><td>1</td><td>3</td><td>FET</td><td>0.60</td></tr><tr><td> Painful temporomandibular joints</td><td>4</td><td>2</td><td>FET</td><td>0.39</td></tr><tr><td> Changed occlusion in the morning</td><td>1</td><td>4</td><td>FET</td><td>0.33</td></tr><tr><td>Adherence</td><td>(<italic>n</italic>=9)<sup>a</sup></td><td>(<italic>n</italic>=8) <sup>a</sup></td><td/><td/></tr><tr><td> Wearing hour (%)</td><td>100.0|100.0|100.0</td><td>100.0|100.0|100.0</td><td>−0.17 (Z)</td><td>0.86</td></tr><tr><td> Wearing day (%)</td><td>100.0|100.0|100.0</td><td>100.0|100.0|100.0</td><td>−1.06 (Z)</td><td>0.29</td></tr><tr><td> Level of satisfaction (%)</td><td>68.9 ± 25.1</td><td>76.0 ± 16.1</td><td>−0.69 (t)</td><td>0.50</td></tr></tbody></table><table-wrap-foot><p>Normally distributed data are shown as mean ± standard deviation (SD); non-normally distributed data are presented as 25th percentile|median|75th percentile; <italic>t</italic>, independent t test; <italic>Z</italic>, Mann-Whitney <italic>U</italic> test; <italic>χ</italic><sup>2</sup>, Chi-squared test; <italic>FET</italic>, Fisher’s exact test; <sup>a</sup>compliance data were available for 9 patients of responder group and 8 patients of non-responder group</p><p><italic>MAD</italic>, mandibular advancement device; <italic>MAD</italic>-<italic>H</italic>, MAD of Herbst type; <italic>MAD</italic>-<italic>S</italic>, MAD of SomnoDent type</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec16">
+                <title>Reliability of the upper airway assessment</title>
+                <p id="Par28">The intra-rater reliability for the upper airway assessment was excellent, with ICC = 0.96 for the CSAmin and ICC = 0.90 to 0.94 for the secondary outcome variables [<xref ref-type="bibr" rid="CR35">35</xref>].</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Sleep and respiratory variables</title>
+                <p id="Par29">The sleep and respiratory variables at baseline and at 3-month follow-up with MAD in situ of the responder and non-responder groups are shown in Table <xref rid="Tab3" ref-type="table">3</xref>. The baseline values of the sleep and respiratory variables were not significantly different between both groups (<italic>P</italic> = 0.10–0.97). By definition, the reductions of AHI and AHI-supine were significantly larger in responders compared to non-responders (<italic>P</italic> &lt; 0.01 and &lt; 0.01, respectively). However, the changes of AHI-non-supine, oxygen desaturation index (ODI), and sleep variables were not significantly different between both groups (<italic>P</italic> = 0.16–0.93).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Sleep and respiratory variables at baseline and at 3-month follow-up of the responder group and the non-responder group</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2"/><th colspan="2">Responders (<italic>n</italic>=15)</th><th colspan="2">Non-responders (<italic>n</italic>=16)</th><th colspan="2">Baseline comparisons (ANCOVA)</th><th colspan="2">Therapy effects comparisons (ANCOVA)</th></tr><tr><th>Baseline</th><th>3-month</th><th>Baseline</th><th>3-month</th><th><italic>F</italic></th><th><italic>P</italic></th><th><italic>F</italic></th><th><italic>P</italic></th></tr></thead><tbody><tr><td colspan="9">Sleep variables <sup>a</sup></td></tr><tr><td> Total sleep time (min)</td><td>398.3 ± 53.9</td><td>416.7 ± 47.8</td><td>408.1 ± 75.0</td><td>406.2 ± 78.8</td><td>0.97</td><td>0.33</td><td>1.38</td><td>0.25</td></tr><tr><td> Stage N1 (%)</td><td>7.4 ± 5.2</td><td>6.0 ± 4.5</td><td>10.3 ± 4.7</td><td>8.3 ± 6.7</td><td>1.92</td><td>0.18</td><td>0.29</td><td>0.60</td></tr><tr><td> Stage N2 (%)</td><td>54.2 ± 7.5</td><td>49.9 ± 11.7</td><td>49.7 ± 9.3</td><td>45.9 ± 11.3</td><td>2.98</td><td>0.10</td><td>0.05</td><td>0.83</td></tr><tr><td> Stage N3 (%)</td><td>17.3 ± 7.4</td><td>19.7 ± 8.6</td><td>19.4 ± 5.8</td><td>23.5 ± 8.5</td><td>1.34</td><td>0.26</td><td>0.23</td><td>0.63</td></tr><tr><td> Stage REM (%)</td><td>21.1 ± 4.5</td><td>24.3 ± 5.8</td><td>20.6 ± 6.0</td><td>22.3 ± 7.4</td><td>0.00</td><td>0.97</td><td>0.21</td><td>0.65</td></tr><tr><td> Supine position (%)</td><td>44.4 ± 37.4</td><td>37.1 ± 27.3</td><td>39.9 ± 27.0</td><td>42.3 ± 27.6</td><td>0.00</td><td>0.97</td><td>0.76</td><td>0.39</td></tr><tr><td> Arousal index(/h)</td><td>7.9 ± 5.3</td><td>11.5 ± 11.8</td><td>11.8 ± 16.0</td><td>14.2 ± 13.5</td><td>0.87</td><td>0.36</td><td>0.01</td><td>0.93</td></tr><tr><td colspan="9">Respiratory variables</td></tr><tr><td> AHI (/h)</td><td>15.9 ± 6.1</td><td>4.9 ± 2.6</td><td>17.3 ± 7.3</td><td>17.1 ± 6.8</td><td>0.72</td><td>0.40</td><td>15.38</td><td>&lt;0.01*</td></tr><tr><td> AHI-supine (/h)</td><td>29.8 ± 16.1</td><td>9.9 ± 10.9</td><td>30.4 ± 15.4</td><td>34.3 ± 22.5</td><td>0.00</td><td>0.97</td><td>10.76</td><td>&lt;0.01*</td></tr><tr><td> AHI-non-supine (/h)</td><td>8.3 ± 8.2</td><td>3.2 ± 2.7</td><td>11.0 ± 8.5</td><td>7.1 ± 4.0</td><td>0.57</td><td>0.46</td><td>0.16</td><td>0.69</td></tr><tr><td> ODI (/h)</td><td>16.0 ± 8.9</td><td>8.0 ± 4.4</td><td>16.1 ± 11.3</td><td>15.0 ± 7.5</td><td>0.39</td><td>0.54</td><td>2.12</td><td>0.16</td></tr></tbody></table><table-wrap-foot><p>Data are shown as mean ± standard deviation (SD); <italic>ANCOVA</italic>, analysis of covariance using age as a covariate; <sup>a</sup>two patients with incomplete sleep data were excluded from the analysis of sleep variables; *statistically significant</p><p><italic>REM</italic>, rapid-eye-movement; <italic>AHI</italic>, apnea-hypopnea index; <italic>AHI-supine</italic>, AHI score in the supine position; <italic>AHI</italic>-<italic>non</italic>-<italic>supin</italic>e, AHI score in positions other than the supine position; <italic>ODI</italic>, oxygen desaturation index</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec18">
+                <title>Upper airway variables</title>
+                <p id="Par30">The variables of upper airway dimensions at baseline and at 3-month follow-up with MAD in situ in the responder group and the non-responder group are presented in Table <xref rid="Tab4" ref-type="table">4</xref>. For the primary outcome variable, CSAmin, the enlargement of CSAmin with MAD in situ was not significantly different between both groups (<italic>P</italic> = 0.06). The individual values of the CSAmin at baseline and at follow-up in the responder and non-responder groups are illustrated in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. For the secondary upper airway variables, there were no significant differences between both groups in the changes of A-P dimensions, La dimensions, upper airway volume, and upper airway length after Bonferroni-Holm correction (<italic>P</italic> = 0.04–0.18). Similar results were found in the sensitivity analyses of ANCOVA after excluding the two outliers in the non-responder group: there were no significant differences between both groups in the changes of the CSAmin (<italic>P</italic> = 0.20) and the secondary outcome variables (<italic>P</italic> = 0.11–0.54) either. The observed effect size f of the changes of CSAmin between both groups was 0.37 in the primary analysis (partial <italic>η</italic><sup>2</sup> = 0.12, ANCOVA) and 0.25 in the sensitivity analysis (partial <italic>η</italic><sup>2</sup> = 0.06, ANCOVA), which can be qualified as between medium and large.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Variables of upper airway dimensions at baseline and at 3-month follow-up with MAD in situ of the responder and non-responder groups</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2"/><th colspan="2">Responders (<italic>n</italic>=15)</th><th colspan="2">Non-responders (<italic>n</italic>=16)</th><th colspan="2">Baseline comparisons (ANCOVA)</th><th colspan="2">Therapy effects comparisons (ANCOVA)</th></tr><tr><th>Baseline</th><th>3-month</th><th>Baseline</th><th>3-month</th><th><italic>F</italic></th><th><italic>P</italic></th><th><italic>F</italic></th><th><italic>P</italic></th></tr></thead><tbody><tr><td colspan="9">Primary outcome</td></tr><tr><td> CSAmin (mm<sup>2</sup>)</td><td>55.9 ± 32.8</td><td>65.8 ± 36.3</td><td>57.2 ± 34.1</td><td>96.2 ± 64.6</td><td>0.22</td><td>0.65</td><td>3.80</td><td>0.06</td></tr><tr><td colspan="9">Secondary outcomes</td></tr><tr><td> A-P (mm)</td><td>4.8 ± 1.8</td><td>4.9 ± 1.5</td><td>4.3 ± 1.9</td><td>5.4 ± 2.6</td><td>1.32</td><td>0.26</td><td>1.89</td><td>0.18</td></tr><tr><td> La (mm)</td><td>12.1 ± 3.6</td><td>14.3 ± 4.3</td><td>12.3 ± 5.6</td><td>17.1 ± 6.0</td><td>0.02</td><td>0.89</td><td>3.61</td><td>0.07</td></tr><tr><td> V (cm<sup>3</sup>)</td><td>9.5 ± 2.9</td><td>10.0 ± 3.6</td><td>12.6 ± 5.1</td><td>14.9 ± 6.0</td><td>1.92</td><td>0.18</td><td>2.60</td><td>0.12</td></tr><tr><td> L (mm)</td><td>65.3 ± 9.5</td><td>62.4 ± 9.5</td><td>67.5 ± 8.1</td><td>67.4 ± 8.7</td><td>0.26</td><td>0.61</td><td>4.90</td><td>0.04</td></tr></tbody></table><table-wrap-foot><p>Data are shown as mean ± standard deviation (SD); <italic>ANCOVA</italic>, analysis of covariance using age as a covariate; <italic>CSAmin</italic>, minimum cross-sectional area of the upper airway; <italic>A-P</italic>, anteroposterior dimension of the CSAmin; <italic>La</italic>, lateral dimension of the CSAmin; <italic>V</italic>, volume of the upper airway; <italic>L</italic>, length of the upper airway</p></table-wrap-foot></table-wrap><fig id="Fig2"><label>Fig. 2</label><caption><p>Individual values of the minimal cross-sectional area of the upper airway (CSAmin) at baseline and at follow-up in the responder group (<italic>n =</italic> 15) and the non-responder group (<italic>n =</italic> 16). No significant difference was observed in the changes in the CSAmin between both groups (<italic>P</italic> = 0.06). ꝉ: outliers</p></caption><graphic xlink:href="784_2023_5186_Fig2_HTML" id="MO2"/></fig></p>
+              </sec>
+              <sec id="Sec19">
+                <title>Correlations</title>
+                <p id="Par31">The correlations between the changes in upper airway dimensions and the changes in the respiratory variables of the total group are shown in Table <xref rid="Tab5" ref-type="table">5</xref>. There were no significant correlations between the changes in CSAmin and the changes in AHI (<italic>P</italic> = 0.48), AHI-supine (<italic>P</italic> = 0.10), and AHI-non-supine (<italic>P</italic> = 0.59). Besides, no significant correlations were found between the changes in the secondary upper airway variables and the changes in the respiratory variables either (all <italic>P</italic> &gt; 0.05). Similar results were found in the sensitivity analyses of correlation analyses after excluding the two outliers in the non-responder group: no significant correlations were found between the changes in upper airway dimensions and the changes in the respiratory variables (all <italic>P</italic> &gt; 0.05).<table-wrap id="Tab5"><label>Table 5</label><caption><p>Correlations between the changes in upper airway dimensions and the changes in the respiratory variables of all participants with OSA (<italic>n </italic>= 31)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2"/><th colspan="2">ΔAHI</th><th colspan="2">ΔAHI-supine</th><th colspan="2">ΔAHI-non-supine</th></tr><tr><th><italic>r</italic></th><th><italic>P</italic></th><th><italic>r</italic></th><th><italic>P</italic></th><th><italic>r</italic></th><th><italic>P</italic></th></tr></thead><tbody><tr><td>ΔCSAmin (mm<sup>2</sup>)</td><td>0.13</td><td>0.48</td><td>0.30</td><td>0.10</td><td>−0.10</td><td>0.59</td></tr><tr><td>ΔA-P (mm)</td><td>0.05</td><td>0.81</td><td>0.09</td><td>0.63</td><td>−0.21</td><td>0.27</td></tr><tr><td>ΔLa (mm)</td><td>0.18</td><td>0.32</td><td>0.27</td><td>0.15</td><td>0.07</td><td>0.73</td></tr><tr><td>Δ<italic>V</italic> (cm<sup>3</sup>)</td><td>0.26</td><td>0.15</td><td>0.25</td><td>0.18</td><td>−0.27</td><td>0.15</td></tr><tr><td>Δ<italic>L</italic> (mm)</td><td>0.30</td><td>0.10</td><td>0.13</td><td>0.48</td><td>0.02</td><td>0.90</td></tr></tbody></table><table-wrap-foot><p><italic>Δ</italic>, the difference between the baseline value and follow-up value; r, correlation coefficient; <italic>CSAmin</italic>, minimum cross-sectional area of the upper airway; <italic>A-P</italic>, anteroposterior dimension of the CSAmin; <italic>La</italic>, lateral dimension of the CSAmin; <italic>V,</italic> volume of the upper airway; <italic>L</italic>, length of the upper airway; <italic>AHI</italic>, apnea-hypopnea index; <italic>AHI</italic>-<italic>supine</italic>, AHI score in the supine position; <italic>AHI-non-supine</italic>, AHI scores in positions other than the supine position</p></table-wrap-foot></table-wrap></p>
+              </sec>
+            </sec>
+            <sec id="Sec20">
+              <title>Discussion</title>
+              <p id="Par32">The objectives of this study were to compare the effects of MAD therapy on upper airway dimensions between responders and non-responders with mild to moderate OSA, and to determine the correlations between the changes in upper airway dimensions and the changes in AHI in the total group. The results indicated that the changes of the upper airway dimensions with MAD in situ were not significantly different between responders and non-responders in the supine position. Furthermore, the changes of the upper airway dimensions had no significant correlation with the changes in AHI.</p>
+              <sec id="Sec21">
+                <title>Comparisons of the therapy effects on upper airway dimensions</title>
+                <p id="Par33">The changes of CSAmin induced by MAD were not significantly different between responders and non-responders in the present study. Besides the CSAmin, the secondary outcome variables, including the lateral dimensions and the anteroposterior dimensions of the CSAmin, upper airway volume, and upper airway length, were not significantly different between both groups either. Contrary to our results, Chan et al. [<xref ref-type="bibr" rid="CR21">21</xref>] compared 47 responders and 22 non-responders based on MRI and found a significant increase in the CSAmin and other upper airway dimensions in responders only. However, in their study, the responders had significantly higher AHI and bigger SNB angle compared to the non-responders at baseline, which may bias the upper airway comparisons and may explain the different results as compared to our findings. Our results are similar to three other studies [<xref ref-type="bibr" rid="CR22">22</xref>–<xref ref-type="bibr" rid="CR24">24</xref>], which all suggested that there were no significant differences between responders and non-responders regarding the changes of upper airway dimensions based on 3-D images. However, the generalization of these three studies might be limited due to different aspects. In the study of Pahkala et al. [<xref ref-type="bibr" rid="CR24">24</xref>], the measurements of the upper airway dimensions were based on upright CBCT images, which may represent different upper airway dimensions compared to those based on supine images [<xref ref-type="bibr" rid="CR36">36</xref>]. The study of Ogawa et al. [<xref ref-type="bibr" rid="CR23">23</xref>] compared the upper airway dimensions based on the mid-sagittal plane of a MRI image only, and in the study of Sutherland et al. [<xref ref-type="bibr" rid="CR22">22</xref>], the comparisons were performed as a sub-group analysis with a small sample (12 responders vs. 6 non-responders). Therefore, our study confirmed the results of previous studies with larger sample size and different upper airway variables in the supine position. The outcomes suggest that the enlargement of the upper airway with MAD in situ in the supine position during waking state cannot explain treatment success of MAD treatment.</p>
+                <p id="Par34">In the present study, the observed effect size f of the difference in the changes of CSAmin between both groups (0.37 and 0.25 in the primary and sensitivity analyses, respectively) was between medium and large (according to Cohen [<xref ref-type="bibr" rid="CR37">37</xref>], an effect size <italic>f</italic> = 0.10 is small, <italic>f</italic> = 0.25 is medium, and <italic>f</italic> = 0.40 is large). With these effect sizes, if we enlarge our sample size to around 60–130, there might be a significant difference between both groups (with power 0.8 and 5% significance level). However, it is important to note is that there is a tendency that non-responders will have a greater enlargement of CSAmin compared to responders, which confirms the aforementioned speculation that the upper airway enlargement by itself cannot explain treatment success.</p>
+                <p id="Par35">Our results suggest that the effects of MAD on upper airway dimensions are similar between responders and non-responders in the supine position, although the changes of AHI and AHI-supine differed significantly. The non-significant findings of comparisons of upper airway dimensions do not support our initial hypothesis. However, the multifactorial nature of the pathogenesis of OSA may possibly explain our findings. It has been recognized that besides anatomical factors, non-anatomical factors like impaired pharyngeal dilator muscle responsiveness, increased propensity for awakening during airway narrowing (low respiratory arousal threshold), and respiratory control instability (high loop gain) are also crucial determinants of OSA for many patients [<xref ref-type="bibr" rid="CR4">4</xref>]. Therefore, we hypothesize that the mechanical enlargement of the upper airway dimensions is an important prerequisite for treatment success of MAD, but the finial treatment outcome may be mediated by non-anatomical factors. Limited by technique, the non-anatomical factors could not be investigated for responders and non-responders in the present study. However, previous studies have suggested that compared to non-responders, responders had a less collapsible pharynx and a more stable respiratory control system (i.e., lower loop gain) [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR39">39</xref>], which is in line with our hypothesis. Future studies are warranted to test this hypothesis.</p>
+              </sec>
+              <sec id="Sec22">
+                <title>Correlations</title>
+                <p id="Par36">No significant correlations were found between the changes in upper airway dimensions and the changes in AHI. Furthermore, as the upper airway images were performed in the supine position, the correlations between the changes in upper airway dimensions and the changes in AHI-supine were also investigated, and no significant correlations were found either. Our results are consistent with other studies [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR40">40</xref>, <xref ref-type="bibr" rid="CR41">41</xref>], in which no significant linear correlations were found between the changes in AHI and the changes in upper airway dimensions. In contrast, a study of Camañes-Gonzalvo et al. [<xref ref-type="bibr" rid="CR16">16</xref>] has found a significant correlation between the increase of the upper airway volume and the decrease of AHI. However, the correlation was only significant in the severe OSA group, and not in the mild to moderate groups [<xref ref-type="bibr" rid="CR16">16</xref>], which corresponds with the findings in the present study. Since OSA pathogenesis is explained by both anatomical and non-anatomical factors [<xref ref-type="bibr" rid="CR4">4</xref>], it is to be expected that the relationship between the changes in respiratory parameters and the changes in the upper airway dimensions is not linear. The absence of a significant correlation is also in line with our non-significant finding in the comparisons of upper airway changes between both groups, which suggests that the prediction of treatment response of MAD using upper airway changes based on awake CBCT is of limited value.</p>
+              </sec>
+              <sec id="Sec23">
+                <title>Demographic characteristics</title>
+                <p id="Par37">Many studies have hypothesized that some demographic and craniofacial characteristics could be helpful in predicting the treatment success of MAD therapy. In the present study, responders were younger than non-responders, which is consistent with previous studies [<xref ref-type="bibr" rid="CR42">42</xref>–<xref ref-type="bibr" rid="CR45">45</xref>]. According to a recent systematic review and meta-analysis study [<xref ref-type="bibr" rid="CR10">10</xref>], other characteristics that may associate with MAD treatment success are lower BMI, smaller neck circumference, a shorter airway length, and a smaller baseline CSAmin. However, the results of this study did not confirm these findings, which may be related to the size and/or heterogeneity of our sample in our study. In general, no single characteristic may reliably predict a favorable MAD treatment outcome [<xref ref-type="bibr" rid="CR46">46</xref>], which calls for more research in the recognition of non-responders by combining demographic characteristics, anatomical factors, and non-anatomical factors.</p>
+              </sec>
+              <sec id="Sec24">
+                <title>Vertical opening</title>
+                <p id="Par38">The MADs used in the present study are customized adjustable devices which allow some degree of mouth opening during sleep [<xref ref-type="bibr" rid="CR25">25</xref>]. When using similar customized adjustable devices (allowing mouth opening) and the same success criterion, the treatment success rate of the present study (48%) is consistent with previous studies reporting a success rate of approximately 50% [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR38">38</xref>]. However, studies have shown that increased mouth opening during sleep may compromise the beneficial effects of MAD therapy on upper airway dimensions and the treatment efficacy [<xref ref-type="bibr" rid="CR47">47</xref>, <xref ref-type="bibr" rid="CR48">48</xref>]. It has been suggested that using elastic bands restricting the mouth opening during sleep may help improve the treatment efficacy of these MADs [<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR50">50</xref>]. In the pilot study of Norrhem et al. [<xref ref-type="bibr" rid="CR49">49</xref>], MADs with elastic bands markedly reduced the supine AHI in 2 severe OSA patients, however, there was no significant difference in the overall AHI reduction between MADs with or without elastic bands. In the study of Milano et al. [<xref ref-type="bibr" rid="CR50">50</xref>], the treatment efficacy was significantly higher in the MADs with elastic bands than the MADs without elastic bands in positional OSA patients, which may not represent the general OSA population. Therefore, well-designed RCTs are needed to investigate whether restricting the mouth opening increases the efficacy of the MADs that allow mouth opening.</p>
+              </sec>
+              <sec id="Sec25">
+                <title>Study limitations</title>
+                <p id="Par39">The present study has several limitations. First, the CBCT scans were performed in awake state. Therefore, the upper airway morphology may not be the same as that in sleep state. However, acquiring a radiologic image of the upper airway during sleep is clinically challenging. Besides, as the baseline and follow-up CBCT images in our study were both taken in the supine position, the comparisons of the changes of upper airway between responders and non-responders were not biased. Second, two types of MAD were used in this study. However, our previous study has suggested that there was no significant difference between these two types of MAD in affecting PSG parameters and upper airway dimensions [<xref ref-type="bibr" rid="CR25">25</xref>]. Furthermore, in both groups, similar numbers of both MAD types were used. Therefore, we believe only limited bias was caused by including these two types of MAD in our study. In addition, as this study recruited patients in an RCT study with another primary aim [<xref ref-type="bibr" rid="CR25">25</xref>], we did not perform an a priori power analysis to calculate the sample size. The effect size analyses of the primary outcome variable indicated that with a larger sample size (<italic>n =</italic> 60–130 based on the primary and sensitivity analyses), non-responders tend to have a greater enlargement of CSAmin compared to responders.</p>
+              </sec>
+            </sec>
+            <sec id="Sec26">
+              <title>Conclusion</title>
+              <p id="Par40">Within the limitations of this study, we conclude that the changes of the upper airway dimensions induced by MADs are not significantly different between responders and non-responders with mild to moderate OSA. Furthermore, the changes of the upper airway dimensions have no significant correlations with the changes in the apnea-hypopnea index.</p>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>We gratefully acknowledge the statistical advice of Dr. Naichuan Su, department of Oral Public Health, Academic Centre for Dentistry Amsterdam (ACTA).</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contribution</title>
+              <p>Xiaoxin Shi: conceptualization, methodology, validation, formal analysis, investigation, data curation; writing—original draft, visualization. Frank Lobbezoo: project administration, resources, writing—review and editing, supervision. Hui Chen: conceptualization, methodology, writing—review and editing, supervision. Boudewijn R. A. M. Rosenmöller: methodology, investigation, writing—review and editing. Erwin Berkhout: software, methodology, resources, writing—review and editing, supervision. Jan de Lange: writing—review and editing, funding acquisition, supervision. Ghizlane Aarab: conceptualization, methodology, resources, writing—review and editing, supervision. All authors reviewed and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Xiaoxin Shi has received a scholarship from the China Scholarship Council.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data availability</title>
+              <p>The datasets generated and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par41">This study was approved by the Medical Research Ethics Committee of the Academic Medical Center Amsterdam (AMC), the Netherlands (#: NL44085.018.13). Written informed consent was obtained from all participants.</p>
+              </notes>
+              <notes id="FPar2" notes-type="COI-statement">
+                <title>Conflict of interest</title>
+                <p id="Par42">Xiaoxin Shi declares that she has no conflicts of interest. Frank Lobbezoo is a member of the Academic Advisory Boards for GrindCare and Oral Function of Sunstar Suisse S.A. and receives research grants from Sunstar Suisse S.A., SomnoMed, Vivisol, Health Holland, and Airway Management. Hui Chen declares that she has no conflicts of interest. Boudewijn R. A. M. Rosenmöller declares that he has no conflicts of interest. Erwin Berkhout declares that he has no conflicts of interest. Jan de Lange declares that he has no conflicts of interest. Ghizlane Aarab is a member of the Academic Advisory Board for Oral Function of Sunstar Suisse S.A. and receives research grants from Sunstar Suisse S.A., SomnoMed, Vivisol, and Health Holland.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Berry</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                    <name>
+                      <surname>Budhiraja</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Gottlieb</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Gozal</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Iber</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Kapur</surname>
+                      <given-names>VK</given-names>
+                    </name>
+                    <name>
+                      <surname>Marcus</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                    <name>
+                      <surname>Mehra</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Parthasarathy</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Quan</surname>
+                      <given-names>SF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Rules for scoring respiratory events in sleep: update of the 2007 AASM manual for the scoring of sleep and associated events: deliberations of the sleep apnea definitions task force of the American Academy of Sleep Medicine</article-title>
+                  <source>J Clin Sleep Med</source>
+                  <year>2012</year>
+                  <volume>8</volume>
+                  <issue>5</issue>
+                  <fpage>597</fpage>
+                  <lpage>619</lpage>
+                  <pub-id pub-id-type="doi">10.5664/jcsm.2172</pub-id>
+                  <?supplied-pmid 23066376?>
+                  <pub-id pub-id-type="pmid">23066376</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Berry</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                    <name>
+                      <surname>Brooks</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Gamaldo</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Harding</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Lloyd</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Quan</surname>
+                      <given-names>SF</given-names>
+                    </name>
+                    <name>
+                      <surname>Troester</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>Vaughn</surname>
+                      <given-names>BV</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>AASM Scoring Manual Updates for 2017 (Version 2.4)</article-title>
+                  <source>J Clin Sleep Med</source>
+                  <year>2017</year>
+                  <volume>13</volume>
+                  <issue>5</issue>
+                  <fpage>665</fpage>
+                  <lpage>666</lpage>
+                  <pub-id pub-id-type="doi">10.5664/jcsm.6576</pub-id>
+                  <?supplied-pmid 28416048?>
+                  <pub-id pub-id-type="pmid">28416048</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Carberry</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Amatoury</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Personalized management approach for OSA</article-title>
+                  <source>Chest</source>
+                  <year>2018</year>
+                  <volume>153</volume>
+                  <issue>3</issue>
+                  <fpage>744</fpage>
+                  <lpage>755</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.chest.2017.06.011</pub-id>
+                  <?supplied-pmid 28629917?>
+                  <pub-id pub-id-type="pmid">28629917</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Phenotypic approaches to obstructive sleep apnoea–new pathways for targeted therapy</article-title>
+                  <source>Sleep Med Rev</source>
+                  <year>2018</year>
+                  <volume>37</volume>
+                  <fpage>45</fpage>
+                  <lpage>59</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.smrv.2016.12.003</pub-id>
+                  <?supplied-pmid 28110857?>
+                  <pub-id pub-id-type="pmid">28110857</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamburger</surname>
+                      <given-names>HL</given-names>
+                    </name>
+                    <name>
+                      <surname>Naeije</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral appliance therapy versus nasal continuous positive airway pressure in obstructive sleep apnea: a randomized, placebo-controlled trial</article-title>
+                  <source>Respir</source>
+                  <year>2011</year>
+                  <volume>81</volume>
+                  <issue>5</issue>
+                  <fpage>411</fpage>
+                  <lpage>419</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000319595</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Randerath</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Verbraecken</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>de Raaff</surname>
+                      <given-names>CAL</given-names>
+                    </name>
+                    <name>
+                      <surname>Hedner</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Herkenrath</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Hohenhorst</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Jakob</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Marrone</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Marklund</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>McNicholas</surname>
+                      <given-names>WT</given-names>
+                    </name>
+                    <name>
+                      <surname>Morgan</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                    <name>
+                      <surname>Pepin</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Schiza</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Skoetz</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Smyth</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Steier</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonia</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Trzepizur</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>van Mechelen</surname>
+                      <given-names>PH</given-names>
+                    </name>
+                    <name>
+                      <surname>Wijkstra</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>European Respiratory Society guideline on non-CPAP therapies for obstructive sleep apnoea</article-title>
+                  <source>Eur Respir Rev</source>
+                  <year>2021</year>
+                  <volume>30</volume>
+                  <issue>162</issue>
+                  <fpage>210200</fpage>
+                  <pub-id pub-id-type="doi">10.1183/16000617.0200-2021</pub-id>
+                  <?supplied-pmid 34853097?>
+                  <pub-id pub-id-type="pmid">34853097</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>ASL</given-names>
+                    </name>
+                    <name>
+                      <surname>Ngiam</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Dalci</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Awake multimodal phenotyping for prediction of oral appliance treatment outcome</article-title>
+                  <source>J Clin Sleep Med</source>
+                  <year>2018</year>
+                  <volume>14</volume>
+                  <issue>11</issue>
+                  <fpage>1879</fpage>
+                  <lpage>1887</lpage>
+                  <pub-id pub-id-type="doi">10.5664/jcsm.7484</pub-id>
+                  <?supplied-pmid 30373687?>
+                  <pub-id pub-id-type="pmid">30373687</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>EC</given-names>
+                    </name>
+                    <name>
+                      <surname>Jugé</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Knapman</surname>
+                      <given-names>FL</given-names>
+                    </name>
+                    <name>
+                      <surname>Burke</surname>
+                      <given-names>PGR</given-names>
+                    </name>
+                    <name>
+                      <surname>Ngiam</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Butler</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Bilston</surname>
+                      <given-names>LE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mandibular advancement splint response is associated with the pterygomandibular raphe</article-title>
+                  <source>Sleep</source>
+                  <year>2021</year>
+                  <volume>44</volume>
+                  <issue>4</issue>
+                  <fpage>zsaa222</fpage>
+                  <pub-id pub-id-type="doi">10.1093/sleep/zsaa222</pub-id>
+                  <?supplied-pmid 33146716?>
+                  <pub-id pub-id-type="pmid">33146716</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Venema</surname>
+                      <given-names>JAU</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosenmöller</surname>
+                      <given-names>BR</given-names>
+                    </name>
+                    <name>
+                      <surname>De Vries</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Hoekema</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mandibular advancement device design: a systematic review on outcomes in obstructive sleep apnea treatment</article-title>
+                  <source>Sleep Med Rev</source>
+                  <year>2021</year>
+                  <volume>60</volume>
+                  <fpage>101557</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.smrv.2021.101557</pub-id>
+                  <pub-id pub-id-type="pmid">34662769</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Camañes-Gonzalvo</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bellot-Arcís</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Marco-Pitarch</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Montiel-Company</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>García-Selva</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Agustín-Panadero</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Paredes-Gallardo</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Puertas-Cuesta</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of the phenotypic characteristics between responders and non-responders to obstructive sleep apnea treatment using mandibular advancement devices in adult patients: systematic review and meta-analysis</article-title>
+                  <source>Sleep Med Rev</source>
+                  <year>2022</year>
+                  <volume>64</volume>
+                  <fpage>101644</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.smrv.2022.101644</pub-id>
+                  <?supplied-pmid 35653952?>
+                  <pub-id pub-id-type="pmid">35653952</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ramar</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Dort</surname>
+                      <given-names>LC</given-names>
+                    </name>
+                    <name>
+                      <surname>Katz</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Lettieri</surname>
+                      <given-names>CJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Harrod</surname>
+                      <given-names>CG</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Chervin</surname>
+                      <given-names>RD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical practice guideline for the treatment of obstructive sleep apnea and snoring with oral appliance therapy: an update for 2015</article-title>
+                  <source>J Clin Sleep Med</source>
+                  <year>2015</year>
+                  <volume>11</volume>
+                  <issue>7</issue>
+                  <fpage>773</fpage>
+                  <lpage>827</lpage>
+                  <pub-id pub-id-type="doi">10.5664/jcsm.4858</pub-id>
+                  <?supplied-pmid 26094920?>
+                  <pub-id pub-id-type="pmid">26094920</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Srinivasan</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Grunstein</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nasopharyngoscopic evaluation of oral appliance therapy for obstructive sleep apnoea</article-title>
+                  <source>Eur Respir J</source>
+                  <year>2010</year>
+                  <volume>35</volume>
+                  <issue>4</issue>
+                  <fpage>836</fpage>
+                  <lpage>842</lpage>
+                  <pub-id pub-id-type="doi">10.1183/09031936.00077409</pub-id>
+                  <?supplied-pmid 19797130?>
+                  <pub-id pub-id-type="pmid">19797130</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tsuiki</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Lowe</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Almeida</surname>
+                      <given-names>FR</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleetham</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of an anteriorly titrated mandibular position on awake airway and obstructive sleep apnea severity</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>2004</year>
+                  <volume>125</volume>
+                  <issue>5</issue>
+                  <fpage>548</fpage>
+                  <lpage>555</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ajodo.2003.05.006</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>HJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Hong</surname>
+                      <given-names>S-N</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                    <name>
+                      <surname>Ahn</surname>
+                      <given-names>J-C</given-names>
+                    </name>
+                    <name>
+                      <surname>Cha</surname>
+                      <given-names>M-S</given-names>
+                    </name>
+                    <name>
+                      <surname>Rhee</surname>
+                      <given-names>C-S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>J-W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Soft palate cephalometric changes with a mandibular advancement device may be associated with polysomnographic improvement in obstructive sleep apnea</article-title>
+                  <source>Eur Arch Otorhinolaryngol</source>
+                  <year>2018</year>
+                  <volume>275</volume>
+                  <issue>7</issue>
+                  <fpage>1811</fpage>
+                  <lpage>1817</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00405-018-5007-3</pub-id>
+                  <?supplied-pmid 29796743?>
+                  <pub-id pub-id-type="pmid">29796743</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Okuno</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sasao</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Nohara</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sakai</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Pliska</surname>
+                      <given-names>BT</given-names>
+                    </name>
+                    <name>
+                      <surname>Lowe</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Ryan</surname>
+                      <given-names>CF</given-names>
+                    </name>
+                    <name>
+                      <surname>Almeida</surname>
+                      <given-names>FR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Endoscopy evaluation to predict oral appliance outcomes in obstructive sleep apnoea</article-title>
+                  <source>Eur Respir J</source>
+                  <year>2016</year>
+                  <volume>47</volume>
+                  <issue>5</issue>
+                  <fpage>1410</fpage>
+                  <lpage>1419</lpage>
+                  <pub-id pub-id-type="doi">10.1183/13993003.01088-2015</pub-id>
+                  <?supplied-pmid 26743482?>
+                  <pub-id pub-id-type="pmid">26743482</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Camañes-Gonzalvo</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Marco-Pitarch</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Plaza-Espín</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Puertas-Cuesta</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Agustín-Panadero</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Fons-Font</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Fons-Badal</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>García-Selva</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Correlation between polysomnographic parameters and tridimensional changes in the upper airway of obstructive sleep apnea patients treated with mandibular advancement devices</article-title>
+                  <source>J Clin Med</source>
+                  <year>2021</year>
+                  <volume>10</volume>
+                  <issue>22</issue>
+                  <fpage>5255</fpage>
+                  <pub-id pub-id-type="doi">10.3390/jcm10225255</pub-id>
+                  <?supplied-pmid 34830533?>
+                  <pub-id pub-id-type="pmid">34830533</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gao</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Otsuka</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Ono</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Honda</surname>
+                      <given-names>E-i</given-names>
+                    </name>
+                    <name>
+                      <surname>Sasaki</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuroda</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of titrated mandibular advancement and jaw opening on the upper airway in nonapneic men: a magnetic resonance imaging and cephalometric study</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>2004</year>
+                  <volume>125</volume>
+                  <issue>2</issue>
+                  <fpage>191</fpage>
+                  <lpage>199</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0889-5406(03)00508-0</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>De Backer</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Vanderveken</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Vos</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Devolder</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Verhulst</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Verbraecken</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Parizel</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Braem</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Van de Heyning</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>De Backer</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Functional imaging using computational fluid dynamics to predict treatment success of mandibular advancement devices in sleep-disordered breathing</article-title>
+                  <source>J Biomech</source>
+                  <year>2007</year>
+                  <volume>40</volume>
+                  <issue>16</issue>
+                  <fpage>3708</fpage>
+                  <lpage>3714</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jbiomech.2007.06.022</pub-id>
+                  <?supplied-pmid 17663990?>
+                  <pub-id pub-id-type="pmid">17663990</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tsuiki</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Lowe</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Almeida</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Kawahata</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleetham</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of mandibular advancement on airway curvature and obstructive sleep apnoea severity</article-title>
+                  <source>Eur Respir J</source>
+                  <year>2004</year>
+                  <volume>23</volume>
+                  <issue>2</issue>
+                  <fpage>263</fpage>
+                  <lpage>268</lpage>
+                  <pub-id pub-id-type="doi">10.1183/09031936.04.00094304</pub-id>
+                  <?supplied-pmid 14979501?>
+                  <pub-id pub-id-type="pmid">14979501</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ahlqvist</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Eliasson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Welander</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of projection errors on cephalometric length measurements</article-title>
+                  <source>Eur J Orthod</source>
+                  <year>1986</year>
+                  <volume>8</volume>
+                  <issue>3</issue>
+                  <fpage>141</fpage>
+                  <lpage>148</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ejo/8.3.141</pub-id>
+                  <?supplied-pmid 3464437?>
+                  <pub-id pub-id-type="pmid">3464437</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwab</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Zeng</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Petocz</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of mandibular advancement on upper airway structure in obstructive sleep apnoea</article-title>
+                  <source>Thorax</source>
+                  <year>2010</year>
+                  <volume>65</volume>
+                  <issue>8</issue>
+                  <fpage>726</fpage>
+                  <lpage>732</lpage>
+                  <pub-id pub-id-type="doi">10.1136/thx.2009.131094</pub-id>
+                  <?supplied-pmid 20685749?>
+                  <pub-id pub-id-type="pmid">20685749</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Deane</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwab</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparative effects of two oral appliances on upper airway structure in obstructive sleep apnea</article-title>
+                  <source>Sleep</source>
+                  <year>2011</year>
+                  <volume>34</volume>
+                  <issue>4</issue>
+                  <fpage>469</fpage>
+                  <lpage>477</lpage>
+                  <pub-id pub-id-type="doi">10.1093/sleep/34.4.469</pub-id>
+                  <?supplied-pmid 21461325?>
+                  <pub-id pub-id-type="pmid">21461325</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ogawa</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Long</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Sasaki</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of mandibular advancement splint treatment on tongue shape in obstructive sleep apnea</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2015</year>
+                  <volume>19</volume>
+                  <issue>3</issue>
+                  <fpage>857</fpage>
+                  <lpage>863</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-014-1101-y</pub-id>
+                  <?supplied-pmid 25578466?>
+                  <pub-id pub-id-type="pmid">25578466</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pahkala</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Seppä</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Myllykangas</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Tervaniemi</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Vartiainen</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Suominen</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Muraja-Murro</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The impact of oral appliance therapy with moderate mandibular advancement on obstructive sleep apnea and upper airway volume</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2020</year>
+                  <volume>24</volume>
+                  <issue>3</issue>
+                  <fpage>865</fpage>
+                  <lpage>873</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-019-01914-3</pub-id>
+                  <?supplied-pmid 31401736?>
+                  <pub-id pub-id-type="pmid">31401736</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shi</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosenmöller</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Berkhout</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparisons of the effects of two types of titratable mandibular advancement devices on respiratory parameters and upper airway dimensions in patients with obstructive sleep apnea: a randomized controlled trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2023</year>
+                  <volume>27</volume>
+                  <fpage>2013</fpage>
+                  <lpage>2025</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-023-04945-z</pub-id>
+                  <?supplied-pmid 36928350?>
+                  <pub-id pub-id-type="pmid">36928350</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>American Academy of Sleep Medicine Task Force</collab>
+                  </person-group>
+                  <article-title>Sleep-related breathing disorders in adults: recommendations for syndrome definition and measurement techniques in clinical research. The Report of an American Academy of Sleep Medicine Task Force</article-title>
+                  <source>Sleep</source>
+                  <year>1999</year>
+                  <volume>22</volume>
+                  <issue>5</issue>
+                  <fpage>667</fpage>
+                  <lpage>689</lpage>
+                  <pub-id pub-id-type="doi">10.1093/sleep/22.5.667</pub-id>
+                  <pub-id pub-id-type="pmid">10450601</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Ruiter</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>de Vries</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A stepwise titration protocol for oral appliance therapy in positional obstructive sleep apnea patients: proof of concept</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2020</year>
+                  <volume>24</volume>
+                  <fpage>1</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-020-02045-w</pub-id>
+                  <pub-id pub-id-type="pmid">31240543</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Benoist</surname>
+                      <given-names>LBL</given-names>
+                    </name>
+                    <name>
+                      <surname>Verhagen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Torensma</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>van Maanen</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>de Vries</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Positional therapy in patients with residual positional obstructive sleep apnea after upper airway surgery</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <issue>2</issue>
+                  <fpage>279</fpage>
+                  <lpage>288</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-016-1397-x</pub-id>
+                  <?supplied-pmid 27535072?>
+                  <pub-id pub-id-type="pmid">27535072</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Ruiter</surname>
+                      <given-names>MHT</given-names>
+                    </name>
+                    <name>
+                      <surname>Benoist</surname>
+                      <given-names>LBL</given-names>
+                    </name>
+                    <name>
+                      <surname>de Vries</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Durability of treatment effects of the Sleep Position Trainer versus oral appliance therapy in positional OSA: 12-month follow-up of a randomized controlled trial</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2018</year>
+                  <volume>22</volume>
+                  <issue>2</issue>
+                  <fpage>441</fpage>
+                  <lpage>450</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-017-1568-4</pub-id>
+                  <?supplied-pmid 28913630?>
+                  <pub-id pub-id-type="pmid">28913630</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Parsa</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Stelt</surname>
+                      <given-names>PF</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reliability of three-dimensional measurements of the upper airway on cone beam computed tomography images</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol</source>
+                  <year>2016</year>
+                  <volume>122</volume>
+                  <issue>1</issue>
+                  <fpage>104</fpage>
+                  <lpage>110</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.oooo.2016.04.005</pub-id>
+                  <?supplied-pmid 27260280?>
+                  <pub-id pub-id-type="pmid">27260280</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Aarab</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>de Ruiter</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>de Lange</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>van der Stelt</surname>
+                      <given-names>PF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Three-dimensional imaging of the upper airway anatomy in obstructive sleep apnea: a systematic review</article-title>
+                  <source>Sleep Med</source>
+                  <year>2016</year>
+                  <volume>21</volume>
+                  <fpage>19</fpage>
+                  <lpage>27</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.sleep.2016.01.022</pub-id>
+                  <?supplied-pmid 27448467?>
+                  <pub-id pub-id-type="pmid">27448467</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Winer</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <source>Statistical Principles in Experimental Design</source>
+                  <year>1971</year>
+                  <edition>2</edition>
+                  <publisher-name>McGraw-Hill</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Holm</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A simple sequentially rejective multiple test procedure</article-title>
+                  <source>Scand J Stat</source>
+                  <year>1979</year>
+                  <volume>6</volume>
+                  <fpage>65</fpage>
+                  <lpage>70</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thabane</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Mbuagbaw</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Samaan</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Marcucci</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ye</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Thabane</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Giangregorio</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Dennis</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Kosa</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A tutorial on sensitivity analyses in clinical trials: the what, why, when and how</article-title>
+                  <source>BMC Med Res Methodol</source>
+                  <year>2013</year>
+                  <volume>13</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>12</lpage>
+                  <pub-id pub-id-type="doi">10.1186/1471-2288-13-92</pub-id>
+                  <pub-id pub-id-type="pmid">23297754</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koo</surname>
+                      <given-names>TK</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>MY</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A guideline of selecting and reporting intraclass correlation coefficients for reliability research</article-title>
+                  <source>J Chiropr Med</source>
+                  <year>2016</year>
+                  <volume>15</volume>
+                  <issue>2</issue>
+                  <fpage>155</fpage>
+                  <lpage>163</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jcm.2016.02.012</pub-id>
+                  <?supplied-pmid 27330520?>
+                  <pub-id pub-id-type="pmid">27330520</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Camacho</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Capasso</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Schendel</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Airway changes in obstructive sleep apnoea patients associated with a supine versus an upright position examined using cone beam computed tomography</article-title>
+                  <source>J Laryngol Otol</source>
+                  <year>2014</year>
+                  <volume>128</volume>
+                  <issue>9</issue>
+                  <fpage>824</fpage>
+                  <lpage>830</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S0022215114001686</pub-id>
+                  <?supplied-pmid 25160687?>
+                  <pub-id pub-id-type="pmid">25160687</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cohen</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <source>Statistical power analysis for the behavioral sciences</source>
+                  <year>2013</year>
+                  <publisher-name>Academic press</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Edwards</surname>
+                      <given-names>BA</given-names>
+                    </name>
+                    <name>
+                      <surname>Andara</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Landry</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Sands</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Joosten</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Owens</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>DP</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamilton</surname>
+                      <given-names>GS</given-names>
+                    </name>
+                    <name>
+                      <surname>Wellman</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Upper-airway collapsibility and loop gain predict the response to oral appliance therapy in patients with obstructive sleep apnea</article-title>
+                  <source>Am J Respir Crit Care Med</source>
+                  <year>2016</year>
+                  <volume>194</volume>
+                  <issue>11</issue>
+                  <fpage>1413</fpage>
+                  <lpage>1422</lpage>
+                  <pub-id pub-id-type="doi">10.1164/rccm.201601-0099OC</pub-id>
+                  <?supplied-pmid 27181367?>
+                  <pub-id pub-id-type="pmid">27181367</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Op de Beeck</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Dieltjens</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Azarbarzin</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Willemen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Verbraecken</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Braem</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Wellman</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Sands</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Vanderveken</surname>
+                      <given-names>OM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mandibular advancement device treatment efficacy is associated with polysomnographic endotypes</article-title>
+                  <source>Ann Am Thorac Soc</source>
+                  <year>2020</year>
+                  <volume>18</volume>
+                  <fpage>511</fpage>
+                  <lpage>518</lpage>
+                  <pub-id pub-id-type="doi">10.1513/AnnalsATS.202003-220OC</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sam</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Lam</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Ooi</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Cooke</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ip</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of a non-adjustable oral appliance on upper airway morphology in obstructive sleep apnoea</article-title>
+                  <source>Respir Med</source>
+                  <year>2006</year>
+                  <volume>100</volume>
+                  <issue>5</issue>
+                  <fpage>897</fpage>
+                  <lpage>902</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.rmed.2005.08.019</pub-id>
+                  <?supplied-pmid 16219453?>
+                  <pub-id pub-id-type="pmid">16219453</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marco-Pitarch</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Selva-García</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Plaza-Espín</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Puertas-Cuesta</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Agustín-Panadero</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Fernández-Julián</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Marco-Algarra</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Fons-Font</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dimensional analysis of the upper airway in obstructive sleep apnea syndrome patients treated with mandibular advancement device: a bi and three-dimensional evaluation</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2021</year>
+                  <volume>48</volume>
+                  <fpage>927</fpage>
+                  <lpage>936</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.13176</pub-id>
+                  <?supplied-pmid 33977548?>
+                  <pub-id pub-id-type="pmid">33977548</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Liu</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Lowe</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleetham</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>YC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cephalometric and physiologic predictors of the efficacy of an adjustable oral appliance for treating obstructive sleep apnea</article-title>
+                  <source>Am J Orthod Dentofac Orthop</source>
+                  <year>2001</year>
+                  <volume>120</volume>
+                  <issue>6</issue>
+                  <fpage>639</fpage>
+                  <lpage>647</lpage>
+                  <pub-id pub-id-type="doi">10.1067/mod.2001.118782</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Milano</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Billi</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Marra</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Sorrenti</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Gracco</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Bonetti</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors associated with the efficacy of mandibular advancing device treatment in adult OSA patients</article-title>
+                  <source>Int Orthod</source>
+                  <year>2013</year>
+                  <volume>11</volume>
+                  <issue>3</issue>
+                  <fpage>278</fpage>
+                  <lpage>289</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ortho.2013.05.006</pub-id>
+                  <?supplied-pmid 23867336?>
+                  <pub-id pub-id-type="pmid">23867336</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mostafiz</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Dalci</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Malhotra</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Srinivasan</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of oral and craniofacial dimensions on mandibular advancement splint treatment outcome in patients with obstructive sleep apnea</article-title>
+                  <source>Chest</source>
+                  <year>2011</year>
+                  <volume>139</volume>
+                  <issue>6</issue>
+                  <fpage>1331</fpage>
+                  <lpage>1339</lpage>
+                  <pub-id pub-id-type="doi">10.1378/chest.10-2224</pub-id>
+                  <?supplied-pmid 21292761?>
+                  <pub-id pub-id-type="pmid">21292761</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                    <name>
+                      <surname>Darendeliler</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Petocz</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cephalometry and prediction of oral appliance treatment outcome</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2012</year>
+                  <volume>16</volume>
+                  <issue>1</issue>
+                  <fpage>47</fpage>
+                  <lpage>58</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-011-0484-2</pub-id>
+                  <?supplied-pmid 21424283?>
+                  <pub-id pub-id-type="pmid">21424283</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mandibular advancement splints for the treatment of sleep apnea syndrome</article-title>
+                  <source>Swiss Med Wkly</source>
+                  <year>2011</year>
+                  <volume>141</volume>
+                  <issue>3940</issue>
+                  <fpage>w13276</fpage>
+                  <?supplied-pmid 21956677?>
+                  <pub-id pub-id-type="pmid">21956677</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vroegop</surname>
+                      <given-names>AV</given-names>
+                    </name>
+                    <name>
+                      <surname>Vanderveken</surname>
+                      <given-names>OM</given-names>
+                    </name>
+                    <name>
+                      <surname>Van de Heyning</surname>
+                      <given-names>PH</given-names>
+                    </name>
+                    <name>
+                      <surname>Braem</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of vertical opening on pharyngeal dimensions in patients with obstructive sleep apnoea</article-title>
+                  <source>Sleep Med</source>
+                  <year>2012</year>
+                  <volume>13</volume>
+                  <issue>3</issue>
+                  <fpage>314</fpage>
+                  <lpage>316</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.sleep.2011.08.005</pub-id>
+                  <?supplied-pmid 22261243?>
+                  <pub-id pub-id-type="pmid">22261243</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Barbero</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Flores-Mir</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Blanco</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Nuño</surname>
+                      <given-names>VC</given-names>
+                    </name>
+                    <name>
+                      <surname>Casellas</surname>
+                      <given-names>JB</given-names>
+                    </name>
+                    <name>
+                      <surname>Girado</surname>
+                      <given-names>JLC</given-names>
+                    </name>
+                    <name>
+                      <surname>Amezaga</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>De Carlos</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tridimensional upper airway assessment in male patients with OSA using oral advancement devices modifying their vertical dimension</article-title>
+                  <source>J Clin Sleep Med</source>
+                  <year>2020</year>
+                  <volume>16</volume>
+                  <issue>10</issue>
+                  <fpage>1721</fpage>
+                  <lpage>1729</lpage>
+                  <pub-id pub-id-type="doi">10.5664/jcsm.8666</pub-id>
+                  <?supplied-pmid 32621578?>
+                  <pub-id pub-id-type="pmid">32621578</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Norrhem</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Marklund</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>An oral appliance with or without elastic bands to control mouth opening during sleep-a randomized pilot study</article-title>
+                  <source>Sleep Breath</source>
+                  <year>2016</year>
+                  <volume>20</volume>
+                  <issue>3</issue>
+                  <fpage>929</fpage>
+                  <lpage>938</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s11325-016-1312-5</pub-id>
+                  <?supplied-pmid 26810496?>
+                  <pub-id pub-id-type="pmid">26810496</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Milano</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Mutinelli</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutherland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Milioli</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Scaramuzzino</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cortesi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Siciliani</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lombardo</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Cistulli</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of vertical mouth opening on oral appliance treatment outcome in positional obstructive sleep apnea</article-title>
+                  <source>J Dent Sleep Med</source>
+                  <year>2018</year>
+                  <volume>05</volume>
+                  <fpage>17</fpage>
+                  <lpage>23</lpage>
+                  <pub-id pub-id-type="doi">10.15331/jdsm.6918</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

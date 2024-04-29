@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:48:59Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:3411614" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:3411614</identifier>
+        <datestamp>2012-08-06</datestamp>
+        <setSpec>plosone</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+              <journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id>
+              <journal-id journal-id-type="publisher-id">plos</journal-id>
+              <journal-id journal-id-type="pmc">plosone</journal-id>
+              <journal-title-group>
+                <journal-title>PLoS ONE</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1932-6203</issn>
+              <publisher>
+                <publisher-name>Public Library of Science</publisher-name>
+                <publisher-loc>San Francisco, USA</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC3411614</article-id>
+              <article-id pub-id-type="pmcid">PMC3411614</article-id>
+              <article-id pub-id-type="pmc-uid">3411614</article-id>
+              <article-id pub-id-type="pmid">22870302</article-id>
+              <article-id pub-id-type="pmid">22870302</article-id>
+              <article-id pub-id-type="publisher-id">PONE-D-12-12737</article-id>
+              <article-id pub-id-type="doi">10.1371/journal.pone.0042204</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v2">
+                  <subject>Biology</subject>
+                  <subj-group>
+                    <subject>Biochemistry</subject>
+                    <subj-group>
+                      <subject>Proteins</subject>
+                      <subj-group>
+                        <subject>Proteome</subject>
+                      </subj-group>
+                    </subj-group>
+                  </subj-group>
+                  <subj-group>
+                    <subject>Microbiology</subject>
+                    <subj-group>
+                      <subject>Bacteriology</subject>
+                      <subj-group>
+                        <subject>Bacterial Biofilms</subject>
+                      </subj-group>
+                    </subj-group>
+                  </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v2">
+                  <subject>Medicine</subject>
+                  <subj-group>
+                    <subject>Oral Medicine</subject>
+                    <subj-group>
+                      <subject>Dentistry</subject>
+                      <subject>Oral Diseases</subject>
+                    </subj-group>
+                  </subj-group>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Quantitative Proteomic Analysis of the Effect of Fluoride on the Acquired Enamel Pellicle</article-title>
+                <alt-title alt-title-type="running-head">Effect of Fluoride on Pellicle Proteome</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Siqueira</surname>
+                    <given-names>Walter L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff1">
+                    <sup>1</sup>
+                  </xref>
+                  <xref ref-type="corresp" rid="cor1">
+                    <sup>*</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bakkal</surname>
+                    <given-names>Meltem</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff1">
+                    <sup>1</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff2">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Xiao</surname>
+                    <given-names>Yizhi</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff1">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sutton</surname>
+                    <given-names>Jennifer N.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff3">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mendes</surname>
+                    <given-names>Fausto M.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff4">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1">
+                <label>1</label>
+                <addr-line>Department of Biochemistry and School of Dentistry, Schulich School of Medicine and Dentistry, Western University, London, Onatrio, Canada</addr-line>
+              </aff>
+              <aff id="aff2">
+                <label>2</label>
+                <addr-line>Department of Pediatric Dentistry, School of Dentistry, Marmara University, Istanbul, Turkey</addr-line>
+              </aff>
+              <aff id="aff3">
+                <label>3</label>
+                <addr-line>Thermo Fisher Scientific, Cambridge, Massachusetts, United States of America</addr-line>
+              </aff>
+              <aff id="aff4">
+                <label>4</label>
+                <addr-line>Department of Pediatric Dentistry, Faculty of Dentistry, University of São Paulo, São Paulo, São Paulo, Brazil</addr-line>
+              </aff>
+              <contrib-group>
+                <contrib contrib-type="editor">
+                  <name>
+                    <surname>George</surname>
+                    <given-names>Anthony</given-names>
+                  </name>
+                  <role>Editor</role>
+                  <xref ref-type="aff" rid="edit1"/>
+                </contrib>
+              </contrib-group>
+              <aff id="edit1">
+                <addr-line>University of Technology Sydney, Australia</addr-line>
+              </aff>
+              <author-notes>
+                <corresp id="cor1">* E-mail: <email>walter.siqueira@schulich.uwo.ca</email></corresp>
+                <fn fn-type="COI-statement">
+                  <p><bold>Competing Interests: </bold>Jennifer N. Sutton is an employee of Thermo Fisher Scientific and it does not alter the authors’ adherence to all the PLoS ONE policies on sharing data and materials.</p>
+                </fn>
+                <fn fn-type="con">
+                  <p>Conceived and designed the experiments: WLS FMM. Performed the experiments: WLS MB YX. Analyzed the data: WLS JNS FMM MB. Wrote the paper: WLS.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="collection">
+                <year>2012</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>1</day>
+                <month>8</month>
+                <year>2012</year>
+              </pub-date>
+              <volume>7</volume>
+              <issue>8</issue>
+              <elocation-id>e42204</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>2</day>
+                  <month>5</month>
+                  <year>2012</year>
+                </date>
+                <date date-type="accepted">
+                  <day>2</day>
+                  <month>7</month>
+                  <year>2012</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© 2012 Siqueira et al</copyright-statement>
+                <copyright-year>2012</copyright-year>
+                <copyright-holder>Siqueira et al</copyright-holder>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p>
+                </license>
+              </permissions>
+              <abstract>
+                <p>The acquired enamel pellicle (AEP) is a thin film formed by the selective adsorption of salivary proteins onto the enamel surface of teeth. The AEP forms a critical interface between the mineral phase of teeth (hydroxyapatite) and the oral microbial biofilm. This biofilm is the key feature responsible for the development of dental caries. Fluoride on enamel surface is well known to reduce caries by reducing the solubility of enamel to acid. Information on the effects of fluoride on AEP formation is limited. This study aimed to investigate the effects of fluoride treatment on hydroxyapatite on the subsequent formation of AEP. In addition, this study pioneered the use of label-free quantitative proteomics to better understand the composition of AEP proteins. Hydroxyapatite discs were randomly divided in 4 groups (<italic>n</italic> = 10 per group). Each disc was exposed to distilled water (control) or sodium fluoride solution (1, 2 or 5%) for 2 hours. Discs were then washed and immersed in human saliva for an additional 2 hours. AEP from each disc was collected and subjected to liquid chromatography electrospray ionization mass spectrometry for protein identification, characterization and quantification. A total of 45 proteins were present in all four groups, 12 proteins were exclusively present in the control group and another 19 proteins were only present in the discs treated with 5% sodium fluoride. Relative proteomic quantification was carried out for the 45 proteins observed in all four groups. Notably, the concentration of important salivary proteins, such as statherin and histatin 1, decrease with increasing levels of fluoride. It suggests that these proteins are repulsed when hydroxyapatite surface is coated with fluoride. Our data demonstrated that treatment of hydroxyapatite with fluoride (at high concentration) qualitatively and quantitatively modulates AEP formation, effects which in turn will likely impact the formation of oral biofilms.</p>
+              </abstract>
+              <funding-group>
+                <funding-statement>This research was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC grant #371813), the Canadian Institutes of Health Research (CIHR grant # 106657 and grant # 97577) and the Canada Foundation for Innovation - Leaders Opportunity Fund (CFI-LOF grant # 25116). WLS is recipient of a CIHR New Investigator Award (grant # 113166). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+              </funding-group>
+              <counts>
+                <page-count count="13"/>
+              </counts>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="s1">
+              <title>Introduction</title>
+              <p>Biomineralization is the process that living organisms produce and maintain mineral tissues such as bones, cartilages and teeth. The mechanism related to the formation and homeostasis of those minerals is not well understood, but there is a strong belief that proteins play an important role <xref rid="pone.0042204-Hunter1" ref-type="bibr">[1]</xref>. In addition, phenomena related to mineral crystal growth inhibition, demineralization and remineralization are always related to protein adsorption on the surface of the mineral. These events are also common in dental enamel, a crystalline calcium phosphate mineral close in composition to hydroxyapatite.</p>
+              <p>Dental caries (tooth decay) is a complex disease, characterized by demineralization of tooth structure by bacterial organic acids from the dental biofilm supported by salivary proteins adsorbed on mineral tooth surface <xref rid="pone.0042204-Fejerskov1" ref-type="bibr">[2]</xref>. According to the World Health Organization (WHO), dental caries remains a major public health problem in most industrialized countries, affecting 60–90% of school children and the vast majority of adults. It is also the most prevalent oral disease in several Asian and Latin American countries <xref rid="pone.0042204-Petersen1" ref-type="bibr">[3]</xref>.</p>
+              <p>Fluoride is well known to reduce dental caries by reducing the solubility and enhancing remineralization of dental enamel by the incorporation of available fluoride into the tooth structure during acid attacks <xref rid="pone.0042204-Featherstone1" ref-type="bibr">[4]</xref>. Basically, there are two forms to delivery and promote the benefits of fluoride on dental enamel. The self-administered methods of fluoride utilization include systemic application, for instance community water fluoridation, and topical application through daily use of fluoride dentifrices with concentration ranging from 1,000 to 1,500 ppm of fluoride. On the other hand, professional methods of fluoride utilization employ products in much higher concentration (ranging from 1% to 5% sodium fluoride). Professional fluoride applications have been effective complimentary methods to prevent and arrest caries progress, mainly in the patients with caries activity <xref rid="pone.0042204-Marinho1" ref-type="bibr">[5]</xref>.</p>
+              <p>In addition to the positive effects of fluoride, several salivary proteins appear to be involved in inhibition of enamel demineralization and/or remineralization processes <xref rid="pone.0042204-Siqueira1" ref-type="bibr">[6]</xref>,<xref rid="pone.0042204-Vitorino1" ref-type="bibr">[7]</xref>,<xref rid="pone.0042204-Featherstone2" ref-type="bibr">[8]</xref>,<xref rid="pone.0042204-Zahradnik1" ref-type="bibr">[9]</xref> with a protective role that depends on the selective adsorption of these salivary proteins onto the enamel surface of teeth. These proteins attached to the enamel surface form a thin protein layer called Acquired Enamel Pellicle (AEP) <xref rid="pone.0042204-Siqueira2" ref-type="bibr">[10]</xref>, <xref rid="pone.0042204-Hannig1" ref-type="bibr">[11]</xref>. The AEP protects the tooth from enamel demineralization by acting as a natural diffusion barrier inhibiting direct contact between the tooth surfaces and oral bacteria acids <xref rid="pone.0042204-Hannig1" ref-type="bibr">[11]</xref>, <xref rid="pone.0042204-Hara1" ref-type="bibr">[12]</xref>. More specifically, the AEP decreases diffusion rates of phosphate and calcium ions into the surrounding fluid following exposure of the tooth to acidic conditions, thus protecting against demineralization <xref rid="pone.0042204-Zahradnik2" ref-type="bibr">[13]</xref>. In addition, by virtue of its location, AEP is the interface between the mineral phase of dental enamel and the plaque, a biofilm largely composed of oral bacteria <xref rid="pone.0042204-Hannig1" ref-type="bibr">[11]</xref>. This biofilm is the key feature responsible for the development of dental caries and other oral diseases such as periodontitis. Since attachment of bacteria to the AEP is the earliest event in the bacterial colonization of enamel, the protein composition of AEP plays a critical role in the modulation of oral biofilm. This oral biofilm modulation can determine the balance between oral health and disease because specific salivary proteins promote adhesion and plaque formation of pathogenic bacteria <xref rid="pone.0042204-Vukosavljevic1" ref-type="bibr">[14]</xref>.</p>
+              <p>Despite the importance of both fluoride and AEP to prevent dental caries, scarce information is available on the effects of fluoride on AEP formation. It is established that minimum changes in the chemical properties of solid surfaces such as hydroxyapatite have influence on the adsorption behavior of salivary proteins to the surfaces <xref rid="pone.0042204-Hay1" ref-type="bibr">[15]</xref>, <xref rid="pone.0042204-Sonju1" ref-type="bibr">[16]</xref>. Several studies indicate that the topical use of fluoride on enamel results in the formation of a layer of calcium-fluoride (CaF<sub>2</sub>) like material, which strongly change the composition and chemical properties of the enamel surface <xref rid="pone.0042204-Buzalaf1" ref-type="bibr">[17]</xref>. The aim of this study was to investigate the effects of topical fluoride treatment on hydroxyapatite on the subsequent formation of AEP. In addition, this study pioneered the use of label-free quantitative proteomics for better understanding on the composition and function of AEP proteins.</p>
+            </sec>
+            <sec sec-type="methods" id="s2">
+              <title>Methods</title>
+              <sec id="s2a">
+                <title>Whole Saliva Collection</title>
+                <p>This study was approved by the Research Human Ethics Board of Western University (review number 16181E). Written informed consent was acquired from all subjects in this study. Whole saliva from 3 healthy subjects were collected between 9:00 and 11:00 A.M. under masticatory stimulation using Parafilm, 25 cm<sup>2</sup> ∼1 g <xref rid="pone.0042204-Siqueira3" ref-type="bibr">[18]</xref>. The samples were kept on ice during the collection procedure, and immediately after collection centrifuged at 14,000×<italic>g</italic> for 20 min at 4°C. Whole saliva supernatants were separated from the pellet, a saliva pool was carried out and used immediately for the proposed analyses. The total protein concentration of whole saliva supernatant was measured by the bicinchoninic acid (BCA) assay (Pierce Chemical, Rockford, IL, USA) with bovine serum albumin used as the standard.</p>
+              </sec>
+              <sec id="s2b">
+                <title>Incubation of Fluoride Treated HA Discs with Human Saliva</title>
+                <p>To evaluate the effect of sodium fluoride (NaF) on adsorption of salivary protein on hydroxyapatite (HA) surface, HA discs (5 mm diameter×1 mm thickness, Clarkson Chromatography products, Inc.) were cleaned by 5 min sonication in distilled water. Forty HA discs were randomly divided in 4 groups (n = 10 per group). NaF solutions were prepared with distilled water and NaF (ACS chemical grade, 99% pure, BDH, West Chester, PA, USA) under constant agitation at 37°C for a period of 2 hours. Each disc was exposed to 300 µl of distilled water (control group) or 1% NaF (1% NaF group), 2% NaF (2% NaF group), and 5% NaF (5% NaF group) for a period of 2 h at 37°C with gentle agitation. After this period, the discs were washed in distilled water for 30 sec. Subsequently, the pre-treated discs were immersed into individual vials containing 100 µg of whole saliva supernatant for an additional period of 2 h at 37°C. Immediately after protein incubation period the discs were extensively washed using distilled water to remove any weak binding salivary protein.</p>
+              </sec>
+              <sec id="s2c">
+                <title>Harvesting of <italic>in vitro</italic> AEP</title>
+                <p>AEP proteins formed on each HA disc over a 2 h period was collected by incubating with 150 µl of a solution containing 80% acetonitrile, 19.9% water and 0.1% TFA and sonicated for 5 min. This procedure was repeated three times to release all the mineral-associated protein or peptides for subsequent analyses and the 450 µl combined in a vial/disc. Eluted AEP material from each of the ten discs from the same group was pooled and concentrated by a rotary evaporator. The total protein concentration was assessed by the Micro Bicinchoninic acid (Micro BCA) assay.</p>
+              </sec>
+              <sec id="s2d">
+                <title>In–solution Digestion</title>
+                <p>Equal protein amount (10 µg) from both experimental and control groups were dried by a rotary evaporator, denatured and reduced for 2 h by the addition of 200 µl of 4 M urea, 10 mM dithiothreitol (DTT), and 50 mM NH<sub>4</sub>HCO<sub>3</sub>, pH 7.8. After four-fold dilution with 50 mM NH<sub>4</sub>HCO<sub>3</sub>, pH 7.8, tryptic digestion was carried out for 18 h at 37°C, after the addition of 2% (w/w) sequencing-grade trypsin (Promega, Madison, WI, USA).</p>
+              </sec>
+              <sec id="s2e">
+                <title>Liquid Chromatography Electrospray Ionization Tandem Mass Spectrometry (LC-ESI-MS/MS)</title>
+                <p>Peptide separation and mass spectrometric analyses were carried out with a nano-HPLC Proxeon (Thermo Scientific, San Jose, CA, USA) which allows in-line liquid chromatography with the capillary column, 75 µm×10 cm (Pico Tip™ EMITTER, New Objective, Woburn, MA) packed in-house using Magic C18 resin of 5 µm diameter and 200 Å pores size (Michrom BioResources, Auburn, CA) linked to mass spectrometer (LTQ-Velos, Thermo Scientific, San Jose, CA, USA) using an electrospray ionization in a survey scan in the range of m/z values 390–2000 tandem MS/MS. Equal amount of all samples were dried by rotary evaporator and re-suspended in 20 µl of 97.5 % H<sub>2</sub>O/2.4% acetonitrile/0.1% formic acid and then subjected to reversed-phase LC-ESI-MS/MS. The nano-flow reversed-phase HPLC was developed with linear 80 minutes gradient ranging from 5% to 55% of solvent B in 65 minutes (97.5% acetonitrile, 0.1% formic acid) at a flow rate of 300 nl/min with a maximum pressure of 280 bar. Electrospray voltage and the temperature of the ion transfer capillary were 1.8 kV and 250°C respectively. Each survey scan (MS) was followed by automated sequential selection of seven peptides for CID, with dynamic exclusion of the previously selected ions.</p>
+                <p>The obtained MS/MS spectra were searched against human protein databases (Swiss Prot and TrEMBL, Swiss Institute of Bioinformatics, Geneva, Switzerland, <ext-link ext-link-type="uri" xlink:href="http://ca.expasy.org/sprot/">http://ca.expasy.org/sprot/</ext-link>) using SEQUEST algorithm in Proteome Discoverer 1.3 software (Thermo Scientific, San Jose, CA, USA). Search results were filtered for a False Discovery rate of 1% employing a decoy search strategy utilizing a reverse database. An addition inclusion criterion for positive identification of proteins was that the same protein passing the filter score from at least in three different MS analyses from the same group in a total of four MS analyses per group.</p>
+              </sec>
+              <sec id="s2f">
+                <title>Integration and Relative Proteome Quantitation</title>
+                <p>For quantitative proteome analysis, three MS raw files from each pooled group were analyzed using SIEVE software (Version 2.0 Thermo Scientific, San Jose, CA, USA). Signal processing was performed in a total of 12 MS raw files. The SIEVE experimental workflow was defined as “Control Compare Trend Analysis” where one class of samples are compared to one or more other class of samples. Here the control samples were compared to each of the samples that were treated with different percentages of NaF (1%, 2% and 5%). For the alignment step, a single MS raw file belonging to the HA group was selected as the reference file and all of the other files were adjusted to generate the best correlation to this reference file. After alignment, the feature detection and integration (or framing) process was performed using the MS level data with a feature called “Frames From MS2 Scans” only. When using this type of framing only MS mass-to-charge ratio (m/z) values that were associated with MS2 scan are used. Any m/z measurements that do not have MS2 were ignored. The parameters used consisted of a frame m/z width of 1500 ppm and a retention time width of 1.75 min. A total of 216,099 MS2 scans were present in all of the 12 RAW files that resulted in a total of 20,158 frames. Then peak integration was performed for each frame and these values were used for statistic analysis. Next, peptide sequences obtained from the database search using SEQUEST algorithm in Proteome Discoverer 1.3 were imported into SIEVE. A filter was applied to the peptide sequences during the import that eliminated all sequences with a Percolator q-value greater than 1% (false discovery rate). Peptides were grouped into proteins and a protein ratio and p-value were calculated. SIEVE uses a weighted average of the peptide intensities for the protein calculation. By using the weighted average, peptides with lower variance in their intensity measurements have a higher weight on the overall protein ratio. This is done to decrease variance in protein level quantities based on variance of the peptides that compose proteins. Only proteins observed in all four groups were quantified. HA group was used as our default group and all other three groups were compared with HA control group.</p>
+                <p>Relative abundance of an individual protein from HA group was considered significantly different protein level when the values observed were &lt;0.75 for decrease abundance or &gt; 1.25 for increase abundance, and a <italic>p</italic>-value &lt;0.05 as described <xref rid="pone.0042204-Duan1" ref-type="bibr">[19]</xref>.</p>
+              </sec>
+              <sec id="s2g">
+                <title>X-ray Photoelectron Spectroscopy (XPS)</title>
+                <p>The XPS analyses were carried out with a Kratos Axis Ultra spectrometer using a monochromatic Al K(alpha) source (15 mA, 14 kV). XPS can detect all elements except hydrogen and helium, probes the surface of the sample to a depth of 5–10 nm, and has detection limits ranging from 0.1 to 0.5 atomic percent depending on the element. The instrument work function was calibrated to give a binding energy (BE) of 83.96 eV for the Au 4f7/2 line for metallic gold and the spectrometer dispersion was adjusted to give a BE of 932.62 eV for the Cu 2p3/2 line of metallic copper. The Kratos charge neutralizer system was used on all specimens. Survey scan analyses were carried out with an analysis area of 300×700 µm and a pass energy of 160 eV. Spectra were analyzed using CasaXPS software (version 2.3.14).</p>
+              </sec>
+              <sec id="s2h">
+                <title>Enzyme-linked Immunosorbent Assay (ELISA)</title>
+                <p>ELISA microtiter plate (96-wells) was coated with 100 µl of AEP protein material from each group (10 µg/ml) at 37°C for 1 hour. The plate was then washed three times with 250 µl Tris Buffered Saline (TBS) per well and 200 µl TBST containing 3% BSA added to each well to block uncoated sites, and incubated overnight at 4°C. Primary anti statherin antibody (50 µl; 1∶1000 dilution, Abcam, ab97950, MA, USA) in TBST containing 1% BSA was added to each well and incubated at 37°C for 1.5 h, followed by washing three times, and incubation with horse radish peroxidase (HRP) linked anti-rabbit IgG antibody (100 µl; 1∶30000 dilution, ROCKLAND, PA, USA) in TBST containing 1% BSA. After incubation in the dark for 1 h at room temperature OPD (o-phenylenediamine dihydrochloride, Sigma-Aldrich, MO, USA) was added and product wasanalyzed spectrophotometrically at 490 nm. Statherin levels in each sample were determined by reference to a statherin standard curve and assessed by linear regression analysis. Statherin protein (Chinapeptide, Shanghai, China) purity and M<sup>r</sup> 5380 were determined by mass spectrometry analysis. Analysis of variance and Student-Newman-Keuls test for pairwise comparisons was carried out to compare the values among the groups.</p>
+              </sec>
+            </sec>
+            <sec id="s3">
+              <title>Results</title>
+              <sec id="s3a">
+                <title>HA Surface Characterization</title>
+                <p>XPS analyses of HA group and 5% NaF group are shown in <xref ref-type="fig" rid="pone-0042204-g001">Figure 1</xref>. The widescan spectrum of the control specimen shows the presence of calcium (342 eV) and phosphorus (128 eV). Treatment of the HA disc with 5% NaF shows additional fluoride peak at 685 eV binding energy. This binding energy at 685 eV supports the contention that fluoride is bound to calcium as CaF<sub>2</sub> on the enamel surface. When the fluoride atoms % on the surface was measured and compared among the three groups that were treated with fluoride, the values were (mean ± standard deviation) 9.1±1.0 9.80.7 and 14.30.8 for groups 1% NaF, 2% NaF and 5% NaF respectively (Table 1). Atoms % of calcium and phosphorus were also acquired and Ca/P ratio were calculated to each group (Table 1).</p>
+                <fig id="pone-0042204-g001" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.g001</object-id>
+                  <label>Figure 1</label>
+                  <caption>
+                    <title>XPS wide scan spectrum of HA surface disc</title>
+                    <p>(<bold>A</bold>) <bold>and HA surface disc pre-treated with 1 % NaF</bold> (<bold>B</bold>)<bold>, 2% NaF</bold> (<bold>C</bold>) <bold>and 5% NaF</bold> (<bold>D</bold>)<bold>.</bold> Note: arrow indicates the fluoride peak at 685 eV binding energy.</p>
+                  </caption>
+                  <graphic xlink:href="pone.0042204.g001"/>
+                </fig>
+                <table-wrap id="pone-0042204-t001" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.t001</object-id>
+                  <label>Table 1</label>
+                  <caption>
+                    <title>Atoms % of Calcium, Fluoride and Phosphorus on the HA surface treated with NaF.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone-0042204-t001-1" xlink:href="pone.0042204.t001"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td colspan="2" align="left" rowspan="1">Calcium</td>
+                          <td align="left" rowspan="1" colspan="1">Fluoride</td>
+                          <td align="left" rowspan="1" colspan="1">Phosphorus</td>
+                          <td align="left" rowspan="1" colspan="1">Ratio Calcium/Phosphorus</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td colspan="2" align="left" rowspan="1">HA</td>
+                          <td align="left" rowspan="1" colspan="1">16.8±0.4</td>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">9.8±0.7</td>
+                          <td align="left" rowspan="1" colspan="1">1.71</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" rowspan="1">1% NaF</td>
+                          <td align="left" rowspan="1" colspan="1">10.2±1.4</td>
+                          <td align="left" rowspan="1" colspan="1">9.1±1.0</td>
+                          <td align="left" rowspan="1" colspan="1">6.2±0.6</td>
+                          <td align="left" rowspan="1" colspan="1">1.64</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" rowspan="1">2% NaF</td>
+                          <td align="left" rowspan="1" colspan="1">12.2±0.3</td>
+                          <td align="left" rowspan="1" colspan="1">9.8±0.7</td>
+                          <td align="left" rowspan="1" colspan="1">7.9±0.7</td>
+                          <td align="left" rowspan="1" colspan="1">1.55</td>
+                        </tr>
+                        <tr>
+                          <td colspan="2" align="left" rowspan="1">5% NaF</td>
+                          <td align="left" rowspan="1" colspan="1">6.7±0.2</td>
+                          <td align="left" rowspan="1" colspan="1">14.3±0.8</td>
+                          <td align="left" rowspan="1" colspan="1">5.2±0.4</td>
+                          <td align="left" rowspan="1" colspan="1">1.29</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                  <table-wrap-foot>
+                    <fn id="nt101">
+                      <label/>
+                      <p>Mean ±SD.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec id="s3b">
+                <title>AEP Proteome Identification and Quantification</title>
+                <p>After AEP elution from HA surface and trypsinization, equal amount of peptides were subjected to nanoscale LC-ESI-MS/MS. A total of 4 runs per group were carried out. The base-peak chromatogram for reversed-phase chromatography monitored by the mass spectrometer represents the intensity of all peptide ions in the sample in a single scan. AEP proteome from all four different groups showed a consistent elution of protein/peptides range from 12 to 45 min (<xref ref-type="fig" rid="pone-0042204-g002">Figure 2</xref>). The peptide ions were identified by the SEQUEST search following the criteria as described in <xref ref-type="sec" rid="s2">Methods</xref>. For the proteome identification of the AEP formed on all four different conditions carried out in this study a total of 87 different proteins were identified in HA control group, 77 different proteins were identified in 1% NaF group, 76 different proteins were identified in 2% NaF group and 87 different proteins were identified in 5% NaF group (<xref ref-type="table" rid="pone-0042204-t002">Table 2</xref>). The majority of the proteins were identified in all four groups indicating a high overlap in AEP proteins (<xref ref-type="table" rid="pone-0042204-t002">Table 2</xref>). <xref ref-type="fig" rid="pone-0042204-g003">Figure 3</xref> shows a Venn diagram with the number of proteins from each group and their overlaps among the four groups. A total of 45 proteins were present in all four groups. 12 proteins were exclusively present in HA control group. 3 proteins were exclusively present in 1% NaF group. 6 proteins were exclusively present in 2% NaF group and other 19 proteins only present in 5% NaF (<xref ref-type="table" rid="pone-0042204-t002">Table 2</xref>; <xref ref-type="fig" rid="pone-0042204-g003">Figure 3</xref>).</p>
+                <fig id="pone-0042204-g002" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.g002</object-id>
+                  <label>Figure 2</label>
+                  <caption>
+                    <title>Examples of base-peak chromatograms of each studied group.</title>
+                    <p>Peptide separation was achieved using a nano-flow reverse-phase HPLC column, with gradient elution ranging from 5 to 55% solvent B in 65 min.</p>
+                  </caption>
+                  <graphic xlink:href="pone.0042204.g002"/>
+                </fig>
+                <table-wrap id="pone-0042204-t002" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.t002</object-id>
+                  <label>Table 2</label>
+                  <caption>
+                    <title>Salivary proteins identified on hydroxyapatite discs and hydroxyapatite discs treated with 1%, 2% and 5% NaF.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone-0042204-t002-2" xlink:href="pone.0042204.t002"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Acession number</td>
+                          <td align="left" rowspan="1" colspan="1">Protein name</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in all groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">B1AN48</td>
+                          <td align="left" rowspan="1" colspan="1">Small proline-rich protein 3</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01036</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-S</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01037</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-SN</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01620</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-III region SIE</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01777</td>
+                          <td align="left" rowspan="1" colspan="1">Ig heavy chain V-III region TEI</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01781</td>
+                          <td align="left" rowspan="1" colspan="1">Ig heavy chain V-III region GAL</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01833</td>
+                          <td align="left" rowspan="1" colspan="1">Polymeric immunoglobulin receptor</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01834</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain C region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01857</td>
+                          <td align="left" rowspan="1" colspan="1">Ig gamma-1 chain C region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01871</td>
+                          <td align="left" rowspan="1" colspan="1">Ig mu chain C region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01876</td>
+                          <td align="left" rowspan="1" colspan="1">Ig alpha-1 chain C region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01877</td>
+                          <td align="left" rowspan="1" colspan="1">Ig alpha-2 chain C region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02808</td>
+                          <td align="left" rowspan="1" colspan="1">Statherin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02812</td>
+                          <td align="left" rowspan="1" colspan="1">Basic salivary proline-rich protein 2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02814</td>
+                          <td align="left" rowspan="1" colspan="1">Submaxillary gland androgen-regulated protein 3B</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04075</td>
+                          <td align="left" rowspan="1" colspan="1">Fructose-bisphosphate aldolase A</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04080</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-B</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04264</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type II</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04745</td>
+                          <td align="left" rowspan="1" colspan="1">Alpha-amylase 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P05109</td>
+                          <td align="left" rowspan="1" colspan="1">Protein S100-A8</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P06702</td>
+                          <td align="left" rowspan="1" colspan="1">Protein S100-A9</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P06733</td>
+                          <td align="left" rowspan="1" colspan="1">Alpha-enolase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P09211</td>
+                          <td align="left" rowspan="1" colspan="1">Glutathione S-transferase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P09228</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-SA</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P0CG05</td>
+                          <td align="left" rowspan="1" colspan="1">Ig lambda-2 chain C regions</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P11021</td>
+                          <td align="left" rowspan="1" colspan="1">78 kDa glucose-regulated protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P12273</td>
+                          <td align="left" rowspan="1" colspan="1">Prolactin-inducible protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P13645</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type I</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P15515</td>
+                          <td align="left" rowspan="1" colspan="1">Histatin-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P23284</td>
+                          <td align="left" rowspan="1" colspan="1">Peptidyl-prolyl cis-trans isomerase B</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P25311</td>
+                          <td align="left" rowspan="1" colspan="1">Zinc-alpha-2-glycoprotein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P29508</td>
+                          <td align="left" rowspan="1" colspan="1">Serpin B3</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P30740</td>
+                          <td align="left" rowspan="1" colspan="1">Leukocyte elastase inhibitor</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P31025</td>
+                          <td align="left" rowspan="1" colspan="1">Lipocalin-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P35527</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type I cytoskeletal 9</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P54108</td>
+                          <td align="left" rowspan="1" colspan="1">Cysteine-rich secretory protein 3</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P61626</td>
+                          <td align="left" rowspan="1" colspan="1">Lysozyme C</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q96DA0</td>
+                          <td align="left" rowspan="1" colspan="1">Zymogen granule protein 16</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">B7Z4X2</td>
+                          <td align="left" rowspan="1" colspan="1">Lactotransferrin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EMJ3</td>
+                          <td align="left" rowspan="1" colspan="1">Lactoperoxidase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EMQ1</td>
+                          <td align="left" rowspan="1" colspan="1">Carbonic anhydrase VI</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EQ46</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02768</td>
+                          <td align="left" rowspan="1" colspan="1">Albumin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E9PBV3</td>
+                          <td align="left" rowspan="1" colspan="1">Suprabasin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5GXH2</td>
+                          <td align="left" rowspan="1" colspan="1">Lactate dehydrogenase A</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in HA, 1%</bold>
+                            <bold>and 2% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">B1AHN5</td>
+                          <td align="left" rowspan="1" colspan="1">Hsp70 interacting protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01009</td>
+                          <td align="left" rowspan="1" colspan="1">Serpin A1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01605</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-I region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02810</td>
+                          <td align="left" rowspan="1" colspan="1">Salivary acidic proline-rich phosphoprotein 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P27482</td>
+                          <td align="left" rowspan="1" colspan="1">Calmodulin 3</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q8IUK7</td>
+                          <td align="left" rowspan="1" colspan="1">ALB protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5GYT4</td>
+                          <td align="left" rowspan="1" colspan="1">Actin, beta</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5H0L3</td>
+                          <td align="left" rowspan="1" colspan="1">6-phosphogluconate dehydrogenase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in HA, 2% and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">B4DRT4</td>
+                          <td align="left" rowspan="1" colspan="1">Phosphatidylethanolamine-binding protein 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02533</td>
+                          <td align="left" rowspan="1" colspan="1">Cytokeratin-14</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P0CG04</td>
+                          <td align="left" rowspan="1" colspan="1">Ig lambda-1 chain C regions</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P13647</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type II cytoskeletal 5</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P35908</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type II cytoskeletal 2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in HA, 1% and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">B1ALW1</td>
+                          <td align="left" rowspan="1" colspan="1">Thioredoxin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q08188</td>
+                          <td align="left" rowspan="1" colspan="1">Protein-glutamine gamma-glutamyltransferase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q8TDL5</td>
+                          <td align="left" rowspan="1" colspan="1">Long palate, lung and nasal epithelium carcinoma-associated protein 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E9PKG6</td>
+                          <td align="left" rowspan="1" colspan="1">Nucleobindin 2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in HA and 1% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">E7EUT5</td>
+                          <td align="left" rowspan="1" colspan="1">Glyceraldehyde-3-phosphate dehydrogenase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01034</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-C</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P02787</td>
+                          <td align="left" rowspan="1" colspan="1">Serotransferrin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P08493</td>
+                          <td align="left" rowspan="1" colspan="1">Matrix Gla protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P27797</td>
+                          <td align="left" rowspan="1" colspan="1">Calreticulin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P81605</td>
+                          <td align="left" rowspan="1" colspan="1">Preproteolysin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q13765</td>
+                          <td align="left" rowspan="1" colspan="1">NAC-alpha</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q6P5S2</td>
+                          <td align="left" rowspan="1" colspan="1">protein C6orf58</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P37802</td>
+                          <td align="left" rowspan="1" colspan="1">transgelin-2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Protein present in HA and 2% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P08779</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin, type I cytoskeletal 16</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in HA and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P01625</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-IV region Len</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q86YZ3</td>
+                          <td align="left" rowspan="1" colspan="1">Hornerin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q8IWZ5</td>
+                          <td align="left" rowspan="1" colspan="1">Tripartite motif-containing protein 42</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins exclusively present in control group</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">O00391</td>
+                          <td align="left" rowspan="1" colspan="1">Sulfhydryl oxidase 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01597</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-I region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P15924</td>
+                          <td align="left" rowspan="1" colspan="1">Desmoplakin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P31949</td>
+                          <td align="left" rowspan="1" colspan="1">Protein S100-A11</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P62158</td>
+                          <td align="left" rowspan="1" colspan="1">Calmodulin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q02413</td>
+                          <td align="left" rowspan="1" colspan="1">Desmoglein-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q16739</td>
+                          <td align="left" rowspan="1" colspan="1">Ceramide glucosyltransferase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q6ZVX7</td>
+                          <td align="left" rowspan="1" colspan="1">Non-specific cytotoxic cell receptor protein 1 homolog</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q8TDN4</td>
+                          <td align="left" rowspan="1" colspan="1">Ik3-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">C9J0E4</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin A (stefin A)</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E5RGE1</td>
+                          <td align="left" rowspan="1" colspan="1">zeta polypeptide</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E9PHI2</td>
+                          <td align="left" rowspan="1" colspan="1">Heat shock protein 90 kDa alpha</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in 1%, 2% and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P01040</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin-A</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q9HC84</td>
+                          <td align="left" rowspan="1" colspan="1">Mucin-5B</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5GZ39</td>
+                          <td align="left" rowspan="1" colspan="1">Ubiquitin C</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5H805</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in 1% and 2% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P07108</td>
+                          <td align="left" rowspan="1" colspan="1">Acyl-CoA-binding protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q01469</td>
+                          <td align="left" rowspan="1" colspan="1">Fatty acid-binding protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in 1% and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">Q96DR5</td>
+                          <td align="left" rowspan="1" colspan="1">Short palate, lung and nasal epithelium carcinoma-associated protein 2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EPA8</td>
+                          <td align="left" rowspan="1" colspan="1">Prolyl 4-hydroxylase, beta polypeptide</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins exclusively present in 1% NaF group</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P20930</td>
+                          <td align="left" rowspan="1" colspan="1">Filaggrin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">D6R9A6</td>
+                          <td align="left" rowspan="1" colspan="1">High mobility group protein B2</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E9PLJ3</td>
+                          <td align="left" rowspan="1" colspan="1">Cofilin 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins present in 2% and 5% NaF groups</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">P01593</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-I region AG</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01617</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-II region TEW</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P01765</td>
+                          <td align="left" rowspan="1" colspan="1">Ig heavy chain V-III region TIL</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P18510</td>
+                          <td align="left" rowspan="1" colspan="1">Interleukin-1 receptor antagonist protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EQR4</td>
+                          <td align="left" rowspan="1" colspan="1">Ezrin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins exclusively present in 2% NaF group</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">B4E1H9</td>
+                          <td align="left" rowspan="1" colspan="1">Phosphoglycerate kinase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P16401</td>
+                          <td align="left" rowspan="1" colspan="1">histone H1.5</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P80748</td>
+                          <td align="left" rowspan="1" colspan="1">Ig lambda chain V-III region</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q567Q0</td>
+                          <td align="left" rowspan="1" colspan="1">Cyclophilin A</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EPW1</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">B4DUA5</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Proteins exclusively present in 5% NaF group</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">E9PF79</td>
+                          <td align="left" rowspan="1" colspan="1">Pyruvate kinase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P00558</td>
+                          <td align="left" rowspan="1" colspan="1">Phosphoglycerate kinase 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04083</td>
+                          <td align="left" rowspan="1" colspan="1">Annexin A1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P04406</td>
+                          <td align="left" rowspan="1" colspan="1">Glyceraldehyde-3-phosphate dehydrogenase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P05164</td>
+                          <td align="left" rowspan="1" colspan="1">Myeloperoxidase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P07737</td>
+                          <td align="left" rowspan="1" colspan="1">Profilin-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P17931</td>
+                          <td align="left" rowspan="1" colspan="1">Galectin-3</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P23528</td>
+                          <td align="left" rowspan="1" colspan="1">Cofilin-1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P26038</td>
+                          <td align="left" rowspan="1" colspan="1">Moesin</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P30040</td>
+                          <td align="left" rowspan="1" colspan="1">Endoplasmic reticulum resident protein 29</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">P52209</td>
+                          <td align="left" rowspan="1" colspan="1">6-phosphogluconate dehydrogenase, decarboxylating</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q5SX91</td>
+                          <td align="left" rowspan="1" colspan="1">GDP dissociation inhibitor 2 (Fragment)</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Q5T8F0</td>
+                          <td align="left" rowspan="1" colspan="1">Cathepsin L1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">C9J8F3</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">C9JMC5</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E7EQL7</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">E9PFF2</td>
+                          <td align="left" rowspan="1" colspan="1">Transketolase</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5H0N0</td>
+                          <td align="left" rowspan="1" colspan="1">Actin, gamma 1</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">F5H8B6</td>
+                          <td align="left" rowspan="1" colspan="1">Proteinase 3</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                </table-wrap>
+                <fig id="pone-0042204-g003" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.g003</object-id>
+                  <label>Figure 3</label>
+                  <caption>
+                    <title>Venn diagram of AEP proteins identified in each group and across groups.</title>
+                  </caption>
+                  <graphic xlink:href="pone.0042204.g003"/>
+                </fig>
+                <p>Relative proteomic quantification was carried out in the 45 proteins observed in all four groups. Differential display of MS/MS spectra was carried out using SIEVE software. A threshold for significant differential level was set up at variation higher or lower than the 25% protein level observed in the control group. None of the 45 proteins show a differential level between HA control group and 1% NaF group. On the other hand, 14 proteins showed a decrease level between HA control group and 2% NaF group and 1 protein showed an increase level. Comparison of the HA control group with 5% NaF group, demonstrated 19 proteins with a reduced protein level while 1 protein showed an increase (<xref ref-type="table" rid="pone-0042204-t003">Table 3</xref>).</p>
+                <table-wrap id="pone-0042204-t003" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.t003</object-id>
+                  <label>Table 3</label>
+                  <caption>
+                    <title>AEP protein abundance ratios from 1% NaF, 2% NaF and 5% NaF groups.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone-0042204-t003-3" xlink:href="pone.0042204.t003"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                        <col align="center" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Accession Number</td>
+                          <td align="left" rowspan="1" colspan="1">Protein Name</td>
+                          <td align="left" rowspan="1" colspan="1">Ratio 1%NaF/HA</td>
+                          <td align="left" rowspan="1" colspan="1">p</td>
+                          <td align="left" rowspan="1" colspan="1">Ratio 2%NaF/HA</td>
+                          <td align="left" rowspan="1" colspan="1">p</td>
+                          <td align="left" rowspan="1" colspan="1">Ratio 5%NaF/HA</td>
+                          <td align="left" rowspan="1" colspan="1">p</td>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01620</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain V-III region SIE</td>
+                          <td align="left" rowspan="1" colspan="1">1.11</td>
+                          <td align="left" rowspan="1" colspan="1">0.605</td>
+                          <td align="left" rowspan="1" colspan="1">1.09</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.83</td>
+                          <td align="left" rowspan="1" colspan="1">0.154</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">B1AN48</td>
+                          <td align="left" rowspan="1" colspan="1">Small proline-rich protein 3</td>
+                          <td align="left" rowspan="1" colspan="1">1.06</td>
+                          <td align="left" rowspan="1" colspan="1">0.326</td>
+                          <td align="left" rowspan="1" colspan="1">0.81</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.77</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">B7Z4X2</td>
+                          <td align="left" rowspan="1" colspan="1">highly similar to Lactotransferrin</td>
+                          <td align="left" rowspan="1" colspan="1">0.79</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.84</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">E7EMJ3</td>
+                          <td align="left" rowspan="1" colspan="1">Lactoperoxidase</td>
+                          <td align="left" rowspan="1" colspan="1">0.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.514</td>
+                          <td align="left" rowspan="1" colspan="1">0.38</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.02</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">E7EMQ1</td>
+                          <td align="left" rowspan="1" colspan="1">Carbonic anhydrase 6</td>
+                          <td align="left" rowspan="1" colspan="1">0.77</td>
+                          <td align="left" rowspan="1" colspan="1">0.240</td>
+                          <td align="left" rowspan="1" colspan="1">0.76</td>
+                          <td align="left" rowspan="1" colspan="1">0.064</td>
+                          <td align="left" rowspan="1" colspan="1">0.63</td>
+                          <td align="left" rowspan="1" colspan="1">0.014</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">E7EQ46</td>
+                          <td align="left" rowspan="1" colspan="1">Uncharacterized protein</td>
+                          <td align="left" rowspan="1" colspan="1">0.93</td>
+                          <td align="left" rowspan="1" colspan="1">0.989</td>
+                          <td align="left" rowspan="1" colspan="1">0.89</td>
+                          <td align="left" rowspan="1" colspan="1">0.006</td>
+                          <td align="left" rowspan="1" colspan="1">1.02</td>
+                          <td align="left" rowspan="1" colspan="1">0.374</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P02768</td>
+                          <td align="left" rowspan="1" colspan="1">Serum albumin</td>
+                          <td align="left" rowspan="1" colspan="1">0.85</td>
+                          <td align="left" rowspan="1" colspan="1">0.132</td>
+                          <td align="left" rowspan="1" colspan="1">0.67</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.62</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">E9PBV3</td>
+                          <td align="left" rowspan="1" colspan="1">Suprabasin</td>
+                          <td align="left" rowspan="1" colspan="1">1.15</td>
+                          <td align="left" rowspan="1" colspan="1">0.239</td>
+                          <td align="left" rowspan="1" colspan="1">1.22</td>
+                          <td align="left" rowspan="1" colspan="1">0.191</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.093</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">F5GXH2</td>
+                          <td align="left" rowspan="1" colspan="1">Lactate dehydrogenase A</td>
+                          <td align="left" rowspan="1" colspan="1">0.85</td>
+                          <td align="left" rowspan="1" colspan="1">0.269</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.004</td>
+                          <td align="left" rowspan="1" colspan="1">0.86</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01036</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin S</td>
+                          <td align="left" rowspan="1" colspan="1">0.90</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.65</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.73</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01037</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin SN</td>
+                          <td align="left" rowspan="1" colspan="1">0.77</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.62</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.56</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01777</td>
+                          <td align="left" rowspan="1" colspan="1">Ig heavy chain VIII region TEI</td>
+                          <td align="left" rowspan="1" colspan="1">0.89</td>
+                          <td align="left" rowspan="1" colspan="1">0.847</td>
+                          <td align="left" rowspan="1" colspan="1">0.82</td>
+                          <td align="left" rowspan="1" colspan="1">0.006</td>
+                          <td align="left" rowspan="1" colspan="1">0.71</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01781</td>
+                          <td align="left" rowspan="1" colspan="1">Ig heavy chain VIII region GAL</td>
+                          <td align="left" rowspan="1" colspan="1">1.01</td>
+                          <td align="left" rowspan="1" colspan="1">0.968</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.896</td>
+                          <td align="left" rowspan="1" colspan="1">1.09</td>
+                          <td align="left" rowspan="1" colspan="1">0.966</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01833</td>
+                          <td align="left" rowspan="1" colspan="1">Polymeric immunoglobulin receptor</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.366</td>
+                          <td align="left" rowspan="1" colspan="1">0.95</td>
+                          <td align="left" rowspan="1" colspan="1">0.245</td>
+                          <td align="left" rowspan="1" colspan="1">1.04</td>
+                          <td align="left" rowspan="1" colspan="1">0.118</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01834</td>
+                          <td align="left" rowspan="1" colspan="1">Ig kappa chain C region</td>
+                          <td align="left" rowspan="1" colspan="1">0.85</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.78</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01857</td>
+                          <td align="left" rowspan="1" colspan="1">Ig gamma 1 chain C region</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.256</td>
+                          <td align="left" rowspan="1" colspan="1">0.81</td>
+                          <td align="left" rowspan="1" colspan="1">0.068</td>
+                          <td align="left" rowspan="1" colspan="1">0.78</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01871</td>
+                          <td align="left" rowspan="1" colspan="1">Ig mu chain C region</td>
+                          <td align="left" rowspan="1" colspan="1">1.11</td>
+                          <td align="left" rowspan="1" colspan="1">0.496</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.992</td>
+                          <td align="left" rowspan="1" colspan="1">1.14</td>
+                          <td align="left" rowspan="1" colspan="1">0.719</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01876</td>
+                          <td align="left" rowspan="1" colspan="1">Ig alpha 1 chain C region</td>
+                          <td align="left" rowspan="1" colspan="1">1.01</td>
+                          <td align="left" rowspan="1" colspan="1">1.000</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.037</td>
+                          <td align="left" rowspan="1" colspan="1">1.04</td>
+                          <td align="left" rowspan="1" colspan="1">0.352</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P01877</td>
+                          <td align="left" rowspan="1" colspan="1">Ig alpha 2 chain C region</td>
+                          <td align="left" rowspan="1" colspan="1">1.00</td>
+                          <td align="left" rowspan="1" colspan="1">0.279</td>
+                          <td align="left" rowspan="1" colspan="1">0.84</td>
+                          <td align="left" rowspan="1" colspan="1">0.058</td>
+                          <td align="left" rowspan="1" colspan="1">0.83</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P02808</td>
+                          <td align="left" rowspan="1" colspan="1">Statherin</td>
+                          <td align="left" rowspan="1" colspan="1">0.86</td>
+                          <td align="left" rowspan="1" colspan="1">0.999</td>
+                          <td align="left" rowspan="1" colspan="1">0.44</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.38</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P02812</td>
+                          <td align="left" rowspan="1" colspan="1">Basic salivary proline rich protein 2</td>
+                          <td align="left" rowspan="1" colspan="1">1.12</td>
+                          <td align="left" rowspan="1" colspan="1">0.008</td>
+                          <td align="left" rowspan="1" colspan="1">1.35</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.004</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P02814</td>
+                          <td align="left" rowspan="1" colspan="1">Proline-rich protein 3</td>
+                          <td align="left" rowspan="1" colspan="1">0.76</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.83</td>
+                          <td align="left" rowspan="1" colspan="1">0.013</td>
+                          <td align="left" rowspan="1" colspan="1">0.72</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P04075</td>
+                          <td align="left" rowspan="1" colspan="1">Fructose bisphosphate aldolase A</td>
+                          <td align="left" rowspan="1" colspan="1">1.05</td>
+                          <td align="left" rowspan="1" colspan="1">0.528</td>
+                          <td align="left" rowspan="1" colspan="1">0.91</td>
+                          <td align="left" rowspan="1" colspan="1">0.173</td>
+                          <td align="left" rowspan="1" colspan="1">0.95</td>
+                          <td align="left" rowspan="1" colspan="1">0.317</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P04080</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin B</td>
+                          <td align="left" rowspan="1" colspan="1">0.90</td>
+                          <td align="left" rowspan="1" colspan="1">0.510</td>
+                          <td align="left" rowspan="1" colspan="1">0.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.329</td>
+                          <td align="left" rowspan="1" colspan="1">0.72</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P04264</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin type II cytoskeletal 1</td>
+                          <td align="left" rowspan="1" colspan="1">0.54</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.60</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.72</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P04745</td>
+                          <td align="left" rowspan="1" colspan="1">Alpha amylase 1</td>
+                          <td align="left" rowspan="1" colspan="1">0.95</td>
+                          <td align="left" rowspan="1" colspan="1">0.935</td>
+                          <td align="left" rowspan="1" colspan="1">0.60</td>
+                          <td align="left" rowspan="1" colspan="1">0.049</td>
+                          <td align="left" rowspan="1" colspan="1">0.72</td>
+                          <td align="left" rowspan="1" colspan="1">0.004</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P05109</td>
+                          <td align="left" rowspan="1" colspan="1">Protein S100A8</td>
+                          <td align="left" rowspan="1" colspan="1">1.07</td>
+                          <td align="left" rowspan="1" colspan="1">0.163</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.25</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P06702</td>
+                          <td align="left" rowspan="1" colspan="1">Protein S100A9</td>
+                          <td align="left" rowspan="1" colspan="1">1.16</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.03</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.04</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P06733</td>
+                          <td align="left" rowspan="1" colspan="1">Alpha enolase</td>
+                          <td align="left" rowspan="1" colspan="1">0.75</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.62</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.49</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P09211</td>
+                          <td align="left" rowspan="1" colspan="1">Glutathione S transferase P</td>
+                          <td align="left" rowspan="1" colspan="1">0.85</td>
+                          <td align="left" rowspan="1" colspan="1">0.586</td>
+                          <td align="left" rowspan="1" colspan="1">0.76</td>
+                          <td align="left" rowspan="1" colspan="1">0.039</td>
+                          <td align="left" rowspan="1" colspan="1">0.81</td>
+                          <td align="left" rowspan="1" colspan="1">0.122</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P09228</td>
+                          <td align="left" rowspan="1" colspan="1">Cystatin SA</td>
+                          <td align="left" rowspan="1" colspan="1">1.09</td>
+                          <td align="left" rowspan="1" colspan="1">0.002</td>
+                          <td align="left" rowspan="1" colspan="1">0.93</td>
+                          <td align="left" rowspan="1" colspan="1">0.010</td>
+                          <td align="left" rowspan="1" colspan="1">0.69</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P0CG05</td>
+                          <td align="left" rowspan="1" colspan="1">Ig lambda-2 chain C regions</td>
+                          <td align="left" rowspan="1" colspan="1">0.92</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.83</td>
+                          <td align="left" rowspan="1" colspan="1">0.935</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.222</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P11021</td>
+                          <td align="left" rowspan="1" colspan="1">78 kDa glucose regulated protein</td>
+                          <td align="left" rowspan="1" colspan="1">1.01</td>
+                          <td align="left" rowspan="1" colspan="1">0.570</td>
+                          <td align="left" rowspan="1" colspan="1">0.88</td>
+                          <td align="left" rowspan="1" colspan="1">0.380</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.078</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P12273</td>
+                          <td align="left" rowspan="1" colspan="1">Prolactin inducible protein</td>
+                          <td align="left" rowspan="1" colspan="1">0.86</td>
+                          <td align="left" rowspan="1" colspan="1">0.986</td>
+                          <td align="left" rowspan="1" colspan="1">0.86</td>
+                          <td align="left" rowspan="1" colspan="1">0.933</td>
+                          <td align="left" rowspan="1" colspan="1">0.89</td>
+                          <td align="left" rowspan="1" colspan="1">0.461</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P13645</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin_ type I cytoskeletal 10</td>
+                          <td align="left" rowspan="1" colspan="1">0.66</td>
+                          <td align="left" rowspan="1" colspan="1">0.000</td>
+                          <td align="left" rowspan="1" colspan="1">0.61</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.60</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P15515</td>
+                          <td align="left" rowspan="1" colspan="1">Histatin 1</td>
+                          <td align="left" rowspan="1" colspan="1">0.90</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.60</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.58</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P23284</td>
+                          <td align="left" rowspan="1" colspan="1">Peptidylprolyl cistrans isomerase B</td>
+                          <td align="left" rowspan="1" colspan="1">1.10</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.01</td>
+                          <td align="left" rowspan="1" colspan="1">0.993</td>
+                          <td align="left" rowspan="1" colspan="1">1.06</td>
+                          <td align="left" rowspan="1" colspan="1">0.513</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P25311</td>
+                          <td align="left" rowspan="1" colspan="1">Zinc alpha 2 glycoprotein</td>
+                          <td align="left" rowspan="1" colspan="1">0.99</td>
+                          <td align="left" rowspan="1" colspan="1">1.000</td>
+                          <td align="left" rowspan="1" colspan="1">0.85</td>
+                          <td align="left" rowspan="1" colspan="1">0.290</td>
+                          <td align="left" rowspan="1" colspan="1">0.95</td>
+                          <td align="left" rowspan="1" colspan="1">1.000</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P29508</td>
+                          <td align="left" rowspan="1" colspan="1">Serpin B3</td>
+                          <td align="left" rowspan="1" colspan="1">0.94</td>
+                          <td align="left" rowspan="1" colspan="1">0.422</td>
+                          <td align="left" rowspan="1" colspan="1">0.87</td>
+                          <td align="left" rowspan="1" colspan="1">0.187</td>
+                          <td align="left" rowspan="1" colspan="1">1.01</td>
+                          <td align="left" rowspan="1" colspan="1">0.632</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P30740</td>
+                          <td align="left" rowspan="1" colspan="1">Leukocyte elastase inhibitor</td>
+                          <td align="left" rowspan="1" colspan="1">0.96</td>
+                          <td align="left" rowspan="1" colspan="1">0.905</td>
+                          <td align="left" rowspan="1" colspan="1">0.79</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">1.02</td>
+                          <td align="left" rowspan="1" colspan="1">0.141</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P31025</td>
+                          <td align="left" rowspan="1" colspan="1">Lipocalin 1</td>
+                          <td align="left" rowspan="1" colspan="1">0.92</td>
+                          <td align="left" rowspan="1" colspan="1">0.808</td>
+                          <td align="left" rowspan="1" colspan="1">0.83</td>
+                          <td align="left" rowspan="1" colspan="1">0.006</td>
+                          <td align="left" rowspan="1" colspan="1">0.97</td>
+                          <td align="left" rowspan="1" colspan="1">0.964</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P35527</td>
+                          <td align="left" rowspan="1" colspan="1">Keratin type I cytoskeletal 9</td>
+                          <td align="left" rowspan="1" colspan="1">0.57</td>
+                          <td align="left" rowspan="1" colspan="1">0.000</td>
+                          <td align="left" rowspan="1" colspan="1">0.55</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.68</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P54108</td>
+                          <td align="left" rowspan="1" colspan="1">Cysteine rich secretory protein 3</td>
+                          <td align="left" rowspan="1" colspan="1">1.00</td>
+                          <td align="left" rowspan="1" colspan="1">0.013</td>
+                          <td align="left" rowspan="1" colspan="1">0.69</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.65</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">P61626</td>
+                          <td align="left" rowspan="1" colspan="1">Lysozyme C</td>
+                          <td align="left" rowspan="1" colspan="1">0.72</td>
+                          <td align="left" rowspan="1" colspan="1">0.000</td>
+                          <td align="left" rowspan="1" colspan="1">0.59</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                          <td align="left" rowspan="1" colspan="1">0.48</td>
+                          <td align="left" rowspan="1" colspan="1">0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Q96DA0</td>
+                          <td align="left" rowspan="1" colspan="1">Zymogen granule protein 16 homolog B</td>
+                          <td align="left" rowspan="1" colspan="1">0.79</td>
+                          <td align="left" rowspan="1" colspan="1">0.250</td>
+                          <td align="left" rowspan="1" colspan="1">0.70</td>
+                          <td align="left" rowspan="1" colspan="1">0.002</td>
+                          <td align="left" rowspan="1" colspan="1">0.52</td>
+                          <td align="left" rowspan="1" colspan="1">0.002</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                  <table-wrap-foot>
+                    <fn id="nt102">
+                      <label/>
+                      <p>Note. Ratio HA/HA was used as reference and the value for all proteins is 1.000. p: statistical p-value.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>To validate the differential protein level identified by quantitative mass spectrometry approach, ELISA was carried out on statherin, the protein with well-known characteristics and functions in the oral cavity. By MS a significant reduced protein level was observed at high fluoride concentration compared to control HA-discs (<xref ref-type="table" rid="pone-0042204-t003">Table 3</xref>). By ELISA statherin contents were demonstrated to decrease from 1.43±0.08 µg/10 µg AEP total protein in the control HA disc, to 1.15±0.05, 0.78±0.06 and 0.58±0.02 in the 1%, 2%, 5% NaF groups, respectively (<xref ref-type="fig" rid="pone-0042204-g004">Figure 4</xref>).</p>
+                <fig id="pone-0042204-g004" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0042204.g004</object-id>
+                  <label>Figure 4</label>
+                  <caption>
+                    <title>ELISA experiment with 10 µg/ml of AEP material for each group and anti-statherin antibody.</title>
+                    <p>Each bar represents the mean value ±SD of one experiment performed in triplicate.</p>
+                  </caption>
+                  <graphic xlink:href="pone.0042204.g004"/>
+                </fig>
+              </sec>
+            </sec>
+            <sec id="s4">
+              <title>Discussion</title>
+              <p>Topical fluoride treatment of the enamel surface may alter the chemical properties of the enamel surface by means of a Ca-F<sub>2</sub> material covering the enamel surface <xref rid="pone.0042204-Ogaard1" ref-type="bibr">[20]</xref>. It was our observation that HA surface changes after the treatment with fluoride. XPS showed that HA incubated with fluoride change the atoms % on the surface (<xref ref-type="fig" rid="pone-0042204-g001">Figure 1</xref>). It was not surprise that according to the concentration of fluoride increase in the sample group, the atoms % of fluoride increase in the surface (<xref ref-type="table" rid="pone-0042204-t001">Table 1</xref>).</p>
+              <p>It is known that HA binds proteins through both calcium (positive) and phosphate (negative) sites on the surface <xref rid="pone.0042204-Kawasaki1" ref-type="bibr">[21]</xref>, <xref rid="pone.0042204-Kawasaki2" ref-type="bibr">[22]</xref>. The previous studies using classical biochemical assays examined the binding and selectivity of salivary proteins on HA. As one of the major outcomes, phosphorylated and negative salivary proteins such as statherin, histatin 1, and acidic proline-rich protein (acidic PRP) have shown a strong affinity to HA and they are considered pellicle precursor proteins <xref rid="pone.0042204-AlHashimi1" ref-type="bibr">[23]</xref>, <xref rid="pone.0042204-Jensen1" ref-type="bibr">[24]</xref>, <xref rid="pone.0042204-Lendenmann1" ref-type="bibr">[25]</xref>. In addition, few studies had investigated the AEP composition of HA coated with fluoride. For example, amino acid analyses showed no major differences in the amino acid compositions between AEP collected from fluoride covered enamel and AEP collected from regular enamel <xref rid="pone.0042204-Rykke1" ref-type="bibr">[26]</xref> , but the salivary protein adsorption on enamel treated with fluoride was considerably reduced compared to the adsorption on untreated enamel surface <xref rid="pone.0042204-Rykke1" ref-type="bibr">[26]</xref>, <xref rid="pone.0042204-Belcourt1" ref-type="bibr">[27]</xref>. Recent developments of sensitive proteomic methodologies have opened new avenues for the characterization of very-low-abundance biological samples such as AEP. Using this proteomic technology, we have used mass spectrometry to perform the first global proteome of human <italic>in vivo</italic> AEP. We identified 130 AEP proteins, which have been characterized according to origin, putative biological function, and possible role in AEP structure <xref rid="pone.0042204-Siqueira4" ref-type="bibr">[28]</xref>. In the present study we explored the use of this mass spectrometry technology in conjunction with proteome quantification approach to investigate the effects of fluoride treatment on HA on the subsequent formation of AEP.</p>
+              <p>AEP proteome from all four different treatment groups showed a consistent elution of protein/peptides over the range from 12 to 45 minutes (<xref ref-type="fig" rid="pone-0042204-g002">Figure 2</xref>), demonstrating a similarity among AEP protein/peptides presented in all four groups studied. This observation is in agreement with our previous <italic>in vivo</italic> AEP investigation where the majority of the peptides eluted with a similar retention time <xref rid="pone.0042204-Siqueira4" ref-type="bibr">[28]</xref>, <xref rid="pone.0042204-Siqueira5" ref-type="bibr">[29]</xref> but the number of proteins identified here was less than in our previous <italic>in vivo</italic> AEP study. This discrepancy probably is due to the different proteomic approach utilized before. In relation to protein identification, however, there were a significant percentage of proteins (14%) that were identified only in the HA control group but was not found in any of the groups treated with NaF. On the other hand, 21% of the proteins identified in 5% NaF group was also not found in any other groups (<xref ref-type="table" rid="pone-0042204-t002">Table 2</xref>). This data reinforces the concept that AEP formation is based on selective adsorption of salivary proteins on enamel surface, since when we modified the HA surface with treatment of fluoride, the protein profile observed was also changed. Another very interesting observation was the absence of acidic PRP 1 in samples from 5 % NaF group. Acidic PRPs are charge negative salivary proteins that have high affinity to HA and are potent inhibitors of secondary calcium phosphate precipitation, which is in large part due to their two phosphate groups linked covalently to Ser residues in positions 8 and 22. Similar to acidic PRP 1, calmodulin which is a small calcium binding acidic protein with a ∼Mr of 17 kDa, was also not observed in the 5% NaF group. The importance of these observations is related to previous studies where acidic PRP 1 on HA promote bacterial adhesion of streptococcus mutans and actinomyces viscosus, both cariogenic and periodontal pathogenic bacteria respectively <xref rid="pone.0042204-Gibbons1" ref-type="bibr">[30]</xref>, <xref rid="pone.0042204-Stenudd1" ref-type="bibr">[31]</xref>. In the same aspect, calmodulin is responsible for binding to Candida albicans, which is a major fungus related to oral candidiasis <xref rid="pone.0042204-Webb1" ref-type="bibr">[32]</xref>. This data suggests that treatment of HA with fluoride (at high concentration) qualitatively modulates AEP contents that may have a role in lowering the cariogenic potential of the AEP, not only because of decrease solubility of the HA but its reduced potential to support pathogenic bacteria.</p>
+              <p>In general, the most common used techniques for quantitative proteomic analyses are 2D-PAGE (two-dimensional gel electrophoresis) and/or 2DIGE (two-dimensional differential gel electrophoresis). However, these methods are limited in sensitivity, low protein dynamic range, reproducibility and visualization of proteins in the gel <xref rid="pone.0042204-Peng1" ref-type="bibr">[33]</xref>. Substitute techniques to 2D-PAGE and 2DIGE are non-PAGE procedures based on liquid chromatography, where relative or absolute quantification is performed using parameters of chromatogram and mass spectrometer. In addition, limited success for the quantification of proteins has been accomplished by using stable isotope labeling such as ICAT, SILAC, and iTRAQ. One of the main limitations of these methods is that full labeling of the proteins/peptides is rarely achieved and that different peptides incorporate the label at different rates that complicates data analysis.</p>
+              <p>Recently, label-free quantitation methods to be carried out in complex biological fluids such as saliva or blood are becoming more reliable <xref rid="pone.0042204-Siqueira6" ref-type="bibr">[34]</xref>. Label-free quantitative proteomics provides an alternative approach for studies of AEP formation under effect of different conditions providing a more comprehensive view of composition and function of AEP proteins. In this study, we pioneered the use of a label-free LC-ESI-MS/MS methodology to explore the relative quantitation of <italic>in vitro</italic> AEP formed on HA disc treated with different concentrations of fluoride. After AEP proteome identified and characterized in all four different groups, SIEVE technology was used to compare the AEP protein profile. Briefly, SIEVE is a label-free-differential expression package software that aligns the MS spectra over time from different experimental conditions (HA and NaF groups) and then determines feature in the data (m/z and retention time pairs) that differ across the different conditions <xref rid="pone.0042204-Sutton1" ref-type="bibr">[35]</xref>. A first step in the quantitative proteomic analysis by SIEVE is to promote an alignment of all mass spectrometry chromatograms (<xref ref-type="fig" rid="pone-0042204-g005">Figure 5</xref>). One of the mass spectrometry chromatogram is taking as default chromatogram. All other chromatograms will be compared with the default one. In our study, we selected a default chromatogram as one of the chromatograms from HA group. Thus, all other chromatograms were compared with the selected chromatogram from HA group. Coefficient correlation score values were acquired for each mass spectrometric chromatogram and mean score values were calculated for each group. The values were 0.858 to 1% NaF group, 0.859 to 2% NaF group and, 0.805 to 5% NaF. Interestingly, we observed that according to the concentration of fluoride increase in the sample group, the alignment value will become more distant than the default chromatogram from HA group (established score 1). This observation suggests a change in quantity and quality of protein/peptides according to the concentration of fluoride.</p>
+              <fig id="pone-0042204-g005" orientation="portrait" position="float">
+                <object-id pub-id-type="doi">10.1371/journal.pone.0042204.g005</object-id>
+                <label>Figure 5</label>
+                <caption>
+                  <title>Alignment results from 12 base-peak chromatograms (3 base-peak chromatograms per group) generated by SIEVE.</title>
+                  <p>Inset: example of an extracted mass chromatogram for a peptide whose abundance is increased in HA (Blue), 1% NaF(red), 2% NaF (violet) groups and decreased in 5% NaF group (green).</p>
+                </caption>
+                <graphic xlink:href="pone.0042204.g005"/>
+              </fig>
+              <p>Relative proteomic quantification was carried out for the 45 proteins observed in all four groups. Notably, all 45 proteins showed no significant variation when the concentration of fluoride was 1% on the HA surface. On the other hand, it was surprising to found that 33% of those proteins show a significant difference protein level (higher or lower) in the group treated with 2% NaF and this value was increased to 45% when the HA was treated with 5% NaF. A detailed analysis of this AEP quantitative data shows that phosphorylated and negative salivary proteins with a crucial role on tooth enamel homeostasis were drastically affected with the incorporation of fluoride on the HA surface. We saw that according to the fluoride concentration was increased on the HA surface, the protein level of these proteins were reduced. For instance, values of statherin and histatin 1 between HA group and 5% NaF group were reduced by 62% and 42%, respectively (<xref ref-type="table" rid="pone-0042204-t003">Table 3</xref>). This shows a significant low abundance of statherin and histatin 1 when HA surface is coated with high concentration of fluoride. Our observation could be compared with the previous investigation, which shows that pre-treated HA crystals with high concentration fluoride blocked the positive charges (calcium) on the apatite surface resulting in reduced amelogenin binding, a phosphorylated and negative protein which is the dominant protein in the developing enamel matrix <xref rid="pone.0042204-Tanimoto1" ref-type="bibr">[36]</xref>. The importance of our observation is related to the function of these proteins. Statherin is a small molecular weight salivary protein with negative net charges that contain vicinal phosphoserine residues in positions 2 and 3. Statherin is the only salivary protein that inhibits both primary calcium phosphate precipitation (spontaneous precipitation) and secondary calcium phosphate precipitation (crystal growth), crucial functions related for the controlling of dental calculus formation and remineralization of early dental caries <xref rid="pone.0042204-Oppenheim1" ref-type="bibr">[37]</xref>. Beside, it has been demonstrated that statherin facilitates the binding of Actinomyces viscosus <xref rid="pone.0042204-Gibbons1" ref-type="bibr">[30]</xref>, <xref rid="pone.0042204-Gibbons2" ref-type="bibr">[38]</xref>, <xref rid="pone.0042204-Clark1" ref-type="bibr">[39]</xref> and Fusobacterium nucleatum <xref rid="pone.0042204-Xie1" ref-type="bibr">[40]</xref> to HA pre-coated with statherin indicating that statherin is determinant of initial microbial colonisation of tooth surface. Similar to statherin, histatin 1 is a salivary protein that exhibits the most varied of activities studied to date. The postulated <italic>in vivo</italic> functions for histatin 1 include buffering, modulation of mineral formation, as well as strong antifungal and antibacterial activities <xref rid="pone.0042204-Raj1" ref-type="bibr">[41]</xref>, <xref rid="pone.0042204-Edgerton1" ref-type="bibr">[42]</xref>. In addition, a new feature for histatins has recently been identified. When histatins are adsorbed onto the enamel surface forming the AEP, these proteins provide protection against acid injury <xref rid="pone.0042204-Siqueira1" ref-type="bibr">[6]</xref>. Recent findings have shown that, in the <italic>in vivo</italic> AEP, protein film that naturally cover the tooth enamel surface, significant numbers of histatins (histatins 1, 3, and 5) remain intact <xref rid="pone.0042204-Siqueira1" ref-type="bibr">[6]</xref>. This observation suggests that the binding of intact histatins to the enamel surface confers the significant resistance against proteolytic degradation <xref rid="pone.0042204-McDonald1" ref-type="bibr">[43]</xref>.</p>
+              <p>Only one protein shows increase level affected with the incorporation of fluoride on the HA surface. Basic Proline Rich Protein 2 (basic PRP2) was the only protein that demonstrated a significant increased protein level when HA group was compared with 2% NaF or 5% NaF groups. Interestingly, basic PRP2 has huge difference in physical-chemical characteristics than statherin and histatin 1. Basic PRP 2 is a salivary protein with significant amount of proline in its amino acid chain, non-phosphorylated and with an isoeletric point around 11.3. The function of basic PRPs is not well established in the oral cavity. However, those proteins have high affinity for dietary polyphenolic compounds (tannins) that probably provide protective effect against the potential deleterious action of these substances <xref rid="pone.0042204-Bennick1" ref-type="bibr">[44]</xref>.</p>
+              <p>Understanding the composition-structure of AEP in HA surfaces treated with fluoride provide a new concept in the progress of oral diseases based on dental biofilm development such as dental caries and/or periodontal disease. Our results, despite the limitations of an <italic>in vitro</italic> study, presents new insights into the architecture of AEP on HA treated with fluoride and visualizes the quantitative and qualitative proteome modulation of this important tooth integument and consequently, the development of oral biofilm.</p>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>The authors thank Harvey A. Goldberg for his careful reading of the manuscript.</p>
+            </ack>
+            <ref-list>
+              <title>References</title>
+              <ref id="pone.0042204-Hunter1">
+                <label>1</label>
+                <mixed-citation publication-type="journal"><name><surname>Hunter</surname><given-names>GK</given-names></name>, <name><surname>O’Young</surname><given-names>J</given-names></name>, <name><surname>Grohe</surname><given-names>B</given-names></name>, <name><surname>Karttunen</surname><given-names>M</given-names></name>, <name><surname>Goldberg</surname><given-names>HA</given-names></name> (<year>2010</year>) <article-title>The flexible polyelectrolyte hypothesis of protein-biomineral interaction</article-title>. <source>Langmuir</source>
+<volume>26</volume>: <fpage>18639</fpage>–<lpage>18646</lpage>.<pub-id pub-id-type="pmid">20527831</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Fejerskov1">
+                <label>2</label>
+                <mixed-citation publication-type="journal"><name><surname>Fejerskov</surname><given-names>O</given-names></name> (<year>1997</year>) <article-title>Concepts of dental caries and their consequences for understanding the disease</article-title>. <source>Community Dent Oral Epidemiol</source>
+<volume>25</volume>: <fpage>5</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">9088687</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Petersen1">
+                <label>3</label>
+                <mixed-citation publication-type="journal"><name><surname>Petersen</surname><given-names>PE</given-names></name>, <name><surname>Lennon</surname><given-names>MA</given-names></name> (<year>2004</year>) <article-title>Effective use of fluorides for the prevention of dental caries in the 21st century: the WHO approach</article-title>. <source>Community Dent Oral Epidemiol</source>
+<volume>32</volume>: <fpage>319</fpage>–<lpage>321</lpage>.<pub-id pub-id-type="pmid">15341615</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Featherstone1">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><name><surname>Featherstone</surname><given-names>JD</given-names></name> (<year>2000</year>) <article-title>The science and practice of caries prevention</article-title>. <source>Journal of the American Dental Association</source>
+<volume>131</volume>: <fpage>887</fpage>–<lpage>899</lpage>.<pub-id pub-id-type="pmid">10916327</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Marinho1">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><name><surname>Marinho</surname><given-names>VC</given-names></name> (<year>2009</year>) <article-title>Cochrane reviews of randomized trials of fluoride therapies for preventing dental caries</article-title>. <source>Eur Arch Paediatr Dent</source>
+<volume>10</volume>: <fpage>183</fpage>–<lpage>191</lpage>.<pub-id pub-id-type="pmid">19772849</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira1">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Margolis</surname><given-names>HC</given-names></name>, <name><surname>Helmerhorst</surname><given-names>EJ</given-names></name>, <name><surname>Mendes</surname><given-names>FM</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>2010</year>) <article-title>Evidence of intact histatins in the in vivo acquired enamel pellicle</article-title>. <source>J Dent Res</source>
+<volume>89</volume>: <fpage>626</fpage>–<lpage>630</lpage>.<pub-id pub-id-type="pmid">20351356</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Vitorino1">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><name><surname>Vitorino</surname><given-names>R</given-names></name>, <name><surname>Lobo</surname><given-names>MJ</given-names></name>, <name><surname>Duarte</surname><given-names>JR</given-names></name>, <name><surname>Ferrer-Correia</surname><given-names>AJ</given-names></name>, <name><surname>Domingues</surname><given-names>PM</given-names></name>, <etal>et al</etal> (<year>2005</year>) <article-title>The role of salivary peptides in dental caries</article-title>. <source>Biomed Chromatogr</source>
+<volume>19</volume>: <fpage>214</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">15484227</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Featherstone2">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><name><surname>Featherstone</surname><given-names>JD</given-names></name>, <name><surname>Behrman</surname><given-names>JM</given-names></name>, <name><surname>Bell</surname><given-names>JE</given-names></name> (<year>1993</year>) <article-title>Effect of whole saliva components on enamel demineralization in vitro</article-title>. <source>Crit Rev Oral Biol Med</source>
+<volume>4</volume>: <fpage>357</fpage>–<lpage>362</lpage>.<pub-id pub-id-type="pmid">8373991</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Zahradnik1">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><name><surname>Zahradnik</surname><given-names>RT</given-names></name>, <name><surname>Propas</surname><given-names>D</given-names></name>, <name><surname>Moreno</surname><given-names>EC</given-names></name> (<year>1978</year>) <article-title>Effect of salivary pellicle formation time on in vitro attachment and demineralization by Streptococcus mutans</article-title>. <source>J Dent Res</source>
+<volume>57</volume>: <fpage>1036</fpage>–<lpage>1042</lpage>.<pub-id pub-id-type="pmid">281338</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira2">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Helmerhorst</surname><given-names>EJ</given-names></name>, <name><surname>Zhang</surname><given-names>W</given-names></name>, <name><surname>Salih</surname><given-names>E</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>2007</year>) <article-title>Acquired enamel pellicle and its potential role in oral diagnostics</article-title>. <source>Ann N Y Acad Sci</source>
+<volume>1098</volume>: <fpage>504</fpage>–<lpage>509</lpage>.<pub-id pub-id-type="pmid">17435160</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Hannig1">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><name><surname>Hannig</surname><given-names>M</given-names></name>, <name><surname>Joiner</surname><given-names>A</given-names></name> (<year>2006</year>) <article-title>The structure, function and properties of the acquired pellicle</article-title>. <source>Monogr Oral Sci</source>
+<volume>19</volume>: <fpage>29</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">16374028</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Hara1">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><name><surname>Hara</surname><given-names>AT</given-names></name>, <name><surname>Turssi</surname><given-names>CP</given-names></name>, <name><surname>Ando</surname><given-names>M</given-names></name>, <name><surname>Gonzalez-Cabezas</surname><given-names>C</given-names></name>, <name><surname>Zero</surname><given-names>DT</given-names></name>, <etal>et al</etal> (<year>2006</year>) <article-title>Influence of fluoride-releasing restorative material on root dentine secondary caries in situ</article-title>. <source>Caries Res</source>
+<volume>40</volume>: <fpage>435</fpage>–<lpage>439</lpage>.<pub-id pub-id-type="pmid">16946613</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Zahradnik2">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><name><surname>Zahradnik</surname><given-names>RT</given-names></name>, <name><surname>Moreno</surname><given-names>EC</given-names></name> (<year>1977</year>) <article-title>Progressive stages of subsurface demineralization of human tooth enamel</article-title>. <source>Arch Oral Biol</source>
+<volume>22</volume>: <fpage>585</fpage>–<lpage>591</lpage>.<pub-id pub-id-type="pmid">272869</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Vukosavljevic1">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><name><surname>Vukosavljevic</surname><given-names>D</given-names></name>, <name><surname>Custodio</surname><given-names>W</given-names></name>, <name><surname>Siqueira</surname><given-names>WL</given-names></name> (<year>2011</year>) <article-title>Salivary proteins as predictors and controls for oral health</article-title>. <source>J Cell Commun Signal</source>
+<volume>5</volume>: <fpage>271</fpage>–<lpage>275</lpage>.<pub-id pub-id-type="pmid">21927991</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Hay1">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><name><surname>Hay</surname><given-names>DI</given-names></name> (<year>1967</year>) <article-title>The adsorption of salivary proteins by hydroxyapatite and enamel</article-title>. <source>Arch Oral Biol</source>
+<volume>12</volume>: <fpage>937</fpage>–<lpage>946</lpage>.<pub-id pub-id-type="pmid">5231272</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Sonju1">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><name><surname>Sonju</surname><given-names>T</given-names></name>, <name><surname>Rolla</surname><given-names>G</given-names></name> (<year>1973</year>) <article-title>Chemical analysis of the acquired pellicle formed in two hours on cleaned human teeth in vivo. Rate of formation and amino acid analysis</article-title>. <source>Caries Res</source>
+<volume>7</volume>: <fpage>30</fpage>–<lpage>38</lpage>.<pub-id pub-id-type="pmid">4509045</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Buzalaf1">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><name><surname>Buzalaf</surname><given-names>MA</given-names></name>, <name><surname>Pessan</surname><given-names>JP</given-names></name>, <name><surname>Honorio</surname><given-names>HM</given-names></name>, <name><surname>ten Cate</surname><given-names>JM</given-names></name> (<year>2011</year>) <article-title>Mechanisms of action of fluoride for caries control</article-title>. <source>Monogr Oral Sci</source>
+<volume>22</volume>: <fpage>97</fpage>–<lpage>114</lpage>.<pub-id pub-id-type="pmid">21701194</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira3">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>de Oliveira</surname><given-names>E</given-names></name>, <name><surname>Mustacchi</surname><given-names>Z</given-names></name>, <name><surname>Nicolau</surname><given-names>J</given-names></name> (<year>2004</year>) <article-title>Electrolyte concentrations in saliva of children aged 6–10 years with Down syndrome</article-title>. <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+<volume>98</volume>: <fpage>76</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">15243474</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Duan1">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><name><surname>Duan</surname><given-names>X</given-names></name>, <name><surname>Young</surname><given-names>R</given-names></name>, <name><surname>Straubinger</surname><given-names>RM</given-names></name>, <name><surname>Page</surname><given-names>B</given-names></name>, <name><surname>Cao</surname><given-names>J</given-names></name>, <etal>et al</etal> (<year>2009</year>) <article-title>A straightforward and highly efficient precipitation/on-pellet digestion procedure coupled with a long gradient nano-LC separation and Orbitrap mass spectrometry for label-free expression profiling of the swine heart mitochondrial proteome</article-title>. <source>J Proteome Res</source>
+<volume>8</volume>: <fpage>2838</fpage>–<lpage>2850</lpage>.<pub-id pub-id-type="pmid">19290621</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Ogaard1">
+                <label>20</label>
+                <mixed-citation publication-type="other">Ogaard B (1990) Effects of fluoride on caries development and progression in vivo. Journal of Dental Research 69 Spec No: 813–819; discussion 820–813.</mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Kawasaki1">
+                <label>21</label>
+                <mixed-citation publication-type="journal"><name><surname>Kawasaki</surname><given-names>T</given-names></name>, <name><surname>Ikeda</surname><given-names>K</given-names></name>, <name><surname>Takahashi</surname><given-names>S</given-names></name>, <name><surname>Kuboki</surname><given-names>Y</given-names></name> (<year>1986</year>) <article-title>Further study of hydroxyapatite high-performance liquid chromatography using both proteins and nucleic acids, and a new technique to increase chromatographic efficiency</article-title>. <source>Eur J Biochem</source>
+<volume>155</volume>: <fpage>249</fpage>–<lpage>257</lpage>.<pub-id pub-id-type="pmid">3007123</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Kawasaki2">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><name><surname>Kawasaki</surname><given-names>T</given-names></name>, <name><surname>Niikura</surname><given-names>M</given-names></name>, <name><surname>Takahashi</surname><given-names>S</given-names></name>, <name><surname>Kobayashi</surname><given-names>W</given-names></name> (<year>1987</year>) <article-title>Strontium-phosphate hydroxyapatite high-performance liquid chromatography</article-title>. <source>Bioch Inter</source>
+<volume>15</volume>: <fpage>1137</fpage>–<lpage>1149</lpage>.</mixed-citation>
+              </ref>
+              <ref id="pone.0042204-AlHashimi1">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><name><surname>Al-Hashimi</surname><given-names>I</given-names></name>, <name><surname>Levine</surname><given-names>MJ</given-names></name> (<year>1989</year>) <article-title>Characterization of in vivo salivary-derived enamel pellicle</article-title>. <source>Arch Oral Biol</source>
+<volume>34</volume>: <fpage>289</fpage>–<lpage>295</lpage>.<pub-id pub-id-type="pmid">2480770</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Jensen1">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><name><surname>Jensen</surname><given-names>JL</given-names></name>, <name><surname>Lamkin</surname><given-names>MS</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>1992</year>) <article-title>Adsorption of human salivary proteins to hydroxyapatite: a comparison between whole saliva and glandular salivary secretions</article-title>. <source>J Dent Res</source>
+<volume>71</volume>: <fpage>1569</fpage>–<lpage>1576</lpage>.<pub-id pub-id-type="pmid">1381733</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Lendenmann1">
+                <label>25</label>
+                <mixed-citation publication-type="journal"><name><surname>Lendenmann</surname><given-names>U</given-names></name>, <name><surname>Grogan</surname><given-names>J</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>2000</year>) <article-title>Saliva and dental pellicle–a review</article-title>. <source>Adv Dent Res</source>
+<volume>14</volume>: <fpage>22</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">11842920</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Rykke1">
+                <label>26</label>
+                <mixed-citation publication-type="journal"><name><surname>Rykke</surname><given-names>M</given-names></name>, <name><surname>Sonju</surname><given-names>T</given-names></name>, <name><surname>Skjorland</surname><given-names>K</given-names></name>, <name><surname>Rolla</surname><given-names>G</given-names></name> (<year>1989</year>) <article-title>Protein adsorption to hydroxyapatite and to calcium fluoride in vitro and amino acid analyses of pellicle formed on normal enamel and on calcium-fluoride-covered enamel in vivo</article-title>. <source>Acta odontologica Scandinavica</source>
+<volume>47</volume>: <fpage>245</fpage>–<lpage>251</lpage>.<pub-id pub-id-type="pmid">2782062</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Belcourt1">
+                <label>27</label>
+                <mixed-citation publication-type="journal"><name><surname>Belcourt</surname><given-names>A</given-names></name>, <name><surname>Voegel</surname><given-names>JC</given-names></name> (<year>1978</year>) <article-title>Human salivary protein interaction with fluoridated synthetic hydroxyapatite</article-title>. <source>J Biol Buccale</source>
+<volume>6</volume>: <fpage>65</fpage>–<lpage>73</lpage>.<pub-id pub-id-type="pmid">276526</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira4">
+                <label>28</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Zhang</surname><given-names>W</given-names></name>, <name><surname>Helmerhorst</surname><given-names>EJ</given-names></name>, <name><surname>Gygi</surname><given-names>SP</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>2007</year>) <article-title>Identification of protein components in in vivo human acquired enamel pellicle using LC-ESI-MS/MS</article-title>. <source>J Proteome Res</source>
+<volume>6</volume>: <fpage>2152</fpage>–<lpage>2160</lpage>.<pub-id pub-id-type="pmid">17447804</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira5">
+                <label>29</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Oppenheim</surname><given-names>FG</given-names></name> (<year>2009</year>) <article-title>Small molecular weight proteins/peptides present in the in vivo formed human acquired enamel pellicle</article-title>. <source>Arch Oral Biol</source>
+<volume>54</volume>: <fpage>437</fpage>–<lpage>444</lpage>.<pub-id pub-id-type="pmid">19268279</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Gibbons1">
+                <label>30</label>
+                <mixed-citation publication-type="journal"><name><surname>Gibbons</surname><given-names>RJ</given-names></name>, <name><surname>Hay</surname><given-names>DI</given-names></name> (<year>1988</year>) <article-title>Human salivary acidic proline-rich proteins and statherin promote the attachment of Actinomyces viscosus LY7 to apatitic surfaces</article-title>. <source>Infect Immun</source>
+<volume>56</volume>: <fpage>439</fpage>–<lpage>445</lpage>.<pub-id pub-id-type="pmid">2892794</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Stenudd1">
+                <label>31</label>
+                <mixed-citation publication-type="journal"><name><surname>Stenudd</surname><given-names>C</given-names></name>, <name><surname>Nordlund</surname><given-names>A</given-names></name>, <name><surname>Ryberg</surname><given-names>M</given-names></name>, <name><surname>Johansson</surname><given-names>I</given-names></name>, <name><surname>Kallestal</surname><given-names>C</given-names></name>, <etal>et al</etal> (<year>2001</year>) <article-title>The association of bacterial adhesion with dental caries</article-title>. <source>J Dent Res</source>
+<volume>80</volume>: <fpage>2005</fpage>–<lpage>2010</lpage>.<pub-id pub-id-type="pmid">11759011</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Webb1">
+                <label>32</label>
+                <mixed-citation publication-type="journal"><name><surname>Webb</surname><given-names>BC</given-names></name>, <name><surname>Thomas</surname><given-names>CJ</given-names></name>, <name><surname>Willcox</surname><given-names>MD</given-names></name>, <name><surname>Harty</surname><given-names>DW</given-names></name>, <name><surname>Knox</surname><given-names>KW</given-names></name> (<year>1998</year>) <article-title>Candida-associated denture stomatitis. Aetiology and management: a review. Part 1. Factors influencing distribution of Candida species in the oral cavity</article-title>. <source>Aust Dent J</source>
+<volume>43</volume>: <fpage>45</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">9583226</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Peng1">
+                <label>33</label>
+                <mixed-citation publication-type="journal"><name><surname>Peng</surname><given-names>J</given-names></name>, <name><surname>Gygi</surname><given-names>SP</given-names></name> (<year>2001</year>) <article-title>Proteomics: the move to mixtures</article-title>. <source>J Mass Spec</source>
+<volume>36</volume>: <fpage>1083</fpage>–<lpage>1091</lpage>.</mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Siqueira6">
+                <label>34</label>
+                <mixed-citation publication-type="journal"><name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Dawes</surname><given-names>C</given-names></name> (<year>2011</year>) <article-title>The salivary proteome: challenges and perspectives</article-title>. <source>Proteomics Clin Appl</source>
+<volume>5</volume>: <fpage>575</fpage>–<lpage>579</lpage>.<pub-id pub-id-type="pmid">21956964</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Sutton1">
+                <label>35</label>
+                <mixed-citation publication-type="journal"><name><surname>Sutton</surname><given-names>J</given-names></name>, <name><surname>Richmond</surname><given-names>T</given-names></name>, <name><surname>Shi</surname><given-names>X</given-names></name>, <name><surname>Athanas</surname><given-names>M</given-names></name>, <name><surname>Ptak</surname><given-names>C</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Performance characteristics of an FT MS-based workflow for label-free differential MS analysis of human plasma: standards, reproducibility, targeted feature investigation, and application to a model of controlled myocardial infarction</article-title>. <source>Proteomics Clin Appl</source>
+<volume>2</volume>: <fpage>862</fpage>–<lpage>881</lpage>.<pub-id pub-id-type="pmid">21136885</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Tanimoto1">
+                <label>36</label>
+                <mixed-citation publication-type="journal"><name><surname>Tanimoto</surname><given-names>K</given-names></name>, <name><surname>Le</surname><given-names>T</given-names></name>, <name><surname>Zhu</surname><given-names>L</given-names></name>, <name><surname>Chen</surname><given-names>J</given-names></name>, <name><surname>Featherstone</surname><given-names>JD</given-names></name>, <etal>et al</etal> (<year>2008</year>) <article-title>Effects of fluoride on the interactions between amelogenin and apatite crystals</article-title>. <source>Journal of Dental Research</source>
+<volume>87</volume>: <fpage>39</fpage>–<lpage>44</lpage>.<pub-id pub-id-type="pmid">18096891</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Oppenheim1">
+                <label>37</label>
+                <mixed-citation publication-type="journal"><name><surname>Oppenheim</surname><given-names>FG</given-names></name>, <name><surname>Salih</surname><given-names>E</given-names></name>, <name><surname>Siqueira</surname><given-names>WL</given-names></name>, <name><surname>Zhang</surname><given-names>W</given-names></name>, <name><surname>Helmerhorst</surname><given-names>EJ</given-names></name> (<year>2007</year>) <article-title>Salivary proteome and its genetic polymorphisms</article-title>. <source>Ann N Y Acad Sci</source>
+<volume>1098</volume>: <fpage>22</fpage>–<lpage>50</lpage>.<pub-id pub-id-type="pmid">17303824</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Gibbons2">
+                <label>38</label>
+                <mixed-citation publication-type="journal"><name><surname>Gibbons</surname><given-names>RJ</given-names></name>, <name><surname>Hay</surname><given-names>DI</given-names></name>, <name><surname>Cisar</surname><given-names>JO</given-names></name>, <name><surname>Clark</surname><given-names>WB</given-names></name> (<year>1988</year>) <article-title>Adsorbed salivary proline-rich protein 1 and statherin: receptors for type 1 fimbriae of Actinomyces viscosus T14V-J1 on apatitic surfaces</article-title>. <source>Infection and immunity</source>
+<volume>56</volume>: <fpage>2990</fpage>–<lpage>2993</lpage>.<pub-id pub-id-type="pmid">2902013</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Clark1">
+                <label>39</label>
+                <mixed-citation publication-type="journal"><name><surname>Clark</surname><given-names>WB</given-names></name>, <name><surname>Wheeler</surname><given-names>TT</given-names></name>, <name><surname>Lane</surname><given-names>MD</given-names></name>, <name><surname>Cisar</surname><given-names>JO</given-names></name> (<year>1986</year>) <article-title>Actinomyces adsorption mediated by type-1 fimbriae</article-title>. <source>J Dent Res</source>
+<volume>65</volume>: <fpage>1166</fpage>–<lpage>1168</lpage>.<pub-id pub-id-type="pmid">2874164</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Xie1">
+                <label>40</label>
+                <mixed-citation publication-type="journal"><name><surname>Xie</surname><given-names>H</given-names></name>, <name><surname>Gibbons</surname><given-names>RJ</given-names></name>, <name><surname>Hay</surname><given-names>DI</given-names></name> (<year>1991</year>) <article-title>Adhesive properties of strains of Fusobacterium nucleatum of the subspecies nucleatum, vincentii and polymorphum</article-title>. <source>Oral Microbiol Immunol</source>
+<volume>6</volume>: <fpage>257</fpage>–<lpage>263</lpage>.<pub-id pub-id-type="pmid">1820561</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Raj1">
+                <label>41</label>
+                <mixed-citation publication-type="journal"><name><surname>Raj</surname><given-names>PA</given-names></name>, <name><surname>Edgerton</surname><given-names>M</given-names></name>, <name><surname>Levine</surname><given-names>MJ</given-names></name> (<year>1990</year>) <article-title>Salivary histatin 5: dependence of sequence, chain length, and helical conformation for candidacidal activity</article-title>. <source>J Biol Chem</source>
+<volume>265</volume>: <fpage>3898</fpage>–<lpage>3905</lpage>.<pub-id pub-id-type="pmid">2406266</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Edgerton1">
+                <label>42</label>
+                <mixed-citation publication-type="journal"><name><surname>Edgerton</surname><given-names>M</given-names></name>, <name><surname>Koshlukova</surname><given-names>SE</given-names></name> (<year>2000</year>) <article-title>Salivary histatin 5 and its similarities to the other antimicrobial proteins in human saliva</article-title>. <source>Adv Dent Res</source>
+<volume>14</volume>: <fpage>16</fpage>–<lpage>21</lpage>.<pub-id pub-id-type="pmid">11842919</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-McDonald1">
+                <label>43</label>
+                <mixed-citation publication-type="journal"><name><surname>McDonald</surname><given-names>EE</given-names></name>, <name><surname>Goldberg</surname><given-names>HA</given-names></name>, <name><surname>Tabbara</surname><given-names>N</given-names></name>, <name><surname>Mendes</surname><given-names>FM</given-names></name>, <name><surname>Siqueira</surname><given-names>WL</given-names></name> (<year>2011</year>) <article-title>Histatin 1 resists proteolytic degradation when adsorbed to hydroxyapatite</article-title>. <source>Journal of Dental Research</source>
+<volume>90</volume>: <fpage>268</fpage>–<lpage>272</lpage>.<pub-id pub-id-type="pmid">21076122</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0042204-Bennick1">
+                <label>44</label>
+                <mixed-citation publication-type="journal"><name><surname>Bennick</surname><given-names>A</given-names></name> (<year>2002</year>) <article-title>Interaction of plant polyphenols with salivary proteins</article-title>. <source>Critical reviews in oral biology and medicine : an official publication of the American Association of Oral Biologists</source>
+<volume>13</volume>: <fpage>184</fpage>–<lpage>196</lpage>.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

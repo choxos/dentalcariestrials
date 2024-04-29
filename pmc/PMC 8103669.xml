@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:38:27Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8103669" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8103669</identifier>
+        <datestamp>2021-05-10</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8103669</article-id>
+              <article-id pub-id-type="pmcid">PMC8103669</article-id>
+              <article-id pub-id-type="pmc-uid">8103669</article-id>
+              <article-id pub-id-type="pmid">33962602</article-id>
+              <article-id pub-id-type="publisher-id">1582</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-021-01582-4</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Protocol for a family-centered behavioral intervention to reduce early childhood caries: the MySmileBuddy program efficacy trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4687-4526</contrib-id>
+                  <name>
+                    <surname>Lumsden</surname>
+                    <given-names>Christie L.</given-names>
+                  </name>
+                  <address>
+                    <email>clc2123@cumc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Edelstein</surname>
+                    <given-names>Burton L.</given-names>
+                  </name>
+                  <address>
+                    <email>ble22@cumc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Basch</surname>
+                    <given-names>Charles E.</given-names>
+                  </name>
+                  <address>
+                    <email>ceb35@tc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Wolf</surname>
+                    <given-names>Randi L.</given-names>
+                  </name>
+                  <address>
+                    <email>rlw118@tc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Koch</surname>
+                    <given-names>Pamela A.</given-names>
+                  </name>
+                  <address>
+                    <email>pak14@tc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>McKeague</surname>
+                    <given-names>Ian</given-names>
+                  </name>
+                  <address>
+                    <email>im2131@cumc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Leu</surname>
+                    <given-names>Cheng-Shiun</given-names>
+                  </name>
+                  <address>
+                    <email>cl94@columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Andrews</surname>
+                    <given-names>Howard</given-names>
+                  </name>
+                  <address>
+                    <email>hfa1@cumc.columbia.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.21729.3f</institution-id><institution-id institution-id-type="ISNI">0000000419368729</institution-id><institution>Columbia University College of Dental Medicine, Section of Oral, Diagnostic, and Rehabilitation Sciences, </institution></institution-wrap>622 West 168th Street, PH7-322, New York, NY 10032 USA </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.21729.3f</institution-id><institution-id institution-id-type="ISNI">0000000419368729</institution-id><institution>Dental Medicine and Health Policy &amp; Management at Columbia University Irving Medical Center, </institution><institution>Columbia University College of Dental Medicine, </institution></institution-wrap>622 West 168th Street, PH7-322, New York, NY 10032 USA </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.21729.3f</institution-id><institution-id institution-id-type="ISNI">0000000419368729</institution-id><institution>Department of Health and Behavior Studies, </institution><institution>Teachers College Columbia University, </institution></institution-wrap>525 West 120th Street, Box 137, New York, NY 10027 USA </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.21729.3f</institution-id><institution-id institution-id-type="ISNI">0000000419368729</institution-id><institution>Mailman School of Public Health, Department of Biostatistics, </institution><institution>Columbia University Irving Medical Center, </institution></institution-wrap>722 West 168th Street, 6th Fl, Rm 639, New York, NY 10032 USA </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.21729.3f</institution-id><institution-id institution-id-type="ISNI">0000000419368729</institution-id><institution>Mailman School of Public Health, </institution><institution>Columbia University Irving Medical Center, </institution></institution-wrap>1051 Riverside Drive, Unit 47, New York, NY 10032 USA </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>7</day>
+                <month>5</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>7</day>
+                <month>5</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2021</year>
+              </pub-date>
+              <volume>21</volume>
+              <elocation-id>246</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>15</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>21</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Although largely preventable through diet management and topical fluoride use, early childhood caries (ECC) often progresses to severity that necessitates surgical repair. Yet repair often fails to mitigate caries progression. Needed is an effective behavioral intervention to address underlying behavioral causes.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">This randomized controlled trial will evaluate the efficacy of a behaviorally focused, family-centered intervention, the MySmileBuddy Program (MSB Program), to reduce ECC progression in high-risk preschoolers in New York City. Recruitment will target 858 children ages 24–71 months with ECC and their parents from primary care medical and dental clinics. The study aims to assess the MSB Program’s efficacy to: (1) decrease ECC progression measured 12-months post-randomization; and (2) enhance adoption of a low cariogenic diet and twice-daily fluoridated toothpaste use compared to control group. Potential causal pathways (mediators and moderators) will be explored. The MSB Program equips community health workers (CHWs) with an app that facilitates multilevel risk assessment and provides motivational interviewing-based counseling to inform parents about the caries process, develop personalized goals, and create family-level action plans to achieve targeted behaviors. Social support from CHWs (4 interactions during the 6-month intervention, supplemented by up to 4 in-person/remote contacts throughout the 12-month study period, based on need) is bolstered by automated text messages. Participants will be randomized to a Control Group (paper-based educational handout plus toothbrushes and fluoridated toothpaste for the child) or Intervention Group (MSB Program, two tooth-brushing observations with feedback and instruction, and toothbrushes and toothpaste for the entire family). All children will receive visual ICDAS dental examinations and parents will complete study measures at baseline and 12-months. An incentive up to $150 plus round-trip transit cards ($5.50 value) will be provided.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">This study hypothesizes that the MSB Program can reduce ECC progression in a high-risk population. Sufficient incentives and a focus on establishing rapport between participants and CHWs are anticipated to mitigate recruitment and retention challenges. If successful, this study will advance the long-term goal of reducing pediatric oral health disparities by demonstrating the efficacy of an acceptable and feasible intervention that shifts attention from dental repair to behavioral risk mitigation.</p>
+                  <p id="Par4"><italic>Trial registration</italic>: Trial registration was completed on 4/13/2021 through the U.S. National Library of Medicine ClinicalTrials.gov website (Identifier: NCT04845594).</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Dental Caries/diet therapy</kwd>
+                <kwd>Dental Caries/prevention and control</kwd>
+                <kwd>Toothpastes/therapeutic use</kwd>
+                <kwd>Community health workers</kwd>
+                <kwd>Randomized controlled trial</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/100000072</institution-id>
+                      <institution>National Institute of Dental and Craniofacial Research</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>U01DE026739</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>Burton L.</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par17">Dental caries in children under age six years is a persistent, prevalent, and consequential public health problem. More than one-in-five U.S. children ages 2–5 are affected (21.4%) and the disease is disproportionately concentrated in minority and socially disadvantaged populations [<xref ref-type="bibr" rid="CR1">1</xref>]. Early childhood caries (ECC) has deleterious impacts on the child and family as well as elevating risk for future caries experience in both the primary and permanent dentitions [<xref ref-type="bibr" rid="CR2">2</xref>–<xref ref-type="bibr" rid="CR4">4</xref>]. Current treatment regimens focus on surgical repair and pharmacologic suppression [<xref ref-type="bibr" rid="CR5">5</xref>] while also recognizing the need for preventive guidance to mitigate caries activity [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>].</p>
+              <p id="Par18">Needed are behavioral strategies that mitigate caries risk for individual children and reduce ECC disparities among child populations. Twice-daily fluoridated toothpaste use [<xref ref-type="bibr" rid="CR8">8</xref>–<xref ref-type="bibr" rid="CR10">10</xref>], consumption of a low cariogenic diet, and health-promoting feeding and eating behaviors have both preventive and therapeutic values for young children’s oral health [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR11">11</xref>–<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+              <p id="Par19">To date, the few US reports of behavioral interventions to reduce ECC have been predicated on theoretical constructs that include Social Cognitive Theory, Health Belief Model, Theory of Planned Behavior, and Self-determination Theory. [<xref ref-type="bibr" rid="CR12">12</xref>–<xref ref-type="bibr" rid="CR22">22</xref>]. Three of these studies included both clinical and behavioral outcomes [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR21">21</xref>] but none analyzed mediators or moderators to describe how or why the intervention was expected to improve ECC-related behaviors or reduce disease progression. What remains unknown are how to increase the adoption and maintenance of salutary behaviors by high-risk families or populations and the reasons why interventions work or fail to work to secure behavioral changes and reduce ECC incidence.</p>
+              <p id="Par20">Approaches built on principles of motivational interviewing and chronic disease management have been suggested to promote such positive oral healthful behaviors [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>] with mixed results but some notable successes [<xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR26">26</xref>].</p>
+              <p id="Par21">One such therapeutic caries counseling behavioral approach to ECC prevention and suppression is the theory-based MySmileBuddy (MSB) Program developed by a multidisciplinary team at Columbia University [<xref ref-type="bibr" rid="CR27">27</xref>]. An overview of the theoretical model underlying the MSB Program is presented in Fig. <xref rid="Fig1" ref-type="fig">1</xref>. Using the MySmileBuddy App to ensure scientific integrity, the MSB Program utilizes Community Health Workers (CHWs) to engage families of young children in home and community sites to educate parents, assess ECC risk factors, establish a personalized behavioral goal, develop an action plan to achieve that goal, and provide ongoing support and follow up. As public health workers who are considered trusted members of the communities they serve, CHWs provide an essential link to health and social services (e.g., housing and legal aid, food assistance, counseling and educational programs, etc.) and support enhanced individual and community capacity by increasing health-related knowledge and self-sufficiency [<xref ref-type="bibr" rid="CR28">28</xref>]. The MSB Program seeks to both increase motivation and ability to adopt salutary behaviors by providing families with the knowledge, tools, social support, and material supplies to make positive changes, thereby addressing current gaps in knowledge about behavioral management of ECC.<fig id="Fig1"><label>Fig. 1</label><caption><p>MySmileBuddy program theoretical model. This figure presents the theoretical model that is used to guide the MySmileBuddy Program intervention and analysis of causal pathways through which the intervention exerts (or fails to exert) an influence on targeted behaviors. Mediators included are drawn from MySmileBuddy’s foundation in Social Cognitive Theory and the Health Belief Model. Social Cognitive Theory is based on a wide range of motivating and facilitating determinants. This theory provides extensive guidance on translating motivation into action through its emphasis on action self-efficacy and facilitating determinants. It emphasizes that individuals and their environments mutually influence each other, and so the environment must also be addressed. Health Belief Model focuses on the motivational determinants and the benefits and barriers to taking action and self-efficacy. It is useful for audiences and settings where the emphasis is on health. The included motivational determinants bolster parents’ motivation through increasing perceived threat of caries (both perceived susceptibility and seriousness) and promoting positive outcome expectations. Facilitating determinants are influenced by CHW efforts to increase parents’ ability to act on their motivation by demonstrating skills, enhancing self-efficacy to perform these skills, providing access to tooth brushes and toothpaste, and action goal setting. In addition to these psychosocial theories, three broad evidence-based targets from the Science of Behavior Change (SOBC) program relevant to understanding mechanisms to predict whether participants are successful at action goal setting, are included</p></caption><graphic xlink:href="12903_2021_1582_Fig1_HTML" id="MO1"/></fig></p>
+              <p id="Par22">The MSB Program and App were developed with support from the National Institutes of Health (NIH; UL1TR001873, RC1MD004257), evaluated for validity of its risk components [<xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>], assessed for feasibility and acceptability when delivered to a low-income primarily Hispanic population [<xref ref-type="bibr" rid="CR30">30</xref>–<xref ref-type="bibr" rid="CR32">32</xref>], and tested through a pragmatic effectiveness trial with families of 1,207 children supported by the federal Center for Medicare and Medicaid Innovation (C1CMS331347). Needed to assess the Program is a randomized controlled trial (RCT) that tests the efficacy of the MSB Program in a high-risk minority population and advances understanding of its mechanisms of action. This report describes the protocol for such an RCT as developed and initiated with support from the NIH National Institute of Dental and Craniofacial Research (R34DE023158, U01DE026739). This RCT was halted in March 2020 by the COVID-19 pandemic just as recruitment began. Since that time, a grant from the Cabrini Foundation of New York City has been secured to refashion the MSB Program for virtual telehealth visits. When and if resumed, this RCT will measure factors shown to influence motivation (perceived threat, ECC contextual knowledge, and positive outcome expectations) and ability to act on motivation (knowledge and skills, self-efficacy, action goal setting, and access to toothbrushes and toothpaste) to initiate and maintain positive oral health behaviors.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods/design</title>
+              <sec id="Sec3">
+                <title>Aims</title>
+                <p id="Par23">The overarching aim of this prospective, single-blinded, RCT is to evaluate the efficacy of the MSB Program – a theory-based, behaviorally focused family-centered intervention – to reduce the incidence of ECC progression in a high-risk population of young children with clinically evident caries. Objectives to fulfill this aim are:</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Impact objective (primary)</title>
+                <p id="Par24">To assess the MSB Program’s efficacy versus Control to decrease ECC progression, defined as positive change in number of decayed, missing, or filled teeth (∆dmft &gt; 0) measured 12-months post-randomization. We hypothesize that the MSB Program will decrease ECC progression in Intervention Group participants at 12-months post-randomization.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Translational objective (secondary 1)</title>
+                <p id="Par25">To assess the MSB Program’s efficacy versus Control to enhance adoption of twice-daily fluoridated toothpaste use and consumption of a low cariogenic diet. We hypothesize that the MSB Program will increase adoption of twice-daily fluoridated toothpaste use and consumption of a low cariogenic diet.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Explanatory objective (secondary 2)</title>
+                <p id="Par26">To assess causal pathways (i.e., mediators and moderators) through which the MSB Program influences twice-daily fluoridated toothpaste use and consumption of a low cariogenic diet. We hypothesize that the MSB Program will influence motivation, the ability to act on motivation, and support to maintain oral hygiene and dietary behaviors which may be conditioned by demographic, social, and contextual factors.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Subjects and setting</title>
+                <p id="Par27">This RCT will recruit 858 boys and girls aged 24–71 months with visually evident ECC from Columbia University Irving Medical Center (CUIMC) pediatric medical and dental clinics. They will be randomly assigned equally to Intervention and Control Groups along with their parent or primary caregiver (i.e., the person with legal responsibility for housing and safety, hereinafter referred to as parent). If parents present with more than one age-eligible child, the youngest child will be enrolled.</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Eligibility</title>
+                <p id="Par28">Eligible parents must be 18 years or older, have a cell phone with texting capabilities, and plan to remain in the New York City metropolitan area for 12 months after enrollment (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Although open to all racial/ethnic groups, the demographic makeup of the targeted catchment area increases the likelihood that the majority will self-identify as Hispanic. Eligible children must be 24–71 months of age, have a minimum of 12 teeth present, have no disqualifying medical condition (that would limit oral dietary intake, at-home oral hygiene practices, or receipt of oral examinations), and have apparent ECC or Severe ECC (S-ECC) as defined for research purposes [<xref ref-type="bibr" rid="CR33">33</xref>] on visual examination with light and dental mirror. Suspected ECC/S-ECC at recruitment will be later confirmed upon dental examination by a pediatric dentist trained in the International Caries Detection and Assessment System (ICDAS) if the child demonstrates the presence of one or more decayed (<italic>d</italic>) cavitated or non-cavitated lesions with ICDAS Category 2 or greater, missing (<italic>m</italic>) due to caries on history, or filled (<italic>f)</italic> tooth surfaces in any primary tooth or meets criteria for S-ECC. The ICDAS defines Category 2 as distinct visual change in enamel; Category 3 as localized enamel breakdown due to caries with no visible dentin; Category 4 as underlying dark shadow from dentin; Category 5 as distinct cavity with visible dentin; and Category 6 as extensive distinct cavity with visible dentin [<xref ref-type="bibr" rid="CR34">34</xref>].</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Recruitment</title>
+                <p id="Par29">Parent–child dyads will be recruited in the waiting rooms of one pediatric dental and four pediatric medical clinics of the Columbia University Irving Medical Center (CUIMC) in the Washington Heights neighborhood of New York City. Upon presentation, receptionists will give parents a printed statement substantiating their provider’s endorsement of the study and allowance of waiting room recruitment. Recruitment posters in both English and Spanish will be posted in waiting areas and examination rooms. Recruiters, who are bilingual community health workers (CHWs) will approach parents of young children to explain the study and invite participation. Community Health Workers will obtain informed consent for subsequent eligibility screening, collect parent’s primary and alternative contact information, schedule the screening appointment at the Columbia Community Partnership for Health (CCPH) research and community-engagement facility, and provide the parent with a pre-loaded MetroCard (value $5.50) to cover the cost, if any, of transportation to and from the CCPH. Parents will receive an appointment confirmation call or text message the day before the scheduled CCPH eligibility-screening visit.</p>
+                <p id="Par30">Additionally, snowball recruitment will be employed by asking parents to solicit others with age-appropriate children for examination at the enrollment facility. If parents express interest in involving other parents, they will be given a separate recruitment flyer and business card for their friend’s use in contacting an MSB Program CHW.</p>
+              </sec>
+              <sec id="Sec10">
+                <title>Enrollment</title>
+                <p id="Par31">At the CCPH screening visit, all parents will be given a gift card valued at $20.00, provided a written report of screening findings, and offered a written referral for routine follow-up dental care along with a printed list of area dentists who treat young children. Parents of children confirmed to have ECC will be invited to participate in the study, asked to provide written informed consent, and informed that they will be randomized to a Control or Intervention Group. Parents who enroll in the study will complete an interview with a CHW, which includes administration of the pre-intervention survey instrument. Their children will receive a visual oral examination with tooth surface-specific charting of caries experience at this baseline visit (T1). Parents will confirm agreement to attend a follow up visit at 12 months (T2) when they will again participate in a CHW interview and survey and their children will have a second study-specific dental examination and charting. Enrolled parents who meet these requirements will be given an additional $30.00 participation incentive. Randomization will be stratified by age (24-48 and 49-71 months) and recruitment site, with approximately equal numbers in each Group using a biased-coin design facilitated by computerized randomization software. Oral examinations will be performed in a consistent manner by one of two study dental examiners blinded to Group assignment.</p>
+              </sec>
+              <sec id="Sec11">
+                <title>Participant incentives</title>
+                <p id="Par32">In addition to the MetroCard (value $5.50) to facilitate transit to the CCPH, $20 gift card for presentation at CCPH, and $30 gift card for enrolling in the study, parents who complete the study by participating in T2 examination, interview, and survey will be given gift cards valued at $100 (i.e., up to $155.50 total value).</p>
+              </sec>
+              <sec id="Sec12">
+                <title>Intervention group</title>
+                <p id="Par33">At the CCPH visit—in addition to the child’s dental examination, parent’s interview, and completion of the intake survey—Intervention Group parent–child dyads will participate in an observed video-recorded tooth brushing demonstration, receive toothbrushes and toothpaste for the entire family, be provided study-specific educational materials, and receive their CHW’s business card for contact as desired. Based on observation of tooth brushing behaviors, the CHW will offer instruction that promotes skills, helps parents overcome barriers, and bolsters parental self-efficacy. The family will be provided with sufficient toothbrushes and over-the-counter fluoridated toothpaste for the entire family’s use at T1 and replenished quarterly for 12 months (until T2). Printed educational materials will describe the caries process, promote a low cariogenic diet (based on recommended frequency, duration, content, and timing of cariogenic foods and drink consumption), and detail elements of therapeutic tooth brushing (twice daily with appropriate amount of fluoridated toothpaste, by parents, for at least 1 min).</p>
+                <p id="Par34">At T1, Intervention Group parents will also engage with a CHW in the first round of the MSB Program. Using the MSB App, positioned to facilitate parents’ engagement, CHWs will involve parents in a conversation that fulfills the first four components of the MSB Program:<list list-type="order"><list-item><p id="Par35">Education: on caries pathogenesis using videos and models;</p></list-item><list-item><p id="Par36">Caries risk assessment: completion—in any order that feels appropriate to the conversation—of a caries risk assessment that includes considerations of feeding practices, fluoride use, family caries history, beliefs and attitudes regarding caries, and a modified 24-h dietary recall using a unique widget that derives an algorithm-driven dietary cariogenicity score;</p></list-item><list-item><p id="Par37">Goal setting: parent selection of a specific tailored oral health behavioral goal related to an identified high-risk behavior; and</p></list-item><list-item><p id="Par38">Action planning: development of a written action plan that specifies who in the family’s circle will do what, with whom, where, when and how to achieve the stated goal.</p></list-item></list></p>
+                <p id="Par39">The fifth Program component—Follow up and Facilitation—will be achieved over six months through at least three CHW-parent interactions and automated delivery of standardized study-specific text messages. Of the three interactions, at least one will be an in-home visit (or, if necessary, a virtual in-home visit) that will include a timed tooth brushing observation during which CHWs will provide additional guidance and instruction if necessary. Two additional interactions may be conducted by telephone or reciprocal text messaging. Interactions will focus on review and reinforcement of the family’s goal and the family’s progress toward fulfilling their self-defined action plan. Up to four additional interactions with parents may be provided by CHWs if needed to address pressing parental concerns related to food, housing, income, employment, or immigration insecurities by making referrals to appropriate community, social service, and legal aid programs. All interactions will be recorded to analyze possible impacts on study outcomes. The standardized text messages are comprised of 4 rounds of 12–13 messages each over the course of the 6-month intervention, with specific hygiene recommendations (<italic>Brush twice a day; Brush your child’s teeth; Use fluoride toothpaste; and Brush for at least one minute</italic>) and dietary/feeding recommendations (<italic>Don’t buy snacks and drinks that cause cavities; Make water your go-to drink; Make eating time, time to eat; Sit to eat, and Don’t snack all day</italic>) based on behavioral intervention targets. Tooth brushing video recordings, obtained at T1 and T2, will be assessed for quality and duration using the Tooth Brushing Observation System (TBOS) protocol developed by Collett, et al. [<xref ref-type="bibr" rid="CR35">35</xref>].</p>
+                <p id="Par40">CHWs will utilize additional MSB App features including instruction on how to conduct each Program component; a library of culturally-, linguistically-, and literacy-appropriate educational materials suitable for distribution to parents by handout, mail or text; and administrative functions for recordkeeping (case management, tracking families’ progress, and maintaining a log of activities) and data transmission to the study’s Data Coordinating Center (DCC).</p>
+                <p id="Par41">If the first four components of the MSB Program are not completed at T1, they will be completed at the in-home visit to be scheduled within one week of the CCHPH visit. If not conducted within one week, the CHW will note challenges and reasons for delay in the built-in electronic CHW log.</p>
+              </sec>
+              <sec id="Sec13">
+                <title>Control group</title>
+                <p id="Par42">At T1, parents in the Control Group will complete the same baseline interview and survey as parents in the Intervention Group but will not engage in the MSB Program. Rather than receiving MSB Program-specific educational materials, they will receive materials on caries prevention from the National Institute of Dental and Craniofacial Research. Rather than receiving oral hygiene supplies for the entire family over the course of the one-year study period, they will receive oral hygiene supplies once at T1 and only for the child. At T1, parents will be reminded of their obligation to return one year later for the T2 visit at which time the child’s dentition will be again examined and a videotaped tooth brushing observation will be conducted, recommendations made, and the video subsequently analyzed using the TBOS. The only interim contact Control Group parents will have with Program CHWs will be scheduling of their T2 visit.</p>
+                <p id="Par43">The schedule of enrollment, intervention and assessment activities is outlined in Table <xref rid="Tab1" ref-type="table">1</xref> below following the SPIRIT (Standard Protocol Items: Recommendations for Interventional Trials) guidance for clinical trial protocols.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Schedule of enrollment, intervention and assessment activities</p></caption><graphic position="anchor" xlink:href="12903_2021_1582_Tab1_HTML" id="MO10"/></table-wrap></p>
+              </sec>
+              <sec id="Sec14">
+                <title>Data management</title>
+                <p id="Par44">All data will be securely collected, transmitted and managed electronically in collaboration with the DCC using secure file transfer protocols and a relational database using REDCap Technology®.</p>
+                <p id="Par45">Five primary sources of data will be collected about participants during the 12-month study period:<list list-type="order"><list-item><p id="Par46"><italic>Clinical dental examination data</italic>: Comparison of surface-level findings using ICDAS classifications at T1 and T2 will allow analyses of caries status, extent, and progression.</p></list-item><list-item><p id="Par47"><italic>Tooth brushing observation data</italic>: TBOS findings for the Intervention Group at T1 and T2 will allow analyses of changes over time while comparison of tooth brushing between Intervention and Control Groups at T2 will allow analysis of difference between toothbrushing efficacy and adherence to recommendations between the Groups.</p></list-item><list-item><p id="Par48"><italic>Interview and Survey data</italic>: Data from CHW interviews and surveys will support evaluation of participants’ sociodemographic characteristics and key motivational (e.g., perceived threat, positive outcome expectations) and facilitating (e.g., knowledge and skills, self-efficacy, action goal setting) determinants that may contribute to explaining mechanisms and putative pathways through which the MSB Program influences the study’s targeted behaviors (Fig. <xref rid="Fig2" ref-type="fig">2</xref>).</p></list-item><list-item><p id="Par49"><italic>MySmileBuddy App data</italic>: Data derived directly from the MSB App will describe the Intervention Group’s dietary intake, daily fluoride use, risk profiles, prevention goals, and action plans.</p></list-item><list-item><p id="Par50"><italic>CHW implementation and process data</italic>: Implementation and process data will be collected through electronic forms and logs to track date, time, duration, and disposition of each parent contact and record information on intervention tailoring and referrals for non-dental services.</p></list-item></list><fig id="Fig2"><label>Fig. 2</label><caption><p>Study schema. This figure presents an overview of study activities and corresponding timeline. The study schema is organized by timepoint: Baseline (T1); 0–6 Months; and 12 Months (T2) post-randomization. The Baseline (T1) timepoint encompasses recruitment, eligibility criteria, enrollment and randomization procedures, and baseline data collection measures. Baseline study activities include both T1 Intervention and Control conditions. The 0–6 Months timeframe represents follow-up activities of the Intervention group condition. Activities represented under the 12 Month (T2) timepoint include final all follow-up data collection measures and activities for both the Intervention and Control group. Intervention and Control Group study activities are described across all timepoints and differences in conditions delineated by arrows depicting flow of study activities</p></caption><graphic xlink:href="12903_2021_1582_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par51">An overview of data to be collected, data sources, and the time points at which they will be collected is presented in Table <xref rid="Tab2" ref-type="table">2</xref>.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Data collection overview</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Type</th><th align="left">Source</th><th align="left">Subjects</th><th align="left">Timepoint</th></tr></thead><tbody><tr><td align="left">Clinical dental examination data</td><td align="left">Dental exam charting form</td><td align="left">All children screened</td><td align="left">T1</td></tr><tr><td align="left"/><td align="left"/><td align="left">Intervention and Control Group</td><td align="left">T1, T2</td></tr><tr><td align="left">Tooth brushing observation data</td><td align="left">Video recording and TBOS Checklist</td><td align="left">Intervention Group</td><td align="left">T1, T2</td></tr><tr><td align="left"/><td align="left"/><td align="left">Control Group</td><td align="left">T2</td></tr><tr><td align="left"/><td align="left">Tooth brushing duration documented by CHW</td><td align="left">Intervention Group</td><td align="left">Home Visit</td></tr><tr><td align="left">Interview/survey data</td><td align="left">Baseline Survey</td><td align="left">Intervention and Control Group</td><td align="left">T1</td></tr><tr><td align="left"/><td align="left">12-month Follow-up Survey</td><td align="left">Intervention and Control Group</td><td align="left">T2</td></tr><tr><td align="left"/><td align="left">Experience Survey</td><td align="left">Intervention Group</td><td align="left">T2</td></tr><tr><td align="left">MySmileBuddy technology data</td><td align="left">MySmileBuddy Program App</td><td align="left">Intervention Group</td><td align="left">T1, T2</td></tr><tr><td align="left">CHW implementation and process data</td><td align="left">Screening Phase I Form</td><td align="left">All parent/child dyads approached for recruitment</td><td align="left">T0</td></tr><tr><td align="left"/><td align="left">Contact Information Form</td><td align="left">All parent/child dyads recruited for dental examination eligibility screening</td><td align="left">T0</td></tr><tr><td align="left"/><td align="left">Screening Phase II Form</td><td align="left">All parent/child dyads presenting to CCPH for dental examination eligibility screening</td><td align="left">T1</td></tr><tr><td align="left"/><td align="left">Visit Log</td><td align="left">Intervention Group</td><td align="left">T1, home visit, throughout Intervention period, T2</td></tr><tr><td align="left"/><td align="left"/><td align="left">Control Group</td><td align="left">T1, T2</td></tr><tr><td align="left"/><td align="left">Outreach Failure Log</td><td align="left">Intervention and Control Group</td><td align="left">Throughout study period</td></tr></tbody></table></table-wrap></p>
+                <p id="Par52">Various data collection forms will collect additional data including:<list list-type="order"><list-item><p id="Par53"><italic>Screening phase I form:</italic> used by recruiters to assess eligibility of all parents approached for recruitment and will be used to track study recruitment efforts;</p></list-item><list-item><p id="Par54"><italic>Contact information form:</italic> used by recruiters to collect contact information from parents recruited but not yet screened and enrolled;</p></list-item><list-item><p id="Par55"><italic>Screening phase II form:</italic> used by study staff at the CCPH to report recruited dyads’ eligibility for enrollment, track enrollment, and collect select outcomes measures on dyads who were screened but found ineligible or declined enrollment;</p></list-item><list-item><p id="Par56"><italic>Visit log:</italic> used by CHWs to track implementation of study activities and resources utilized during all interactions throughout the study period;</p></list-item><list-item><p id="Par57"><italic>Outreach failure log:</italic> used by CHWs to track attempts to reach study participants.</p></list-item></list></p>
+                <p id="Par58">Data will also be collected on the MSB Program CHWs at three points in their training: before training to assess baseline CHW measures; post-training to assess training outcomes; and post-intervention to assess CHWs’ study experience.</p>
+                <p id="Par59">Figure <xref rid="Fig2" ref-type="fig">2</xref> presents a summary overview of the study schema, outlining study activities at each timepoint.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Statistical power and data analysis</title>
+                <p id="Par60">With power ≥ 80% and 2-tailed alpha = 0.05, a sample size of 300 parent–child dyads per Group is sufficient under various scenarios to detect differences between Control and Intervention Groups (45% vs. 33%, 55% vs. 43%, 65% vs. 53% or 75% vs. 64%) based on a 63.2% one-year caries progression rate among 2–5 year old children treated at the Columbia pediatric dental clinic – a rate consistent with findings from this and other high-risk populations [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR30">30</xref>, <xref ref-type="bibr" rid="CR36">36</xref>, <xref ref-type="bibr" rid="CR37">37</xref>]. Accounting for 30% loss to follow up (an estimate higher than experienced in our earlier study), each group will require enrollment of 429 subjects.</p>
+              </sec>
+              <sec id="Sec16">
+                <title>Comparisons</title>
+                <p id="Par61">Logistic regression analysis will compare the odds of having ECC progression between the Intervention and Control Group. The analysis incorporates age and recruitment site to reflect randomization on these variables. If there are any significant Group differences in participant characteristics at baseline, a sensitivity analysis adjusting for potential confounder variables in the regression models will be conducted to help interpret the primary analysis finding. To compare the increase in number of dmft/dfs, we will use a repeated measurements analytic approach.</p>
+                <p id="Par62">To model the observed count data, we will use a Poisson mixed model (<xref ref-type="bibr" rid="CR38">38</xref>, Ch.9) that introduces the number of dmft/dfs and considers these counts to be Poisson distributed conditional upon Gaussian random effects. The model includes indicators for time, Group, recruitment site, age, and Group-by-time. The regression coefficient corresponding to the interaction term is the key parameter of interest for assessing the efficacy of the MSB Program as it represents the post- to pre-treatment ratio of the average rate of dmft/dfs between the Intervention and Control Groups. A random effect is included to account for within-subject correlation and for the possibility of heterogeneity among subjects in the ratio of expected dmft/dfs counts before and after randomization. R packages will be used to fit and carry out inference for the proposed models.</p>
+                <p id="Par63">Mediation analysis will be used to test of joint significance of the two paths involving a potential mediator, which was found to achieve the best balance of Type I error and statistical power across the 14 reviewed methods [<xref ref-type="bibr" rid="CR39">39</xref>]. Potential mediators are risk perception for ECC, self-efficacy for tooth-brushing, skills for tooth brushing, self-efficacy for eating a low cariogenic diet, skills for eating a low cariogenic diet, goal setting reflecting self-regulation processes, physical environmental support, social environmental support, knowledge, positive outcome expectations, and ability to overcome barriers to tooth brushing and adoption of a low-cariogenic diet. This allows for expected partial rather than total mediation, a variable will be declared a mediator if and only if both the test of the regression coefficient of the explanatory factor on the mediator <italic>and</italic> the test of the coefficient of the mediator on the outcome variable are both significant at level alpha = 0.05, two-tailed.</p>
+                <p id="Par64">Missing outcome data due to subject dropout can introduce bias that results in misleading inferences since subjects may drop out for reasons related to the outcome of interest. We will use random effect logistic regression models to examine whether missing data are completely random, missing at random, or non-ignorable (38, Ch. 13). In the first two cases our proposed approach based on maximum likelihood estimation is still valid, and multiple imputation of missing outcomes is also valid, as long as the models are correctly specified. If the missingness mechanism is found to be non-ignorable we will use tipping point analysis as sensitivity analysis to assess the potential impact of missingness on our results.</p>
+              </sec>
+            </sec>
+            <sec id="Sec17">
+              <title>Discussion</title>
+              <p id="Par65">Over six years of preliminary research [<xref ref-type="bibr" rid="CR29">29</xref>, <xref ref-type="bibr" rid="CR30">30</xref>], an NIDCR-funded planning grant (R34DE023158), and refinement in collaboration with NIDCR (U01DE026739), protocols were developed to minimize recognized large RCT challenges in participant recruitment, enrollment, and retention. Reaching the study’s targeted enrollment is achievable at a pace of 8–9 dyads enrolled weekly over 24 months given that more than 800 age-eligible children visit the recruitment sites each month, at least half of 4–5 year olds and one-quarter of 2–3 year olds in the target population experience ECC, and a preliminary study of 108 families found a 95.6% acceptance rate without financial incentive [<xref ref-type="bibr" rid="CR30">30</xref>]. While the preliminary study involved only one recruiter 2.5 days/week for five months, this study will engage three CHW recruiters and three support staff five days each week for 24 months and will provide financial incentives. Recruitment and enrollment rates will be monitored weekly and additional resources invested as necessary.</p>
+              <p id="Par66">This study encourages retention through financial incentives, user-friendly technology, rapport between CHWs and parents, assistance to families to address social service needs, and an approach that is non-judgmental and encouraging. Initial and semiannual CHW training will help ensure that study protocols are well understood and that appropriate communications and referral skills are established. Adherence to study protocols will be monitored for fidelity by a CHW supervisor and the Study Team through recurrent retraining and bi-weekly meetings that identify and address problems as they arise and weekly review of CHW logs and DCC data for timeliness, completeness, and accuracy (e.g., reported data that are within allowable limits). Corrective action plans will be developed and implemented as needed.</p>
+              <p id="Par67">The primary assessment of intervention effects will use an intention-to-treat approach. Implementation data will allow testing of dose–response effects if some subjects do not complete all intervention activities thereby enabling assessment of potential moderating effects attributable to delivery of varying levels of intervention intensity.</p>
+              <p id="Par68">Through these efforts, the study team seeks to maximize its ability to meet the study’s <italic>Impact</italic>, <italic>Translational</italic>, and <italic>Exploratory</italic> objectives and build understanding of oral health behavior change that holds promise to improve individual children’s oral health and the oral health of socially disadvantaged populations.</p>
+            </sec>
+          </body>
+          <back>
+            <app-group>
+              <app id="App1">
+                <sec id="Sec18">
+                  <title>Appendix</title>
+                </sec>
+                <sec id="Sec19">
+                  <title>Items from world health organization trial registration data set</title>
+                  <p id="Par72">
+                    <table-wrap id="Taba">
+                      <table frame="hsides" rules="groups">
+                        <thead>
+                          <tr>
+                            <th align="left">Data category</th>
+                            <th align="left">Information</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <td align="left">Primary registry and trial identifying number</td>
+                            <td align="left">Trial registration was completed through the U.S. National Library of Medicine ClinicalTrials.gov website (Identifier: NCT04845594)</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Date of registration in primary registry</td>
+                            <td align="left">4/13/2021</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Secondary identifying numbers</td>
+                            <td align="left">Not Applicable</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Source(s) of monetary or material support</td>
+                            <td align="left">National Institute of Dental &amp; Craniofacial Research of the National Institutes of Health (U01DE026739)</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Primary sponsor</td>
+                            <td align="left">National Institute of Dental &amp; Craniofacial Research of the National Institutes of Health (U01DE026739)</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Secondary sponsor(s)</td>
+                            <td align="left">Not Applicable</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Contact for public queries</td>
+                            <td align="left"><italic>CLL,</italic> PhD, MS, RD, CDN</td>
+                          </tr>
+                          <tr>
+                            <td align="left"/>
+                            <td align="left">Columbia University College of Dental Medicine</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Contact for scientific queries</td>
+                            <td align="left"><italic>CLL,</italic> PhD, MS, RD, CDN</td>
+                          </tr>
+                          <tr>
+                            <td align="left"/>
+                            <td align="left">Columbia University College of Dental Medicine</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Public title</td>
+                            <td align="left">Family-centered Behavioral Intervention to Reduce Early Childhood Caries: The MySmileBuddy Program efficacy trial</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Scientific title</td>
+                            <td align="left">Randomized Efficacy Trial of MySmileBuddy, a Family Centered Behavioral Intervention to Reduce Early Childhood Caries</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Countries of recruitment</td>
+                            <td align="left">United States</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Health condition(s) or problem(s) studied</td>
+                            <td align="left">Early childhood dental caries</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Intervention(s)</td>
+                            <td align="left">Intervention: Tooth brushing observation at T1 and during home visit with feedback and instruction immediately following observations; two administrations of the MSB technology (i.e., iPad app) by CHWs at the CCPH site (~ 30 min, face-to-face contact at T1 and T2, with T2 administered for data collection purposes only); six months of automated text messages (4 rounds of messages with approximately 50 messages each regarding key intervention topics: Brush twice a day; Brush your child’s teeth; Use fluoride toothpaste; Brush for at least one minute; Don’t buy snacks and drinks that cause cavities; Make water your go-to drink; Make eating time, time to eat; Sit to eat, don’t snack all day); one in-person, in-home visit and two telephone/text message follow-ups by CHWs; up to 4 additional supportive CHW contacts, in-person or by phone/text message are allowed, as needed, to address urgent social issues and will be recorded to discern potential impact on study outcomes</td>
+                          </tr>
+                          <tr>
+                            <td align="left"/>
+                            <td align="left">Control: Mimic standard of care, providing paper-based educational handout plus toothbrushes and fluoridated toothpaste for the child at T1</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Key inclusion and exclusion criteria</td>
+                            <td align="left">Ages eligible for study: well-children 24–71 months of age with a minimum of 12 teeth and apparent early childhood caries (ECC) or Severe ECC (S-ECC) as defined for research purposes; parents/caregivers ≥ 18 years of age with text-capable phone planning to reside in the New York area for next 12 months</td>
+                          </tr>
+                          <tr>
+                            <td align="left"/>
+                            <td align="left">Exclusion criteria: Children with a disqualifying medical condition (that would limit oral dietary intake, at-home oral hygiene practices, or receipt of oral examinations)</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Study type</td>
+                            <td align="left">Single-blind (clinical outcomes assessor) randomized controlled trial with randomization stratified by age (24 – 48 and 49 – 71 months) and recruitment site, with approximately equal numbers in each Group using a biased-coin design facilitated by computerized randomization software</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Date of first enrolment</td>
+                            <td align="left">Pending</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Target sample size</td>
+                            <td align="left">858 parent/child dyads</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Recruitment status</td>
+                            <td align="left">Pending</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Primary outcome(s)</td>
+                            <td align="left">Change in number of decayed, missing, or filled teeth (∆dmft &gt; 0) or surfaces (∆dfs &gt; 0)) measured 12-months post-randomization</td>
+                          </tr>
+                          <tr>
+                            <td align="left">Key secondary outcomes</td>
+                            <td align="left">Change in twice daily therapeutic toothbrushing (twice daily with appropriate amount of fluoridated toothpaste, by parents, for at least 1 min) and consumption of a low cariogenic diet (based on recommended frequency, duration, content, and timing of cariogenic foods and drink consumption)</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </table-wrap>
+                  </p>
+                </sec>
+              </app>
+            </app-group>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>
+                    <bold>CCPH</bold>
+                  </term>
+                  <def>
+                    <p id="Par5">Columbia Community Partnership for Health</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>CHW</bold>
+                  </term>
+                  <def>
+                    <p id="Par6">Community Health Worker</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>DCC</bold>
+                  </term>
+                  <def>
+                    <p id="Par7">Data Coordinating Center</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>dmft/dfs</bold>
+                  </term>
+                  <def>
+                    <p id="Par8">Decayed, missing or filled teeth/decayed or filled surfaces</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>ECC</bold>
+                  </term>
+                  <def>
+                    <p id="Par9">Early childhood caries</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>ICDAS</bold>
+                  </term>
+                  <def>
+                    <p id="Par10">International Caries Detection and Assessment System</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>MSB</bold>
+                  </term>
+                  <def>
+                    <p id="Par11">MySmileBuddy</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>NIDCR</bold>
+                  </term>
+                  <def>
+                    <p id="Par12">National Institutes of Dental and Craniofacial Research</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>NIH</bold>
+                  </term>
+                  <def>
+                    <p id="Par13">National Institutes of Health</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>RCT</bold>
+                  </term>
+                  <def>
+                    <p id="Par14">Randomized controlled trial</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>S-ECC</bold>
+                  </term>
+                  <def>
+                    <p id="Par15">Severe early childhood caries</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>
+                    <bold>TBOS</bold>
+                  </term>
+                  <def>
+                    <p id="Par16">Toothbrushing observation system</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Research reported in this publication was supported by the National Institute of Dental &amp; Craniofacial Research of the National Institutes of Health under Award Number U01DE026739. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors' contributions</title>
+              <p>CLL was a major contributor to developing the study protocol, writing the manuscript and designing the study schematic. BLE was a major contributor to conceptualizing and designing the study, developing the protocol, and writing the manuscript. CEB was a major contributor to designing the intervention activity protocol. RLW and PAK were major contributors to developing the protocol and creating the study’s theoretical model. IM and CL developed the statistical analysis plan, including power analysis calculations, and were major contributors to writing corresponding components of the manuscript. HA developed the data management and security protocols. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>The research protocol reported in this publication was supported by the National Institute of Dental &amp; Craniofacial Research of the National Institutes of Health under Award Number U01DE026739, which funded development of the protocol but not conduct of the clinical trial it describes. The funder’s role in the study was to provide oversight throughout the protocol development process and conduct a final review and approval of the complete protocol. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>Not applicable.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par69">All planned study activities described in this protocol (Version 1.7; September 17, 2019) have been approved by the Columbia University Irving Medical Center Office for Human Research Protection (IRB- AAAR7549) and will report adverse events or unintended consequences of the trial in accordance with University policies. Written informed consent will be obtained from all parents prior to enrollment and participation in the study.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par70">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par71">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <mixed-citation publication-type="other">Fleming E. Prevalence of total and untreated dental caries among youth: United States, 2015–2016. 2018;(307):8.</mixed-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Casamassimo</surname>
+                      <given-names>PS</given-names>
+                    </name>
+                    <name>
+                      <surname>Thikkurissy</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                    <name>
+                      <surname>Maiorini</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Beyond the dmft: the human and economic cost of early childhood caries</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2009</year>
+                  <volume>140</volume>
+                  <issue>6</issue>
+                  <fpage>650</fpage>
+                  <lpage>657</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.2009.0250</pub-id>
+                  <pub-id pub-id-type="pmid">19491160</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Peretz</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Ram</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Azo</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Efrat</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preschool caries as an indicator of future caries: a longitudinal study</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2003</year>
+                  <volume>25</volume>
+                  <issue>2</issue>
+                  <fpage>114</fpage>
+                  <lpage>118</lpage>
+                  <?supplied-pmid 12723835?>
+                  <pub-id pub-id-type="pmid">12723835</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jordan</surname>
+                      <given-names>AR</given-names>
+                    </name>
+                    <name>
+                      <surname>Becker</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Jöhren</surname>
+                      <given-names>H-P</given-names>
+                    </name>
+                    <name>
+                      <surname>Zimmer</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Early childhood caries and caries experience in permanent dentition: a 15-year cohort study</article-title>
+                  <source>Swiss Dent J</source>
+                  <year>2016</year>
+                  <volume>126</volume>
+                  <issue>2</issue>
+                  <fpage>114</fpage>
+                  <lpage>119</lpage>
+                  <?supplied-pmid 26915485?>
+                  <pub-id pub-id-type="pmid">26915485</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <mixed-citation publication-type="other">American Academy of Pediatric Dentistry. Guideline on caries-risk assessment and management for infants, children, and adolescents. Chicago, Ill.: American Academy of Pediatric Dentistry; 2020 p. 142–9.</mixed-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <mixed-citation publication-type="other">American Academy of Pediatric Dentistry. Policy on early childhood caries (ECC): unique challenges and treatment options. Chicago, Ill.: American Academy of Pediatric Dentistry; 2020 p. 82–3.</mixed-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <mixed-citation publication-type="other">American Academy of Pediatric Dentistry. Guideline on behavior guidance for the pediatric dental patient. Chicago, Ill.: American Academy of Pediatric Dentistry; 2020 p. 292–310.</mixed-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Touger-Decker</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Mobley</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Position of the Academy of Nutrition and Dietetics: Oral Health and Nutrition</article-title>
+                  <source>J Acad Nutr Diet</source>
+                  <year>2013</year>
+                  <volume>113</volume>
+                  <issue>5</issue>
+                  <fpage>693</fpage>
+                  <lpage>701</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jand.2013.03.001</pub-id>
+                  <pub-id pub-id-type="pmid">23601893</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ogata</surname>
+                      <given-names>BN</given-names>
+                    </name>
+                    <name>
+                      <surname>Hayes</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Position of the academy of nutrition and dietetics: nutrition guidance for healthy children ages 2 to 11 years</article-title>
+                  <source>J Acad Nutr Diet</source>
+                  <year>2014</year>
+                  <volume>114</volume>
+                  <issue>8</issue>
+                  <fpage>1257</fpage>
+                  <lpage>1276</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jand.2014.06.001</pub-id>
+                  <pub-id pub-id-type="pmid">25060139</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hooley</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Skouteris</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Boganin</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Satur</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kilpatrick</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Parental influence and the development of dental caries in children aged 0–6 years: a systematic review of the literature</article-title>
+                  <source>J Dent</source>
+                  <year>2012</year>
+                  <volume>40</volume>
+                  <issue>11</issue>
+                  <fpage>873</fpage>
+                  <lpage>885</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2012.07.013</pub-id>
+                  <pub-id pub-id-type="pmid">22842202</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <mixed-citation publication-type="other">Hirsch GB, Edelstein BL, Frosh M, Anselmo T. A Simulation model for designing effective interventions in early childhood caries. Prev Chronic Dis [Internet]. 2012 Mar 1 [cited 2021 Feb 12];9. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366771/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366771/</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <mixed-citation publication-type="other">Feldens CA, Giugliani ERJ, Duncan BB, Drachler MDL, Vítolo MR. Long-term effectiveness of a nutritional program in reducing early childhood caries: a randomized trial. Community Dentistry and Oral Epidemiology. 2010;38(4):324–32.</mixed-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wennhall</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Mårtensson</surname>
+                      <given-names>E-M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sjunnesson</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsson</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Schröder</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Twetman</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries-preventive effect of an oral health program for preschool children in a low socio-economic, multicultural area in Sweden: results after one year</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2005</year>
+                  <volume>63</volume>
+                  <issue>3</issue>
+                  <fpage>163</fpage>
+                  <lpage>167</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016350510019900</pub-id>
+                  <pub-id pub-id-type="pmid">16191910</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <mixed-citation publication-type="other">Davies GM, Duxbury JT, Boothman NJ, Davies RM, Blinkhorn AS. A staged intervention dental health promotion programme to reduce early childhood caries. - Abstract - Europe PMC [Internet]. [cited 2021 Feb 12]. Available from: <ext-link ext-link-type="uri" xlink:href="https://europepmc.org/article/med/15984138">https://europepmc.org/article/med/15984138</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <mixed-citation publication-type="other">Feldens CA, Vítolo MR, Drachler M de L. A randomized trial of the effectiveness of home visits in preventing early childhood caries. Community Dentistry and Oral Epidemiology. 2007;35(3):215–23.</mixed-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kowash</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Pinfield</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Curzon</surname>
+                      <given-names>MEJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effectiveness on oral health of a long-term health education programme for mothers with young children</article-title>
+                  <source>Br Dent J</source>
+                  <year>2000</year>
+                  <volume>188</volume>
+                  <issue>4</issue>
+                  <fpage>201</fpage>
+                  <lpage>205</lpage>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4800431</pub-id>
+                  <pub-id pub-id-type="pmid">10740903</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mohebbi</surname>
+                      <given-names>SZ</given-names>
+                    </name>
+                    <name>
+                      <surname>Virtanen</surname>
+                      <given-names>JI</given-names>
+                    </name>
+                    <name>
+                      <surname>Vahid-Golpayegani</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Vehkalahti</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A Cluster randomised trial of effectiveness of educational intervention in primary health care on early childhood caries</article-title>
+                  <source>CRE</source>
+                  <year>2009</year>
+                  <volume>43</volume>
+                  <issue>2</issue>
+                  <fpage>110</fpage>
+                  <lpage>118</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Plutzer</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Spencer</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Keirse</surname>
+                      <given-names>MJNC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reassessment at 6–7 years of age of a randomized controlled trial initiated before birth to prevent early childhood caries</article-title>
+                  <source>Commun Dent Oral Epidemiol</source>
+                  <year>2012</year>
+                  <volume>40</volume>
+                  <issue>2</issue>
+                  <fpage>116</fpage>
+                  <lpage>124</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2011.00643.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Slade</surname>
+                      <given-names>GD</given-names>
+                    </name>
+                    <name>
+                      <surname>Bailie</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts-Thomson</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Leach</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Raye</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Endean</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Effect of health promotion and fluoride varnish on dental caries among Australian Aboriginal children: results from a community-randomized controlled trial</article-title>
+                  <source>Commun Dent Oral Epidemiol</source>
+                  <year>2011</year>
+                  <volume>39</volume>
+                  <issue>1</issue>
+                  <fpage>29</fpage>
+                  <lpage>43</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2010.00561.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Freudenthal</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Bowen</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Motivational interviewing to decrease parental risk-related behaviors for early childhood caries</article-title>
+                  <source>Am Dental Hyg Assoc</source>
+                  <year>2010</year>
+                  <volume>84</volume>
+                  <issue>1</issue>
+                  <fpage>29</fpage>
+                  <lpage>34</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ismail</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                    <name>
+                      <surname>Ondersma</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Jedele</surname>
+                      <given-names>JMW</given-names>
+                    </name>
+                    <name>
+                      <surname>Little</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lepkowski</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of a brief tailored motivational intervention to prevent early childhood caries</article-title>
+                  <source>Commun Dent Oral Epidemiol</source>
+                  <year>2011</year>
+                  <volume>39</volume>
+                  <issue>5</issue>
+                  <fpage>433</fpage>
+                  <lpage>448</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2011.00613.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <mixed-citation publication-type="other">H S. Effectiveness of structured comprehensive paediatric oral health education for parents of children less than two years of age in Germany. Community Dent Health. 2010 Jun 1;27(2):74–80.</mixed-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preventing childhood caries: a review of recent behavioral research</article-title>
+                  <source>J Dent Res</source>
+                  <year>2016</year>
+                  <volume>95</volume>
+                  <issue>1</issue>
+                  <fpage>35</fpage>
+                  <lpage>42</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034515609034</pub-id>
+                  <pub-id pub-id-type="pmid">26438210</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>MW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chronic disease management strategies of early childhood caries: support from the medical and dental literature</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2015</year>
+                  <volume>37</volume>
+                  <issue>3</issue>
+                  <fpage>281</fpage>
+                  <lpage>287</lpage>
+                  <?supplied-pmid 26063557?>
+                  <pub-id pub-id-type="pmid">26063557</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Faghihian</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Faghihian</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Kazemi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tarrahi</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Zakizade</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of motivational interviewing on early childhood caries: a systematic review and meta-analysis</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2020</year>
+                  <volume>151</volume>
+                  <issue>9</issue>
+                  <fpage>650</fpage>
+                  <lpage>659</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2020.06.003</pub-id>
+                  <pub-id pub-id-type="pmid">32854867</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <mixed-citation publication-type="other">Ng MW, Ramos-Gomez F, Lieberman M, Lee JY, Scoville R, Hannon C, et al. Disease management of early childhood caries: ECC Collaborative Project [Internet]. Vol. 2014, International Journal of Dentistry. Hindawi; 2014 [cited 2021 Feb 16]. p. e327801. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.hindawi.com/journals/ijd/2014/327801/">https://www.hindawi.com/journals/ijd/2014/327801/</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <mixed-citation publication-type="other">Leveraging Technology to Reach At-Risk Families: Preventing and managing early childhood tooth decay in New York City | Healthy People 2020 [Internet]. [cited 2021 Feb 17]. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.healthypeople.gov/2020/law-and-health-policy/topic/oral-health/bright-spot/leveraging-technology-to-reach-at-risk-families">https://www.healthypeople.gov/2020/law-and-health-policy/topic/oral-health/bright-spot/leveraging-technology-to-reach-at-risk-families</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <mixed-citation publication-type="other">Integrating Community Health Workers into Complex Care Teams: Key Considerations [Internet]. Center for Health Care Strategies. 2017 [cited 2021 Feb 17]. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.chcs.org/resource/integrating-community-health-workers-complex-care-teams-key-considerations/">https://www.chcs.org/resource/integrating-community-health-workers-complex-care-teams-key-considerations/</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Levine</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Wolf</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                    <name>
+                      <surname>Chinn</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>MySmileBuddy: an ipad-based interactive program to assess dietary risk for early childhood caries</article-title>
+                  <source>J Acad Nutr Diet</source>
+                  <year>2012</year>
+                  <volume>112</volume>
+                  <issue>10</issue>
+                  <fpage>1539</fpage>
+                  <lpage>1542</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jand.2012.06.010</pub-id>
+                  <pub-id pub-id-type="pmid">23017564</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <mixed-citation publication-type="other">Custodio-Lumsden CL, Wolf RL, Contento IR, Basch CE, Zybert PA, Koch PA, et al. Validation of an early childhood caries risk assessment tool in a low-income Hispanic population. J Public Health Dentistry. 2016 SPR;76(2):136–42.</mixed-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lumsden</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Wolf</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Contento</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Basch</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Zybert</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Koch</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Feasibility, acceptability, and short-term behavioral impact of the mysmilebuddy intervention for early childhood caries</article-title>
+                  <source>J Health Care Poor Underserved</source>
+                  <year>2019</year>
+                  <volume>30</volume>
+                  <issue>1</issue>
+                  <fpage>59</fpage>
+                  <lpage>69</lpage>
+                  <pub-id pub-id-type="doi">10.1353/hpu.2019.0007</pub-id>
+                  <pub-id pub-id-type="pmid">30827969</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lumsden</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Andrews</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Leu</surname>
+                      <given-names>C-S</given-names>
+                    </name>
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Changes in knowledge and beliefs of community health workers following an oral health intervention training program</article-title>
+                  <source>J Prev Interv Community</source>
+                  <year>2019</year>
+                  <volume>47</volume>
+                  <issue>1</issue>
+                  <fpage>54</fpage>
+                  <lpage>65</lpage>
+                  <pub-id pub-id-type="doi">10.1080/10852352.2018.1547309</pub-id>
+                  <pub-id pub-id-type="pmid">30806193</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Drury</surname>
+                      <given-names>TF</given-names>
+                    </name>
+                    <name>
+                      <surname>Horowitz</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ismail</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                    <name>
+                      <surname>Maertens</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Rozier</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <name>
+                      <surname>Selwitz</surname>
+                      <given-names>RH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Diagnosing and reporting early childhood caries for research purposes: a report of a workshop sponsored by the National Institute of Dental and Craniofacial Research, the Health Resources and Services Administration, and the Health Care Financing Administration</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>1999</year>
+                  <volume>59</volume>
+                  <issue>3</issue>
+                  <fpage>192</fpage>
+                  <lpage>197</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.1999.tb03268.x</pub-id>
+                  <pub-id pub-id-type="pmid">10649591</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gugnani</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Pandit</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Srivastava</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Gupta</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sharma</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>International caries detection and assessment system (ICDAS): a new concept</article-title>
+                  <source>Int J Clin Pediatr Dent</source>
+                  <year>2011</year>
+                  <volume>4</volume>
+                  <issue>2</issue>
+                  <fpage>93</fpage>
+                  <lpage>100</lpage>
+                  <pub-id pub-id-type="doi">10.5005/jp-journals-10005-1089</pub-id>
+                  <pub-id pub-id-type="pmid">27672245</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Collett</surname>
+                      <given-names>BR</given-names>
+                    </name>
+                    <name>
+                      <surname>Huebner</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Seminario</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Wallace</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Gray</surname>
+                      <given-names>KE</given-names>
+                    </name>
+                    <name>
+                      <surname>Speltz</surname>
+                      <given-names>ML</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Observed child and parent toothbrushing behaviors and child oral health</article-title>
+                  <source>Int J Pediatr Dent</source>
+                  <year>2016</year>
+                  <volume>26</volume>
+                  <issue>3</issue>
+                  <fpage>184</fpage>
+                  <lpage>192</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12175</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>MW</given-names>
+                    </name>
+                    <name>
+                      <surname>Torresyap</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Melvin</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Graham</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Kane</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Disease management of early childhood caries: results of a pilot quality improvement project</article-title>
+                  <source>J Health Care Poor Underserved</source>
+                  <year>2012</year>
+                  <volume>23</volume>
+                  <issue>3</issue>
+                  <fpage>193</fpage>
+                  <lpage>209</lpage>
+                  <pub-id pub-id-type="doi">10.1353/hpu.2012.0122</pub-id>
+                  <pub-id pub-id-type="pmid">22864497</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Edelstein</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirsch</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Frosh</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reducing early childhood caries in a medicaid population a systems model analysis</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2015</year>
+                  <volume>146</volume>
+                  <issue>4</issue>
+                  <fpage>224</fpage>
+                  <lpage>232</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.adaj.2014.12.024</pub-id>
+                  <pub-id pub-id-type="pmid">25819653</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <mixed-citation publication-type="other">Zeger SL, Liang K, Diggle P. Analysis of longitudinal data. Oxford University Press; 2013.</mixed-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>MacKinnon</surname>
+                      <given-names>DP</given-names>
+                    </name>
+                    <name>
+                      <surname>Lockwood</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Hoffman</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>West</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheets</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison of methods to test mediation and other intervening variable effects</article-title>
+                  <source>Psychol Methods</source>
+                  <year>2002</year>
+                  <volume>7</volume>
+                  <issue>1</issue>
+                  <fpage>83</fpage>
+                  <lpage>104</lpage>
+                  <pub-id pub-id-type="doi">10.1037/1082-989X.7.1.83</pub-id>
+                  <pub-id pub-id-type="pmid">11928892</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

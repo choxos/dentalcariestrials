@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:41:02Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9748933" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9748933</identifier>
+        <datestamp>2022-12-15</datestamp>
+        <setSpec>bmjo</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMJ Open</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMJ Open</journal-id>
+              <journal-id journal-id-type="hwp">bmjopen</journal-id>
+              <journal-id journal-id-type="publisher-id">bmjopen</journal-id>
+              <journal-title-group>
+                <journal-title>BMJ Open</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2044-6055</issn>
+              <publisher>
+                <publisher-name>BMJ Publishing Group</publisher-name>
+                <publisher-loc>BMA House, Tavistock Square, London, WC1H 9JR</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9748933</article-id>
+              <article-id pub-id-type="pmcid">PMC9748933</article-id>
+              <article-id pub-id-type="pmc-uid">9748933</article-id>
+              <article-id pub-id-type="pmid">36523250</article-id>
+              <article-id pub-id-type="publisher-id">bmjopen-2022-064791</article-id>
+              <article-id pub-id-type="doi">10.1136/bmjopen-2022-064791</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Dentistry and Oral Medicine</subject>
+                </subj-group>
+                <subj-group subj-group-type="hwp-journal-coll">
+                  <subject>1506</subject>
+                  <subject>1686</subject>
+                </subj-group>
+                <series-title>Protocol</series-title>
+              </article-categories>
+              <title-group>
+                <article-title>Theory-derived intervention to improve oral health of older adults: study protocol for a randomised controlled trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="author-98259129" contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9930-2476</contrib-id>
+                  <name>
+                    <surname>Gao</surname>
+                    <given-names>Xiaoli</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                  <xref rid="aff2" ref-type="aff">2</xref>
+                </contrib>
+                <contrib id="author-98259215" contrib-type="author">
+                  <name>
+                    <surname>Wong</surname>
+                    <given-names>Mun Loke</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-98259216" contrib-type="author">
+                  <name>
+                    <surname>Kalhan</surname>
+                    <given-names>Ashish Chetan</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-98259217" contrib-type="author">
+                  <name>
+                    <surname>Xie</surname>
+                    <given-names>Joshua Jiaming</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-98259218" contrib-type="author">
+                  <name>
+                    <surname>Siti Hajar</surname>
+                    <given-names>Hamzah</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-98259219" contrib-type="author">
+                  <name>
+                    <surname>Yeo</surname>
+                    <given-names>Alvin Boon Keng</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+                <contrib id="author-73468469" contrib-type="author">
+                  <name>
+                    <surname>Allen</surname>
+                    <given-names>Patrick Finbarr</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">1</xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1"><label>1</label><institution content-type="department">Faculty of Dentistry</institution>, <institution>National University of Singapore</institution>, <country>Singapore</country></aff>
+              <aff id="aff2"><label>2</label><institution content-type="department">Saw Swee Hock School of Public Health</institution>, <institution>National University of Singapore</institution>, <country>Singapore</country></aff>
+              <author-notes>
+                <corresp><label>Correspondence to</label> Dr Xiaoli Gao; <email>dengx@nus.edu.sg</email></corresp>
+              </author-notes>
+              <pub-date pub-type="collection">
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>12</day>
+                <month>12</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>12</volume>
+              <issue>12</issue>
+              <elocation-id>e064791</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>17</day>
+                  <month>5</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>03</day>
+                  <month>11</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <ali:free_to_read/>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbynclicense" start_date="2022-12-12">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+                  <license-p>This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. See: <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:title="pdf" xlink:href="bmjopen-2022-064791.pdf"/>
+              <self-uri content-type="reviewers-comments-pdf" xlink:href="bmjopen-2022-064791.reviewer_comments.pdf"/>
+              <self-uri content-type="draft-revisions-pdf" xlink:href="bmjopen-2022-064791.draft_revisions.pdf"/>
+              <abstract>
+                <sec>
+                  <title>Introduction</title>
+                  <p>Changing health behaviours is an important and difficult task. Despite growing interest in behavioural theories and models, there is a paucity of research examining their validity in explaining oral health behaviours, and there is a need for interventional studies to assess their effectiveness in improving oral health. This study aims to test the explanatory power of the dominant psychological theories, develop theory-derived intervention and evaluate its effectiveness in improving oral health of older adults.</p>
+                </sec>
+                <sec>
+                  <title>Methods and analysis</title>
+                  <p>440 community dwelling older adults will be recruited. To be eligible for this trial, one needs to be 55–79 years old, having at least 8 natural teeth, and with no life-threatening disease, impaired cognitive function, or radiotherapy in the head and neck region. At the initial visit, each participant will be required to complete a detailed questionnaire which collects information on sociodemographic background, oral health behaviours and domains of three psychological theories and models: (1) health belief model, (2) theory of planned behaviour and (3) social cognitive theory. The theory or model that best explains the health behaviours will be selected for designing the oral health intervention. The effectiveness of the theory-derived intervention will be evaluated in a randomised controlled trial. Participants will be randomly assigned to two groups, receiving theory-derived intervention and conventional health education, respectively. At baseline and at 12 and 24 months post intervention, each participant will complete a short questionnaire and undergo an oral examination (dental check-up). The effectiveness of the interventions will be evaluated using behavioural outcomes (diet, toothbrushing, interdental cleaning) and clinical outcomes (oral hygiene, dental caries and periodontal conditions).</p>
+                </sec>
+                <sec>
+                  <title>Ethics and dissemination</title>
+                  <p>This study has been approved by the Institutional Review Board of National University of Singapore (Ref: NUS-IRB-2020-417). Findings will be presented in international conferences and peer-reviewed journals.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration number</title>
+                  <p><ext-link xlink:href="NCT04946292" ext-link-type="uri">NCT04946292</ext-link>.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>EPIDEMIOLOGY</kwd>
+                <kwd>GERIATRIC MEDICINE</kwd>
+                <kwd>ORAL MEDICINE</kwd>
+                <kwd>PUBLIC HEALTH</kwd>
+              </kwd-group>
+              <funding-group specific-use="FundRef">
+                <award-group id="funding-1">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>Ministry of Education, Singapore</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>R-221-000-140-133</award-id>
+                </award-group>
+                <award-group id="funding-2">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>NUS</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>R-221-000-140-133</award-id>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>special-feature</meta-name>
+                  <meta-value>unlocked</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <boxed-text id="BX1" position="float">
+              <caption>
+                <title>Strengths and limitations of this study</title>
+              </caption>
+              <list list-type="bullet">
+                <list-item>
+                  <p>This study adopts a randomised controlled trial design and is likely to generate robust evidence on theory-derived intervention for improving oral health of older adults.</p>
+                </list-item>
+                <list-item>
+                  <p>Recruitment of participants from different socioeconomic strata of a multiethnic community will contribute to the generalisability of the study findings.</p>
+                </list-item>
+                <list-item>
+                  <p>Effectiveness of the intervention will be evaluated using both self-reported, behavioural outcomes and objective, clinical outcomes.</p>
+                </list-item>
+                <list-item>
+                  <p>Dental examiners will be blinded to the group allocation to reduce potential bias.</p>
+                </list-item>
+                <list-item>
+                  <p>There may be potential Hawthorne effect as participants may modify some of the behaviours simply because they are being observed.</p>
+                </list-item>
+              </list>
+            </boxed-text>
+            <sec sec-type="intro" id="s1">
+              <title>Introduction</title>
+              <p>The world’s population is ageing rapidly, and this trend is expected to accelerate based on the recent United Nations report.<xref rid="R1" ref-type="bibr">1</xref> The number of people aged 65 years and over is projected to increase from 0.7 billion (9%) in 2019 to 1.5 billion (16%) in 2050.<xref rid="R1" ref-type="bibr">1</xref> In Singapore, the proportion of residents aged 65 years and over increased from 8.8% in 2009 to 14.4% in 2019,<xref rid="R2" ref-type="bibr">2</xref> and is projected to surge to 47% in 2050.<xref rid="R1" ref-type="bibr">1</xref></p>
+              <p>As pointed out by WHO, older adults should not be stereotyped as frail and dependent.<xref rid="R3" ref-type="bibr">3</xref> Although some suffer from multiple health issues and compromised daily functions, many maintain good physical and mental capacities and are fully engaged in the society.<xref rid="R3" ref-type="bibr">3</xref> This highly varied health status among older adults is largely determined by their experiences, exposure, living conditions and health behaviours during their life course. Promoting healthy lifestyles is therefore regarded as the gateway to healthy ageing.<xref rid="R3" ref-type="bibr">3</xref></p>
+              <p>Oral diseases, such as dental caries and periodontal diseases, are among the most prevalent conditions, affecting 3.5 billion people across the world.<xref rid="R4" ref-type="bibr">4</xref> Prevalence of oral diseases increases with age, and almost all older adults have been affected some forms of oral diseases.<xref rid="R4" ref-type="bibr">4</xref> These oral conditions are chronic and significantly compromise one’s daily functions and quality of life.<xref rid="R5" ref-type="bibr">5 6</xref> Treatment of these diseases and their complications imposes heavy economic burden on individuals, families and the healthcare systems.<xref rid="R4" ref-type="bibr">4</xref> Chronic oral diseases are largely determined by one’s lifestyles and are preventable if one can adopt healthy behaviours.<xref rid="R7" ref-type="bibr">7</xref> A sizeable body of evidence supports that, if older adults adopt healthy lifestyles, their health outcomes are improved and disease risk or complications are reduced.<xref rid="R1" ref-type="bibr">1 8</xref> This in turn contributes to better quality of life and extended lifespan.<xref rid="R8" ref-type="bibr">8 9</xref></p>
+              <p>Changing lifestyles is, however, a difficult task. Although health professionals make tremendous efforts to educate the public, the outcomes are often disappointing. Conventional health education focuses on disseminating information and giving normative advice.<xref rid="R10" ref-type="bibr">10</xref> In the dental context, educational efforts have been largely directed to promoting healthy diet, good oral hygiene practices and regular dental attendance.<xref rid="R7" ref-type="bibr">7</xref> Research evidence, however, has shown that although oral health knowledge is often improved after health education, such knowledge gain seldom translates into sustained changes in health behaviours.<xref rid="R11" ref-type="bibr">11 12</xref></p>
+              <p>The unsatisfactory outcomes of conventional health education has cast doubts on the traditional knowledge-attitude-practice model.<xref rid="R13" ref-type="bibr">13</xref> Alternatively, psychological theories and models have been proposed to explain and predict health behaviours. Health Belief Model (HBM), Theory of Planned Behavior (TPB) and Social Cognitive Theory (SCT) models<xref rid="R13" ref-type="bibr">13 14</xref> are among the most influential ones that attract much scholarly attention. These theories and models aim to understand the cognitive factors and psychological mechanisms behind one’s behaviours, and therein may inform the development of effective interventions.<xref rid="R13" ref-type="bibr">13 14</xref> Despite the growing interest in theories and models for health promotion, there is a paucity of research examining their validity in explaining oral health behaviours, and there is a need for scientific evidence on the effectiveness of theory-based interventions.<xref rid="R14" ref-type="bibr">14</xref></p>
+              <p>To address these knowledge gaps, this study will be conducted among community dwelling older adults. The objectives are (1) to test the explanatory power of the dominant psychological theories and models, (2) to develop theory-derived intervention for oral health, and (3) to evaluate the effectiveness of the theory-derived intervention in improving oral health. The hypothesis is that theory-derived intervention is more effective than conventional health education in improving oral health behaviours and preventing oral diseases among older adults.</p>
+            </sec>
+            <sec sec-type="methods" id="s2">
+              <title>Methods and analysis</title>
+              <p>This study protocol (version 1, 3 May 2022) describes the design of a multicentre, two-arm parallel-group randomised controlled trial (RCT) (1:1 ratio) conducted at active ageing centres and senior activity centres in Singapore. The study protocol conforms with the Standard Protocol Items: Recommendations for Interventional Trials,<xref rid="R15" ref-type="bibr">15</xref> while the RCT will conform to the Consolidated Standards of Reporting Trials statement for reporting RCTs.<xref rid="R16" ref-type="bibr">16</xref> The study was registered at ClinicalTrials.gov in June 2021 (NCT04946292). The planned start and end dates are 31 March 2022 and 28 February 2025.</p>
+              <sec id="s2-1">
+                <title>Sample size calculation</title>
+                <p>The sample size needed for this study was calculated by using the software G*Power V.3.1.9.2 (Franz Faul, University of Kiel, Germany). The sample size calculation was based on the primary outcomes, namely increment of coronal caries (ΔDFS – coronal) and increment of root caries (ΔDFS – root), and independent t-tests for comparing means of two independent groups. A caries incidence study among the elderly reported that the mean (SD) 5 years caries incidence were 2.65 (3.14) for coronal caries and 2.21 (2.83) for root caries.<xref rid="R17" ref-type="bibr">17</xref> The 2-year incidence of coronal caries and root caries were therefore estimated to be 1.06 (1.26) and 0.88 (1.13), respectively, in the control group. The effect of an intervention is considered clinically significant if it reduces the caries incidence by 40%. Based on a significance level of 5% and a power of 80%, 140 subjects per group are needed for coronal caries and 165 subjects are needed for root caries outcome measures. To take both outcome measures into account, the higher number (ie, n=165) will be adopted. Allowing for a 25% attrition rate, 220 elderly persons will need to be recruited into each group, giving a total sample size of 440.</p>
+              </sec>
+              <sec id="s2-2">
+                <title>Study participants</title>
+                <p>A total of 440 participants fulfilling the below criteria will be recruited in the study.</p>
+                <sec id="s2-2-1">
+                  <title>Inclusion criteria</title>
+                  <list list-type="bullet">
+                    <list-item>
+                      <p>Aged 55–79 years.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Living in the community (alone or with family members), instead of residing in a nursing home.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Having at least eight natural teeth.</p>
+                    </list-item>
+                  </list>
+                </sec>
+                <sec id="s2-2-2">
+                  <title>Exclusion criteria</title>
+                  <list list-type="bullet">
+                    <list-item>
+                      <p>Having life-threatening disease(s) (eg, advanced cancer, acute stroke).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Impaired cognitive function (eg, Alzheimer’s syndrome).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Radiotherapy in the head and neck region.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Planning to emigrate during the study period.</p>
+                    </list-item>
+                  </list>
+                </sec>
+              </sec>
+              <sec id="s2-3">
+                <title>Recruitment procedure</title>
+                <p>The study participants will be recruited from the community with the assistance of a social service organisation. Advertisement posters, with an embedded QR code, will be displayed at these designated centres to enrol the participants. Participant may also approach the staff of the participating centres for assistance in enrolment. If the participant meets the eligibility criteria, the study details will be explained in his/her preferred language, using an information sheet. If the participant is willing to take part in the study, a written informed consent (<xref rid="SP3" ref-type="supplementary-material">online supplemental appendix 1</xref>) will be obtained by a trained research staff.</p>
+                <supplementary-material id="SP3" position="float" content-type="local-data">
+                  <object-id pub-id-type="doi">10.1136/bmjopen-2022-064791.supp3</object-id>
+                  <label>Supplementary data</label>
+                  <p>
+                    <inline-supplementary-material id="SS3" xlink:href="bmjopen-2022-064791supp003.pdf" content-type="local-data"/>
+                  </p>
+                </supplementary-material>
+              </sec>
+              <sec id="s2-4">
+                <title>Testing of theoretical models</title>
+                <p>Each study participant will be required to complete a detailed questionnaire at the initial visit through an interview. Information on sociodemographic background (ethnicity, gender, age, education level, past occupation and type of housing) and oral health behaviours (diet, toothbrushing, and interdental cleaning) will be collected. The questionnaire will also include the scales for three dominant psychological theories and models:</p>
+                <list list-type="alpha-lower">
+                  <list-item>
+                    <p><italic toggle="yes">HBM,</italic> which suggests that health-promoting behaviours are triggered by the presence of six domains: perceived susceptibility, perceived severity, perceived barriers, perceived benefit, cue to action and perceived self-efficacy.<xref rid="R18" ref-type="bibr">18</xref></p>
+                  </list-item>
+                  <list-item>
+                    <p><italic toggle="yes">TPB</italic> which was developed on the basis of the Theory of Reasoned Action and states that intention towards behaviour, subjective norms, and perceived behavioural control, together shape an individual’s behavioural intentions and behaviours.<xref rid="R19" ref-type="bibr">19</xref></p>
+                  </list-item>
+                  <list-item>
+                    <p><italic toggle="yes">SCT</italic> which states that behaviour is a function of individuals’ expectations of the consequences of the action (outcome expectations), their abilities to execute the action (self-efficacy), and their beliefs that the action will achieve a desired outcome (response efficacy).<xref rid="R20" ref-type="bibr">20</xref></p>
+                  </list-item>
+                </list>
+                <p>The explanatory power of each theory and model will be analysed by structural equation modelling and hierarchical multiple regression, controlled for potential confounders. Model fit indices (χ<sup>2</sup>/df, RMSEA, and CFI) and R<sup>2</sup> (% of variance explained) will be used to evaluate and compare the validity of the theories and models.</p>
+              </sec>
+              <sec id="s2-5">
+                <title>Development of theory-derived intervention</title>
+                <p>The theory or model that best explains the health behaviours will be selected for designing oral health interventions. If no single model reaches adequate explanatory power (χ<sup>2</sup>/df&lt;3 and R2&gt;0.3) or the best model differs across behaviours, two models with the best fit will be simultaneously considered. The theory-derived intervention will then be developed by an expert panel, consisting of a behavioural scientist, a health psychologist, a public health researcher and a dental specialist. Intervention materials and activities will be carefully designed to address all the constructs/domains of the selected theory or model. Relevant medical and dental literature will be referred to in the design of the intervention. The needs, interests and health literary of the target group (ie, older adults of varied social and educational backgrounds) will be taken into full consideration. The intervention will be tested in a small group of 15–20 older adults to ensure its relevance, practicality and acceptability.</p>
+              </sec>
+              <sec id="s2-6">
+                <title>Randomisation and interventions</title>
+                <p>Participants will be randomised into two interventional groups (1:1 allocation ratio), stratified by gender and educational level. Randomisation will be performed by a researcher who is not involved in data collection. Allocation sequence will be computer generated, and will be concealed until interventions are assigned.</p>
+                <p>The two study groups will receive either of the following interventions:</p>
+                <sec id="s2-6-1">
+                  <title>Conventional health education</title>
+                  <p>The conventional health education will be delivered through oral health pamphlets. Topics covered will include: (1) common oral diseases (dental caries, periodontal diseases) and their consequences; (2) common dental problems among older adults; (3) importance of oral health self-care measures (healthy diet, toothbrushing/denture brushing and interdental cleaning); and (4) proper techniques for toothbrushing and interdental cleaning.</p>
+                </sec>
+                <sec id="s2-6-2">
+                  <title>Theory-derived intervention</title>
+                  <p>The intervention will be delivered through multimedia materials (printed materials, PowerPoint slides, short videos, tooth models) and group activities (quiz, discussion, demonstration, practice and feedback), as appropriate. Participants will spend approximately 30–45 min for the intervention. Intervention materials and activities will be carefully designed to address all the constructs/domains of the selected theory or model. Three rounds of short messages will be sent to participants’ mobile phones to provide continuous support and facilitate behavioural changes.</p>
+                </sec>
+              </sec>
+              <sec id="s2-7">
+                <title>Data collection procedure</title>
+                <p>The study flow is described in <xref rid="F1" ref-type="fig">figure 1</xref>. At baseline and at 12 and 24 months post intervention, each participant will undergo a dental examination and complete an interviewer-administered questionnaire.</p>
+                <fig position="float" id="F1">
+                  <label>Figure 1</label>
+                  <caption>
+                    <p>Flow chart of randomised controlled trial.</p>
+                  </caption>
+                  <graphic xlink:href="bmjopen-2022-064791f01" position="float"/>
+                </fig>
+                <p>A detailed questionnaire (<xref rid="SP1" ref-type="supplementary-material">online supplemental file 1</xref>) will be completed at baseline, and a short questionnaire (<xref rid="SP2" ref-type="supplementary-material">online supplemental file 2</xref>) will be completed at each follow-up visits. The detailed questionnaire collects information on participants’ sociodemographic background, oral health awareness and behaviours, and constructs of the theoretical models. The short questionnaire includes oral health behaviours at each follow-up time point, and participants’ dental visits and the treatments received since last visit. Trained research assistants, well versed in local languages, will administer the questionnaires and address any queries of the participants.</p>
+                <supplementary-material id="SP1" position="float" content-type="local-data">
+                  <object-id pub-id-type="doi">10.1136/bmjopen-2022-064791.supp1</object-id>
+                  <label>Supplementary data</label>
+                  <p>
+                    <inline-supplementary-material id="SS1" xlink:href="bmjopen-2022-064791supp001.pdf" content-type="local-data"/>
+                  </p>
+                </supplementary-material>
+                <supplementary-material id="SP2" position="float" content-type="local-data">
+                  <object-id pub-id-type="doi">10.1136/bmjopen-2022-064791.supp2</object-id>
+                  <label>Supplementary data</label>
+                  <p>
+                    <inline-supplementary-material id="SS2" xlink:href="bmjopen-2022-064791supp002.pdf" content-type="local-data"/>
+                  </p>
+                </supplementary-material>
+                <p>Dental examinations will be carried out by trained, qualified and calibrated dental professionals who will be blinded to the group allocation. The findings of the dental examination will be conveyed to the participants after each visit using a simple oral health report. Duplicate examination will be performed on a randomly selected sample of 10% of the study participants, to evaluate the interexaminer reliability. The dental examination will include the following indices: (1) Decayed, Missing, Filled Surfaces/Teeth<xref rid="R21" ref-type="bibr">21</xref>; (2) Root Caries Index<xref rid="R22" ref-type="bibr">22</xref>; (3) Community Periodontics Indication of Treatment Needs<xref rid="R23" ref-type="bibr">23</xref>; and (4) Plaque Index.<xref rid="R24" ref-type="bibr">24</xref> Participants will be examined in supine position in a portable dental chair. The detection of dental caries will be based on visual and tactile examinations. No radiographs will be taken. Periodontal condition will be examined by using a lightweight CPI probe with a 0.5-mm ball tip, a black band between 3.5 and 5.5 mm, and rings at 8.5 and 11.5 mm from the ball tip. As for oral hygiene status, plaque scores of four surfaces (buccal, lingual, mesial and distal) of six indexed teeth (#16, #12, #24, #36, #32, #44) will be recorded.</p>
+              </sec>
+              <sec id="s2-8">
+                <title>Study outcomes</title>
+                <sec id="s2-8-1">
+                  <title>Behavioural outcomes</title>
+                  <list list-type="alpha-lower">
+                    <list-item>
+                      <p>Change in dietary behaviours: dietary behaviours will be categorised into: (i) favourable (frequency of snack intake, sweet/desert intake and/or sugary drinks&lt;2 times/day) and (ii) unfavourable (frequency of snack intake, sweet/desert intake and/or sugary drinks≥2 times/day).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Change in toothbrushing behaviours: toothbrushing behaviours will be categorised as: (i) favourable (frequency of brushing≥2 times/day and brushing time≥2 min) and (ii) unfavourable (frequency of brushing&lt;2 times/day and brushing time&lt;2 min).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Change in interdental cleaning behaviours: frequency of interdental cleaning (with≥once/day considered as favourable and &lt;once/day considered unfavourable).</p>
+                    </list-item>
+                  </list>
+                </sec>
+                <sec id="s2-8-2">
+                  <title><italic toggle="yes">Clinical outcomes</italic> (* Primary outcomes)</title>
+                  <list list-type="alpha-lower">
+                    <list-item>
+                      <p>* Coronal caries increment: number of new surfaces with coronal caries.</p>
+                    </list-item>
+                    <list-item>
+                      <p>* Root caries increment: number of new surfaces with root caries.</p>
+                    </list-item>
+                    <list-item>
+                      <p>Change in oral hygiene status (plaque score).</p>
+                    </list-item>
+                    <list-item>
+                      <p>Change in periodontal conditions: number of sites with deep periodontal pockets, shallow periodontal pockets and gingival bleeding only.</p>
+                    </list-item>
+                  </list>
+                </sec>
+              </sec>
+              <sec id="s2-9">
+                <title>Data management</title>
+                <p>Personal information about participants will be kept separate from the main dataset and will not be shared. All personal data will be stored securely in order to protect confidentiality before, during and after the trial, and the study data will be accessible only to the authorised study team members. Data entry and coding of the deidentified data will be conducted by a trained staff to achieve satisfactory data quality. Written informed consent will be obtained by a trained research staff from the study team and the documents will be stored securely along with other study related data.</p>
+              </sec>
+              <sec id="s2-10">
+                <title>Data monitoring and auditing</title>
+                <p>The study will not have a formal data monitoring committee as adverse events of interventions are not expected. Annual auditing of the trial conduct will be undertaken by the Institutional Review Board of National University of Singapore where the study team will be required to submit annual progress reports of the trial and report any untoward incident, if encountered. This auditing process will be independent of the investigators and study sponsors.</p>
+              </sec>
+              <sec id="s2-11">
+                <title>Statistical analysis</title>
+                <p>Data will be analysed on an intention-to-treat basis. χ<sup>2</sup> tests will be used for comparing proportions. Independent samples t-test or its non-parametric equivalent will be adopted for comparing means. Analysis of covariance (ANCOVA) and multiple regressions will be performed to evaluate the effects of various factors on the outcomes. A detailed statistical analysis plan will be made publicly available before unblinding the data and any analyses are performed.</p>
+              </sec>
+              <sec id="s2-12">
+                <title>Ethics and dissemination</title>
+                <p>This study has been approved by the Institutional Review Board of National University of Singapore (Ref: NUS-IRB-2020-417). All protocol related amendments will be reported to the ethics body (Institutional Review Board of NUS) and also updated on the trial registry (ClinicalTrials.gov). Results will be presented in peer-reviewed journals and at international conferences. Authorship eligibility will be based on the recommendations from the International Committee of Medical Journal Editors.</p>
+              </sec>
+              <sec id="s2-13">
+                <title>Patient and public involvement</title>
+                <p>Patients or the public were not involved in the design, or conduct, or reporting, or dissemination plans of our research.</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="s3">
+              <title>Discussion</title>
+              <p>There has been growing scholarly interest in the potential of psychological theories and models in guiding health interventions. In the dental arena, some attempts have been made to incorporate these concepts into oral health promotion and optimisation of patient care.<xref rid="R13" ref-type="bibr">13 14</xref> These efforts, however, appeared to be scattered, and scientific evidence is scarce.<xref rid="R14" ref-type="bibr">14</xref></p>
+              <p>To the best of our knowledge, this is the first study which systemically test the dominant theories and model and, based on that, develop and evaluate theory-derived interventions for oral health. This study is likely to generate much needed evidence, pave the way for translation of these theories and models into practice, and contribute to addressing oral health challenges in the increasingly ageing population.</p>
+              <p>To control the participation burden and reduce the number of visits, short-term behavioural changes (eg, 1, 3 or 6 months post intervention) will not be observed. This trial will focus on sustainable behavioural changes and clinical outcomes throughout the 12 and 24 months periods. It is anticipated that there will be a considerable number of participants who drop out during the 24-month trial. To reduce bias, efforts will be made to follow up the participants and control the attrition rate to below 20%. Such attrition rate has also been accounted for in the sample size calculation. It is anticipated that some participants may visit dentist during the study period. The visits are however likely to be treatment driven (eg, extraction and restoration), with little preventive measures. Therefore, the effect of possible dental visits on the outcomes is supposed to be minimal. Nevertheless, information on the dental visits and treatments received will be collected and included in the data analysis.</p>
+              <p>The target behaviours are dietary intake, toothbrushing and flossing. Since diet and personal hygiene are common risk factors that are related to both oral health and systemic conditions, the intervention is relevant for advancing general health of the elderly population. Meanwhile, oral health is an integral part of general health. An intervention that improves oral health of older adults is likely to improve their nutritional status, daily functional and quality of life as a whole. Although the findings may not be directly generalisable to countries with different social and cultural contexts, some useful implications can be expected.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary Material</title>
+              <supplementary-material content-type="local-data" id="d64e133">
+                <caption>
+                  <title>Reviewer comments</title>
+                </caption>
+                <media xlink:href="bmjopen-2022-064791.reviewer_comments.pdf"/>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="d64e134">
+                <caption>
+                  <title>Author's
+manuscript</title>
+                </caption>
+                <media xlink:href="bmjopen-2022-064791.draft_revisions.pdf"/>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>We acknowledge the supports of active ageing centers and senior activity centers. A final list of centers will be included in future publications.</p>
+            </ack>
+            <fn-group>
+              <fn fn-type="other">
+                <p><bold>Contributors:</bold> XG conceived this study, coordinated the study design and prepared the proposal, which served as the first draft for this manuscript. MLW and PFA contributed to the study design and the preparation of the proposal. ACK contributed to the refinement and pretesting of the questionnaire and the preparation of the manuscript. JJX, HSH and ABKY contributed to the refinement of questionnaire and the preparation of the manuscript. All authors have read the manuscript, critically revised it, and approved the version submitted for publication.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Funding:</bold> This trial is funded by the NUS Startup grant (Grant No.: R-221-000-140-133) sponsored by the Ministry of Education, Singapore.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Disclaimer:</bold> The study sponsor and funders have no roles in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication.</p>
+              </fn>
+              <fn fn-type="COI-statement">
+                <p><bold>Competing interests:</bold> None declared.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Patient and public involvement:</bold> Patients and/or the public were not involved in the design, or conduct, or reporting, or dissemination plans of this research.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Provenance and peer review:</bold> Not commissioned; externally peer reviewed.</p>
+              </fn>
+              <fn fn-type="other">
+                <p><bold>Supplemental material:</bold> This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.</p>
+              </fn>
+            </fn-group>
+            <sec sec-type="ethics-statement">
+              <title>Ethics statements</title>
+              <sec>
+                <title>Patient consent for publication</title>
+                <p content-type="ethics-consent-to-publish">Consent obtained directly from patient(s)</p>
+              </sec>
+            </sec>
+            <ref-list>
+              <title>References</title>
+              <ref id="R1">
+                <label>1</label>
+                <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>United Nations Population Division</collab></person-group>. <article-title>World population prospects</article-title>, <year>2019</year>. Available: <uri xlink:href="https://population.un.org/wpp/Download/Standard/Population/">https://population.un.org/wpp/Download/Standard/Population/</uri></mixed-citation>
+              </ref>
+              <ref id="R2">
+                <label>2</label>
+                <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>Singapore Department of Statistics</collab></person-group>. <article-title>Population trends</article-title>, <year>2020</year>. Available: <uri xlink:href="https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/visualising-data/population-trends">https://www.singstat.gov.sg/find-data/search-by-theme/population/population-and-population-structure/visualising-data/population-trends</uri></mixed-citation>
+              </ref>
+              <ref id="R3">
+                <label>3</label>
+                <mixed-citation publication-type="book"><person-group person-group-type="author"><collab>World Health Organization</collab></person-group>. <source>World report on ageing and health</source>. <publisher-loc>Geneva</publisher-loc>: <publisher-name>World Health Organization</publisher-name>, <year>2015</year>.</mixed-citation>
+              </ref>
+              <ref id="R4">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Peres</surname><given-names>MA</given-names></string-name>, <string-name><surname>Macpherson</surname><given-names>LMD</given-names></string-name>, <string-name><surname>Weyant</surname><given-names>RJ</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Oral diseases: a global public health challenge</article-title>. <source>Lancet</source><year>2019</year>;<volume>394</volume>:<fpage>249</fpage>–<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(19)31146-8</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31327369?><pub-id pub-id-type="pmid">31327369</pub-id></mixed-citation>
+              </ref>
+              <ref id="R5">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Yactayo-Alburquerque</surname><given-names>MT</given-names></string-name>, <string-name><surname>Alen-Méndez</surname><given-names>ML</given-names></string-name>, <string-name><surname>Azañedo</surname><given-names>D</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Impact of oral diseases on oral health-related quality of life: a systematic review of studies conducted in Latin America and the Caribbean</article-title>. <source>PLoS One</source><year>2021</year>;<volume>16</volume>:<elocation-id>e0252578</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0252578</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/34077473?><pub-id pub-id-type="pmid">34077473</pub-id></mixed-citation>
+              </ref>
+              <ref id="R6">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Palinkas</surname><given-names>M</given-names></string-name>, <string-name><surname>Borges</surname><given-names>TdeF</given-names></string-name>, <string-name><surname>Junior</surname><given-names>MT</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Alterations in masticatory cycle efficiency and bite force in individuals with periodontitis</article-title>. <source>Int J Health Sci</source><year>2019</year>;<volume>13</volume>:<fpage>25</fpage>–<lpage>9</lpage>.<?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/30842715?></mixed-citation>
+              </ref>
+              <ref id="R7">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Petersen</surname><given-names>PE</given-names></string-name></person-group>. <article-title>The World Oral Health Report 2003: continuous improvement of oral health in the 21st century--the approach of the WHO Global Oral Health Programme</article-title>. <source>Community Dent Oral Epidemiol</source><year>2003</year>;<volume>31 Suppl 1</volume>:<fpage>3</fpage>–<lpage>24</lpage><pub-id pub-id-type="doi">10.1046/j.2003.com122.x</pub-id><?supplied-pmid 15015736?><pub-id pub-id-type="pmid">15015736</pub-id></mixed-citation>
+              </ref>
+              <ref id="R8">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>van de Rest</surname><given-names>O</given-names></string-name>, <string-name><surname>Schutte</surname><given-names>BAM</given-names></string-name>, <string-name><surname>Deelen</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Metabolic effects of a 13-weeks lifestyle intervention in older adults: the growing old together study</article-title>. <source>Aging</source><year>2016</year>;<volume>8</volume>:<fpage>111</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.18632/aging.100877</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/26824634?><pub-id pub-id-type="pmid">26824634</pub-id></mixed-citation>
+              </ref>
+              <ref id="R9">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Condello</surname><given-names>G</given-names></string-name>, <string-name><surname>Capranica</surname><given-names>L</given-names></string-name>, <string-name><surname>Stager</surname><given-names>J</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Physical activity and health perception in aging: do body mass and satisfaction matter? A three-path mediated link</article-title>. <source>PLoS One</source><year>2016</year>;<volume>11</volume>:<elocation-id>e0160805</elocation-id>. <pub-id pub-id-type="doi">10.1371/journal.pone.0160805</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/27611689?><pub-id pub-id-type="pmid">27611689</pub-id></mixed-citation>
+              </ref>
+              <ref id="R10">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McNeil</surname><given-names>DW</given-names></string-name>, <string-name><surname>Randall</surname><given-names>CL</given-names></string-name>, <string-name><surname>Baker</surname><given-names>S</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Consensus statement on future directions for the behavioral and social sciences in oral health</article-title>. <source>J Dent Res</source><year>2022</year>;<volume>101</volume>:<fpage>619</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1177/00220345211068033</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/35043742?><pub-id pub-id-type="pmid">35043742</pub-id></mixed-citation>
+              </ref>
+              <ref id="R11">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wu</surname><given-names>L</given-names></string-name>, <string-name><surname>Lo</surname><given-names>ECM</given-names></string-name>, <string-name><surname>McGrath</surname><given-names>C</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Motivational interviewing for caries prevention in adolescents: a randomized controlled trial</article-title>. <source>Clin Oral Investig</source><year>2022</year>;<volume>26</volume>:<fpage>585</fpage>–<lpage>94</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-021-04037-w</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/34254214?></mixed-citation>
+              </ref>
+              <ref id="R12">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McGrath</surname><given-names>C</given-names></string-name>, <string-name><surname>Zhang</surname><given-names>W</given-names></string-name>, <string-name><surname>Lo</surname><given-names>EC</given-names></string-name></person-group>. <article-title>A review of the effectiveness of oral health promotion activities among elderly people</article-title>. <source>Gerodontology</source><year>2009</year>;<volume>26</volume>:<fpage>85</fpage>–<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1111/j.1741-2358.2008.00232.x</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/19490131?><pub-id pub-id-type="pmid">19490131</pub-id></mixed-citation>
+              </ref>
+              <ref id="R13">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Watt</surname><given-names>RG</given-names></string-name></person-group>. <article-title>Emerging theories into the social determinants of health: implications for oral health promotion</article-title>. <source>Community Dent Oral Epidemiol</source><year>2002</year>;<volume>30</volume>:<fpage>241</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1034/j.1600-0528.2002.300401.x</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/12147165?><pub-id pub-id-type="pmid">12147165</pub-id></mixed-citation>
+              </ref>
+              <ref id="R14">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McGrath</surname><given-names>C</given-names></string-name></person-group>. <article-title>Behavioral sciences in the promotion of oral health</article-title>. <source>J Dent Res</source><year>2019</year>;<volume>98</volume>:<fpage>1418</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1177/0022034519873842</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/31746683?><pub-id pub-id-type="pmid">31746683</pub-id></mixed-citation>
+              </ref>
+              <ref id="R15">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Chan</surname><given-names>A-W</given-names></string-name>, <string-name><surname>Tetzlaff</surname><given-names>JM</given-names></string-name>, <string-name><surname>Gøtzsche</surname><given-names>PC</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Spirit 2013 explanation and elaboration: guidance for protocols of clinical trials</article-title>. <source>BMJ</source><year>2013</year>;<volume>346</volume>:<elocation-id>e7586</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.e7586</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/23303884?><pub-id pub-id-type="pmid">23303884</pub-id></mixed-citation>
+              </ref>
+              <ref id="R16">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Moher</surname><given-names>D</given-names></string-name>, <string-name><surname>Hopewell</surname><given-names>S</given-names></string-name>, <string-name><surname>Schulz</surname><given-names>KF</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Consort 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials</article-title>. <source>BMJ</source><year>2010</year>;<volume>340</volume>:<elocation-id>c869</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.c869</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/20332511?><pub-id pub-id-type="pmid">20332511</pub-id></mixed-citation>
+              </ref>
+              <ref id="R17">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Thomson</surname><given-names>WM</given-names></string-name>, <string-name><surname>Spencer</surname><given-names>AJ</given-names></string-name>, <string-name><surname>Slade</surname><given-names>GD</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Is medication a risk factor for dental caries among older people? Evidence from a longitudinal study in South Australia</article-title>. <source>Community Dent Oral Epidemiol</source><year>2002</year>;<volume>30</volume>:<fpage>224</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1034/j.1600-0528.2002.300309.x</pub-id><pub-id pub-id-type="pmid">12000346</pub-id></mixed-citation>
+              </ref>
+              <ref id="R18">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Rosenstock</surname><given-names>IM</given-names></string-name></person-group>. <article-title>Historical origins of the health belief model</article-title>. <source>Health Educ Monogr</source><year>1974</year>;<volume>2</volume>:<fpage>328</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1177/109019817400200403</pub-id></mixed-citation>
+              </ref>
+              <ref id="R19">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ajzen</surname><given-names>I</given-names></string-name></person-group>. <article-title>The theory of planned behavior</article-title>. <source>Organ Behav Hum Decis Process</source><year>1991</year>;<volume>50</volume>:<fpage>179</fpage>–<lpage>211</lpage>. <pub-id pub-id-type="doi">10.1016/0749-5978(91)90020-T</pub-id></mixed-citation>
+              </ref>
+              <ref id="R20">
+                <label>20</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bandura</surname><given-names>A</given-names></string-name></person-group>. <article-title>Self-efficacy: toward a unifying theory of behavioral change</article-title>. <source>Adv Behav Res Therapy</source><year>1978</year>;<volume>1</volume>:<fpage>139</fpage>–<lpage>61</lpage>. <pub-id pub-id-type="doi">10.1016/0146-6402(78)90002-4</pub-id></mixed-citation>
+              </ref>
+              <ref id="R21">
+                <label>21</label>
+                <mixed-citation publication-type="book"><person-group person-group-type="author"><collab>WHO</collab></person-group>. <source>Oral health surveys</source>. <edition>5th ed</edition>, <year>2013</year>.</mixed-citation>
+              </ref>
+              <ref id="R22">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Katz</surname><given-names>RV</given-names></string-name>, <string-name><surname>Hazen</surname><given-names>SP</given-names></string-name>, <string-name><surname>Chilton</surname><given-names>NW</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Prevalence and intraoral distribution of root caries in an adult population</article-title>. <source>Caries Res</source><year>1982</year>;<volume>16</volume>:<fpage>265</fpage>–<lpage>71</lpage>. <pub-id pub-id-type="doi">10.1159/000260607</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/6980052?><pub-id pub-id-type="pmid">6980052</pub-id></mixed-citation>
+              </ref>
+              <ref id="R23">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ainamo</surname><given-names>J</given-names></string-name>, <string-name><surname>Barmes</surname><given-names>D</given-names></string-name>, <string-name><surname>Beagrie</surname><given-names>G</given-names></string-name>, <etal>et al</etal></person-group>. <article-title>Development of the World Health Organization (WHO) community periodontal index of treatment needs (CPITN)</article-title>. <source>Int Dent J</source><year>1982</year>;<volume>32</volume>:<fpage>281</fpage>–<lpage>91</lpage>.<?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/6958657?><pub-id pub-id-type="pmid">6958657</pub-id></mixed-citation>
+              </ref>
+              <ref id="R24">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Silness</surname><given-names>J</given-names></string-name>, <string-name><surname>Loe</surname><given-names>H</given-names></string-name></person-group>. <article-title>Periodontal disease in pregnancy. II. Correlation between oral hygiene and periodontal condtion</article-title>. <source>Acta Odontol Scand</source><year>1964</year>;<volume>22</volume>:<fpage>121</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.3109/00016356408993968</pub-id><?supplied-pmid http://www.ncbi.nlm.nih.gov/pubmed/14158464?><pub-id pub-id-type="pmid">14158464</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:44:55Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:7818095" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:7818095</identifier>
+        <datestamp>2021-01-29</datestamp>
+        <setSpec>f1000res</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">F1000Res</journal-id>
+              <journal-id journal-id-type="iso-abbrev">F1000Res</journal-id>
+              <journal-id journal-id-type="pmc">F1000Research</journal-id>
+              <journal-title-group>
+                <journal-title>F1000Research</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2046-1402</issn>
+              <publisher>
+                <publisher-name>F1000 Research Limited</publisher-name>
+                <publisher-loc>London, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC7818095</article-id>
+              <article-id pub-id-type="pmcid">PMC7818095</article-id>
+              <article-id pub-id-type="pmc-uid">7818095</article-id>
+              <article-id pub-id-type="pmid">33520191</article-id>
+              <article-id pub-id-type="doi">10.12688/f1000research.23801.3</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+                <subj-group>
+                  <subject>Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>The effect of two clinical criteria in the assessment of caries lesions around restorations in children (CARDEC-03): study protocol for a diagnostic randomized clinical trial</article-title>
+                <fn-group content-type="pub-status">
+                  <fn>
+                    <p>[version 3; peer review: 2 approved]</p>
+                  </fn>
+                </fn-group>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Moro</surname>
+                    <given-names>Bruna Lorena Pereira</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Funding Acquisition</role>
+                  <role content-type="http://credit.casrai.org/">Investigation</role>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Original Draft Preparation</role>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Signori</surname>
+                    <given-names>Cácia</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Freitas</surname>
+                    <given-names>Raiza Dias</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Data Curation</role>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pontes</surname>
+                    <given-names>Laura Regina Antunes</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Data Curation</role>
+                  <role content-type="http://credit.casrai.org/">Investigation</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lenzi</surname>
+                    <given-names>Tathiane Larissa</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Validation</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tedesco</surname>
+                    <given-names>Tamara Kerber</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Investigation</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0794-1578</contrib-id>
+                  <xref ref-type="aff" rid="a4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Raggio</surname>
+                    <given-names>Daniela Prócida</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Data Curation</role>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Resources</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-0048-2068</contrib-id>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Braga</surname>
+                    <given-names>Mariana Minatel</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ekstrand</surname>
+                    <given-names>Kim Rud</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Cenci</surname>
+                    <given-names>Maximiliano Sérgio</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Conceptualization</role>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <xref ref-type="aff" rid="a2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mendes</surname>
+                    <given-names>Fausto Medeiros</given-names>
+                  </name>
+                  <role content-type="http://credit.casrai.org/">Conceptualization</role>
+                  <role content-type="http://credit.casrai.org/">Funding Acquisition</role>
+                  <role content-type="http://credit.casrai.org/">Methodology</role>
+                  <role content-type="http://credit.casrai.org/">Project Administration</role>
+                  <role content-type="http://credit.casrai.org/">Supervision</role>
+                  <role content-type="http://credit.casrai.org/">Writing – Review &amp; Editing</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1711-4103</contrib-id>
+                  <xref ref-type="corresp" rid="c1">a</xref>
+                  <xref ref-type="aff" rid="a1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <collab>CARDEC collaborative group</collab>
+                </contrib>
+                <contrib contrib-type="author">
+                  <collab>CaCIA collaborative group</collab>
+                </contrib>
+                <aff id="a1"><label>1</label>Department of Pediatric Dentistry, School of Dentistry, University of São Paulo, São Paulo, Brazil</aff>
+                <aff id="a2"><label>2</label>Graduate Program in Dentistry, Federal University of Pelotas, Pelotas, Rio Grande do Sul, Brazil</aff>
+                <aff id="a3"><label>3</label>Department of Surgery and Orthopedics, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil</aff>
+                <aff id="a4"><label>4</label>Graduate Program in Dentistry, Ibirapuera University, São Paulo, Brazil</aff>
+                <aff id="a5"><label>5</label>Department of Odontology, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark</aff>
+              </contrib-group>
+              <author-notes>
+                <corresp id="c1">
+                  <label>a</label>
+                  <email xlink:href="mailto:fmmendes@usp.br">fmmendes@usp.br</email>
+                </corresp>
+                <fn fn-type="COI-statement">
+                  <p>No competing interests were disclosed.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>11</day>
+                <month>1</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2020</year>
+              </pub-date>
+              <volume>9</volume>
+              <elocation-id>650</elocation-id>
+              <history>
+                <date date-type="accepted">
+                  <day>4</day>
+                  <month>1</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>Copyright: © 2021 Moro BLP et al.</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="f1000research-9-34232.pdf"/>
+              <abstract>
+                <p><bold>Introduction: </bold>The detection of caries lesions around restoration can be challenging. Therefore, the use of some criteria has been proposed in order to give more objectivity to the diagnosis process. Two of them are the International Dental Federation (FDI) and the Caries Associated with Restorations and Sealants (CARS) criteria. Both methods have a different approach to caries, and it is not possible to know which one of them is the best to use in clinical practice to assess restorations in children. Thus, the present protocol aims to evaluate the effect of the use of the FDI and CARS criteria in the assessment of caries lesions around restorations in primary teeth on outcomes related to oral health in children and costs resulting from the assessments.</p>
+                <p><bold>Methods and analysis:</bold> A total of 626 restorations of children from three to 10 years were randomly assessed and are being treated following the FDI criteria (FDI group) or CARS criteria (CARS group). Participants will be followed-up after six, 12, 18, and 24 months. The primary outcome will be the need for a new intervention in the evaluated restorations. This outcome consists of several components, and each of these events will be analyzed separately as secondary outcomes. The changes in children’s oral health-related quality of life and the cost of the restoration dental treatments will also be analyzed as secondary outcomes. The methods will be compared using the Cox regression model with shared frailty. A significance level of 5% will be adopted for all statistical analyses.</p>
+                <p><bold>Discussion: </bold>This will be the first randomized clinical study carried out regarding the detection of caries lesions around restorations in primary teeth.</p>
+                <p><bold>Trial registration:</bold> The study underwent registration in Clinicaltrials.gov (
+<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03520309?term=NCT03520309&amp;draw=2&amp;rank=1">NCT03520309</ext-link>) on 9 May 2018.</p>
+              </abstract>
+              <kwd-group kwd-group-type="author">
+                <kwd>Randomized Controlled Trial</kwd>
+                <kwd>Dental Caries</kwd>
+                <kwd>Diagnosis</kwd>
+                <kwd>Permanent Dental Restoration</kwd>
+                <kwd>Dental Restoration Repair</kwd>
+                <kwd>Pediatric Dentistry</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/501100002322">
+                  <funding-source>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</funding-source>
+                </award-group>
+                <award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/501100001807">
+                  <funding-source>Fundação de Amparo à Pesquisa do Estado de São Paulo</funding-source>
+                  <award-id>2017/22897-3</award-id>
+                  <award-id>2018/20464-5</award-id>
+                </award-group>
+                <award-group id="fund-3" xlink:href="http://dx.doi.org/10.13039/501100003593">
+                  <funding-source>Conselho Nacional de Desenvolvimento Científico e Tecnológico</funding-source>
+                  <award-id>141425/2017-2</award-id>
+                  <award-id>420458/2018-2</award-id>
+                </award-group>
+                <funding-statement>This work was supported by São Paulo Research Foundation (FAPESP; Grants # 2017/22897-3 and # 2018/20464-5), Coordination for the Improvement of Higher Education Personnel (CAPES) and The National Council for Scientific and Technological Development (CNPq; Grants # 141425/2017-2 and # 420458/2018-2).</funding-statement>
+                <funding-statement>
+                  <italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic>
+                </funding-statement>
+              </funding-group>
+            </article-meta>
+            <notes notes-type="version-changes">
+              <sec sec-type="version-changes">
+                <label>Revised</label>
+                <title>Amendments from Version 2</title>
+                <p>In the new version of the study protocol, we explained why the FDI criteria evaluates aspects that might not be related to caries lesion. We also clarify aspects of the participants' selection and allocation mechanism. The randomization mechanism was rewritten, and we explained why both FDI and CARS criteria were used in the assessment of all children. We explained why we decided to use the ECOHIS, and more details were given about the differences between all the restoration assessments performed in the study. Besides, more information on the outcome measurement was provided. The calibration scores for the outcome assessment were added to the study protocol. In the Discussion, a paragraph was written to consider some relevant points about the differences between all criteria used for restoration assessment.</p>
+              </sec>
+            </notes>
+          </front>
+          <body>
+            <sec sec-type="intro">
+              <title>Introduction </title>
+              <p>Caries lesions around restoration, also known as secondary caries or recurrent caries, are the main reason for restoration failure
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>. However, the detection of these lesions can be challenging for a few reasons, as the presence of gaps between the restoration and tooth surface
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup> and the presence of stained margins on resin-based composite restorations makes it difficult to differentiate between lesions and demineralization
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. For this reason, the use of some criteria has been proposed to give more objectivity to the diagnosis process.</p>
+              <p> One such set of criteria is the International Dental Federation (FDI) criteria
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>, developed in 2007. Although largely used to assess restorations, it evaluates some aspects that might not be directly related to caries lesions, such as marginal staining and marginal adaptation. However, these aspects could be relevant to be evaluated when using the FDI criteria since many dentists and studies associate marginal staining and defects in the marginal adaptation with the presence of caries lesion around the restoration
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>. Using these criteria may lead to a more interventional approach. Another set of criteria is the Caries Associated with Restorations and Sealants (CARS) criteria, which has been integrated into the International Caries Classification and Management System
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and its more recent update, named CariesCare 4D
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. The CARS criteria
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> focus on aspects related to caries and not on other possible reasons for restoration failure. This method is probably more conservative when it comes to restoration reintervention.</p>
+              <p> When it comes to the management of restorations in primary dentition, it is not possible to know if a more conservative or invasive approach would bring more benefits to children. Restorations that are repaired seem to be more likely to have an additional treatment compared to restorations that are replaced
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. On the other hand, replacement often causes the loss of healthy dental structure
+<sup><xref rid="ref-9" ref-type="bibr">9</xref>,
+<xref rid="ref-10" ref-type="bibr">10</xref></sup>, leading to a repeated restorative cycle
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>, increasing the professional time and costs for health systems
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>.</p>
+              <p>It would be preferable that the criteria for assessing caries around restorations in children is in line with the philosophy of minimal intervention dentistry
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. However, the majority of studies about the detection of these lesions were performed
+<italic>in vitro</italic>, assessed caries lesion in permanent teeth, and did not evaluate relevant aspects to the clinical practice
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-13" ref-type="bibr">13</xref></sup>. This lack of evidence inspires the conduction of a third study, which is part of an initiative that aims to build scientific evidence for diagnostic strategies in children - CARies DEtection in Children n° 3 (CARDEC-03).</p>
+              <p>Thus, this trial aims to evaluate the effect of the use of two different visual criteria, the FDI and CARS criteria, for assessing caries lesions around restorations in primary teeth on outcomes related to children’s oral health and costs resulting from the assessments. We hypothesize that the diagnostic criteria that lead to a more conservative approach would bring more benefits to children’s oral health, decreasing the treatment costs and professional time.</p>
+            </sec>
+            <sec sec-type="methods">
+              <title>Methods</title>
+              <p>A controlled, triple-blind (participant, care provider, outcomes assessor), randomized clinical trial with two parallels arms (1:1) is being carried out. The present protocol is reported according to the Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) guidelines
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup>. The completed checklist can be accessed on Figshare
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>.</p>
+              <p> The local ethics committee from the School of Dentistry of the University of São Paulo, São Paulo, Brazil, previously approved the study (registration no. 2.291.642) on 22 September 2017. The participants of the study were recruited from 16 November 2017 to 30 November 2018. The trial was retrospectively registered on Clinicaltrials.gov (
+<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03520309?term=NCT03520309&amp;draw=2&amp;rank=1">NCT03520309</ext-link>) on 9 May 2018 due to of a lack of awareness that registration must occur before enrollment begins. No changes were made to the study after approval by the local ethics committee in 2017, and no results were analyzed before the trial registration on Clinicaltrials.gov. The authors are aware of possible causes of publication bias and selective reporting, and are committed to promoting complete transparency in our research.</p>
+            </sec>
+            <sec>
+              <title>Participants, interventions, and outcomes</title>
+              <sec>
+                <title>Study setting</title>
+                <p>This trial is being conducted at the School of Dentistry Dental Clinic of the University of São Paulo, Brazil. The participants (3 to 10 years old) were selected from a list of patients who sought dental treatment at the School of Dentistry. Those that fulfilled the eligibility criteria were randomly allocated to the intervention groups. A random sequence was generated using the website “
+<ext-link ext-link-type="uri" xlink:href="https://www.sealedenvelope.com/">Sealed Envelope</ext-link>” through the tool “Create a randomisation list”. The patients were included in the study after their legal guardians signed the informed consent form and literate children signed an assent form. Both documents are available as
+<italic>Extended data</italic> in English
+<sup><xref rid="ref-16" ref-type="bibr">16</xref>,
+<xref rid="ref-17" ref-type="bibr">17</xref></sup> and the original language
+<sup><xref rid="ref-18" ref-type="bibr">18</xref>,
+<xref rid="ref-19" ref-type="bibr">19</xref></sup>.</p>
+              </sec>
+              <sec>
+                <title>Participant eligibility</title>
+                <p>The inclusion criteria for the present study are children:</p>
+                <list list-type="simple">
+                  <list-item>
+                    <label>a)</label>
+                    <p>Who have sought treatment at the School of Dentistry;</p>
+                  </list-item>
+                  <list-item>
+                    <label>b)</label>
+                    <p>From three to 10 years-old;</p>
+                  </list-item>
+                  <list-item>
+                    <label>c)</label>
+                    <p>Presenting at least one restoration of any restorative material (composite resin, amalgam or glass ionomer cement), regardless of its condition, on a primary tooth (anterior or posterior) without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility.</p>
+                  </list-item>
+                </list>
+                <p>The exclusion criteria for the present study are children:</p>
+                <list list-type="simple">
+                  <list-item>
+                    <label>a)</label>
+                    <p>Whose parents refuse to participate in the study;</p>
+                  </list-item>
+                  <list-item>
+                    <label>b)</label>
+                    <p>Who did not agree to participate, or showed behavior problems during the first appointment.</p>
+                  </list-item>
+                </list>
+                <p>All children’s restorations which fulfill the inclusion criteria were included for the assessment.</p>
+              </sec>
+              <sec>
+                <title>Allocation: sequence generation and concealment mechanism</title>
+                <p>Firstly, participants were stratified into different strata: (1) children aged 3 to 6 years presenting three restorations or less; (2) children aged 7 to 10 years presenting three restorations or less; (3) children aged 3 to 6 years presenting more than three restorations; (4) children aged 7 to 10 years presenting more than three restorations. The number of restorations considered for stratification was those placed in primary and permanent teeth. Then, randomization using blocks of different sizes (2, 4, 6 or 8) was performed within each stratum.</p>
+                <p>All participants of the study could be classified as having a high caries risk since past caries experience is the most important component for the development of caries lesions
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>. However, stratified randomization was performed considering the children number of restorations to subdivide them in children with higher and lower caries experience. The caries lesion activity was not considered for randomization. On the other hand, the children's age was a parameter for stratification in order to consider the different time of exfoliation of the evaluated teeth. In this way, the number of teeth with different time of exfoliation was balanced between the FDI and CARS criteria.</p>
+                <p>The random sequence was generated using the website “Sealed Envelope” through the tool “Create a randomisation list”. It was done by an external examiner and to guarantee allocation confidentiality, blocks with allocation sequences were kept in opaque sequential envelopes.</p>
+              </sec>
+              <sec>
+                <title>Interventions</title>
+                <p>A preliminary visual inspection was performed to assess all participants’ dental surfaces according to the International Caries Detection and Assessment System (ICDAS)
+<sup><xref rid="ref-21" ref-type="bibr">21</xref></sup> described in the CariesCare 4D to detect and assess the caries lesions stage and activity
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. The assessment was performed by an examiner (LRAP) who is not participating in the subsequent phases of the study. All the assessments of the study are being conducted under a dental clinic setting using a dental chair and artificial illumination. Participants’ teeth receive a professional oral hygiene using a rotating bristle brush, pumice/water slurry and dental floss. A plane buccal mirror and a ball-point probe are being used for all visual inspection and tactile examination of the clinical trial.</p>
+                <p>Then, children meeting the inclusion criteria were classified into subgroups for further block stratification, according to the number of restorations present in mouth (0 to 3 restorations vs. more than three restorations) and age (3 to 6 years old vs. 7 to 10 years old).</p>
+                <p>The children included in the study were randomly allocated in two groups to have their restorations evaluated and treated according to different clinical criteria for caries lesion around restoration:</p>
+                <list list-type="simple">
+                  <list-item>
+                    <label>a) </label>
+                    <p>FDI group: diagnosis and treatment decision based on the International Dental Federation (FDI) criteria
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup> (
+<xref rid="T1" ref-type="table">Table 1</xref> and
+<xref ref-type="fig" rid="f1">Figure 1</xref>).</p>
+                  </list-item>
+                  <list-item>
+                    <label>b) </label>
+                    <p>CARS group: diagnosis according to the Caries Associated with Restorations and Sealants (CARS) detection criteria, described in the ICCMS
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and in CariesCare 4D
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup> (
+<xref rid="T2" ref-type="table">Table 2</xref> and
+<xref ref-type="fig" rid="f2">Figure 2</xref>), and proposed treatment decision (
+<xref rid="T3" ref-type="table">Table 3</xref>). The definitions and characteristics of activity for primary caries from CariesCare International 4D will also be used in association (
+<xref rid="T4" ref-type="table">Table 4</xref>).</p>
+                  </list-item>
+                </list>
+                <table-wrap id="T1" orientation="portrait" position="anchor">
+                  <label>Table 1. </label>
+                  <caption>
+                    <title>International Dental Federation (FDI) criteria linked to the treatment decision.</title>
+                  </caption>
+                  <table frame="hsides" rules="groups" content-type="article-table">
+                    <thead>
+                      <tr>
+                        <th align="center" colspan="5" valign="middle" rowspan="1">FDI scores</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">FDI
+<break/>treatment</th>
+                      </tr>
+                      <tr>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Scores</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Classification</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Marginal staining*</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Marginal adaptation</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Recurrence of caries</th>
+                        <th align="center" valign="middle" rowspan="1" colspan="1">Indication</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>1</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Clinically excellent/</bold>
+                          <break/>
+                          <bold>very good</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">No marginal staining.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Harmonious outline,
+<break/>no gaps, no white or
+<break/>discolored lines</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">No secondary or
+<break/>primary caries</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">No treatment</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>2</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Clinically good</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Minor marginal
+<break/>staining, easily
+<break/>removable by
+<break/>polishing.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Marginal gap (&lt;150 μm),
+<break/>white lines. Small marginal
+<break/>fracture removable by
+<break/>polishing. Slight ditching,
+<break/>slight step/flashes, minor
+<break/>irregularities.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Very small
+<break/>and localized
+<break/>demineralization</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">No treatment</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>3</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Clinically sufficient/</bold>
+                          <break/>
+                          <bold>satisfactory</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Moderate
+<break/>marginal staining,
+<break/>not esthetically
+<break/>unacceptable.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Gap &lt;250μm not
+<break/>removable.
+<break/>Several small marginal
+<break/>fractures. Major
+<break/>irregularities, ditching or
+<break/>flash, steps.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Larger areas of
+<break/>demineralization</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">No treatment</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>4</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Clinically</bold>
+                          <break/>
+                          <bold>unsatisfactory</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Pronounced
+<break/>marginal staining;
+<break/>major intervention
+<break/>necessary for
+<break/>improvement.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1"> Gap &gt; 250μm or dentine/
+<break/>base exposed.
+<break/>Severe ditching or
+<break/>marginal fractures. Larger
+<break/>irregularities or steps.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Caries with cavitation</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Repair</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>5</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Clinically poor</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Deep marginal
+<break/>staining, not
+<break/>accessible for
+<break/>intervention.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Restoration (complete or
+<break/>partial) is loose but in situ.
+<break/>Generalized major gaps or
+<break/>irregularities.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Deep secondary
+<break/>caries or exposed
+<break/>dentine that is not
+<break/>accessible for repair of
+<break/>restoration.</td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">Replacement</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="TFN1">
+                      <p>This table was created based on information from Hickel
+<italic>et al.</italic> 2010
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <fig fig-type="figure" id="f1" orientation="portrait" position="anchor">
+                  <label>Figure 1. </label>
+                  <caption>
+                    <title>Patient’s plan decision flowchart based on the International Dental Federation (FDI) criteria.</title>
+                  </caption>
+                  <graphic xlink:href="f1000research-9-34232-g0000"/>
+                </fig>
+                <table-wrap id="T2" orientation="portrait" position="anchor">
+                  <label>Table 2. </label>
+                  <caption>
+                    <title>Caries Associated with Restorations and Sealants (CARS) criteria.</title>
+                  </caption>
+                  <table frame="hsides" rules="groups" content-type="article-table">
+                    <thead>
+                      <tr>
+                        <th align="left" colspan="3" valign="top" rowspan="1">Caries Associated with Restorations and Sealants codes</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 0</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Sound tooth surface with</bold>
+                          <break/>
+                          <bold>restoration or sealant</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">A sound tooth surface adjacent to a restoration/sealant margin. There should be no
+<break/>evidence of caries (either no or questionable change in enamel translucency after
+<break/>prolonged air drying for 5 seconds). Surfaces with marginal defects less than 0.5mm
+<break/>in width (i.e. will not admit the ball end of the CPI Probe), developmental defects
+<break/>such as enamel hypoplasias; fluorosis; tooth wear (attrition, abrasion and erosion),
+<break/>and extrinsic or intrinsic stains will be recorded as sound. Stained margins consistent
+<break/>with non-carious habits (e.g. frequent tea drinking) and which do not exhibit signs
+<break/>consistent with demineralization should be scored as sound.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 1</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>First visual change in enamel</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">When seen wet there is no evidence of any change in color attributable to carious
+<break/>activity, but after prolonged air drying (for approximately 5 seconds) an opacity or
+<break/>discoloration consistent with demineralization is visible that is not consistent with the
+<break/>clinical appearance of sound enamel.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 2</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Distinct visual change in enamel/</bold>
+                          <break/>
+                          <bold>dentin adjacent to a restoration</bold>
+                          <break/>
+                          <bold>margin</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">If the restoration margin is placed on enamel the tooth must be viewed wet. When
+<break/>wet there is an opacity consistent with demineralization or discoloration that is not
+<break/>consistent with the clinical appearance of sound enamel (Note: the lesion is still
+<break/>visible when dry).
+<break/>If the restoration margin is placed on dentin: Code 2 applies to discoloration that is
+<break/>not consistent with the clinical appearance of sound dentin or cementum.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 3</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Carious defects of &lt;0.5 mm with</bold>
+                          <break/>
+                          <bold>the signs of code 2</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Cavitation at the margin of the restoration/sealant less than 0.5mm, in addition
+<break/>to either an opacity or discoloration consistent with demineralization that is not
+<break/>consistent with the clinical appearance of sound enamel or with a shadow of
+<break/>discolored dentin.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 4</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Marginal caries in enamel/dentin/</bold>
+                          <break/>
+                          <bold>cementum adjacent to restoration</bold>
+                          <break/>
+                          <bold>with underlying dark shadow</bold>
+                          <break/>
+                          <bold>from dentin</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">The tooth surface may have characteristics of code 2 and has a shadow of discolored
+<break/>dentin which is visible through an apparently intact enamel surface or with localized
+<break/>breakdown in enamel but no visible dentin. This appearance is often seen more easily
+<break/>when the tooth is wet and is a darkening and intrinsic shadow which may be grey,
+<break/>blue, orange, or brown in color. Note: view tooth wet and then dry. This lesion should
+<break/>be distinguished from amalgam shadows.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 5</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Distinct cavity adjacent to</bold>
+                          <break/>
+                          <bold>restoration</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Distinct cavity adjacent to restoration/sealant with visible dentin in the interfacial
+<break/>space with signs of caries as described in code 4, in addition to a gap &gt; 0.5mm in
+<break/>width.
+<break/>OR
+<break/>In those instances where margins are not visible, there is evidence of discontinuity at
+<break/>the margin of the restoration/sealant and tooth substance of the dentin as detected by
+<break/>0.5mm ball-ended probe run along the restoration/sealant margin.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Code 6</bold>
+                        </td>
+                        <td align="center" valign="middle" rowspan="1" colspan="1">
+                          <bold>Extensive distinct cavity with</bold>
+                          <break/>
+                          <bold>visible dentin</bold>
+                        </td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Obvious loss of tooth structure, the extensive cavity may be deep or wide and dentin
+<break/>is clearly visible on both the walls and at the base.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>This table was created based on information from Pitts
+<italic>et al.</italic> 2016
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and Martignon
+<italic>et al.</italic> 2019
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <fig fig-type="figure" id="f2" orientation="portrait" position="anchor">
+                  <label>Figure 2. </label>
+                  <caption>
+                    <title>Patient’s plan decision flowchart based on the Caries Associated with Restoration and Sealants (CARS) criteria.</title>
+                  </caption>
+                  <graphic xlink:href="f1000research-9-34232-g0001"/>
+                </fig>
+                <table-wrap id="T3" orientation="portrait" position="anchor">
+                  <label>Table 3. </label>
+                  <caption>
+                    <title>Treatment decision linked to the Caries Associated with Restoration and Sealants (CARS) criteria.</title>
+                  </caption>
+                  <table frame="hsides" rules="groups" content-type="article-table">
+                    <thead>
+                      <tr>
+                        <th align="center" valign="top" rowspan="1" colspan="1">CARS code</th>
+                        <th align="center" colspan="3" valign="top" rowspan="1">CARS Treatment</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>0</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>No treatment</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">No treatment</td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>-</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>1</bold>
+                        </td>
+                        <td align="center" rowspan="3" valign="middle" colspan="1">
+                          <bold>Non-operative</bold>
+                          <break/>
+                          <bold>treatment</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">No treatment
+<sup>1</sup>
+<break/>Topical fluoride application
+<sup>2</sup>
+</td>
+                        <td align="center" rowspan="3" valign="middle" colspan="1"><sup>1</sup> Adjacent inactive lesion
+<break/>
+<sup>2</sup> Adjacent active lesion.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>2</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">No treatment
+<sup>1</sup>
+<break/>Topical fluoride application
+<sup>2</sup>
+</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>3</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">No treatment
+<sup>1</sup>
+<break/>Topical fluoride application
+<sup>2</sup>
+</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>4</bold>
+                        </td>
+                        <td align="center" rowspan="3" valign="middle" colspan="1">
+                          <bold>Operative treatment</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Repair
+<break/>Replacement
+<sup>3</sup>
+</td>
+                        <td align="center" rowspan="3" valign="middle" colspan="1"><sup>3</sup> Replacement should be indicated in case the carious lesion
+<break/>involves more than half of the restoration.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>5</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Repair
+<break/>Replacement
+<sup>3</sup>
+</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">
+                          <bold>6</bold>
+                        </td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Repair
+<break/>Replacement
+<sup>3</sup>
+</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>This table was created based on information from Pitts
+<italic>et al.</italic> 2016
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and Martignon
+<italic>et al.</italic> 2019
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <table-wrap id="T4" orientation="portrait" position="anchor">
+                  <label>Table 4. </label>
+                  <caption>
+                    <title>Characteristics of active and inactive caries linked to caries around restorations system - Caries Associated with Restoration and Sealants (CARS) - adapted.</title>
+                  </caption>
+                  <table frame="hsides" rules="groups" content-type="article-table">
+                    <thead>
+                      <tr>
+                        <th align="center" rowspan="2" valign="top" colspan="1">ICCMS Code</th>
+                        <th align="center" colspan="2" valign="top" rowspan="1">Characteristics of Lesion</th>
+                      </tr>
+                      <tr>
+                        <th align="center" valign="top" rowspan="1" colspan="1">Signs of Active Lesions</th>
+                        <th align="center" valign="top" rowspan="1" colspan="1">Signs of Inactive Lesions</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">ICCMS
+<break/>Initial and
+<break/>Moderate Caries Stage</td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Surface of enamel is whitish/yellowish; opaque with
+<break/>loss of luster, feels rough when the tip of the ball-
+<break/>ended probe is moved gently across the surface.
+<break/>Lesion is in a plaque stagnation area, i.e. in the
+<break/>entrance of pits and fissures, near the gingival margin
+<break/>or, for proximal surfaces, below or above the contact
+<break/>point. The lesion may be covered by thick plaque prior
+<break/>to cleaning.</td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Surface of enamel is whitish, brownish or black.
+<break/>Enamel may be shiny and feels hard and smooth
+<break/>when the tip of the ball-ended probe is moved
+<break/>gently across the surface. For smooth surfaces,
+<break/>the caries lesion is typically located at some
+<break/>distance from the gingival margin. Lesion may
+<break/>not be covered by thick plaque prior to cleaning.</td>
+                      </tr>
+                      <tr>
+                        <td align="center" valign="top" rowspan="1" colspan="1">ICCMS
+<break/>Extensive Caries Stage</td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Dentine feels soft or leathery on gentle probing.</td>
+                        <td align="center" valign="top" rowspan="1" colspan="1">Dentine is shiny and hard on gentle probing.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>This table was created based on information from Pitts
+<italic>et al.</italic> 2016
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup> and Martignon
+<italic>et al.</italic> 2019
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>A clinical example of the restoration assessment performed with both FDI and CARS criteria is illustrated in
+<xref ref-type="fig" rid="f3">Figure 3</xref>.</p>
+                <fig fig-type="figure" id="f3" orientation="portrait" position="anchor">
+                  <label>Figure 3. </label>
+                  <caption>
+                    <title>Clinical example of the restoration assessment performed in a primary posterior tooth according to the FDI and CARS criteria.</title>
+                  </caption>
+                  <graphic xlink:href="f1000research-9-34232-g0002"/>
+                </fig>
+                <p>The restorations assessment was performed by an examiner (BLPM), who was trained and calibrated before the beginning of the study. Calibration involves a lecture of clinical criteria, and training was carried out using photos of clinical cases. The web-based training and calibration tool ICDAS Calibration for ICCMS(TM) by
+<ext-link ext-link-type="uri" xlink:href="https://www.iccms-web.com/">ICCMS e-learning</ext-link> was used for this purpose.</p>
+                <p>After these procedures, the examiner evaluated restorations in 10 children who did not participate in the clinical trial. The examiner repeated the same evaluation, in the same 10 children, for intra-examiner agreement. A benchmark examiner (TLL) also performed the tests to assess inter-examiner reproducibility twice in the same sample of children. In this way, the exams were compounded, and the weighted kappa scores were re-calculated. The assessment of children included in the study started after the intra-examiner and inter-examiner weighted kappa value reached values greater than 0.75 for both FDI and CARS criteria.</p>
+                <p>For examinations using the FDI criteria, all tooth surfaces are dried before. When using the CARS criteria, teeth are examined firstly wet and then dried for 5 seconds with a dental 3-in-1 air water syringe.</p>
+                <p>The first assessment was performed with the participant’s allocated group (FDI or CARS). After reaching the diagnosis and treatment decision according to the allocated group, the same examiner performed a second assessment according to the other criteria. This procedure aims to compare the methods since a cross-sectional study was developed nested in this randomized clinical trial. The second assessment did not influence or change the classification and treatment decision proposed by the criteria the participant is allocated. If a legal guardian presents a complaint related to any children’s restoration, it can be repaired or replaced independently of the criteria used. The scores obtained with the restoration assessment were collected using a specific sheet that can be found as
+<italic>Extended data</italic> in English
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup> and Portuguese
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>.</p>
+                <p>At the first appointment, legal guardians were asked to answer a questionnaire to assess the impact on children’s oral health-related quality of life. The instrument used was the Brazilian version
+<sup><xref rid="ref-24" ref-type="bibr">24</xref>,
+<xref rid="ref-25" ref-type="bibr">25</xref></sup> of the Early Childhood Oral Health Impact Scale (ECOHIS)
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. We decided to use an instrument answered by the parents since our sample's age range is large and involves small children who would have difficulty answering other questionnaires. This choice was made to allow data to be collected for the entire sample and for the same instrument to be standardized. Besides that, an anamnesis related to children’s health and medical history was carried out (this form is available as
+<italic>Extended data</italic> in English
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup> and original language
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>). At the end of the first appointment, oral hygiene instructions were delivered, showing the correct use of toothbrush and fluoride toothpaste (1000 to 1500 ppm of fluoride)
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. Dietary advice was also given to all participants and their parents or legal guardians to reduced intake of free sugars throughout the life course
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>.</p>
+                <p>For all appointments, the time spent and materials used on patient care are collected using a specific sheet that can be found as
+<italic>Extended data</italic> in English
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup> and original language
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Parents or guardians are asked about transportation and absenteeism in the workplace.</p>
+              </sec>
+              <sec>
+                <title>Dental treatment protocols </title>
+                <p>In the subsequent appointments, dental treatments following a predefined protocol are being performed by postgraduate dental students in Pediatric Dentistry, who are blind to the criteria used to reach the treatment decision. In all situations, if there is active dentine tissue, it is removed using dentin excavators. Diamond burs are used to remove the restorations, if necessary.</p>
+                <p>The treatment decisions for the restorations evaluated according to the FDI and CARS criteria are being classified into:</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>No treatment: no intervention needed and the restoration will be followed-up;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Professional topical fluoride application: a treatment for non-cavitated active caries lesions detected by the CARS criteria;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Refurbishment: restorations finishing and polishing;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Repair: minimally invasive approach resulting in the addition of a restorative material, with or without a preparation of the restoration and/or dental hard tissues
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. Composite resin or glass ionomer cement will be used as a restorative material;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Replacement: complete removal of the restoration present on the tooth
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. Composite resin will be used as restorative material for the new restoration.</p>
+                  </list-item>
+                </list>
+                <p>The presence or absence of soft or hard carious tissue is evaluated and recorded by the postgraduate dental student who provides dental care after the restoration removal when replacement is indicated. Training and calibration were conducted before the assessments. An experienced researcher in Cariology performed a theoretical lecture about the clinical characteristics of caries lesions, and training was carried out using photos of clinical cases. The procedure of evaluating the carious tissue is performed to record a possible false-positive diagnosis for dentine caries lesion around the restoration. The authors will also develop an accuracy study nested in this clinical trial.</p>
+                <p>The same operators are performing additional dental treatment needs (not related to the restorations included in the study). Treatment plan related to additional dental treatment was carried out by the examiner responsible for children's initial clinical examination. Details of the pre-established treatment protocols can be found in
+<xref ref-type="fig" rid="f4">Figure 4</xref>.</p>
+                <fig fig-type="figure" id="f4" orientation="portrait" position="anchor">
+                  <label>Figure 4. </label>
+                  <caption>
+                    <title>Patient’s plan decision flowchart based on the International Caries Detection and Assessment System (ICDAS) criteria.</title>
+                  </caption>
+                  <graphic xlink:href="f1000research-9-34232-g0003"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Follow-up visits</title>
+                <p>After the completion of the treatment plan, participants will be followed up considering the outcome evaluation after six, 12, 18, and 24 months. At the follow-up visits, if a new dental treatment is needed (related or not to the restorations), necessary procedures will be carried out. Hygiene and dietary instructions will be given to children at each follow-up visit.</p>
+                <p>The treatment decisions for the restorations evaluated during the follow-up visits will be decided according to the FDI or CARS criteria, considering the child’s allocation group. The same trained and calibrated examiner (BLPM) who conducted the assessments at the beginning of the study, with the FDI or CARS criteria, will perform the assessments with the FDI or CARS criteria during all follow-up visits.</p>
+                <p>During the 24 months follow-up visit, a new ECOHIS questionnaire will be applied for parents or legal guardians who had previously answered at the time the child was included in the study.</p>
+              </sec>
+              <sec>
+                <title>Adherence</title>
+                <p>Stimuli for participants' adherence to the treatment and follow-up sessions are happening via mobile and social networks.
+<ext-link ext-link-type="uri" xlink:href="https://www.facebook.com/cardec.trials.37?fref=search&amp;__tn__=,d,P-R&amp;eid=ARA34Nbi_ACsLbhf2XTnTIlQL-f0_WY213Znl3W7FUXCduDCElteLUkMHGuoyJOYBAkkmyY7kTnBo4Wy">Facebook</ext-link> and
+<ext-link ext-link-type="uri" xlink:href="https://www.instagram.com/cardec_trials/">Instagram</ext-link> profiles were created to stay in touch with patients through social media. Humanized care is provided for all participants, focusing on the patient's well-being and providing empathy, affection, and familiarity between the CARDEC collaborative group and children and their families. Explanations about the importance of participation for their benefit are also being given.</p>
+              </sec>
+              <sec>
+                <title>Outcomes</title>
+                <p>The primary outcome of this trial will be the need for a new intervention during the follow-up of restorations evaluated by different criteria. This outcome consists of several components. Thus, the outcome occurrence will be considered if any of the following conditions are detected:</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>Presence of secondary caries lesion exposing dentin;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Need for repair;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Need for restoration replacement;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Need for extension of the existing restoration on the examined tooth due to a tooth fracture or caries lesion development exposing dentin;</p>
+                  </list-item>
+                  <list-item>
+                    <p>An episode of pain or need for endodontic treatment;</p>
+                  </list-item>
+                  <list-item>
+                    <p>Extraction requirement (except in the case of prolonged retention).</p>
+                  </list-item>
+                </list>
+                <p>The occurrence of any of these conditions at any time of follow-up will be considered as an event related to the primary outcome. Each of the events that make up the primary outcome will be analyzed separately as secondary outcomes. Changes in children's oral health-related quality of life after two years will be considered as a secondary outcome. The costs and effects per child of the treatments performed during the follow-up, considering the teeth included in our sample, are also going to be analyzed as a secondary outcome.</p>
+                <p>The occurrence of the outcomes will be evaluated according to predetermined criteria from two other criteria during the follow-up visits of six, 12, 18, and 24 months. Different criteria will be used according to the number of surfaces the restoration involves:</p>
+                <list list-type="bullet">
+                  <list-item>
+                    <p>For one-surface restorations: the criteria used will be according to Frencken
+<italic>et al</italic>.
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>;</p>
+                  </list-item>
+                  <list-item>
+                    <p>For a multi-surface restoration: the criteria used will be according to Roeleveld
+<italic>et al</italic>.
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>.</p>
+                  </list-item>
+                </list>
+                <p>According to Frencken
+<italic>et al</italic>.
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup> criteria, scores related to restoration success will be 0, 1 or 7. Those considered to have failed will be scored as 2, 3, 4 or 8; while those considered being unrelated to success and failure will be scored as 5, 6 or 9. Concerning the Roeleveld
+<italic>et al</italic>.
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup> criteria, restoration success will be scored as 00 or 10. Those considered to have failed will be scored as 11, 12, 13, 20, 21, 30 or 40; while those considered being unrelated to success and failure will be scored as 50, 60, 70 or 90.</p>
+                <p>The information regarding presence of secondary caries lesions exposing dentin; the need for repair; the need for restoration replacement; the need for extension of the existing restoration on the examined tooth; the need for endodontic treatment, and extraction requirement are obtained directly using the criteria systems proposed (Frencken
+<italic>et al</italic>., and Roeleveld
+<italic>et al</italic>.). In cases of suspected pulp involvement, a radiograph is taken. We also asked the parents about pain occurrence.</p>
+                <p>The follow-up evaluations will be carried out by an examiner (TKT) blind to the children’s allocation group. The examiner was previously trained and calibrated for both criteria (the weighted Kappa value for interexaminer was 0.89, and the intra-examiner agreement was 0.94). The researcher (TKT) did not participate in the previous phases of the trial and will perform the evaluations according to the Frencken et al. or Roeleveld et al. during all follow-up visits (six, 12, 18, and 24 months), considering the number of restorations surface, to assess the outcome of the study.</p>
+              </sec>
+              <sec>
+                <title>Sample size</title>
+                <p>The sample size calculation was performed based on the primary outcome (percentage of restorations requiring reintervention). A failure rate of 10% after two years was considered for occlusal restorations
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup> and 30% for occlusal-proximal restorations
+<sup><xref rid="ref-37" ref-type="bibr">37</xref></sup>. It was also considered that approximately 10% of the replaced restorations and 14% of the restorations undergoing repair fail again
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>. Considering that half of the sample is occlusal restorations, an operative reintervention requirement rate of 24% is expected in two years. The minimum number of 522 restorations was reached, based on an absolute difference of 10% between the groups, using a two-tailed test. As a child can contribute with more than one restoration, 20% was added to the sample size (n = 626).</p>
+                <p>Considering that children with restored teeth have on average 3.7 restorations
+<sup><xref rid="ref-39" ref-type="bibr">39</xref></sup>, and adding 20% for possible participants loss, a minimum number of 204 children presenting at least one restored primary tooth (without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility) is required to be included in this trial.</p>
+              </sec>
+            </sec>
+            <sec>
+              <title>Data management and analysis</title>
+              <sec>
+                <title>Data management</title>
+                <p>Clinical data will be entered directly into predetermined sheets. Data quality will be ensured by validation checks that include missing data, out-of-range values, and illogical and invalid responses.</p>
+              </sec>
+              <sec>
+                <title>Statistical methods</title>
+                <p>Examiners' reproducibility will be performed using the weighted kappa test, calculating the weighted value of kappa and also the 95% confidence intervals. The primary outcome of the study is a dichotomous variable (with or without the need for intervention); therefore, the unit of analysis is the restored tooth. As children can have more than one tooth included in the study, the comparison between the groups will be carried out using survival analysis, considering the cluster-effect. Kaplan-Meyer graphs will be constructed, and the methods will be compared using the Cox regression model with a shared frailty.</p>
+                <p>Secondary clinical outcomes will also be analyzed using the same statistical tests. Quality of life will be analyzed using Poisson regression analysis and the unit of analysis will be the child.</p>
+                <p>A trial-based economic evaluation will be performed considering the difference of the inputs (costs) and outputs (effects) of the two diagnostic criteria (FDI and CARS) after two years. Further details regarding the economic evaluation will be described on a health economic analysis plan.</p>
+                <p>A p-value of 5% as the level of significance will be considered for all tests. The analyses will be performed using the statistical package Stata 13.0 (Stata Corp, College Station, USA).</p>
+              </sec>
+            </sec>
+            <sec>
+              <title>Participant recruitment and timeline</title>
+              <p>Recruitment took place at the School of Dentistry of the University of São Paulo from November 2017 to November 2018. Each allocated participant will have an average treatment period of one month and will be followed-up for 24 months, resulting in a total of 25 months of enrollment. The detailed timeline for data collection is summarized in
+<xref ref-type="fig" rid="f5">Figure 5</xref>.</p>
+              <fig fig-type="figure" id="f5" orientation="portrait" position="anchor">
+                <label>Figure 5. </label>
+                <caption>
+                  <title>Clinical trial's timeline.</title>
+                  <p>ECOHIS, Early Childhood Oral Health Impact Scale; FDI, International Dental Federation; CARS, Caries Associated with Restorations and Sealants.</p>
+                </caption>
+                <graphic xlink:href="f1000research-9-34232-g0004"/>
+              </fig>
+            </sec>
+            <sec>
+              <title>Monitoring</title>
+              <sec>
+                <title>Data monitoring</title>
+                <p>No data monitoring committee is needed in this trial since adverse events are unlikely to happen during restoration evaluation and dental treatments. For this reason, the chief investigator of the study (FMM) will assume an independent oversight of trial data collection, management, and analysis. </p>
+              </sec>
+              <sec>
+                <title>Harms</title>
+                <p>The effects expected in this study are the ones listed as trial outcomes. All of them are usually expected to happen during pediatric dentistry clinical practice. Any other adverse event is unlikely to happen.</p>
+              </sec>
+              <sec>
+                <title>Auditing</title>
+                <p>The data will be periodically subjected to audit by the coordinator of the study. Any discrepancies will be verified, corrected and registered.</p>
+              </sec>
+            </sec>
+            <sec>
+              <title>Ethics and dissemination</title>
+              <sec>
+                <title>Confidentiality</title>
+                <p>Sequential numbers will be used to identify and ensure participant confidentiality. Participants’ identifiable information will be stored in filing cabinets in a locked secure room.</p>
+              </sec>
+              <sec>
+                <title>Access to data</title>
+                <p>The full data generated from this trial will be placed in a public repository (
+<ext-link ext-link-type="uri" xlink:href="https://uspdigital.usp.br/repositorio/">University of São Paulo Data Repository</ext-link>).</p>
+              </sec>
+              <sec>
+                <title>Ancillary and post-trial care</title>
+                <p>Participants included in this trial will have dental treatments provided at the School’s dental clinic during and after the completion of the trial if necessary.</p>
+              </sec>
+              <sec>
+                <title>Dissemination policy</title>
+                <p>All the findings of this trial will be reported in peer-reviewed journals, patient newsletters and the
+<ext-link ext-link-type="uri" xlink:href="http://www.fo.usp.br/?page_id=1519">School of Dentistry of University of São Paulo website</ext-link>.</p>
+              </sec>
+            </sec>
+            <sec>
+              <title>Study status</title>
+              <p>The patient recruitment took place from 16 November 2017 to 30 November 2018. The follow-up evaluations of 6 and 12 months were concluded; however, the study is now temporarily suspended since 16 March 2020 due to COVID-19. </p>
+            </sec>
+            <sec sec-type="discussion">
+              <title>Discussion</title>
+              <p>Restoration assessment is a challenge in dentistry, and the main point of debate is caries around restoration
+<sup><xref rid="ref-1" ref-type="bibr">1</xref>,
+<xref rid="ref-40" ref-type="bibr">40</xref></sup>. However, due to the scarcity of well-conducted studies, its diagnosis is not based on objective clinical criteria, and there is a considerable variation in the criteria used. As a consequence, a significant number of restorations presenting small defects are often indicated to be replaced since they can be misdiagnosed as caries lesions
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. Also, there is no homogeneity on the treatment decision-making for secondary caries between dentists
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-41" ref-type="bibr">41</xref></sup>, and studies based on clinical practice have shown that they tend to replace more restorations than necessary
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>.</p>
+              <p>Two recently published systematic reviews included around 20 accuracy studies of methods for detecting caries lesions around restorations
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-13" ref-type="bibr">13</xref></sup>. The majority of these studies were performed
+<italic>in vitro</italic>, assessed caries lesions in permanent teeth, and did not evaluate relevant aspects to the clinical practice
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-13" ref-type="bibr">13</xref></sup>. Nevertheless, the decision on what is the best method to be used should evaluate whether patients undergoing such methods would have greater health-related benefits than patients undergoing some other method
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>. For this assessment, ultimate health outcomes for patients must be considered. The experimental design to assess it is the randomized clinical trial (Phase IV question).</p>
+              <p>Randomized clinical trials are considered the best study design on which clinicians and policy-makers rely most to determine whether an intervention is effective
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. However, as far as we know, no randomized clinical study has been carried out regarding the detection of caries lesions around restorations in primary teeth. Besides that, no study compared the accuracy of FDI and CARS criteria clinically to detect caries around restoration on primary teeth, and the impact of the use of the criteria on the restorative treatment decisions for children. For this reason, an accuracy study (Phase III question) with the FDI and CARS methods will be developed nested to this trial.</p>
+              <p>For the present trial, the authors decided to use among the FDI criteria the subcategories marginal staining and marginal adaptation, beyond recurrence of caries. The decision was based on the fact that both aspects can be misinterpreted with secondary caries during restoration assessment
+<sup><xref rid="ref-45" ref-type="bibr">45</xref>–
+<xref rid="ref-47" ref-type="bibr">47</xref></sup>. Therefore, we tried to simulate what can clinically be a reason for restoration reintervention in the daily clinical practice. Regarding the CARS criteria, the system does not present any treatment decision linked to the evaluation method. For this reason, we adapted the decisions based on the ICCMS recommendations for treating primary caries lesions
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>.</p>
+              <p>The criteria systems used to assess the study outcome, although different, were defined mainly to evaluate our primary endpoint, which is the necessity of replacement of the restoration. The difference between the two criteria is because one is used to assessing one-surface restorations (Frencken
+<italic>et al</italic>.), and the other is used for assessing multi-surface restoration (Roeleveld
+<italic>et al</italic>.). However, both are used to evaluate the necessity of restoration replacement. Regarding the patient perspective, the reason that led to the replacement probably is not important. We could assess this information with some patient-reported variables (or proxies, reported by the parents). The suitability of the two criteria for the dentists will not be evaluated in our study. Still, we can speculate about this topic in the main manuscript after obtaining the results.</p>
+              <p>The study’s limitation is that the first assessment performed with the participant’s allocation group (FDI or CARS criteria) and the second assessment according to the other criteria will be done at the same dental appointment. This will be done to reduce the number of dental appointments for the patients, enhancing their adherence to the clinical research. However, a carry-over effect could occur between the methods. Contrariwise, a strength of the study is the procedure used to avoid selection bias. The evaluations will be conducted in a sample of children randomly selected from a list of patients who sought dental treatment at our School. Besides that, the outcome assessor will be blinded regarding the allocation group to avoid assessment bias.</p>
+              <p>Thus, with the development of this clinical trial and expected results, we aim to define between FDI and CARS criteria the best approach for diagnosis and management of dental restorations in children, considering the impact on the treatment decision on clinically relevant outcomes for the patient and costs resulting from the treatments performed.</p>
+            </sec>
+            <sec sec-type="data-availability">
+              <title>Data availability</title>
+              <sec>
+                <title>Underlying data</title>
+                <p>No underlying data are associated with this article.</p>
+              </sec>
+              <sec>
+                <title>Extended data</title>
+                <p>Figshare: Consent form.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327644.v1">https://doi.org/10.6084/m9.figshare.12327644.v1</ext-link>
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>.</p>
+                <p>Figshare: Consent form in the original language (Portuguese).
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327674.v1">https://doi.org/10.6084/m9.figshare.12327674.v1</ext-link>
+<sup><xref rid="ref-18" ref-type="bibr">18</xref></sup>.</p>
+                <p>Figshare: Assent form.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327731.v1">https://doi.org/10.6084/m9.figshare.12327731.v1</ext-link>
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>.</p>
+                <p>Figshare: Assent form in the original language (Portuguese).
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327779.v1">https://doi.org/10.6084/m9.figshare.12327779.v1</ext-link>
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup>.</p>
+                <p>Figshare: Restorations assessment form.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12331460.v1">https://doi.org/10.6084/m9.figshare.12331460.v1</ext-link>
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>.</p>
+                <p>Figshare: Restorations assessment form in the original language (Portuguese).</p>
+                <p><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12331466.v1">https://doi.org/10.6084/m9.figshare.12331466.v1</ext-link><sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>.</p>
+                <p>Figshare: Anamnesis form.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12324212.v1">https://doi.org/10.6084/m9.figshare.12324212.v1</ext-link>
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup>.</p>
+                <p>Figshare: Anamnesis form in the original language (Portuguese).
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327578.v1">https://doi.org/10.6084/m9.figshare.12327578.v1</ext-link>
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>.</p>
+                <p>Figshare: Time and cost form.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12327854.v1">https://doi.org/10.6084/m9.figshare.12327854.v1</ext-link>
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>.</p>
+                <p>Figshare: Time and cost form in the original language (Portuguese).
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12331451.v1">https://doi.org/10.6084/m9.figshare.12331451.v1</ext-link>
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p>
+              </sec>
+              <sec>
+                <title>Reporting guidelines</title>
+                <p>Figshare: SPIRIT checklist.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6084/m9.figshare.12331484.v1">https://doi.org/10.6084/m9.figshare.12331484.v1</ext-link>
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>.</p>
+                <p>Data are available under the terms of the Creative Commons Zero “No rights reserved” data waiver (CC0 1.0 Public domain dedication).</p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors would like to thank CARDEC-03 and CaCIA collaborative groups. Both collaborative groups have shared the ideas and collaborated with the planning and establishment of the present study. Members of each group can be found below. We also wish to thank the participants of the Post-Graduation in Pediatric Dentistry Seminar of University of São Paulo School of Dentistry (FOUSP) for the critical comments put forth.</p>
+              <p><ext-link ext-link-type="uri" xlink:href="https://www.facebook.com/notes/cardec-trials-caries-detection-in-children/caries-cognition-and-identification-in-adults-cacia-collaborative-group-trial-1/2280633405552937/">CaCIA collaborative group – Trial 1</ext-link>:</p>
+              <p>Ana Beatriz Lima de Queiroz, Alessandra Braga de Avila, Bruna Oliveira Souza Cácia Signori, Camila Raubach Dias, Camila Thurow Becker, Eduardo Trota Chaves, Eugênia Carrera Malhão, Elenara Ferreira de Oliveira, Juliana Lays Stolfo Uehara, Fernanda Gonçalves da Silva, Fernanda Srynczyk da Silva, Gabriel Ventura Lima Kucharski, Gabriele Ribeiro dos Santos, Julia Macluf Torres, Karoline Von Ahn Pinto, Laura Lourenço Morel, Leonardo Blank Weymar, Marcelo Pereira Brod, Maria Fernanda Gamborgi, Maximiliano Sérgio Cenci, Renata Uliana Posser, Thaís da Silva Vieira, Vitor Henrique Romero Digmayer, Wagner da Silva Nolasco and Wagner Martins da Silva Leal.</p>
+              <p><ext-link ext-link-type="uri" xlink:href="https://www.facebook.com/notes/cardec-trials-caries-detection-in-children/caries-detection-in-children-cardec-collaborative-group-trial-3/2280596835556594/">CARDEC collaborative group – Trial 3</ext-link>:</p>
+              <p>Ana Laura Passaro, Annelry Costa Serra, Antonio Carlos Lopes Silva, Bruna Lorena Pereira Moro, Carolina de Picoli Acosta, Caroline Mariano Laux, Cíntia Saori Saihara, Daniela Prócida Raggio, Fausto Medeiros Mendes, Haline Cunha Medeiros Maia, Isabel Cristina Olegário da Costa, Isabella Ronqui de Almeida, Jhandira Daibelis Yampa Vargas, Jonathan Rafael Garbim, José Carlos P. Imparato, Julia Gomes Freitas, Karina Haibara De Natal, Kim Rud Ekstrand, Laura Regina Antunes Pontes, Mariana Bifulco, Mariana Minatel Braga, Mariana Pinheiro de Araújo, Mayume Amorim do Vale, Raiza Dias Freitas, Renata Marques Samuel, Rita Baronti, Rodolfo de Carvalho Oliveira, Simone Cesar, Tamara Kerber Tedesco, Tathiane Larissa Lenzi, Tatiane Fernandes Novaes and Thais Gimenez.</p>
+            </ack>
+            <ref-list>
+              <ref id="ref-1">
+                <label>1</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nedeljkovic</surname><given-names>I</given-names></name><name><surname>De Munck</surname><given-names>J</given-names></name><name><surname>Vanloy</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Secondary caries: prevalence, characteristics, and approach.</article-title><source><italic toggle="yes">Clin Oral Investig.</italic></source><year>2020</year>;<volume>24</volume>(<issue>2</issue>):<fpage>683</fpage>–<lpage>691</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00784-019-02894-0</pub-id>
+<?supplied-pmid 31123872?><pub-id pub-id-type="pmid">31123872</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-2">
+                <label>2</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nassar</surname><given-names>HM</given-names></name><name><surname>González-Cabezas</surname><given-names>C</given-names></name></person-group>:
+<article-title>Effect of gap geometry on secondary caries wall lesion development.</article-title><source><italic toggle="yes">Caries Res.</italic></source><year>2011</year>;<volume>45</volume>(<issue>4</issue>):<fpage>346</fpage>–<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1159/000329384</pub-id>
+<?supplied-pmid 21778722?><pub-id pub-id-type="pmid">21778722</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-3">
+                <label>3</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mjör</surname><given-names>IA</given-names></name></person-group>:
+<article-title>Clinical diagnosis of recurrent caries.</article-title><source><italic toggle="yes">J Am Dent Assoc.</italic></source><year>2005</year>;<volume>136</volume>(<issue>10</issue>):<fpage>1426</fpage>–<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.14219/jada.archive.2005.0057</pub-id>
+<?supplied-pmid 16255468?><pub-id pub-id-type="pmid">16255468</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-4">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hickel</surname><given-names>R</given-names></name><name><surname>Peschke</surname><given-names>A</given-names></name><name><surname>Tyas</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>FDI World Dental Federation - clinical criteria for the evaluation of direct and indirect restorations. Update and clinical examples.</article-title><source><italic toggle="yes">J Adhes Dent.</italic></source><year>2010</year>;<volume>12</volume>(<issue>4</issue>):<fpage>259</fpage>–<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.3290/j.jad.a19262</pub-id>
+<?supplied-pmid 20847997?><pub-id pub-id-type="pmid">20847997</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-5">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Gimenez</surname><given-names>T</given-names></name><name><surname>Mendes</surname><given-names>FM</given-names></name><etal/></person-group>:
+<article-title>Clinical relevance of studies on the visual and radiographic methods for detecting secondary caries lesions - A systematic review.</article-title><source><italic toggle="yes">J Dent.</italic></source><year>2018</year>;<volume>75</volume>:<fpage>22</fpage>–<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jdent.2018.05.018</pub-id>
+<?supplied-pmid 29857074?><pub-id pub-id-type="pmid">29857074</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-6">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pitts</surname><given-names>NB</given-names></name><name><surname>Ismail</surname><given-names>AI</given-names></name><name><surname>Martignon</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>ICCMS
+<sup>TM</sup> Guide for Practitioners and Educators</article-title>.<year>2016</year>;<fpage>1</fpage>–<lpage>45</lpage>.
+<ext-link ext-link-type="uri" xlink:href="https://www.semanticscholar.org/paper/ICCMS™-Guide-for-Practitioners-and-Educators-Pitts-Martignon/bc8e74784e3605a3ccc97202e685635ef2b82102">Reference Source</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="ref-7">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martignon</surname><given-names>S</given-names></name><name><surname>Pitts</surname><given-names>NB</given-names></name><name><surname>Goffin</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>CariesCare practice guide: consensus on evidence into practice.</article-title><source><italic toggle="yes">Br Dent J.</italic></source><year>2019</year>;<volume>227</volume>(<issue>5</issue>):<fpage>353</fpage>–<lpage>362</lpage>.
+<pub-id pub-id-type="doi">10.1038/s41415-019-0678-8</pub-id>
+<?supplied-pmid 31520031?><pub-id pub-id-type="pmid">31520031</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-8">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gordan</surname><given-names>VV</given-names></name><name><surname>Riley</surname><given-names>JL</given-names></name><name><surname>Rindal</surname><given-names>DB</given-names></name><etal/></person-group>:
+<article-title>Repair or replacement of restorations.</article-title><source><italic toggle="yes">J Am Dent Assoc.</italic></source><year>2015</year>;<volume>146</volume>:<fpage>895</fpage>–<lpage>903</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.adaj.2015.05.017</pub-id>
+<pub-id pub-id-type="pmid">26610834</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-9">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Demarco</surname><given-names>FF</given-names></name><name><surname>Collares</surname><given-names>K</given-names></name><name><surname>Correa</surname><given-names>MB</given-names></name><etal/></person-group>:
+<article-title>Should my composite restorations last forever? Why are they failing?</article-title><source><italic toggle="yes">Braz Oral Res.</italic></source><year>2017</year>;<volume>31</volume>(<issue>suppl 1</issue>):<fpage>e56</fpage>.
+<pub-id pub-id-type="doi">10.1590/1807-3107BOR-2017.vol31.0056</pub-id><?supplied-pmid 28902236?><pub-id pub-id-type="pmid">28902236</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-10">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eltahlah</surname><given-names>D</given-names></name><name><surname>Lynch</surname><given-names>CD</given-names></name><name><surname>Chadwick</surname><given-names>BL</given-names></name><etal/></person-group>:
+<article-title>An update on the reasons for placement and replacement of direct restorations.</article-title><source><italic toggle="yes">J Dent.</italic></source><year>2018</year>;<volume>72</volume>:<fpage>1</fpage>–<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jdent.2018.03.001</pub-id>
+<?supplied-pmid 29522787?><pub-id pub-id-type="pmid">29522787</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-11">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elderton</surname><given-names>RJ</given-names></name></person-group>:
+<article-title>Clinical Studies Concerning Re-Restoration of Teeth.</article-title><source><italic toggle="yes">Adv Dent Res.</italic></source><year>1990</year>;<volume>4</volume>:<fpage>4</fpage>–<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1177/08959374900040010701</pub-id>
+<?supplied-pmid 2206212?><pub-id pub-id-type="pmid">2206212</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-12">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frencken</surname><given-names>JE</given-names></name><name><surname>Peters</surname><given-names>MC</given-names></name><name><surname>Manton</surname><given-names>DJ</given-names></name><etal/></person-group>:
+<article-title>Minimal Intervention Dentistry for Managing Dental Caries - A Review: Report of a FDI Task Group.</article-title><source><italic toggle="yes">Int Dent J.</italic></source><year>2012</year>;<volume>62</volume>(<issue>5</issue>):<fpage>223</fpage>–<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1111/idj.12007</pub-id>
+<!--<pub-id pub-id-type="pmcid">3490231</pub-id>-->
+<?supplied-pmid 23106836?><pub-id pub-id-type="pmid">23106836</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-13">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brouwer</surname><given-names>F</given-names></name><name><surname>Askar</surname><given-names>H</given-names></name><name><surname>Paris</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Detecting Secondary Caries Lesions: A Systematic Review and Meta-analysis.</article-title><source><italic toggle="yes">J Dent Res.</italic></source><year>2016</year>;<volume>95</volume>(<issue>2</issue>):<fpage>143</fpage>–<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1177/0022034515611041</pub-id>
+<?supplied-pmid 26464398?><pub-id pub-id-type="pmid">26464398</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-14">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chan</surname><given-names>AW</given-names></name><name><surname>Tetzlaff</surname><given-names>JM</given-names></name><name><surname>Altman</surname><given-names>DG</given-names></name><etal/></person-group>:
+<article-title>SPIRIT 2013 statement: Defining standard protocol items for clinical trials.</article-title><source><italic toggle="yes">Ann Intern Med.</italic></source><year>2013</year>;<volume>158</volume>(<issue>3</issue>):<fpage>200</fpage>–<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.7326/0003-4819-158-3-201302050-00583</pub-id>
+<!--<pub-id pub-id-type="pmcid">5114123</pub-id>-->
+<?supplied-pmid 23295957?><pub-id pub-id-type="pmid">23295957</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-15">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - SPIRIT_checklist</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12331484.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-16">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Patient Consent Form</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327644.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-17">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Assent Form</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327731.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-18">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Patient Consent Form in Portuguese</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327674.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-19">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Assent Form in Portuguese</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327779.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-20">
+                <label>20</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Twetman</surname><given-names>S</given-names></name><name><surname>Fontana</surname><given-names>M</given-names></name><name><surname>Featherstone</surname><given-names>JD</given-names></name></person-group>:
+<article-title>Risk assessment - can we achieve consensus?</article-title><source><italic toggle="yes">Community Dent Oral Epidemiol.</italic></source><year>2013</year>;<volume>41</volume>(<issue>1</issue>):<fpage>e64</fpage>–<lpage>e70</lpage>.
+<pub-id pub-id-type="doi">10.1111/cdoe.12026</pub-id>
+<?supplied-pmid 24916679?><pub-id pub-id-type="pmid">24916679</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-21">
+                <label>21</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shivakumar</surname><given-names>KM</given-names></name><name><surname>Prasad</surname><given-names>S</given-names></name><name><surname>Chandu</surname><given-names>GN</given-names></name></person-group>:
+<article-title>International Caries Detection and Assessment System: A new paradigm in detection of dental caries.</article-title><source><italic toggle="yes">J Conserv Dent.</italic></source><year>2009</year>;<volume>12</volume>(<issue>1</issue>):<fpage>10</fpage>–<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.4103/0972-0707.53335</pub-id>
+<!--<pub-id pub-id-type="pmcid">2848805</pub-id>-->
+<?supplied-pmid 20379434?><pub-id pub-id-type="pmid">20379434</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-22">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Restorations Assessment Form</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12331460.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-23">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Restorations Assessment Form in Portuguese</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12331466.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-24">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tesch</surname><given-names>FC</given-names></name><name><surname>De Oliveira</surname><given-names>BH</given-names></name><name><surname>Leão</surname><given-names>A</given-names></name></person-group>:
+<article-title>Equivalência semântica da versão em português do instrumento Early Childhood Oral Health Impact Scale.</article-title><source><italic toggle="yes">Cad Saude Publica.</italic></source><year>2008</year>;<volume>24</volume>(<issue>8</issue>):<fpage>1897</fpage>–<lpage>909</lpage>.
+<pub-id pub-id-type="doi">10.1590/S0102-311X2008000800018</pub-id>
+<pub-id pub-id-type="pmid">18709230</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-25">
+                <label>25</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martins-Júnior</surname><given-names>PA</given-names></name><name><surname>Ramos-Jorge</surname><given-names>J</given-names></name><name><surname>Paiva</surname><given-names>SM</given-names></name><etal/></person-group>:
+<article-title>Validação da versão brasileira do
+<italic>Early Childhood Oral Health Impact Scale</italic> (ECOHIS).</article-title><source><italic toggle="yes">Cad Saude Publica.</italic></source><year>2012</year>;<volume>28</volume>(<issue>2</issue>):<fpage>367</fpage>–<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1590/s0102-311x2012000200015</pub-id>
+<?supplied-pmid 22331162?><pub-id pub-id-type="pmid">22331162</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-26">
+                <label>26</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pahel</surname><given-names>BT</given-names></name><name><surname>Rozier</surname><given-names>RG</given-names></name><name><surname>Slade</surname><given-names>GD</given-names></name></person-group>:
+<article-title>Parental perceptions of children’s oral health: The Early Childhood Oral Health Impact Scale (ECOHIS).</article-title><source><italic toggle="yes">Health Qual Life Outcomes.</italic></source><year>2007</year>;<volume>5</volume>:<fpage>6</fpage>.
+<pub-id pub-id-type="doi">10.1186/1477-7525-5-6</pub-id><!--<pub-id pub-id-type="pmcid">1802739</pub-id>--><?supplied-pmid 17263880?><pub-id pub-id-type="pmid">17263880</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-27">
+                <label>27</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Anamnesis Form.pdf</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12324212.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-28">
+                <label>28</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Anamnesis Form in Portuguese</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327578.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-29">
+                <label>29</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Walsh</surname><given-names>T</given-names></name><name><surname>Worthington</surname><given-names>HV</given-names></name><name><surname>Glenny</surname><given-names>AM</given-names></name><etal/></person-group>:
+<article-title>Fluoride toothpastes of different concentrations for preventing dental caries in children and adolescents.</article-title><source><italic toggle="yes">Cochrane Database Syst Rev.</italic></source><year>2010</year>;<volume>20</volume>(<issue>1</issue>):<fpage>CD007868</fpage>.
+<pub-id pub-id-type="doi">10.1002/14651858.CD007868.pub2</pub-id><?supplied-pmid 20091655?><pub-id pub-id-type="pmid">20091655</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-30">
+                <label>30</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Harris</surname><given-names>R</given-names></name><name><surname>Gamboa</surname><given-names>A</given-names></name><name><surname>Dailey</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>One-to-one dietary interventions undertaken in a dental setting to change dietary behaviour.</article-title><source><italic toggle="yes">Cochrane Database Syst Rev.</italic></source><year>2012</year>;<volume>2012</volume>(<volume>3</volume>):<fpage>CD006540</fpage>.
+<pub-id pub-id-type="doi">10.1002/14651858.CD006540.pub2</pub-id><!--<pub-id pub-id-type="pmcid">6464965</pub-id>--><?supplied-pmid 22419315?><pub-id pub-id-type="pmid">22419315</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-31">
+                <label>31</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Time and Cost Form</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12327854.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-32">
+                <label>32</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Signori</surname><given-names>C</given-names></name><name><surname>Freitas</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>CARDEC-03 - Time and Cost Form in Portuguese</article-title>.<year>2020</year><pub-id pub-id-type="doi">10.6084/m9.figshare.12331451.v1</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-33">
+                <label>33</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hickel</surname><given-names>R</given-names></name><name><surname>Brüshaver</surname><given-names>K</given-names></name><name><surname>Ilie</surname><given-names>N</given-names></name></person-group>:
+<article-title>Repair of restorations – Criteria for decision making and clinical recommendations.</article-title><source><italic toggle="yes">Dent Mater.</italic></source><year>2013</year>;<volume>29</volume>(<issue>1</issue>):<fpage>28</fpage>–<lpage>50</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.dental.2012.07.006</pub-id>
+<?supplied-pmid 22867859?><pub-id pub-id-type="pmid">22867859</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-34">
+                <label>34</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Frencken</surname><given-names>JE</given-names></name><name><surname>Makoni</surname><given-names>F</given-names></name><name><surname>Sitholea</surname><given-names>WD</given-names></name></person-group>:
+<article-title>Atraumatic restorative treatment and glass-lonomer sealants in a school oral health programme in zimbabwe: Evaluation after 1 year.</article-title><source><italic toggle="yes">Caries Res.</italic></source><year>1996</year>;<volume>30</volume>(<issue>6</issue>):<fpage>428</fpage>–<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1159/000262355</pub-id>
+<?supplied-pmid 8946101?><pub-id pub-id-type="pmid">8946101</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-35">
+                <label>35</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roeleveld</surname><given-names>AC</given-names></name><name><surname>van Amerongen</surname><given-names>WE</given-names></name><name><surname>Mandari</surname><given-names>GJ</given-names></name></person-group>:
+<article-title>Influence of residual caries and cervical gaps on the survival rate of Class II glass ionomer restorations.</article-title><source><italic toggle="yes">Eur Arch Paediatr Dent.</italic></source><year>2006</year>;<volume>7</volume>(<issue>2</issue>):<fpage>85</fpage>–<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1007/BF03320820</pub-id>
+<?supplied-pmid 17140533?><pub-id pub-id-type="pmid">17140533</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-36">
+                <label>36</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Qvist</surname><given-names>V</given-names></name><name><surname>Poulsen</surname><given-names>A</given-names></name><name><surname>Teglers</surname><given-names>PT</given-names></name><etal/></person-group>:
+<article-title>The longevity of different restorations in primary teeth.</article-title><source><italic toggle="yes">Int J Paediatr Dent.</italic></source><year>2010</year>;<volume>20</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1365-263X.2009.01017.x</pub-id>
+<?supplied-pmid 20059587?><pub-id pub-id-type="pmid">20059587</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-37">
+                <label>37</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tedesco</surname><given-names>TK</given-names></name><name><surname>Calvo</surname><given-names>AFB</given-names></name><name><surname>Lenzi</surname><given-names>TL</given-names></name><etal/></person-group>:
+<article-title>ART is an alternative for restoring occlusoproximal cavities in primary teeth - evidence from an updated systematic review and meta-analysis.</article-title><source><italic toggle="yes">Int J Paediatr Dent.</italic></source><year>2017</year>;<volume>27</volume>(<issue>3</issue>):<fpage>201</fpage>–<lpage>209</lpage>.
+<pub-id pub-id-type="doi">10.1111/ipd.12252</pub-id>
+<?supplied-pmid 27489205?><pub-id pub-id-type="pmid">27489205</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-38">
+                <label>38</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gordan</surname><given-names>VV</given-names></name><name><surname>Riley</surname><given-names>JL</given-names></name><name><surname>Rindal</surname><given-names>DB</given-names></name><etal/></person-group>:
+<article-title>Repair or replacement of restorations.</article-title><source><italic toggle="yes">J Am Dent Assoc.</italic></source><year>2015</year>;<volume>146</volume>(<issue>12</issue>):<fpage>895</fpage>–<lpage>903</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.adaj.2015.05.017</pub-id>
+<pub-id pub-id-type="pmid">26610834</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-39">
+                <label>39</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gimenez</surname><given-names>T</given-names></name><name><surname>Moro</surname><given-names>BLP</given-names></name><name><surname>Camargo</surname><given-names>LB</given-names></name></person-group>:
+<article-title>Impact of visual inspection and radiographs for caries detection in children: a 2-year randomized clinical trial.</article-title><source><italic toggle="yes">J Am Dent Assoc.</italic></source><year>2020</year>;<volume>151</volume>(<issue>6</issue>):<fpage>407</fpage>–<lpage>415.e1</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.adaj.2020.02.008</pub-id>
+<pub-id pub-id-type="pmid">32450979</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-40">
+                <label>40</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nedeljkovic</surname><given-names>I</given-names></name><name><surname>Teughels</surname><given-names>W</given-names></name><name><surname>De Munck</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Is secondary caries with composites a material-based problem?</article-title><source><italic toggle="yes">Dent Mater.</italic></source><year>2015</year>;<volume>31</volume>(<issue>11</issue>):<fpage>e247</fpage>–<lpage>77</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.dental.2015.09.001</pub-id>
+<?supplied-pmid 26410151?><pub-id pub-id-type="pmid">26410151</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-41">
+                <label>41</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alomari</surname><given-names>Q</given-names></name><name><surname>Al-Saiegh</surname><given-names>F</given-names></name><name><surname>Qudeimat</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Recurrent Caries at Crown Margins: Making a Decision on Treatment.</article-title><source><italic toggle="yes">Med Princ Pract.</italic></source><year>2009</year>;<volume>18</volume>(<issue>3</issue>):<fpage>187</fpage>–<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1159/000204348</pub-id>
+<?supplied-pmid 19349720?><pub-id pub-id-type="pmid">19349720</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-42">
+                <label>42</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gordan</surname><given-names>VV</given-names></name><name><surname>Riley</surname><given-names>JL</given-names><suffix>3rd</suffix></name><name><surname>Geraldeli</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Repair or replacement of defective restorations by dentists in the dental practice-based research network.</article-title><source><italic toggle="yes">J Am Dent Assoc.</italic></source><year>2012</year>;<volume>143</volume>(<issue>6</issue>):<fpage>593</fpage>–<lpage>601</lpage>.
+<pub-id pub-id-type="doi">10.14219/jada.archive.2012.0238</pub-id>
+<!--<pub-id pub-id-type="pmcid">3368503</pub-id>-->
+<?supplied-pmid 22653939?><pub-id pub-id-type="pmid">22653939</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-43">
+                <label>43</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sackett</surname><given-names>DL</given-names></name><name><surname>Haynes</surname><given-names>RB</given-names></name></person-group>:
+<article-title>The architecture of diagnostic research.</article-title><source><italic toggle="yes">BMJ.</italic></source><year>2002</year>;<volume>324</volume>(<issue>7336</issue>):<fpage>539</fpage>–<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1136/bmj.324.7336.539</pub-id>
+<!--<pub-id pub-id-type="pmcid">1122451</pub-id>-->
+<?supplied-pmid 11872558?><pub-id pub-id-type="pmid">11872558</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-44">
+                <label>44</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chassé</surname><given-names>M</given-names></name><name><surname>Fergusson</surname><given-names>DA</given-names></name></person-group>:
+<article-title>Diagnostic Accuracy Studies.</article-title><source><italic toggle="yes">Semin Nucl Med.</italic></source><year>2019</year>;<volume>49</volume>(<issue>2</issue>):<fpage>87</fpage>–<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1053/j.semnuclmed.2018.11.005</pub-id>
+<?supplied-pmid 30819399?><pub-id pub-id-type="pmid">30819399</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-45">
+                <label>45</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mjör</surname><given-names>IA</given-names></name><name><surname>Toffenetti</surname><given-names>F</given-names></name></person-group>:
+<article-title>Secondary caries: a literature review with case reports.</article-title><source><italic toggle="yes">Quintessence Int.</italic></source><year>2000</year>;<volume>31</volume>(<issue>3</issue>):<fpage>165</fpage>–<lpage>79</lpage>.
+<?supplied-pmid 11203922?><pub-id pub-id-type="pmid">11203922</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-46">
+                <label>46</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kidd</surname><given-names>EA</given-names></name><name><surname>Beighton</surname><given-names>D</given-names></name></person-group>:
+<article-title>Prediction of Secondary Caries around Tooth-colored Restorations: A Clinical and Microbiological Study.</article-title><source><italic toggle="yes">J Dent Res.</italic></source><year>1996</year>;<volume>75</volume>(<issue>12</issue>):<fpage>1942</fpage>–<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1177/00220345960750120501</pub-id>
+<?supplied-pmid 9033448?><pub-id pub-id-type="pmid">9033448</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-47">
+                <label>47</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Foster</surname><given-names>LV</given-names></name></person-group>:
+<article-title>Validity of clinical judgements for the presence of secondary caries associated with defective amalgam restorations.</article-title><source><italic toggle="yes">Br Dent J.</italic></source><year>1994</year>;<volume>177</volume>(<issue>3</issue>):<fpage>89</fpage>–<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.bdj.4808518</pub-id>
+<?supplied-pmid 8060719?><pub-id pub-id-type="pmid">8060719</pub-id></mixed-citation>
+              </ref>
+              <ref id="ref-48">
+                <label>48</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pitts</surname><given-names>NB</given-names></name><name><surname>Ekstrand</surname><given-names>KR</given-names></name></person-group>:
+<article-title>International Caries Detection and Assessment System (ICDAS) and its International Caries Classification and Management System (ICCMS) - methods for staging of the caries process and enabling dentists to manage caries.</article-title><source><italic toggle="yes">Community Dent Oral Epidemiol.</italic></source><year>2013</year>;<volume>41</volume>(<issue>1</issue>):<fpage>e41</fpage>–<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1111/cdoe.12025</pub-id>
+<?supplied-pmid 24916677?><pub-id pub-id-type="pmid">24916677</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+          <sub-article id="report77010" article-type="peer-review">
+            <front-stub>
+              <article-id pub-id-type="doi">10.5256/f1000research.34232.r77010</article-id>
+              <title-group>
+                <article-title>Reviewer response for version 3</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Zandoná</surname>
+                    <given-names>Andrea</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="r77010a1">1</xref>
+                  <role>Referee</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0237-9416</contrib-id>
+                </contrib>
+                <aff id="r77010a1"><label>1</label>Department of Comprehensive Care, Tufts University School of Dental Medicine, Boston, MA, USA</aff>
+              </contrib-group>
+              <author-notes>
+                <fn fn-type="COI-statement">
+                  <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>20</day>
+                <month>1</month>
+                <year>2021</year>
+              </pub-date>
+              <permissions>
+                <copyright-statement>Copyright: © 2021 Zandoná A</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <related-article related-article-type="peer-reviewed-article" id="d39e4075" ext-link-type="doi" xlink:href="10.12688/f1000research.23801.3">Version 3</related-article>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>recommendation</meta-name>
+                  <meta-value>approve</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </front-stub>
+            <body>
+              <p>Thank you for your responses. The authors have addressed all comments.</p>
+              <p>Is the study design appropriate for the research question?</p>
+              <p>Yes</p>
+              <p>Is the rationale for, and objectives of, the study clearly described?</p>
+              <p>Yes</p>
+              <p>Are sufficient details of the methods provided to allow replication by others?</p>
+              <p>Partly</p>
+              <p>Are the datasets clearly presented in a useable and accessible format?</p>
+              <p>Not applicable</p>
+              <p>Reviewer Expertise:</p>
+              <p>Cariology</p>
+              <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+            </body>
+            <sub-article id="comment6285-77010" article-type="response">
+              <front-stub>
+                <contrib-group>
+                  <contrib contrib-type="author">
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>Fausto</given-names>
+                    </name>
+                    <aff>School of Dentistry of the University of São Paulo, Brazil</aff>
+                  </contrib>
+                </contrib-group>
+                <author-notes>
+                  <fn fn-type="COI-statement">
+                    <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                  </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                  <day>20</day>
+                  <month>1</month>
+                  <year>2021</year>
+                </pub-date>
+              </front-stub>
+              <body>
+                <p>Dear prof. Zandoná</p>
+                <p> I would like to thanks for your excellent suggestions. We are very grateful for your contribution.</p>
+                <p> Best regards</p>
+                <p> Fausto</p>
+              </body>
+            </sub-article>
+          </sub-article>
+          <sub-article id="report77009" article-type="peer-review">
+            <front-stub>
+              <article-id pub-id-type="doi">10.5256/f1000research.34232.r77009</article-id>
+              <title-group>
+                <article-title>Reviewer response for version 3</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pires dos Santos</surname>
+                    <given-names>Ana Paula</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="r77009a1">1</xref>
+                  <role>Referee</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5688-4747</contrib-id>
+                </contrib>
+                <aff id="r77009a1"><label>1</label>School of Dentistry, Department of Community and Preventive Dentistry, University of the State of Rio de Janeiro - UERJ, Rio de Janeiro, Brazil</aff>
+              </contrib-group>
+              <author-notes>
+                <fn fn-type="COI-statement">
+                  <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>11</day>
+                <month>1</month>
+                <year>2021</year>
+              </pub-date>
+              <permissions>
+                <copyright-statement>Copyright: © 2021 Pires dos Santos AP</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <related-article related-article-type="peer-reviewed-article" id="d39e4193" ext-link-type="doi" xlink:href="10.12688/f1000research.23801.3">Version 3</related-article>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>recommendation</meta-name>
+                  <meta-value>approve</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </front-stub>
+            <body>
+              <p>All the points raised have been addressed satisfactorily.</p>
+              <p>Is the study design appropriate for the research question?</p>
+              <p>Yes</p>
+              <p>Is the rationale for, and objectives of, the study clearly described?</p>
+              <p>Yes</p>
+              <p>Are sufficient details of the methods provided to allow replication by others?</p>
+              <p>Partly</p>
+              <p>Are the datasets clearly presented in a useable and accessible format?</p>
+              <p>Not applicable</p>
+              <p>Reviewer Expertise:</p>
+              <p>Cariology and Epidemiology</p>
+              <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p>
+            </body>
+            <sub-article id="comment6268-77009" article-type="response">
+              <front-stub>
+                <contrib-group>
+                  <contrib contrib-type="author">
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>Fausto</given-names>
+                    </name>
+                    <aff>School of Dentistry of the University of São Paulo, Brazil</aff>
+                  </contrib>
+                </contrib-group>
+                <author-notes>
+                  <fn fn-type="COI-statement">
+                    <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                  </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                  <day>12</day>
+                  <month>1</month>
+                  <year>2021</year>
+                </pub-date>
+              </front-stub>
+              <body>
+                <p>Dear Prof. Ana Paula</p>
+                <p> We are very grateful for your valuable suggestions and comments provided. They improved significantly our text. Thank you very much.</p>
+                <p> Best Wishes</p>
+                <p> The authors</p>
+              </body>
+            </sub-article>
+          </sub-article>
+          <sub-article id="report71876" article-type="peer-review">
+            <front-stub>
+              <article-id pub-id-type="doi">10.5256/f1000research.29958.r71876</article-id>
+              <title-group>
+                <article-title>Reviewer response for version 2</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pires dos Santos</surname>
+                    <given-names>Ana Paula</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="r71876a1">1</xref>
+                  <role>Referee</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-5688-4747</contrib-id>
+                </contrib>
+                <aff id="r71876a1"><label>1</label>School of Dentistry, Department of Community and Preventive Dentistry, University of the State of Rio de Janeiro - UERJ, Rio de Janeiro, Brazil</aff>
+              </contrib-group>
+              <author-notes>
+                <fn fn-type="COI-statement">
+                  <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>26</day>
+                <month>11</month>
+                <year>2020</year>
+              </pub-date>
+              <permissions>
+                <copyright-statement>Copyright: © 2020 Pires dos Santos AP</copyright-statement>
+                <copyright-year>2020</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <related-article related-article-type="peer-reviewed-article" id="d39e4313" ext-link-type="doi" xlink:href="10.12688/f1000research.23801.2">Version 2</related-article>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>recommendation</meta-name>
+                  <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </front-stub>
+            <body>
+              <p>This is an interesting and relevant study. I congratulate the authors for the initiative and acknowledge all the efforts needed for conducting this study. However, I have some suggestions that I believe may help readers better understand the rationale and methods employed.</p>
+              <p>
+                <bold>Introduction</bold>
+              </p>
+              <p> The authors pointed out that the FDI criteria evaluates some aspects that might not be directly related to caries lesions, such as “marginal staining” and “marginal adaptation”. If the aim was to compare two different criteria for diagnosis of caries around restorations, why not focus only on the “recurrence of caries” aspect?</p>
+              <p>
+                <bold>Study setting</bold>
+              </p>
+              <p> The authors stated that the participants were randomly selected from a list of patients who sought dental treatment at the School of Dentistry. Were participants randomly selected or were participants that fulfilled the eligibility criteria randomly allocated to the intervention groups?</p>
+              <p>
+                <bold>Participant eligibility</bold>
+              </p>
+              <p> I would suggest that inclusion criterion
+<bold>c</bold> should read as follows: Presenting at least one restoration of any restorative material (composite resin, amalgam or glass ionomer cement), regardless of its condition, on a primary tooth (anterior or posterior) without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility.</p>
+              <p>
+                <bold>Allocation: sequence generation and concealment mechanism</bold>
+              </p>
+              <p> I would suggest authors should rewrite the randomization mechanism. When a stratified randomization using blocks is used, firstly participants are stratified in different strata; then randomization using blocks (in this case, of different sizes) is performed within each stratum. So, the sentence “Randomization was stratified by blocks…” may not accurately describe what happened. Also, authors should clarify whether random permuted block sizes were used.</p>
+              <p>
+                <bold>Interventions</bold>
+              </p>
+              <p> The authors said both criteria were used in all children in order to compare the methods of the study. But as this is an RCT, wouldn’t it be possible to compare the methods even if children received only the diagnosis criterion they were allocated to?</p>
+              <p> The ECOHIS is intended to assess the impact on preschool children’s oral health-related quality of life, but this study included children from three to 10 years-old. Please clarify this issue.</p>
+              <p>
+                <bold>Follow-up visits and outcomes</bold>
+                <list list-type="order">
+                  <list-item>
+                    <p>The authors stated that participants will be followed up considering the outcome evaluation after six, 12, 18, and 24 months and that the treatment decisions for the restorations evaluated during the follow-up visits will be decided according to the FDI or CARS criteria, considering the child’s allocation group.</p>
+                  </list-item>
+                  <list-item>
+                    <p>They also stated that the occurrence of the outcomes will be evaluated according to predetermined criteria from two other criteria during the follow-up visits of six, 12, 18, and 24 months. Different criteria will be used according to the number of surfaces the restoration involves: for one-surface restorations: the criteria used will be according to Frencken
+<italic>et al</italic>. and for a multi-surface restoration: the criteria used will be according to Roeleveld
+<italic>et al.</italic>
+</p>
+                  </list-item>
+                </list>
+              </p>
+              <p> Please clarify the differences between these evaluations. Is the first related to teeth not included in the trial and the latter to teeth included in the trial?</p>
+              <p> Also, it is written that the same trained and calibrated examiner (BLPM) who conducted the assessments at the beginning of the study will perform the evaluations. It is also written that the follow-up evaluations will be carried out by an examiner (TKT) blind to children’s allocation group who was previously trained and calibrated for both criteria and not participating in the previous phases of the trial. Please clarify again the differences between these evaluations.</p>
+              <p> Lastly, it is not clear how the outcome is measured: when the following conditions are detected (presence of secondary caries lesion exposing dentin; need for repair; need for restoration replacement; need for extension of the existing restoration on the examined tooth due to a tooth fracture or caries lesion development exposing dentin; an episode of pain or need for endodontic treatment; extraction requirement (except in the case of prolonged retention) OR according to the criteria proposed by Frencken
+<italic>et al</italic>. and Roeleveld
+<italic>et al</italic>.?</p>
+              <p> I believe it is important to mention the calibration scores for the outcome assessment.</p>
+              <p>
+                <bold>Sample size</bold>
+              </p>
+              <p> Please consider adding the sentence in italic:</p>
+              <p> Considering that children with restored teeth have on average 3.7 restorations
+<sup>38</sup>, and adding 20% for possible participants loss, a minimum number of 204 children presenting at least one restored primary tooth -
+<italic>without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility - </italic>is required to be included in this trial.</p>
+              <p>
+                <bold>Discussion</bold>
+              </p>
+              <p> The interventions consisted of two diagnosis criteria for “caries around restorations” whereas outcome was assessed using two criteria for “restoration success”. What are the differences between these two sets of criteria? Aren’t them all essentially aiming to assess whether a restoration should be replaced? From the patient’s perspective, is the reason that led to the replacement of a restoration important? From the dentist’s perspective, which criterion is more suitable: one that assess caries around restorations or one that access the success of restorations? Please consider discussing these aspects.</p>
+              <p><bold>Table 3 </bold>- minor correction</p>
+              <p> Please insert “in” in the sentence “Replacement should be indicated in case the carious lesion involves more than half of the restoration”.</p>
+              <p><bold>Figure 2 </bold>- minor correction</p>
+              <p> t0: screening not screeing.</p>
+              <p>Is the study design appropriate for the research question?</p>
+              <p>Yes</p>
+              <p>Is the rationale for, and objectives of, the study clearly described?</p>
+              <p>Yes</p>
+              <p>Are sufficient details of the methods provided to allow replication by others?</p>
+              <p>Partly</p>
+              <p>Are the datasets clearly presented in a useable and accessible format?</p>
+              <p>Not applicable</p>
+              <p>Reviewer Expertise:</p>
+              <p>Cariology and Epidemiology</p>
+              <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+            </body>
+            <sub-article id="comment6226-71876" article-type="response">
+              <front-stub>
+                <contrib-group>
+                  <contrib contrib-type="author">
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>Fausto</given-names>
+                    </name>
+                    <aff>School of Dentistry of the University of São Paulo, Brazil</aff>
+                  </contrib>
+                </contrib-group>
+                <author-notes>
+                  <fn fn-type="COI-statement">
+                    <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                  </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                  <day>22</day>
+                  <month>12</month>
+                  <year>2020</year>
+                </pub-date>
+              </front-stub>
+              <body>
+                <p>Dear Professor Ana Paula Pires dos Santos. We are grateful for the comments and suggestions provided. To facilitate the review process, your comments are summarized before the respective answers.</p>
+                <p>
+                  <bold>Reviewer: Introduction</bold>
+                </p>
+                <p>
+                  <bold>The authors pointed out that the FDI criteria evaluates some aspects that might not be directly related to caries lesions, such as “marginal staining” and “marginal adaptation”. If the aim was to compare two different criteria for diagnosis of caries around restorations, why not focus only on the “recurrence of caries” aspect?</bold>
+                </p>
+                <p> Our response: Dear Professor Ana Paula Pires dos Santos, the following phrase was added to the manuscript to clarify this point (Introduction, page 3, 2nd paragraph): “However, these aspects could be relevant to be evaluated when using the FDI criteria since many dentists and studies associate marginal staining and defects in the marginal adaptation with the presence of caries lesion around the restoration”. A new reference was also added to this paragraph: Signori C, Gimenez T, Mendes FM, Huysmans M-CDNJM, Opdam NJM, Cenci MS. Clinical relevance of studies on the visual and radiographic methods for detecting secondary caries lesions - a systematic review. J Dent.2018. https://doi.org/10.1016/j.jdent.2018.05.018.</p>
+                <p>
+                  <bold>Reviewer: Study setting</bold>
+                </p>
+                <p>
+                  <bold>The authors stated that the participants were randomly selected from a list of patients who sought dental treatment at the School of Dentistry. Were participants randomly selected or were participants that fulfilled the eligibility criteria randomly allocated to the intervention groups?</bold>
+                </p>
+                <p> Our response: Dear reviewer, thank you for your suggestion. The necessary changes were made to the manuscript (Methods, page 5, 3rd paragraph): “The participants (three to 10 years old) were selected from a list of patients who sought dental treatment at the School of Dentistry. Those that fulfilled the eligibility criteria were randomly allocated to the intervention groups”.</p>
+                <p>
+                  <bold>Reviewer: Participant eligibility</bold>
+                </p>
+                <p>
+                  <bold>I would suggest that inclusion criterion c should read as follows: Presenting at least one restoration of any restorative material (composite resin, amalgam or glass ionomer cement), regardless of its condition, on a primary tooth (anterior or posterior) without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the inclusion criterion was written as you suggested (Methods, page 6, 2nd paragraph): “Presenting at least one restoration of any restorative material (composite resin, amalgam or glass ionomer cement), regardless of its condition, on a primary tooth (anterior or posterior) without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility”.</p>
+                <p>
+                  <bold>Reviewer: Allocation: sequence generation and concealment mechanism</bold>
+                </p>
+                <p>
+                  <bold>I would suggest authors should rewrite the randomization mechanism. When a stratified randomization using blocks is used, firstly participants are stratified in different strata; then randomization using blocks (in this case, of different sizes) is performed within each stratum. So, the sentence “Randomization was stratified by blocks…” may not accurately describe what happened. Also, authors should clarify whether random permuted block sizes were used.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the randomization mechanism was rewritten as you suggested (Methods, page 7, 1st paragraph): “Firstly, participants were stratified into different strata: (1) children aged 3 to 6 years presenting three restorations or less; (2) children aged 7 to 10 years presenting three restorations or less; (3) children aged 3 to 6 years presenting more than three restorations; (4) children aged 7 to 10 years presenting more than three restorations. The number of restorations considered for stratification was those placed in primary and permanent teeth. Then, randomization using blocks of different sizes (2, 4, 6 or 8) was performed within each stratum”.</p>
+                <p>
+                  <bold>Reviewer: Interventions</bold>
+                </p>
+                <p>
+                  <bold>The authors said both criteria were used in all children in order to compare the methods of the study. But as this is an RCT, wouldn’t it be possible to compare the methods even if children received only the diagnosis criterion they were allocated to?</bold>
+                </p>
+                <p> Our response: Dear reviewer, the following sentence was added to the manuscript to clarify this point (Interventions, page 9, 5th paragraph): “This procedure aims to compare the methods of the study since a cross-sectional study was developed nested in this randomized clinical trial”. The diagnostic methods have been already compared and the results were published this year: Moro BLP, Freitas RD, Pontes LRA, Pássaro AL, Lenzi TL, Tedesco TK, Ekstrand KR, Braga MM, Raggio DP, Cenci MS, Mendes FM. Influence of different clinical criteria on the decision to replace restorations in primary teeth. J Dent. 2020 Oct;101:103421. doi: 10.1016/j.jdent.2020.103421. Epub 2020 Jun 29. PMID: 32615237.</p>
+                <p>
+                  <bold>Reviewer: The ECOHIS is intended to assess the impact on preschool children’s oral health-related quality of life, but this study included children from three to 10 years-old. Please clarify this issue.</bold>
+                </p>
+                <p> Our response: Dear reviewer, we decided to use an instrument answered by the parents since our sample's age range is large and involves small children who would have difficulty answering other questionnaires (CPQ8-10, for example). This choice was made to allow data to be collected for the entire sample and for the same instrument to be standardized. We have already used ECOHIS for older children in previous longitudinal studies (Guedes et al., Community Dent Oral Epidemiol 2016; 44:292; Guedes et al., Int J Paediatr Dent 2018; 28:207). This explanation was added to the manuscript (Interventions, page 10, 2nd paragraph).</p>
+                <p>
+                  <bold>Reviewer: Follow-up visits and outcomes</bold>
+                  <list list-type="order">
+                    <list-item>
+                      <p>
+                        <bold>The authors stated that participants will be followed up considering the outcome evaluation after six, 12, 18, and 24 months and that the treatment decisions for the restorations evaluated during the follow-up visits will be decided according to the FDI or CARS criteria, considering the child’s allocation group.</bold>
+                      </p>
+                    </list-item>
+                    <list-item>
+                      <p>
+                        <bold>They also stated that the occurrence of the outcomes will be evaluated according to predetermined criteria from two other criteria during the follow-up visits of six, 12, 18, and 24 months. Different criteria will be used according to the number of surfaces the restoration involves: for one-surface restorations: the criteria used will be according to Frencken et al. and for a multi-surface restoration: the criteria used will be according to Roeleveld et al.</bold>
+                      </p>
+                    </list-item>
+                  </list>
+                  <bold>Please clarify the differences between these evaluations. Is the first related to teeth not included in the trial and the latter to teeth included in the trial?</bold>
+                </p>
+                <p> Our response: Dear reviewer, we are just talking about teeth included in the trial. However, as it is a diagnostic study, we decided to use different methods (and not the FDI and CARS again) to evaluate the study's outcome. For this reason, the Frencken et al. and the Roeleveld et al. are being used in the evaluations performed in the follow-up appointments.  Nevertheless, we also repeated the assessment using the allocation group during all follow-up visits because "when it comes to the management of restorations in primary dentition, it is impossible to know if a more conservative or invasive approach would bring more benefits to children". We believe that the FDI "may lead to a more interventional approach" and the CARS criteria "is probably more conservative when it comes to restoration reintervention". So, as a longitudinal study is being carried out, if we repeated the assessments and made the treatment decisions with each diagnostic method, we could also evaluate if a more conservative or invasive approach would benefit children, according to the treatment decisions of the FDI and CARS criteria. We did not add this explanation in the manuscript, as we believe that with the other changes, this issue was also clarified.</p>
+                <p>
+                  <bold>Reviewer: Also, it is written that the same trained and calibrated examiner (BLPM) who conducted the assessments at the beginning of the study will perform the evaluations. It is also written that the follow-up evaluations will be carried out by an examiner (TKT) blind to children’s allocation group who was previously trained and calibrated for both criteria and not participating in the previous phases of the trial. Please clarify again the differences between these evaluations.</bold>
+                </p>
+                <p> Our response: Dear reviewer, new information was provided to clarify the differences between the evaluations:
+<list list-type="order"><list-item><p>The treatment decisions for the restorations evaluated during the follow-up visits will be decided according to the FDI or CARS criteria, considering the child’s allocation group. The same trained and calibrated examiner (BLPM) who conducted the assessments at the beginning of the study, with the FDI or CARS criteria, will perform the assessments with the FDI or CARS criteria during all follow-up visits.</p></list-item><list-item><p>The follow-up evaluations will be carried out by an examiner (TKT) blind to the children’s allocation group. The examiner was previously trained and calibrated for both criteria (the weighted Kappa value for interexaminer was 0.89, and the intra-examiner agreement was 0.94). The researcher (TKT) did not participate in the previous phases of the trial and will perform the evaluations according to the Frencken et al. or Roeleveld et al. during all follow-up visits (six, 12, 18, and 24 months), considering the number of restorations surface, to assess the outcome of the study.</p></list-item></list>
+</p>
+                <p>
+                  <bold>Reviewer: Lastly, it is not clear how the outcome is measured: when the following conditions are detected (presence of secondary caries lesion exposing dentin; need for repair; need for restoration replacement; need for extension of the existing restoration on the examined tooth due to a tooth fracture or caries lesion development exposing dentin; an episode of pain or need for endodontic treatment; extraction requirement (except in the case of prolonged retention) OR according to the criteria proposed by Frencken et al. and Roeleveld et al.?</bold>
+                </p>
+                <p> Our response: The information regarding the presence of secondary caries lesions exposing dentin; the need for repair; the need for restoration replacement; the need for extension of the existing restoration on the examined tooth; the need for endodontic treatment, and extraction requirement are obtained directly using the criteria systems proposed (Frencken et al., and Roeleveld et al.). In cases of suspected pulp involvement, a radiograph is taken. We also asked the parents about pain occurrence. We added this information in the text (Outcomes, page 13, 6th paragraph).</p>
+                <p>
+                  <bold>Reviewer: I believe it is important to mention the calibration scores for the outcome assessment.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the information was provided (Outcomes, page 14, 3rd paragraph): “the weighted Kappa value for interexaminer was 0.89, and the intra-examiner agreement was 0.94”.</p>
+                <p>
+                  <bold>Reviewer: Sample size</bold>
+                </p>
+                <p>
+                  <bold>Please consider adding the sentence in italic:</bold>
+                </p>
+                <p>
+                  <bold>Considering that children with restored teeth have on average 3.7 restorations [38], and adding 20% for possible participants loss, a minimum number of 204 children presenting at least one restored primary tooth -
+<italic>without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility</italic> - is required to be included in this trial.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the sentence was added to the manuscript (Sample size, page 15, 2nd paragraph): “Considering that children with restored teeth have on average 3.7 restorations [38], and adding 20% for possible participants loss, a minimum number of 204 children presenting at least one restored primary tooth (without fistula, abscess, pulp exposure, history of spontaneous dental pain or mobility) is required to be included in this trial”.</p>
+                <p>
+                  <bold>Reviewer: Discussion</bold>
+                </p>
+                <p>
+                  <bold>The interventions consisted of two diagnosis criteria for “caries around restorations” whereas outcome was assessed using two criteria for “restoration success”. What are the differences between these two sets of criteria? Aren’t them all essentially aiming to assess whether a restoration should be replaced? From the patient’s perspective, is the reason that led to the replacement of a restoration important? From the dentist’s perspective, which criterion is more suitable: one that assess caries around restorations or one that access the success of restorations? </bold>
+                  <bold>Please consider discussing these aspects.</bold>
+                </p>
+                <p> Our response: Dear reviewer, we add a paragraph to discuss these aspects in the manuscript (Discussion, page 20, 3rd paragraph):  The criteria systems used to assess the study outcome, although different, were defined mainly to evaluate our primary endpoint, which is the necessity of replacement of the restoration. The difference between the two criteria is because one is used to assessing one-surface restorations (Frencken et al.), and the other is used for assessing multi-surface restoration (Roeleveld et al.). However, both are used to evaluate the necessity of restoration replacement. Regarding the patient perspective, the reason that led to the replacement probably is not important. We could assess this information with some patient-reported variables (or proxies, reported by the parents). The suitability of the two criteria for the dentists will not be evaluated in our study. Still, we can speculate about this topic in the main manuscript after obtaining the results.</p>
+                <p>
+                  <bold>Reviewer: Table 3 - minor correction</bold>
+                </p>
+                <p>
+                  <bold>Please insert “in” in the sentence “Replacement should be indicated in case the carious lesion involves more than half of the restoration”.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the word was added to the sentence.</p>
+                <p>
+                  <bold>Reviewer: Figure 2 - minor correction</bold>
+                </p>
+                <p>
+                  <bold>t0: screening not screeing.</bold>
+                </p>
+                <p> Our response: Dear reviewer, thank you for your suggestion. The spelling was corrected.</p>
+              </body>
+            </sub-article>
+          </sub-article>
+          <sub-article id="report65636" article-type="peer-review">
+            <front-stub>
+              <article-id pub-id-type="doi">10.5256/f1000research.26263.r65636</article-id>
+              <title-group>
+                <article-title>Reviewer response for version 1</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Zandoná</surname>
+                    <given-names>Andrea</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="r65636a1">1</xref>
+                  <role>Referee</role>
+                  <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-0237-9416</contrib-id>
+                </contrib>
+                <aff id="r65636a1"><label>1</label>Department of Comprehensive Care, Tufts University School of Dental Medicine, Boston, MA, USA</aff>
+              </contrib-group>
+              <author-notes>
+                <fn fn-type="COI-statement">
+                  <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>20</day>
+                <month>7</month>
+                <year>2020</year>
+              </pub-date>
+              <permissions>
+                <copyright-statement>Copyright: © 2020 Zandoná A</copyright-statement>
+                <copyright-year>2020</copyright-year>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open access peer review report distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <related-article related-article-type="peer-reviewed-article" id="d39e4770" ext-link-type="doi" xlink:href="10.12688/f1000research.23801.1">Version 1</related-article>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>recommendation</meta-name>
+                  <meta-value>approve-with-reservations</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </front-stub>
+            <body>
+              <p>The aim of this study is to evaluate the effect of two different visual criteria, the FDI and CARS criteria for the assessment of caries around restorations in primary teeth on outcomes related to children’s oral health and costs.</p>
+              <p> This is a timely study that is assessing an important topic from the outcomes point of view, which makes it very clinically relevant. The study protocol is well written, provides a rationale, and clearly describes the objectives of the study. The study design is appropriate for the research question. There are however insufficient details of the methods to allow replication by others.</p>
+              <p> The following should be clarified:</p>
+              <p> Given the impact that caries risk can have on the outcomes, it is important to understand if caries risk was assessed and played any role in randomization. Additionally, although caries lesion activity was assessed, it is not clear if randomization considered caries lesion activity status. It is also not clear if exfoliation status was considered and how that affected inclusion/exclusion. Regarding the 4 stratification blocks, please clarify if the number of restorations considered were only those in the primary dentition or if the restorations in the permanent dentition were also considered for stratification.</p>
+              <p> On examiner calibration – please clarify if the repeat examinations included all 10 children. It is stated that examinations of study patients only occurred after weighted values were greater than 0.75. Please clarify if the same 10 children were repeatedly examined to achieve these values for both intra- and inter-examiner reliability. Were new Kappa scores calculated for new exams or were the exams compounded and the Kappa scores re-calculated? After removal of the restoration when the replacement was indicated the hardness of dentin was evaluated, please clarify if this was done by the provider or by a different examiner and if the calibration was conducted prior to the assessments.</p>
+              <p> On Adherence, the authors state that “humanized care is provided for all participants. Please provide a definition of “humanized care”.</p>
+              <p> Management:</p>
+              <p> Figure 1 provides a very clear flow chart of how lesions were managed according to the ICDAS criteria. A similar chart with the FDI criteria and management would be helpful. Additionally, the predetermined protocols need to be overlaid with the FDI and CARS to better illustrate how the different cases were/are handled.</p>
+              <p>Is the study design appropriate for the research question?</p>
+              <p>Yes</p>
+              <p>Is the rationale for, and objectives of, the study clearly described?</p>
+              <p>Yes</p>
+              <p>Are sufficient details of the methods provided to allow replication by others?</p>
+              <p>Partly</p>
+              <p>Are the datasets clearly presented in a useable and accessible format?</p>
+              <p>Not applicable</p>
+              <p>Reviewer Expertise:</p>
+              <p>Cariology</p>
+              <p>I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.</p>
+            </body>
+            <sub-article id="comment5982-65636" article-type="response">
+              <front-stub>
+                <contrib-group>
+                  <contrib contrib-type="author">
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>Fausto</given-names>
+                    </name>
+                    <aff>School of Dentistry of the University of São Paulo, Brazil</aff>
+                  </contrib>
+                </contrib-group>
+                <author-notes>
+                  <fn fn-type="COI-statement">
+                    <p><bold>Competing interests: </bold>No competing interests were disclosed.</p>
+                  </fn>
+                </author-notes>
+                <pub-date pub-type="epub">
+                  <day>28</day>
+                  <month>9</month>
+                  <year>2020</year>
+                </pub-date>
+              </front-stub>
+              <body>
+                <p>Dear Professor Andrea Zandoná. We are grateful for the comments and suggestions provided. In order to facilitate the review process, your comments are summarized before the respective answers.</p>
+                <p>
+                  <bold>Reviewer: Given the impact that caries risk can have on the outcomes, it is important to understand if caries risk was assessed and played any role in randomization. Additionally, although caries lesion activity was assessed, it is not clear if randomization considered caries lesion activity status. It is also not clear if exfoliation status was considered and how that affected inclusion/exclusion. </bold>
+                </p>
+                <p> Our response: Dear Professor Andrea Zandoná, the following paragraph was added to the manuscript to clarify these points (Methods, page 7, 1st paragraph): “All participants of the study could be classified as having a high caries risk since past caries experience is the most important component for the development of caries lesions. However, stratified randomization was performed considering the children's number of restorations to subdivide them in children with higher and lower caries experience. The caries lesion activity was not considered for randomization.  On the other hand, the children's age was a parameter for stratification in order to consider the different time of exfoliation of the evaluated teeth. In this way, the number of teeth with different times of exfoliation was balanced between the FDI and CARS criteria”. A new reference was also added to this paragraph: Twetman S, Fontana M, Featherstone JD. Risk assessment - can we achieve consensus?. Community Dent Oral Epidemiol. 2013;41(1):e64-e70. doi:10.1111/cdoe.12026</p>
+                <p> Regarding considering the exfoliation status in inclusion and exclusion criteria, we excluded from the sample restorations on teeth with mobility. This is how the exfoliation status affected the exclusion criteria of the study (Methods, page 6, 3rd paragraph).</p>
+                <p>
+                  <bold>Reviewer: Regarding the 4 stratification blocks, please clarify if the number of restorations considered were only those in the primary dentition or if the restorations in the permanent dentition were also considered for stratification.</bold>
+                </p>
+                <p> Our response: Dear reviewer, we added a sentence to explain that “the number of restorations considered for stratification were those placed in primary and permanent teeth” (Methods, page 6, 4th paragraph).</p>
+                <p>
+                  <bold>Reviewer: On examiner calibration – please clarify if the repeat examinations included all 10 children. It is stated that examinations of study patients only occurred after weighted values were greater than 0.75. Please clarify if the same 10 children were repeatedly examined to achieve these values for both intra- and inter-examiner reliability. Were new Kappa scores calculated for new exams or were the exams compounded and the Kappa scores re-calculated? </bold>
+                </p>
+                <p> Our response: Dear reviewer, thank you for your suggestions. Two sentences were added to answer your question: “After these procedures, the examiner evaluated restorations in 10 children who did not participate in the clinical trial. The examiner repeated the same evaluation, in the same 10 children, for intra-examiner agreement. A benchmark examiner (TLL) also performed the tests to assess inter-examiner reproducibility twice in the same sample of children. In this way, the exams were compounded, and the weighted kappa scores were re-calculated. The assessment of children included in the study started after the intra-examiner and inter-examiner weighted kappa value reached values greater than 0.75 for both FDI and CARS criteria” (Methods, pages 8 and 9, 4th paragraph).</p>
+                <p>
+                  <bold>Reviewer: After removal of the restoration when the replacement was indicated the hardness of dentin was evaluated, please clarify if this was done by the provider or by a different examiner and if the calibration was conducted prior to the assessments.</bold>
+                </p>
+                <p> Our response: Dear reviewer, the missing information was provided on Methods section, page 11, and paragraph 1st: “The presence or absence of soft or hard carious tissue is evaluated and recorded by the postgraduate dental student who provides dental care after the restoration removal when replacement is indicated. Training and calibration were conducted before the assessments. An experienced researcher in Cariology performed a theoretical lecture about the clinical characteristics of caries lesions, and training was carried out using photos of clinical cases. The procedure of evaluating the carious tissue is performed to record a possible false-positive diagnosis for dentine caries lesion around the restoration since the authors will also develop an accuracy study nested in this clinical trial”.</p>
+                <p>
+                  <bold>Reviewer: On Adherence, the authors state that “humanized care is provided for all participants. Please provide a definition of “humanized care”.</bold>
+                </p>
+                <p> Our response: Dear reviewer, a definition of “humanized care” was provided on the “Adherence” section: “Humanized care is provided for all participants, focusing on the patient's well-being and providing empathy, affection, and familiarity between the CARDEC collaborative group and children and their families”</p>
+                <p>
+                  <bold>Reviewer: Figure 1 provides a very clear flow chart of how lesions were managed according to the ICDAS criteria. A similar chart with the FDI criteria and management would be helpful. Additionally, the predetermined protocols need to be overlaid with the FDI and CARS to better illustrate how the different cases were/are handled.</bold>
+                </p>
+                <p> Our response: Dear reviewer, thank you for your suggestion. We created three new flowcharts to illustrate how restorations are managed according to the FDI criteria (Figure 1) and the CARS system (Figure 2). The third flowchart (Figure 3) was done to illustrate how the clinical assessment of restoration is handled differently according to both criteria used in our study. We added on the “Interventions” section of the study protocol the figure numbers after the explanation of the FDI and CARS group. We also added a new sentence to the paper: “A clinical example of the restoration assessment performed with both FDI and CARS criteria is illustrated in Figure 3”.</p>
+              </body>
+            </sub-article>
+          </sub-article>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:42:39Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8988474" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8988474</identifier>
+        <datestamp>2022-04-09</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8988474</article-id>
+              <article-id pub-id-type="pmcid">PMC8988474</article-id>
+              <article-id pub-id-type="pmc-uid">8988474</article-id>
+              <article-id pub-id-type="pmid">35392886</article-id>
+              <article-id pub-id-type="publisher-id">2101</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-022-02101-9</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Using information and communication technologies (ICTs) to solve the repressed demand for primary dental care in the Brazilian Unified Health System due to the COVID-19 pandemic: a randomized controlled study protocol nested with a before-and-after study including economic analysis</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Natal</surname>
+                    <given-names>Karina Haibara</given-names>
+                  </name>
+                  <address>
+                    <email>karina.natal@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Machado</surname>
+                    <given-names>Thais Gomes</given-names>
+                  </name>
+                  <address>
+                    <email>thaismachado@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bracco</surname>
+                    <given-names>Fabiana</given-names>
+                  </name>
+                  <address>
+                    <email>fabibracco@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lemos</surname>
+                    <given-names>Luiz Ivan</given-names>
+                  </name>
+                  <address>
+                    <email>luizlemos@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Vigano</surname>
+                    <given-names>Maria Eduarda</given-names>
+                  </name>
+                  <address>
+                    <email>maria.vigano@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Machado</surname>
+                    <given-names>Gabriela Manco</given-names>
+                  </name>
+                  <address>
+                    <email>gabriela.manco.machado@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Yampa-Vargas</surname>
+                    <given-names>Jhandira Daibelis</given-names>
+                  </name>
+                  <address>
+                    <email>jhandira.daibelis@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Raggio</surname>
+                    <given-names>Daniela Prócida</given-names>
+                  </name>
+                  <address>
+                    <email>danielar@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mendes</surname>
+                    <given-names>Fausto Medeiros</given-names>
+                  </name>
+                  <address>
+                    <email>fmmendes@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Imparato</surname>
+                    <given-names>José Carlos Pettorossi</given-names>
+                  </name>
+                  <address>
+                    <email>jimparato@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lucena</surname>
+                    <given-names>Edson Hilan Gomes</given-names>
+                  </name>
+                  <address>
+                    <email>ehglucena@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Cavalcanti</surname>
+                    <given-names>Yuri Wanderley</given-names>
+                  </name>
+                  <address>
+                    <email>yuri.wanderley@yahoo.com.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Silva</surname>
+                    <given-names>Cícero Inacio</given-names>
+                  </name>
+                  <address>
+                    <email>cicero.silva@unifesp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Souza Filho</surname>
+                    <given-names>Guido Lemos</given-names>
+                  </name>
+                  <address>
+                    <email>guido@ci.ufpb.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Macedo</surname>
+                    <given-names>Mary Caroline Skelton</given-names>
+                  </name>
+                  <address>
+                    <email>mary@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Carrer</surname>
+                    <given-names>Fernanda Campos Almeida</given-names>
+                  </name>
+                  <address>
+                    <email>fernandacsal@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4469-6500</contrib-id>
+                  <name>
+                    <surname>Braga</surname>
+                    <given-names>Mariana Minatel</given-names>
+                  </name>
+                  <address>
+                    <email>mmbraga@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.11899.38</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0722</institution-id><institution>Department of Pediatric Dentistry, School of Dentistry, </institution><institution>University of São Paulo, </institution></institution-wrap>Lineu Prestes Avenue, 2227, São Paulo, SP 05508000 Brazil </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.411216.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 0397 5145</institution-id><institution>Department of Clinical and Social Dentistry, </institution><institution>Federal University of the Paraiba, </institution></institution-wrap>Paraiba, Brazil </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.411249.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 0514 7202</institution-id><institution>Federal University of São Paulo, </institution></institution-wrap>São Paulo, Brazil </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.411216.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 0397 5145</institution-id><institution>Department of Computer Science, </institution><institution>Federal University of the Paraiba, </institution></institution-wrap>Paraiba, Brazil </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.11899.38</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0722</institution-id><institution>Department of Restorative Dentistry, School of Dentistry, </institution><institution>University of São Paulo, </institution></institution-wrap>São Paulo, Brazil </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.11899.38</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0722</institution-id><institution>Department of Social Dentistry, School of Dentistry, </institution><institution>University of São Paulo, </institution></institution-wrap>São Paulo, Brazil </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>7</day>
+                <month>4</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>7</day>
+                <month>4</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2022</year>
+              </pub-date>
+              <volume>22</volume>
+              <elocation-id>112</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>25</day>
+                  <month>2</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>2</day>
+                  <month>3</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2022</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">With the COVID-19 pandemic, thousands of children had their dental care interrupted or postponed, generating a pent-up demand for primary care. To minimize the impact of this outage, information and communication technologies (ICT) could be an alternative. The aim of this study is to elucidate the impact of implementing the ICTs in primary dental care for children on resolving the pent-up demand for primary dental care to children in the national health system service (SUS) due to the COVID-19 pandemic.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Different research strategies are being proposed to demonstrate such effect and extrapolating findings to a real-world context to guide further research, practice and policies: two clinical trials (one randomized controlled by the waiting list trial (RCT) and a before-and-after study), one simulation study to prospect trial results to a broader population and three economic evaluations using different effects. Children enrolled in a reference dental unit will be invited to participate in the before-and-after study for trials. The first 368 families will be randomized for the RCT to the intervention vs waiting list. All participants will receive the intervention, but the waiting list group will be assessed before the intervention is available for them. The intervention comprises standardized non-face-to-face primary dental care using the V4H platform. The problem-solving and the family's perception will be the primary outcomes set for the before-and-after study and RCT, respectively. They will be measured 2 weeks after randomization. Based on trial findings, we will develop theoretical models to estimate how the intervention could benefit the population included in the national health system.  Three economic evaluations will be carried out considering different trial effects (cost-effectiveness analyses). A societal perspective and the pandemic time horizon will be considered. Possible social impact (inequalities) will also be explored.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">This ongoing trial may be an essential contribution to clarify positive and negative aspects related to the use of technologies for non-face-to-face dental care for children. Trial products may bring relevant contributions to the pandemic context and the post-pandemic period. Potential benefits may be feasible to implement and preserve in the health system even in the post-pandemic period.</p>
+                  <p id="Par4"><italic>Trial registration</italic> Clinicaltrials.gov registration NCT04798599 (registered March 2021).</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-022-02101-9.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Child</kwd>
+                <kwd>Teledentistry</kwd>
+                <kwd>Telemonitoring</kwd>
+                <kwd>Teleorientation</kwd>
+                <kwd>Coronavirus infections</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100007386</institution-id>
+                      <institution>Pro-Reitoria de Pesquisa, Universidade de São Paulo</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>2020.1.4353.1.5</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Braga</surname>
+                      <given-names>Mariana Minatel</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>CAPES</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100003593</institution-id>
+                      <institution>Conselho Nacional de Desenvolvimento Científico e Tecnológico</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>304319/2018-0</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Braga</surname>
+                      <given-names>Mariana Minatel</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100001807</institution-id>
+                      <institution>Fundação de Amparo à Pesquisa do Estado de São Paulo</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>2012/50716-0</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Braga</surname>
+                      <given-names>Mariana Minatel</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Rede Nacional de Ensino e Pesquisa-RNP</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par18">A drastic repressed demand for primary dental care has been created since the beginning of the COVID-19 pandemic [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref>]. Due to the health professionals' higher risk of contamination [<xref ref-type="bibr" rid="CR4">4</xref>] associated with aerosol generation [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR6">6</xref>] dentists have been orientated to postpone elective treatments in different locations [<xref ref-type="bibr" rid="CR7">7</xref>]. A reduction of almost 90% in primary dental care for children was noted in the Brazilian National Health System (Unified Health System—SUS) compared to the beginning of the pandemic time [<xref ref-type="bibr" rid="CR8">8</xref>]. This scenario, therefore, contributed to thousands of children lacking primary care, both for their non-operative and operative needs, representing essential pent-up demand for Public Health and should urgently guide policies to deal with this context.</p>
+              <p id="Par19">The use of technologies could be a meaningful strategy for minimizing such impact on the health systems. Teledentistry has been demonstrated to be equivalent (or even valid) to face-to-face sessions for different purposes related to primary care, as screening, consultations, orientations and referrals [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. The use of technology in dental health care has been demonstrated to result in health equity services, reduction in waiting time, and costs with treatment [<xref ref-type="bibr" rid="CR9">9</xref>]. Its benefit has been noted, especially in school-based programs and patients with limited access to care. The pandemic has created an unexpected and unusual difficulty to access that could be overcome by using this kind of technology.</p>
+              <p id="Par20">We hypothesized that using the Teledentistry resources in primary dental care for children might aid to solve some demands that do not necessarily require a face-to-face appointment. Indeed, a teleconsultation could reduce the waiting time for seeing a professional and comfort the patients/parents, solve patients’/parents' doubts, orient about habits and conducts, and refer to other services when necessary. In addition, the pandemic could be a window of opportunity to introduce regular oral health care [<xref ref-type="bibr" rid="CR11">11</xref>], and the potential for implementation should also be explored.</p>
+              <p id="Par21">On the other hand, some barriers have also been associated with this promising alternative, such as infrastructure, patients' motivation/compliance, stakeholders' resistance, and legal and security issues [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. They are more frequent in developing countries, in which there is a lack of robust evidence about the use of this technological strategy. Indeed, very few assessment studies about ICTs have been performed in developing countries [<xref ref-type="bibr" rid="CR9">9</xref>]. Understanding which possible adaptations to the intervention are needed to overcome these barriers is crucial to its effective implementation because the core components of the intervention must be retained for effectiveness [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+              <p id="Par22">Broad implementation of any intervention in diverse practice systems demands understanding the perspectives of different stakeholders who will affect and be affected by such intervention [<xref ref-type="bibr" rid="CR14">14</xref>]. When planning health actions, users' judgment/satisfaction with health services are also imposing indicators to consider [<xref ref-type="bibr" rid="CR15">15</xref>]. Besides, the allocation of resources is another relevant aspect for planning actions within health services. It is worth knowing whether the proposed strategy represents an efficient allocation of resources to substitute what has been currently done (or in such case, what is not being done). Thus, economic evaluations can be used as additional tools for making political and economic decisions [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>].</p>
+              <p id="Par23">The present trial aims to elucidate the impact of implementing the ICTs in primary dental care for children on resolving the pent-up demand for primary dental care to children in the SUS due to the COVID-19 pandemic. In this sense, different research strategies are being proposed to demonstrate such effect and extrapolating findings to a real-world context to guide further research, practice and policies. Trial products may bring relevant contributions to the pandemic context and the post-pandemic period.</p>
+              <p id="Par24">The following specific objectives are defined:<list list-type="order"><list-item><p id="Par25">To identify the repressed demand for the outage of dental care and the benefits and difficulties, as well as the perception of users, in the implementation of new strategies of non-face-to-face care based on technology (teleservice), using a primary care cell unit for children and prospecting, through models, this situation for the scenario of the Unified Health System (SUS).</p></list-item><list-item><p id="Par26">Perform different forms of economic evaluation to measure whether the gains achieved with the implementation of teleservice (telescreening, teleorientation and telemonitoring) compensate for the additional costs possibly associated with it, or whether they are associated with a long-term resource savings, considering the implementation  dimensioned for the Brazilian public health system.</p></list-item><list-item><p id="Par27">Explore how the introduction of these technologies could benefit the SUS in the trans and post-pandemic period, contribute to the correction of possible inequities in the health care and other social aspects, as well as result in possible differences when different Brazilian scenarios are explored.</p></list-item></list></p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <p id="Par28">This manuscript was written following the Standard Protocol Items: Recommendations for Interventional Trial (SPIRIT) [<xref ref-type="bibr" rid="CR19">19</xref>] for clinical studies (Additional file <xref rid="MOESM1" ref-type="media">1</xref>) and potential items to be included in Health Economics Analysis Plans (HEAPs) for Trial-Based Economic Evaluations [<xref ref-type="bibr" rid="CR20">20</xref>] for economic evaluation (Additional file <xref rid="MOESM2" ref-type="media">2</xref>). The primary trial was registered on Clinicaltrials.gov (TeleDent-COVID19—registration NCT04798599) in 2020.</p>
+              <sec id="Sec3">
+                <title>Study setting</title>
+                <p id="Par29">A mobile dental unit was chosen as the reference unit to collect outcomes related to implementing technologies for primary dental care for children. This unit is in the Greater São Paulo and has been providing dental care for children since 2014 (FAPESP-2012/50716-0). Since then, approximately 10,500 operative and non-operative dental appointments have been accomplished.</p>
+                <p id="Par30">Currently, 750 children are enrolled for being cared for in this unit. They have participated in some previous clinical trials whose Recruitment was done at the unit. In the pre-pandemic period, nearly 40 children were regularly seen per week. Dental care was part of research protocols developed in the unit and fulfilled patients' needs. Emergency care was also part of the routine. On average, eight emergency visits were performed per month. Toothache and prolonged tooth retention were the main reasons for them. Due to the current pandemic scenario, face-to-face care was suspended, causing our team to seek new alternatives for welcoming these patients. Then, an intervention for non-face-to-face caring using technologies was designed to overcome such situations and the Teletrailer program was launched (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).<fig id="Fig1"><label>Fig. 1</label><caption><p>Teletrailer program logo—program for non-face-to-face primary dental care for children, the intervention tested in TeleDent-COVID-19</p></caption><graphic xlink:href="12903_2022_2101_Fig1_HTML" id="MO1"/></fig></p>
+              </sec>
+              <sec id="Sec4">
+                <title>Trial design and participant timeline</title>
+                <p id="Par31">A randomized controlled trial (RCT) was designed to be nested in a before-and-after study to cover different outcomes explored when implementing the ICTs in primary dental care for children (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). A health system-simulated scenario was set using a mobile dental unit as a cell unit for primary data collection.<fig id="Fig2"><label>Fig. 2</label><caption><p>The architecture of studies proposed to demonstrate the effect of implementing the non-face-to-face primary dental care for children using technological resources and extrapolating these findings to a real-world context to guide further research, practice and policies</p></caption><graphic xlink:href="12903_2022_2101_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par32">The primary outcome was set in the RCT. Such a study was controlled by participants' waiting list and measures users' /parents' perceptions about the health care offered and permitted using the participants waiting for dental care as reference (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). The before-and-after study collected data related to the natural implementation of ICT in the Teletrailer program.</p>
+                <p id="Par33">The situation before the non-face-to-face intervention was considered the control to the before-and-after study. To measure it, besides the consultation, researchers will establish telephone contact with all registered patients and collect information about pain during the trans pandemic period, search for dental care in other public or private units and other possible complaints that occurred during this period. Besides, information reported during the teleconsultation will be considered as that. Thus, we will have an overview of the impact of the outage of care in the unit after social distancing. Outcomes are related to pen-up demand solving, as well as the strengths and barriers of the program implementation. They were collected in the "after" moment, two weeks after implementing the intervention. Other outcomes in this study design were collected after one year from intervention as detailed further (Figs. <xref rid="Fig2" ref-type="fig">2</xref>, <xref rid="Fig3" ref-type="fig">3</xref>).<fig id="Fig3"><label>Fig. 3</label><caption><p>Schematic diagram representing the workflow for conciliating the studies <bold>and</bold> the time schedule of enrolment, interventions, assessments, and visits for participants</p></caption><graphic xlink:href="12903_2022_2101_Fig3_HTML" id="MO3"/></fig></p>
+                <p id="Par34">Included children will continue to be followed every six months, following the systematic proposal when implementing technology-mediated interventions until the return of face-to-face activities is possible and the entire structure of the dental unit is prepared for dental care. The systematic recording of new complaints and complications will be maintained both during the consultation and in spontaneous contacts of the participants.</p>
+                <p id="Par35">Apart from these clinical studies, simulation models will be used to prospect the ideally found in the cell unit to a SUS-simulated scenario, predicting the actual implementation on regular health units in SUS. Economic and social impact (including inequalities exploration) will also be explored in secondary analyses exploring data collected in the mentioned primary studies (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). The following sessions will be described considering each of the research strategies mentioned, as illustrated in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. The individual items related to the study design were described separately for each one. For the clinical studies, some sessions were merged to a broader comprehensive.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>The before-and-after study</title>
+                <sec id="Sec6">
+                  <title>Main purpose</title>
+                  <p id="Par36">Measuring the natural impact on pent-up demand solving and other effects resulting from telecare implementation in primary care for children.</p>
+                </sec>
+                <sec id="Sec7">
+                  <title>Participants: eligibility criteria</title>
+                  <p id="Par37">All children enrolled for dental care in the unit were eligible for this trial. Their parents/caregivers will be contacted and invited to be part of the non-face-to-face program. After several attempts, children who cannot be contacted will be excluded from the sample. Children or guardians who do not agree to participate in the research will be computed as an outcome, as described further. In this case, teleconsultation may be performed if they desire, but without other data collection for research purposes.</p>
+                </sec>
+                <sec id="Sec8">
+                  <title>Interventions</title>
+                  <p id="Par38">The intervention is the non-face-to-face strategy used in the Teletrailer Program, based on teledentistry resources to minimize the interruption of primary dental care (prevention and curative) during the pandemic. The consultation was guided by a standardized protocol (Fig. <xref rid="Fig4" ref-type="fig">4</xref>) and performed by a team of dentists (graduate students), also responsible for previous face-to-face care at the unit. The session was divided into three parts (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig4"><label>Fig. 4</label><caption><p>Standard Operational Procedures (SOP) that were used to guide the non-face-to-face consultation in the Teletrailer program</p></caption><graphic xlink:href="12903_2022_2101_Fig4_HTML" id="MO4"/></fig><list list-type="simple"><list-item><label>i.</label><p>Recognition of the child’s and family’s condition during the pandemic (updates on medical history, current oral health condition, sought dental care in other units, need for referral, change in hygiene and diet habits).</p></list-item><list-item><label>ii.</label><p>Situational recognition on habits related to oral health (diet, hygiene and other oral-related habits), followed by
+individualized orientations about them.</p></list-item><list-item><label>iii.</label><p>Personalized management of patients’ and families’ needs according to their reports and complaints, looking to solve their specific demand. The management strategy will follow a pre-defined and standardized structure based on the best evidence available in the subject. Standard strategies should be used depending on which patients' report (Fig. <xref rid="Fig5" ref-type="fig">5</xref>).<fig id="Fig5"><label>Fig. 5</label><caption><p>Clinical decision-making protocol to meet the patients’ and families’ reported demands related to oral care</p></caption><graphic xlink:href="12903_2022_2101_Fig5_HTML" id="MO5"/></fig></p></list-item></list></p>
+                  <p>An electronic form was created to guide consultation and permit data collection. The data collected by the form was stored under the supervision of the principal investigator (MMB), in cloud storage and on a USB stick.</p>
+                  <p id="Par43">The teleservice will be carried out through a digital platform (Video for Health—V4H). This platform is innovative, 100% Brazilian, created by the Research and Extension Center (Lavid) of the Informatics Center in Federal University of Paraiba (UFPB) in partnership with the Federal University of São Paulo (Unifesp) and financially supported by the National Network of Teaching and Research (RNP). The Teledentistry Center of Dental School, University of São Paulo contributed to adapting platform functionalities to the context of the SUS and the private sector in Brazil. The platform offers confidentiality in data traffic between participants, preservation for the time it is necessary to recover recorded videos, secure recording (with encryption) and registration in blockchain or trust protocol and a distributed registration technology to guarantee security in using it.</p>
+                  <p id="Par44">The operators were trained to use the V4H platform resources by expert researchers in teleservice and V4H development and support staff. Besides, they will receive the necessary technical support from the V4H team during the study. They are also calibrated on following Standard Operational Procedures to guide the consultation in a standardized way. Families enrolled in the Teletrailer program will receive information and support to use the platform from the Teletrailer team.</p>
+                </sec>
+                <sec id="Sec9">
+                  <title>Outcomes</title>
+                  <p id="Par45">As the primary outcome for this before-and-after study, we consider problem-solving, considering the participant as the measurement unit. We will consider all the complaints pointed out by patients and their families during the baseline consultation. To measure that, a 2-weeks-later interview using the same platform (V4H) will address aspects relevant to understanding if the patients' and families' demands are solved during this time. A checklist to identify possible barriers and facilitators related to each type of complaint will be employed on these interviews. The time to resolution of the complaint will be computed as a secondary outcome.</p>
+                  <p id="Par46">Children will also be asked to toothbrush and floss during this assessment consultation. An external assessor will check the problem-solving related to the demand for oral hygiene orientations. The guidelines for orientation will be used as the reference standard to check if the demand was solved. If the child fulfils all oriented aspects, the demand is fully solved. If at least one assessment criterion is fulfilled, it is considered a partially solved demand. Cases of non-compliance with intervention sessions or those families that give up the consultations were also considered to understand the studied service's implementation.</p>
+                  <p id="Par47">Other outcomes will be assessed as secondary ones. The teleservice platform will measure consultation time. Technological and non-technological difficulties during the consultation (absences or delays, non-compliance, difficulties in using the platform, accessing the internet or even the computer or mobile phone) will be registered by an external assessor in a specific file at the end of the online session. The caregivers' and child's perceptions on the use of technologies in primary dental care will be collected by specific questionnaire [<xref ref-type="bibr" rid="CR21">21</xref>] in the two-week-later assessment.</p>
+                  <p id="Par48">The users' attitudes during the consultation will be evaluated. An assessor, who participates as a spectator in the videocall, will use a specific scale, PANAS [<xref ref-type="bibr" rid="CR22">22</xref>] The scale records necessary actions to classify this outcome. Besides, a semi-structured interview using guided questions will also be performed. It intends to identify participants' and parents' perceptions and potential barriers and facilitators for receiving the non-face-to-face dental during the pandemic. Afterwards, an external examiner will assess the video recordings using the same scale and perform qualitative analysis. This external examiner will be not included in the consultation and is unaware of previous evaluations.</p>
+                  <p id="Par49">For this qualitative phase, individual interviews will be recorded and transcribed. For this, individual interviews will be recorded and transcribed. The software Maxqda® will be used for categorizing the recorded speeches and, later, a content analysis (CA) will be performed [<xref ref-type="bibr" rid="CR23">23</xref>]. For this analysis, categories are created following the common themes that emerge from the transcribed text. The analysis technique consists of three major steps: (1) pre-analysis; (2) the exploitation of the material; (3) the treatment of results and interpretation. Thus, we hope to identify qualitative differences between the groups that received technology-mediated care during the pandemic period or not, which cannot be captured through quantitative methods.</p>
+                  <p id="Par50">Finally, long-term outcomes will also be collected. Increment in caries experience since the interruption of dental and increment (or changes) in the needs for dental treatment will be assessed one year after the intervention. Presential clinical examination will be performed focused using dmft and DMFT and dental treatment need (including untreated caries, need for restoration repair, need of gingival or periodontal treatment, need for extractions for any reason) at this time point. An examiner unaware of baseline conditions will assess these indices and needs. These outcomes will be compared to those previously recorded in participants' records, resulting in the difference between the indices between these moments.</p>
+                </sec>
+                <sec id="Sec10">
+                  <title>Sample size and recruitment</title>
+                  <p id="Par51">As we have a demand study, all children enrolled for dental treatment at the dental unit will be potentially recruited for this before-and-after study and no sample size is required. The child will be our unit of analysis for that. As previously described, refusals and non-compliance with non-face-to-face consultations will also be registered as outcomes. At least five attempts to contact participants who accept to participate will be used. In these attempts, we will consider different manners of communication, including phone calls, text and Whatsapp messages, email messages (when possible).</p>
+                </sec>
+              </sec>
+              <sec id="Sec11">
+                <title>Randomized controlled trial (controlled by waiting list)</title>
+                <sec id="Sec12">
+                  <title>Main purpose</title>
+                  <p id="Par52">We outlined a randomized patient-controlled study on the waiting list for care to assess the impact of teleservice implementation under the patients' and their families' perspectives, permitting comparison with a reference, in this case, those patients who are not participating in the Teletrailer program yet.</p>
+                </sec>
+                <sec id="Sec13">
+                  <title>Participants: eligibility criteria</title>
+                  <p id="Par53">Children eligible for the previous study are also eligible for this one and is moved forward to the randomization step. Similarly, those who cannot be contacted after several attempts will be excluded from the sample. Children or guardians who do not agree to participate in the research were excluded from this randomizable sample.</p>
+                </sec>
+                <sec id="Sec14">
+                  <title>Interventions</title>
+                  <p id="Par54">The family (including all children enrolled at the unit from the same family) will be randomized using stratified randomization by one researcher to one of the groups (intervention vs waiting list). The stratification will be performed considering the dentist will provide the non-face-to-face consultation and the week for inclusion. In this way, balanced randomization was obtained per professional each week.</p>
+                  <p id="Par55">Randomization order will be generated by the website sealedenvelope.com. The list will be stored under the supervision of the person responsible for randomization (TGOM) and the principal investigator (MMB), in cloud storage and on a USB stick. The dentist who will provide the dental care will be unaware of randomization. They will receive the list with families/patients they are supposed to care for each week sent via email by the person in charge of randomization.</p>
+                  <p id="Par56">The two groups will differ according to the time of application of the intervention and outcome assessment. The non-face-to-face intervention group will receive the intervention immediately after randomization (t0). Then, after two weeks, the outcome will be measured as described further (t2). The waiting list group (control) will not receive the intervention at this time  and then assessed after the same period to permit controlling the answers (t2). Once this is done, the children on the waiting list will receive the intervention regularly (t3) and become part of the previously detailed list of before-and-after study participants. However, for the present RCT, only data without intervention will be considered (t2). The intervention will be provided as described in the before-and-after study <italic>Interventions</italic> section. Both groups will have been contacted by a research team member to explain the study and will have answered a baseline questionnaire previous to randomization (t-2). At this time, all participants will know the teleservice will be available, but they will not know when that will happen.</p>
+                </sec>
+                <sec id="Sec15">
+                  <title>Outcomes</title>
+                  <p id="Par57">We set the family's perception of dental care quality as the  primary outcome. We will consider the caregiver's perspective (those who participate in the non-face-to-face consultation) measured two weeks after the intervention (teleservice test group) or two weeks after waiting for care (control group) (Figs. <xref rid="Fig2" ref-type="fig">2</xref>, <xref rid="Fig3" ref-type="fig">3</xref>). The SERVQUAL questionnaire will be used [<xref ref-type="bibr" rid="CR24">24</xref>] (Additional file <xref rid="MOESM3" ref-type="media">3</xref>). SERVQUAL is a summary instrument of multiple scales, with a high level of reliability and validity already used in Portuguese [<xref ref-type="bibr" rid="CR24">24</xref>]. It can be used to understand users' expectations and perceptions concerning a wide range of services. In the present study, it is supposed the participants evaluate the degree to which they perceived the proposed service.</p>
+                  <p id="Par58">The questionnaire consists of 22 items, divided into 5 dimensions related to the service (tangible aspects—appearance of physical facilities, equipment, personnel and communication materials; reliability—ability to perform the promised service safely and correctly; responsiveness—willingness to help clients and provide prompt service; assurance—knowledge and courtesy of employees and their ability to inspire trust and empathy—personalized attention given to customers) [<xref ref-type="bibr" rid="CR25">25</xref>]. A total of 100 points is allocated among the five dimensions.</p>
+                  <p id="Par59">As secondary outcomes, we define the gap between users' perception and expectations, each partial assessment for five different domains included in the SERVQUAL questionnaire, and finally, the overall participants' perception of the service.</p>
+                  <p id="Par60">A model previously proposed was used to detect the gap between users' perceptions and expectations [<xref ref-type="bibr" rid="CR26">26</xref>]. For that, the SERVQUAL questionnaire was applied in two different moments (before and after receiving care). Then, the difference between the scores that customers attribute to the different pairs of statements. After consent to participate in the study, the baseline questionnaire will be sent to participants when contacted to participate in the study. This baseline assessment (t-2) should be done two weeks before the allocation (t0). We will calculate the mean score attributed in the baseline SERVQUAL assessment (t2) in each dimension to evaluate individual dimensions separately. Finally, one extra item was included besides the mentioned questionnaire (t2): "How do you feel about these service attributes that are already provided?". It was scored on a 5-point Likert-type scale of "very bad (1)" to "very good (5)." to identify overall participants' perceptions.</p>
+                </sec>
+                <sec id="Sec16">
+                  <title>Sample size and recruitment</title>
+                  <p id="Par61">The sample calculation was made using the application sample-size.net and considered the primary outcome for the RCT as a reference. As more than one dimension is considered in evaluating the primary outcome, we consider an average between them. A hypothetical user's difference between the perceived and the expected users' quality appraisal related to a regular health service clinic [<xref ref-type="bibr" rid="CR27">27</xref>] was used to estimate a minimum difference for this trial, aiming at a more conservative calculation. The minimum difference expected was set, then, as 0,17 (effect size) and a standard deviation of 0,53 assumed (based on the worst case scenario in the referred study) [<xref ref-type="bibr" rid="CR27">27</xref>]. A minimum sample of 306 users or family representatives in the RCT was estimated. Extra 20% was added to compensate for possible losses, resulting in a final sample of 368 families recruited. Thus, the first 368 families from the unit's care list will be included (randomized). To reach the required number of children, all participants registered at the mobile dental care unit will be invited to participate in this study by telephone or social media contact or message, as detailed in the before-and-after study.</p>
+                </sec>
+                <sec id="Sec17">
+                  <title>Independent variables collection</title>
+                  <p id="Par62">For both clinical trials described, available data will be collected from a data repository (dental records) administered by the researchers. Variables as time since the last consultation, oral health conditions associated (previous needs, caries experience, treatment adhesion/retention, oral-related habits, socioeconomic factors) may be used as independent variables. In addition, other independent variables will be collected parallel to intervention (teleconsultation), as changes in habits during the pandemic, level of education, age and occupation of the caregiver users involved in teleservice and previous experiences in health assisted by technologies.</p>
+                </sec>
+                <sec id="Sec18">
+                  <title>Statistical methods</title>
+                  <p id="Par63">We will adopt the intention to treat analysis for both clinical trials, and all recruited participants will be considered when expressing our findings. Imputations of the outcomes will be considered whenever missing data is detected. In these cases, using conditional imputation methods will be used.</p>
+                  <sec id="Sec19">
+                    <title>Before-and-after study</title>
+                    <p id="Par64">Firstly, we will calculate the problem-solving rate achieved with non-face-to-face care. Besides, a subgroup analysis will consider different demands identified. We will also calculate the average time of resolution of the demands (difference between the moment of the appearance of the complaint or demand and the moment of its resolution) and the reduction of the waiting time (time-lapse from when the care is provided and the regular face-to-face activities re-opening).</p>
+                    <p id="Par65">Regarding children's and caregivers' perception, we will calculate the usability rate (ease of use reported by caregiver users), satisfaction with the tools, behavior towards proposed strategies, and difficulties encountered, dividing them into difficulties with technologies and not related to technologies. Regression models will demonstrate the association of demand solving and the independent variables mentioned above. The same statistical approach will be used to outcomes related to the children's and caregivers' perception (usability, satisfaction, and behaviour to the technologies with the resolution of cases) and the time to resolution of complaints will be considered a dependent variable of conditional risk models. The events will be attention needs and the time counted from the last face-to-face contact. In these models, we will explore as independent variables the other variables also mentioned above, as well as aspects related to the difficulties reported by users.</p>
+                    <p id="Par68">The qualitative content analysis of the non-face-to-face consultations mediated by technology will be descriptive. It will look for possible explanations to different caregivers' perceptions and identify barriers and facilitators associated with the type of care offered.</p>
+                  </sec>
+                  <sec id="Sec20">
+                    <title>The RCT (waiting list controlled)</title>
+                    <p id="Par69">This study will first compare the satisfaction with the health care received using the SERVQUAL score between the groups (with and without technology-mediated care). We will use an appropriate statistical test depending on the distribution of scores. The scores assigned for the perception of each dimension will also be compared. Appropriate regression analyses may also be performed to verify other variables' influence, besides the group (test vs control) on users' perception of the received care.</p>
+                    <p id="Par70">We will also compare the gaps (difference between expected and perceived) between groups. Comparisons between the perceived and the expected in each one of the groups will also be performed. Once again, distributions will be checked to choose the appropriate statistical approach to be used.</p>
+                  </sec>
+                  <sec id="Sec21">
+                    <title>Simulation study: prospecting the findings for the reality of the national health system</title>
+                    <p id="Par71">After collecting the effects of implementing the technology-assisted primary care strategy, we will simulate a situation adapted to the scenario of interest,  the national public health system, the SUS (Fig. <xref rid="Fig2" ref-type="fig">2</xref>). This strategy has been used to provide subsidies (measurements) related to changes safely and efficiently before they are implemented on a large scale [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+                    <p id="Par72">e will use simulations considering the characteristics of the basic health units that provide primary dental care for children. We will create a specific model considering the distribution of variables in the sample for outcomes collected in trials but prospecting for a wider population eligible for primary care in SUS. We will use some index variables, e.g. caries experience, that we have collected in the trials and a similar one can also be found in official national data. The relationship between such variables and the studied outcomes will be investigated in our sample and will guide the model building.</p>
+                    <p id="Par73">Finally, using a bootstrap technique, we will simulate data equivalent to SUS reality, considering appropriate variables as reference for that, as mentioned. We will collect updated official data on the impact of the pandemic on the Brazilian public health system and data on oral health conditions in the age group obtained through the last oral health survey (SB Brasil 2010) [<xref ref-type="bibr" rid="CR29">29</xref>]. We will assume the essential characteristics of these units, which will also be considered in this simulation model. Some scenarios will be set to represent different contexts from different Brazilian regions.</p>
+                    <p id="Par74">From this simulation study, we hope to find the mean values and their 95% confidence intervals related to the problem-solving rate, reduction of waiting for time and user satisfaction related to the implementation of technology-mediated health care in the primary care of children assisted by the SUS.</p>
+                  </sec>
+                  <sec id="Sec22">
+                    <title>Economic and social impact assessment</title>
+                    <p id="Par75">Some economic evaluations were outlined to answer the efficiency of resource allocation when implementing teleassistance activities to solve the pent-up demand caused by the pandemic. To comprehend a broader overview of the economic impact of this implementation process, we will consider the different effects explored in the trials, both child- and parent-centred.</p>
+                    <p id="Par76">(a) Perspective and Time Horizon: We will adopt a societal perspective for the analyses. The time horizon will be set as the trans-pandemic time, being limited by the beginning of social distancing in Brazil and the date of return to normality of activities officially determined for it according to official government recommendations, as end of the period of interest. Eventually, subgroup analyses will be considered for different Brazilian regions with different profiles regarding the duration of the pandemic. Alternatively, we may also model data using another time horizon, in which we consider the achievement of an ideal vaccination rate in Brazil (or in specific regions).</p>
+                    <p id="Par77">(b) Type of Evaluation/Effects: Three different trial-based economic evaluations will then be performed using cost-effectiveness approaches. A different effect will be used for each one (Fig. <xref rid="Fig6" ref-type="fig">6</xref>). Mainly, data will be extracted from trials described elsewhere in this protocol. Modelling strategies will be used to simulate more prolonged effects than those measured in the trials.<fig id="Fig6"><label>Fig. 6</label><caption><p>Economic evaluations (cost-effectiveness type), respective effects, questions to be answered and possible subgroup analyses foreseen</p></caption><graphic xlink:href="12903_2022_2101_Fig6_HTML" id="MO6"/></fig></p>
+                    <p id="Par78">(c) Costs: The costs will be considered as described below for each assessment. The unit of analysis will be the research participant (patient/child) to which primary care was being directed and the strategy of micro-costing. Resources used will be valued as described in the Fig. <xref rid="Fig7" ref-type="fig">7</xref>. The direct costs will be those related to the provision and installation of services. Indirect costs will consider the patient's cost for the use of dental services or costs derived from care) that must be computed in a broader character (Fig. <xref rid="Fig5" ref-type="fig">5</xref>). All costs will be valued in Brazilian Real and converted into dollars.<fig id="Fig7"><label>Fig. 7</label><caption><p>Cost components to be valued for the economic evaluations</p></caption><graphic xlink:href="12903_2022_2101_Fig7_HTML" id="MO7"/></fig></p>
+                    <p id="Par79">Direct costs will be computed considering the time of use of the teleservice. This time will be recorded on the platform and by the service professional to double-check. For the calculation for the professional cost: the salaries of professionals will be based on the official national data will be used. With this, it will be multiplied by the time spent. Sensitivity analyses will be performed using data from different regions and/or different available services/positions.</p>
+                    <p id="Par80">The costs for the installation and maintenance of the teledentistry system take into account the program's implementation and its continuous operation. This type of cost will consider the time spent by the team for developing the system and the cost of maintaining and using the platform. An hourly value for using the technology will be calculated based on system capacity and usage flow data per month [<xref ref-type="bibr" rid="CR30">30</xref>] and thus the value of the time obtained. A similar strategy will be made considering the expenses related to training and training of the team to implement the strategy [<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+                    <p id="Par81">To value the cost of using the technology by the patient/family, the average prices for 1Mbps of internet and Kwh of energy in Brazil, taking into account the time spent in each consultation. The value for patient's and caregiver's time and caregiver will be valued using arbitrary reference values (for example, the minimum wage and/or average salary of the population) and the time spent during care.</p>
+                    <p id="Par82">To value the treatments received outside the dental unit, the average value per procedure was obtained from a data repository of costs related to care provided at the same unit when performing another clinical study (NCT02473107). If a child needs to perform a restoration during the period, a value is estimated based on that repository.</p>
+                    <p id="Par83">In the case of unresolved complaints or patients who miss the expected follow-up until the end of the pandemic, the costs of possible complications will be valued based on the expected outcomes using models.</p>
+                    <p id="Par84">In the case of patients who will not receive the intervention, the costs of the intervention will not be considered since face-to-face care at the time of the pandemic is suspended (Fig. <xref rid="Fig5" ref-type="fig">5</xref>).</p>
+                    <p id="Par85">(e) Analysis Plan: The cost-effectiveness strategy will be used for economic analyses. Incremental values will be calculated both for costs and effects. Therefore, the difference between the new strategy and the one you want to replace will be calculated. (ΔE = E<sub>with_tele</sub> – E<sub>without_tele</sub> and ΔC = C<sub>with_tele</sub> – C<sub>without_tele.</sub> The confidence intervals will be estimated, for each parameter, using the bootstrap technique and considering the sample values referring to costs, effects, incremental costs and incremental cost ratio incremental effectiveness.</p>
+                    <p id="Par86">The decision-making will depend on the interpretation that will be made of the values collected in the cost-effectiveness plane. Depending on the quadrant in which these simulation results are placed, it may be called dominant or dominated, so an incremental-effectiveness cost ratio calculation may be required for the decision to be made. If the results are in the Northeast or Southwest quadrant (Fig. <xref rid="Fig8" ref-type="fig">8</xref>), the incremental cost-effectiveness ratio will help to decide whether or not the intervention will be cost-effective, that is, whether the extra expenditure attributed to the strategy is really worth the effect achieved by it, or even, whether what will be saved with the new strategy is worth the loss that has in its effect.<fig id="Fig8"><label>Fig. 8</label><caption><p>Diagram for interpretation of costs and effects in the cost-effectiveness plan</p></caption><graphic xlink:href="12903_2022_2101_Fig8_HTML" id="MO8"/></fig></p>
+                    <p id="Par87">Acceptability curves will be plotted considering different ceiling ratios. This strategy will be used for each tested effect to check the strategy's cost-effectiveness in different economic evaluations.</p>
+                    <p id="Par88">(f) Sensitivity analyses: The economic evaluations will initially be evaluated considering a SUS-simulated scenario in which non-face-to-face care is implemented. The confidence limits of the parameters used (effects and costs) will be considered for performing deterministic sensitivity analyses.</p>
+                    <p id="Par89">We will adopt a Bayesian strategy to probabilistic sensitivity analyses to explore the uncertainties of health effects and costs [<xref ref-type="bibr" rid="CR32">32</xref>–<xref ref-type="bibr" rid="CR34">34</xref>]. For this, following the sample distribution, we will create simulations for both effects and costs, using XLSTAT 2021 (Addinsoft, Paris, France) and the effects and incremental costs. Also, the distributions of these parameters will be considered when the probabilistic analyses are performed.</p>
+                    <p id="Par90">Next, we will also perform other sensitivity analyses, considering the values prospected for the national health system, considering its magnitude and peculiarities. If necessary, subgroup analyses may be adopted to address specific Brazilian regions.</p>
+                    <p id="Par91">Finally, we will also analyze the expected value of perfect information (EVPI) and budget impact analysis (BIA). The first analysis (EVPI) allows us to know the value attributed to lousy decision-making due to the uncertainties presented in the data when the strategy is incorporated. It also allows us to estimate the value of the information (VOI), allowing the manager to have tangible arguments to decide whether there is interest in searching for evidence for the subject [<xref ref-type="bibr" rid="CR35">35</xref>]. On the other hand, the BIA is an elemental analysis for planning and dimensioning the expenses inherent to incorporating a new strategy in the health system [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+                    <p id="Par92">Still considering the above scenarios (dental reference unit and SUS), we will use the economic modelling strategy to consider some aspects not directly measurable in the evaluations described above but relevant from the point of view of decision-making. For this purpose, in the model, we will consider the costs and effects (including risks and benefits) inherent to the face-to-face resolution of some complaints and demands that could be resolved in the clinical studies described above.</p>
+                    <p id="Par93">To construct and validate these models, a group of experts, including experts in economic assessments, in evidence-based practice, service representatives and managers/decision-makers will be involved. The values related to the probability of occurrence of the different effects considered, as well as the costs derived from each of the situations or states included in the decision tree, will be obtained from the clinical studies conducted in the format of face-to-face care and also official data sources or pertinent bibliography. If necessary, data compilation will be done in meta-analysis format for a more robust estimate. Once this is done, the same analytical strategies previously scored will be employed.</p>
+                    <p id="Par94">Suppose a potential positive effect of the technology applied to primary dental care for children is detected. Then, models to understand how these tools could be used in the post-pandemic period to optimize the care and demand of this type of care within the SUS. For this, new decision trees will be proposed considering for each type of relevant demand (reception, guidance, resolution of some complaints without face-to-face need), possibilities of evolution, leading to inherent effects and costs. Then, another economic evaluation considering the economic impact of maintaining these technological tools within the context of primary care in the SUS in the post-pandemic period may be carried out. Such models may consider values related to the family's need for going to a dental unit for being cared for, caregivers' productivity losses because they accompany children in some visits, increase of dentist's productivity, possible losses due to difficulties in access and technological domain, among other possible points raised in clinical studies and also by the experts involved in the construction of the theoretical framework and validation of the models.</p>
+                    <p id="Par95">For the proposed frameworks, Markov models will be used, constructed and rotated in the appropriate software TreeAge. Annual cycles will be established and, a priori, a 10-year time horizon will be considered. The base case and health states will also be defined, given what was observed in previous studies. In these models, we will try to contemplate quantitative aspects (size of the population of children in the age group covered by the system) and qualitative (regional specificities) characteristics of the SUS. Exploratory analyses will be made considering possible variations in time horizons.</p>
+                    <p id="Par96">To verify if the insertion of technologies in primary dental care will impact social inequalities, we will analyze how some parameters associated with access may influence studied outcomes. Participants will be divided into groups considering socioeconomic factors, such as income, maternal education. Further, we will test if there are differences, for example, regarding the difficulties of access to technologies for care and guidance in primary care between these groups. We will collect pertinent data from the clinical studies and consider the mathematically simulated data for prospecting the reality to the national health system.</p>
+                    <p id="Par97">We will use managed entry agreement schemes to deal with the risk of heterogeneity of findings in economic analyses [<xref ref-type="bibr" rid="CR37">37</xref>] adapted to the Brazilian reality. At this stage, we will consider the models and decision tress built to check the efficiency of resource allocation when implementing technologies in the management of relevant situations in the face of the COVID-19 pandemic and possible subsequent implementation in the SUS. The risks of uncertainty will be quantified using an instrument proposed for this purpose [<xref ref-type="bibr" rid="CR38">38</xref>], and its actual impact can be evidenced for the health system managers, for example. That will also be a way to compare the different strategies in different environments (settings) to be incorporated within the national public health system.</p>
+                  </sec>
+                </sec>
+              </sec>
+            </sec>
+            <sec id="Sec23">
+              <title>Discussion</title>
+              <p id="Par98">Given the scenario of COVID-19, in which social distancing has been necessary, the professionals had to review their conduct to minimize the chances of contagion with the virus. Thus, Teledentistry has been gaining prominence, as it is an innovative method of providing health services that allow contact guidance without the need for face-to-face care [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+              <p id="Par99">On the other hand, because it is an innovative type of care, many issues are being raised around the telehealth. While teleservice support is argued to improve equitable access to health care, it may also cause disparities in access due to digital difficulty [<xref ref-type="bibr" rid="CR40">40</xref>, <xref ref-type="bibr" rid="CR41">41</xref>]. It is a fact that this type of care presents some challenges, not only related to digital complications, access, connection, but also oncerning the performance of a preliminary physical examination, difficulty in visualization, difficulty in diagnosis. But even so, telehealth can contribute substantially to finding a balance between face-to-face encounters and remote follow-up of patients, especially in pandemic moments [<xref ref-type="bibr" rid="CR42">42</xref>]. These findings demonstrate the need for evidences who actually support the use of such strategies in primary dental care.</p>
+              <p id="Par100">In Brazil, we have not found many studies related to the implementation of Teledentistry, especially with children. This series of studies on the implementation of non-face-to-face care may bring essential contributions to understanding how such technologic inclusion in dental practice could result. For that, both different study designs and different outcomes are being explored in this protocol. As we designed here, small-scale studies can more closely approximate the clinical or community context of an RCT and may be helpful to test some aspects of intervention feasibility [<xref ref-type="bibr" rid="CR14">14</xref>]. Looking at "how does strategy may work" for performing care for children when a face-to-face consultation is not feasible is our big deal in this protocol. As "how it works" may be answered in different ways [<xref ref-type="bibr" rid="CR14">14</xref>], we opted for exploring aspects that matter to the dentist and the patient/family and society in general.</p>
+              <p id="Par101">For deciding to include this type of technology (or not) in the health system, or even in any dental practice, we need information related to acceptability, demand, costs, implementation power, efficacy. All these areas may be addressed for feasibility studies [<xref ref-type="bibr" rid="CR14">14</xref>]. It is expected that with the results of this project, we can contribute scientifically to all these issues, and permanently modify the work process of oral health teams in Brazil, and maybe, in other parts of the world.</p>
+              <p id="Par102">The teleservice is not a new tool in health care. However, the COVID-19 pandemic created an opportunity window that makes this approach more visible and probably desirable. We believe after this pandemic and returning of regular clinical appointments, some positive lessons may become perennial. Thus, it is also crucial to understand how all these efforts performed during this atypical period may contribute to the real-life after the pandemic ends.</p>
+              <p id="Par103">Another important mission in this protocol is bringing out robust findings that may induce policies and show experiences serve as examples even for other countries. We reinforce the responsibility and mission to generate knowledge with public resources and disseminate them at scale so that good practices can be carried out to ensure benefits to all SUS users, prospecting and expanding contributions, possibly, to different realities related to the SUS within Brazil or even, throughout the world.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary Information</title>
+              <sec id="Sec24">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2022_2101_MOESM1_ESM.docx">
+                      <caption>
+                        <p><bold>Additional file 1.</bold> SPIRIT checklist.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM2">
+                    <media xlink:href="12903_2022_2101_MOESM2_ESM.docx">
+                      <caption>
+                        <p><bold>Additional file 2.</bold> Checklist for Health Economics Analysis Plans (HEAPs) for trial-based economic evaluations [<xref ref-type="bibr" rid="CR20">20</xref>].</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM3">
+                    <media xlink:href="12903_2022_2101_MOESM3_ESM.docx">
+                      <caption>
+                        <p><bold>Additional file 3.</bold> SERVQUAL questionnaire (English version).</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>BIA</term>
+                  <def>
+                    <p id="Par5">Budget impact analysis</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CA</term>
+                  <def>
+                    <p id="Par6">Content analysis</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CI</term>
+                  <def>
+                    <p id="Par7">Informatics center</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>EVPI</term>
+                  <def>
+                    <p id="Par8">Expect value of perfect information</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FAPESP</term>
+                  <def>
+                    <p id="Par9">São Paulo State Research Foundation</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FOUSP</term>
+                  <def>
+                    <p id="Par10">University of São Paulo School of Dentistry</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>LAVID</term>
+                  <def>
+                    <p id="Par11">Research and extensions center</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICTS</term>
+                  <def>
+                    <p id="Par12">Information and communication technologies</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>RNP</term>
+                  <def>
+                    <p id="Par13">National network of teaching and research</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SPIRIT</term>
+                  <def>
+                    <p id="Par14">Standard protocol items: recommendations for interventional trials</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SUS</term>
+                  <def>
+                    <p id="Par15">Unified health system</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>V4H</term>
+                  <def>
+                    <p id="Par16">Video for health</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VOI</term>
+                  <def>
+                    <p id="Par17">Value of the information</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors would like to thank the group of graduate students, scientific initiation and scientific pre-initiation who are involved in the teleservices of the Mobile Dental Unit, Dental School of University of São Paulo (Teletrailer program), sharing ideas, collaborating with the planning and establishment of this study. We also thank the V4H – Video for Health for supporting teleservices to be made with quality, always seeking to improve the digital platform for professionals and patients. Members of both groups can be found below. We also wish to thank the Post-Graduation in Pediatric Dentistry Seminar participants of University of São Paulo School of Dentistry (FOUSP) for the critical comments put forth.</p>
+              <sec id="FPar4">
+                <title>Collaborative research group</title>
+                <p id="Par104">Thais Gomes de Oliveira Machado, Maria Eduarda Franco Viganó, Jhandira Daibelis, Gabriela do Manco Machado, Fabiana Bracco, Lucas Gabriel Santini Rodrigues, Gabriele de Oliveira, Isabella Petroline leite, Luiz Ivan Lemos Silva, João Victor Rezende Pompeu, Letícia Furtado Ramalho.</p>
+              </sec>
+              <sec id="FPar5">
+                <title>V4H group (<ext-link ext-link-type="uri" xlink:href="https://v4h.cloud/">https://v4h.cloud/</ext-link>)</title>
+                <p id="Par105">Guido Lemos, Marco Gutierrez, Cicero I. Da Silva, Giuliano Maia, Denio Mariz, Rosangela Gundim, André do Prado, Lucas Aversari, Igor Gadelha, Clístenes Onassis, Erick Dias, Leoberto Soares, Fernando Máximo and Matheus Queiroz.</p>
+              </sec>
+              <sec id="FPar6">
+                <title>Dissemination policy</title>
+                <p id="Par106">All the findings of this trial will be reported in peer-reviewed journals, patient newsletters and a website.</p>
+              </sec>
+              <sec id="FPar7">
+                <title>Trial status</title>
+                <p id="Par107">The trial is recruiting participants at this moment. The recruitment has been in progress from December 2020 until now. The end of the recruitment is planned for June 2022.</p>
+              </sec>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors' contributions</title>
+              <p>MMB, FCAC, MCSN conceived the study idea. MMB, FCAC, MCSN, DPR, FMM, JCPI, GLSF, EHGL, YWC and CIS designed the study. MMB, KHN, TGM, FB, LIL, MEFV, GMM, JDYV and FCAC are responsible for implementation of the clinical trial and data collection. MMB, FCAC, MCSN are the trial coordinators. MMB and FCAC are the principal investigators. KHN, TGM, FB, LIL, MEFV, GMM, JDYV are the dentists who perform the teleservices. MMB, KHN and TGM are accountable for organizing and monitoring the treatments. All authors wrote and revised the manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>This work was supported by Coordination for the Improvement of Higher Education Personnel (CAPES), Brazilian National Council for Scientific and Technological Development (CNPq), Pro-Reitoria de Pesquisa, University of São Paulo (Process USP: 2020.1.4353.1.5). The dental unit was acquired with FAPESP funding (2012/50716-0) and V4H development was funded by Rede Nacional de Ensino e Pesquisa-RNP. The funders had no role in the study design, data collection and analysis, decision to publish, or manuscript preparation.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par108">Ethical approval has been granted by the Ethical Committee from the School of Dentistry, University of São Paulo (Number of Approval: 4.432.357). The children's parents or legal guardians signed an inform consent term before trial inclusion. Literate children also signed an assent form before the inclusion.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par109">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par110">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulz-Weidner</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Schlenz</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Krämer</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Boukhobza</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bekes</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact and perspectives of pediatric dental care during the COVID-19 pandemic regarding unvaccinated children: a cross-sectional survey</article-title>
+                  <source>Int J Environ Res Public Health</source>
+                  <year>2021</year>
+                  <volume>18</volume>
+                  <issue>22</issue>
+                  <fpage>12117</fpage>
+                  <pub-id pub-id-type="doi">10.3390/ijerph182212117</pub-id>
+                  <pub-id pub-id-type="pmid">34831874</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fux-Noy</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Mattar</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Shmueli</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Halperson</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Ram</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Moskovitz</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral health care delivery for children during COVID-19 pandemic—a retrospective study</article-title>
+                  <source>Front Public Health</source>
+                  <year>2021</year>
+                  <volume>9</volume>
+                  <issue>May</issue>
+                  <fpage>1</fpage>
+                  <lpage>6</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Üstün</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Akgöl</surname>
+                      <given-names>BB</given-names>
+                    </name>
+                    <name>
+                      <surname>Bayram</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of COVID-19 pandemic on paediatric dental attendance</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2021</year>
+                  <volume>25</volume>
+                  <issue>11</issue>
+                  <fpage>6185</fpage>
+                  <lpage>6191</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-021-03917-5</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <mixed-citation publication-type="other">Meng X, Deng Y, Dai Z, Meng Z. Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect , the company ’ s public news and information. WwwElsevierCom/Locate/Amjoto. 2020;(January):1–6.</mixed-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <mixed-citation publication-type="other">Korth J, Wilde B, Dol S, Anastasiou OE, Krawczyk A, Jahn M, et al. Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect, the company’s public news and information. 2020;(January).</mixed-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Iavicoli</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Boccunii</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Buresti</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Gagliardiid</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Persechino</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Valenti</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Risk assessment at work and prevention strategies on COVID-19 in Italy</article-title>
+                  <source>PLoS ONE [Internet]</source>
+                  <year>2021</year>
+                  <volume>16</volume>
+                  <issue>3 March</issue>
+                  <fpage>1</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0248874</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <mixed-citation publication-type="other">ADA. ADA recommending dentists postpone elective procedures. 2020.</mixed-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chisini</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>FS</given-names>
+                    </name>
+                    <name>
+                      <surname>Demarco</surname>
+                      <given-names>GT</given-names>
+                    </name>
+                    <name>
+                      <surname>da Silveira</surname>
+                      <given-names>ER</given-names>
+                    </name>
+                    <name>
+                      <surname>Demarco</surname>
+                      <given-names>FF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>COVID-19 pandemic impact on paediatric dentistry treatments in the Brazilian Public Health System</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2021</year>
+                  <volume>31</volume>
+                  <issue>1</issue>
+                  <fpage>31</fpage>
+                  <lpage>34</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12741</pub-id>
+                  <pub-id pub-id-type="pmid">33197102</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Da Costa</surname>
+                      <given-names>CB</given-names>
+                    </name>
+                    <name>
+                      <surname>Peralta</surname>
+                      <given-names>FDS</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferreira De Mello</surname>
+                      <given-names>ALS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>How has teledentistry been applied in public dental health services? An integrative review</article-title>
+                  <source>Telemed e-Health</source>
+                  <year>2020</year>
+                  <volume>26</volume>
+                  <issue>7</issue>
+                  <fpage>945</fpage>
+                  <lpage>954</lpage>
+                  <pub-id pub-id-type="doi">10.1089/tmj.2019.0122</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Asociación Latinoamericana</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Rahman</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Nathwani</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kandiah</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Al-Halabi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Salami</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A systematic review on the validity of teledentistry</article-title>
+                  <source>Telemed e-Health [Internet]</source>
+                  <year>2020</year>
+                  <volume>24</volume>
+                  <issue>3</issue>
+                  <fpage>1</fpage>
+                  <lpage>12</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.nepr.2016.12.004</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Alves</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Saunders</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Sandhu</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Xu</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>de Mendonça</surname>
+                      <given-names>NF</given-names>
+                    </name>
+                    <name>
+                      <surname>Treister</surname>
+                      <given-names>NS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Implication of COVID-19 in oral oncology practices in Brazil, Canada, and the United States</article-title>
+                  <source>Oral Dis</source>
+                  <year>2020</year>
+                  <volume>23</volume>
+                  <fpage>793</fpage>
+                  <lpage>795</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Estai</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kanagasingam</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Tennant</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bunt</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of the research evidence for the benefits of teledentistry</article-title>
+                  <source>J Telemed Telecare</source>
+                  <year>2018</year>
+                  <volume>24</volume>
+                  <issue>3</issue>
+                  <fpage>147</fpage>
+                  <lpage>156</lpage>
+                  <pub-id pub-id-type="doi">10.1177/1357633X16689433</pub-id>
+                  <pub-id pub-id-type="pmid">28118778</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chambers</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                    <name>
+                      <surname>Glasgow</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                    <name>
+                      <surname>Stange</surname>
+                      <given-names>KC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The dynamic sustainability framework: addressing the paradox of sustainment amid ongoing change</article-title>
+                  <source>Implement Sci</source>
+                  <year>2013</year>
+                  <volume>8</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1186/1748-5908-8-1</pub-id>
+                  <pub-id pub-id-type="pmid">23279972</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bowen</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Kreuter</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Spring</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Linnan</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Weiner</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakken</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>How we design feasibility studies</article-title>
+                  <source>Am J Prev Med</source>
+                  <year>2010</year>
+                  <volume>36</volume>
+                  <issue>5</issue>
+                  <fpage>452</fpage>
+                  <lpage>457</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.amepre.2009.02.002</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Digioia</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lorenz</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Greenhouse</surname>
+                      <given-names>PK</given-names>
+                    </name>
+                    <name>
+                      <surname>Bertoty</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rocks</surname>
+                      <given-names>SD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A patient-centered model to improve metrics without cost increase: viewing all care through the eyes of patients and families</article-title>
+                  <source>J Nurs Adm</source>
+                  <year>2010</year>
+                  <volume>40</volume>
+                  <issue>12</issue>
+                  <fpage>540</fpage>
+                  <lpage>546</lpage>
+                  <pub-id pub-id-type="doi">10.1097/NNA.0b013e3181fc1</pub-id>
+                  <pub-id pub-id-type="pmid">21084890</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gold</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Panel on cost-effectiveness in health and medicine</article-title>
+                  <source>Med Care</source>
+                  <year>1996</year>
+                  <volume>34</volume>
+                  <issue>12 Suppl</issue>
+                  <fpage>DS197</fpage>
+                  <lpage>DS199</lpage>
+                  <?supplied-pmid 8969326?>
+                  <pub-id pub-id-type="pmid">8969326</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ellwein</surname>
+                      <given-names>LB</given-names>
+                    </name>
+                    <name>
+                      <surname>Drummond</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Economic analysis alongside clinical trials: bias in the assessment of economic outcomes</article-title>
+                  <source>Int J Technol Assess</source>
+                  <year>1996</year>
+                  <volume>12</volume>
+                  <issue>4</issue>
+                  <fpage>691</fpage>
+                  <lpage>697</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S0266462300010977</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Andrade</surname>
+                      <given-names>MV</given-names>
+                    </name>
+                    <name>
+                      <surname>Maia</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Cardoso</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Alkmim</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ribeiro</surname>
+                      <given-names>ALP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cost-benefit of the telecardiology service in the state of Minas Gerais: Minas Telecardio project</article-title>
+                  <source>Arq Bras Cardiol</source>
+                  <year>2011</year>
+                  <volume>97</volume>
+                  <issue>4</issue>
+                  <fpage>307</fpage>
+                  <lpage>316</lpage>
+                  <pub-id pub-id-type="doi">10.1590/S0066-782X2011005000080</pub-id>
+                  <pub-id pub-id-type="pmid">21808852</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tetzlaff</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>2013 statement : defining standard protocol items for clinical trials</article-title>
+                  <source>Ann Intern Med</source>
+                  <year>2016</year>
+                  <volume>158</volume>
+                  <issue>3</issue>
+                  <fpage>200</fpage>
+                  <lpage>207</lpage>
+                  <pub-id pub-id-type="doi">10.7326/0003-4819-158-3-201302050-00583</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thorn</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Davies</surname>
+                      <given-names>CF</given-names>
+                    </name>
+                    <name>
+                      <surname>Brookes</surname>
+                      <given-names>ST</given-names>
+                    </name>
+                    <name>
+                      <surname>Noble</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Dritsaki</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gray</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Content of Health Economics Analysis Plans (HEAPs) for Trial-based economic evaluations: expert delphi consensus survey</article-title>
+                  <source>Value Heal [Internet]</source>
+                  <year>2021</year>
+                  <volume>24</volume>
+                  <issue>4</issue>
+                  <fpage>539</fpage>
+                  <lpage>47</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jval.2020.10.002</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rahman</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Nathwani</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kandiah</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Teledentistry from a patient perspective during the coronavirus pandemic</article-title>
+                  <source>Br Dent J</source>
+                  <year>2020</year>
+                  <volume>229</volume>
+                  <issue>3</issue>
+                  <fpage>1</fpage>
+                  <lpage>4</lpage>
+                  <pub-id pub-id-type="pmid">32651484</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Watson</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Clark</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Measurement and mismeasurement of mood: recurrent and emergent issues</article-title>
+                  <source>J Pers Assess.</source>
+                  <year>1997</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>267</fpage>
+                  <lpage>96</lpage>
+                  <pub-id pub-id-type="doi">10.1207/s15327752jpa6802_4</pub-id>
+                  <?supplied-pmid 16370781?>
+                  <pub-id pub-id-type="pmid">16370781</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Elo</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kyngäs</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The qualitative content analysis process</article-title>
+                  <source>J Adv Nurs</source>
+                  <year>2008</year>
+                  <volume>62</volume>
+                  <issue>1</issue>
+                  <fpage>107</fpage>
+                  <lpage>115</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2648.2007.04569.x</pub-id>
+                  <pub-id pub-id-type="pmid">18352969</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Parasuraman</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zeithaml</surname>
+                      <given-names>VA</given-names>
+                    </name>
+                    <name>
+                      <surname>Berry</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A conceptual model service its quality and implications for future research</article-title>
+                  <source>Res Pap [Internet]</source>
+                  <year>1985</year>
+                  <volume>49</volume>
+                  <issue>4</issue>
+                  <fpage>41</fpage>
+                  <lpage>50</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moita</surname>
+                      <given-names>GF</given-names>
+                    </name>
+                    <name>
+                      <surname>Queiroz Barbosa</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Reis Raposo</surname>
+                      <given-names>VM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Quality Saúde – uma adaptação transcultural multicêntrica dos constructos da escala Servqual de satisfação para o SUS, por translação de conhecimento de especialistas e usuários</article-title>
+                  <source>Rev do Serviço Público</source>
+                  <year>2019</year>
+                  <volume>70</volume>
+                  <issue>2</issue>
+                  <fpage>325</fpage>
+                  <lpage>364</lpage>
+                  <pub-id pub-id-type="doi">10.21874/rsp.v70i2.3142</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Parasuraman</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zeithaml</surname>
+                      <given-names>VA</given-names>
+                    </name>
+                    <name>
+                      <surname>Berry</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>SERVQUAL: a multiple-item scale for measuring customer perceptions of service quality</article-title>
+                  <source>J Reatiling</source>
+                  <year>1988</year>
+                  <volume>64</volume>
+                  <fpage>12</fpage>
+                  <lpage>40</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Andrade</surname>
+                      <given-names>LAF</given-names>
+                    </name>
+                    <name>
+                      <surname>Salazar</surname>
+                      <given-names>PEL</given-names>
+                    </name>
+                    <name>
+                      <surname>Leopoldino</surname>
+                      <given-names>KDM</given-names>
+                    </name>
+                    <name>
+                      <surname>Montenegro</surname>
+                      <given-names>CB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Avaliação da qualidade da atenção primária à saúde segundo o nível de satisfação dos idosos</article-title>
+                  <source>Rev Gauch Enferm</source>
+                  <year>2019</year>
+                  <volume>40</volume>
+                  <fpage>e20180389</fpage>
+                  <pub-id pub-id-type="doi">10.1590/1983-1447.2019.20180389</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zun</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ibrahim</surname>
+                      <given-names>MI</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamid</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Level of satisfaction on service quality dimensions based on SERVQUAL model among patients attending 1 Malaysia clinic in Kota Bharu, Malaysia</article-title>
+                  <source>Oman Med J</source>
+                  <year>2018</year>
+                  <volume>33</volume>
+                  <issue>5</issue>
+                  <fpage>416</fpage>
+                  <lpage>422</lpage>
+                  <pub-id pub-id-type="doi">10.5001/omj.2018.76</pub-id>
+                  <pub-id pub-id-type="pmid">30210721</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>239.</label>
+                <mixed-citation publication-type="other">Allen M, Spencer A, Gibson A, Matthews J, Allwood A, Prosser S et al. Health Services and Delivery Research. Right cot, right place, right time: improving the design and organisation of neonatal care networks—a computer simulation study. Southampt NIHR Journals Libr.</mixed-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <mixed-citation publication-type="other">Ministério da Saúde B. Resultados Principais. Pesqui Nac Saúde Bucal [Internet]. 2011. <ext-link ext-link-type="uri" xlink:href="http://www.saude.gov.br/bvs%0Awww.saude.gov.br/saudelegis">www.saude.gov.br/bvs%0Awww.saude.gov.br/saudelegis</ext-link>.</mixed-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zanotto</surname>
+                      <given-names>BS</given-names>
+                    </name>
+                    <name>
+                      <surname>Etges</surname>
+                      <given-names>APBS</given-names>
+                    </name>
+                    <name>
+                      <surname>Siqueira</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>da Silva</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Bastos</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>de Araujo</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Economic evaluation of a telemedicine service to expand primary health care in Rio Grande do Sul: Teleoftalmo’s microcosting analysis</article-title>
+                  <source>Cienc e Saude Coletiva</source>
+                  <year>2020</year>
+                  <volume>25</volume>
+                  <issue>4</issue>
+                  <fpage>1349</fpage>
+                  <lpage>1360</lpage>
+                  <pub-id pub-id-type="doi">10.1590/1413-81232020254.28992019</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Clarke</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Fursse</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Brown-Connolly</surname>
+                      <given-names>NE</given-names>
+                    </name>
+                    <name>
+                      <surname>Sharma</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of the National Health Service (NHS) direct pilot telehealth program: cost-effectiveness analysis</article-title>
+                  <source>Telemed J E Health</source>
+                  <year>2018</year>
+                  <volume>24</volume>
+                  <issue>1</issue>
+                  <fpage>67</fpage>
+                  <lpage>76</lpage>
+                  <pub-id pub-id-type="doi">10.1089/tmj.2016.0280</pub-id>
+                  <pub-id pub-id-type="pmid">28723244</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Coomarasamy</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Khan</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>What is the evidence that postgraduate teaching in evidence based medicine changes anything? A systematic review</article-title>
+                  <source>BMJ</source>
+                  <year>2004</year>
+                  <volume>329</volume>
+                  <issue>7473</issue>
+                  <fpage>1017</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.329.7473.1017</pub-id>
+                  <pub-id pub-id-type="pmid">15514348</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jeggle</surname>
+                      <given-names>LM</given-names>
+                    </name>
+                    <name>
+                      <surname>Baker</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwendicke</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Changing dentists’ carious tissue removal behavior: qualitative study and behavioral change simulation experiment</article-title>
+                  <source>J Dent [Internet]</source>
+                  <year>2019</year>
+                  <volume>81</volume>
+                  <issue>September 2018</issue>
+                  <fpage>43</fpage>
+                  <lpage>51</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2018.12.010</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Richardson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Khouja</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutcliffe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Using the theoretical domains framework and the behavioural change wheel in an overarching synthesis of systematic reviews</article-title>
+                  <source>BMJ Open</source>
+                  <year>2019</year>
+                  <volume>9</volume>
+                  <issue>6</issue>
+                  <fpage>1</fpage>
+                  <lpage>16</lpage>
+                  <pub-id pub-id-type="doi">10.1136/bmjopen-2018-024950</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Michie</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnston</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Abraham</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Lawton</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Parker</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Walker</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Making psychological theory useful for implementing evidence based practice: a consensus approach</article-title>
+                  <source>Qual Saf Heal Care</source>
+                  <year>2005</year>
+                  <volume>14</volume>
+                  <issue>1</issue>
+                  <fpage>26</fpage>
+                  <lpage>33</lpage>
+                  <pub-id pub-id-type="doi">10.1136/qshc.2004.011155</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sackett</surname>
+                      <given-names>DL</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosenberg</surname>
+                      <given-names>WM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gray</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Haynes</surname>
+                      <given-names>RBRW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evidence based medicine: what it is and what it isn’t</article-title>
+                  <source>BMJ</source>
+                  <year>1996</year>
+                  <volume>312</volume>
+                  <issue>7023</issue>
+                  <fpage>71</fpage>
+                  <lpage>72</lpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.312.7023.71</pub-id>
+                  <pub-id pub-id-type="pmid">8555924</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kanavos</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferrario</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tafuri</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Siviero</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Managing risk and uncertainty in health technology introduction: the role of managed entry agreements</article-title>
+                  <source>Global Policy.</source>
+                  <year>2017</year>
+                  <volume>8</volume>
+                  <issue>S2</issue>
+                  <fpage>84</fpage>
+                  <lpage>92</lpage>
+                  <pub-id pub-id-type="doi">10.1111/1758-5899.12386</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grimm</surname>
+                      <given-names>SE</given-names>
+                    </name>
+                    <name>
+                      <surname>Strong</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Brennan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Wailoo</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The HTA risk analysis chart: visualising the need for and potential value of managed entry agreements in health technology assessment</article-title>
+                  <source>Pharmacoeconomics.</source>
+                  <year>2017</year>
+                  <volume>35</volume>
+                  <issue>12</issue>
+                  <fpage>1287</fpage>
+                  <lpage>96</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s40273-017-0562-9</pub-id>
+                  <pub-id pub-id-type="pmid">28849538</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jaffe</surname>
+                      <given-names>DH</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Huynh</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Haskell</surname>
+                      <given-names>TP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Health inequalities in the use of telehealth in the United States in the lens of COVID-19</article-title>
+                  <source>Popul Health Manag</source>
+                  <year>2020</year>
+                  <volume>23</volume>
+                  <issue>5</issue>
+                  <fpage>368</fpage>
+                  <lpage>377</lpage>
+                  <pub-id pub-id-type="doi">10.1089/pop.2020.0186</pub-id>
+                  <pub-id pub-id-type="pmid">32816644</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marcin</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Shaikh</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Steinhorn</surname>
+                      <given-names>RH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Addressing health disparities in rural communities using telehealth</article-title>
+                  <source>Pediatr Res.</source>
+                  <year>2016</year>
+                  <volume>79</volume>
+                  <issue>1–2</issue>
+                  <fpage>169</fpage>
+                  <lpage>76</lpage>
+                  <pub-id pub-id-type="doi">10.1038/pr.2015.192</pub-id>
+                  <pub-id pub-id-type="pmid">26466080</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Reeves</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Ayers</surname>
+                      <given-names>JW</given-names>
+                    </name>
+                    <name>
+                      <surname>Longhurst</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Telehealth in the COVID-19 era: a balancing act to avoid harm</article-title>
+                  <source>J Med Internet Res.</source>
+                  <year>2021</year>
+                  <volume>23</volume>
+                  <issue>2</issue>
+                  <fpage>1</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.2196/24785</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

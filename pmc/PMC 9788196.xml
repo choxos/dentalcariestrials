@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:38:12Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9788196" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9788196</identifier>
+        <datestamp>2022-12-28</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="idh12523" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Int J Dent Hyg</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Int J Dent Hyg</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1601-5037</journal-id>
+              <journal-id journal-id-type="publisher-id">IDH</journal-id>
+              <journal-title-group>
+                <journal-title>International Journal of Dental Hygiene</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1601-5029</issn>
+              <issn pub-type="epub">1601-5037</issn>
+              <publisher>
+                <publisher-name>John Wiley and Sons Inc.</publisher-name>
+                <publisher-loc>Hoboken</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9788196</article-id>
+              <article-id pub-id-type="pmcid">PMC9788196</article-id>
+              <article-id pub-id-type="pmc-uid">9788196</article-id>
+              <article-id pub-id-type="pmid">34018672</article-id>
+              <article-id pub-id-type="pmid">34018672</article-id>
+              <article-id pub-id-type="doi">10.1111/idh.12523</article-id>
+              <article-id pub-id-type="publisher-id">IDH12523</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Evaluation of an intervention to promote minimally invasive dentistry (MID) in an Australian community dental agency—A pilot study</article-title>
+                <alt-title alt-title-type="left-running-head">NGUYEN et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="idh12523-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Nguyen</surname>
+                    <given-names>Tan Minh</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9986-7629</contrib-id>
+                  <xref rid="idh12523-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="idh12523-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <address>
+                    <email>tan.nguyen@deakin.edu.au</email>
+                  </address>
+                </contrib>
+                <contrib id="idh12523-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Tonmukayakul</surname>
+                    <given-names>Utsana</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6464-744X</contrib-id>
+                  <xref rid="idh12523-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="idh12523-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Calache</surname>
+                    <given-names>Hanny</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1613-0585</contrib-id>
+                  <xref rid="idh12523-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="idh12523-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="idh12523-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Deakin Health Economics</named-content>
+                <institution>Institute for Health Transformation</institution>
+                <institution>Deakin University</institution>
+                <city>Waurn Ponds</city>
+                <named-content content-type="country-part">Vic.</named-content>
+                <country country="AU">Australia</country>
+              </aff>
+              <aff id="idh12523-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Community Dental Program</named-content>
+                <institution>Peninsula Health</institution>
+                <city>Frankston</city>
+                <named-content content-type="country-part">Vic.</named-content>
+                <country country="AU">Australia</country>
+              </aff>
+              <aff id="idh12523-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Dentistry and Oral Health</named-content>
+                <institution>La Trobe Rural Health School</institution>
+                <institution>La Trobe University</institution>
+                <city>Bendigo</city>
+                <named-content content-type="country-part">Vic.</named-content>
+                <country country="AU">Australia</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Tan Minh Nguyen, Deakin Health Economics, Institute for Health Transformation, Deakin University, Locked Bag 20000, Geelong, Vic. 3220, Australia.<break/>
+Email: <email>tan.nguyen@deakin.edu.au</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>02</day>
+                <month>6</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>11</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>20</volume>
+              <issue seq="60">4</issue>
+              <issue-id pub-id-type="doi">10.1111/idh.v20.4</issue-id>
+              <fpage>627</fpage>
+              <lpage>634</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>27</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="received">
+                  <day>31</day>
+                  <month>5</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="accepted">
+                  <day>10</day>
+                  <month>5</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <!--&#x000a9; 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd-->
+                <copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">International Journal of Dental Hygiene</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:IDH-20-627.pdf"/>
+              <abstract id="idh12523-abs-0001">
+                <title>Abstract</title>
+                <sec id="idh12523-sec-0001">
+                  <title>Objectives</title>
+                  <p>To evaluate the impact of an intervention consisting of a 1‐day continuing professional development (CPD) education programme on the International Caries Classification and Management System (ICCMS<sup>™</sup>), and monthly performance feedback, and to promote minimally invasive dentistry (MID) for children aged under 12 years in an Australian community dental agency. The <italic toggle="yes">a priori</italic> hypotheses assumed the intervention would increase preventive services, and treatment demand was met.</p>
+                </sec>
+                <sec id="idh12523-sec-0002">
+                  <title>Methods</title>
+                  <p>A quasi non‐randomized controlled trial with convenience sampling method was adopted. Fourteen dental practitioners received the intervention. The prevalence of dental caries and gingivitis in Australian children was used to determine the treatment demand and used as the performance benchmark. Ten types of preventive and non‐preventive dental services were examined. A Difference‐in‐Differences (DiD) of 12‐month pre‐ (baseline) and post‐intervention analysis was performed.</p>
+                </sec>
+                <sec id="idh12523-sec-0003">
+                  <title>Results</title>
+                  <p>The intervention group demonstrated increases in topical fluoride application and dietary analysis and advice services. The standard care group had increases in oral prophylaxis or scale and clean, topical fluoride application and oral hygiene instructions (<italic toggle="yes">p</italic>‐value &lt;0.05). The DiD analysis confirmed the above findings in the intervention group, while other preventive services declined. In the intervention group, the performance benchmark for oral prophylaxis or scale and clean and oral hygiene instructions was met at baseline and post‐intervention.</p>
+                </sec>
+                <sec id="idh12523-sec-0004">
+                  <title>Conclusions</title>
+                  <p>Only a few preventive services had already met the performance benchmark. The intervention was associated with varied changes to preventive and non‐preventive dental services. More robust study design addressing the study limitations and validating the performance benchmark is required.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd id="idh12523-kwd-0001">dental care for children</kwd>
+                <kwd id="idh12523-kwd-0002">dental caries</kwd>
+                <kwd id="idh12523-kwd-0003">dental health services</kwd>
+                <kwd id="idh12523-kwd-0004">education</kwd>
+                <kwd id="idh12523-kwd-0005">dental</kwd>
+                <kwd id="idh12523-kwd-0006">continuing</kwd>
+                <kwd id="idh12523-kwd-0007">fluorides</kwd>
+                <kwd id="idh12523-kwd-0008">topical</kwd>
+                <kwd id="idh12523-kwd-0009">quality assurance</kwd>
+                <kwd id="idh12523-kwd-0010">health care</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>Alliance for a Cavity‐Free Future Community Service</funding-source>
+                </award-group>
+                <award-group id="funding-0002">
+                  <funding-source>Dental Services</funding-source>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="1"/>
+                <table-count count="3"/>
+                <page-count count="8"/>
+                <word-count count="9662"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>November 2022</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:23.12.2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="idh12523-cit-1001"><string-name><surname>Nguyen</surname><given-names>TM</given-names></string-name>, <string-name><surname>Tonmukayakul</surname><given-names>U</given-names></string-name>, <string-name><surname>Calache</surname><given-names>H</given-names></string-name>. <article-title>Evaluation of an intervention to promote minimally invasive dentistry (MID) in an Australian community dental agency—A pilot study</article-title>. <source>Int J Dent Hygiene</source>. <year>2022</year>;<volume>20</volume>:<fpage>627</fpage>–<lpage>634</lpage>. <pub-id pub-id-type="doi">10.1111/idh.12523</pub-id>
+</mixed-citation>
+              </p>
+            </notes>
+          </front>
+          <body id="idh12523-body-0001">
+            <sec id="idh12523-sec-0005">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Dental caries management is dominated by a treatment‐focussed approach and has not reduced the prevalence of oral diseases.<xref rid="idh12523-bib-0001" ref-type="bibr"><sup>1</sup></xref> Globally, the burden of untreated dental caries has remained relatively unchanged over the past 30 years, despite significant advances in clinical techniques and dental technology.<xref rid="idh12523-bib-0002" ref-type="bibr"><sup>2</sup></xref> In Australia, dental conditions are the second most common cause of acute potentially preventable hospitalizations, particularly among children; this is an expensive approach for oral health care.<xref rid="idh12523-bib-0003" ref-type="bibr"><sup>3</sup></xref>
+</p>
+              <p>Australian oral health surveillance data suggest that children under five years of age do not receive care early or frequently enough nor do they receive sufficient levels of preventive dental care.<xref rid="idh12523-bib-0004" ref-type="bibr"><sup>4</sup></xref> The importance of early dental caries detection and prevention among Australian children addresses the key action areas in Australia's National Oral Health Plan 2015–2024.<xref rid="idh12523-bib-0005" ref-type="bibr"><sup>5</sup></xref> They include:
+<list list-type="order" id="idh12523-list-0001"><list-item><p>Extending access to the preventive effects of fluoride,</p></list-item><list-item><p>Encouraging participation in clinical audit and benchmarking programmes,</p></list-item><list-item><p>Enhancing skills and competencies within the oral health workforce to meet the needs of priority populations, and</p></list-item><list-item><p>Supporting research that develops and evaluates oral health promotion programmes, models of oral health care and access to care for priority populations.</p></list-item></list>
+</p>
+              <p>The International Caries Classification and Management System (ICCMS™) is an internationally developed evidence‐based guideline for the assessment and management of dental caries.<xref rid="idh12523-bib-0006" ref-type="bibr"><sup>6</sup></xref>, <xref rid="idh12523-bib-0007" ref-type="bibr"><sup>7</sup></xref>, <xref rid="idh12523-bib-0008" ref-type="bibr"><sup>8</sup></xref> It incorporates the collection of individual risk and protective factors, as well as diagnostic and clinical indicators. This information informs a dental caries management plan that ranges from preventive to surgical interventions. Comprehensive detail of the ICCMS™ approach was published in 2014.<xref rid="idh12523-bib-0006" ref-type="bibr"><sup>6</sup></xref> It is supported by the <italic toggle="yes">Federation Dentaire Internationale</italic> and is based on the minimally invasive dentistry (MID) concept.<xref rid="idh12523-bib-0008" ref-type="bibr"><sup>8</sup></xref>
+</p>
+              <p>Although the ICCMS™ is progressively integrated within Australian and New Zealand dental education curricula,<xref rid="idh12523-bib-0009" ref-type="bibr"><sup>9</sup></xref> its application in practice is limited. One possible reason is the ICCMS™ is new, so dental practitioners may not know or may not have received training on the ICCMS™. Another possible explanation would relate to the uptake of the MID concept itself. In Australia, the MID philosophy has not been fully adopted in public dental services.<xref rid="idh12523-bib-0010" ref-type="bibr"><sup>10</sup></xref> A systematic review and meta‐analysis found that dental practitioners are more likely to intervene surgically when best practice requires less invasive treatment.<xref rid="idh12523-bib-0011" ref-type="bibr"><sup>11</sup></xref> One strategy that can promote the adoption of the ICCMS™ among dental practitioners who have not been exposed to this guideline is a capacity building programme through continuing professional development (CPD) activities.<xref rid="idh12523-bib-0012" ref-type="bibr"><sup>12</sup></xref>, <xref rid="idh12523-bib-0013" ref-type="bibr"><sup>13</sup></xref>, <xref rid="idh12523-bib-0014" ref-type="bibr"><sup>14</sup></xref>, <xref rid="idh12523-bib-0015" ref-type="bibr"><sup>15</sup></xref> Capacity building training programmes on ICCMS™ have not been officially provided within community dental programme for dental practitioners working in the Victorian public sector, Australia.</p>
+              <p>This pilot study aimed to evaluate an intervention promoting the MID approach in an Australian community dental agency. The intervention consisted of a 1‐day ICCMS™ training as a CPD activity and monthly performance feedback against a developed performance benchmark. Two <italic toggle="yes">a priori</italic> hypotheses assumed selected preventive dental services would increase for the intervention group over 12‐month post‐intervention, and treatment demand for these preventive services would be met. The project objectives were to.
+<list list-type="order" id="idh12523-list-0002"><list-item><p>Report on the type and rates of preventive, restorative and extraction procedures provided 12 months before the intervention and 12‐month post‐intervention for children 0–12 years of age</p></list-item><list-item><p>Apply the Difference‐In‐Difference (DiD) analysis to control for bias and make inferences on the impact of the intervention.</p></list-item><list-item><p>Report on the type and rates of the different dental procedures provided to children 0–12 years of age against the developed performance benchmarks</p></list-item></list>
+</p>
+            </sec>
+            <sec id="idh12523-sec-0006">
+              <label>2</label>
+              <title>STUDY POPULATION AND METHODOLOGY</title>
+              <p>A quasi non‐randomized controlled trial with convenience sampling method was adopted. Four dental services sites within the community dental agency were included in this study. In the intervention group, 14 dental practitioners were recruited from the two dental service sites with a skill mix profile of 4.8 full‐time equivalent (FTE) dentists and 3.2 FTE dental/oral health therapists. The other remaining 15 dental practitioners working at the other two dental service sites were denoted as the standard care group (control) with a skill mix of 5.9 FTE dentists and 4.2 FTE dental/oral health therapists. Both groups had a dentist to dental/oral health therapist ratio of approximately 1.5:1. Participating dental practitioners at times are required to work ‘cross‐sites’ within the community dental agency.</p>
+              <p>Dental practitioners in the intervention group received a 1‐day CPD programme on the ICCMS™ in July 2017 delivered by the two researchers (TMN and HC), whereas dental practitioners in the standard care group did not. The topics covered in the 1‐day CPD programme included the following:
+<list list-type="bullet" id="idh12523-list-0003"><list-item><p>Rationale and principles for ICCMS™</p></list-item><list-item><p>Theory of ICCMS™</p></list-item><list-item><p>Clinical protocol of ICCMS™</p></list-item><list-item><p>Case study examples of ICCMS™</p></list-item><list-item><p>Enablers and barriers to ICCMS™</p></list-item></list>
+</p>
+              <p>The types of dental services provided by the community dental agency were classified into:
+<list list-type="order" id="idh12523-list-0004"><list-item><p>Preventive Dental Services (routine oral examination, topical fluoride application, bitewing intra‐oral radiographs, dietary analysis and advice, oral hygiene instructions, oral prophylaxis or scale and clean and fissure sealants), and</p></list-item><list-item><p>Non‐Preventive Dental Services (posterior restorations, either tooth coloured (conventional) or using preformed metal stainless steel crowns (SSC) and dental extractions).</p></list-item></list>
+</p>
+              <p>Since there is no formal performance benchmark for preventive dental services, the research team in consultation with the organization's leadership dental team developed one based on the prevalence of dental caries and gingivitis for Australian children aged 0–12, consistent with the ICCMS<sup>TM</sup> and MID approach.<xref rid="idh12523-bib-0015" ref-type="bibr"><sup>15</sup></xref> (Refer to Appendix <xref rid="idh12523-app-0001" ref-type="app">1</xref> for a full description and evidence‐based justifications). Dental practitioners in both groups can develop individualized dental treatment plans and provide dental treatment based on their clinical judgement.</p>
+              <p>Monthly performance feedback based on dental services provided in the last 12 months by the intervention group was summarized based on the classified category of the type of service and compared against the performance benchmark. Feedback on how well the intervention group performed, using a traffic light reporting system, was presented to the participating dental practitioners by the senior team leader at regular monthly team meetings. Figure <xref rid="idh12523-fig-0001" ref-type="fig">1</xref> provides an example of the monthly feedback report.</p>
+              <fig position="float" fig-type="FIGURE" id="idh12523-fig-0001">
+                <label>FIGURE 1</label>
+                <caption>
+                  <p>An example of performance feedback using the traffic light system. [Colour figure can be viewed at <ext-link xlink:href="http://www.wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p>
+                </caption>
+                <graphic xlink:href="IDH-20-627-g001" position="anchor" id="jats-graphic-1"/>
+              </fig>
+              <p>The traffic light reporting system was adapted from a clinical education intervention reported in the literature and has been shown to improve the behaviour of undergraduate dental students.<xref rid="idh12523-bib-0016" ref-type="bibr"><sup>16</sup></xref> A rapid literature review reported that feedback interventions supporting individuals, teams, and organizations have value in reducing unwarranted clinical variation.<xref rid="idh12523-bib-0017" ref-type="bibr"><sup>17</sup></xref>
+</p>
+              <p>De‐identified dental services item codes provided in dental clinics and school‐based dental services for children aged 0–12 years were obtained for dental services provided for baseline (pre‐intervention) and 12‐month post‐intervention analysis for the 2016/17 and 2017/18 financial years. Two‐sample proportions <italic toggle="yes">z</italic>‐tests determined whether there was a statistically significant difference (<italic toggle="yes">p</italic> &lt; 0.05) for dental treatment services received by children provided by dental practitioners in the intervention and standard care groups.</p>
+              <p>The magnitude of the intervention effect was calculated using the DiD approach. The DiD study design can make inferences where randomized controlled trials are impractical, infeasible or unethical.<xref rid="idh12523-bib-0018" ref-type="bibr"><sup>18</sup></xref> Under the DiD study design, characteristics of sample size in the intervention and control group do not need to be similar.<xref rid="idh12523-bib-0019" ref-type="bibr"><sup>19</sup></xref> The flexible features of the DiD approach make it appropriate to evaluate the intervention in this pilot study.</p>
+              <p>The DiD approach is commonly used for studies, which involve data collected for other purposes such as information from electronic health records or medical claims datasets. Essentially, it is a before‐after comparison test of an intervention group against a comparator group with similar characteristics and exposure to potential confounders.</p>
+              <p>To calculate the DiD, the effect on the intervention group is denoted I<sup>Pre</sup>, and I<sup>Post</sup> for before and after, respectively. Likewise, the comparator group is denoted, C<sup>Pre</sup> and C<sup>Post</sup> for before and after, respectively. The DiD estimate is derived as (I<sup>Pre</sup> ‐ I<sup>Post</sup>)‐ (C<sup>Pre</sup> ‐ C<sup>Post</sup>), which determines the magnitude of the effect and the direction of the effect, that is a positive value indicates an increase, a negative value indicates a decrease, and a zero value indicate no difference.</p>
+              <p>Microsoft Excel 365 (Microsoft Corporation) and Stata 12 IC (StataCorp) was used to manage and analyse the data. This study received approval as a quality assurance project QA/18/PH/4 from Peninsula Health and completed according to the principles of the Declaration of Helsinki.</p>
+            </sec>
+            <sec sec-type="results" id="idh12523-sec-0007">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>At baseline, the total number of children aged 0–12 years was 3265 in the intervention group and 4973 in the standard care group. At 12‐month post‐intervention, there were 2853 in the intervention group and 4698 in the standard care group. Table <xref rid="idh12523-tbl-0001" ref-type="table">1</xref> outlines the dental service type and the number of dental services provided per 100 individuals at baseline and 12 months together with <italic toggle="yes">z</italic>‐tests comparing children who received dental services by dental practitioners in the intervention and standard care groups.</p>
+              <table-wrap position="float" id="idh12523-tbl-0001" content-type="TABLE">
+                <label>TABLE 1</label>
+                <caption>
+                  <p>The number of dental services provided per 100 individuals in the intervention and standard care group at baseline and 12‐month post‐intervention.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" rowspan="2" colspan="1">Service type</th>
+                      <th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Intervention</th>
+                      <th align="left" rowspan="2" colspan="1"><italic toggle="yes">p</italic>‐value</th>
+                      <th align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Standard Care</th>
+                      <th align="left" rowspan="2" colspan="1"><italic toggle="yes">p</italic>‐value</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" rowspan="1" colspan="1">Baseline</th>
+                      <th align="left" rowspan="1" colspan="1">12 Months</th>
+                      <th align="left" rowspan="1" colspan="1">∆</th>
+                      <th align="left" rowspan="1" colspan="1">Baseline</th>
+                      <th align="left" rowspan="1" colspan="1">12 Months</th>
+                      <th align="left" rowspan="1" colspan="1">∆</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Routine oral examination</td>
+                      <td align="left" rowspan="1" colspan="1">67.5</td>
+                      <td align="left" rowspan="1" colspan="1">59.8</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">56.1</td>
+                      <td align="left" rowspan="1" colspan="1">53.6</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">0.016<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Topical fluoride application</td>
+                      <td align="left" rowspan="1" colspan="1">7.2</td>
+                      <td align="left" rowspan="1" colspan="1">18.4</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">1.4</td>
+                      <td align="left" rowspan="1" colspan="1">2.5</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Bitewing Intra‐oral radiographs</td>
+                      <td align="left" rowspan="1" colspan="1">32.7</td>
+                      <td align="left" rowspan="1" colspan="1">29.4</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">0.005<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">18.9</td>
+                      <td align="left" rowspan="1" colspan="1">20.0</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">0.147</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Dietary analysis and advice</td>
+                      <td align="left" rowspan="1" colspan="1">26.6</td>
+                      <td align="left" rowspan="1" colspan="1">35.4</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">41.9</td>
+                      <td align="left" rowspan="1" colspan="1">43.3</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">0.168</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral hygiene instructions</td>
+                      <td align="left" rowspan="1" colspan="1">97.8</td>
+                      <td align="left" rowspan="1" colspan="1">93.0</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">58.6</td>
+                      <td align="left" rowspan="1" colspan="1">62.6</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral prophylaxis or scale and clean</td>
+                      <td align="left" rowspan="1" colspan="1">28.4</td>
+                      <td align="left" rowspan="1" colspan="1">23.9</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">14.5</td>
+                      <td align="left" rowspan="1" colspan="1">16.3</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">0.012<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Fissure sealants</td>
+                      <td align="left" rowspan="1" colspan="1">90.6</td>
+                      <td align="left" rowspan="1" colspan="1">84.5</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">68.6</td>
+                      <td align="left" rowspan="1" colspan="1">67.8</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">0.425</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Posterior conventional restorations</td>
+                      <td align="left" rowspan="1" colspan="1">32.1</td>
+                      <td align="left" rowspan="1" colspan="1">22.4</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">36.4</td>
+                      <td align="left" rowspan="1" colspan="1">23.6</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Stainless steel crowns</td>
+                      <td align="left" rowspan="1" colspan="1">8.1</td>
+                      <td align="left" rowspan="1" colspan="1">12.4</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">5.3</td>
+                      <td align="left" rowspan="1" colspan="1">13.8</td>
+                      <td align="left" rowspan="1" colspan="1">+</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Dental extractions</td>
+                      <td align="left" rowspan="1" colspan="1">11.8</td>
+                      <td align="left" rowspan="1" colspan="1">5.3</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                      <td align="left" rowspan="1" colspan="1">11.0</td>
+                      <td align="left" rowspan="1" colspan="1">5.1</td>
+                      <td align="left" rowspan="1" colspan="1">‐</td>
+                      <td align="left" rowspan="1" colspan="1">&lt;0.001<xref rid="idh12523-note-0002" ref-type="table-fn">*</xref>
+</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="idh12523-ntgp-0001">
+                  <fn id="idh12523-note-0001">
+                    <p><bold>∆</bold> change in services; ‐ decrease in services; <sub>+</sub> increase in services.</p>
+                  </fn>
+                  <fn id="idh12523-note-0002">
+                    <label>*</label>
+                    <p>Statistically significant.</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <p>The intervention group received more dental services in almost all service types than the standard care group. The intervention group demonstrated a significant increase in topical fluoride application and dietary analysis and advice services, while other preventive dental services were significantly reduced. Most preventive dental services in the standard care group increased, but only oral prophylaxis or scale and clean, topical fluoride applications and oral hygiene instructions services were statistically significant (<italic toggle="yes">p</italic> &lt; 0.05).</p>
+              <p>A statistically significant decrease in non‐preventive services (ie posterior conventional restoration and dental extractions) was noted in both groups. The provision of SSC significantly increased by a fold of 1.5 and 2.6 in the intervention and standard care group, respectively. The magnitudes of the changes are shown in Table <xref rid="idh12523-tbl-0002" ref-type="table">2</xref>. The DiD approach demonstrated that the intervention group provided a substantially increased number of topical fluoride application and dietary analysis and advice services compared to the standard care group. However, a reduction in routine oral examination, bite intra‐oral radiographs, oral prophylaxis or scale and clean, oral hygiene instructions and fissure sealants were also observed.</p>
+              <table-wrap position="float" id="idh12523-tbl-0002" content-type="TABLE">
+                <label>TABLE 2</label>
+                <caption>
+                  <p>Differences in the number of dental services provided per 100 individuals between the intervention and standard care group and the DiD analysis by service type.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" rowspan="1" colspan="1">Service type</th>
+                      <th align="left" rowspan="1" colspan="1">Baseline</th>
+                      <th align="left" rowspan="1" colspan="1">12 Months</th>
+                      <th align="left" rowspan="1" colspan="1">Difference‐in differences</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Routine oral examination</td>
+                      <td align="left" rowspan="1" colspan="1">11.4</td>
+                      <td align="left" rowspan="1" colspan="1">6.1</td>
+                      <td align="left" rowspan="1" colspan="1">−5.3</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Topical fluoride application</td>
+                      <td align="left" rowspan="1" colspan="1">5.7</td>
+                      <td align="left" rowspan="1" colspan="1">15.8</td>
+                      <td align="left" rowspan="1" colspan="1">10.1</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Bitewing intra‐oral radiographs</td>
+                      <td align="left" rowspan="1" colspan="1">13.8</td>
+                      <td align="left" rowspan="1" colspan="1">9.3</td>
+                      <td align="left" rowspan="1" colspan="1">−4.5</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Dietary analysis and advice</td>
+                      <td align="left" rowspan="1" colspan="1">−15.2</td>
+                      <td align="left" rowspan="1" colspan="1">−7.8</td>
+                      <td align="left" rowspan="1" colspan="1">7.4</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral hygiene instructions</td>
+                      <td align="left" rowspan="1" colspan="1">39.3</td>
+                      <td align="left" rowspan="1" colspan="1">30.4</td>
+                      <td align="left" rowspan="1" colspan="1">−8.9</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral prophylaxis or scale and clean</td>
+                      <td align="left" rowspan="1" colspan="1">13.9</td>
+                      <td align="left" rowspan="1" colspan="1">7.6</td>
+                      <td align="left" rowspan="1" colspan="1">−6.3</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Fissure sealants</td>
+                      <td align="left" rowspan="1" colspan="1">22.1</td>
+                      <td align="left" rowspan="1" colspan="1">16.8</td>
+                      <td align="left" rowspan="1" colspan="1">−5.3</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Posterior conventional restorations</td>
+                      <td align="left" rowspan="1" colspan="1">−4.3</td>
+                      <td align="left" rowspan="1" colspan="1">−1.2</td>
+                      <td align="left" rowspan="1" colspan="1">3.1</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Stainless steel crowns</td>
+                      <td align="left" rowspan="1" colspan="1">2.7</td>
+                      <td align="left" rowspan="1" colspan="1">−1.4</td>
+                      <td align="left" rowspan="1" colspan="1">−4.1</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Dental extractions</td>
+                      <td align="left" rowspan="1" colspan="1">0.8</td>
+                      <td align="left" rowspan="1" colspan="1">0.2</td>
+                      <td align="left" rowspan="1" colspan="1">−0.6</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <p>The performance benchmark changed from being unmet at baseline and met at 12‐month post‐intervention for dietary analysis and advice in the standard care group, while other services maintained their performance status (Table <xref rid="idh12523-tbl-0003" ref-type="table">3</xref>). Preventive dental services that met the performance benchmark at baseline and post‐intervention were oral prophylaxis or scale and clean in the intervention group, and oral hygiene instructions in both groups.</p>
+              <table-wrap position="float" id="idh12523-tbl-0003" content-type="TABLE">
+                <label>TABLE 3</label>
+                <caption>
+                  <p>Evaluating whether the performance benchmark for preventive dental services provided per 100 individuals was met in the intervention and standard care groups at baseline and 12‐month post‐intervention.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" rowspan="2" colspan="1">Service type</th>
+                      <th align="left" rowspan="2" colspan="1">Benchmark</th>
+                      <th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Intervention</th>
+                      <th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Standard care</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" rowspan="1" colspan="1">Baseline</th>
+                      <th align="left" rowspan="1" colspan="1">12 Months</th>
+                      <th align="left" rowspan="1" colspan="1">Baseline</th>
+                      <th align="left" rowspan="1" colspan="1">12 Months</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Routine oral examination</td>
+                      <td align="left" rowspan="1" colspan="1">142</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Topical fluoride application</td>
+                      <td align="left" rowspan="1" colspan="1">142</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Bitewing intra‐oral radiographs</td>
+                      <td align="left" rowspan="1" colspan="1">42</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Dietary analysis and advice</td>
+                      <td align="left" rowspan="1" colspan="1">42</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral hygiene instructions</td>
+                      <td align="left" rowspan="1" colspan="1">42</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Oral prophylaxis or scale and clean</td>
+                      <td align="left" rowspan="1" colspan="1">22</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                      <td align="left" rowspan="1" colspan="1">No</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="idh12523-ntgp-0002">
+                  <fn id="idh12523-note-0003">
+                    <p>Yes: benchmark met; No: benchmark not met.</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+            </sec>
+            <sec sec-type="discussion" id="idh12523-sec-0008">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>The first <italic toggle="yes">a priori</italic> hypothesis for this study was to test if the intervention would lead to an increase in the provision of preventive dental services aligned with the ICCMS<sup>TM</sup>. However, our findings demonstrated that the intervention group was associated with a significant increase in only a few types of preventive dental services, specifically, topical fluoride application and dietary analysis and advice services. The provision of the other five preventive dental services had significantly decreased.</p>
+              <p>We expected a decrease in the number of posterior conventional restorations and dental extractions as a result of providing more early detection and preventive dental services. Significant reduction in these services was found in both groups (Table <xref rid="idh12523-tbl-0001" ref-type="table">1</xref>), which is in contrast, to a statistical increase in SSC services. The placement of SSC refers to both conventional procedures requiring significant reduction of tooth structure and the minimally invasive Hall Crown Technique restoration (HCT) which aims to seal dental caries with a SSC without tooth preparation, caries removal or the use of local anaesthesia.<xref rid="idh12523-bib-0023" ref-type="bibr"><sup>22</sup></xref> The HCT is aligned with the ICCMS<sup>™</sup> approach, but differentiating the type of technique cannot be quantified since the dental item code was not available for HCT during the study period.</p>
+              <p>Before the commencement of this study, all dental practitioners at Peninsula Health had a CPD programme on HCT. It appears the HCT was well adopted, particularly by dental practitioners in the intervention groups as reflected in the higher SSC services at baseline compared to the standard care group (8.1 vs 5.3 per 100 individuals). The uptake for providing more SSC services continued to increase at 12 months as evidenced by significant differences for both groups compared to baseline (<italic toggle="yes">p</italic> &lt; 0.05).</p>
+              <p>This study found that there were only a few types of preventive dental services provided in the intervention and standard care group that met the developed performance benchmark. A specific focus is required to increase the substantial deficit for the number of services provided for routine oral examination and topical fluoride application services. Our findings support future research is required to facilitate the adoption and adherence to the ICCMS<sup>™</sup> and MID approach, which is person‐centred centred and emphasises regular preventive maintenance.<xref rid="idh12523-bib-0010" ref-type="bibr"><sup>10</sup></xref>
+</p>
+              <p>The DiD calculation showed the intervention was only associated with a substantial increase of topical fluoride application and dietary analysis and advice services. Although an unfavourable direction for the oral prophylaxis or scaling and clean and oral hygiene instructions was noted from the DiD analysis, these preventive services had already met the performance benchmark at baseline of 22.0 and 42.0 per 100 individuals, respectively.</p>
+              <p>The improvement in the delivery of only some preventive dental services could potentially be associated with the current behaviour of dental practitioners and the Victorian public funding system. Two government reports reported the lack of prevention and early intervention services in the management of oral disease provided by Australian public dental programmes.<xref rid="idh12523-bib-0020" ref-type="bibr"><sup>20</sup></xref>, <xref rid="idh12523-bib-0021" ref-type="bibr"><sup>21</sup></xref> Both reports highlight that the fee‐for‐service funding model financially incentivizes treatment services rather than preventive services. Approximately 10% of the funding resources for Victorian public dental programmes were directed towards preventive interventions.<xref rid="idh12523-bib-0020" ref-type="bibr"><sup>20</sup></xref>
+</p>
+              <p>Other possible contributing factors, such as the attitudes and beliefs of the dental practitioners on oral disease management, and the perceptions of the clients regarding preventive and treatment services, were not controlled nor collected in this study. A qualitative research study has since been conducted to identify those contributing factors and explore the reasons for the increase in only a few types of preventive dental services found in this quantitative analysis. A separate publication on the qualitative study is forthcoming.</p>
+              <p>There are several limitations of this study that may have impacted the results. A fundamental limitation is that the researchers did not control for the potential confounder that dental practitioners in both groups may have received previous education and training on the ICCMS™ and MID approach or had undertaken them during the study period.</p>
+              <p>The positive differences for all preventive dental services except for dietary analysis and advice services at baseline and 12‐month post‐intervention indicates dental practitioners in the intervention group may be more aligned to the ICCMS™ and MID approach. The true results of the intervention may also have affected if there was contamination due to dental practitioners working cross‐sites. Furthermore, since there were data limitations where aggregate information was provided and not of individual observations, testing for sensitivity and falsification using the DiD analysis approach was not possible.</p>
+              <p>Although the sample size was adequate at the dental service site level, the study was confined to one community dental agency in the Melbourne metropolitan area, which limits the generalizability of the results. Furthermore, robust study design and more extensive research to explore the enablers and barriers to the ICCMS<sup>TM</sup> and MID approach, and validating the developed performance benchmark would be needed to support the work of this pilot study.</p>
+              <p>A strength of this study is it shows that the 1‐day CPD training together with regular performance feedback could tentatively be beneficial to increase more preventive dental services, particularly in topical fluoride application and dietary analysis and advice services. Given dental practitioners in the intervention group provides dental services for all ages, it would be interesting to observe if there has been any impact from the intervention with clients aged older than 12 years.</p>
+              <p>Online education and training could be established to minimize the cost of the intervention, thereby making access to the CPD training flexible and increase the uptake of the ICCMS<sup>TM</sup> and MID approach by other dental practitioners. Previous work has shown system‐level strategies, including multimethod/multiphased CPD,<xref rid="idh12523-bib-0014" ref-type="bibr"><sup>14</sup></xref> and dental staff faculty training promoting professionalism can encourage positive changes of behaviour in dentistry.<xref rid="idh12523-bib-0024" ref-type="bibr"><sup>23</sup></xref> Additional qualitative and quantitative evidence is needed to support the efficacy and applicability of the intervention in other settings. We would also need to test the developed proposed performance benchmarks with a range of stakeholders to determine their appropriateness for promoting the ICCMS<sup>™</sup> and MID approach.</p>
+            </sec>
+            <sec sec-type="conclusions" id="idh12523-sec-0009">
+              <label>5</label>
+              <title>CONCLUSION</title>
+              <p>The 1‐day CPD education programme on ICCMS™ together with monthly performance feedback could promote the MID approach, particularly concerning topical fluoride application and dietary analysis and advice services for children aged 0–12 in an Australian community dental agency. However, the DiD analysis and comparison against the developed performance benchmarks showed the delivery of routine oral examination, bitewing intra‐oral radiographs, and topical fluoride applications required improvement. Additional research at a larger scale is needed, within the community dental agency and with other dental service providers, to explore the benefits of the ICCMS<sup>TM</sup> education training as well as assessing the appropriateness of the developed performance benchmarks.</p>
+            </sec>
+            <sec id="idh12523-sec-0010">
+              <label>6</label>
+              <title>CLINICAL RELEVANCE</title>
+              <sec id="idh12523-sec-0011">
+                <label>6.1</label>
+                <title>Scientific rationale for study</title>
+                <p>There is limited quantitative evidence from the Australian public dental sector, demonstrating whether dental services provided are consistent with the MID approach.</p>
+              </sec>
+              <sec id="idh12523-sec-0012">
+                <label>6.2</label>
+                <title>Principal findings</title>
+                <p>This research demonstrated a 1‐day CPD education programme, and monthly performance feedback provided to dental practitioners was associated with positive changes in a few preventive dental services evaluated at 12‐month post‐intervention.</p>
+              </sec>
+              <sec id="idh12523-sec-0013">
+                <label>6.3</label>
+                <title>Practical implications</title>
+                <p>More research is needed to investigate how to support dental practitioners to promote the ICCMS<sup>TM</sup> and the MID approach.</p>
+              </sec>
+            </sec>
+            <sec sec-type="COI-statement" id="idh12523-sec-0015">
+              <title>CONFLICT OF INTEREST</title>
+              <p>Mr Nguyen, Dr Tonmukayakul and Professor Calache have nothing to disclose.</p>
+            </sec>
+            <sec id="idh12523-sec-0016">
+              <title>AUTHOR CONTRIBUTION</title>
+              <p>T.M.N, U.T. and H.C. conceived the ideas; T.M.N. analysed the data and led the writing; T.M.N., U.T. and H.C. interpreted the results, contributed and finalized the critical intellectual content.</p>
+            </sec>
+          </body>
+          <back>
+            <ack id="idh12523-sec-0014">
+              <title>ACKNOWLEDGEMENTS</title>
+              <p>This study was partly funded by the Alliance for a Cavity‐Free Future Community Service Grant 2017. In‐kind financial support was provided by Peninsula Health for providing Dental Services, Dental Health Services Victoria supplying of secondary data and Deakin Health Economics for data analysis. We would like to thank Ms Susan McKinlay, Ms Jacqueline Isaacs, Mr Keegan Crow and Dr Liljana Milczarek‐Todorovska for supporting the logistics of project implementation at Peninsula Health and Ms Raelene Balle from Dental Health Services Victoria for supplying the data. All aspects of the research were performed independently, and the funder had no role in the design, conduct, and reporting of the analysis.</p>
+            </ack>
+            <sec sec-type="data-availability" id="idh12523-sec-0018">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>Data available on request due to privacy/ethical restriction.</p>
+            </sec>
+            <ref-list content-type="cited-references" id="idh12523-bibl-0001">
+              <title>REFERENCES</title>
+              <ref id="idh12523-bib-0001">
+                <label>1</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0001"><string-name><surname>Watt</surname><given-names>RG</given-names></string-name>, <string-name><surname>Daly</surname><given-names>B</given-names></string-name>, <string-name><surname>Allison</surname><given-names>P</given-names></string-name>, et al. <article-title>Ending the neglect of global oral health: time for radical action</article-title>. <source>Lancet</source>. <year>2019</year>;<volume>394</volume>(<issue>10194</issue>):<fpage>261</fpage>‐<lpage>272</lpage>.<pub-id pub-id-type="pmid">31327370</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0002">
+                <label>2</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0002"><string-name><surname>Peres</surname><given-names>MA</given-names></string-name>, <string-name><surname>Macpherson</surname><given-names>LMD</given-names></string-name>, <string-name><surname>Weyant</surname><given-names>RJ</given-names></string-name>, et al. <article-title>Oral diseases: a global public health challenge</article-title>. <source>Lancet</source>. <year>2019</year>;<volume>394</volume>(<issue>10194</issue>):<fpage>249</fpage>‐<lpage>260</lpage>.<pub-id pub-id-type="pmid">31327369</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0003">
+                <label>3</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0003"><collab collab-type="authors">Australian Institute of Health and Welfare</collab>
+. <source>Admitted Patient Care 2015–16: Australian Hospital Statistics</source>. Health Services Series no.75. Cat. no. HSE 185. <publisher-loc>Canberra (AU)</publisher-loc>: <publisher-name>Australian Institute of Health and Welfare</publisher-name>; <year>2017</year>. [cited 2019 Dec 18]. Available from: <ext-link xlink:href="https://www.aihw.gov.au/reports/hospitals/ahs-2015-16-admitted-patient-care/contents/table-of-contents" ext-link-type="uri">https://www.aihw.gov.au/reports/hospitals/ahs‐2015‐16‐admitted‐patient‐care/contents/table‐of‐contents</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0004">
+                <label>4</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0004"><string-name><surname>Nguyen</surname><given-names>T</given-names></string-name>. <source>Is the Current Model of Public Dental Care Promoting the Oral Health of Young Children in Australia?</source>. <publisher-loc>Canberra (AU)</publisher-loc>: <publisher-name>Deeble Institute. Australian Healthcare and Hospitals Association</publisher-name>; <year>2017</year>. [cited 2019 Dec 18]. Available from: <ext-link xlink:href="https://ahha.asn.au/publication/health-policy-issue-briefs/deeble-institute-issues-brief-no-20-current-model-public" ext-link-type="uri">https://ahha.asn.au/publication/health‐policy‐issue‐briefs/deeble‐institute‐issues‐brief‐no‐20‐current‐model‐public</ext-link></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0005">
+                <label>5</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0005"><collab collab-type="authors">Council of Australian Governments (COAG) Health Council</collab>
+. <source>Australia’s National Oral Health Plan 2015‐2024</source>. <publisher-loc>Adelaide (AU)</publisher-loc>: <publisher-name>South Australian Dental Service</publisher-name>; <year>2015</year>. [cited 2020 Jul 24]. Available from: <ext-link xlink:href="http://www.coaghealthcouncil.gov.au/Publications/Reports/ArtMID/514/ArticleID/81/Australias-National-Oral-Health-Plan-2015-2024" ext-link-type="uri">http://www.coaghealthcouncil.gov.au/Publications/Reports/ArtMID/514/ArticleID/81/Australias‐National‐Oral‐Health‐Plan‐2015‐2024</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0006">
+                <label>6</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0006"><string-name><surname>Pitts</surname><given-names>N</given-names></string-name>, <string-name><surname>Ismail</surname><given-names>A</given-names></string-name>, <string-name><surname>Martignon</surname><given-names>S</given-names></string-name>, et al. <source>ICCMS™ Guide for Practitioners and Educators</source>. <publisher-loc>London (UK)</publisher-loc>: <publisher-name>ICDAS Foundation</publisher-name>; <year>2014</year>. [cited 2019 Dec 18]. Available from: <ext-link xlink:href="https://www.iccms-web.com/uploads/asset/59284654c0a6f822230100.pdf" ext-link-type="uri">https://www.iccms‐web.com/uploads/asset/59284654c0a6f822230100.pdf</ext-link></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0007">
+                <label>7</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0007"><string-name><surname>Ismail</surname><given-names>AI</given-names></string-name>, <string-name><surname>Pitts</surname><given-names>NB</given-names></string-name>, <string-name><surname>Tellez</surname><given-names>M</given-names></string-name>, et al. <article-title>The International caries classification and management system (ICCMS™) An example of a caries management pathway</article-title>. <source>BMC Oral Health</source>. <year>2015</year>;<volume>15</volume>(<issue>S1</issue>):<fpage>S9</fpage>.<pub-id pub-id-type="pmid">26391116</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0008">
+                <label>8</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0008"><string-name><surname>Pitts</surname><given-names>N</given-names></string-name>, <string-name><surname>Zero</surname><given-names>D</given-names></string-name>. <source>White Paper on Dental Caries Prevention and Management: A Summary of the Current Evidence and the Key Issues in Controlling this Preventable Disease</source>. <publisher-loc>Geneva (CH)</publisher-loc>: <publisher-name>FDI‐Colgate Caries Prevention Partnership</publisher-name>; <year>2016</year>. [cited 2019 Dec 18]. Available from: <ext-link xlink:href="https://www.fdiworlddental.org/sites/default/files/media/" ext-link-type="uri">https://www.fdiworlddental.org/sites/default/files/media/</ext-link><ext-link xlink:href="http://documents/2016-fdi_cpp-white_paper.pdf" ext-link-type="uri">documents/2016‐fdi_cpp‐white_paper.pdf</ext-link></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0009">
+                <label>9</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0009"><string-name><surname>Raphael</surname><given-names>SL</given-names></string-name>, <string-name><surname>Foster Page</surname><given-names>LA</given-names></string-name>, <string-name><surname>Hopcraft</surname><given-names>MS</given-names></string-name>, et al. <article-title>A survey of cariology teaching in Australia and New Zealand</article-title>. <source>BMC Med Edu</source>. <year>2018</year>;<volume>18</volume>(<issue>1</issue>):<fpage>75</fpage>.</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0010">
+                <label>10</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0010"><string-name><surname>Calache</surname><given-names>H</given-names></string-name>, <string-name><surname>Hopcraft</surname><given-names>M</given-names></string-name>, <string-name><surname>Martin</surname><given-names>J</given-names></string-name>. <article-title>Minimum intervention dentistry – a new horizon in public oral health care</article-title>. <source>Aus Dent J</source>. <year>2013</year>;<volume>58</volume>(<issue>S1</issue>):<fpage>17</fpage>‐<lpage>25</lpage>.</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0011">
+                <label>11</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0011"><string-name><surname>Innes</surname><given-names>N</given-names></string-name>, <string-name><surname>Schwendicke</surname><given-names>F</given-names></string-name>. <article-title>Restorative thresholds for carious lesions: systematic review and meta‐analysis</article-title>. <source>J Dent Res</source>. <year>2017</year>;<volume>96</volume>(<issue>5</issue>):<fpage>501</fpage>‐<lpage>508</lpage>.<pub-id pub-id-type="pmid">28195749</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0012">
+                <label>12</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0012"><string-name><surname>Lee</surname><given-names>GHM</given-names></string-name>, <string-name><surname>McGrath</surname><given-names>C</given-names></string-name>, <string-name><surname>Yiu</surname><given-names>CKY</given-names></string-name>. <article-title>Evaluating the impact of caries prevention and management by caries risk assessment guidelines on clinical practice in a dental teaching hospital</article-title>. <source>BMC Oral Health</source>. <year>2016</year>;<volume>16</volume>(<issue>1</issue>). <pub-id pub-id-type="doi">10.1186/s12903-016-0217-9</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0013">
+                <label>13</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0013"><string-name><surname>Clark</surname><given-names>R</given-names></string-name>, <string-name><surname>Tonmukayakul</surname><given-names>U</given-names></string-name>, <string-name><surname>Mangan</surname><given-names>Y</given-names></string-name>, et al. <article-title>Measuring adherence to evidence‐based clinical practice guidelines</article-title>. <source>J Evid Based Dent Pract</source>. <year>2017</year>;<volume>17</volume>(<issue>4</issue>):<fpage>301</fpage>‐<lpage>309</lpage>.<pub-id pub-id-type="pmid">29197431</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0014">
+                <label>14</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0014"><string-name><surname>Firmstone</surname><given-names>VR</given-names></string-name>, <string-name><surname>Torgerson</surname><given-names>CJ</given-names></string-name>, <string-name><surname>Skrybant</surname><given-names>MT</given-names></string-name>, <string-name><surname>Fry‐Smith</surname><given-names>A</given-names></string-name>, <string-name><surname>Bayliss</surname><given-names>S</given-names></string-name>. <article-title>Systematic review of the effectiveness of continuing dental professional development on learning, behavior, or patient outcomes</article-title>. <source>J Dent Educ</source>. <year>2013</year>;<volume>77</volume>(<issue>3</issue>):<fpage>300</fpage>‐<lpage>315</lpage>.<pub-id pub-id-type="pmid">23486894</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0015">
+                <label>15</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0015"><string-name><surname>Do</surname><given-names>LG</given-names></string-name>, <string-name><surname>Spencer</surname><given-names>AJ</given-names></string-name>. <source>Oral Health of Australian Children: the National Child Oral Health Study 2012–14</source>. <publisher-loc>Adelaide (AU)</publisher-loc>: <publisher-name>University of Adelaide Press</publisher-name>; <year>2016</year>.</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0016">
+                <label>16</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0016"><string-name><surname>Taylor</surname><given-names>CL</given-names></string-name>, <string-name><surname>Grey</surname><given-names>NJA</given-names></string-name>. <article-title>Professional behaviours demonstrated by undergraduate dental students using an incident reporting system</article-title>. <source>Br Dent J</source>. <year>2015</year>;<volume>218</volume>(<issue>10</issue>):<fpage>591</fpage>‐<lpage>596</lpage>.<pub-id pub-id-type="pmid">25998353</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0017">
+                <label>17</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0017"><string-name><surname>Harrison</surname><given-names>R</given-names></string-name>, <string-name><surname>Hinchcliff</surname><given-names>RA</given-names></string-name>, <string-name><surname>Manias</surname><given-names>E</given-names></string-name>, et al. <article-title>Can feedback approaches reduce unwarranted clinical variation? A systematic rapid evidence synthesis</article-title>. <source>BMC Health Serv Res</source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>18</lpage>.</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0018">
+                <label>18</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0018"><string-name><surname>Wing</surname><given-names>C</given-names></string-name>, <string-name><surname>Simon</surname><given-names>K</given-names></string-name>, <string-name><surname>Bello‐Gomez</surname><given-names>RA</given-names></string-name>. <article-title>Designing difference in difference studies: best practices for public health policy research</article-title>. <source>Annu Rev Public Health</source>. <year>2018</year>;<volume>39</volume>(<issue>1</issue>):<fpage>453</fpage>‐<lpage>469</lpage>.<pub-id pub-id-type="pmid">29328877</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0019">
+                <label>19</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0019"><string-name><surname>Perraillon</surname><given-names>MC</given-names></string-name>, <string-name><surname>Lindrooth</surname><given-names>E</given-names></string-name>, <string-name><surname>Welton</surname><given-names>JM</given-names></string-name>. <article-title>Difference‐in‐difference research designs</article-title>. <source>Nurs Econ</source>. <year>2019</year>;<volume>37</volume>(<issue>6</issue>):<fpage>328</fpage>‐<lpage>331</lpage>.</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0020">
+                <label>20</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0020"><collab collab-type="authors">Victorian Auditor‐General’s Office</collab>
+. <source>Access to Public Dental Services in Victoria</source>. <publisher-loc>Melbourne (AU)</publisher-loc>: <publisher-name>Victorian Government Printer</publisher-name>. PP No 227; <year>2016</year>. [cited 2019 Dec 18]. Available from: <ext-link xlink:href="https://www.audit.vic.gov.au/sites/default/files/20161107-Dental-Services.pdf" ext-link-type="uri">https://www.audit.vic.gov.au/sites/default/files/20161107‐Dental‐Services.pdf</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0021">
+                <label>21</label>
+                <mixed-citation publication-type="book" id="idh12523-cit-0021"><collab collab-type="authors">Productivity Commission</collab>
+. <source>Introducing Competition and Informed User Choice into Human Services: Reforms to Human Services</source>. <publisher-loc>Melbourne (AU)</publisher-loc>: <publisher-name>Productivity Commission, Commonwealth of Australia</publisher-name>; <year>2018</year>. [cited 2019 Dec 18]. Available from:Lee <ext-link xlink:href="https://www.pc.gov.au/inquiries/completed/human-services/reforms/report/human-services-reforms.pdf" ext-link-type="uri">https://www.pc.gov.au/inquiries/completed/human‐services/reforms/report/human‐services‐reforms.pdf</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0023">
+                <label>22</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0023"><string-name><surname>Innes</surname><given-names>NPT</given-names></string-name>, <string-name><surname>Ricketts</surname><given-names>D</given-names></string-name>, <string-name><surname>Chong</surname><given-names>LY</given-names></string-name>, <string-name><surname>Keightley</surname><given-names>AJ</given-names></string-name>, <string-name><surname>Lamont</surname><given-names>T</given-names></string-name>, <string-name><surname>Santamaria</surname><given-names>RM</given-names></string-name>. <article-title>Preformed crowns for decayed primary molar teeth</article-title>. <source>Cochrane Database Syst Rev</source>. <year>2015</year>;(<issue>12</issue>):<fpage>CD005512</fpage>.<pub-id pub-id-type="pmid">26718872</pub-id></mixed-citation>
+              </ref>
+              <ref id="idh12523-bib-0024">
+                <label>23</label>
+                <mixed-citation publication-type="journal" id="idh12523-cit-0024"><string-name><surname>Nguyen</surname><given-names>TM</given-names></string-name>, <string-name><surname>Jones</surname><given-names>D</given-names></string-name>, <string-name><surname>Ngo</surname><given-names>KL</given-names></string-name>, <string-name><surname>Hayes</surname><given-names>MJ</given-names></string-name>. <article-title>Developing Professionalism in Dentistry: A Systematic Review</article-title>. <source>MedEdPublish</source>. <year>2017</year>;<volume>6</volume>(<issue>2</issue>). <pub-id pub-id-type="doi">10.15694/mep.2017.000085</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+            <app-group>
+              <app id="idh12523-app-0001" content-type="APPENDIX">
+                <label>APPENDIX 1</label>
+                <p>The proposed annual performance benchmark was used for selected preventive dental services. It was developed from the prevalence of dental caries and periodontal disease of Australian children aged 5–10 years old but applied for children under age 12 years old. It is worth noting there is an absence of epidemiological data for children aged under 4. According to the Australian National Child Oral Health Survey 2012–14, it was reported that 42% of children aged 5–10 years had a history of dental caries experience in the primary dentition, and 22% of children aged 5–14 years had gingivitis.<xref rid="idh12523-bib-0015" ref-type="bibr"><sup>15</sup></xref> For the permanent dentition, the dental caries experience ranged from 9% to 38% for children aged 6–8 years and 12–24 years, respectively.<xref rid="idh12523-bib-0015" ref-type="bibr"><sup>15</sup></xref> After consultation with the senior team leaders at the participating community dental agency, it was agreed that 42% of children between aged 0–12 years should be seen twice a year with biannual topical fluoridation applications. The remaining 58% of children would be seen once a year. This equates to the performance benchmark for routine oral examinations and topical fluoride applications being set at 142.0 per 100 individuals. The performance benchmark for bitewing intra‐oral radiographs, dietary analysis and advice and oral hygiene instructions was set at a rate of 42.0 per 100 individuals, for the same reason noted above. The performance benchmark for managing 22% of children who have gingivitis was set at 22.0 per 100 individuals for oral prophylaxis or scale and clean.</p>
+                <p>The performance benchmark was not applied for fissure sealants, restorative and extraction services since they cannot be informed by epidemiological data. Therefore, the clinical indication to recommend fissure sealants is not possible. As a result, the performance benchmark for fissure sealants, posterior conventional restorations, restorations using preformed metal stainless steel crowns and dental extractions was not developed. Dental item codes for each type of service were outlined as follows:</p>
+                <p>Routine oral examinations—includes item code 011—Comprehensive oral examination and 012—Periodic oral examination.</p>
+                <p>Topical fluoride application—includes item codes 121—Topical application of remineralization and/or charismatic agents, one treatment and 123—Concentrated remineralization and/or aerostatic agents, application—single tooth. Item code 123 assumed to be claimed twice per individual and converted as one unit of 121.</p>
+                <p>Bitewing intra‐oral radiographs—includes item code 022—Intra‐oral periapical or bitewing radiograph—per exposure. Assumes one pair of bitewing intra‐oral radiographs.</p>
+                <p>Dietary analysis and advice—includes item code 131—Dietary analysis and advice.</p>
+                <p>Oral hygiene instructions—includes item code 141—Oral hygiene instruction.</p>
+                <p>Oral prophylaxis or scale and clean—includes item codes 111—Removal of plaque and/or stain and 114—Removal of calculus—first visit.</p>
+                <p>Fissure sealants—includes item code 161—Fissure and/or tooth surface sealing—per tooth (first 4 services on a day) and 162—Fissure and/or tooth surface sealing—per tooth (after 4 occasions of 161 on a day).</p>
+                <p>Posterior conventional restorations—includes item codes 531–535—Composite resin restoration—(one, two, three, four and five) surface—posterior tooth—direct.</p>
+                <p>Stainless steel crowns—includes item code 576—Metallic crown—preformed, 586—Crown metallic—with tooth preparation—preformed and 587—Crown metallic—minimal tooth preparation—preformed (Hall crown). Note that item codes 586 and 587 was only recently developed during the intervention.</p>
+                <p>Dental extractions—includes item code 311—Removal of a tooth or part(s) thereof and 314—Sectional removal of a tooth or part(s) thereof.</p>
+              </app>
+            </app-group>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

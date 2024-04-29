@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:36:02Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10519669" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10519669</identifier>
+        <datestamp>2023-09-26</datestamp>
+        <setSpec>jaos</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Appl Oral Sci</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Appl Oral Sci</journal-id>
+              <journal-id journal-id-type="publisher-id">jaos</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Applied Oral Science</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1678-7757</issn>
+              <issn pub-type="epub">1678-7765</issn>
+              <publisher>
+                <publisher-name>Faculdade De Odontologia De Bauru - USP</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10519669</article-id>
+              <article-id pub-id-type="pmcid">PMC10519669</article-id>
+              <article-id pub-id-type="pmc-uid">10519669</article-id>
+              <article-id pub-id-type="pmid">37820182</article-id>
+              <article-id pub-id-type="other">00450</article-id>
+              <article-id pub-id-type="doi">10.1590/1678-7757-2023-0181</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Influence of daily usage times on patients’ compliance during at-home bleaching: a randomized clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8682-0557</contrib-id>
+                  <name>
+                    <surname>PAVANI</surname>
+                    <given-names>Caio César</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Data curation (Equal)</role>
+                  <role>Formal analysis (Equal)</role>
+                  <role>Resources (Equal)</role>
+                  <role>Software (Equal)</role>
+                  <role>Writing – original draft (Equal)</role>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3418-0498</contrib-id>
+                  <name>
+                    <surname>FAGUNDES</surname>
+                    <given-names>Ticiane Cestari</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Data curation (Equal)</role>
+                  <role>Formal analysis (Equal)</role>
+                  <role>Resources (Equal)</role>
+                  <role>Software (Equal)</role>
+                  <role>Supervision (Equal)</role>
+                  <role>Writing – review &amp; editing (Equal)</role>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5147-3698</contrib-id>
+                  <name>
+                    <surname>SUNDFELD</surname>
+                    <given-names>Daniel</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Data curation (Equal)</role>
+                  <role>Methodology (Equal)</role>
+                  <xref rid="aff2" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0216-0502</contrib-id>
+                  <name>
+                    <surname>SANTIN</surname>
+                    <given-names>Gabriela Cristina</given-names>
+                  </name>
+                  <role>Formal analysis (Equal)</role>
+                  <role>Software (Equal)</role>
+                  <xref rid="aff3" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6861-8550</contrib-id>
+                  <name>
+                    <surname>MACHADO</surname>
+                    <given-names>Lucas Silveira</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Funding acquisition (Equal)</role>
+                  <role>Methodology (Equal)</role>
+                  <role>Writing – original draft (Equal)</role>
+                  <xref rid="aff4" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1746-3138</contrib-id>
+                  <name>
+                    <surname>BERTOZ</surname>
+                    <given-names>André Pinheiro de Magalhães</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Methodology (Equal)</role>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1201-9222</contrib-id>
+                  <name>
+                    <surname>SCHOTT</surname>
+                    <given-names>Timm Cornelius</given-names>
+                  </name>
+                  <role>Methodology (Equal)</role>
+                  <role>Software (Equal)</role>
+                  <xref rid="aff5" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7283-6531</contrib-id>
+                  <name>
+                    <surname>SUNDFELD</surname>
+                    <given-names>Renato Herman</given-names>
+                  </name>
+                  <role>Conceptualization (Equal)</role>
+                  <role>Funding acquisition (Equal)</role>
+                  <role>Methodology (Equal)</role>
+                  <role>Supervision (Equal)</role>
+                  <role>Writing – review &amp; editing (Equal)</role>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1">
+                <label>1</label>
+                <institution content-type="orgname">Universidade Estadual Paulista</institution>
+                <institution content-type="orgdiv1">Faculdade de Odontologia de Araçatuba</institution>
+                <institution content-type="orgdiv2">Departamento de Odontologia Preventiva e Restauradora</institution>
+                <addr-line>
+                  <named-content content-type="city">Araçatuba</named-content>
+                  <named-content content-type="state">São Paulo</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Estadual Paulista (UNESP), Faculdade de Odontologia de Araçatuba, Departamento de Odontologia Preventiva e Restauradora, Araçatuba, São Paulo, Brasil.</institution>
+              </aff>
+              <aff id="aff2">
+                <label>2</label>
+                <institution content-type="orgname">Centro Universitário Uningá</institution>
+                <institution content-type="orgdiv1">Departamento de Odontologia Restauradora e Prótese Dentária</institution>
+                <addr-line>
+                  <named-content content-type="city">Maringá</named-content>
+                  <named-content content-type="state">PR</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Centro Universitário Uningá – UNINGÁ, Departamento de Odontologia Restauradora e Prótese Dentária, Maringá, PR, Brasil.</institution>
+              </aff>
+              <aff id="aff3">
+                <label>3</label>
+                <institution content-type="orgname">Universidade Estadual de Maringá</institution>
+                <institution content-type="orgdiv1">Departamento de Odontologia</institution>
+                <addr-line>
+                  <named-content content-type="city">Maringá</named-content>
+                  <named-content content-type="state">PR</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Estadual de Maringá - UEM, Departamento de Odontologia, Maringá, PR, Brasil.</institution>
+              </aff>
+              <aff id="aff4">
+                <label>4</label>
+                <institution content-type="orgname">Universidade Federal do Rio Grande do Sul</institution>
+                <institution content-type="orgdiv1">Faculdade de Odontologia</institution>
+                <institution content-type="orgdiv2">Departamento de Odontologia Conservadora</institution>
+                <addr-line>
+                  <named-content content-type="city">Porto Alegre</named-content>
+                  <named-content content-type="state">RS</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Federal do Rio Grande do Sul, Faculdade de Odontologia, Departamento de Odontologia Conservadora, Porto Alegre, RS, Brasil.</institution>
+              </aff>
+              <aff id="aff5">
+                <label>5</label>
+                <addr-line>
+                  <named-content content-type="city">Winterthur</named-content>
+                </addr-line>
+                <country country="CH">Switzerland</country>
+                <institution content-type="original">Private Orthodontic Practice, Winterthur, Switzerland.</institution>
+              </aff>
+              <author-notes>
+                <corresp id="c01"> Corresponding address: Ticiane Cestari Fagundes Universidade Estadual Paulista (UNESP), Faculdade de Odontologia de Araçatuba - Depatamento de Odontologia Preventiva e Restauradora - Rua José Bonifácio, 1193 - Vila Mendonça - Araçatuba - São Paulo - Brasil. e-mail: <email>ticiane.fagundes@unesp.br</email> Phone Number: +55 18 3636-3347. </corresp>
+                <fn fn-type="edited-by">
+                  <p>Editor: Linda Wang</p>
+                </fn>
+                <fn fn-type="COI-statement">
+                  <p>Conflict of interest</p>
+                  <p>The authors declare no conflict of interest.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>09</day>
+                <month>10</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2023</year>
+              </pub-date>
+              <volume>31</volume>
+              <elocation-id>e20230181</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>30</day>
+                  <month>5</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="rev-recd">
+                  <day>3</day>
+                  <month>8</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>14</day>
+                  <month>8</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p> This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. </license-p>
+                </license>
+              </permissions>
+              <abstract>
+                <title>Abstract</title>
+                <p>The effectiveness of at-home dental bleaching treatments depends on the time that bleaching products are in contact with the teeth surface and, consequently, on the adequate use of associated custom acetate trays. </p>
+                <sec>
+                  <title>Objective</title>
+                  <p> This randomized single-blinded trial aimed to analyze if the daily usage time of these products influences the patient’s compliance behavior when submitted to monitored at-home dental bleaching. Secondary outcomes were color change and tooth sensitivity.</p>
+                </sec>
+                <sec>
+                  <title>Methodology</title>
+                  <p> Sixty-six volunteers were randomly distributed into three groups (n=22): patients were instructed to use the trays for 2 (G2), 4 (G4), and 8 (G8) hours daily. The daily dental bleaching compliance behavior was measured using a microsensor inserted into the trays. Subjective and objective color evaluation assessments were adopted at baseline (T0), one (T1), two (T2), and three weeks (T3) after the beginning of the bleaching treatment, as well as two weeks after the treatment (T4). Tooth sensitivity was analyzed using the VAS scale, ranging from T1 to T4.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p> G2 showed a greater degree of cooperation than G8 and cooperation was inversely proportional to the recommended usage time. Significantly higher color change was observed in the upper arch for G8 when compared to G2 in subjective analysis, from T1 to T4. There were no statistical differences between the groups in objective analysis.</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p> Shorter recommended usage time of the bleaching product may improve the patient's compliance with at-home dental bleaching treatments. However, increased daily usage time may promote better subjective color change. Bleaching sensitivity was more significant in the first week for a longer time of use.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>Carbamide peroxide</kwd>
+                <kwd>Clinical trial</kwd>
+                <kwd>Patient compliance</kwd>
+                <kwd>Tooth bleaching</kwd>
+                <kwd>Bleaching agents</kwd>
+                <kwd>Treatment adherence and compliance</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>FAPESP</funding-source>
+                  <award-id>2017/03483-3</award-id>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="3"/>
+                <table-count count="4"/>
+                <equation-count count="1"/>
+                <ref-count count="31"/>
+              </counts>
+            </article-meta>
+          </front>
+          <body>
+            <sec sec-type="intro">
+              <title>Introduction</title>
+              <p>The effectiveness of at-home dental bleaching treatments depends on the time that bleaching products are in contact with the teeth surface and, consequently, on the adequate use of custom acetate trays. The home bleaching treatment was introduced in 1989, recommending the use of a 10% carbamide peroxide for 6 to 8 daily hours.<sup><xref rid="B1" ref-type="bibr">1</xref></sup> Nowadays, different usage times for home bleaching treatments have been reported in the literature.<sup><xref rid="B2" ref-type="bibr">2</xref>-<xref rid="B5" ref-type="bibr">5</xref></sup> More than 50% of the active agent in carbamide peroxide is available in custom acetate trays after two hours of use.<sup><xref rid="B6" ref-type="bibr">6</xref></sup> For this reason, shorter usage times have been proposed.<sup><xref rid="B3" ref-type="bibr">3</xref></sup> However, it is important to mention that at-home dental bleaching procedures using carbamide peroxide products are commonly carried out by patients without supervision, which may lead to incorrect use.<sup><xref rid="B7" ref-type="bibr">7</xref>-<xref rid="B9" ref-type="bibr">9</xref></sup> Thus, professionals may encounter undesirable clinical results when the patient’s compliance is not optimal, which may lead to the patient being dissatisfied.</p>
+              <p>Usage time measurements for removable orthodontic appliances have been performed using an electronic device that is able to identify the temperature of the oral cavity, which can be converted into time of use in the oral cavity.<sup><xref rid="B10" ref-type="bibr">10</xref>-<xref rid="B12" ref-type="bibr">12</xref></sup>Case reports produced by our group have described the same method to calculate the daily usage time of the bleaching product by inserting a microsensor in the custom acetate tray.<sup><xref rid="B7" ref-type="bibr">7</xref>-<xref rid="B9" ref-type="bibr">9</xref></sup>The usage time recorded by these devices coupled in trays could certainly be an important tool for professionals to promptly identify and overcome possible cooperation problems, providing more effective clinical results.</p>
+              <p>In the literature, there is a lack of studies that evaluate the influence of monitored daily usage times in the compliance of patients during at-home bleaching using randomized clinical trials and in color change and sensitivity. The objective of the present study was to assess the patient’s compliance and the tooth color change and sensitivity during at-home dental bleaching procedures with different usage times. The null hypothesis tested was: [1] daily usage time would not influence patients’ compliance during at-home bleaching; [2] daily usage time would not influence tooth color change during at-home bleaching, and [3] daily usage time would not influence tooth sensitivity during at-home bleaching.</p>
+            </sec>
+            <sec sec-type="methods">
+              <title>Methodology</title>
+              <sec>
+                <title>Trial design</title>
+                <p>This study was a prospective, randomized, parallel, single-blind clinical trial, following the guidelines published by the Consolidated Standards of Reporting Trials-CONSORT<sup><xref rid="B13" ref-type="bibr">13</xref></sup> and approved by the Local Ethics Research Committee (#CAAE no 66695717.4.0000.5420). It was also registered in the REBEC database (#RBR-77SBFP). It was conducted at Araçatuba School of Dentistry, a medium-sized city of São Paulo State, from March 2018 to April 2019.</p>
+                <p>The studied factor was the usage time of the trays at three levels: 2 (G2), 4 (G4), and 8 (G8) hours/day. The response variables were the patient’s compliance behavior regarding the usage time of trays, the efficacy of dental bleaching, assessed with visual and spectrophotometric evaluations, and tooth sensitivity.</p>
+                <sec>
+                  <title>Sample size</title>
+                  <p>The sample size was calculated using a dedicated statistical software package (IBM SPSS Statistics 22.0; IBM Analytics, Armonk, NY, USA). The primary outcome (patient’s compliance behavior) was not used for sample size calculation due to the lack of data about this topic. One of the secondary outcomes was color change: considering a 2.4 standard deviation from a pilot study and the minimum difference to be detected from 3.3, with a 95% confidence level and a maximum acceptable error of 5%, each group required 20 participants. Considering a possible loss of patients, 10% of the total sample was added. The final calculation was 66 participants, once it is a parallel design trial.</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec>
+              <title>Eligibility criteria</title>
+              <p>Patients were selected according to the following inclusion criteria: absence of carious lesions; good oral soft tissue health; absence of unsatisfactory and/or fractured restorations; absence of periodontal diseases; absence of non-carious cervical lesions and exposed dentinal tissue in the incisal areas; no history of adverse reaction to peroxides; shade of canines and incisors teeth should be at least A2 (according to Vita Classical Shade Guide, Bad Sackingen, Germany); absence of teeth with spontaneous pain; aged between 18-30 years.</p>
+              <p>The exclusion criteria were: presence of proximal and/or vestibular restorations in the incisor and/or canine teeth; teeth with fixed orthodontic appliances and with resinous residues after bracket debonding; pregnancy; breastfeeding; smoking; routine alcohol use; previous dental bleaching treatments; teeth with fluorosis, enamel stains; endodontically treated teeth; bruxism habits; experiencing tooth sensitivity before this study; unacceptance of the research consent form and/or unavailability/lack of commitment to the research (<xref rid="f01" ref-type="fig">Figure 1</xref>).</p>
+              <p>
+                <fig position="float" id="f01">
+                  <label>Figure 1</label>
+                  <caption>
+                    <title>Consort flow-chart of the clinical trial</title>
+                  </caption>
+                  <graphic xlink:href="1678-7757-jaos-31-e20230181-gf01" position="float"/>
+                </fig>
+              </p>
+            </sec>
+            <sec>
+              <title>Allocation</title>
+              <p>After selecting the 66 participants, informed consent was obtained from each patient and they were divided into three groups with 22 participants each. Participants’ allocation into these groups was done at an equal rate. The purpose of this allocation was to assign each participant one out of three different usage times, as shown in <xref rid="f01" ref-type="fig">Figure 1</xref>. To ensure impartiality and avoid any bias, each group was labeled with a code (G2, G4, and G8) and codes were placed inside a black opaque envelope. The process of determining which group each volunteer would belong to was conducted through a random draw. This draw was performed by an individual who had no involvement in the study, to maintain objectivity and eliminate any potential influence.</p>
+            </sec>
+            <sec>
+              <title>Bleaching procedure</title>
+              <p>Prophylaxis with pumice stone and water was performed. Alginate impressions (Jeltrate Plus, Dentsply, Petrópolis, RJ, Brazil) of each patient’s upper and lower arches were taken and stone models was fabricated. Ethylene vinyl acetate trays (Bio-Art Equip Odontológicos, Ltda, São Carlos, SP, Brazil) were fabricated using a vacuum-pressing machine (Equip Odontológicos Ltda, São Carlos, SP, Brazil). An electronic microsensor (TheraMon microelectronic system, Sales AgencyGschladt, Hargelsberg, Austria) was attached to the buccal surfaces of the acetate trays in order to monitor the daily usage time. The microsensor was included between the 2 acetate plates, each being 1 mm thick, during the preparation of the trays, in which borders were cut 2 mm beyond the gingival margin, following the gingival contour (scalloped tray), without the presence of reservoirs (<xref rid="f02" ref-type="fig">Figure 2A</xref>).</p>
+              <p>
+                <fig position="float" id="f02">
+                  <label>Figure 2</label>
+                  <caption>
+                    <title>A- Upper and lower acetate trays with the microsensor attached to the buccal surface; B- Reading station for transferring data to the software</title>
+                  </caption>
+                  <graphic xlink:href="1678-7757-jaos-31-e20230181-gf02" position="float"/>
+                </fig>
+              </p>
+              <p>This microsensor is able to measure the temperature of the oral cavity every 15 minutes with a +/- 0.1º Celsius accuracy.<sup><xref rid="B14" ref-type="bibr">14</xref></sup> The sensor must be initially activated at the time of the first acquisition, using the associated software (Theramon Software, MC Technology GmbH, Hargelsberg, Austria). The collected data was transferred through a wireless connection between the sensors and a reading station (<xref rid="f02" ref-type="fig">Figure 2B</xref>) coupled to a Universal Serial Bus (USB) connection. The patients were notified about the presence of the microsensors on the acetate trays.</p>
+              <p>Dental bleaching was performed using 10% carbamide peroxide gel (Opalescense PF, Ultradent Products Inc., South Jordan, UT, USA). Patients were instructed to insert a small drop of bleaching gel on the buccal impression of each tooth on both trays (upper and lower), from the right second premolar to the left second premolar. Patients were instructed to keep the trays on for 2, 4, or 8 hours/day (corresponding to groups G2, G4, and G8, respectively). They were instructed on how and for how long to use the trays by a researcher that was not involved in the implementation and evaluation processes. The dental bleaching technique was performed for 21 consecutive days. Each volunteer’s usage time was obtained and analyzed at the end of the bleaching treatment.</p>
+            </sec>
+            <sec>
+              <title>Daily compliance behavior degree</title>
+              <p>A daily score for the usage time was created: 0 – patient did not used the trays; 1 – patient used the trays for the recommended time; 2 – patient used the trays for less than the recommended time; 3 – patient used the trays for more than the recommended time. The scores were then dichotomized into adequate (Score 1) or inadequate (Scores 0, 2, and 3). All data were registered daily. On all treatment days, each patient was analyzed and categorized according to the scores, so that 21 scores (days) were analyzed per patient.</p>
+            </sec>
+            <sec>
+              <title>Color change</title>
+              <p>Subjective and objective methods were used to evaluate tooth color. Only the evaluators were unaware of the groups to which the participants had been assigned. Two examiners were trained on shade determination of eight subjects’ anterior teeth in a pilot study. This calibration was performed using Vita shade guide units (A1-D4) and a digital spectrophotometer (Vita Easyshade, Germany) made in the middle third of the upper and lower anterior teeth (incisors and canines), three times. For this, a custom tray was made with an orifice, with a 3.0mm radius window, to standardize the location of the color measuring. The color measurements were performed on the lateral and central incisors and on the canines, in both arches, with 12 teeth being evaluated per patient. The subjective evaluation was initially performed, followed by the objective evaluation. For the subjective evaluation, scores from 1 (B1) to 16 (C4) were assigned.<sup><xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B16" ref-type="bibr">16</xref></sup> A consensus was reached when no disagreements occurred.</p>
+              <p>Both measurements were performed at baseline (T0), seven (T1), fourteen (T2), and twenty-one days (T3) of treatment and the mean color change between evaluated teeth (incisors and canines) was calculated. A measurement was performed fourteen days after the completion of the treatment (T4). The color of each tooth was measured using the CIEDE2000 parameters: variables such as L*, a*, b*, h*, and c* coordinates that address not only L* (brightness), a* ( red-green), and b* (yellow-blue) found in the previous formula, but also the saturation (c*), hue angle (h*), matrix rotation term (RT), compensation for neutral colors; lightness compensation (SL), chroma compensation (SC), and hue compensation (SH), allowing a better correlation between the observed colors and bringing this score closer to what can be seen by the human eye. The shade comparison at different periods (T0, T1, T2, T3, and T4) was based on the ΔE00, which was calculated by the following formula:<sup><xref rid="B17" ref-type="bibr">17</xref></sup></p>
+              <disp-formula id="e1">
+                <mml:math id="m1" overflow="scroll">
+                  <mml:mtable>
+                    <mml:mtr>
+                      <mml:mtd/>
+                      <mml:mtd>
+                        <mml:mi>ε</mml:mi>
+                        <mml:mi>Δ</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>E</mml:mi>
+                        </mml:mrow>
+                        <mml:mn>00</mml:mn>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>C</mml:mi>
+                          <mml:mi>I</mml:mi>
+                          <mml:mi>E</mml:mi>
+                          <mml:mi>D</mml:mi>
+                          <mml:mi>E</mml:mi>
+                        </mml:mrow>
+                        <mml:mn>2000</mml:mn>
+                        <mml:mo>)</mml:mo>
+                        <mml:mo>=</mml:mo>
+                        <mml:mo>{</mml:mo>
+                        <mml:mo>[</mml:mo>
+                        <mml:mi>Δ</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>L</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                          <mml:mo>/</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>K</mml:mi>
+                          <mml:mi>L</mml:mi>
+                          <mml:mi>S</mml:mi>
+                          <mml:mi>L</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                        <mml:mo>]</mml:mo>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                        <mml:mo>[</mml:mo>
+                        <mml:mi>Δ</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>C</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                          <mml:mo>/</mml:mo>
+                        </mml:mrow>
+                      </mml:mtd>
+                    </mml:mtr>
+                    <mml:mtr>
+                      <mml:mtd/>
+                      <mml:mtd>
+                        <mml:mrow>
+                          <mml:mi>K</mml:mi>
+                          <mml:mi>C</mml:mi>
+                          <mml:mi>S</mml:mi>
+                          <mml:mi>C</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>]</mml:mo>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                        <mml:mo>[</mml:mo>
+                        <mml:mi>Δ</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                          <mml:mo>/</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>(</mml:mo>
+                        <mml:mrow>
+                          <mml:mi>K</mml:mi>
+                          <mml:mi>h</mml:mi>
+                          <mml:mi>S</mml:mi>
+                          <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>)</mml:mo>
+                        <mml:mo>]</mml:mo>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>+</mml:mo>
+                        <mml:mi>Δ</mml:mi>
+                        <mml:mrow>
+                          <mml:mi>R</mml:mi>
+                        </mml:mrow>
+                        <mml:mo>}</mml:mo>
+                        <mml:mn>1</mml:mn>
+                        <mml:mrow>
+                          <mml:mo>/</mml:mo>
+                        </mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mi>ε</mml:mi>
+                      </mml:mtd>
+                    </mml:mtr>
+                  </mml:mtable>
+                </mml:math>
+              </disp-formula>
+            </sec>
+            <sec>
+              <title>Tooth sensitivity</title>
+              <p>Tooth sensitivity was analyzed and measured from 0 to 10 in all periods, according to the visual analogue scale (VAS). Volunteers were asked about the intensity of tooth sensitivity caused by the treatment. A value of 0 was set when patients did not have any sensitivity and 10 when severe sensitivity occurred. In case of severe sensitivity, the patient would be excluded from the research and the dental bleaching treatment would be canceled.</p>
+            </sec>
+            <sec>
+              <title>Statistical analysis</title>
+              <p>Statistical analysis was performed using a statistical software package (IBM SPSS Statistics 22.0; IBM Analytics, Armonk, NY, USA). The Kolmogorov-Smirnov test was used to evaluate the normality of the results. The chi-square test was used between the groups to compare the volunteers’ compliance behavior (usage time). The results for tooth color change and sensitivity were submitted to a two-way analysis of variance (ANOVA), followed by a Tukey post-hoc test. Statistical analysis was performed at a 5% significance level.</p>
+            </sec>
+            <sec sec-type="results">
+              <title>Results</title>
+              <p>The 66 volunteers, aged 18 to 26 years (20±1.9 mean), were analyzed and a total of 462 readings (days of use) were performed for each study group, during the 21 days of treatment. No loss occurred during the follow-up periods.</p>
+              <sec>
+                <title>Daily compliance behavior degree</title>
+                <p>Data from daily compliance behavior is shown in <xref rid="t1" ref-type="table">Table 1</xref> and <xref rid="f03" ref-type="fig">Figure 3</xref>. A statistically significant difference was observed in the daily compliance behavior degree. G2 showed a greater cooperation degree than G8 (p&lt;0.001). The lowest score 0 percentage was observed for G8. The highest score 1 percentage was observed for G2. Dichotomized data (adequate or inadequate) showed that the cooperation was inversely proportional to the recommended usage time (p&lt;0.001).</p>
+                <p>
+                  <table-wrap position="float" id="t1">
+                    <label>Table 1</label>
+                    <caption>
+                      <title>Distribution of patients’ 0-3 scores (usage time) according to each group</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup width="17%" span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th rowspan="1" colspan="1">Groups</th>
+                          <th rowspan="1" colspan="1">Score 0</th>
+                          <th rowspan="1" colspan="1">Score 1</th>
+                          <th rowspan="1" colspan="1">Score 2</th>
+                          <th rowspan="1" colspan="1">Score 3</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Upper Arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">59 (12.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">338 (73.2%)</td>
+                          <td align="center" rowspan="1" colspan="1">26 (5.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">39 (8.4%)</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">60 (13.0%)</td>
+                          <td align="center" rowspan="1" colspan="1">179 (38.7%)</td>
+                          <td align="center" rowspan="1" colspan="1">50 (10.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">173 (37.4%)</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">24 (5.2%)</td>
+                          <td align="center" rowspan="1" colspan="1">158 (34.2%)</td>
+                          <td align="center" rowspan="1" colspan="1">132 (28.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">148 (32.0%)</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Lower Arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">59 (12.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">334 (72.3%)</td>
+                          <td align="center" rowspan="1" colspan="1">28 (6.1%)</td>
+                          <td align="center" rowspan="1" colspan="1">41 (8.9%)</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">60 (13.0%)</td>
+                          <td align="center" rowspan="1" colspan="1">187 (40.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">46 (10.0%)</td>
+                          <td align="center" rowspan="1" colspan="1">169 (36.6%)</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">25 (5.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">165 (35.7%)</td>
+                          <td align="center" rowspan="1" colspan="1">131 (28.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">141 (30.5%)</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </table-wrap>
+                </p>
+                <p>
+                  <fig position="float" id="f03">
+                    <label>Figure 3</label>
+                    <caption>
+                      <title>Dichotomized data regarding the usage time of the dental bleaching product for upper and lower arches for each group (n=462).</title>
+                    </caption>
+                    <graphic xlink:href="1678-7757-jaos-31-e20230181-gf03" position="float"/>
+                  </fig>
+                </p>
+              </sec>
+              <sec>
+                <title>Color change</title>
+                <p><xref rid="t2" ref-type="table">Table 2</xref> shows the color changes obtained by the subjective evaluation of both arches. Significantly higher upper arch color change from T1 to T4 was observed in G8 than in G2; however, these differences were observed since T2 in the lower arch (p ≤0.05). ΔE00 values obtained by the objective analysis are shown in <xref rid="t3" ref-type="table">Table 3</xref>, comparing the periods to T0 (baseline). There were no statistical differences between the groups.</p>
+                <p>
+                  <table-wrap position="float" id="t2">
+                    <label>Table 2</label>
+                    <caption>
+                      <title>Means (SD) of scores obtained by the subjective evaluation on upper and lower arches</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup width="14%" span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th rowspan="1" colspan="1">T0</th>
+                          <th rowspan="1" colspan="1">T1</th>
+                          <th rowspan="1" colspan="1">T2</th>
+                          <th rowspan="1" colspan="1">T3</th>
+                          <th rowspan="1" colspan="1">T4</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Upper arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">6.41 (±1.76)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">3.73 (±1.07)<sup>Bb</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.95 (±0.84)<sup>Bc</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.27 (±0.7)<sup>Bd</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.27 (±0.7)<sup>Bd</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">7.18 (±2.51)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">3.55 (±1.1)<sup>ABb</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.55 (±0.91)<sup>ABc</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.14 (±0.88)<sup>ABd</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.09 (±0.86)<sup>ABd</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">6.05 (±1.86)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.95 (±0.84)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.23 (±0.75)<sup>Ac</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.68 (±0.71)<sup>Ad</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.68 (±0.71)<sup>Ad</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Lower arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">5.86 (±1.47)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">3.55 (±0.91)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.86 (±0.77)<sup>Bc</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.41 (±0.66)<sup>Bd</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.41 (±0.66)<sup>Bd</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">6.86 (±2.64)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">3.5 (±1.05)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.55 (±0.85)<sup>ABc</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.23 (±0.86)<sup>ABd</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.09 (±0.86)<sup>ABd</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">5.95 (±1.96)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.95 (±0.84)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">2.23 (±0.75)<sup>Ac</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.73 (±0.76)<sup>Ad</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.73 (±0.76)<sup>Ad</sup></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN1">
+                        <p>Different uppercase letters in column and lowercase in row indicate statistically significant differences (p&lt;0.05). Statistical analysis did not compare the upper arch with the lower arch.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p>
+                  <table-wrap position="float" id="t3">
+                    <label>Table 3</label>
+                    <caption>
+                      <title>Means (SD) of color change (ΔE00) obtained by the objective evaluation on upper and lower arches</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup width="17%" span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th rowspan="1" colspan="1">T1</th>
+                          <th rowspan="1" colspan="1">T2</th>
+                          <th rowspan="1" colspan="1">T3</th>
+                          <th rowspan="1" colspan="1">T4</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Upper arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">3.17 (±0.79)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.64 (±1.35)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.34 (±1.14)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.43 (±1.30)<sup>Ab</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">3.39 (±1.14)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.01 (±1.34)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.67 (±1.59)<sup>Abc</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.80 (±1.65)<sup>Ac</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">3.97 (±1.12)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">5.33 (±0.94)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">6.11 (±1.07)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">6.29 (±1.18)<sup>Ab</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="3" colspan="1">Lower arch</td>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">2.87 (±0.68)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.22 (±1.13)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.71 (±1.30)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.60 (±1.35)<sup>Ab</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">2.92 (±0.82)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.17 (±1.06)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.72 (±1.36)<sup>Ac</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.82 (±1.36)<sup>Ac</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">3.38 (±1.38)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.07 (±1.09)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.89 (±1.56)<sup>Ac</sup></td>
+                          <td align="center" rowspan="1" colspan="1">4.81 (±1.41)<sup>Ac</sup></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN2">
+                        <p>Different uppercase letters in column and lowercase in row indicate statistically significant differences (p&lt;0.05). Statistical analysis did not compare the upper arch with the lower arch.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p>For all groups, arches, and analysis, a significant and gradual increase in color change was observed (p ≤0.05), stabilizing at T4.</p>
+              </sec>
+              <sec>
+                <title>Tooth sensitivity</title>
+                <p><xref rid="t4" ref-type="table">Table 4</xref> shows tooth sensitivity data. Only at T1 did G2 present significantly lower tooth sensitivity than G8 (p=0.047). Additionally, G2 showed higher sensitivity in T2 and T3 than in T1 and T4 (p≤0.05); however, only at T4 did lower tooth sensitivity than other time evaluations occur for G4 and G8.</p>
+                <p>
+                  <table-wrap position="float" id="t4">
+                    <label>Table 4</label>
+                    <caption>
+                      <title>Means (SD) of scores obtained by VAS scale during and after the bleaching treatment</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup width="20%" span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th rowspan="1" colspan="1">T1</th>
+                          <th rowspan="1" colspan="1">T2</th>
+                          <th rowspan="1" colspan="1">T3</th>
+                          <th rowspan="1" colspan="1">T4</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G2</td>
+                          <td align="center" rowspan="1" colspan="1">0.05 (0.21)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.77 (1.41)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.41 (0.85)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.09 (0.42)<sup>Aa</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G4</td>
+                          <td align="center" rowspan="1" colspan="1">0.82 (1.46)<sup>ABb</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.05 (1.52)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.36 (2.17)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.00 (0.00)<sup>Aa</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">G8</td>
+                          <td align="center" rowspan="1" colspan="1">0.91 (1.41)<sup>Bb</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.82 (1.76)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.68 (1.49)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">0.00 (0.00)<sup>Aa</sup></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN3">
+                        <p>Different uppercase letters in column and lowercase in row indicate statistically significant differences (p &lt;0.05).</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion">
+              <title>Discussion</title>
+              <p>This blinded, parallel, randomized clinical trial with similar allocation between treatment groups aimed to evaluate different aspects of bleaching treatment, such as daily compliance behavior, dental color change and tooth sensitivity. The main objective of this study was to assess compliance behavior daily—secondary outcomes are additional dependent variables, hierarchically less important.<sup><xref rid="B18" ref-type="bibr">18</xref></sup> However, the study design and sample size were also based on the secondary outcomes (color change and sensitivity analysis), because results of these evaluations are related to usage time and daily compliance behavior.<sup><xref rid="B19" ref-type="bibr">19</xref></sup></p>
+              <p>Based on the results of the present study, the first null hypothesis was rejected, because less usage time promoted more compliance of patients during at-home bleaching. Usage-time compliance behavior variations could possibly compromise the effectiveness of bleaching treatments. The effectiveness of an at-home dental bleaching procedures depends on tray usage time, which is entirely under the responsibility of the patient. Therefore, the clinician must guide the patient on the importance of properly following the recommended usage time in order to obtain effectiveness out of the treatment.<sup><xref rid="B7" ref-type="bibr">7</xref>-<xref rid="B9" ref-type="bibr">9</xref></sup> The literature has reported on usage time of bleaching agents during at-home procedures.<sup><xref rid="B2" ref-type="bibr">2</xref>-<xref rid="B5" ref-type="bibr">5</xref></sup> However, the present study is innovative because the usage time was evaluated using a direct measurement with electronic microsensors.<sup><xref rid="B7" ref-type="bibr">7</xref>-<xref rid="B9" ref-type="bibr">9</xref></sup> It is important to highlight that no microsensors were lost in this study and that none of the volunteers reported discomfort using the trays containing the sensors.</p>
+              <p>A wide variability in usage time within some of the volunteers was observed. Drastic differences were found, with values ranging from 0 hours (Score 0) up to 12 hours and 15 minutes (Score 3), when the actual recommended usage time was 2 hours. This usage time pattern was a characteristic of patients who tried to compensate for little or no use time in a few days, or for those who used the trays while sleeping, for longer than recommended. Schott and Ludwig<sup><xref rid="B10" ref-type="bibr">10</xref></sup> (2014) also found this compliance behavior when evaluating the usage time of removable orthodontic devices, documented microelectronically. These authors detected heterogeneous usage behavior, suggesting individualized treatment planning as an effective alternative for removable orthodontic treatments.<sup><xref rid="B10" ref-type="bibr">10</xref></sup>However, it is important to consider the degradation time of at-home products when recommending individual bleaching treatments.<sup><xref rid="B20" ref-type="bibr">20</xref></sup> Calculating and tracking daily usage time may be a useful model for professionals and patients to assess the prescribed individual usage time of products during treatment, optimizing check-up appointments.<sup><xref rid="B10" ref-type="bibr">10</xref></sup> The present study also demonstrated the importance of supervising volunteers’ compliance behavior degree during at-home dental bleaching, because the absence of this monitoring can lead to an incorrect interpretation of results, since the use of trays depends on the volunteer’s cooperation.</p>
+              <p>Although an 8-hour usage time is associated with use during sleep, a 2-hour usage time is more effective since it can be easily made at any time of the day. This finding is consistent with the medical literature, which suggests that less frequent dosing regimens are associated with better adherence.<sup><xref rid="B21" ref-type="bibr">21</xref></sup></p>
+              <p>It was possible to observe, through subjective visual evaluation, higher color change for G8 than G2 at most of the evaluation time. For G2, even with higher patient compliance (score 1), reduced color change was observed, certainly due to the shorter usage time (2 hours). After 2 hours, more than 50% of the active agent is available in bleaching trays with reservoirs, and 19% in the ones without reservoirs.<sup><xref rid="B6" ref-type="bibr">6</xref></sup> On the other hand, Marques, et al.<sup><xref rid="B22" ref-type="bibr">22</xref></sup> (2012) found that, after 2 hours of use, only 7% of carbamide peroxide remains in trays. Longer exposure times to the bleaching product led to higher color change at each week of treatment, demonstrating that dental bleaching is time-dependent. Carbamide peroxide is easily broken down when saliva is maintained in contact with it, releasing hydrogen peroxide and urea, especially in bleaching trays during at-home protocols with low-concentration gels (10-22%).<sup><xref rid="B23" ref-type="bibr">23</xref></sup> However, a greater presence of saliva inside the mandibular tray during treatment could have decreased the concentration of the bleaching gel and consequently, its efficacy,<sup><xref rid="B23" ref-type="bibr">23</xref>,<xref rid="B24" ref-type="bibr">24</xref></sup> leading to results only being observed after T2. <italic toggle="yes">In vivo</italic> observations have pointed out that the rate of carbamide peroxide degradation during the bleaching process is twice as exponential and accelerated during the first hour of the process, and that 10% of the active agent is still available after 10 hours for trays with buccal reservoirs.<sup><xref rid="B6" ref-type="bibr">6</xref></sup> It is important to mention that the trays were made without the presence of reservoirs, because reservoir and non-reservoir sides had equivalent color-change effects in a clinical trial with a one-year follow-up evaluation that used the same 10% carbamide peroxide gel as that of the present study.<sup><xref rid="B25" ref-type="bibr">25</xref></sup></p>
+              <p>Spectrophotometry is an objective evaluation method capable of expressing minimal color differences in numerical form.<sup><xref rid="B17" ref-type="bibr">17</xref>,<xref rid="B26" ref-type="bibr">26</xref></sup> It enables standardized color measurement, unlike the subjective method, in which color perception may be influenced by the adaptation of the dental color to the background area and the light source present.<sup><xref rid="B27" ref-type="bibr">27</xref></sup> Formulas for calculating color differences that better represent the human perception have been developed, such as CIEDE2000 and CIELAB, although the second only agrees with visual findings in 75%.<sup><xref rid="B17" ref-type="bibr">17</xref></sup> Statistical differences between G2 and G8 were only observed at T1. In this study, it was possible to observe a gradual increase/improvement in the color change from one-time analysis to the next evaluations, even after 14 days of the bleaching treatment.</p>
+              <p>Cardoso, et al.<sup><xref rid="B2" ref-type="bibr">2</xref></sup> (2010), evaluating the use of 10% carbamide peroxide gel with objective and subjective analysis, found similar color changes for the 15-minute, 30-minute, and one-hour groups, statistically different from the changes of the eight-hour group. Corroborating these findings, the same product, when applied overnight, was more effective than applied 1 hour a day or for 20 minutes using 10% carbamide peroxide, according to objective analysis.<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B28" ref-type="bibr">28</xref></sup> Another clinical trial<sup><xref rid="B5" ref-type="bibr">5</xref></sup> evaluated different at-home protocols and found higher color change in those who used the gel for 8 hours than in those who did so for 2 hours, only for the b coordinate, provided by objective analysis. In this context, at-home bleaching depends on time, not on concentration; therefore, there is no need for the use of high-concentration products: the number of days of treatment is more important.<sup><xref rid="B29" ref-type="bibr">29</xref></sup></p>
+              <p>In the objective analysis, the difference between the upper arch means of groups G2 and G4 at T4 (0.86) can be correlated with the acceptability and perceptibility values proposed by Paravina, Pérez and Ghinea<sup><xref rid="B17" ref-type="bibr">17</xref></sup> (2019), corresponding to the values in which 50% of evaluators/observers can detect a change in color. This result corroborates the subjective analysis, which also showed a statistical difference between G2 and G4.</p>
+              <p>Tooth sensitivity may be related not only to bleaching gel concentration, but also to its time of contact with dental structures.<sup><xref rid="B2" ref-type="bibr">2</xref></sup> One of the mechanisms that cause tooth sensitivity is related to the penetration of peroxide into the pulp: the longer the contact time of the gel with the dental structure, the greater its chances of causing tooth sensitivity. The greater degree of collaboration of the volunteers with the use of the bleaching product and the shorter time of contact of the bleaching gel with the dental structure possibly contributed to G2 having presented less sensitivity after one week (T1). Mailart, et al.<sup><xref rid="B5" ref-type="bibr">5</xref></sup> (2021) observed higher tooth sensitivity with 10% carbamide peroxide usage during 8 hours than during 2 hours, at 2 days of evaluation; however, no differences were found after 7 and 14 days. Other studies also found that using 28% carbamide peroxide for 20 minutes or 10% carbamide peroxide for 15, 30, and 60 minutes promoted less tooth sensitivity than using 10% carbamide peroxide overnight.<sup><xref rid="B2" ref-type="bibr">2</xref>,<xref rid="B28" ref-type="bibr">28</xref></sup> However, other clinical trials observed a rate of 95% of no tooth sensitivity incidence for both 1 hour and overnight usages of 10% carbamide peroxide.<sup><xref rid="B4" ref-type="bibr">4</xref></sup></p>
+              <p>However, in T2 and T3 the sensitivity means showed the same level of intensity, with results becoming practically null in T4, observations that are in agreement with other studies.<sup><xref rid="B30" ref-type="bibr">30</xref></sup> Dental dehydration resulting from the use of trays for prolonged periods may be associated with a higher occurrence of tooth sensitivity.<sup><xref rid="B31" ref-type="bibr">31</xref></sup> Thus, it has been suggested that prolonging the days of bleaching treatment is more indicated than using the trays for more hours.<sup><xref rid="B29" ref-type="bibr">29</xref></sup> If the authors had discussed the daily compliance behavior with volunteers during the 21 days of treatment, inadequate daily usage time would probably have been avoided, which is a limitation of the present study. It is worth mentioning that other studies should be carried out evaluating different concentrations, bleaching products and color change stability in shorter, monitored usage times.</p>
+            </sec>
+            <sec sec-type="conclusions">
+              <title>Conclusions</title>
+              <p>Shorter recommended usage time of acetate trays/dental bleaching products improved patients’ compliance with the at-home dental bleaching treatment. However, increased daily usage time of the bleaching gel promoted better subjective color change. For a longer usage time, tooth sensitivity was more significant in the first week.</p>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <title>Acknowledgments</title>
+              <p>The authors would like to thank the sponsoring agency FAPESP (São Paulo State Research Foundation), grant 2017/03483-3, and Ultradent Products (Ultradent Products Inc, South Jordan, UT, USA).</p>
+            </ack>
+            <fn-group>
+              <fn fn-type="other">
+                <p><bold>Data availability statement:</bold> All data generated and analyzed during this study are included in this article.</p>
+              </fn>
+            </fn-group>
+            <ref-list>
+              <title>References</title>
+              <ref id="B1">
+                <label>1</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Haywood</surname>
+                      <given-names>VB</given-names>
+                    </name>
+                    <name>
+                      <surname>Heymann</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nigthguard vital bleaching</article-title>
+                  <source>Quintessence Int</source>
+                  <year>1989</year>
+                  <volume>20</volume>
+                  <issue>3</issue>
+                  <fpage>173</fpage>
+                  <lpage>176</lpage>
+                  <pub-id pub-id-type="pmid">2762507</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B2">
+                <label>2</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cardoso</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Reis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Loguercio</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Vieira</surname>
+                      <given-names>LC</given-names>
+                    </name>
+                    <name>
+                      <surname>Baratieri</surname>
+                      <given-names>LN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical effectiveness and tooth sensitivity associated with different bleaching times for a 10 percent carbamide peroxide gel</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2010</year>
+                  <volume>141</volume>
+                  <issue>10</issue>
+                  <fpage>1213</fpage>
+                  <lpage>1220</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.2010.0048</pub-id>
+                  <pub-id pub-id-type="pmid">20884923</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B3">
+                <label>3</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Basting</surname>
+                      <given-names>RT</given-names>
+                    </name>
+                    <name>
+                      <surname>Amaral</surname>
+                      <given-names>FL</given-names>
+                    </name>
+                    <name>
+                      <surname>Franca</surname>
+                      <given-names>FM</given-names>
+                    </name>
+                    <name>
+                      <surname>Flório</surname>
+                      <given-names>FM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical comparative study of the effectiveness of and tooth sensitivity to 10% and 20% carbamide peroxide home-use and 35% and 38% hydrogen peroxide in-office bleaching materials containing desensitizing agents</article-title>
+                  <source>Oper Dent</source>
+                  <year>2012</year>
+                  <volume>37</volume>
+                  <issue>5</issue>
+                  <fpage>464</fpage>
+                  <lpage>473</lpage>
+                  <pub-id pub-id-type="doi">10.2341/11-337-C</pub-id>
+                  <pub-id pub-id-type="pmid">22616927</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B4">
+                <label>4</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>López Darriba</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Novoa</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>de la Peña</surname>
+                      <given-names>VA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Efficacy of different protocols for at-home bleaching: a randomized clinical trial</article-title>
+                  <source>Am J Dent</source>
+                  <year>2017</year>
+                  <volume>30</volume>
+                  <issue>6</issue>
+                  <fpage>329</fpage>
+                  <lpage>334</lpage>
+                  <pub-id pub-id-type="pmid">29251456</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B5">
+                <label>5</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mailart</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Sakassegawa</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>KC</given-names>
+                    </name>
+                    <name>
+                      <surname>Torres</surname>
+                      <given-names>CR</given-names>
+                    </name>
+                    <name>
+                      <surname>Palo</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Borges</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>One-year follow-up comparing at-home bleaching systems outcomes and the impact on patient’s satisfaction: randomized clinical trial</article-title>
+                  <source>J Esthet Restor Dent</source>
+                  <year>2021</year>
+                  <volume>33</volume>
+                  <issue>8</issue>
+                  <fpage>1175</fpage>
+                  <lpage>1185</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jerd.12814</pub-id>
+                  <pub-id pub-id-type="pmid">34453873</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B6">
+                <label>6</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Matis</surname>
+                      <given-names>BA</given-names>
+                    </name>
+                    <name>
+                      <surname>Gaiao</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Blackman</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Schultz</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>In vivo degradation of bleaching gel used in whitening teeth</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>1999</year>
+                  <volume>130</volume>
+                  <issue>2</issue>
+                  <fpage>227</fpage>
+                  <lpage>235</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.1999.0172</pub-id>
+                  <pub-id pub-id-type="pmid">10036846</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B7">
+                <label>7</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pavani</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Sundfeld</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bertoz</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Bigliazzi</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Sundfeld</surname>
+                      <given-names>RH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Home dental bleaching monitored with microelectronic sensors to record the wearing times of an acetate tray/bleaching product</article-title>
+                  <source>Oper Dent</source>
+                  <year>2018</year>
+                  <volume>43</volume>
+                  <issue>4</issue>
+                  <fpage>347</fpage>
+                  <lpage>352</lpage>
+                  <pub-id pub-id-type="doi">10.2341/17-108-S</pub-id>
+                  <pub-id pub-id-type="pmid">29513636</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B8">
+                <label>8</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sundfeld</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Pavani</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                    <name>
+                      <surname>Pini</surname>
+                      <given-names>NI</given-names>
+                    </name>
+                    <name>
+                      <surname>Bertoz</surname>
+                      <given-names>AP</given-names>
+                    </name>
+                    <etal>et al</etal>
+                  </person-group>
+                  <article-title>Dental bleaching on teeth submitted to enamel microabrasion 30 years ago-a case report of patients’ compliance during bleaching treatment</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2019</year>
+                  <volume>23</volume>
+                  <issue>1</issue>
+                  <fpage>321</fpage>
+                  <lpage>326</lpage>
+                  <issue-id pub-id-type="doi">10.1007/s00784-018-2439-5</issue-id>
+                </element-citation>
+              </ref>
+              <ref id="B9">
+                <label>9</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sundfeld</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Pavani</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Pini</surname>
+                      <given-names>NI</given-names>
+                    </name>
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bertoz</surname>
+                      <given-names>AP</given-names>
+                    </name>
+                    <etal>et al</etal>
+                  </person-group>
+                  <article-title>Esthetic recovery of teeth presenting fluorotic enamel stains using enamel microabrasion and home-monitored dental bleaching</article-title>
+                  <source>J Conserv Dent</source>
+                  <year>2019</year>
+                  <volume>22</volume>
+                  <issue>4</issue>
+                  <fpage>401</fpage>
+                  <lpage>405</lpage>
+                  <pub-id pub-id-type="doi">10.4103/JCD.JCD_77_19</pub-id>
+                  <pub-id pub-id-type="pmid">31802828</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B10">
+                <label>10</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Ludwig</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Microelectronic wear-time documentation of removable orthodontic devices detects heterogeneous wear behavior and individualizes treatment planning</article-title>
+                  <source>Am J Orthod Dentofacial Orthop</source>
+                  <year>2014</year>
+                  <volume>146</volume>
+                  <issue>2</issue>
+                  <fpage>155</fpage>
+                  <lpage>160</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ajodo.2014.04.020</pub-id>
+                  <pub-id pub-id-type="pmid">25085297</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B11">
+                <label>11</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schafer</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ludwig</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Meyer-Gutknecht</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Quantifying patient adherence during active orthodontic treatment with removable appliances using microelectronic wear-time documentation</article-title>
+                  <source>Eur J Orthod</source>
+                  <year>2015</year>
+                  <volume>37</volume>
+                  <issue>1</issue>
+                  <fpage>73</fpage>
+                  <lpage>80</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ejo/cju012</pub-id>
+                  <pub-id pub-id-type="pmid">24993614</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B12">
+                <label>12</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Meyer-Gutknecht</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Mayer</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Weber</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Weimer</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison between indirect and objective wear-time assessment of removable orthodontic appliances</article-title>
+                  <source>Eur J Orthod</source>
+                  <year>2017</year>
+                  <volume>39</volume>
+                  <issue>2</issue>
+                  <fpage>170</fpage>
+                  <lpage>175</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ejo/cjw026</pub-id>
+                  <pub-id pub-id-type="pmid">27030283</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B13">
+                <label>13</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulz</surname>
+                      <given-names>KF</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                    <name>
+                      <surname>Moher</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <collab>Consort Group</collab>
+                  </person-group>
+                  <article-title>CONSORT 2010 Statement: updated guidelines for reporting parallel group randomized trials</article-title>
+                  <source>Open Med</source>
+                  <year>2010</year>
+                  <volume>4</volume>
+                  <issue>1</issue>
+                  <fpage>e60</fpage>
+                  <lpage>e68</lpage>
+                  <pub-id pub-id-type="pmid">21686296</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B14">
+                <label>14</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schott</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Ludwig</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Glasl</surname>
+                      <given-names>BA</given-names>
+                    </name>
+                    <name>
+                      <surname>Lisson</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A microsensor for monitoring removable-appliance wear</article-title>
+                  <source>J Clin Orthod</source>
+                  <year>2011</year>
+                  <volume>45</volume>
+                  <issue>9</issue>
+                  <fpage>518</fpage>
+                  <lpage>520</lpage>
+                  <pub-id pub-id-type="pmid">22094867</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B15">
+                <label>15</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Meireles</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Demarco</surname>
+                      <given-names>FF</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>IS</given-names>
+                    </name>
+                    <name>
+                      <surname>Dumith</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bona</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Validation and reliability of visual assessment with a shade guide for tooth-color classification</article-title>
+                  <source>Oper Dent</source>
+                  <year>2008</year>
+                  <volume>33</volume>
+                  <issue>2</issue>
+                  <fpage>121</fpage>
+                  <lpage>126</lpage>
+                  <pub-id pub-id-type="doi">10.2341/07-71</pub-id>
+                  <pub-id pub-id-type="pmid">18435184</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B16">
+                <label>16</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                    <name>
+                      <surname>Anchieta</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>PH</given-names>
+                    </name>
+                    <name>
+                      <surname>Briso</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Tovar</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Janal</surname>
+                      <given-names>MN</given-names>
+                    </name>
+                    <etal>et al</etal>
+                  </person-group>
+                  <article-title>Clinical comparison of at-home and in-office dental bleaching procedures: a randomized trial of a split-mouth design</article-title>
+                  <source>Int J Periodontics Restorative Dent</source>
+                  <year>2016</year>
+                  <volume>36</volume>
+                  <issue>2</issue>
+                  <fpage>251</fpage>
+                  <lpage>260</lpage>
+                  <pub-id pub-id-type="doi">10.11607/prd.2383</pub-id>
+                  <pub-id pub-id-type="pmid">26901303</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B17">
+                <label>17</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paravina</surname>
+                      <given-names>RD</given-names>
+                    </name>
+                    <name>
+                      <surname>Pérez</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ghinea</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Acceptability and perceptibility thresholds in dentistry: A comprehensive review of clinical and research applications</article-title>
+                  <source>J Esthet Restor Dent</source>
+                  <year>2019</year>
+                  <volume>31</volume>
+                  <issue>2</issue>
+                  <fpage>103</fpage>
+                  <lpage>112</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jerd.12465</pub-id>
+                  <pub-id pub-id-type="pmid">30891913</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B18">
+                <label>18</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>O’Neill</surname>
+                      <given-names>RT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Secondary endpoints cannot be validly analyzed if the primary endpoint does not demonstrate clear statistical significance</article-title>
+                  <source>Control Clin Trials</source>
+                  <year>1997</year>
+                  <volume>18</volume>
+                  <issue>6</issue>
+                  <fpage>550</fpage>
+                  <lpage>556</lpage>
+                  <pub-id pub-id-type="doi">10.1016/s0197-2456(97)00075-5</pub-id>
+                  <pub-id pub-id-type="pmid">9408717</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B19">
+                <label>19</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pannuti</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Sendyk</surname>
+                      <given-names>DI</given-names>
+                    </name>
+                    <name>
+                      <surname>Graças</surname>
+                      <given-names>YT</given-names>
+                    </name>
+                    <name>
+                      <surname>Takai</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Sabóia</surname>
+                      <given-names>VP</given-names>
+                    </name>
+                    <name>
+                      <surname>Romito</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <etal>et al</etal>
+                  </person-group>
+                  <article-title>Clinically relevant outcomes in dental clinical trials: challenges and proposals</article-title>
+                  <source>Braz Oral Res</source>
+                  <year>2020</year>
+                  <volume>34</volume>
+                  <issue>Suppl 2</issue>
+                  <elocation-id>e073</elocation-id>
+                  <pub-id pub-id-type="doi">10.1590/1807-3107bor-2020.vol34.0073</pub-id>
+                  <pub-id pub-id-type="pmid">32785483</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B20">
+                <label>20</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mailart</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferracioli</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Torres</surname>
+                      <given-names>CR</given-names>
+                    </name>
+                    <name>
+                      <surname>Palo</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Borges</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Hydrogen peroxide degradation of bleaching systems with different trays: randomized clinical trial</article-title>
+                  <source>Am J Dent</source>
+                  <year>2020</year>
+                  <volume>33</volume>
+                  <issue>2</issue>
+                  <fpage>89</fpage>
+                  <lpage>94</lpage>
+                  <pub-id pub-id-type="pmid">32259414</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B21">
+                <label>21</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Claxton</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cramer</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Pierce</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of the associations between dose regimens and medication compliance</article-title>
+                  <source>Clin Ther</source>
+                  <year>2001</year>
+                  <volume>23</volume>
+                  <issue>8</issue>
+                  <fpage>1296</fpage>
+                  <lpage>1310</lpage>
+                  <pub-id pub-id-type="doi">10.1016/s0149-2918(01)80109-0</pub-id>
+                  <pub-id pub-id-type="pmid">11558866</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B22">
+                <label>22</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                    <name>
+                      <surname>Mata</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Silveira</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <name>
+                      <surname>Amaral</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Guilherme</surname>
+                      <given-names>NF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Hydrogen peroxide release kinetics into saliva from different whitening products: a double-blind, randomized clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2012</year>
+                  <volume>16</volume>
+                  <issue>1</issue>
+                  <fpage>155</fpage>
+                  <lpage>163</lpage>
+                  <issue-id pub-id-type="doi">10.1007/s00784-010-0491-x</issue-id>
+                </element-citation>
+              </ref>
+              <ref id="B23">
+                <label>23</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kwon</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Wertz</surname>
+                      <given-names>PW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Review of the mechanism of tooth whitening</article-title>
+                  <source>J Esthet Restor Dent</source>
+                  <year>2015</year>
+                  <volume>27</volume>
+                  <issue>5</issue>
+                  <fpage>240</fpage>
+                  <lpage>257</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jerd.12152</pub-id>
+                  <pub-id pub-id-type="pmid">25969131</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B24">
+                <label>24</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aldana</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Wagner</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Frysh</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Baker</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <part-title>Inactivation of tooth whitener peroxide by oral fluids</part-title>
+                  <source>Abstracts of the Cariology/DMG/PTT/Periodontal Research Symposia</source>
+                  <year>1991</year>
+                  <publisher-loc>Chicago</publisher-loc>
+                  <publisher-name>American Dental Association</publisher-name>
+                  <comment>1991</comment>
+                  <size units="pages">424</size>
+                  <comment>abst</comment>
+                  <size units="pages">1266</size>
+                  <comment>Journal of Dental Research; vol. 70, no. 1, suppl</comment>
+                </element-citation>
+              </ref>
+              <ref id="B25">
+                <label>25</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Martini</surname>
+                      <given-names>EC</given-names>
+                    </name>
+                    <name>
+                      <surname>Parreiras</surname>
+                      <given-names>SO</given-names>
+                    </name>
+                    <name>
+                      <surname>Acuña</surname>
+                      <given-names>ED</given-names>
+                    </name>
+                    <name>
+                      <surname>Loguercio</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Reis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Does the use of reservoirs have any impact on the efficacy of at-home bleaching? A systematic review</article-title>
+                  <source>Braz Dent J</source>
+                  <year>2019</year>
+                  <volume>30</volume>
+                  <issue>3</issue>
+                  <fpage>285</fpage>
+                  <lpage>294</lpage>
+                  <pub-id pub-id-type="doi">10.1590/0103-6440201902422</pub-id>
+                  <pub-id pub-id-type="pmid">31166394</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B26">
+                <label>26</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Alonso de la Peña</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodriguez Carreira</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Corral Aneiros</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>López Ratón</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Guitián Rivera</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A study of in vivo degradation of two vital home bleaching gels</article-title>
+                  <source>Dent Mater J</source>
+                  <year>2013</year>
+                  <volume>32</volume>
+                  <issue>4</issue>
+                  <fpage>654</fpage>
+                  <lpage>658</lpage>
+                  <pub-id pub-id-type="doi">10.4012/dmj.2012-317</pub-id>
+                  <pub-id pub-id-type="pmid">23903650</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B27">
+                <label>27</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Matis</surname>
+                      <given-names>BA</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamdan</surname>
+                      <given-names>YS</given-names>
+                    </name>
+                    <name>
+                      <surname>Cochran</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Eckert</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A clinical evaluation of a bleaching agent used with and without reservoirs</article-title>
+                  <source>Oper Dent</source>
+                  <year>2002</year>
+                  <volume>27</volume>
+                  <issue>1</issue>
+                  <fpage>5</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="pmid">11817468</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B28">
+                <label>28</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Türkün</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Celik</surname>
+                      <given-names>EU</given-names>
+                    </name>
+                    <name>
+                      <surname>Aladağ</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Gökay</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>One-year clinical evaluation of the efficacy of a new daytime at-home bleaching technique</article-title>
+                  <source>J Esthet Restor Dent</source>
+                  <year>2010</year>
+                  <volume>22</volume>
+                  <issue>2</issue>
+                  <fpage>139</fpage>
+                  <lpage>146</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1708-8240.2010.00325.x</pub-id>
+                  <pub-id pub-id-type="pmid">20433566</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B29">
+                <label>29</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Darriba</surname>
+                      <given-names>IL</given-names>
+                    </name>
+                    <name>
+                      <surname>Cabirta Melón</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>García Sartal</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ríos Sousa</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Alonso de la Peña</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of treatment duration on the efficacy of at-home bleaching with daytime application: a randomized clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2019</year>
+                  <volume>23</volume>
+                  <issue>8</issue>
+                  <fpage>3229</fpage>
+                  <lpage>3237</lpage>
+                  <issue-id pub-id-type="doi">10.1007/s00784-018-2744-z</issue-id>
+                </element-citation>
+              </ref>
+              <ref id="B30">
+                <label>30</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Donassollo</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                    <name>
+                      <surname>Donassollo</surname>
+                      <given-names>TA</given-names>
+                    </name>
+                    <name>
+                      <surname>Coser</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Wilde</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Uehara</surname>
+                      <given-names>JLS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chisini</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                    <etal>et al</etal>
+                  </person-group>
+                  <article-title>Triple-blinded randomized clinical trial comparing efficacy and tooth sensitivity of in-office and at-home bleaching techniques</article-title>
+                  <source>J Appl Oral Sci</source>
+                  <year>2021</year>
+                  <volume>29</volume>
+                  <elocation-id>e20200794</elocation-id>
+                  <pub-id pub-id-type="doi">10.1590/1678-7757-2020-0794</pub-id>
+                  <pub-id pub-id-type="pmid">34614118</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="B31">
+                <label>31</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hannig</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindner</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Attin</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Efficacy and tolerability of two home bleaching systems having different peroxide delivery</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2007</year>
+                  <volume>11</volume>
+                  <issue>4</issue>
+                  <fpage>321</fpage>
+                  <lpage>329</lpage>
+                  <issue-id pub-id-type="doi">10.1007/s00784-007-0128-x</issue-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

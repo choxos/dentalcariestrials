@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:39:01Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8115863" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8115863</identifier>
+        <datestamp>2021-05-13</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8115863</article-id>
+              <article-id pub-id-type="pmcid">PMC8115863</article-id>
+              <article-id pub-id-type="pmc-uid">8115863</article-id>
+              <article-id pub-id-type="pmid">33980232</article-id>
+              <article-id pub-id-type="publisher-id">1594</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-021-01594-0</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Sedation versus protective stabilization for dental treatment of children with caries and challenging behavior at the dentist (CHOOSE): a study protocol for a non-randomized clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>da Silva</surname>
+                    <given-names>Gabriela Seabra</given-names>
+                  </name>
+                  <address>
+                    <email>gabi.seabra@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Anabuki</surname>
+                    <given-names>Anna Alice</given-names>
+                  </name>
+                  <address>
+                    <email>anna_anabuki@discente.ufg.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Viana</surname>
+                    <given-names>Karolline Alves</given-names>
+                  </name>
+                  <address>
+                    <email>karollineav@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Corrêa-Faria</surname>
+                    <given-names>Patricia</given-names>
+                  </name>
+                  <address>
+                    <email>patriciacorreafaria@ufg.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Moterane</surname>
+                    <given-names>Mônica Maia</given-names>
+                  </name>
+                  <address>
+                    <email>monicamoterane@discente.ufg.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tedesco</surname>
+                    <given-names>Tamara Kerber</given-names>
+                  </name>
+                  <address>
+                    <email>tamara.tedesco@ibirapuera.edu.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Costa</surname>
+                    <given-names>Paulo Sucasas</given-names>
+                  </name>
+                  <address>
+                    <email>paulosucasas@ufg.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hosey</surname>
+                    <given-names>Marie Therese</given-names>
+                  </name>
+                  <address>
+                    <email>m.t.hosey@kcl.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Raggio</surname>
+                    <given-names>Daniela Prócida</given-names>
+                  </name>
+                  <address>
+                    <email>danielar@usp.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7637-0049</contrib-id>
+                  <name>
+                    <surname>Costa</surname>
+                    <given-names>Luciane Rezende</given-names>
+                  </name>
+                  <address>
+                    <email>lsucasas@ufg.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <collab>CEDACORE Collaborative Group</collab>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.11899.38</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0722</institution-id><institution>Department of Pediatric Dentistry, School of Dentistry, </institution><institution>University of São Paulo, </institution></institution-wrap>São Paulo, Brazil </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.411195.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 2192 5801</institution-id><institution>Dentistry Graduate Program, </institution><institution>Universidade Federal de Goias, </institution></institution-wrap>Goiânia, GO Brazil </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.411493.a</institution-id><institution-id institution-id-type="ISNI">0000 0004 0386 9457</institution-id><institution>Graduate Program in Dentistry, </institution><institution>Ibirapuera University, </institution></institution-wrap>São Paulo, Brazil </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.411195.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 2192 5801</institution-id><institution>Faculty of Medicine, </institution><institution>Universidade Federal de Goias, </institution></institution-wrap>Goiânia, GO Brazil </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.13097.3c</institution-id><institution-id institution-id-type="ISNI">0000 0001 2322 6764</institution-id><institution>Pediatric Dentistry, Centre for Oral Clinical and Translational Sciences, Faculty of Dentistry, Oral and Craniofacial Sciences, </institution><institution>King’s College London, </institution></institution-wrap>London, UK </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.411195.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 2192 5801</institution-id><institution>Faculty of Dentistry, </institution><institution>Universidade Federal de Goias, </institution></institution-wrap>Primeira Avenida, s/n, Goiânia, GO CEP 74605-220 Brazil </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>12</day>
+                <month>5</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>12</day>
+                <month>5</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2021</year>
+              </pub-date>
+              <volume>21</volume>
+              <elocation-id>256</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>22</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>26</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">There is a lack of evidence on the effectiveness of moderate sedation in pediatric dentistry, compared to protective stabilization, which remains routinely used in Brazil despite moral questions. This prospective non-randomized clinical trial's objective is to evaluate the effectiveness of moderate sedation, compared to the protective stabilization, in the dental care of children with dental behavior management problems.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Participants will be 152 children under seven years of age with early childhood caries (ECC) who need specialized dental treatment due to a history of challenging behavior during dental care. The interventions to be compared are moderate sedation with oral administration of ketamine and midazolam and protective stabilization. The primary endpoint will be the child's behavior during treatment assessed using the Ohio State University Behavioral Rating Scale (OSUBRS). The secondary outcomes are (A) child's – behavior according to the visual analogue scale, anxiety, pain, and physiological stress; (B) parent's – satisfaction and anxiety; (C) family and child – impact on oral health-related quality of life (OHRQoL); (D) dentist's – satisfaction and stress; (E) procedure – adverse events of the intervention and dental treatment longevity. A cost-effectiveness analysis will be performed from the perspective of the Brazilian Unified Health System (SUS).</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">Considering the primary outcome, this study hypothesis is that sedated children have better behavior during dental treatment than children whose behavior was managed by protective stabilization without sedation. Additionally, at the end of 12 months, we expect to identify participants' reported outcomes and objective measures related to dental behavior in early childhood.</p>
+                  <p id="Par4"><italic>Trial registration</italic> Clinicaltrials.gov registration NCT04119180 on October 8th, 2019. <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04119180">https://clinicaltrials.gov/ct2/show/NCT04119180</ext-link></p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-021-01594-0.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Dental anxiety</kwd>
+                <kwd>Dental care for children</kwd>
+                <kwd>Dental caries</kwd>
+                <kwd>Conscious sedation</kwd>
+                <kwd>Physical restraint</kwd>
+                <kwd>Child behavior</kwd>
+                <kwd>Cost-effectiveness analysis</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100003593</institution-id>
+                      <institution>Conselho Nacional de Desenvolvimento Científico e Tecnológico</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>424339/2018-8</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>Luciane Rezende</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par19">Proper management of fear/anxiety (DFA) and behavioral problems during dental treatment (DBMP) are essential aspects of a humanized philosophy in caring for the child. The history of negative experience with dental treatment and age below five years of age are related to non-collaborative behavior in future consultations [<xref ref-type="bibr" rid="CR1">1</xref>].</p>
+              <p id="Par20">At least one child in ten presents some DFA degree that prevents his/her ability to tolerate dental treatment [<xref ref-type="bibr" rid="CR2">2</xref>]. Specifically, in Brazil, dental fear can affect 21.6% of Brazilian children [<xref ref-type="bibr" rid="CR3">3</xref>]. Advanced behavioral management methods for children with dental treatment needs and DFA or DBMP are sedation, protective stabilization, and general anesthesia [<xref ref-type="bibr" rid="CR4">4</xref>].</p>
+              <p id="Par21">Dental sedation benefits patients with dental fear and anxiety, minimizing pain and physical discomfort during treatment [<xref ref-type="bibr" rid="CR5">5</xref>]. Sedation can be minimal, moderate, or profound, depending on the level of depression of consciousness that the patient reaches. In moderate sedation, there is medication-induced depression of consciousness; patients respond to verbal commands, alone or accompanied by light tactile stimulation, and maintained cardiovascular function, with no need for intervention to support the airways [<xref ref-type="bibr" rid="CR6">6</xref>]. The efficacy analysis of such advanced methods (except for protective stabilization alone) was the subject of two Cochrane systematic reviews [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR7">7</xref>]. One concluded that there is some weak evidence that oral midazolam is an effective sedative agent for children undergoing dental treatment and that there is weak evidence that inhalation of nitrous oxide can also be effective [<xref ref-type="bibr" rid="CR5">5</xref>]. The other indicated no studies that allowed comparing the efficacy of sedation versus general anesthesia for dental treatment to children and adolescents under 18 years of age [<xref ref-type="bibr" rid="CR7">7</xref>]. The effect of behavioral management techniques in pediatric dentistry remains questionable [<xref ref-type="bibr" rid="CR8">8</xref>], even when it comes to non-pharmacological strategies [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>].</p>
+              <p id="Par22">In this sense, protective stabilization is a chapter apart. While it has its routine use in Brazil [<xref ref-type="bibr" rid="CR11">11</xref>], in the United Kingdom, the so-called Clinical Holding should only be used when there is an immediate need to perform a procedure on the child, provided that the person responsible consents and, if possible, the child agrees [<xref ref-type="bibr" rid="CR12">12</xref>]. In the United States, protective stabilization is restricted to urgent cases in which there is no alternative behavioral management option [<xref ref-type="bibr" rid="CR13">13</xref>]. Discussions in the Brazilian context indicate the ethical problems related to protective stabilization in pediatric dentistry. These concerns include lack of professionals’ training, failure to analyze risks and benefits, inconsistent indication, use in a wide variety of situations and non-urgent procedures, inattention with the caregivers' opinion, and inattention to the child’s autonomy [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+              <p id="Par23">However, to the best of our knowledge, no clinical trials comparing the use of sedation to protective stabilization in pediatric dentistry are available to date. This theme is essential for developing pediatric practice in Brazil and has a global impact since protective stabilization is still considered necessary for many countries. This prospective non-randomized clinical trial's objective is to evaluate the effectiveness of the use of moderate sedation, compared to protective stabilization, in the dental care of children with fear, anxiety, or behavior problems and identify associated factors.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <sec id="Sec3">
+                <title>Trial design</title>
+                <p id="Par24">According to the guideline Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT), the present protocol was reported, as detailed in Additional file <xref rid="MOESM1" ref-type="media">1</xref>.</p>
+                <p id="Par25">This investigation is a non-randomized, superiority, comparative, parallel, two-arm clinical trial (sedation and protective stabilization), with 1:1 allocation. The study is non-randomized due to sedation being available only in one of the centers. Similarly, it will not be possible to mask the interventions as they are vastly different.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Ethical considerations</title>
+                <p id="Par26">The protocol was approved by the local ethics committee from the Federal University of Goias (CAAE #14585219.5.0000.5083) and the School of Dentistry of the University of Sao Paulo (CAAE #14585219.5.3001.0075). It was recorded in the database for registration of clinical studies (Clinicaltrials.gov registration NCT04119180). Participants will be included after their legal guardians have signed an informed consent form containing detailed information about the research, and the children nod their participation. Because the studied population will be children with challenging behavior, their informed assent will be waived.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Study setting</title>
+                <p id="Par27">The study will take place in outpatient clinics of two dental schools that have Know-how about this research:<list list-type="bullet"><list-item><p id="Par28">Federal University of Goiás (UFG): this institution conducts sedation of children and adults for dental treatment, following international guidelines and providing adequate infrastructure.</p></list-item><list-item><p id="Par29">University of Sao Paulo (USP): in this institution, the advanced method "protective stabilization" is performed.</p></list-item></list></p>
+                <p id="Par30">Most patients referred to both institutions are from the Brazilian National Health System (SUS).</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Participants eligibility</title>
+                <p id="Par31">The study population is children two years to under seven years of age with dental caries, who need specialized dental treatment due to the history of challenging behavior (behavior management problem) with dental care, according to the criteria:</p>
+                <sec id="Sec7">
+                  <title>Inclusion</title>
+                  <p id="Par32">
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par33">Children presenting cavities that need dental restoration among other dental treatment needs;</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par34">Physical status ASA I (healthy) or II (mild and controlled systemic disease—persistent asthma, for example) children [<xref ref-type="bibr" rid="CR6">6</xref>];</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par35">Medical history without neurological or cognitive impairment;</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par36">Children who do not use medicines that may impair cognitive functions;</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par37">Children at low risk for airway obstruction (Mallampati less than two or tonsil hypertrophy occupying less than 50% of the oropharynx) [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+                      </list-item>
+                    </list>
+                  </p>
+                </sec>
+                <sec id="Sec8">
+                  <title>Exclusion</title>
+                  <p id="Par38">
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par39">Children with positive or definitely positive behavior [<xref ref-type="bibr" rid="CR16">16</xref>] in the dental examination session;</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par40">Non-attendance to the first intervention appointment after three scheduling attempts;</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par41">Chronic use of systemic corticosteroids because they influence the salivary cortisol that will represent physiological stress.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                </sec>
+              </sec>
+              <sec id="Sec9">
+                <title>Interventions</title>
+                <sec id="Sec10">
+                  <title>Moderate sedation</title>
+                  <p id="Par42">To be performed in NESO/UFG, with the association of midazolam (0.5 mg/kg, maximum 20 mg) and ketamine (4.0 mg/kg, maximum 100 mg) to be administered orally by a physician in the drug administration room. The leading accompanying adult should sit in the dental chair along with the child throughout the treatment.</p>
+                </sec>
+                <sec id="Sec11">
+                  <title>Protective stabilization</title>
+                  <p id="Par43">To be performed at USP, after informed consent from the parents. The leading accompanying adult should sit in the dental chair together with the child and restraint movements of legs and arms when needed. A dental assistant supports the child's head contained during the session.</p>
+                </sec>
+              </sec>
+              <sec id="Sec12">
+                <title>Changes</title>
+                <p id="Par44">The intervention with sedation may change according to the need of some participant in the following situations:<list list-type="bullet"><list-item><p id="Par45">When the child does not ingest oral medication, the drug association will be administered intranasally with an atomizer (ketamine 4.0 mg/kg, maximum 100 mg + midazolam 0.2 mg/kg, maximum 5 mg).</p></list-item><list-item><p id="Par46">When the child moves and jeopardizes his safety or treatment quality, he will receive protective stabilization in the sedation group.</p></list-item><list-item><p id="Par47">If the accompanying adult does not want to witness dental care, this will run as planned.</p></list-item><list-item><p id="Par48">If the child is suffering an adverse event from the drug at the first session or presenting challenging behavior throughout the session, the sedative regimen may be altered in the next appointment at the physician's discretion, or the child may be referred to general anesthesia instead.</p></list-item><list-item><p id="Par49">At the request of the legal guardian, if the latter is dissatisfied with the procedure.</p></list-item></list></p>
+                <p id="Par50">Children who receive protective stabilization may also have their care suspended at the legal guardian's request or when their behavior jeopardizes their safety or the quality of treatment.</p>
+                <p id="Par51">Regardless of any decision to modify or interrupt the intervention assigned, participants will be kept in the study whenever possible to collect monitoring data and avoid information loss.</p>
+              </sec>
+              <sec id="Sec13">
+                <title>Adherence</title>
+                <p id="Par52">The stimulus to the participant's adherence to the treatment and follow-up sessions will happen through contacts via mobile and social networks, humanized care, and clear explanations about the importance of their participation for their benefit. Losses are defined as non-attendance to follow-up consultations after three scheduling attempts.</p>
+              </sec>
+              <sec id="Sec14">
+                <title>Concomitant care</title>
+                <p id="Par53">The professionals will apply non-pharmacological behavioral management techniques in both groups according to the child's age and need, such as positive reinforcement and descriptive praise, ask-speak-ask, tell-show-do, non-verbal communication, memory restructuring, direct observation/modeling, distraction [<xref ref-type="bibr" rid="CR4">4</xref>]. Assertive voice control (can be potentially aversive) will not be recommended; associated use of nitrous oxide will not be allowed.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>First consultation and intervention consultation</title>
+                <p id="Par54">Certified pediatric dentists will perform the standardized dental examination, professional prophylaxis, and physical examination in both centers. At the same time, an assistant will note the diagnosis and the need for treatment (as detailed in the Additional file <xref rid="MOESM2" ref-type="media">2</xref>). During this procedure, non-pharmacological behavioral management methods will be used as necessary.</p>
+                <p id="Par55">If the child presents negative/definitively negative behavior [<xref ref-type="bibr" rid="CR16">16</xref>] in this consultation, he/she will be directly scheduled for the intervention visit. If a child has positive/definitely positive behavior during the examination, the pediatric dentist will restore one tooth (by using the Atraumatic Restorative Treatment restorative technique) to confirm the child's behavior in the face of more invasive stimuli. If positive behavior continues, the child will be excluded from the research but will continue to be routinely treated by the team. If the child demonstrates negative behavior, the child will be scheduled for the intervention visit with sedation (center UFG) or protective stabilization (center USP).</p>
+                <p id="Par56">The child will have his treatment completed in as many consultations as necessary, using sedation (UFG) or protective stabilization (USP). When the child concludes the treatment, he/she will be scheduled for return in four months. Figure <xref rid="Fig1" ref-type="fig">1</xref> displays the decision-making process and indicated treatments according to the diagnosis.<fig id="Fig1"><label>Fig. 1</label><caption><p>Organization chart of the decision-making process of teeth included in the trial</p></caption><graphic xlink:href="12903_2021_1594_Fig1_HTML" id="MO1"/></fig></p>
+              </sec>
+              <sec id="Sec16">
+                <title>Follow-up visits</title>
+                <p id="Par57">The child should return to the UFG or USP centers at four, eight, and 12 months for follow-up. If any need is noticed in the follow-up, one trained operator will perform the treatments. Oral hygiene instructions, diet sugar control, and fluoride use will be repeated every return visit for all children.</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Outcomes</title>
+                <p id="Par58">The primary outcome is the child's behavior, which will be assessed using the Ohio State University Behavioral Rating Scale (OSUBRS) in the digital videos recorded during the intervention [<xref ref-type="bibr" rid="CR17">17</xref>]. The analysis of the videos will be performed by trained and calibrated observers with the aid of the Observer XT software (Noldus Information Technology, The Netherlands), which allows evaluating the behavior in total during each session, obtaining the percentage of scores, being: 1 – quiet, 2 – cry without movement, 3 – movement without crying, and 4 – struggling. Measurements for each group will be synthesized as mean (or median) and standard deviation (or quartiles).</p>
+                <p id="Par59">The secondary outcomes are related to children's, families, and dentists' reports and other objective measures from the dental care (Table <xref rid="Tab1" ref-type="table">1</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Secondary outcomes and their respective analysis metrics</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Secondary outcome</th><th align="left">Participant level analysis metrics</th><th align="left">Aggregation method</th><th align="left">Measurement time</th></tr></thead><tbody><tr><td align="left">Child behavior, according to the dentist</td><td align="left">10 cm Visual Analogue Scale (VAS)</td><td align="left">Scores (ordinal scales)</td><td align="left">Per session: First consultation, treatment sessions, follow-up sessions of 4, 8, and 12 months</td></tr><tr><td align="left">Child anxiety</td><td align="left">Facial Image Scale (FIS)</td><td align="left">Scores (ordinal scale)</td><td align="left">Per session: First consultation, treatment sessions, follow-up sessions of 4, 8, and 12 months</td></tr><tr><td align="left">Oral health-related quality of life</td><td align="left">The Brazilian version of Early Childhood Oral Health Impact Scale (B-ECOHIS) [<xref ref-type="bibr" rid="CR18">18</xref>]</td><td align="left">Scores (ordinal scale)</td><td align="left">Per session: First consultation, follow-up sessions of 4, 8, and 12 months</td></tr><tr><td align="left">Parents' satisfaction and anxiety</td><td align="left">10 cm VAS</td><td align="left"> Scores (ordinal scale)</td><td align="left">At the end of each session</td></tr><tr><td align="left">Dentist's satisfaction and stress</td><td align="left">10 cm VAS</td><td align="left"> Scores (ordinal scale)</td><td align="left">At the end of each session</td></tr><tr><td align="left">Child pain perceived by the dentist</td><td align="left">10 cm VAS</td><td align="left"> Scores (ordinal scale)</td><td align="left">At the end of each session</td></tr><tr><td align="left">Child pain/distress according to observational scale</td><td align="left">Observational scale "The Faces, Legs, Activity, Cry and Consolability" Pain Assessment Tool, Brazilian version—FLACC [<xref ref-type="bibr" rid="CR19">19</xref>]</td><td align="left">Score (ordinal scale)</td><td align="left">At the end of the first treatment session (evaluation performed using the digital recording of the session)</td></tr><tr><td align="left">Adverse events for sedated participants</td><td align="left">Research instrument <italic>Tracking and Reporting Outcomes of Procedural Sedation</italic> TROOPS [<xref ref-type="bibr" rid="CR20">20</xref>]</td><td align="left">Frequency</td><td align="left">During sedation and recovery</td></tr><tr><td align="left">Unfavorable signs (protective stabilization)</td><td align="left">Specific form</td><td align="left">Frequency</td><td align="left">Shortly after the dental procedure</td></tr><tr><td align="left">The longevity of composite resin and glass ionomer cement restorations</td><td align="left">Criteria for evaluation of occlusal [<xref ref-type="bibr" rid="CR21">21</xref>] or occlusoproximal restorations [<xref ref-type="bibr" rid="CR22">22</xref>]</td><td align="left">Frequency (grouped categories in success/failure)</td><td align="left">After the intervention, follow-up sessions of 4, 8, and 12 months</td></tr><tr><td align="left">Child physiological stress</td><td align="left">Salivary cortisol concentration, in mg/dL</td><td align="left">Variation in cortisol levels during dental treatment (area under the curve)</td><td align="left">Per session, at pre-determined moments: at arrival at the treatment session, 25 min after the end of the procedure</td></tr></tbody></table></table-wrap></p>
+                <p id="Par60">Selected observers from both sites will be trained to assess children's behavior (OSUBRS) and pain/distress (FLACC) by collectively discussing the theory behind each tool and applying the scales to 10 videos from similar participants undergoing dental treatment recorded for previous studies. Then, observers will independently watch rounds of diverse five videos to score children's behavior and pain until we obtain a minimal inter-rater agreement (intraclass correlation coefficient) of 0.7. Having received a satisfactory inter-rater agreement, observers will score this trial’s videos (one video by one observer). Every two weeks, observers will analyze one in every five videos they evaluated before estimating the intra-rater agreement coefficient.</p>
+                <p id="Par61">Additionally, this study proposes an economic evaluation made from the payer's perspective (Brazilian National Health System), measuring the effect on children's behavior during the dental procedure according to the VAS assessed by the operator. An effectiveness analysis will compare the two behavioral management strategies according to the different available variables by measuring the costs (inputs) and consequences (results) of the interventions. An incremental cost-effectiveness analysis will be performed to classify the two strategies and verify the target population's health benefits [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>]. Direct costs for the two groups and professionals involved in the service will be identified, measured, and valued. We will not include the values for dental treatment performed, as these are included in the dentist's consultation time. Patient costs with transportation and time will not be analyzed. Each intervention's total cost will be estimated from official price lists regulated by the Ministry of Health.</p>
+              </sec>
+              <sec id="Sec18">
+                <title>Participants recruitment and timeline</title>
+                <p id="Par62">Recruitment was initially planned to occur from January 2020 to December 2021 but has been suspended during the national emergency proclamation concerning the Novel Coronavirus Disease (COVID-19) outbreak since March 2020. We anticipate resuming recruitment in August 2021. After allocation and treatment in one of the groups, these will be followed up for 12 months. The detailed timeline for data collection is summarized in Fig. <xref rid="Fig2" ref-type="fig">2</xref>.<fig id="Fig2"><label>Fig. 2</label><caption><p>Flow diagram of the clinical trial's phases</p></caption><graphic xlink:href="12903_2021_1594_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par63">In this prospective study, the participant will follow a systematic sequence of steps to collect data for the proposed outcomes (Table <xref rid="Tab2" ref-type="table">2</xref>).<table-wrap id="Tab2"><label>Table 2</label><caption><p>Schedule of inclusion and data collection for each participant, according to SPIRIT 2013</p></caption><graphic position="anchor" xlink:href="12903_2021_1594_Tab2_HTML" id="MO18"/><table-wrap-foot><p><sup>*</sup>The allocation is non-randomized; Sedation for UFG or protective stabilization for USP</p><p><sup>**</sup>Dental treatment under sedation or protective stabilization will be performed in as many sessions as are necessary to complete the procedures</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec19">
+                <title>Sample size</title>
+                <p id="Par64">Preliminary estimates indicate that, based on adults prescribed an anxiolytic, the minimum clinically relevant difference in the VAS scale is between 10 and 15 mm [<xref ref-type="bibr" rid="CR26">26</xref>]. This study would require a sample size of 63 for each group to achieve a power of 80% and a significance level of 5% (one-tailed) to detect an actual difference average between the intervention groups of 15 mm (assuming a grouped standard deviation of 30 units). To avoid significant losses in the final sample size, after 12 months of follow-up, we will add 20% to each group, which implies 76 children/group, i.e., a total sample size of 152 children.</p>
+                <p id="Par65">According to age, the estimated sample will be distributed in 38 children aged 2–3 years and 38 children of 4–6 years in each center to perform subgroup analysis.</p>
+                <p id="Par66">The sample size will be recalculated when the minimum number of 30 cases in each center is reached, based on the values observed in this study's conditions (interim analysis).</p>
+              </sec>
+              <sec id="Sec20">
+                <title>Data analysis</title>
+                <sec id="Sec21">
+                  <title>Statistical methods</title>
+                  <p id="Par67">Descriptive and bivariate analyses will be performed in the statistical software PrismaGraphPad and IBM SPSS, considering the significance level of 5%.</p>
+                  <p id="Par68">Data summaries (frequencies, means/standard deviation, or medians/quartiles) will be calculated, as appropriate, for demographic and socioeconomic, psychosocial, medical and dental history, strengths and difficulties questionnaire, and oral health-related quality of life measures.</p>
+                  <p id="Par69">Based on all children who attend the first intervention consultation, an intention-to-treat analysis will be used for the outcomes “percentage of quiet behavior (OSUBRS) during treatment”, “parents’ satisfaction”, and “operators’ satisfaction”, using the Student's t-test or Mann–Whitney as appropriate. We will define the value “zero” for OSUBRS when children have their first intervention consultation aborted (no completion of the planned dental procedure). Adverse events (sedation group) or unfavorable restraint signs (protective stabilization) will be described. In this stage, the control of missing data is not foreseen because if a participant does not attend the first intervention consultation, she/he will be excluded from the study. Subgroup analysis will be performed for ages, considering the primary outcome.</p>
+                  <p id="Par70">Secondary analyses will include, but are not limited to:<list list-type="bullet"><list-item><p id="Par71">Children's pain during dental procedures performed under sedation or protective stabilization (Student's t-test or Mann–Whitney test);</p></list-item><list-item><p id="Par72">Children’s behavior and anxiety progress throughout treatment and follow-up consultations (Cox regression);</p></list-item><list-item><p id="Par73">Impact on oral health-related quality of life, comparing the scores obtained in the follow-up sessions with those of baseline (Paired T-Test or Wilcoxon in pairs of moments and ANOVA or Friedman to assess more than two evaluation moments);</p></list-item><list-item><p id="Par74">Longevity of glass ionomer cement and composite resin restorations (Kaplan–Meier survival analysis with Log-rank test);</p></list-item></list></p>
+                  <p id="Par75">For the secondary analyses, cases of withdrawal (children do not attend the follow-up sessions) will be included by appropriate methods of the imputation of lost data.</p>
+                  <p id="Par76">A ratio or quotient will express the cost-effectiveness analysis results. The numerator is the cost and the denominator the effectiveness, i.e., costs per unit of effectiveness, in our study ‘quiet behavior'. The incremental cost-effectiveness ratio (ICER) will be calculated by dividing the mean difference in the cost of sedation of a child compared to the protective stabilization due to the difference in the median probability of success between the two groups.</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec id="Sec22">
+              <title>Discussion</title>
+              <p id="Par77">The United Nation's convention on children's rights underpins each child's entitlement to be treated safely and with dignity. In dentistry, this is especially important when behavioral management techniques are needed to manage those who have fear/anxiety or challenging behavior.</p>
+              <p id="Par78">There has been a decline in protective stabilization by American pediatric dentists [<xref ref-type="bibr" rid="CR27">27</xref>] in favor of pharmacological management, such as sedation [<xref ref-type="bibr" rid="CR28">28</xref>]. Non-specialist dentists in Norway understand that the use of restraint, although an ethical dilemma in pediatric dentistry, might be acceptable when it is integral to a conscious sedation procedure [<xref ref-type="bibr" rid="CR29">29</xref>]. However, protective stabilization alone is still considered necessary for several countries because of poorly developed access to sedation services; this is a particular dilemma for dentists treating children from underprivileged socioeconomic backgrounds. Indeed, Brazilian caregivers from this socioeconomic group were more likely to accept physical protective stabilization a second time for their children who had cognitive impairment [<xref ref-type="bibr" rid="CR30">30</xref>]. In such underprivileged contexts, active protective stabilization provokes emotional discomfort in dentists, mothers, and psychologists but is tolerated because it allows the children's dental treatment [<xref ref-type="bibr" rid="CR31">31</xref>]. More research on children’s challenging behavior management is needed to inform pediatric dental services in Brazil and other countries with similar contexts.</p>
+              <p id="Par79">To the best of our knowledge, this is the first clinical trial to evaluate and compare the effectiveness of moderate sedation with protective stabilization for children with fear/anxiety or dental behavior problems needing dental care. Cost-effectiveness will also be assessed as a secondary outcome to inform sedation dental health service development in Brazil.</p>
+              <p id="Par80">This clinical trial will be case-matched rather than randomized due to sedation being available only in the UFG center, a place with infrastructure, equipment, and professionals trained and qualified to develop ambulatory sedation. Similarly, as the interventions are quite different, they will not be possible to blind. In each center, multiple operators will provide the interventions; therefore, they will be trained to the needed routine to minimize service differences between operators.</p>
+              <p id="Par81">The primary outcome (children's behavior according to OSUBRS) will be assessed by trained, calibrated observers with a methodology that has been proved helpful in a previous investigation [<xref ref-type="bibr" rid="CR32">32</xref>]. The OSUBRS is a tool that offers a precise measurement of the child's behavior during dental care but is not feasible in the day-to-day clinic, as it requires a lot of effort for application because it depends on videos and specific software [<xref ref-type="bibr" rid="CR33">33</xref>]. Additionally, we are assessing children's behavior according to a VAS reported by the dentist. VAS was used to estimate the sample size in this study preliminarily because we do not have OSUBRS estimates in non-sedated children. Most importantly, it is an adequate measure to quickly assess children's dental anxiety during dental treatment from the operator's perspective [<xref ref-type="bibr" rid="CR34">34</xref>].</p>
+              <p id="Par82">We will investigate outcomes related to the patient's (child/family) and the practitioners’ views, thus complying with the recommendations from the Cochrane systematic review on pediatric dental sedation [<xref ref-type="bibr" rid="CR4">4</xref>]. Moreover, we propose to measure children's anxiety and behavior both at baseline and at follow-up, providing further strength through longitudinal data [<xref ref-type="bibr" rid="CR4">4</xref>]. Compared to other studies, we will avoid carry-over bias since a crossover design will not be employed [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR35">35</xref>].</p>
+              <p id="Par83">Thus, our study wishes to answer whether sedated children have better behavior during dental treatment than those undergoing protective stabilization. If this hypothesis is supported, this non-randomized clinical trial will offer new knowledge in child dental health care and provide evidence to inform service development both in Brazil and worldwide.</p>
+              <sec id="Sec23">
+                <title>Trial status</title>
+                <p id="Par84">The trial has been recruiting participants since January 2020 but is now suspended because of the COVID-19 outbreak. The end of the recruitment phase is planned for December 2021.</p>
+              </sec>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary Information</title>
+              <sec id="Sec24">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2021_1594_MOESM1_ESM.pdf">
+                      <caption>
+                        <p><bold>Additional file 1</bold>. SPIRIT checklist.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM2">
+                    <media xlink:href="12903_2021_1594_MOESM2_ESM.docx">
+                      <caption>
+                        <p><bold>Additional file 2</bold>. Details of clinical and laboratory procedures.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>B-ECOHIS</term>
+                  <def>
+                    <p id="Par5">Brazilian version of Early Childhood Oral Health Impact Scale</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CEDACORE</term>
+                  <def>
+                    <p id="Par6">Children Experiencing Dental Anxiety—Collaboration on Research and Education</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CHOOSE</term>
+                  <def>
+                    <p id="Par7">Clinical holding or/and sedation</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DBMP</term>
+                  <def>
+                    <p id="Par8">Dental behavior management problem</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DFA</term>
+                  <def>
+                    <p id="Par9">Dental fear/anxiety</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FIS</term>
+                  <def>
+                    <p id="Par10">Facial Image Scale</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FLACC</term>
+                  <def>
+                    <p id="Par11">"The Faces, Legs, Activity, Cry and Consolability" Pain Assessment Tool</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FOUSP</term>
+                  <def>
+                    <p id="Par12">University of São Paulo School of Dentistry</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HVGIC</term>
+                  <def>
+                    <p id="Par13">High-viscosity glass ionomer cement</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>NESO</term>
+                  <def>
+                    <p id="Par14">(UFG dental sedation center “Núcleo de Estudos em Sedação Odontológica”)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SPIRIT</term>
+                  <def>
+                    <p id="Par15">Standard Protocol Items for Clinical Trials</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SUS</term>
+                  <def>
+                    <p id="Par16">Brazilian National Health System</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>UFG</term>
+                  <def>
+                    <p id="Par17">Federal University of Goiás (“Universidade Federal de Goiás”)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VAS</term>
+                  <def>
+                    <p id="Par18">Visual Analogue Scale</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The CEDACORE group investigators (Children Experiencing Dental Anxiety – Collaboration on Research and Education) that have participated in this study are: Gabriela Seabra da Silva, Anna Alice Anabuki, Karolline Alves Viana, Patricia Corrêa- Faria, Mônica Maia Moterane, Tamara Kerber Tedesco, Paulo Sucasas Costa, Marie Therese Hosey, Daniela Prócida Raggio, Luciane Rezende Costa.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors' contributions</title>
+              <p>DPR, LRC, PSC, MTH contributed to the conception of this trial. DPR is the trial coordinator, and LRC is the principal investigator. DPR, LRC, GSS, AAA, KAV, PCF, MMM, TKT drafted the protocol. GSS, AAA, KAV, PCF, MMM, TKT, PSC are responsible for the study data acquisition. GSS, AAA, KAV, PCF, MMM, TKT, PSC are responsible for patient evaluations over time. All authors critically reviewed and approved the final manuscript as submitted. All authors agreed to be personally accountable for their contributions and ensure that questions related to any part of the work's integrity are appropriately investigated, resolved, and documented in the literature. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>The authors would like to thank the <italic>Conselho Nacional de Desenvolvimento Científico e Tecnológico — CNPq—Chamada Universal</italic> (Grant # 424339/2018-8) for funding this trial and also for providing research scholarships to DPR and LRC, and postgraduate scholarships to AAA and MMM. CNPq does not play a role in the study's design and collection, data analysis and interpretation, and manuscript writing.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The datasets used or analyzed during the current study will be available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par85">Ethical approval has been granted by the Ethical Committees from the Federal University of Goias and the School of Dentistry, University of São Paulo (CAAE 14585219.5.0000.5083). The children's parents or legal guardians signed an informed consent term before trial inclusion. Literate children also signed an assent form before the inclusion.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par86">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par87">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mitchual</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>da Fonseca</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Raja</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Weatherspoon</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Koerber</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Association between childhood traumatic stress and behavior in the pediatric dental clinic</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2017</year>
+                  <volume>39</volume>
+                  <issue>3</issue>
+                  <fpage>203</fpage>
+                  <lpage>208</lpage>
+                  <?supplied-pmid 28583244?>
+                  <pub-id pub-id-type="pmid">28583244</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cianetti</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Lombardo</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Lupatelli</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Pagano</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Abraha</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Montedori</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Caruso</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Gatto</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>De Giorgio</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Salvato</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dental fear/anxiety among children and adolescents. A systematic review</article-title>
+                  <source>Eur J Paediatr Dent.</source>
+                  <year>2017</year>
+                  <volume>18</volume>
+                  <issue>2</issue>
+                  <fpage>121</fpage>
+                  <lpage>130</lpage>
+                  <?supplied-pmid 28598183?>
+                  <pub-id pub-id-type="pmid">28598183</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>VPP</given-names>
+                    </name>
+                    <name>
+                      <surname>Correa</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Goettems</surname>
+                      <given-names>ML</given-names>
+                    </name>
+                    <name>
+                      <surname>Pinheiro</surname>
+                      <given-names>RT</given-names>
+                    </name>
+                    <name>
+                      <surname>DeMarco</surname>
+                      <given-names>FF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Maternal depression and anxiety associated with dental fear in children: a cohort of adolescent mothers in Southern Brazil</article-title>
+                  <source>Braz Oral Res</source>
+                  <year>2017</year>
+                  <volume>31</volume>
+                  <fpage>E85</fpage>
+                  <?supplied-pmid 29116297?>
+                  <pub-id pub-id-type="pmid">29116297</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <mixed-citation publication-type="other">American Academy of Pediatric Dentistry. Behavior guidance for the pediatric dental patient. The Reference Manual of Pediatric Dentistry. Chicago: American Academy of Pediatric Dentistry; 2020:292–310.</mixed-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ashley</surname>
+                      <given-names>PF</given-names>
+                    </name>
+                    <name>
+                      <surname>Chaudhary</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Lourenço-Matharu</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Sedation of children undergoing dental treatment</article-title>
+                  <source>Cochrane Database Syst Rev</source>
+                  <year>2018</year>
+                  <volume>12</volume>
+                  <issue>12</issue>
+                  <fpage>CD003877</fpage>
+                  <?supplied-pmid 30566228?>
+                  <pub-id pub-id-type="pmid">30566228</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <mixed-citation publication-type="other">American Society of Anesthesiologists. ASA Physical Status Classification System. 2015. <ext-link ext-link-type="uri" xlink:href="https://www.asahq.org/standards-and-guidelines/asa-physical-status-classification-system">https://www.asahq.org/standards-and-guidelines/asa-physical-status-classification-system</ext-link>. Access 10 Nov 2018.</mixed-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ashley</surname>
+                      <given-names>PF</given-names>
+                    </name>
+                    <name>
+                      <surname>Williams</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Moles</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>Parry</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Sedation versus general anaesthesia for provision of dental treatment to patients younger than 18 years</article-title>
+                  <source>Cochrane Syst Database Rev</source>
+                  <year>2015</year>
+                  <volume>9</volume>
+                  <fpage>CD006334</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mejàre</surname>
+                      <given-names>IA</given-names>
+                    </name>
+                    <name>
+                      <surname>Klingberg</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Mowafi</surname>
+                      <given-names>FK</given-names>
+                    </name>
+                    <name>
+                      <surname>Stecksén-blicks</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Twetman</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                    <name>
+                      <surname>Tranæus</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic map of systematic reviews in pediatric dentistry—what do we really know?</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2015</year>
+                  <volume>10</volume>
+                  <issue>2</issue>
+                  <fpage>e0117537</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0117537</pub-id>
+                  <pub-id pub-id-type="pmid">25706629</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goettems</surname>
+                      <given-names>ML</given-names>
+                    </name>
+                    <name>
+                      <surname>Zborowski</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>FD</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>VP</given-names>
+                    </name>
+                    <name>
+                      <surname>Torriani</surname>
+                      <given-names>DD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nonpharmacologic intervention on the prevention of pain and anxiety during pediatric dental care: a systematic review</article-title>
+                  <source>AcadPediatr</source>
+                  <year>2017</year>
+                  <volume>17</volume>
+                  <issue>2</issue>
+                  <fpage>110</fpage>
+                  <lpage>119</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gomes</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                    <name>
+                      <surname>Viana</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                    <name>
+                      <surname>Batista</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>LR</given-names>
+                    </name>
+                    <name>
+                      <surname>Hosey</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>Newton</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cognitive Behaviour Therapy for anxious paediatric dental patients: a systematic review</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2018</year>
+                  <volume>28</volume>
+                  <fpage>422</fpage>
+                  <lpage>431</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12405</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Minhoto</surname>
+                      <given-names>TB</given-names>
+                    </name>
+                    <name>
+                      <surname>Perazzo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Neves</surname>
+                      <given-names>LBP</given-names>
+                    </name>
+                    <name>
+                      <surname>Granville-Garcia</surname>
+                      <given-names>AF</given-names>
+                    </name>
+                    <name>
+                      <surname>Torres</surname>
+                      <given-names>BO</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferreira</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Odontopediatras and aversive techniques in the control of child behavior</article-title>
+                  <source>Rev FAC Odont Passo Fund</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <issue>3</issue>
+                  <fpage>312</fpage>
+                  <lpage>317</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <mixed-citation publication-type="other">Allen Y, Thillainathan S, Bellis W, Master S. British Society of Paediatric Dentistry: a policy document on the use of Clinical Holding in the dental care of children. 2016. /<ext-link ext-link-type="uri" xlink:href="http://www.bspd.co.uk/Portals/0/BSPD%20clinical%20holding%20guidelines%20final%20with%20flow%20chart%20250416.pdf">www.bspd.co.uk/Portals/0/BSPD%20clinical%20holding%20guidelines%20final%20with%20flow%20chart%20250416.pdf</ext-link>. Access 10 Sept 2018.</mixed-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <mixed-citation publication-type="other">Protective stabilization for pediatric dental patients. Pediatr Dent. 2017;39(6):260–5.</mixed-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>GCM</given-names>
+                    </name>
+                    <name>
+                      <surname>Mundim</surname>
+                      <given-names>AP</given-names>
+                    </name>
+                    <name>
+                      <surname>Prado</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Campos</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>LR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Does protective stabilization of children during dental treatment break ethical boundaries? A narrative literature review</article-title>
+                  <source>Oral Health Dent Manag</source>
+                  <year>2015</year>
+                  <volume>14</volume>
+                  <issue>4</issue>
+                  <fpage>188</fpage>
+                  <lpage>193</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mallampati</surname>
+                      <given-names>SR</given-names>
+                    </name>
+                    <name>
+                      <surname>Gatt</surname>
+                      <given-names>SP</given-names>
+                    </name>
+                    <name>
+                      <surname>Gugino</surname>
+                      <given-names>LD</given-names>
+                    </name>
+                    <name>
+                      <surname>Desai</surname>
+                      <given-names>SP</given-names>
+                    </name>
+                    <name>
+                      <surname>Waraksa</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Freiberger</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A clinical sign to predict difficult tracheal intubation</article-title>
+                  <source>Can Anaesth Soc J</source>
+                  <year>1985</year>
+                  <volume>32</volume>
+                  <issue>4</issue>
+                  <fpage>429</fpage>
+                  <lpage>434</lpage>
+                  <pub-id pub-id-type="doi">10.1007/BF03011357</pub-id>
+                  <pub-id pub-id-type="pmid">4027773</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Frankl</surname>
+                      <given-names>SN</given-names>
+                    </name>
+                    <name>
+                      <surname>Shiere</surname>
+                      <given-names>FR</given-names>
+                    </name>
+                    <name>
+                      <surname>Fogels</surname>
+                      <given-names>HR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Should the parent remain in the operatory?</article-title>
+                  <source>J Dent Child</source>
+                  <year>1962</year>
+                  <volume>29</volume>
+                  <fpage>150</fpage>
+                  <lpage>163</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lochary</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Wilson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Griffen</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Coury</surname>
+                      <given-names>DL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Temperament as a predictor of behavior for conscious sedation in dentistry</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>1993</year>
+                  <volume>15</volume>
+                  <issue>5</issue>
+                  <fpage>348</fpage>
+                  <lpage>352</lpage>
+                  <?supplied-pmid 8302673?>
+                  <pub-id pub-id-type="pmid">8302673</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Scarpelli</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Oliveira</surname>
+                      <given-names>BH</given-names>
+                    </name>
+                    <name>
+                      <surname>Tesch</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Leo</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                    <name>
+                      <surname>Pordeus</surname>
+                      <given-names>IA</given-names>
+                    </name>
+                    <name>
+                      <surname>Paiva</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Psychometric properties of the Brazilian version of the Early Childhood Oral Health Impact Scale (B-ECOHIS)</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2011</year>
+                  <volume>11</volume>
+                  <fpage>19</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1472-6831-11-19</pub-id>
+                  <pub-id pub-id-type="pmid">21668959</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Silva</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Thuler</surname>
+                      <given-names>LC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cross-cultural adaptation and translation of two pain assessment tools in children and adolescents</article-title>
+                  <source>J Pediatr (Rio J)</source>
+                  <year>2008</year>
+                  <volume>84</volume>
+                  <issue>4</issue>
+                  <fpage>344</fpage>
+                  <lpage>349</lpage>
+                  <pub-id pub-id-type="pmid">18688551</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Roback</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Green</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Andolfatto</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Leroy</surname>
+                      <given-names>PL</given-names>
+                    </name>
+                    <name>
+                      <surname>Mason</surname>
+                      <given-names>KP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tracking and reporting outcomes of procedural sedation (TROOPS): standardized quality improvement and research tools from the international committee for the advancement of procedural sedation</article-title>
+                  <source>Br J Anaesth</source>
+                  <year>2018</year>
+                  <volume>120</volume>
+                  <issue>1</issue>
+                  <fpage>164</fpage>
+                  <lpage>172</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.bja.2017.08.004</pub-id>
+                  <pub-id pub-id-type="pmid">29397125</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Frencken</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Holmgren</surname>
+                      <given-names>CJ</given-names>
+                    </name>
+                  </person-group>
+                  <source>Tratamento restaurador atraumático para a cárie dentária</source>
+                  <year>2001</year>
+                  <publisher-loc>São Paulo</publisher-loc>
+                  <publisher-name>Editora Santos</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Roeleveld</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>van Amerongen</surname>
+                      <given-names>WE</given-names>
+                    </name>
+                    <name>
+                      <surname>Mandari</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of residual caries and cervical gaps on the survival rate of class II glass ionomer restorations</article-title>
+                  <source>Eur Arch Paediatr Dent</source>
+                  <year>2006</year>
+                  <volume>7</volume>
+                  <fpage>85</fpage>
+                  <lpage>90</lpage>
+                  <pub-id pub-id-type="doi">10.1007/BF03320820</pub-id>
+                  <pub-id pub-id-type="pmid">17140533</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ottoni</surname>
+                      <given-names>GL</given-names>
+                    </name>
+                    <name>
+                      <surname>Antoniolli</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Lara</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Circadian Energy Scale (cirens): two simple questions for a reliable current measurement based on energy</article-title>
+                  <source>Chronobiol Int</source>
+                  <year>2011</year>
+                  <volume>28</volume>
+                  <fpage>229</fpage>
+                  <lpage>237</lpage>
+                  <pub-id pub-id-type="doi">10.3109/07420528.2011.553696</pub-id>
+                  <pub-id pub-id-type="pmid">21452918</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <mixed-citation publication-type="other">Brazil. Ministry of Health. Executive Secretariat. Area of health and development economics. Evaluation of health technologies: tools for the management of SUS/Ministry of Health, executive Secretariat, Sector of Health Economics and Development. Brasilia: Ministry of Health, 2009.</mixed-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Drummond</surname>
+                      <given-names>MF</given-names>
+                    </name>
+                    <name>
+                      <surname>O'Brien</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Stoddart</surname>
+                      <given-names>GL</given-names>
+                    </name>
+                    <name>
+                      <surname>Torrance</surname>
+                      <given-names>GW</given-names>
+                    </name>
+                  </person-group>
+                  <source>Methods for the economic evaluation of health care programmes</source>
+                  <year>2005</year>
+                  <edition>3</edition>
+                  <publisher-loc>New York</publisher-loc>
+                  <publisher-name>Oxford University Press</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Williams</surname>
+                      <given-names>VS</given-names>
+                    </name>
+                    <name>
+                      <surname>Morlock</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Feltner</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Psychometric evaluation of a visual analog scale for the assessment of anxiety</article-title>
+                  <source>Health Qual Life Outcomes</source>
+                  <year>2010</year>
+                  <volume>8</volume>
+                  <fpage>57</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1477-7525-8-57</pub-id>
+                  <pub-id pub-id-type="pmid">20529361</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wilson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Houpt</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Project USAP 2010: use of sedative agents in pediatric dentistry-a 25-year follow up survey</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2016</year>
+                  <volume>38</volume>
+                  <issue>2</issue>
+                  <fpage>127</fpage>
+                  <lpage>133</lpage>
+                  <?supplied-pmid 27097861?>
+                  <pub-id pub-id-type="pmid">27097861</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>White</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Wells</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Arheart</surname>
+                      <given-names>KL</given-names>
+                    </name>
+                    <name>
+                      <surname>Donaldson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Woods</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A questionnaire of parental perceptions of conscious sedation in pediatric dentistry</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2016</year>
+                  <volume>38</volume>
+                  <issue>2</issue>
+                  <fpage>116</fpage>
+                  <lpage>121</lpage>
+                  <?supplied-pmid 27097859?>
+                  <pub-id pub-id-type="pmid">27097859</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aarvik</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Agdal</surname>
+                      <given-names>ML</given-names>
+                    </name>
+                    <name>
+                      <surname>Svendsen</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Restraint in paediatric dentistry: a qualitative study to explore perspectives among public, non-specialist dentists in Norway</article-title>
+                  <source>Acta Odontol Scand.</source>
+                  <year>2021</year>
+                  <volume>15</volume>
+                  <fpage>1</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016357.2021.1881159</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Oliveira</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Paiva</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Pordeus</surname>
+                      <given-names>IA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Parental acceptance of restraint methods used for children with intellectual disabilities during dental care</article-title>
+                  <source>Spec Care Dentist</source>
+                  <year>2007</year>
+                  <volume>27</volume>
+                  <issue>6</issue>
+                  <fpage>222</fpage>
+                  <lpage>226</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1754-4505.2007.tb01753.x</pub-id>
+                  <pub-id pub-id-type="pmid">18683803</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <mixed-citation publication-type="other">Ilha MC, Feldens CA, Razera J, Vivian AG, de Rosa Barros Coelho EM, Kramer PF. Protective stabilization in pediatric dentistry: a qualitative study on the perceptions of mothers, psychologists, and pediatric dentists. Int J Paediatr Dent. 2020.
+</mixed-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sado-Filho</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Viana</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                    <name>
+                      <surname>Corrêa-Faria</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>LR</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>PS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Randomized clinical trial on the efficacy of intranasal or oral ketamine-midazolam combinations compared to oral midazolam for outpatient pediatric sedation</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2019</year>
+                  <volume>14</volume>
+                  <issue>3</issue>
+                  <fpage>e0213074</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0213074</pub-id>
+                  <pub-id pub-id-type="pmid">30856181</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moura</surname>
+                      <given-names>LD</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>PS</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>LR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>How do observational scales correlate the ratings of children's behavior during pediatric procedural sedation?</article-title>
+                  <source>Biomed Res Int</source>
+                  <year>2016</year>
+                  <volume>2016</volume>
+                  <fpage>5248271</fpage>
+                  <pub-id pub-id-type="doi">10.1155/2016/5248271</pub-id>
+                  <pub-id pub-id-type="pmid">28116299</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hosey</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>Blinkhorn</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>An evaluation of four methods of assessing the behaviour of anxious child dental patients</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>1995</year>
+                  <volume>5</volume>
+                  <issue>2</issue>
+                  <fpage>87</fpage>
+                  <lpage>95</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-263X.1995.tb00170.x</pub-id>
+                  <pub-id pub-id-type="pmid">7547819</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gomes</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                    <name>
+                      <surname>Daher</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>PS</given-names>
+                    </name>
+                    <name>
+                      <surname>Batista</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>LR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Crossover studies of pediatric dental sedation are inappropriate</article-title>
+                  <source>Braz Dent J</source>
+                  <year>2019</year>
+                  <volume>30</volume>
+                  <issue>4</issue>
+                  <fpage>404</fpage>
+                  <lpage>409</lpage>
+                  <pub-id pub-id-type="doi">10.1590/0103-6440201902852</pub-id>
+                  <pub-id pub-id-type="pmid">31340232</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

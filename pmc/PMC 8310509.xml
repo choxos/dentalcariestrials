@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:38:26Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8310509" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8310509</identifier>
+        <datestamp>2021-07-27</datestamp>
+        <setSpec>springeropen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Investig</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Investig</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Investigations</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1432-6981</issn>
+              <issn pub-type="epub">1436-3771</issn>
+              <publisher>
+                <publisher-name>Springer Berlin Heidelberg</publisher-name>
+                <publisher-loc>Berlin/Heidelberg</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8310509</article-id>
+              <article-id pub-id-type="pmcid">PMC8310509</article-id>
+              <article-id pub-id-type="pmc-uid">8310509</article-id>
+              <article-id pub-id-type="pmid">33483868</article-id>
+              <article-id pub-id-type="pmid">33483868</article-id>
+              <article-id pub-id-type="publisher-id">3781</article-id>
+              <article-id pub-id-type="doi">10.1007/s00784-021-03781-3</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Impact of 0.1% octenidine mouthwash on plaque re-growth in healthy adults: a multi-center phase 3 randomized clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Jockel-Schneider</surname>
+                    <given-names>Yvonne</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Schlagenhauf</surname>
+                    <given-names>Ulrich</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Petsos</surname>
+                    <given-names>Hari</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rüttermann</surname>
+                    <given-names>Stefan</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Schmidt</surname>
+                    <given-names>Jana</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ziebolz</surname>
+                    <given-names>Dirk</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Wehner</surname>
+                    <given-names>Christian</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Laky</surname>
+                    <given-names>Markus</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rott</surname>
+                    <given-names>Thea</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Noack</surname>
+                    <given-names>Michael</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Noack</surname>
+                    <given-names>Barbara</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0228-6140</contrib-id>
+                  <name>
+                    <surname>Lorenz</surname>
+                    <given-names>Katrin</given-names>
+                  </name>
+                  <address>
+                    <email>katrin.lorenz@tu-dresden.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.411760.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 1378 7891</institution-id><institution>Department of Periodontology, </institution><institution>University Hospital Wuerzburg, </institution></institution-wrap>Pleicherwall 2, 97070 Wuerzburg, Germany </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.7839.5</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9721</institution-id><institution>Department of Periodontology, </institution><institution>Johann Wolfgang Goethe-Universität Frankfurt am Main, </institution></institution-wrap>Theodor-Stern-Kai 7, 60596 Frankfurt am Main, Germany </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7839.5</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9721</institution-id><institution>Department of Conservative Dentistry, </institution><institution>Johann Wolfgang Goethe-Universität Frankfurt am Main, </institution></institution-wrap>Theodor-Stern-Kai 7, 60596 Frankfurt am Main, Germany </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.9647.c</institution-id><institution-id institution-id-type="ISNI">0000 0004 7669 9786</institution-id><institution>Department of Cariology, Endodontology and Periodontology, </institution><institution>University of Leipzig, </institution></institution-wrap>Liebigstraße 12, 04103 Leipzig, Germany </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.22937.3d</institution-id><institution-id institution-id-type="ISNI">0000 0000 9259 8492</institution-id><institution>Division of Conservative Dentistry and Periodontology, </institution><institution>Medical University of Vienna, </institution></institution-wrap>Sensengasse 2a, 1090 Wien, Austria </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.6190.e</institution-id><institution-id institution-id-type="ISNI">0000 0000 8580 3777</institution-id><institution>Department of Operative Dentistry and Periodontology, </institution><institution>University of Cologne, </institution></institution-wrap>Kerpener Str. 32, 50931 Köln, Germany </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="GRID">grid.4488.0</institution-id><institution-id institution-id-type="ISNI">0000 0001 2111 7257</institution-id><institution>Department of Periodontology, </institution><institution>Technische Universität Dresden, </institution></institution-wrap>Fetscherstr. 74, 01307 Dresden, Germany </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>22</day>
+                <month>1</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>22</day>
+                <month>1</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <year>2021</year>
+              </pub-date>
+              <volume>25</volume>
+              <issue>7</issue>
+              <fpage>4681</fpage>
+              <lpage>4689</lpage>
+              <history>
+                <date date-type="received">
+                  <day>27</day>
+                  <month>8</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="accepted">
+                  <day>6</day>
+                  <month>1</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Objectives</title>
+                  <p id="Par1">To investigate plaque inhibition of 0.1% octenidine mouthwash (OCT) vs. placebo over 5 days in the absence of mechanical plaque control.</p>
+                </sec>
+                <sec>
+                  <title>Materials and methods</title>
+                  <p id="Par2">For this randomized, placebo-controlled, double-blind, parallel group, multi-center phase 3 study, 201 healthy adults were recruited. After baseline recording of plaque index (PI) and gingival index (GI), collection of salivary samples, and dental prophylaxis, subjects were randomly assigned to OCT or placebo mouthwash in a 3:1 ratio. Rinsing was performed twice daily for 30 s. Colony forming units in saliva were determined before and after the first rinse. At day 5, PI, GI, and tooth discoloration index (DI) were assessed. Non-parametric van Elteren tests were applied with a significance level of <italic>p</italic> &lt; 0.05.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">Treatment with OCT inhibited plaque formation more than treatment with placebo (PI: 0.36 vs. 1.29; <italic>p</italic> &lt; 0.0001). OCT reduced GI (0.04 vs. placebo 0.00; <italic>p</italic> = 0.003) and salivary bacterial counts (2.73 vs. placebo 0.24 lgCFU/ml; <italic>p</italic> &lt; 0.0001). Tooth discoloration was slightly higher under OCT (DI: 0.25 vs. placebo 0.00; <italic>p</italic> = 0.0011). Mild tongue staining and dysgeusia occurred.</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">OCT 0.1% mouthwash inhibits plaque formation over 5 days. It therefore can be recommended when regular oral hygiene is temporarily compromised.</p>
+                </sec>
+                <sec>
+                  <title>Clinical relevance</title>
+                  <p id="Par5">When individual plaque control is compromised, rinsing with octenidine mouthwash is recommended to maintain healthy oral conditions while side effects are limited.</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1007/s00784-021-03781-3.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Octenidine</kwd>
+                <kwd>Mouthrinse</kwd>
+                <kwd>Bacterial counts</kwd>
+                <kwd>Plaque index</kwd>
+                <kwd>Gingival index</kwd>
+                <kwd>Discoloration index</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Schülke &amp; Mayr GmbH (DE)</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© Springer-Verlag GmbH Germany, part of Springer Nature 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par6">Antiseptic mouthwashes are commonly used in oral home care. They are recommended particularly in situations where the performance of efficacious mechanical plaque control is temporarily or permanently impaired, like in individuals in need of care, after oral surgical interventions, during orthodontic therapy with fixed appliances or as adjunct for gingivitis or periodontitis therapy [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR4">4</xref>]. Next to a mandatory very low systemic cytotoxicity, antiseptic agents suitable for use in a mouthwash need to have a long-lasting substantivity. This prevents an agent to be washed out of the mouth immediately by the salivary flow. In addition, a broad, unspecific antibacterial efficacy towards all bacterial species colonizing the oropharynx is essential [<xref ref-type="bibr" rid="CR5">5</xref>–<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+              <p id="Par7">Presently, chlorhexidine (CHX), a bisbiguanide antiseptic, comprehensively meeting all those requirements, is the most widely used antimicrobial agent in mouthwashes. Its clinical efficacy has been verified by a multitude of studies [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>].</p>
+              <p id="Par8">More recently, octenidine dihydrochloride, a bispyridinamine, came into the focus of interest as another particularly suitable agent to be used in oral antiseptics due to properties rivaling those of CHX [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR12">12</xref>]. It has an even lower systemic toxicity than CHX [<xref ref-type="bibr" rid="CR13">13</xref>–<xref ref-type="bibr" rid="CR15">15</xref>] possibly attributable to the lack of an amide and ester structure in its molecule [<xref ref-type="bibr" rid="CR16">16</xref>]. Octenidine shows excellent and long-lasting adhesion to mucosal surfaces via its negative charge [<xref ref-type="bibr" rid="CR17">17</xref>] and physically interacts with bacterial cell membrane components [<xref ref-type="bibr" rid="CR18">18</xref>]. Its ability to attach to cells results in a residual depot effect on skin or wound tissue [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]. Octenidine develops a broad antimicrobial activity, affecting Gram-positive and Gram-negative bacteria, chlamydiae, mycoplasmata, and fungi [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. In clinical trials, octenidine showed promising results as a mouthwash agent regarding the reduction of bacteria and plaque inhibition [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+              <sec id="Sec2">
+                <title>Aim</title>
+                <p id="Par9">It was the aim of this clinical trial to evaluate the inhibitory effect of a 0.1% OCT mouthwash on plaque re-growth over 5 days in the absence of mechanical plaque control in healthy adult subjects, using a modified plaque re-growth model [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+              </sec>
+              <sec id="Sec3">
+                <title>Null hypothesis</title>
+                <p id="Par10">No significant difference between both experimental groups regarding plaque re-growth assessed by plaque index (PI) [<xref ref-type="bibr" rid="CR25">25</xref>] 5 days after initial professional mechanical plaque removal (PMPR) and the twice daily repeated application of the OCT mouthwash in comparison to the placebo mouthwash in the complete absence of personal mechanical plaque control.</p>
+              </sec>
+            </sec>
+            <sec id="Sec4">
+              <title>Material and methods</title>
+              <sec id="Sec5">
+                <title>Trial design</title>
+                <p id="Par11">The investigation was designed as a prospective, randomized, placebo-controlled, double-blind, parallel group, multi-center phase 3 study, divided into two studies OML-III-A and OML-III-B. OML-III-A took place at the study centers of Dresden, Frankfurt, and Leipzig from January to December 2018. OML-III-B was performed at the study centers in Wuerzburg, Cologne, and Vienna from January to September 2018. The study was conducted in accordance with the principles of Good Clinical Practice (GCP) and the Declaration of Helsinki. It was approved by the ethics committees of the participating centers (study A: ethics committee of the University of Dresden EK 342082017, study B: ethics committee of the University of Wuerzburg 203/17_ff-me) and was registered at <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> (study A: NCT03322124; study B NCT03378401) and the European Clinical Trials Database (study A: EudraCT No.: 2017-001697-42, study B: EudraCT No.: 2017-001698-18). All participants were informed about the study and signed the informed consent declaration. The studies were registered at <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link>: NCT03322124, NCT03378401.</p>
+                <p id="Par12">The results presented in the following are based on the joint data set of the OML-III-A and OML-III-B studies, which followed identical study protocols and were performed concomitantly.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Study population</title>
+                <p id="Par13">Participants (male and female) were recruited among systemically healthy dental patients visiting the study centers in Dresden, Frankfurt, Cologne, Vienna, and Wuerzburg or among healthy volunteers from the resident population being asked for study participation by local advertisement.</p>
+                <p id="Par14">Inclusion criteria were as follows: age ≥ 18 years; total mean gingival index GI ≤ 1.5 [<xref ref-type="bibr" rid="CR26">26</xref>]; a minimum of 20 sound teeth including the Ramfjord teeth (16, 21, 24, 36, 41, 44) or their replacements (17, 11, 25, 37, 31, 45) [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]; and 10 natural anterior teeth, necessary for the assessment of the discoloration index (excluding teeth restored with crowns or large vestibular fillings while teeth with only minor interdentally or orally located fillings were included).</p>
+                <p id="Par15">Exclusion criteria were as follows: severe systemic diseases; necessity of antibiotic endocarditis prophylaxis; untreated caries with cavitation; presence of a GI score 3 at any tooth [<xref ref-type="bibr" rid="CR26">26</xref>]; manifestation of periodontitis exceeding the presence of a Periodontal Screening and Recording Index (PSR) score 2 in more than two sextants or a PSR score &gt; 3 in any sextant [<xref ref-type="bibr" rid="CR29">29</xref>]; manifestation of other oral diseases including gingival overgrowth or mucosal diseases; orthodontic therapy; restoration with removable dentures; antibiotic therapy &lt; 3 months prior to baseline examination; intake of systemically or locally acting corticosteroids (e.g., asthma sprays); xerostomia; hypersensitivity or allergy to the test product and its ingredients or to medications displaying a similar chemical structure; participation in another clinical study within the last 4 weeks before enrolment in and during this study; and pregnancy or breastfeeding.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Composition and application of the experimental mouthwashes</title>
+                <p id="Par16">The experimental mouthwashes were manufactured by NextPharma GmbH (Göttingen, Germany). They contained glycerol, sodium gluconate, citric acid, disodium phosphate dihydrate, macrogolglycerol hydroxystearate 40 EO, mint cool flavor PHL-167319, sucralose, and 0.1% octenidine (OCT mouthwash only) or phenoxyethanol 0.5% (placebo mouthwash only).</p>
+                <p id="Par17">Study participants were instructed to rinse their mouth with 10 ml of the assigned mouthwash twice daily for 30 s each over a period of 5 days, resulting in a total of 10 applications. For dosing, a measuring cup was provided with the study drug package.</p>
+                <sec id="Sec8">
+                  <title>Study outcomes</title>
+                  <sec id="FPar1">
+                    <title>Primary study outcome</title>
+                    <p id="Par18">Primary study outcome was the amount of plaque re-growth assessed by plaque index (PI) [<xref ref-type="bibr" rid="CR25">25</xref>] 5 days after initial PMPR and the twice daily repeated application of the OCT mouthwash in comparison to the placebo mouthwash in the complete absence of personal mechanical plaque control. Following a modified plaque re-growth model (Addy et al., [<xref ref-type="bibr" rid="CR24">24</xref>]), PI was recorded at screening (Vsc), baseline (V1), and at the final study visit (V2) on the Ramfjord teeth or their replacements at four sites per tooth (distovestibular, vestibular, mesiovestibular, and oral). The null hypothesis to be tested was that no significant difference regarding mean plaque index score existed between both experimental groups at V2.</p>
+                  </sec>
+                  <sec id="FPar2">
+                    <title>Secondary study outcomes</title>
+                    <p id="Par19">Secondary study outcomes were the reduction of salivary bacterial counts after a single application of the experimental mouthwashes for 30 s at baseline and changes in mean GI scores [<xref ref-type="bibr" rid="CR26">26</xref>] and DI scores [<xref ref-type="bibr" rid="CR30">30</xref>] from baseline to the end of the study between OCT and placebo groups.</p>
+                  </sec>
+                  <sec id="FPar3">
+                    <title>Assessment of salivary bacterial counts</title>
+                    <p id="Par20">For the assessment of salivary bacterial counts, the study participants were asked to rinse their mouth with 5 ml of sterile water for 30 s and to spit the originating saliva-water volume into a sterile screw-cap test tube. The samples were subsequently serially diluted, inoculated on Columbia blood agar plates + 5% sheep blood (bioMérieux SA, Marcy l’Etoile, France) and incubated at 37 °C for 48 h. The number of detected colony forming units (CFU) was used to calculate the number of CFU/ml for the respective dilution.</p>
+                  </sec>
+                  <sec id="FPar4">
+                    <title>Assessment of gingival health</title>
+                    <p id="Par21">Gingival health was assessed by recording the gingival index [<xref ref-type="bibr" rid="CR26">26</xref>] at Vsc, V1, and V2 on the Ramfjord teeth or their replacements at four sites per tooth (distovestibular, vestibular, oral, and mesiovestibular).</p>
+                  </sec>
+                  <sec id="FPar5">
+                    <title>Tooth discoloration and questionnaire</title>
+                    <p id="Par22">The presence and extent of tooth discoloration were assessed at V1 after PMPR and after 5 days of rinsing (V2) at the vestibular sites of the anterior teeth according to the criteria of the discoloration index [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+                    <p id="Par23">Furthermore, the study participants were instructed to document their daily consumption of staining beverages like coffee, tea, red wine, and juices, the use of chewing gum and menthol-containing lozenges, as well as tobacco smoking by a self-reported questionnaire.</p>
+                  </sec>
+                  <sec id="FPar6">
+                    <title>Safety</title>
+                    <p id="Par24">At baseline and at the end of the study (day 5), the study participants were interviewed for the occurrence of related or unrelated adverse events.</p>
+                  </sec>
+                  <sec id="FPar7">
+                    <title>Verification of application compliance</title>
+                    <p id="Par25">Application compliance was verified by instructing the study participants to return all empty, partially used, or unused containers of the experimental mouthwashes at the end of the study (V2). The volume of applied mouthwashes was calculated as difference in the weight of the assigned supply of mouthwash containers before handing out and after returning them to the study center.</p>
+                  </sec>
+                  <sec id="FPar8">
+                    <title>Calibration, blinding and randomization</title>
+                    <p id="Par26">All clinical examiners of the participating study centers had been trained and calibrated prior to the onset of the study following established guidelines [<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+                    <p id="Par27">Investigators and other study personnel were blinded to the assignment of the study participants to the treatment groups throughout the study. Both experimental mouthwashes (OCT/placebo) were provided in bottles with identical packaging and labelling and had an identical appearance, color, and taste to ensure blinding of participants. The handing out to the study subjects in a 3:1 ratio (OCT vs. placebo) was performed by a study nurse not involved in the recording of the study data using a computer-generated randomization list. Randomization was stratified for GI baseline score (mean GI ≤ 1.0 vs. mean GI &gt; 1.0).</p>
+                  </sec>
+                  <sec id="FPar9">
+                    <title>Screening visit (Vsc)</title>
+                    <p id="Par28">At the screening visit, eligibility criteria were checked, and demographics, medical history, concomitant medication, and smoking habits were documented. PI [<xref ref-type="bibr" rid="CR25">25</xref>] and GI [<xref ref-type="bibr" rid="CR26">26</xref>] were recorded.</p>
+                  </sec>
+                  <sec id="FPar10">
+                    <title>Visit 1 (V1, day 1, baseline)</title>
+                    <p id="Par29">At visit 1, eligibility criteria were re-checked, GI baseline scores were recorded, and a saliva sample was collected (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Subsequently the participants were randomly assigned to the OCT or the placebo group, performed a first supervised rinse with the assigned mouthwash for 30 s, followed 1 min later by the collection of another saliva sample. Subsequently all teeth were thoroughly cleaned from adhering bacterial biofilms, calculus, or superficial stains by PMPR using ultrasonic scalers and air-polishing devices.<fig id="Fig1"><label>Fig. 1</label><caption><p>Study flow chart</p></caption><graphic xlink:href="784_2021_3781_Fig1_HTML" id="MO1"/></fig></p>
+                    <p id="Par30">The presence of non-removable tooth stains was documented using the DI, and participants were asked to perform a second supervised rinse. Instructions were given to repeat the rinsing twice daily at home for the next 4 days while refraining from any kind of mechanical plaque control and to perform the final rinse in the morning of day 5 within 4 h before the final examination. Finally, all participants received a supply of the assigned mouthwash sufficient for the next 5 days and a questionnaire for the self-reported documentation of consumed food and beverages during the observation period.</p>
+                  </sec>
+                  <sec id="FPar11">
+                    <title>Visit 2 (V2, day 5, final examination)</title>
+                    <p id="Par31">At visit 2, the study participants returned the assigned mouthwash followed by the final assessment of GI, PI, and DI and the collection of completed questionnaires. A final PMPR concluded the study.</p>
+                  </sec>
+                </sec>
+                <sec id="Sec9">
+                  <title>Statistical analysis</title>
+                  <sec id="FPar12">
+                    <title>Sample size calculation</title>
+                    <p id="Par32">Sample size calculations performed for each study (OML-III-A/OML-III-B) revealed a number of 75 and 25 study subjects (OCT/placebo respectively) to be sufficient to detect a difference in mean PI of − 0.9 between the groups with a given power of <italic>p</italic> &gt; 0.99, a given level of significance of <italic>p</italic> &lt; 0.05, and an assumed mean PI score of 1.5 ± 0.6 for the placebo group.</p>
+                  </sec>
+                  <sec id="FPar13">
+                    <title>Analysis of the primary outcome</title>
+                    <p id="Par33">Due to lack of normal distribution of data, the primary study outcome mean PI at day 5 of the trial was analyzed using van Elteren test (1-sided, <italic>p</italic> &lt; 0.025). To assess the potential impact of co-variables, an additional analysis of co-variance (ANCOVA) with independent variables for treatment group, gingival status at V1 (factor for stratified randomization), total mean PI at screening, and study center was performed.</p>
+                  </sec>
+                  <sec id="FPar14">
+                    <title>Analysis of secondary outcomes</title>
+                    <p id="Par34">Statistical analysis of the data of secondary study outcomes was performed by the van Elteren test using a 2-sided significance level of <italic>p</italic> &lt; 0.05. The DI data were analyzed with both the van Elteren test and ANCOVA using a 2-sided significance level of <italic>p</italic> &lt; 0.05.</p>
+                  </sec>
+                </sec>
+              </sec>
+            </sec>
+            <sec id="Sec10">
+              <title>Results</title>
+              <sec id="Sec11">
+                <title>Recruitment, drop-outs, and protocol violations</title>
+                <p id="Par35">Recruitment and drop-outs are depicted in the CONSORT [<xref ref-type="bibr" rid="CR32">32</xref>] flow diagram in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. Two hundred one individuals were recruited and randomly assigned in a ratio of 3:1 to the OCT (<italic>n</italic> = 152) or the placebo (<italic>n</italic> = 49) group. Two hundred of them completed the study with a full data set. One participant of the OCT group did not use the assigned mouthwash. Because there were no statistically significant differences between the intention to treat and the per protocol analyses regarding any of the assessed variables, all results depicted in the following are based on the intention to treat analysis.<fig id="Fig2"><label>Fig. 2</label><caption><p>Consort 2010 flow diagram. Recruitment, drop-outs, and protocol violations during the study observation period</p></caption><graphic xlink:href="784_2021_3781_Fig2_HTML" id="MO2"/></fig></p>
+              </sec>
+              <sec id="Sec12">
+                <title>Demographic data</title>
+                <p id="Par36">The demographic data of the study participants are displayed in Table <xref rid="Tab1" ref-type="table">1</xref>. Both treatment groups were balanced regarding gender (56% female/44% male), age (mean age: 26.2 years), and tobacco use. There were no significant differences between the groups regarding medical history and previous or current use of medication.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Patient demographics</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Demographics</th><th>All participants<break/><italic>n</italic> = 201</th><th>OCT group<break/><italic>n</italic> = 152</th><th>Placebo group<break/><italic>n</italic> = 49</th></tr></thead><tbody><tr><td>Age (years)—mean ± SD</td><td>26.7 ± 7.1</td><td>26.3 ± 6.6</td><td>25.3 ± 4.3</td></tr><tr><td>Female gender—<italic>n</italic> (%)</td><td>113 (56.2%)</td><td>85 (55.9%)</td><td>28 (57.1%)</td></tr><tr><td>Non-smokers—<italic>n</italic> (%)</td><td>151 (75.1%)</td><td>115 (75.7%)</td><td>36 (73.5%)</td></tr></tbody></table><table-wrap-foot><p><italic>SD</italic> standard deviation, <italic>n</italic> numbers of subjects, intention to treat analysis set</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec13">
+                <title>Plaque re-growth at day 5 (primary study outcome)</title>
+                <p id="Par37">The results of the plaque re-growth analysis are depicted in Table <xref rid="Tab2" ref-type="table">2</xref>. At V2, the observed median PI score of the OCT group (0.36, range 0.00–2.13) was significantly lower (<italic>p</italic> &lt; 0.0001, van Elteren test) than the median PI score of the placebo group (1.29, range 0.04–2.01). Among all confounding variables tested, ANCOVA only revealed a center effect (<italic>p</italic> &lt; 0.0001). The null hypothesis of no difference between both experimental groups at V2 therefore had to be rejected.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Plaque index (PI), gingival index (GI), and discoloration index (DI)</p></caption><table frame="hsides" rules="groups"><thead><tr><th/><th colspan="4">OCT (<italic>n</italic> = 152)</th><th colspan="4">Placebo (<italic>n</italic> = 49)</th></tr><tr><th/><th>Vsc</th><th>V1</th><th>V2</th><th>Change V1 to V2</th><th>Vsc</th><th>V1</th><th>V2</th><th>Change V1 to V2</th></tr></thead><tbody><tr><td align="center" colspan="9">PI</td></tr><tr><td><p>Median</p><p>Min-max</p></td><td><p>0.33</p><p>0.00–2.33</p></td><td><p>0.00</p><p>0.00–0.00</p></td><td><p>0.36</p><p>0.00–2.13</p></td><td><p>0.36*</p><p>0.00–2.13</p></td><td><p>0.38</p><p>0.00–1.83</p></td><td><p>0.00</p><p>0.00–0.00</p></td><td><p>1.29</p><p>0.04–2.01</p></td><td><p>1.29</p><p>0.04–2.01</p></td></tr><tr><td align="center" colspan="9">GI</td></tr><tr><td><p>Median</p><p>Min-max</p></td><td><p>0.29</p><p>0.00–1.38</p></td><td><p>0.33</p><p>0.00–1.46</p></td><td><p>0.25</p><p>0.00–1.13</p></td><td><p>− 0.04<sup>#</sup></p><p>− 1.04 to 0.75</p></td><td><p>0.29</p><p>0.00–1.25</p></td><td><p>0.29</p><p>0.00–1.04</p></td><td><p>0.38</p><p>0.00–1.08</p></td><td><p>0.00</p><p>− 0.54 to 0.58</p></td></tr><tr><td align="center" colspan="9">DI</td></tr><tr><td><p>Median</p><p>Min-max</p></td><td>–</td><td><p>0.00</p><p>0.00–1.00</p></td><td><p>0.25</p><p>0.00–2.25</p></td><td><p>0.17<sup>†</sup></p><p>− 0.16 to 2.25</p></td><td>–</td><td><p>0.00</p><p>0.00–0.58</p></td><td><p>0.00</p><p>0.00–1.08</p></td><td><p>0.00</p><p>0.00–1.08</p></td></tr></tbody></table><table-wrap-foot><p>*Between OCT and placebo groups; van Elteren test, 2-sided, <italic>p</italic> &lt; 0.0001, intention to treat analysis set</p><p>#Between OCT and placebo groups; van Elteren test, 2-sided, <italic>p</italic> &lt; 0.001, intention to treat analysis set</p><p>†Between OCT and placebo groups; van Elteren test, 2-sided, <italic>p</italic> &lt; 0.0011 intention to treat analysis set</p><p><italic>OCT</italic> octenidine mouthrinse, <italic>Vsc</italic> screening visit, <italic>V1</italic> visit 1, <italic>V2</italic> visit 2, <italic>n</italic> numbers of subjects, <italic>max</italic> maximum, <italic>min</italic> minimum</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec14">
+                <title>Secondary study outcomes</title>
+                <sec id="Sec15">
+                  <title>Reduction of salivary bacterial counts</title>
+                  <p id="Par38">A single rinse with the OCT mouthwash reduced salivary bacterial counts significantly stronger than the placebo mouthwash. The observed median decrease in salivary bacterial counts was 2.73 lgCFU/ml for the OCT group vs. 0.24 lgCFU/ml for the placebo group (2-sided <italic>p</italic> &lt; 0.0001; van Elteren test; Table <xref rid="Tab3" ref-type="table">3</xref>).<table-wrap id="Tab3"><label>Table 3</label><caption><p>Bacterial counts in saliva</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2">Bacterial counts</th><th colspan="3">OCT (<italic>n</italic> = 152)</th><th colspan="3">Placebo (<italic>n</italic> = 49)</th></tr><tr><th>Before 1st rinse</th><th>After 1st rinse</th><th>Count reduction (lgRF)</th><th>Before 1st rinse</th><th>After 1st rinse</th><th>Count reduction (lgRF)</th></tr></thead><tbody><tr><td><p>Median</p><p>Min-max</p><p>(lgCFU/ml)</p></td><td><p>6.550</p><p>5.17–8.44</p></td><td><p>3.815</p><p>0.00–11.38</p></td><td><p>2.725*</p><p>− 3.99 to 7.63</p></td><td><p>6.570</p><p>4.96–7.68</p></td><td><p>6.310</p><p>5.22–7.32</p></td><td><p>0.240</p><p>− 0.84 to 1.09</p></td></tr></tbody></table><table-wrap-foot><p>*Between OCT and placebo groups; van Elteren test, 2-sided, <italic>p &lt; 0.0001</italic>, intention to treat analysis set</p><p><italic>OCT</italic> octenidine mouthrinse, <italic>CFU</italic> colony forming units, <italic>max</italic> maximum, <italic>min</italic> minimum, <italic>lgRF</italic> log reduction factor, <italic>n</italic> number of subjects</p></table-wrap-foot></table-wrap></p>
+                </sec>
+                <sec id="Sec16">
+                  <title>Gingival index</title>
+                  <p id="Par39">The variation of recorded median GI scores within the observation period is displayed in Table <xref rid="Tab2" ref-type="table">2</xref>. The median reduction of the recorded mean GI scores between OCT and placebo was statistically significant (2-sided <italic>p</italic> &lt; 0.001, van Elteren test).</p>
+                </sec>
+                <sec id="Sec17">
+                  <title>Discoloration of teeth</title>
+                  <p id="Par40">The median change in the DI scores from V1 to V2 was significantly more pronounced in the OCT group when compared to the placebo group (2-sided, <italic>p</italic> &lt; 0.0011, van Elteren test, Table <xref rid="Tab2" ref-type="table">2</xref>).</p>
+                </sec>
+                <sec id="Sec18">
+                  <title>Eating and smoking habits</title>
+                  <p id="Par41">A greater proportion of subjects in the OCT than in the placebo group drank tea during the study (63.3% vs. 57.0%), but fewer subjects in this group smoked (25.8% vs. 32.7%) and consumed menthol dragées (13.9% vs. 20.4%). Other eating habits were similar between the two groups.</p>
+                </sec>
+                <sec id="Sec19">
+                  <title>Adverse events</title>
+                  <p id="Par42">There were no severe treatment-emergent adverse events (TEAE). Overall, 63 subjects (31.5%) experienced mild (<italic>n</italic> = 59) or moderate (<italic>n</italic> = 4) TEAEs. In the OCT group, 53 out of 151 participants (35.1%) reported 71 TEAEs. In the placebo group, 10 out of 49 subjects (20.4%) reported the occurrence of 12 TEAEs. The most frequently reported TEAEs in the OCT group were dysgeusia (<italic>n</italic> = 32), tongue discoloration (<italic>n</italic> = 9), and headache (<italic>n</italic> = 4). In the placebo group, oral discomfort (<italic>n</italic> = 3), dysgeusia (<italic>n</italic> = 2), and headache (<italic>n</italic> = 2) occurred most often. The remaining events were reported by &lt; 5% of individuals in any treatment group. Out of 83 TEAEs, 63 TEAEs were considered being treatment-related (possible, probably or definitely related), 56 of them were reported by OCT-group members and 7 by participants of the placebo group.</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec id="Sec20">
+              <title>Discussion</title>
+              <p id="Par43">The analysis of the study data clearly demonstrated the superiority of the 0.1% OCT mouthwash over placebo in the inhibition of plaque re-growth over a 5-day period in the absence of mechanical plaque control. This evidence is in line with the observed marked reduction of salivary bacterial counts after a single rinse with the 0.1% OCT mouthwash. The validity of the plaque re-growth model by Addy and co-workers used in this trial for the evaluation of plaque re-growth inhibition [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR24">24</xref>] is well established and has been successfully applied in many other clinical studies before [<xref ref-type="bibr" rid="CR33">33</xref>–<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+              <p id="Par44">The reduction of dental plaque formation over the period of 5 days was statistically significant and may be considered clinically relevant. In fact, subjects of the OCT group had a total median PI score of 0.36 after 5 days of OCT mouthwash use as the only personal oral hygiene measure compared to a median PI score of 1.29 in the placebo group. The median PI score in the OCT group at V2 roughly corresponded to the median PI score observed at V1 for the total of the study population (PI 0.33) supporting the conclusion that the regular use of the 0.1% OCT mouthwash has the same antibacterial efficacy as routine mechanical oral hygiene measures. Similar observations were made in other studies using mouthrinses containing 0.1% octenidine [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR37">37</xref>–<xref ref-type="bibr" rid="CR40">40</xref>] or other antiseptic agents (e.g., chlorhexidine) [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR42">42</xref>]. The distinct bacterial count reduction by the use of a 0.1% OCT mouthwash observed in this study confirms the data of the phase II trial [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+              <p id="Par45">In comparison to the golden standard CHX, bacterial reduction and plaque inhibition occurred to a similar extent [<xref ref-type="bibr" rid="CR42">42</xref>–<xref ref-type="bibr" rid="CR44">44</xref>]. So far, it can be speculated that OCT would have a similar effect on bacteria and plaque. However, a future clinical study with CHX as positive control should prove this hypothesis.</p>
+              <p id="Par46">While the inclusion criteria allowed to include study subjects with mild to moderate chronic gingivitis up to a mean GI score of 1.5, the overall baseline mean GI score of the study population was GI 0.40. Only 13 recruited study participants (6%) had a mean GI score &gt; 1.0 and were suffering from moderate gingivitis. Nevertheless, the use of the OCT mouthwash resulted in a statistically significant inhibition of gingival inflammation, although the observed median reduction of GI = 0.04 may not be considered clinically relevant.</p>
+              <p id="Par47">As reported in many other studies evaluating antiseptic mouthrinses before, tooth and tongue discoloration was the most frequently reported adverse event followed by dysgeusia [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR37">37</xref>]. The observed differences in DI between OCT and placebo were statistically significant but are considered clinically not relevant as they represent a median difference of 0.25 on a 0 to 3 grading scale only. As tea/coffee consumption, tobacco smoking and tobacco chewing are well known to have a significant impact on tooth discoloration [<xref ref-type="bibr" rid="CR45">45</xref>], they were recorded during this study, but no effect was proven (ANCOVA, 2-sided, <italic>p</italic> &gt; 0.05).</p>
+              <sec id="Sec21">
+                <title>Strengths and limitations</title>
+                <p id="Par48">As the recording of PI and GI scores was restricted to the Ramfjord teeth, the true extent of plaque re-growth and accompanied gingival inflammation within the dentition might have been underestimated. However, this systematic bias would have affected both groups equally. The general validity of study data gained by the evaluation of the Ramfjord teeth has been verified in various other studies [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR46">46</xref>, <xref ref-type="bibr" rid="CR47">47</xref>]. Correlations between the two approaches were high. Authors reported an underestimation of 0 scores and overestimation of 2 + 3 scores [<xref ref-type="bibr" rid="CR48">48</xref>]. The pooled analysis of the studies increased the sample size and leads to more reliable results with increased precision and power as compared to the individual studies. A center effect was revealed for the primary parameter. Reasons for this could not be elucidated. However, if it was due to different investigator judgment, this subjective judgment was the same in test and control groups and therefore should not have had a negative impact on the outcome. A 3:1 ratio of participants in favor to the OCT group was chosen to increase the number of OCT subjects for safety evaluation of the experimental agent. This approach could have led to some overestimation of the effects.</p>
+              </sec>
+            </sec>
+            <sec id="Sec22">
+              <title>Conclusion</title>
+              <p id="Par49">Repeated rinsing with a 0.1% octenidine mouthwash is an efficacious measure for the temporary inhibition of plaque re-growth and the maintenance of gingival health in the absence of personal mechanical plaque control during 5 days.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary information</title>
+              <sec id="Sec23">
+                <supplementary-material content-type="local-data" id="MOESM1">
+                  <media xlink:href="784_2021_3781_MOESM1_ESM.doc">
+                    <label>ESM 1</label>
+                    <caption>
+                      <p>(DOC 218 kb)</p>
+                    </caption>
+                  </media>
+                </supplementary-material>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <p>We want to thank Prof. Apostolos Georgopoulos for the bacterial assessments and Muazzez Arslan for the administrative study support at the Medical University of Vienna. Thanks to Leonie Fahl and Dr. Karolin Höfer for helping with the organization on site and to Prof. Dr. Hilmar Wisplinghoff and Dr. Angela Nowag for organizing and conducting the laboratory tests in Cologne. We want to thank Dr. Peggy Stölzel, Dr. Jeanine Hess, and Nicole Petersen for clinical data collection and the MEDLAB Arnold Analytik for the bacterial assessments. We are most grateful to Prof. Dr. Thomas Hoffmann for his visionary initiative in designing this study and his continuous support, to Nour Tassabehji, MSc. for clinical data collection and to Dr. Christian Lück, Kerstin Lück, and Susan Menzel for performing the laboratory tests at TU Dresden. We thank the laboratory “Dr. Reising-Ackermann” (Dr. Agneta Mewes) for performing the laboratory analyses in Leipzig. We want to thank Prof. Dr. Peter Eickholz for helping with the organization and conception on site, Mrs. Ivana Elez, BSc. who supported the study as study nurse, and Mrs. Jordan for organizing and conducting the laboratory tests in Frankfurt am Main.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>All authors contributed to the study conception and design. Material preparation, data collection, and analysis were performed by Yvonne Jockel-Schneider and Katrin Lorenz. The first draft of the manuscript was written by Yvonne Jockel-Schneider, and all authors commented on previous versions of the manuscript. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Open Access funding enabled and organized by Projekt DEAL. The realization of this trial was funded by Schülke &amp; Mayr GmbH (Norderstedt, Germany).</p>
+            </notes>
+            <notes notes-type="ethics">
+              <title>Compliance with ethical standards</title>
+              <notes id="FPar15" notes-type="COI-statement">
+                <title>Conflict of interest</title>
+                <p id="Par50">The authors declare that they have no conflict of interest.</p>
+              </notes>
+              <notes id="FPar16">
+                <title>Ethical approval</title>
+                <p id="Par51">All procedures performed involving human participants were in accordance with the ethical standards of the ethics committees of the University of Dresden and the University of Wuerzburg and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.</p>
+              </notes>
+              <notes id="FPar17">
+                <title>Informed consent</title>
+                <p id="Par52">Informed consent was obtained from all individual participants included in the study.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Addy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Moran</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical indications for the use of chemical adjuncts to plaque control: chlorhexidine formulations</article-title>
+                  <source>Periodontol</source>
+                  <year>1997</year>
+                  <volume>15</volume>
+                  <fpage>52</fpage>
+                  <lpage>54</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0757.1997.tb00104.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ozcaka</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Basoglu</surname>
+                      <given-names>OK</given-names>
+                    </name>
+                    <name>
+                      <surname>Buduneli</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Tasbakan</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Bacakoglu</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Kinane</surname>
+                      <given-names>DF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chlorhexidine decreases the risk of ventilator-associated pneumonia in intensive care unit patients: a randomized clinical trial</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>2012</year>
+                  <volume>47</volume>
+                  <issue>5</issue>
+                  <fpage>584</fpage>
+                  <lpage>592</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0765.2012.01470.x</pub-id>
+                  <?supplied-pmid 22376026?>
+                  <pub-id pub-id-type="pmid">22376026</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arweiler</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Auschill</surname>
+                      <given-names>TM</given-names>
+                    </name>
+                    <name>
+                      <surname>Sculean</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Patient self-care of periodontal pocket infections</article-title>
+                  <source>Periodontol</source>
+                  <year>2018</year>
+                  <volume>76</volume>
+                  <issue>1</issue>
+                  <fpage>164</fpage>
+                  <lpage>179</lpage>
+                  <pub-id pub-id-type="doi">10.1111/prd.12152</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chapple</surname>
+                      <given-names>IL</given-names>
+                    </name>
+                    <name>
+                      <surname>Van der Weijden</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Doerfer</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Herrera</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Shapira</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Polak</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Madianos</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Louropoulou</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Machtei</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Donos</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Greenwell</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Winkelhoff</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Eren Kuru</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Arweiler</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Teughels</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Aimetti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Molina</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Montero</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Graziani</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Primary prevention of periodontitis: managing gingivitis</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2015</year>
+                  <volume>42</volume>
+                  <issue>Suppl 16</issue>
+                  <fpage>S71</fpage>
+                  <lpage>S76</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12366</pub-id>
+                  <?supplied-pmid 25639826?>
+                  <pub-id pub-id-type="pmid">25639826</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bonesvoll</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gjermo</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparision between chlorhexidine and some quaternary ammonium compounds with regard to retention, salivary concentration and plaque-inhibiting effect in the human mouth after mouth rinses</article-title>
+                  <source>Arch Oral Biol</source>
+                  <year>1978</year>
+                  <volume>23</volume>
+                  <issue>4</issue>
+                  <fpage>289</fpage>
+                  <lpage>294</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0003-9969(78)90021-3</pub-id>
+                  <pub-id pub-id-type="pmid">278566</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>da Silveira</surname>
+                      <given-names>TD</given-names>
+                    </name>
+                    <name>
+                      <surname>de Figueiredo</surname>
+                      <given-names>MAZ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cherubini</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>de Oliveira</surname>
+                      <given-names>SD</given-names>
+                    </name>
+                    <name>
+                      <surname>Salum</surname>
+                      <given-names>FG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The topical effect of chlorhexidine and povidone-iodine in the repair of oral wounds. A review</article-title>
+                  <source>Stomatologija</source>
+                  <year>2019</year>
+                  <volume>21</volume>
+                  <issue>2</issue>
+                  <fpage>35</fpage>
+                  <lpage>41</lpage>
+                  <pub-id pub-id-type="pmid">32108654</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sanchez</surname>
+                      <given-names>IR</given-names>
+                    </name>
+                    <name>
+                      <surname>Swaim</surname>
+                      <given-names>SF</given-names>
+                    </name>
+                    <name>
+                      <surname>Nusbaum</surname>
+                      <given-names>KE</given-names>
+                    </name>
+                    <name>
+                      <surname>Hale</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Henderson</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>McGuire</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of chlorhexidine diacetate and povidone-iodine on wound healing in dogs</article-title>
+                  <source>Vet Surg</source>
+                  <year>1988</year>
+                  <volume>17</volume>
+                  <issue>6</issue>
+                  <fpage>291</fpage>
+                  <lpage>295</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1532-950x.1988.tb01019.x</pub-id>
+                  <?supplied-pmid 3232321?>
+                  <pub-id pub-id-type="pmid">3232321</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Slots</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Selection of antimicrobial agents in periodontal therapy</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>2002</year>
+                  <volume>37</volume>
+                  <issue>5</issue>
+                  <fpage>389</fpage>
+                  <lpage>398</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-0765.2002.00004.x</pub-id>
+                  <pub-id pub-id-type="pmid">12366863</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Van Strydonck</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                    <name>
+                      <surname>Slot</surname>
+                      <given-names>DE</given-names>
+                    </name>
+                    <name>
+                      <surname>Van der Velden</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Van der Weijden</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of a chlorhexidine mouthrinse on plaque, gingival inflammation and staining in gingivitis patients: a systematic review</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2012</year>
+                  <volume>39</volume>
+                  <issue>11</issue>
+                  <fpage>1042</fpage>
+                  <lpage>1055</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2012.01883.x</pub-id>
+                  <?supplied-pmid 22957711?>
+                  <pub-id pub-id-type="pmid">22957711</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>James</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Worthington</surname>
+                      <given-names>HV</given-names>
+                    </name>
+                    <name>
+                      <surname>Parnell</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Harding</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Lamont</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Cheung</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Whelton</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Riley</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chlorhexidine mouthrinse as an adjunctive treatment for gingival health</article-title>
+                  <source>Cochrane Database Syst Rev</source>
+                  <year>2017</year>
+                  <volume>3</volume>
+                  <fpage>CD008676</fpage>
+                  <pub-id pub-id-type="doi">10.1002/14651858.CD008676.pub2</pub-id>
+                  <?supplied-pmid 28362061?>
+                  <pub-id pub-id-type="pmid">28362061</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bailey</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                    <name>
+                      <surname>DeGrazia</surname>
+                      <given-names>CG</given-names>
+                    </name>
+                    <name>
+                      <surname>Hoff</surname>
+                      <given-names>SJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Schulenberg</surname>
+                      <given-names>PL</given-names>
+                    </name>
+                    <name>
+                      <surname>O'Connor</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <name>
+                      <surname>Paris</surname>
+                      <given-names>DA</given-names>
+                    </name>
+                    <name>
+                      <surname>Slee</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Bispyridinamines: a new class of topical antimicrobial agents as inhibitors of dental plaque</article-title>
+                  <source>J Med Chem</source>
+                  <year>1984</year>
+                  <volume>27</volume>
+                  <issue>11</issue>
+                  <fpage>1457</fpage>
+                  <lpage>1464</lpage>
+                  <pub-id pub-id-type="doi">10.1021/jm00377a014</pub-id>
+                  <?supplied-pmid 6492075?>
+                  <pub-id pub-id-type="pmid">6492075</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koburger</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Hubner</surname>
+                      <given-names>NO</given-names>
+                    </name>
+                    <name>
+                      <surname>Braun</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Siebert</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Standardized comparison of antiseptic efficacy of triclosan, PVP-iodine, octenidine dihydrochloride, polyhexanide and chlorhexidine digluconate</article-title>
+                  <source>J Antimicrob Chemother</source>
+                  <year>2010</year>
+                  <volume>65</volume>
+                  <issue>8</issue>
+                  <fpage>1712</fpage>
+                  <lpage>1719</lpage>
+                  <pub-id pub-id-type="doi">10.1093/jac/dkq212</pub-id>
+                  <?supplied-pmid 20551215?>
+                  <pub-id pub-id-type="pmid">20551215</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hubner</surname>
+                      <given-names>NO</given-names>
+                    </name>
+                    <name>
+                      <surname>Siebert</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Octenidine dihydrochloride, a modern antiseptic for skin, mucous membranes and wounds</article-title>
+                  <source>Skin Pharmacol Physiol</source>
+                  <year>2010</year>
+                  <volume>23</volume>
+                  <issue>5</issue>
+                  <fpage>244</fpage>
+                  <lpage>258</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000314699</pub-id>
+                  <?supplied-pmid 20484966?>
+                  <pub-id pub-id-type="pmid">20484966</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmidt</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Zyba</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Jung</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Rinke</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Haak</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Mausberg</surname>
+                      <given-names>RF</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziebolz</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cytotoxic effects of octenidine mouth rinse on human fibroblasts and epithelial cells - an in vitro study</article-title>
+                  <source>Drug Chem Toxicol</source>
+                  <year>2016</year>
+                  <volume>39</volume>
+                  <issue>3</issue>
+                  <fpage>322</fpage>
+                  <lpage>330</lpage>
+                  <pub-id pub-id-type="doi">10.3109/01480545.2015.1121274</pub-id>
+                  <?supplied-pmid 26654138?>
+                  <pub-id pub-id-type="pmid">26654138</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmidt</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Zyba</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Jung</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Rinke</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Haak</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Mausberg</surname>
+                      <given-names>RF</given-names>
+                    </name>
+                    <name>
+                      <surname>Ziebolz</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of octenidine mouth rinse on apoptosis and necrosis of human fibroblasts and epithelial cells - an in vitro study</article-title>
+                  <source>Drug Chem Toxicol</source>
+                  <year>2018</year>
+                  <volume>41</volume>
+                  <issue>2</issue>
+                  <fpage>182</fpage>
+                  <lpage>187</lpage>
+                  <pub-id pub-id-type="doi">10.1080/01480545.2017.1337124</pub-id>
+                  <?supplied-pmid 28669220?>
+                  <pub-id pub-id-type="pmid">28669220</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Assadian</surname>
+                      <given-names>O</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Octenidine dihydrochloride: chemical characteristics and antimicrobial properties</article-title>
+                  <source>J Wound Care</source>
+                  <year>2016</year>
+                  <volume>25</volume>
+                  <issue>3 Suppl</issue>
+                  <fpage>S3</fpage>
+                  <lpage>S6</lpage>
+                  <pub-id pub-id-type="doi">10.12968/jowc.2016.25.Sup3.S3</pub-id>
+                  <?supplied-pmid 26949863?>
+                  <pub-id pub-id-type="pmid">26949863</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brill</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Goroncy-Bermes</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Sand</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of growth media on the sensitivity of Staphylococcus aureus and Pseudomonas aeruginosa to cationic biocides</article-title>
+                  <source>Int J Hyg Environ Health</source>
+                  <year>2006</year>
+                  <volume>209</volume>
+                  <issue>1</issue>
+                  <fpage>89</fpage>
+                  <lpage>95</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijheh.2005.08.007</pub-id>
+                  <?supplied-pmid 16373206?>
+                  <pub-id pub-id-type="pmid">16373206</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ghannoum</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Elteen</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                    <name>
+                      <surname>Ellabib</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Whittaker</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antimycotic effects of octenidine and pirtenidine</article-title>
+                  <source>J Antimicrob Chemother</source>
+                  <year>1990</year>
+                  <volume>25</volume>
+                  <issue>2</issue>
+                  <fpage>237</fpage>
+                  <lpage>245</lpage>
+                  <pub-id pub-id-type="doi">10.1093/jac/25.2.237</pub-id>
+                  <?supplied-pmid 2184158?>
+                  <pub-id pub-id-type="pmid">2184158</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ghannoum</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Moussa</surname>
+                      <given-names>NM</given-names>
+                    </name>
+                    <name>
+                      <surname>Whittaker</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Swairjo</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Abu-Elteen</surname>
+                      <given-names>KH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Subinhibitory concentration of octenidine and pirtenidine: influence on the lipid and sterol contents of Candida albicans</article-title>
+                  <source>Chemotherapy</source>
+                  <year>1992</year>
+                  <volume>38</volume>
+                  <issue>1</issue>
+                  <fpage>46</fpage>
+                  <lpage>56</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000238941</pub-id>
+                  <?supplied-pmid 1618003?>
+                  <pub-id pub-id-type="pmid">1618003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pitten</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Werner</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A standardized test to assess the impact of different organic challenges on the antimicrobial activity of antiseptics</article-title>
+                  <source>J Hosp Infect</source>
+                  <year>2003</year>
+                  <volume>55</volume>
+                  <issue>2</issue>
+                  <fpage>108</fpage>
+                  <lpage>115</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0195-6701(03)00260-3</pub-id>
+                  <pub-id pub-id-type="pmid">14529634</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Hoppe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Krull</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitten</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rosenau</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antiseptic efficacy and acceptance of Octenisept computed with common antiseptic mouthwashes</article-title>
+                  <source>Zentralbl Hyg Umweltmed</source>
+                  <year>1998</year>
+                  <volume>200</volume>
+                  <issue>5–6</issue>
+                  <fpage>443</fpage>
+                  <lpage>456</lpage>
+                  <?supplied-pmid 9531718?>
+                  <pub-id pub-id-type="pmid">9531718</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pitten</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antimicrobial efficacy of antiseptic mouthrinse solutions</article-title>
+                  <source>Eur J Clin Pharmacol</source>
+                  <year>1999</year>
+                  <volume>55</volume>
+                  <issue>2</issue>
+                  <fpage>95</fpage>
+                  <lpage>100</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s002280050601</pub-id>
+                  <pub-id pub-id-type="pmid">10335902</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lorenz</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Jockel-Schneider</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Petersen</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Stolzel</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Petzold</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Vogel</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Hoffmann</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Schlagenhauf</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Noack</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of different concentrations of an octenidine dihydrochloride mouthwash on salivary bacterial counts: a randomized, placebo-controlled cross-over trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2018</year>
+                  <volume>22</volume>
+                  <issue>8</issue>
+                  <fpage>2917</fpage>
+                  <lpage>2925</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-018-2379-0</pub-id>
+                  <?supplied-pmid 29500541?>
+                  <pub-id pub-id-type="pmid">29500541</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Addy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Willis</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Moran</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of toothpaste rinses compared with chlorhexidine on plaque formation during a 4-day period</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1983</year>
+                  <volume>10</volume>
+                  <issue>1</issue>
+                  <fpage>89</fpage>
+                  <lpage>99</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1983.tb01270.x</pub-id>
+                  <pub-id pub-id-type="pmid">6572638</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Silness</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Loe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal disease in pregnancy. II. Correlation between oral hygiene and periodontal condition</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>1964</year>
+                  <volume>22</volume>
+                  <fpage>121</fpage>
+                  <lpage>135</lpage>
+                  <pub-id pub-id-type="doi">10.3109/00016356408993968</pub-id>
+                  <pub-id pub-id-type="pmid">14158464</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Loe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The gingival index, the plaque index and the retention index systems</article-title>
+                  <source>J Periodontol</source>
+                  <year>1967</year>
+                  <volume>38</volume>
+                  <issue>6</issue>
+                  <fpage>Suppl:610</fpage>
+                  <lpage>Suppl:616</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1967.38.6.610</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ramfjord</surname>
+                      <given-names>SP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Indices for prevalence and incidence of periodontal disease</article-title>
+                  <source>J Periodontol</source>
+                  <year>1959</year>
+                  <volume>30</volume>
+                  <fpage>51</fpage>
+                  <lpage>59</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1959.30.1.51</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fleiss</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Chilton</surname>
+                      <given-names>NW</given-names>
+                    </name>
+                    <name>
+                      <surname>Alman</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Feldman</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chauncey</surname>
+                      <given-names>HH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Representativeness of the “Ramfjord teeth” for epidemiologic studies of gingivitis and periodontitis</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>1987</year>
+                  <volume>15</volume>
+                  <issue>4</issue>
+                  <fpage>221</fpage>
+                  <lpage>224</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1987.tb00525.x</pub-id>
+                  <?supplied-pmid 3476248?>
+                  <pub-id pub-id-type="pmid">3476248</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Khocht</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zohn</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Deasy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>KM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessment of periodontal status with PSR and traditional clinical periodontal examination</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>1995</year>
+                  <volume>126</volume>
+                  <issue>12</issue>
+                  <fpage>1658</fpage>
+                  <lpage>1665</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.1995.0115</pub-id>
+                  <?supplied-pmid 7499668?>
+                  <pub-id pub-id-type="pmid">7499668</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brecx</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Macdonald</surname>
+                      <given-names>LL</given-names>
+                    </name>
+                    <name>
+                      <surname>Legary</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Cheang</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Forgay</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term effects of Meridol and chlorhexidine mouthrinses on plaque, gingivitis, staining, and bacterial vitality</article-title>
+                  <source>J Dent Res</source>
+                  <year>1993</year>
+                  <volume>72</volume>
+                  <issue>8</issue>
+                  <fpage>1194</fpage>
+                  <lpage>1197</lpage>
+                  <pub-id pub-id-type="doi">10.1177/00220345930720080601</pub-id>
+                  <pub-id pub-id-type="pmid">8360362</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hefti</surname>
+                      <given-names>AF</given-names>
+                    </name>
+                    <name>
+                      <surname>Preshaw</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Examiner alignment and assessment in clinical periodontal research</article-title>
+                  <source>Periodontol</source>
+                  <year>2012</year>
+                  <volume>59</volume>
+                  <issue>1</issue>
+                  <fpage>41</fpage>
+                  <lpage>60</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0757.2011.00436.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulz</surname>
+                      <given-names>KF</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                    <name>
+                      <surname>Moher</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <collab>Group C</collab>
+                  </person-group>
+                  <article-title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</article-title>
+                  <source>PLoS Med</source>
+                  <year>2010</year>
+                  <volume>7</volume>
+                  <issue>3</issue>
+                  <fpage>e1000251</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pmed.1000251</pub-id>
+                  <?supplied-pmid 20352064?>
+                  <pub-id pub-id-type="pmid">20352064</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arweiler</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Henning</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Reich</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Netuschil</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of an amine-fluoride-triclosan mouthrinse on plaque regrowth and biofilm vitality</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2002</year>
+                  <volume>29</volume>
+                  <issue>4</issue>
+                  <fpage>358</fpage>
+                  <lpage>363</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051X.2002.290412.x</pub-id>
+                  <pub-id pub-id-type="pmid">11966934</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pizzo</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Guiglia</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>La Cara</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Giuliana</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>D'Angelo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effects of an amine fluoride/stannous fluoride and an antimicrobial host protein mouthrinse on supragingival plaque regrowth</article-title>
+                  <source>J Periodontol</source>
+                  <year>2004</year>
+                  <volume>75</volume>
+                  <issue>6</issue>
+                  <fpage>852</fpage>
+                  <lpage>857</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2004.756852</pub-id>
+                  <?supplied-pmid 15295952?>
+                  <pub-id pub-id-type="pmid">15295952</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Binney</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Addy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>McKeown</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Everatt</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of a commercially available triclosan-containing toothpaste compared to a sodium-fluoride-containing toothpaste and a chlorhexidine rinse on 4-day plaque regrowth</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1995</year>
+                  <volume>22</volume>
+                  <issue>11</issue>
+                  <fpage>830</fpage>
+                  <lpage>834</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051x.1995.tb01780.x</pub-id>
+                  <?supplied-pmid 8550858?>
+                  <pub-id pub-id-type="pmid">8550858</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Singh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Daing</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Dixit</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of herbal, essential oil and chlorhexidine mouthrinse on de novo plaque formation</article-title>
+                  <source>Int J Dent Hyg</source>
+                  <year>2013</year>
+                  <volume>11</volume>
+                  <issue>1</issue>
+                  <fpage>48</fpage>
+                  <lpage>52</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1601-5037.2012.00556.x</pub-id>
+                  <?supplied-pmid 22583681?>
+                  <pub-id pub-id-type="pmid">22583681</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Beiswanger</surname>
+                      <given-names>BB</given-names>
+                    </name>
+                    <name>
+                      <surname>Mallatt</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Mau</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Jackson</surname>
+                      <given-names>RD</given-names>
+                    </name>
+                    <name>
+                      <surname>Hennon</surname>
+                      <given-names>DK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The clinical effects of a mouthrinse containing 0.1% octenidine</article-title>
+                  <source>J Dent Res</source>
+                  <year>1990</year>
+                  <volume>69</volume>
+                  <issue>2</issue>
+                  <fpage>454</fpage>
+                  <lpage>457</lpage>
+                  <pub-id pub-id-type="doi">10.1177/00220345900690020701</pub-id>
+                  <?supplied-pmid 2407757?>
+                  <pub-id pub-id-type="pmid">2407757</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Patters</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                    <name>
+                      <surname>Anerud</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Trummel</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                    <name>
+                      <surname>Kornman</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Nalbandian</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Robertson</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inhibition of plaque formation in humans by octenidine mouthrinse</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>1983</year>
+                  <volume>18</volume>
+                  <issue>2</issue>
+                  <fpage>212</fpage>
+                  <lpage>219</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0765.1983.tb00354.x</pub-id>
+                  <pub-id pub-id-type="pmid">6224001</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Patters</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                    <name>
+                      <surname>Nalbandian</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Nichols</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Niekrash</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Kennedy</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Kiel</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Trummel</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of octenidine mouthrinse on plaque formation and gingivitis in humans</article-title>
+                  <source>J Periodontal Res</source>
+                  <year>1986</year>
+                  <volume>21</volume>
+                  <issue>2</issue>
+                  <fpage>154</fpage>
+                  <lpage>162</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0765.1986.tb01447.x</pub-id>
+                  <?supplied-pmid 2937903?>
+                  <pub-id pub-id-type="pmid">2937903</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Welk</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zahedani</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Beyer</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antibacterial and antiplaque efficacy of a commercially available octenidine-containing mouthrinse</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2016</year>
+                  <volume>20</volume>
+                  <issue>7</issue>
+                  <fpage>1469</fpage>
+                  <lpage>1476</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-015-1643-9</pub-id>
+                  <?supplied-pmid 26556571?>
+                  <pub-id pub-id-type="pmid">26556571</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moran</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Addy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wade</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Milson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>McAndrew</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Newcombe</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of oxidising mouthrinses compared with chlorhexidine on salivary bacterial counts and plaque regrowth</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1995</year>
+                  <volume>22</volume>
+                  <issue>10</issue>
+                  <fpage>750</fpage>
+                  <lpage>755</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1995.tb00257.x</pub-id>
+                  <pub-id pub-id-type="pmid">8682921</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rosin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Welk</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kocher</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Majic-Todt</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitten</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of a polyhexamethylene biguanide mouthrinse compared to an essential oil rinse and a chlorhexidine rinse on bacterial counts and 4-day plaque regrowth</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2002</year>
+                  <volume>29</volume>
+                  <issue>5</issue>
+                  <fpage>392</fpage>
+                  <lpage>399</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051X.2002.290503.x</pub-id>
+                  <pub-id pub-id-type="pmid">12060421</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Welk</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zahedani</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Beyer</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antibacterial and antiplaque efficacy of a commercially available octenidine-containing mouthrinse</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2015</year>
+                  <volume>20</volume>
+                  <issue>7</issue>
+                  <fpage>1469</fpage>
+                  <lpage>1476</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-015-1643-9</pub-id>
+                  <?supplied-pmid 26556571?>
+                  <pub-id pub-id-type="pmid">26556571</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arweiler</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Boehnke</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Sculean</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Hellwig</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Auschill</surname>
+                      <given-names>TM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Differences in efficacy of two commercial 0.2% chlorhexidine mouthrinse solutions: a 4-day plaque re-growth study</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2006</year>
+                  <volume>33</volume>
+                  <issue>5</issue>
+                  <fpage>334</fpage>
+                  <lpage>339</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2006.00917.x</pub-id>
+                  <?supplied-pmid 16634954?>
+                  <pub-id pub-id-type="pmid">16634954</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Watts</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Addy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tooth discolouration and staining: a review of the literature</article-title>
+                  <source>Br Dent J</source>
+                  <year>2001</year>
+                  <volume>190</volume>
+                  <issue>6</issue>
+                  <fpage>309</fpage>
+                  <lpage>316</lpage>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4800959a</pub-id>
+                  <?supplied-pmid 11325156?>
+                  <pub-id pub-id-type="pmid">11325156</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mumghamba</surname>
+                      <given-names>EG</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitiphat</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Matee</surname>
+                      <given-names>MI</given-names>
+                    </name>
+                    <name>
+                      <surname>Simon</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Merchant</surname>
+                      <given-names>AT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The usefulness of using Ramfjord teeth in predicting periodontal status of a Tanzanian adult population</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2004</year>
+                  <volume>31</volume>
+                  <issue>1</issue>
+                  <fpage>16</fpage>
+                  <lpage>18</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.0303-6979.2004.00430.x</pub-id>
+                  <pub-id pub-id-type="pmid">15058369</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bentley</surname>
+                      <given-names>CD</given-names>
+                    </name>
+                    <name>
+                      <surname>Disney</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison of partial and full mouth scoring of plaque and gingivitis in oral hygiene studies</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1995</year>
+                  <volume>22</volume>
+                  <issue>2</issue>
+                  <fpage>131</fpage>
+                  <lpage>135</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.1995.tb00124.x</pub-id>
+                  <pub-id pub-id-type="pmid">7775669</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Silness</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Røynstrand</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Partial mouth recording of plaque, gingivitis and probing depth in adolescents</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>1988</year>
+                  <volume>15</volume>
+                  <issue>3</issue>
+                  <fpage>189</fpage>
+                  <lpage>192</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051x.1988.tb01568.x</pub-id>
+                  <?supplied-pmid 3162466?>
+                  <pub-id pub-id-type="pmid">3162466</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

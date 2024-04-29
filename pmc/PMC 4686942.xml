@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:47:44Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:4686942" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:4686942</identifier>
+        <datestamp>2016-01-07</datestamp>
+        <setSpec>plosone</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+              <journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id>
+              <journal-id journal-id-type="publisher-id">plos</journal-id>
+              <journal-id journal-id-type="pmc">plosone</journal-id>
+              <journal-title-group>
+                <journal-title>PLoS ONE</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1932-6203</issn>
+              <publisher>
+                <publisher-name>Public Library of Science</publisher-name>
+                <publisher-loc>San Francisco, CA USA</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC4686942</article-id>
+              <article-id pub-id-type="pmcid">PMC4686942</article-id>
+              <article-id pub-id-type="pmc-uid">4686942</article-id>
+              <article-id pub-id-type="pmid">26692013</article-id>
+              <article-id pub-id-type="pmid">26692013</article-id>
+              <article-id pub-id-type="doi">10.1371/journal.pone.0143769</article-id>
+              <article-id pub-id-type="publisher-id">PONE-D-15-40505</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Re-Examining the Association between Vitamin D and Childhood Caries</article-title>
+                <alt-title alt-title-type="running-head">Vitamin D and Childhood Caries</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dudding</surname>
+                    <given-names>Tom</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff001">
+                    <sup>1</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff002">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Thomas</surname>
+                    <given-names>Steve J.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff002">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Duncan</surname>
+                    <given-names>Karen</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff002">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lawlor</surname>
+                    <given-names>Debbie A.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff001">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Timpson</surname>
+                    <given-names>Nicholas J.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff001">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="cor001" ref-type="corresp">*</xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff001">
+                <label>1</label>
+                <addr-line>MRC Integrative Epidemiology Unit, School of Community and Social Medicine, University of Bristol, Bristol, United Kingdom</addr-line>
+              </aff>
+              <aff id="aff002">
+                <label>2</label>
+                <addr-line>School of Oral and Dental Science, Bristol University, Bristol, United Kingdom</addr-line>
+              </aff>
+              <contrib-group>
+                <contrib contrib-type="editor">
+                  <name>
+                    <surname>Divaris</surname>
+                    <given-names>Kimon</given-names>
+                  </name>
+                  <role>Editor</role>
+                  <xref ref-type="aff" rid="edit1"/>
+                </contrib>
+              </contrib-group>
+              <aff id="edit1">
+                <addr-line>UNC School of Dentistry, University of North Carolina-Chapel Hill, UNITED STATES</addr-line>
+              </aff>
+              <author-notes>
+                <fn fn-type="COI-statement" id="coi001">
+                  <p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+                </fn>
+                <fn fn-type="con" id="contrib001">
+                  <p>Conceived and designed the experiments: TD NJT. Performed the experiments: TD. Analyzed the data: TD. Wrote the paper: TD NJT SJT DAL. Collected data: KD.</p>
+                </fn>
+                <corresp id="cor001">* E-mail: <email>n.j.timpson@bris.ac.uk</email></corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>21</day>
+                <month>12</month>
+                <year>2015</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2015</year>
+              </pub-date>
+              <volume>10</volume>
+              <issue>12</issue>
+              <elocation-id>e0143769</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>23</day>
+                  <month>9</month>
+                  <year>2015</year>
+                </date>
+                <date date-type="accepted">
+                  <day>9</day>
+                  <month>11</month>
+                  <year>2015</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© 2015 Dudding et al</copyright-statement>
+                <copyright-year>2015</copyright-year>
+                <copyright-holder>Dudding et al</copyright-holder>
+                <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+                  <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:type="simple" xlink:href="pone.0143769.pdf"/>
+              <abstract>
+                <sec id="sec001">
+                  <title>Background</title>
+                  <p>Previous studies have reported an inverse association between vitamin D and childhood dental caries, but whether this is causal is unclear.</p>
+                </sec>
+                <sec id="sec002">
+                  <title>Objective</title>
+                  <p>To determine the causal effect of circulating 25-hydroxyvitamin D concentration on dental caries experience, early caries onset and the requirement for a dental general anesthetic.</p>
+                </sec>
+                <sec id="sec003">
+                  <title>Design</title>
+                  <p>A Mendelian randomization study was undertaken, using genetic variants known to be associated with circulating 25-hydroxyvitamin D concentrations in 5,545 European origin children from the South West of England. Data on caries and related characteristics were obtained from parental and child completed questionnaires between 38 and 91 months and clinical assessments in a random 10% sample at 31, 44 and 61 months.</p>
+                </sec>
+                <sec id="sec004">
+                  <title>Results</title>
+                  <p>In multivariable confounder adjusted analyses no strong evidence for an association of 25-hydroxyvitamin D with caries experience or severity was found but there was evidence for an association with early caries onset, or having a general anesthetic for dental problems. In Mendelian randomization analysis the odds ratio for caries experience per 10 nmol/L increase in 25-hydroxyvitamin D was 0.93 (95% confidence interval: 0.83, 1.05; <italic>P</italic> = 0.26) and the odds ratio for dental general anaesthetic per 10 nmol/L increase in 25-hydroxyvitamin D was 0.96 (95% confidence interval: 0.75, 1.22; <italic>P</italic> = 0.72).</p>
+                </sec>
+                <sec id="sec005">
+                  <title>Conclusions</title>
+                  <p>This Mendelian randomization study provides little evidence to support an inverse causal effect of 25-hydroxyvitamin D on dental caries. However, the estimates are imprecise and a larger study is required to refine these analyses.</p>
+                </sec>
+              </abstract>
+              <funding-group>
+                <funding-statement>The UK Medical Research Council and the Wellcome Trust (Grant ref: 102215/2/13/2) and the University of Bristol provide core support for ALSPAC.</funding-statement>
+              </funding-group>
+              <counts>
+                <fig-count count="2"/>
+                <table-count count="5"/>
+                <page-count count="13"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta id="data-availability">
+                  <meta-name>Data Availability</meta-name>
+                  <meta-value>All relevant data are within the paper and its Supporting Information files.</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <title>Data Availability</title>
+              <p>All relevant data are within the paper and its Supporting Information files.</p>
+            </notes>
+          </front>
+          <body>
+            <sec sec-type="intro" id="sec006">
+              <title>Introduction</title>
+              <p>Dental caries is the localized destruction of susceptible tooth tissues by acidic by-products from bacterial fermentation of dietary products[<xref rid="pone.0143769.ref001" ref-type="bibr">1</xref>]. In most high income countries caries in primary teeth is decreasing, but it is still common. 31% of 5 year olds in the UK experienced decay in 2013[<xref rid="pone.0143769.ref002" ref-type="bibr">2</xref>], and similar rates exist in other European and North American countries[<xref rid="pone.0143769.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0143769.ref004" ref-type="bibr">4</xref>]. There are approximately 30,000 hospital admissions a year in the UK for dental related issues amongst children, with the majority of these being for treatment under general anesthetic (GA)[<xref rid="pone.0143769.ref005" ref-type="bibr">5</xref>]. Severe early childhood caries (S-ECC), an extreme presentation of childhood caries, is the most common reason for dental GA[<xref rid="pone.0143769.ref005" ref-type="bibr">5</xref>]. Although the risks of GA are low, there is substantial financial costs to the NHS and morbidity to the patient[<xref rid="pone.0143769.ref006" ref-type="bibr">6</xref>].</p>
+              <p>The role of vitamin D in primary caries has been debated and two mechanisms by which vitamin D might influence caries have been suggested. Vitamin D is likely to act through the vitamin D receptor and polymorphisms within this gene have been associated with dental caries[<xref rid="pone.0143769.ref007" ref-type="bibr">7</xref>]. Low vitamin D may facilitate topical demineralizing of teeth, in a similar way to its known action on bone, via reduced concentrations of calcium and phosphate ions. Vitamin D may also modulate caries via immunological factors such as cathelicidins[<xref rid="pone.0143769.ref008" ref-type="bibr">8</xref>, <xref rid="pone.0143769.ref009" ref-type="bibr">9</xref>]. Vitamin D is recorded in blood by measuring 25(OH)D a precursor to the active form (1α, 25 hydroxyvitamin D).</p>
+              <p>Epidemiological and intervention studies investigating this relationship have been of variable quality and reported contradictory findings[<xref rid="pone.0143769.ref010" ref-type="bibr">10</xref>–<xref rid="pone.0143769.ref013" ref-type="bibr">13</xref>]. An umbrella review and meta-analysis of vitamin D and its health benefits, highlighted vitamin D supplementation of children as an effective way to reduce primary caries (relative risk 0.53 (95% confidence interval (CI): 0.43, 0.63)[<xref rid="pone.0143769.ref014" ref-type="bibr">14</xref>]. However, the author of the original review, that forms the majority of this evidence, described the findings as having low certainty and high sources of bias since few were randomized studies and most did not compare baseline characteristics or assess outcomes blind to interventions[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>].</p>
+              <p>Mendelian randomization (MR) uses genetic variants known to be reliably associated with a risk factor of interest to derive estimates of the causal effect of that risk factor on health outcomes[<xref rid="pone.0143769.ref016" ref-type="bibr">16</xref>, <xref rid="pone.0143769.ref017" ref-type="bibr">17</xref>]. Single nucleotide polymorphisms (SNPs) in the genes <italic>CYP2R1</italic>, <italic>DHCR7</italic> and <italic>GC</italic> (rs10741657, rs7944926 and rs2282679) are associated with 25(OH)D concentrations [<xref rid="pone.0143769.ref018" ref-type="bibr">18</xref>, <xref rid="pone.0143769.ref019" ref-type="bibr">19</xref>]. CYP2R1 and DHCR7 encode proteins involved in the 25(OH)D synthetic pathway and GC encodes a 25(OH)D transport protein. The three SNPs are not thought to effect dental caries directly, other than via 25(OH)D. These SNPs have previously been used in MR studies to examine the causal effect of vitamin D on all-cause mortality, cardiovascular and cancer mortality and obesity in adults[<xref rid="pone.0143769.ref020" ref-type="bibr">20</xref>, <xref rid="pone.0143769.ref021" ref-type="bibr">21</xref>]. Furthermore, the difference in mean 25(OH)D between the minor and major homozygotes for the <italic>GC</italic> variant has been shown to be of a similar magnitude to that of supplementation[<xref rid="pone.0143769.ref019" ref-type="bibr">19</xref>].</p>
+              <p>This study aims to investigate the relationships between 25(OH)D and childhood caries experience, onset and severity, as well as dental GA experience. Causal effects will be estimated by conducting MR using a genetic instrument to proxy the effect of 25(OH)D.</p>
+            </sec>
+            <sec sec-type="materials|methods" id="sec007">
+              <title>Methods</title>
+              <sec id="sec008">
+                <title>Participants</title>
+                <p>The Avon Longitudinal Study of Parents and Children (ALSPAC) is a prospective cohort that recruited pregnant women living in the South West of England and who had expected delivery dates between April 1991 and December 1992[<xref rid="pone.0143769.ref022" ref-type="bibr">22</xref>]. Children of non-white ethnic origin as identified using genetic data were excluded from all analyses. Offspring dental health data was recorded both via one or more parent-reported questionnaires at 38, 54, 65 and 77 months and a child self-reported questionnaire at 91 months. A random 10% sample of ALSPAC children born in the last 6 months of the study (June–December 1992) were invited to take part in a sub-study called Children in Focus[<xref rid="pone.0143769.ref023" ref-type="bibr">23</xref>]. At 31, 43 and 61 months of age, these children underwent a dental examination with decayed, missing and filled deciduous teeth (dmft) recorded[<xref rid="pone.0143769.ref024" ref-type="bibr">24</xref>]. The parents gave written informed consent to the participation of their children in the study. All aspects of the study were reviewed and approved by the ALSPAC Law and Ethics Committee, which is registered as an Institutional Review Board. (Approval was also obtained from the local research ethics committees, which are governed by the UK Department of Health.) Please note that the study website contains details of all the data that are available through a fully searchable data dictionary (<ext-link ext-link-type="uri" xlink:href="http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/">http://www.bris.ac.uk/alspac/researchers/data-access/data-dictionary/</ext-link>).</p>
+              </sec>
+              <sec id="sec009">
+                <title>Genotyping</title>
+                <p>A total of 9,912 participants were genotyped using the Illumina HumanHap550 quad genome-wide SNP genotyping platform. Quality control assessment and imputation are described in <xref rid="pone.0143769.s001" ref-type="supplementary-material">S1 Text</xref>. When the dataset included singleton siblings born to the same mother, only the firstborn child was included in the analyses of children. Data for the SNPs is in the form of dosages that includes adjustment for imputation.</p>
+              </sec>
+              <sec id="sec010">
+                <title>Measurement of 25(OH)D concentrations</title>
+                <p>Measurement of 25(OH)D was done primarily on stored serum that had been collected at the 9 year follow-up assessment (mean age 9 years 9 months). If no samples were available from the assessment at age 9, samples from the 11-year assessment or the 7-year assessment were used. In total 6,504 children had a measure of serum 25(OH)D (4,441 from the 9 year assessment, 1,055 from the 7 year and 1,008 the 11 year assessment). The age range of the children with a vitamin D measure was 85 to 163 months.</p>
+                <p>After collection, samples were immediately spun, frozen, and stored at −80°C. Assays were performed after a maximum of 12 years in storage with no previous freeze-thaw cycles. The 25(OH)D<sub>3</sub> and 25(OH)D<sub>2</sub> concentrations were measured with HPLC tandem mass spectrometry using internal standard in a laboratory meeting the performance target set by the Vitamin D External Quality Assessment Scheme Advisory Panel for 25(OH)D assays. Interassay coefficients of variation for the assay were less than 10% across a working range of 2.5–624 nmol/L for both 25(OH)D<sub>3</sub> and 25(OH)D<sub>2</sub> [<xref rid="pone.0143769.ref025" ref-type="bibr">25</xref>]. Serum 25(OH)D concentrations were calculated as the sum of 25(OH)D<sub>3</sub> and 25(OH)D<sub>2</sub> and adjusted for seasonality.</p>
+              </sec>
+              <sec id="sec011">
+                <title>Outcome variables</title>
+                <p>Parental completed questionnaires obtained data on whether the child had ever had a filling or extraction; those who answered yes were defined has having experienced caries. It was not possible to obtain information on untreated decay from parental completed questionnaires. Child self reported questionnaires obtained data on if the child had ever had a filling, an extraction or had current untreated caries. Whether a child had received a GA for a dental extraction by 91 months was also recorded in both questionnaire types. The age of the child when the case-identifying questionnaire was completed was used as a measure of first caries experience. Questions from parental and child reported questionnaires are available in <xref rid="pone.0143769.s002" ref-type="supplementary-material">S2 Text</xref>. All participants had at least one parental reported and one child reported questionnaire, case status in either was used to identify a case. For the subgroup of children who were clinically assessed, evidence of untreated and treated caries were obtained and combined into a single variable representing examination assessed experience of caries. Severity of caries was recorded as dmft. For those with questionnaire and clinic assessment data (N = 624), caries experience was used to validate questionnaire data by identifying misclassified caries experience cases.</p>
+              </sec>
+              <sec id="sec012">
+                <title>Potential confounding factors</title>
+                <p>Consistent with other studies we have previously shown that season, age, sex, pubertal status, ethnicity, socioeconomic position, time spent outdoors and body mass index (BMI) are related to 25(OH)D concentrations[<xref rid="pone.0143769.ref025" ref-type="bibr">25</xref>]. For BMI a previous MR study has shown that it causally influences 25(OH)D concentration[<xref rid="pone.0143769.ref021" ref-type="bibr">21</xref>] and observational studies have reported associations between BMI and caries[<xref rid="pone.0143769.ref026" ref-type="bibr">26</xref>]. Of the remaining we considered that age, sex, ethnicity and socioeconomic position were also risk factors for dental caries and therefore confound the observational association. In this study we restricted analyses to participants who reported their ethnicity as “white”. Season of measurement of 25(OH)D was determined from the date at which the blood sample was obtained and values were adjusted for seasonality using a sine-cosine regression method as previously described[<xref rid="pone.0143769.ref027" ref-type="bibr">27</xref>]. Household occupational social class and maternal highest educational qualification were tested as measures of socioeconomic position with data on these obtained by questionnaire at recruitment of the mothers. Maternal educational qualification was found to have more of an effect than household occupational social class or both variables together, and therefore used alone in multivariable analyses. Sex was recorded at birth and age at the clinics when 25(OH)D was assessed. 25(OH)D and caries measurements were not recorded at the same time, the lag time between the last caries measure and the 25(OH)D measure was calculated.</p>
+              </sec>
+              <sec id="sec013">
+                <title>Statistical analysis</title>
+                <p>Multivariable regression analyses and MR instrumental variable analyses were employed to test observational and causal effects of the associations between 25(OH)D with dental caries outcomes. To explore the extent to which missing data might have biased our findings, we presented means (medians if the data were skewed) for continuous variables and proportions for categorical variables in the potentially available participants, participants involved in multivariate analysis and participants involved in MR analysis.</p>
+                <p>In both multivariable regression and MR instrumental variable analyses we examined the relationship of 25(OH)D and seasonally adjusted 25(OH)D as continuous variables, examining the association of each greater 10 nmol/L 25(OH)D with outcomes, as in previous studies. In the multivariable regression analyses we also examined associations with 25(OH)D categorized as: sufficient (&gt;50 nmol/L), insufficient (30–49 nmol/L) and deficient (&lt;30nmol/L)[<xref rid="pone.0143769.ref028" ref-type="bibr">28</xref>]. For caries onset we generated a binary variable that arbitrarily separates the lower tertile, early onset, from the upper 2 tertiles.</p>
+                <p>In the subset of participants with both clinical and questionnaire dental data we used a T-test to compare mean 25(OH)D between correctly and incorrectly classified cases.</p>
+                <p>We examined the associations of potential confounding factors with 25(OH)D categories and also with the SNP genotypes by presenting means or proportions by categories of 25(OH)D and genotype and using an F-test or χ<sup>2</sup> to test for differences. Our a priori assumption was that 25(OH)D categories would be related to many of the confounders whereas the SNPs would not.</p>
+                <sec id="sec014">
+                  <title>Multivariable regression</title>
+                  <p>Logistic regression was used to examine the association of 25(OH)D (continuous or categorical variable) with caries experience, dental GA, caries onset and clinically measured caries experience. The clinical assessment severity data had a non-normal distribution. In STATA zero-inflated Poisson regression (‘zip’)[<xref rid="pone.0143769.ref029" ref-type="bibr">29</xref>] was used to assess the association of 25(OH)D with caries severity (dmft), using robust variance estimators (‘vce(robust)’) [<xref rid="pone.0143769.ref030" ref-type="bibr">30</xref>]. The Poisson regression coefficients were back transformed into dmft counts. In these analyses we present six models: unadjusted; 1—adjusted for season; 2 –adjusted for season and time lag between 25(OH)D and caries measure; 3 –adjusted for season, time lag sex and age; 4—adjusted for model 3 plus mothers highest education and 5—adjusted for model 3 plus BMI.</p>
+                </sec>
+                <sec id="sec015">
+                  <title>Instrumental variable analyses</title>
+                  <p>SNP imputation quality was assessed using r<sup>2</sup> from MACH imputation software. For MR analyses, the three SNP dosages were combined to produce a genetic risk score of between 0 and 6 weighted by the strength of the effect of each individual variant on 25(OH)D recorded in the discovery paper[<xref rid="pone.0143769.ref019" ref-type="bibr">19</xref>]. This instrument was assessed with respect to its association with potential confounders across quintiles of the genetic risk score.</p>
+                  <p>Logistic structural mean models were used for MR analysis of caries experience, dental GA and caries onset[<xref rid="pone.0143769.ref031" ref-type="bibr">31</xref>]. The small sample size meant we did not examine effects on clinically recorded caries experience or severity (dmft) with the MR approach.</p>
+                  <p>Considering the reported upper confidence interval of effect of vitamin D supplementation on caries (risk ratio = 0.63)[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>] a sample size of 4155 would be required to detect a causal effect of 25(OH)D concentration on caries experience using MR with 90% power (α = 0.05)[<xref rid="pone.0143769.ref032" ref-type="bibr">32</xref>].</p>
+                  <p>All analysis was performed using STATA 13 (Stata Corp, Texas, USA).</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="sec016">
+              <title>Results</title>
+              <p><xref rid="pone.0143769.g001" ref-type="fig">Fig 1</xref> shows the flow of participants through the study and provides details of missing data. After excluding participants who died in utero or the first year of life and the small number who withdrew consent there were potentially 14,681 participants available for study. Of these 8,117 had no data on caries or 25(OH)D. Removing participants with missing confounder data left 6,259 for inclusion in the multivariable regression analyses. 959 participants were missing genetic variant data and therefore 5,545 were included in the MR analyses.</p>
+              <fig id="pone.0143769.g001" orientation="portrait" position="float">
+                <object-id pub-id-type="doi">10.1371/journal.pone.0143769.g001</object-id>
+                <label>Fig 1</label>
+                <caption>
+                  <title>Study profile.</title>
+                </caption>
+                <graphic xlink:href="pone.0143769.g001"/>
+              </fig>
+              <p>Mean age of blood sample for all participants with 25(OH)D assessment (n = 6,507) was 9 years 9 months with an overall median concentration of 60.9 nmol/L (IQR: 48.2, 75.1).</p>
+              <p>Amongst all 14,043 children with data on dental caries 3,839 (27.3%) had caries experience with a median age of onset of 77 months (IQR: 65, 91). Of the 7,045 with data on dental GA 716 (10.2%) had a dental GA by 91 months. The equivalent results for participants with complete data for multivariate analysis and MR analysis are shown in <xref rid="pone.0143769.t001" ref-type="table">Table 1</xref>. Of the 916 children who received clinical dental examinations, modal dmft was 0 (range: 0, 13). In participants included in multivariate analysis (n = 6,259) caries experience was similar in females (37.0%) and males (36.0%) (<italic>P</italic> = 0.37) as were the median age of caries onset (females: 78 months (IQR:65, 91); males: 77 months (IQR: 65, 91)).</p>
+              <table-wrap id="pone.0143769.t001" orientation="portrait" position="float">
+                <object-id pub-id-type="doi">10.1371/journal.pone.0143769.t001</object-id>
+                <label>Table 1</label>
+                <caption>
+                  <title>Baseline characteristics of 25-hydroxyvitamin D, clinical outcomes and confounders in all potentially eligible participants and those with complete data for multivariate and MR analysis.</title>
+                </caption>
+                <alternatives>
+                  <graphic id="pone.0143769.t001g" xlink:href="pone.0143769.t001"/>
+                  <table frame="hsides" rules="groups">
+                    <colgroup span="1">
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                    </colgroup>
+                    <thead>
+                      <tr>
+                        <th align="left" rowspan="1" colspan="1"/>
+                        <th colspan="2" align="center" rowspan="1">All eligible participants</th>
+                        <th align="center" rowspan="1" colspan="1">Multivariate analysis</th>
+                        <th align="center" rowspan="1" colspan="1">MR analysis</th>
+                      </tr>
+                      <tr>
+                        <th align="left" rowspan="1" colspan="1"/>
+                        <th colspan="2" align="center" rowspan="1">n = 14,681</th>
+                        <th align="center" rowspan="1" colspan="1">n = 6,259</th>
+                        <th align="center" rowspan="1" colspan="1">n = 5,545</th>
+                      </tr>
+                      <tr>
+                        <th align="center" rowspan="1" colspan="1">Variable</th>
+                        <th align="center" rowspan="1" colspan="1">n</th>
+                        <th align="center" rowspan="1" colspan="1">Mean (SD) or N (%)</th>
+                        <th align="center" rowspan="1" colspan="1">Mean (SD) or N (%)</th>
+                        <th align="center" rowspan="1" colspan="1">Mean (SD) or N (%)</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Serum 25(OH)D (nmol/L)</bold>
+                          <xref rid="t001fn001" ref-type="table-fn">
+                            <sup>a</sup>
+                          </xref>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">6,504</td>
+                        <td align="right" rowspan="1" colspan="1">60.9 (48.4–75.0)</td>
+                        <td align="right" rowspan="1" colspan="1">60.9 (48.4–74.9)</td>
+                        <td align="right" rowspan="1" colspan="1">60.9 (48.4–74.9)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Age at vitamin D measurement (months)</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">6,504</td>
+                        <td align="right" rowspan="1" colspan="1">117.3 (14.9)</td>
+                        <td align="right" rowspan="1" colspan="1">117.3 (14.8)</td>
+                        <td align="right" rowspan="1" colspan="1">118 (15)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Female</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">14,681</td>
+                        <td align="right" rowspan="1" colspan="1">7,146 (48.7)</td>
+                        <td align="right" rowspan="1" colspan="1">3,076 (49.2)</td>
+                        <td align="right" rowspan="1" colspan="1">2,745 (49.5)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Caries at 91 months</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">14,043</td>
+                        <td align="right" rowspan="1" colspan="1">3,839 (27.3)</td>
+                        <td align="right" rowspan="1" colspan="1">2,285(36.5)</td>
+                        <td align="right" rowspan="1" colspan="1">1933 (34.9)</td>
+                      </tr>
+                      <tr>
+                        <td align="right" rowspan="1" colspan="1">
+                          <italic>Age of caries onset</italic>
+                          <xref rid="t001fn001" ref-type="table-fn">
+                            <sup>a</sup>
+                          </xref>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">
+                          <italic>77 (65–91)</italic>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">
+                          <italic>78 (65–91)</italic>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">
+                          <italic>77 (65–91)</italic>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="right" rowspan="1" colspan="1">
+                          <italic>Early caries onset</italic>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1"><italic>1</italic>,<italic>285 (33</italic>.<italic>5)</italic></td>
+                        <td align="right" rowspan="1" colspan="1"><italic>726 (31</italic>.<italic>8)</italic></td>
+                        <td align="right" rowspan="1" colspan="1"><italic>614 (31</italic>.<italic>8)</italic></td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Maternal highest educational qualification</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">12,408</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1"/>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"> CSE</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">2,503 (20.2)</td>
+                        <td align="right" rowspan="1" colspan="1">827 (13.2)</td>
+                        <td align="right" rowspan="1" colspan="1">739 (13.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"> Vocational</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">1,224 (9.86)</td>
+                        <td align="right" rowspan="1" colspan="1">525 (45)</td>
+                        <td align="right" rowspan="1" colspan="1">460 (8.3)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"> O Level</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">4,292 (34.6)</td>
+                        <td align="right" rowspan="1" colspan="1">2,234 (35.7)</td>
+                        <td align="right" rowspan="1" colspan="1">1,932 (34.9)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"> A Level</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">2,790 (22.5)</td>
+                        <td align="right" rowspan="1" colspan="1">1,639 (26.2)</td>
+                        <td align="right" rowspan="1" colspan="1">1,457 (26.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"> Degree</td>
+                        <td align="right" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">1,599 (12.9)</td>
+                        <td align="right" rowspan="1" colspan="1">1,034 (16.5)</td>
+                        <td align="right" rowspan="1" colspan="1">942 (17.0)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Body mass index (kg/m</bold>
+                          <sup>
+                            <bold>2</bold>
+                          </sup>
+                          <bold>)</bold>
+                          <xref rid="t001fn001" ref-type="table-fn">
+                            <sup>a</sup>
+                          </xref>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">9,264</td>
+                        <td align="right" rowspan="1" colspan="1">17.1 (15.7–19.3)</td>
+                        <td align="right" rowspan="1" colspan="1">16.9 (15.6–18.9)</td>
+                        <td align="right" rowspan="1" colspan="1">16.9 (15.6–18.9)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Dental GA at 91 months</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">7,045</td>
+                        <td align="right" rowspan="1" colspan="1">716 (10.2)</td>
+                        <td align="right" rowspan="1" colspan="1">394 (8.3)<xref rid="t001fn002" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                        <td align="right" rowspan="1" colspan="1">332 (8.2)<xref rid="t001fn003" ref-type="table-fn"><sup>c</sup></xref>
+</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </alternatives>
+                <table-wrap-foot>
+                  <fn id="t001fn001">
+                    <p><sup>a</sup> Median and interquartile range are displayed as variable is skewed</p>
+                  </fn>
+                  <fn id="t001fn002">
+                    <p><sup>b</sup> n = 4,742</p>
+                  </fn>
+                  <fn id="t001fn003">
+                    <p><sup>c</sup> n = 4,072</p>
+                  </fn>
+                  <fn id="t001fn004">
+                    <p><italic>Italics</italic>—Caries cases only. MR = Mendelian randomization.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>The latest clinical dental assessment was at 61 months, and allowed for assessment of agreement between caries experience from clinical assessment and questionnaire at 65 months (the nearest questionnaire to the last clinic assessment) (<xref rid="pone.0143769.t002" ref-type="table">Table 2</xref>). In comparisons with clinically recorded dental caries data (taken as “gold standard”), 6% of questionnaire caries cases were false positives and 13% of questionnaire controls were false negatives. There was no substantial evidence of a difference in 25(OH)D concentration between correctly- (mean (SD) = 65.8 (22.4)) and incorrectly-classified (mean (SD) = 65.4 (21.8)) participants (<italic>P</italic> = 0.90).</p>
+              <table-wrap id="pone.0143769.t002" orientation="portrait" position="float">
+                <object-id pub-id-type="doi">10.1371/journal.pone.0143769.t002</object-id>
+                <label>Table 2</label>
+                <caption>
+                  <title>Cross-tabulation showing 25-hydroxyvitamin D by caries experience recorded at clinical examination (61 months) and by parent reported questionnaire (65 months).</title>
+                </caption>
+                <alternatives>
+                  <graphic id="pone.0143769.t002g" xlink:href="pone.0143769.t002"/>
+                  <table frame="hsides" rules="groups">
+                    <colgroup span="1">
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                      <col align="left" valign="middle" span="1"/>
+                    </colgroup>
+                    <thead>
+                      <tr>
+                        <th rowspan="2" align="left" colspan="1">Clinical data</th>
+                        <th rowspan="2" align="left" colspan="1"/>
+                        <th colspan="3" align="center" rowspan="1">Questionnaire data</th>
+                      </tr>
+                      <tr>
+                        <th align="right" rowspan="1" colspan="1">No caries</th>
+                        <th align="right" rowspan="1" colspan="1">Caries</th>
+                        <th align="right" rowspan="1" colspan="1">Total</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>No caries</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">N</td>
+                        <td align="right" rowspan="1" colspan="1">474</td>
+                        <td align="right" rowspan="1" colspan="1">5</td>
+                        <td align="right" rowspan="1" colspan="1">479</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">Median (IQR) 25(OH)D</td>
+                        <td align="right" rowspan="1" colspan="1">63.9 (52.7–76.4)</td>
+                        <td align="right" rowspan="1" colspan="1">61.2 (55.9–82.4)</td>
+                        <td align="right" rowspan="1" colspan="1">63.9 (52.7–76.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Caries</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">N</td>
+                        <td align="right" rowspan="1" colspan="1">72</td>
+                        <td align="right" rowspan="1" colspan="1">73</td>
+                        <td align="right" rowspan="1" colspan="1">145</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">Median (IQR) 25(OH)D</td>
+                        <td align="right" rowspan="1" colspan="1">62.9 (51.2–72.3)</td>
+                        <td align="right" rowspan="1" colspan="1">59.2 (49.9–76.9)</td>
+                        <td align="right" rowspan="1" colspan="1">59.9 (50.7–75.6)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">
+                          <bold>Total</bold>
+                        </td>
+                        <td align="right" rowspan="1" colspan="1">N</td>
+                        <td align="right" rowspan="1" colspan="1">546</td>
+                        <td align="right" rowspan="1" colspan="1">78</td>
+                        <td align="right" rowspan="1" colspan="1">624</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1"/>
+                        <td align="right" rowspan="1" colspan="1">Median (IQR) 25(OH)D</td>
+                        <td align="right" rowspan="1" colspan="1">63.5 (52.2–76.4)</td>
+                        <td align="right" rowspan="1" colspan="1">59.5 (49.9–77.4)</td>
+                        <td align="right" rowspan="1" colspan="1">62.9 (51.9–76.4)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </alternatives>
+              </table-wrap>
+              <sec id="sec017">
+                <title>Associations of 25(OH)D and vitamin D SNPs with potential confounders</title>
+                <p>For sex, age, BMI and lag time there was strong evidence for association with 25(OH)D (<xref rid="pone.0143769.t003" ref-type="table">Table 3</xref>). In contrast with this there was no evidence for association between measured confounders and genetic risk score for vitamin D (<xref rid="pone.0143769.t004" ref-type="table">Table 4</xref>). No single SNP showed any association with any measured confounders (data not shown).</p>
+                <table-wrap id="pone.0143769.t003" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0143769.t003</object-id>
+                  <label>Table 3</label>
+                  <caption>
+                    <title>Potential confounders across quintiles of 25-hydroxyvitamin D.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone.0143769.t003g" xlink:href="pone.0143769.t003"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th colspan="8" align="center" rowspan="1">Quintiles of 25-hydroxyvitamin D</th>
+                        </tr>
+                        <tr>
+                          <th align="left" rowspan="1" colspan="1"/>
+                          <th align="right" rowspan="1" colspan="1">1 %</th>
+                          <th align="right" rowspan="1" colspan="1">2 %</th>
+                          <th align="right" rowspan="1" colspan="1">3 %</th>
+                          <th align="right" rowspan="1" colspan="1">4 %</th>
+                          <th align="right" rowspan="1" colspan="1">5 %</th>
+                          <th align="right" rowspan="1" colspan="1">Total %</th>
+                          <th align="right" rowspan="1" colspan="1">P-value</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Sex</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Female</td>
+                          <td align="right" rowspan="1" colspan="1">52.8</td>
+                          <td align="right" rowspan="1" colspan="1">49.5</td>
+                          <td align="right" rowspan="1" colspan="1">52.1</td>
+                          <td align="right" rowspan="1" colspan="1">47.4</td>
+                          <td align="right" rowspan="1" colspan="1">43.8</td>
+                          <td align="right" rowspan="1" colspan="1">49.1</td>
+                          <td align="char" char="." rowspan="1" colspan="1">&lt;0.001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Highest qualification</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="char" char="." rowspan="1" colspan="1">0.467</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">CSE</td>
+                          <td align="right" rowspan="1" colspan="1">14.9</td>
+                          <td align="right" rowspan="1" colspan="1">13.5</td>
+                          <td align="right" rowspan="1" colspan="1">11.0</td>
+                          <td align="right" rowspan="1" colspan="1">13.2</td>
+                          <td align="right" rowspan="1" colspan="1">13.4</td>
+                          <td align="right" rowspan="1" colspan="1">13.2</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Vocational</td>
+                          <td align="right" rowspan="1" colspan="1">7.7</td>
+                          <td align="right" rowspan="1" colspan="1">9.1</td>
+                          <td align="right" rowspan="1" colspan="1">8.1</td>
+                          <td align="right" rowspan="1" colspan="1">8.7</td>
+                          <td align="right" rowspan="1" colspan="1">8.3</td>
+                          <td align="right" rowspan="1" colspan="1">8.4</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">O level</td>
+                          <td align="right" rowspan="1" colspan="1">34.4</td>
+                          <td align="right" rowspan="1" colspan="1">34.2</td>
+                          <td align="right" rowspan="1" colspan="1">37.2</td>
+                          <td align="right" rowspan="1" colspan="1">35.8</td>
+                          <td align="right" rowspan="1" colspan="1">36.9</td>
+                          <td align="right" rowspan="1" colspan="1">35.7</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">A level</td>
+                          <td align="right" rowspan="1" colspan="1">25.5</td>
+                          <td align="right" rowspan="1" colspan="1">27.4</td>
+                          <td align="right" rowspan="1" colspan="1">27.3</td>
+                          <td align="right" rowspan="1" colspan="1">25.2</td>
+                          <td align="right" rowspan="1" colspan="1">25.5</td>
+                          <td align="right" rowspan="1" colspan="1">26.2</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Degree</td>
+                          <td align="right" rowspan="1" colspan="1">17.6</td>
+                          <td align="right" rowspan="1" colspan="1">15.8</td>
+                          <td align="right" rowspan="1" colspan="1">16.3</td>
+                          <td align="right" rowspan="1" colspan="1">17.1</td>
+                          <td align="right" rowspan="1" colspan="1">15.8</td>
+                          <td align="right" rowspan="1" colspan="1">16.5</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Parental social class</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="char" char="." rowspan="1" colspan="1">0.147</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">I</td>
+                          <td align="right" rowspan="1" colspan="1">16.0</td>
+                          <td align="right" rowspan="1" colspan="1">16.7</td>
+                          <td align="right" rowspan="1" colspan="1">14.1</td>
+                          <td align="right" rowspan="1" colspan="1">17.3</td>
+                          <td align="right" rowspan="1" colspan="1">15.1</td>
+                          <td align="right" rowspan="1" colspan="1">15.9</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">II</td>
+                          <td align="right" rowspan="1" colspan="1">43.1</td>
+                          <td align="right" rowspan="1" colspan="1">42.9</td>
+                          <td align="right" rowspan="1" colspan="1">47.1</td>
+                          <td align="right" rowspan="1" colspan="1">44.4</td>
+                          <td align="right" rowspan="1" colspan="1">46.6</td>
+                          <td align="right" rowspan="1" colspan="1">44.8</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">III (non-manual)</td>
+                          <td align="right" rowspan="1" colspan="1">25.2</td>
+                          <td align="right" rowspan="1" colspan="1">24.5</td>
+                          <td align="right" rowspan="1" colspan="1">26.7</td>
+                          <td align="right" rowspan="1" colspan="1">23.0</td>
+                          <td align="right" rowspan="1" colspan="1">25.1</td>
+                          <td align="right" rowspan="1" colspan="1">24.9</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">III (manual)</td>
+                          <td align="right" rowspan="1" colspan="1">11.5</td>
+                          <td align="right" rowspan="1" colspan="1">11.4</td>
+                          <td align="right" rowspan="1" colspan="1">8.6</td>
+                          <td align="right" rowspan="1" colspan="1">10.7</td>
+                          <td align="right" rowspan="1" colspan="1">9.6</td>
+                          <td align="right" rowspan="1" colspan="1">10.4</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">IV</td>
+                          <td align="right" rowspan="1" colspan="1">3.4</td>
+                          <td align="right" rowspan="1" colspan="1">4.1</td>
+                          <td align="right" rowspan="1" colspan="1">3.2</td>
+                          <td align="right" rowspan="1" colspan="1">4.0</td>
+                          <td align="right" rowspan="1" colspan="1">3.1</td>
+                          <td align="right" rowspan="1" colspan="1">3.6</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">V</td>
+                          <td align="right" rowspan="1" colspan="1">0.8</td>
+                          <td align="right" rowspan="1" colspan="1">0.4</td>
+                          <td align="right" rowspan="1" colspan="1">0.3</td>
+                          <td align="right" rowspan="1" colspan="1">0.7</td>
+                          <td align="right" rowspan="1" colspan="1">0.4</td>
+                          <td align="right" rowspan="1" colspan="1">0.5</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Age of 25(OH)D measure (months)</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">119.9(13.5)</td>
+                          <td align="right" rowspan="1" colspan="1">120.4(13.8)</td>
+                          <td align="right" rowspan="1" colspan="1">119.1(13.6)</td>
+                          <td align="right" rowspan="1" colspan="1">117.1(14.1)</td>
+                          <td align="right" rowspan="1" colspan="1">110.1(16.3)</td>
+                          <td align="right" rowspan="1" colspan="1">117.3(14.8)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">&lt;0.0001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>BMI (kg/m</bold>
+                            <sup>
+                              <bold>2</bold>
+                            </sup>
+                            <bold>)</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">17.2(15.7–19.5)</td>
+                          <td align="left" rowspan="1" colspan="1">17.2(15.7–19.4)</td>
+                          <td align="left" rowspan="1" colspan="1">17.1(15.8–19.0)</td>
+                          <td align="left" rowspan="1" colspan="1">16.8(15.6–18.7)</td>
+                          <td align="left" rowspan="1" colspan="1">16.5(15.4–18.2)</td>
+                          <td align="left" rowspan="1" colspan="1">16.9(15.6–18.9)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">&lt;0.0001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Lag time (months)</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">27(24–42)</td>
+                          <td align="right" rowspan="1" colspan="1">27(24–44)</td>
+                          <td align="right" rowspan="1" colspan="1">27(24–42)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–39)</td>
+                          <td align="right" rowspan="1" colspan="1">24(10–30)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–40)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">&lt;0.0001</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>N</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">1,259</td>
+                          <td align="right" rowspan="1" colspan="1">1,262</td>
+                          <td align="right" rowspan="1" colspan="1">1,243</td>
+                          <td align="right" rowspan="1" colspan="1">1,245</td>
+                          <td align="right" rowspan="1" colspan="1">1,250</td>
+                          <td align="right" rowspan="1" colspan="1">6,259</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                </table-wrap>
+                <table-wrap id="pone.0143769.t004" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0143769.t004</object-id>
+                  <label>Table 4</label>
+                  <caption>
+                    <title>Potential confounders across quintiles of genetic score.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone.0143769.t004g" xlink:href="pone.0143769.t004"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th colspan="8" align="center" rowspan="1">Quintiles of Genetic Risk Score</th>
+                        </tr>
+                        <tr>
+                          <th align="left" rowspan="1" colspan="1"/>
+                          <th align="right" rowspan="1" colspan="1">1 %</th>
+                          <th align="right" rowspan="1" colspan="1">2 %</th>
+                          <th align="right" rowspan="1" colspan="1">3 %</th>
+                          <th align="right" rowspan="1" colspan="1">4 %</th>
+                          <th align="right" rowspan="1" colspan="1">5 %</th>
+                          <th align="right" rowspan="1" colspan="1">Total %</th>
+                          <th align="right" rowspan="1" colspan="1">P-value</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Sex</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Female</td>
+                          <td align="right" rowspan="1" colspan="1">49.7</td>
+                          <td align="right" rowspan="1" colspan="1">49.3</td>
+                          <td align="right" rowspan="1" colspan="1">48.7</td>
+                          <td align="right" rowspan="1" colspan="1">50.0</td>
+                          <td align="right" rowspan="1" colspan="1">49.7</td>
+                          <td align="right" rowspan="1" colspan="1">49.5</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.978</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Highest qualification</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="char" char="." rowspan="1" colspan="1">0.102</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">CSE</td>
+                          <td align="right" rowspan="1" colspan="1">14.3</td>
+                          <td align="right" rowspan="1" colspan="1">12.7</td>
+                          <td align="right" rowspan="1" colspan="1">12.3</td>
+                          <td align="right" rowspan="1" colspan="1">13.2</td>
+                          <td align="right" rowspan="1" colspan="1">13.9</td>
+                          <td align="right" rowspan="1" colspan="1">13.4</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Vocational</td>
+                          <td align="right" rowspan="1" colspan="1">10.0</td>
+                          <td align="right" rowspan="1" colspan="1">6.8</td>
+                          <td align="right" rowspan="1" colspan="1">8.8</td>
+                          <td align="right" rowspan="1" colspan="1">8.6</td>
+                          <td align="right" rowspan="1" colspan="1">6.7</td>
+                          <td align="right" rowspan="1" colspan="1">8.3</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">O level</td>
+                          <td align="right" rowspan="1" colspan="1">34.2</td>
+                          <td align="right" rowspan="1" colspan="1">35.0</td>
+                          <td align="right" rowspan="1" colspan="1">33.0</td>
+                          <td align="right" rowspan="1" colspan="1">35.2</td>
+                          <td align="right" rowspan="1" colspan="1">37.4</td>
+                          <td align="right" rowspan="1" colspan="1">34.9</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">A level</td>
+                          <td align="right" rowspan="1" colspan="1">25.3</td>
+                          <td align="right" rowspan="1" colspan="1">28.3</td>
+                          <td align="right" rowspan="1" colspan="1">28.0</td>
+                          <td align="right" rowspan="1" colspan="1">26.7</td>
+                          <td align="right" rowspan="1" colspan="1">24.1</td>
+                          <td align="right" rowspan="1" colspan="1">26.3</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Degree</td>
+                          <td align="right" rowspan="1" colspan="1">16.1</td>
+                          <td align="right" rowspan="1" colspan="1">17.2</td>
+                          <td align="right" rowspan="1" colspan="1">17.9</td>
+                          <td align="right" rowspan="1" colspan="1">16.4</td>
+                          <td align="right" rowspan="1" colspan="1">17.8</td>
+                          <td align="right" rowspan="1" colspan="1">17.0</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Parental social class</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="char" char="." rowspan="1" colspan="1">0.261</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">I</td>
+                          <td align="right" rowspan="1" colspan="1">14.9</td>
+                          <td align="right" rowspan="1" colspan="1">17.5</td>
+                          <td align="right" rowspan="1" colspan="1">17.6</td>
+                          <td align="right" rowspan="1" colspan="1">14.8</td>
+                          <td align="right" rowspan="1" colspan="1">16.6</td>
+                          <td align="right" rowspan="1" colspan="1">16.2</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">II</td>
+                          <td align="right" rowspan="1" colspan="1">44.2</td>
+                          <td align="right" rowspan="1" colspan="1">42.6</td>
+                          <td align="right" rowspan="1" colspan="1">47.3</td>
+                          <td align="right" rowspan="1" colspan="1">44.6</td>
+                          <td align="right" rowspan="1" colspan="1">45.7</td>
+                          <td align="right" rowspan="1" colspan="1">44.9</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">III (non-manual)</td>
+                          <td align="right" rowspan="1" colspan="1">25.2</td>
+                          <td align="right" rowspan="1" colspan="1">25.1</td>
+                          <td align="right" rowspan="1" colspan="1">22.7</td>
+                          <td align="right" rowspan="1" colspan="1">23.9</td>
+                          <td align="right" rowspan="1" colspan="1">24.4</td>
+                          <td align="right" rowspan="1" colspan="1">24.3</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">III (manual)</td>
+                          <td align="right" rowspan="1" colspan="1">11.8</td>
+                          <td align="right" rowspan="1" colspan="1">11.5</td>
+                          <td align="right" rowspan="1" colspan="1">8.4</td>
+                          <td align="right" rowspan="1" colspan="1">11.6</td>
+                          <td align="right" rowspan="1" colspan="1">9.9</td>
+                          <td align="right" rowspan="1" colspan="1">10.7</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">IV</td>
+                          <td align="right" rowspan="1" colspan="1">3.4</td>
+                          <td align="right" rowspan="1" colspan="1">2.9</td>
+                          <td align="right" rowspan="1" colspan="1">3.5</td>
+                          <td align="right" rowspan="1" colspan="1">4.3</td>
+                          <td align="right" rowspan="1" colspan="1">3.1</td>
+                          <td align="right" rowspan="1" colspan="1">3.5</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">V</td>
+                          <td align="right" rowspan="1" colspan="1">0.6</td>
+                          <td align="right" rowspan="1" colspan="1">0.5</td>
+                          <td align="right" rowspan="1" colspan="1">0.4</td>
+                          <td align="right" rowspan="1" colspan="1">0.7</td>
+                          <td align="right" rowspan="1" colspan="1">0.3</td>
+                          <td align="right" rowspan="1" colspan="1">0.5</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1">Mean (SD)</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Age of 25(OH)D measure (months)</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">118.3(14.9)</td>
+                          <td align="right" rowspan="1" colspan="1">117.8(14.9)</td>
+                          <td align="right" rowspan="1" colspan="1">116.7(14.7)</td>
+                          <td align="right" rowspan="1" colspan="1">117.6(14.2)</td>
+                          <td align="right" rowspan="1" colspan="1">117.4(14.4)</td>
+                          <td align="right" rowspan="1" colspan="1">117.6(14.6)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.094</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>BMI (kg/m</bold>
+                            <sup>
+                              <bold>2</bold>
+                            </sup>
+                            <bold>)</bold>
+                          </td>
+                          <td align="left" rowspan="1" colspan="1">17.0(15.6–19.1)</td>
+                          <td align="left" rowspan="1" colspan="1">16.9(15.6–19.2)</td>
+                          <td align="left" rowspan="1" colspan="1">16.8(15.6–18.7)</td>
+                          <td align="left" rowspan="1" colspan="1">16.9(15.7–18.9)</td>
+                          <td align="left" rowspan="1" colspan="1">17.1(15.7–19.1)</td>
+                          <td align="left" rowspan="1" colspan="1">16.9(15.6–18.9)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.608</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1"/>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="left" rowspan="1" colspan="1">Median (IQR)</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>Lag time (months)</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">27(23–42)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–40)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–38)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–40)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–41)</td>
+                          <td align="right" rowspan="1" colspan="1">26(23–40)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.999</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>N</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">1,364</td>
+                          <td align="right" rowspan="1" colspan="1">871</td>
+                          <td align="right" rowspan="1" colspan="1">1,096</td>
+                          <td align="right" rowspan="1" colspan="1">1,113</td>
+                          <td align="right" rowspan="1" colspan="1">1,101</td>
+                          <td align="right" rowspan="1" colspan="1">5,545</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                </table-wrap>
+              </sec>
+              <sec id="sec018">
+                <title>Multivariable regression analyses</title>
+                <p>As a continuous variable 25(OH)D did not show convincing evidence of association with caries experience in unadjusted or confounder adjusted analyses (1.00 (95% CI: 0.97, 1.02) <italic>P</italic> = 0.79) (<xref rid="pone.0143769.t005" ref-type="table">Table 5</xref>). When corrected for season and lag time (model 2) weak evidence for an association was found however this is lost with further adjustment for confounders. There was some evidence that higher 25(OH)D concentrations were related to a reduced odds of dental GA, with an odds ratio of 0.94 (95% CI: 0.89, 1.00; <italic>P</italic> = 0.05) per 10 nmol/L increase in 25(OH)D in the confounder adjusted model (<xref rid="pone.0143769.t005" ref-type="table">Table 5</xref>). Among the 2,285 children who had experience of caries the age of onset appeared younger with higher 25(OH)D concentrations (0.93 (95% CI: 0.88, 0.98; <italic>P</italic> = 0.01). Among the 619 with clinic assessed caries, the OR for caries experience per 10 nmol/L increase in 25(OH)D was 0.93 (95% CI: 0.83, 1.04; <italic>P</italic> = 0.19) in fully adjusted models, although the confidence intervals were wide and included the null (<xref rid="pone.0143769.t005" ref-type="table">Table 5</xref>). When caries severity from clinical assessment was analyzed the severity score was lower by 0.95 counts of dmft (95% CI: 0.88, 1.03; <italic>P</italic> = 0.22) in models adjusting for season, age and sex (<xref rid="pone.0143769.s003" ref-type="supplementary-material">S1 Table</xref>). The proportion of participants with caries was similar in participants with deficient and insufficient 25(OH)D when compared to those with sufficient 25(OH)D (<xref rid="pone.0143769.s004" ref-type="supplementary-material">S2 Table</xref>).</p>
+                <table-wrap id="pone.0143769.t005" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0143769.t005</object-id>
+                  <label>Table 5</label>
+                  <caption>
+                    <title>Multivariate and MR analysis of caries experience, dental GA, caries onset and clinically recorded caries experience per 10 nmol/L increase in vitamin D.</title>
+                  </caption>
+                  <alternatives>
+                    <graphic id="pone.0143769.t005g" xlink:href="pone.0143769.t005"/>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                        <col align="left" valign="middle" span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th align="left" rowspan="1" colspan="1"/>
+                          <th colspan="2" align="left" rowspan="1">Caries experience (n = 6,259)</th>
+                          <th colspan="2" align="left" rowspan="1">Dental GA (n = 4,737)</th>
+                          <th colspan="2" align="left" rowspan="1">Early caries onset (n = 2,285)</th>
+                          <th colspan="2" align="left" rowspan="1">Clinically recorded caries experience<xref rid="t005fn002" ref-type="table-fn"><sup>$</sup></xref> (n = 619)</th>
+                        </tr>
+                        <tr>
+                          <th align="left" rowspan="1" colspan="1">Model</th>
+                          <th align="right" rowspan="1" colspan="1">OR (95% CI)</th>
+                          <th align="right" rowspan="1" colspan="1"><italic>P</italic>-value</th>
+                          <th align="right" rowspan="1" colspan="1">OR (95% CI)</th>
+                          <th align="right" rowspan="1" colspan="1"><italic>P</italic>-value</th>
+                          <th align="right" rowspan="1" colspan="1">OR (95% CI)</th>
+                          <th align="right" rowspan="1" colspan="1"><italic>P</italic>-value</th>
+                          <th align="right" rowspan="1" colspan="1">OR (95% CI)</th>
+                          <th align="right" rowspan="1" colspan="1"><italic>P</italic>-value</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">Unadjusted</td>
+                          <td align="right" rowspan="1" colspan="1">1.00 (0.97, 1.02)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.70</td>
+                          <td align="right" rowspan="1" colspan="1">0.95 (0.90, 0.99)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.03</td>
+                          <td align="right" rowspan="1" colspan="1">0.96 (0.93, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.08</td>
+                          <td align="right" rowspan="1" colspan="1">0.94 (0.94, 1.03)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.22</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">1</td>
+                          <td align="right" rowspan="1" colspan="1">1.00 (0.97, 1.02)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.73</td>
+                          <td align="right" rowspan="1" colspan="1">0.94 (0.89, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.04</td>
+                          <td align="right" rowspan="1" colspan="1">0.96 (0.91, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.07</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.84, 1.04)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.19</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">2</td>
+                          <td align="right" rowspan="1" colspan="1">0.97 (0.94, 0.99)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.02</td>
+                          <td align="right" rowspan="1" colspan="1">0.94 (0.88, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.04</td>
+                          <td align="right" rowspan="1" colspan="1">0.98 (0.93, 1.03)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.36</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.84, 1.04)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.19</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">3</td>
+                          <td align="right" rowspan="1" colspan="1">1.00 (0.97, 1.03)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.95</td>
+                          <td align="right" rowspan="1" colspan="1">0.95 (0.89, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.08</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.88, 0.98)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.01</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.84, 1.03)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.18</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">4</td>
+                          <td align="right" rowspan="1" colspan="1">1.00 (0.97, 1.02)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.75</td>
+                          <td align="right" rowspan="1" colspan="1">0.94 (0.89, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.05</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.88, 0.98)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.01</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.83, 1.04)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.19</td>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">5</td>
+                          <td align="right" rowspan="1" colspan="1">1.00 (0.97, 1.02)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.79</td>
+                          <td align="right" rowspan="1" colspan="1">0.94 (0.89, 1.00)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.05</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.88, 0.98)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.01</td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.83, 1.04)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.19</td>
+                        </tr>
+                        <tr>
+                          <td align="right" rowspan="1" colspan="1">
+                            <bold>n</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">
+                            <bold>5545</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1">
+                            <bold>4072</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1">
+                            <bold>1933</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                        <tr>
+                          <td align="left" rowspan="1" colspan="1">
+                            <bold>MR</bold>
+                          </td>
+                          <td align="right" rowspan="1" colspan="1">0.93 (0.83, 1.05)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.26</td>
+                          <td align="right" rowspan="1" colspan="1">0.96 (0.75, 1.22)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.72</td>
+                          <td align="right" rowspan="1" colspan="1">1.09 (0.89, 1.34)</td>
+                          <td align="char" char="." rowspan="1" colspan="1">0.37</td>
+                          <td align="right" rowspan="1" colspan="1"/>
+                          <td align="right" rowspan="1" colspan="1"/>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </alternatives>
+                  <table-wrap-foot>
+                    <fn id="t005fn001">
+                      <p>Model 1 = seasonally adjusted, model 2 = model 1 plus lag time, model 3 = model 1 plus age, sex, model 3 = model 2 plus mothers highest educational level, model 4 = model 3 plus body mass index</p>
+                    </fn>
+                    <fn id="t005fn002">
+                      <p><sup>$</sup> Due to small sample size MR analysis was not performed for this outcome</p>
+                    </fn>
+                    <fn id="t005fn003">
+                      <p>MR = Mendelian randomization</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec id="sec019">
+                <title>MR Instrumental variable analyses</title>
+                <p>After quality control assessment and imputation, genotypes at SNPs rs2282679, rs10741657 and rs7944926 were available for 8,358 participants. Imputation quality was high with r<sup>2</sup> imputation quality scores greater than 0.98 for all three SNPs. The minor allele frequencies were 0.40, 0.23 and 0.29 for <italic>CYP2R1</italic>rs10741657, <italic>DHCR7</italic>rs7944926 and <italic>GC</italic>rs2282679, respectively.</p>
+                <p>Of the three gene variants <italic>GC</italic>rs2282679 showed the largest association with 25(OH)D, with concentration increasing by 6.13 nmol/L for each 25(OH)D increasing allele. Equivalent results for <italic>CYP2R1</italic>rs10741657 and <italic>DHCR7</italic>rs7944926 were 3.56 nmol/L and 2.15 nmol/L, respectively. <xref rid="pone.0143769.g002" ref-type="fig">Fig 2</xref> shows the effect of the relationship of the allele score with 25(OH)D concentration. For each additional 25(OH)D weighted allele, 25(OH)D concentrations increased by 3.87 nmol/L. This genetic risk score explained 5.9% of the variation in 25(OH)D and the F-statistic for this association was 348.5.</p>
+                <fig id="pone.0143769.g002" orientation="portrait" position="float">
+                  <object-id pub-id-type="doi">10.1371/journal.pone.0143769.g002</object-id>
+                  <label>Fig 2</label>
+                  <caption>
+                    <title>25-hydroxyvitamin D concentration across weighted genetic dose score.</title>
+                  </caption>
+                  <graphic xlink:href="pone.0143769.g002"/>
+                </fig>
+                <p>In each MR analyses there was no convincing evidence of a causal association between increased 25(OH)D and the odds of caries experience (OR per 10 nmol/L increase in 25(OH)D 0.93 (95% CI: 0.83, 1.05; <italic>P</italic> = 0.26)) (<xref rid="pone.0143769.t005" ref-type="table">Table 5</xref>). Estimates for dental GA and early onset caries (in those with caries) for the same change in 25(OH)D were OR 0.96 (95% CI: 0.75, 1.22; <italic>P</italic> = 0.72) and OR 1.09 (95% CI: 0.89, 1.34; <italic>P</italic> = 0.37) (<xref rid="pone.0143769.t005" ref-type="table">Table 5</xref>).</p>
+              </sec>
+            </sec>
+            <sec sec-type="conclusions" id="sec020">
+              <title>Discussion</title>
+              <p>Existing literature has shown that vitamin D exposure in early life may play a role in caries prevention[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>] However, in work here where 25(OH)D is available there was little evidence for an observational associations with caries experience. There was evidence of an association between 25(OH)D concentration with GA experience and earlier onset of caries—both of which could be seen as a proxy for more severe disease.</p>
+              <p>Within this population-based sample, the previously reported relationships between 25(OH)D and <italic>CYP2R1</italic>, <italic>DHCR7</italic> and <italic>GC</italic> were replicated[<xref rid="pone.0143769.ref018" ref-type="bibr">18</xref>, <xref rid="pone.0143769.ref019" ref-type="bibr">19</xref>]. When combined these SNPs were confirmed as a strong genetic instrument for 25(OH)D, with per allele changes of a clinically relevant magnitude. This genetic instrument showed no association with factors potentially confounding the vitamin D—dental caries relationship. Therefore, in the absence of coordinated vitamin D and outcome data this genetic instrument was used to model a life-course difference in vitamin D exposure for use in MR analyses.</p>
+              <p>MR analysis has not given substantive evidence for an association between caries experience and vitamin D. This is in contrast to a meta-analysis which reports on 14 controlled clinical trials assessing vitamin D<sub>3</sub> as a supplement, compared to no supplement as a control[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>]. They report a 49% (95% CI: 35, 60, <italic>P</italic>&lt;0.0001) decrease in the relative rate of caries. This meta-analysis reports the relative rate of caries incidence, calculated by dividing the risk of caries by the length of the study, and not the odds of having caries experience, as done here, therefore comparison is difficult. Evidence here also sits in the context of recent work suggesting a potential role for vitamin D receptor in adult dental caries. The findings in this work were not replicated in the ALSPAC study (data not shown)[<xref rid="pone.0143769.ref007" ref-type="bibr">7</xref>].</p>
+              <p>Observationally, participants with higher serum 25(OH)D had reduced odds of receiving a GA for dental extractions. It is of note that an observational association exists with GA experience but not with caries experience despite the former usually considered a proxy for the latter. This may be because GAs are a memorable event and therefore more likely to be reported accurately. It has also been reported that GA for dental extractions is much more common in lower socio-economic groups[<xref rid="pone.0143769.ref005" ref-type="bibr">5</xref>] and despite adjusting, may be additionally confounding the link between vitamin D and GA experience. Care is needed when interpreting this result as it presumes vitamin D concentrations are consistent throughout childhood, although evidence remains after correcting for the time lag between caries and vitamin D measurement. The MR analysis is underpowered with wide confidence intervals meaning inference is limited. Interestingly, early caries onset MR point estimates, are in the opposite direction to that of the other two caries outcomes, although a larger sample size would be required to clarify these results.</p>
+              <sec id="sec021">
+                <title>Limitations</title>
+                <p>Using questionnaire data for outcomes has several weaknesses and is likely to underreport caries compared to the “gold-standard” clinical examination. In this study we were able to internally validate the questionnaire findings in a sample of participants who also had clinical dental examinations (<xref rid="pone.0143769.t002" ref-type="table">Table 2</xref>). 13% of questionnaire reported controls had clinically recorded caries experience and 6% of cases has no clinically recorded caries. There was no substantive evidence of vitamin D being different across mis-allocated groups with there being similar 25(OH)D concentrations across data origins. There was also no association between the questionnaire type that identified a participant as a case (parent or self report) and 25(OH)D (<xref rid="pone.0143769.s005" ref-type="supplementary-material">S3 Table</xref>). The unresolved problem with the questionnaire data is under-identification of untreated disease. This was only asked in the child reported questionnaire at 91 months but even so, is likely to have poor sensitivity and therefore be responsible for the majority of the underreporting.</p>
+                <p>The binary caries outcome does not account for disease severity, although dmft (which showed comparable results) provides a measure for this. Additionally, the caries onset analyses relied on the dates of questionnaire completion, rather than the actual age at which caries was diagnosed, introducing error. The time difference between vitamin D and outcome measures is a limitation in the observational part of this study. In the observational analysis we attempt to correct for this by including lag time between caries and 25(OH)D measures as a confounder. In the MR analysis we address this by using a life-course genetic instrument for vitamin D, however this does assume the effects of the genes used to instrument vitamin D are stable throughout childhood.</p>
+                <p>This study is large in comparison to previous observational studies assessing the association between vitamin D and caries, however it has relatively low power to detect associations between vitamin D and dental caries smaller than those previously reported in observational studies. Given the prevalence of caries in this population and the strength of the genetic instrument this study had sufficient size to detect an effect similar to that reported by Hujoel[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>]. Considering the observational results in this study it is likely the effect size in this population is smaller, resulting in the MR analysis being underpowered. This genetic instrument has favorable properties when investigating the association between 25(OH)D and caries, but there is currently no conclusive evidence of a causal effect. Further effort is required in the field of oral health epidemiology to collect good quality clinically recorded outcomes alongside genetic data. These improvements in sample size and measurement will allow more precise estimates of causal association in future work.</p>
+              </sec>
+            </sec>
+            <sec sec-type="conclusions" id="sec022">
+              <title>Conclusion</title>
+              <p>With the use of a genetic instrument, a life-course 25(OH)D exposure model was used to test associations between vitamin D and dental caries. In contrast to a recent meta-analysis[<xref rid="pone.0143769.ref015" ref-type="bibr">15</xref>] we found little evidence of an observational association between 25(OH)D and caries experience and severity and only weak evidence for caries onset and receiving a dental GA. Genetic instruments for 25(OH)D appeared not to be confounded and were strong, though MR estimates spanned the null for all outcomes. Genetic study designs of this type show promise for the future and efforts should be made to identify other potential instrumental variables for use in oral health research.</p>
+            </sec>
+            <sec sec-type="supplementary-material" id="sec023">
+              <title>Supporting Information</title>
+              <supplementary-material content-type="local-data" id="pone.0143769.s001">
+                <label>S1 Text</label>
+                <caption>
+                  <title>Avon Longitudinal Study of Parents and Children (ALSPAC) GWAS.</title>
+                  <p>(DOCX)</p>
+                </caption>
+                <media xlink:href="pone.0143769.s001.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="pone.0143769.s002">
+                <label>S2 Text</label>
+                <caption>
+                  <title>Parental Reported and Child Self Reported Questionnaire Questions.</title>
+                  <p>(DOCX)</p>
+                </caption>
+                <media xlink:href="pone.0143769.s002.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="pone.0143769.s003">
+                <label>S1 Table</label>
+                <caption>
+                  <title>Multivariate analysis of clinically recorded caries experience and dmft per 10 nmol/L increase in vitamin D.</title>
+                  <p>(DOCX)</p>
+                </caption>
+                <media xlink:href="pone.0143769.s003.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="pone.0143769.s004">
+                <label>S2 Table</label>
+                <caption>
+                  <title>Caries Experience Across Vitamin D Sufficiency Group.</title>
+                  <p>(DOCX)</p>
+                </caption>
+                <media xlink:href="pone.0143769.s004.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="pone.0143769.s005">
+                <label>S3 Table</label>
+                <caption>
+                  <title>25(OH)D and Genetic Risk Score by Reporter of Case Status.</title>
+                  <p>(DOCX)</p>
+                </caption>
+                <media xlink:href="pone.0143769.s005.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>Avon Longitudinal Study of Parents and Children (ALSPAC): We are extremely grateful to all the families who took part in this study, the midwives for their help in recruiting them, and the whole ALSPAC team, which includes interviewers, computer and laboratory technicians, clerical workers, research scientists, volunteers, managers, receptionists and nurses. This publication is the work of the authors who will serve as guarantors for the contents of this paper. GWAS data was generated by Sample Logistics and Genotyping Facilities at the Wellcome Trust Sanger Institute and LabCorp (Laboratory Corportation of America) using support from 23andMe.</p>
+            </ack>
+            <ref-list>
+              <title>References</title>
+              <ref id="pone.0143769.ref001">
+                <label>1</label>
+                <mixed-citation publication-type="book"><name><surname>Fejerskov</surname><given-names>O</given-names></name>, <name><surname>Kidd</surname><given-names>EAM</given-names></name>. <source>Dental caries: the disease and its clinical management</source>. <edition>2nd ed</edition><publisher-loc>Oxford</publisher-loc>: <publisher-name>Blackwell Munksgaard</publisher-name>; <year>2008</year><volume>xxiii</volume>, <fpage>616</fpage> p. p.</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref002">
+                <label>2</label>
+                <mixed-citation publication-type="other">Pitts N, Chadwick B, Anderson T. Report 2: Dental Disease and Damage in Children: England, Wales and Northern Ireland. Children’s Dental Health Survey 2013: Health and Social Care Information Centre; 2015.</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref003">
+                <label>3</label>
+                <mixed-citation publication-type="journal"><name><surname>Nobile</surname><given-names>C</given-names></name>, <name><surname>Fortunato</surname><given-names>L</given-names></name>, <name><surname>Bianco</surname><given-names>A</given-names></name>, <name><surname>Pileggi</surname><given-names>C</given-names></name>, <name><surname>Pavia</surname><given-names>M</given-names></name>. <article-title>Pattern and severity of early childhood caries in Southern Italy: a preschool-based cross-sectional study</article-title>. <source>BMC Public Health</source>. <year>2014</year>;<volume>14</volume>(<issue>1</issue>):<fpage>206</fpage><pub-id pub-id-type="doi">10.1186/1471-2458-14-206</pub-id><pub-id pub-id-type="pmid">24571668</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref004">
+                <label>4</label>
+                <mixed-citation publication-type="journal"><name><surname>Edelstein</surname><given-names>BL</given-names></name>, <name><surname>Chinn</surname><given-names>CH</given-names></name>. <article-title>Update on Disparities in Oral Health and Access to Dental Care for America's Children</article-title>. <source>Academic Pediatrics</source>. <year>2009</year>;<volume>9</volume>(<issue>6</issue>):<fpage>415</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1016/j.acap.2009.09.010</pub-id>
+<?supplied-pmid 19945076?><pub-id pub-id-type="pmid">19945076</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref005">
+                <label>5</label>
+                <mixed-citation publication-type="journal"><name><surname>Moles</surname><given-names>DR</given-names></name>, <name><surname>Ashley</surname><given-names>P</given-names></name>. <article-title>Hospital admissions for dental care in children: England 1997–2006</article-title>. <source>Br Dent J</source>. <year>2009</year>;<volume>206</volume>(<issue>7</issue>):<fpage>E14</fpage>–<lpage>E</lpage>. <pub-id pub-id-type="doi">10.1038/sj.bdj.2009.254</pub-id>
+<?supplied-pmid 19330014?><pub-id pub-id-type="pmid">19330014</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref006">
+                <label>6</label>
+                <mixed-citation publication-type="journal"><name><surname>Bridgman</surname><given-names>CM</given-names></name>, <name><surname>Ashby</surname><given-names>D</given-names></name>, <name><surname>Holloway</surname><given-names>PJ</given-names></name>. <article-title>paediatric dentistry: An investigation of the effects on children of tooth extraction under general anaesthesia in general dental practice</article-title>. <source>Br Dent J</source>. <year>1999</year>;<volume>186</volume>(<issue>5</issue>):<fpage>245</fpage>–<lpage>7</lpage>.<pub-id pub-id-type="pmid">10205973</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref007">
+                <label>7</label>
+                <mixed-citation publication-type="journal"><name><surname>Hu</surname><given-names>XP</given-names></name>, <name><surname>Li</surname><given-names>ZQ</given-names></name>, <name><surname>Zhou</surname><given-names>JY</given-names></name>, <name><surname>Yu</surname><given-names>ZH</given-names></name>, <name><surname>Zhang</surname><given-names>JM</given-names></name>, <name><surname>Guo</surname><given-names>ML</given-names></name>. <article-title>Analysis of the association between polymorphisms in the vitamin D receptor (VDR) gene and dental caries in a Chinese population</article-title>. <source>Genet Mol Res</source>. <year>2015</year>;<volume>14</volume>(<issue>3</issue>):<fpage>11631</fpage>–<lpage>8</lpage>. <pub-id pub-id-type="doi">10.4238/2015.September.28.15</pub-id>
+.<?supplied-pmid 26436404?><pub-id pub-id-type="pmid">26436404</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref008">
+                <label>8</label>
+                <mixed-citation publication-type="journal"><name><surname>Gombart</surname><given-names>AF</given-names></name>. <article-title>The vitamin D—antimicrobial peptide pathway and its role in protection against infection</article-title>. <source>Future Microbiology</source>. <year>2009</year>;<volume>4</volume>(<issue>9</issue>):<fpage>1151</fpage>–<lpage>65</lpage>. <pub-id pub-id-type="doi">10.2217/fmb.09.87</pub-id>
+<?supplied-pmid 19895218?><pub-id pub-id-type="pmid">19895218</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref009">
+                <label>9</label>
+                <mixed-citation publication-type="journal"><name><surname>Youssef</surname><given-names>DA</given-names></name>, <name><surname>Miller</surname><given-names>CWT</given-names></name>, <name><surname>El-Abbassi</surname><given-names>AM</given-names></name>, <name><surname>Cutchins</surname><given-names>DC</given-names></name>, <name><surname>Cutchins</surname><given-names>C</given-names></name>, <name><surname>Grant</surname><given-names>WB</given-names></name>, <etal>et al</etal><article-title>Antimicrobial implications of vitamin D</article-title>. <source>Dermato-Endocrinology</source>. <year>2011</year>;<volume>3</volume>(<issue>4</issue>):<fpage>220</fpage>–<lpage>9</lpage>. <pub-id pub-id-type="doi">10.4161/derm.3.4.15027</pub-id>
+<?supplied-pmid 22259647?><pub-id pub-id-type="pmid">22259647</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref010">
+                <label>10</label>
+                <mixed-citation publication-type="journal"><name><surname>Grant</surname><given-names>WB</given-names></name>. <article-title>A review of the role of solar ultraviolet-B irradiance and vitamin D in reducing risk of dental caries</article-title>. <source>Dermato-endocrinology</source>. <year>2011</year>;<volume>3</volume>(<issue>3</issue>):<fpage>193</fpage>–<lpage>8</lpage>. PMC3219170.
+<?supplied-pmid 22110779?><pub-id pub-id-type="pmid">22110779</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref011">
+                <label>11</label>
+                <mixed-citation publication-type="journal"><name><surname>Mellanby</surname><given-names>M</given-names></name>, <name><surname>Pattison</surname><given-names>CL</given-names></name>. <article-title>The action of vitamin D in preventing the spread and promoting the arrest of caries in children</article-title>. <source>British Medical Journal</source>. <year>1928</year>;<volume>2</volume>:<fpage>1079</fpage>–<lpage>82</lpage>. WOS:000200319900723.
+<?supplied-pmid 20774325?><pub-id pub-id-type="pmid">20774325</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref012">
+                <label>12</label>
+                <mixed-citation publication-type="journal"><name><surname>Sharpenak</surname><given-names>AE</given-names></name>, <name><surname>Bobyleva</surname><given-names>VR</given-names></name>, <name><surname>Gorozhankina</surname><given-names>LA</given-names></name>. <article-title>Role of Protein, Lysine, Certain Mineral Substances and Vitamins a and D in Prevention of Dental Caries</article-title>. <source>Federation Proceedings, Translation Supplement</source>. <year>1964</year>;<volume>23</volume>:<fpage>423</fpage>–<lpage>6</lpage>.</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref013">
+                <label>13</label>
+                <mixed-citation publication-type="journal"><name><surname>Stephen</surname><given-names>KW</given-names></name>, <name><surname>Boyle</surname><given-names>IT</given-names></name>, <name><surname>Campbell</surname><given-names>D</given-names></name>, <name><surname>McNee</surname><given-names>S</given-names></name>, <name><surname>Fyffe</surname><given-names>JA</given-names></name>, <name><surname>Jenkins</surname><given-names>AS</given-names></name>, <etal>et al</etal><article-title>A 4-year double-blind fluoridated school milk study in a vitamin-D deficient area</article-title>. <source>British Dental Journal</source>. <year>1981</year>;<volume>151</volume>(<issue>9</issue>):<fpage>287</fpage>–<lpage>92</lpage>.
+<?supplied-pmid 7025869?><pub-id pub-id-type="pmid">7025869</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref014">
+                <label>14</label>
+                <mixed-citation publication-type="journal"><name><surname>Theodoratou</surname><given-names>E</given-names></name>, <name><surname>Tzoulaki</surname><given-names>I</given-names></name>, <name><surname>Zgaga</surname><given-names>L</given-names></name>, <name><surname>Ioannidis</surname><given-names>JP</given-names></name>. <article-title>Vitamin D and multiple health outcomes: umbrella review of systematic reviews and meta-analyses of observational studies and randomised trials</article-title>. <source>Bmj</source>. <year>2014</year>;<volume>348</volume>:<fpage>g2035</fpage><pub-id pub-id-type="doi">10.1136/bmj.g2035</pub-id><?supplied-pmid 24690624?><pub-id pub-id-type="pmid">24690624</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref015">
+                <label>15</label>
+                <mixed-citation publication-type="journal"><name><surname>Hujoel</surname><given-names>PP</given-names></name>. <article-title>Vitamin D and dental caries in controlled clinical trials: systematic review and meta-analysis</article-title>. [Review]. <source>Nutrition Reviews</source>. <year>2013</year>;<volume>71</volume>(<issue>2</issue>):<fpage>88</fpage>–<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1111/j.1753-4887.2012.00544.x</pub-id>
+<?supplied-pmid 23356636?><pub-id pub-id-type="pmid">23356636</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref016">
+                <label>16</label>
+                <mixed-citation publication-type="journal"><name><surname>Lawlor</surname><given-names>DA</given-names></name>, <name><surname>Harbord</surname><given-names>RM</given-names></name>, <name><surname>Sterne</surname><given-names>JAC</given-names></name>, <name><surname>Timpson</surname><given-names>N</given-names></name>, <name><surname>Smith</surname><given-names>GD</given-names></name>. <article-title>Mendelian randomization: Using genes as instruments for making causal inferences in epidemiology</article-title>. <source>Stat Med</source>. <year>2008</year>;<volume>27</volume>(<issue>8</issue>):<fpage>1133</fpage>–<lpage>63</lpage>. WOS:000255210700001.
+<?supplied-pmid 17886233?><pub-id pub-id-type="pmid">17886233</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref017">
+                <label>17</label>
+                <mixed-citation publication-type="journal"><name><surname>Smith</surname><given-names>GD</given-names></name>, <name><surname>Lawlor</surname><given-names>DA</given-names></name>, <name><surname>Harbord</surname><given-names>R</given-names></name>, <name><surname>Timpson</surname><given-names>N</given-names></name>, <name><surname>Day</surname><given-names>I</given-names></name>, <name><surname>Ebrahim</surname><given-names>S</given-names></name>. <article-title>Clustered environments and randomized genes: a fundamental distinction between conventional and genetic epidemiology</article-title>. <source>PLoS Med</source>. <year>2007</year>;<volume>4</volume>(<issue>12</issue>):<fpage>e352</fpage><pub-id pub-id-type="doi">10.1371/journal.pmed.0040352</pub-id><?supplied-pmid 18076282?><pub-id pub-id-type="pmid">18076282</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref018">
+                <label>18</label>
+                <mixed-citation publication-type="journal"><name><surname>Ahn</surname><given-names>J</given-names></name>, <name><surname>Yu</surname><given-names>K</given-names></name>, <name><surname>Stolzenberg-Solomon</surname><given-names>R</given-names></name>, <name><surname>Simon</surname><given-names>KC</given-names></name>, <name><surname>McCullough</surname><given-names>ML</given-names></name>, <name><surname>Gallicchio</surname><given-names>L</given-names></name>, <etal>et al</etal><article-title>Genome-wide association study of circulating vitamin D levels</article-title>. <source>Human Molecular Genetics</source>. <year>2010</year>;<volume>19</volume>(<issue>13</issue>):<fpage>2739</fpage>–<lpage>45</lpage>. WOS:000279674200018. <pub-id pub-id-type="doi">10.1093/hmg/ddq155</pub-id>
+<?supplied-pmid 20418485?><pub-id pub-id-type="pmid">20418485</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref019">
+                <label>19</label>
+                <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>TJ</given-names></name>, <name><surname>Zhang</surname><given-names>F</given-names></name>, <name><surname>Richards</surname><given-names>JB</given-names></name>, <name><surname>Kestenbaum</surname><given-names>B</given-names></name>, <name><surname>van Meurs</surname><given-names>JB</given-names></name>, <name><surname>Berry</surname><given-names>D</given-names></name>, <etal>et al</etal><article-title>Common genetic determinants of vitamin D insufficiency: a genome-wide association study</article-title>. <source>Lancet</source>. <year>2010</year>;<volume>376</volume>(<issue>9736</issue>):<fpage>180</fpage>–<lpage>8</lpage>. WOS:000280313100025. <pub-id pub-id-type="doi">10.1016/S0140-6736(10)60588-0</pub-id>
+<?supplied-pmid 20541252?><pub-id pub-id-type="pmid">20541252</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref020">
+                <label>20</label>
+                <mixed-citation publication-type="journal"><name><surname>Trummer</surname><given-names>O</given-names></name>, <name><surname>Pilz</surname><given-names>S</given-names></name>, <name><surname>Hoffmann</surname><given-names>MM</given-names></name>, <name><surname>Winkelmann</surname><given-names>BR</given-names></name>, <name><surname>Boehm</surname><given-names>BO</given-names></name>, <name><surname>März</surname><given-names>W</given-names></name>, <etal>et al</etal><article-title>Vitamin D and Mortality: A Mendelian Randomization Study</article-title>. <source>Clinical Chemistry</source>. <year>2013</year>;<volume>59</volume>(<issue>5</issue>):<fpage>793</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1373/clinchem.2012.193185</pub-id>
+<?supplied-pmid 23319826?><pub-id pub-id-type="pmid">23319826</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref021">
+                <label>21</label>
+                <mixed-citation publication-type="journal"><name><surname>Vimaleswaran</surname><given-names>KS</given-names></name>, <name><surname>Berry</surname><given-names>DJ</given-names></name>, <name><surname>Lu</surname><given-names>C</given-names></name>, <name><surname>Tikkanen</surname><given-names>E</given-names></name>, <name><surname>Pilz</surname><given-names>S</given-names></name>, <name><surname>Hiraki</surname><given-names>LT</given-names></name>, <etal>et al</etal><article-title>Causal Relationship between Obesity and Vitamin D Status: Bi-Directional Mendelian Randomization Analysis of Multiple Cohorts</article-title>. <source>PLoS Med</source>. <year>2013</year>;<volume>10</volume>(<issue>2</issue>):<fpage>e1001383</fpage><pub-id pub-id-type="doi">10.1371/journal.pmed.1001383</pub-id><?supplied-pmid 23393431?><pub-id pub-id-type="pmid">23393431</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref022">
+                <label>22</label>
+                <mixed-citation publication-type="journal"><name><surname>Boyd</surname><given-names>A</given-names></name>, <name><surname>Golding</surname><given-names>J</given-names></name>, <name><surname>Macleod</surname><given-names>J</given-names></name>, <name><surname>Lawlor</surname><given-names>DA</given-names></name>, <name><surname>Fraser</surname><given-names>A</given-names></name>, <name><surname>Henderson</surname><given-names>J</given-names></name>, <etal>et al</etal><article-title>Cohort Profile: the 'children of the 90s'—the index offspring of the Avon Longitudinal Study of Parents and Children</article-title>. <source>Int J Epidemiol</source>. <year>2013</year>;<volume>42</volume>(<issue>1</issue>):<fpage>111</fpage>–<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dys064</pub-id>
+<?supplied-pmid 22507743?><pub-id pub-id-type="pmid">22507743</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref023">
+                <label>23</label>
+                <mixed-citation publication-type="journal"><name><surname>Golding</surname><given-names>J</given-names></name>, <name><surname>Pembrey</surname><given-names>M</given-names></name>, <name><surname>Jones</surname><given-names>R</given-names></name>, <name><surname>Team</surname><given-names>AS</given-names></name>. <article-title>ALSPAC—the Avon Longitudinal Study of Parents and Children. I. Study methodology</article-title>. <source>Paediatric and perinatal epidemiology</source>. <year>2001</year>;<volume>15</volume>(<issue>1</issue>):<fpage>74</fpage>–<lpage>87</lpage>. .<?supplied-pmid 11237119?><pub-id pub-id-type="pmid">11237119</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref024">
+                <label>24</label>
+                <mixed-citation publication-type="journal"><name><surname>Kay</surname><given-names>EJ</given-names></name>, <name><surname>Northstone</surname><given-names>K</given-names></name>, <name><surname>Ness</surname><given-names>A</given-names></name>, <name><surname>Duncan</surname><given-names>K</given-names></name>, <name><surname>Crean</surname><given-names>SJ</given-names></name>. <article-title>Is there a relationship between birthweight and subsequent growth on the development of dental caries at 5 years of age? A cohort study</article-title>. <source>Community dentistry and oral epidemiology</source>. <year>2010</year>;<volume>38</volume>(<issue>5</issue>):<fpage>408</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0528.2010.00548.x</pub-id>
+.<?supplied-pmid 20545719?><pub-id pub-id-type="pmid">20545719</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref025">
+                <label>25</label>
+                <mixed-citation publication-type="journal"><name><surname>Tolppanen</surname><given-names>AM</given-names></name>, <name><surname>Fraser</surname><given-names>A</given-names></name>, <name><surname>Fraser</surname><given-names>WD</given-names></name>, <name><surname>Lawlor</surname><given-names>DA</given-names></name>. <article-title>Risk factors for variation in 25-hydroxyvitamin D₃ and D₂ concentrations and vitamin D deficiency in children</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2012</year>;<volume>97</volume>(<issue>4</issue>):<fpage>1202</fpage>–<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1210/jc.2011-2516</pub-id>
+.<?supplied-pmid 22278429?><pub-id pub-id-type="pmid">22278429</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref026">
+                <label>26</label>
+                <mixed-citation publication-type="journal"><name><surname>Hooley</surname><given-names>M</given-names></name>, <name><surname>Skouteris</surname><given-names>H</given-names></name>, <name><surname>Boganin</surname><given-names>C</given-names></name>, <name><surname>Satur</surname><given-names>J</given-names></name>, <name><surname>Kilpatrick</surname><given-names>N</given-names></name>. <article-title>Body mass index and dental caries in children and adolescents: a systematic review of literature published 2004 to 2011</article-title>. <source>Systematic Reviews</source>. <year>2012</year>;<volume>1</volume>:<fpage>57-</fpage><pub-id pub-id-type="doi">10.1186/2046-4053-1-57</pub-id> PMC3621095.
+<?supplied-pmid 23171603?><pub-id pub-id-type="pmid">23171603</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref027">
+                <label>27</label>
+                <mixed-citation publication-type="journal"><name><surname>Lawlor</surname><given-names>DA</given-names></name>, <name><surname>Wills</surname><given-names>AK</given-names></name>, <name><surname>Fraser</surname><given-names>A</given-names></name>, <name><surname>Sayers</surname><given-names>A</given-names></name>, <name><surname>Fraser</surname><given-names>WD</given-names></name>, <name><surname>Tobias</surname><given-names>JH</given-names></name>. <article-title>Association of maternal vitamin D status during pregnancy with bone-mineral content in offspring: a prospective cohort study</article-title>. <source>Lancet</source>. <year>2013</year>;<volume>381</volume>(<issue>9884</issue>):<fpage>2176</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(12)62203-X</pub-id>
+<?supplied-pmid 23518316?><pub-id pub-id-type="pmid">23518316</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref028">
+                <label>28</label>
+                <mixed-citation publication-type="journal"><name><surname>Del Valle</surname><given-names>HB</given-names></name>, <name><surname>Yaktine</surname><given-names>AL</given-names></name>, <name><surname>Taylor</surname><given-names>CL</given-names></name>, <name><surname>Ross</surname><given-names>AC</given-names></name>. <source>Dietary reference intakes for calcium and vitamin D2011</source>.</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref029">
+                <label>29</label>
+                <mixed-citation publication-type="journal"><name><surname>Vuong</surname><given-names>QH</given-names></name>. <article-title>Likelihood Ratio Tests for Model Selection and Non-Nested Hypotheses</article-title>. <source>Econometrica</source>. <year>1989</year>;<volume>57</volume>(<issue>2</issue>):<fpage>307</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.2307/1912557</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref030">
+                <label>30</label>
+                <mixed-citation publication-type="journal"><name><surname>Bohning</surname><given-names>D</given-names></name>, <name><surname>Dietz</surname><given-names>E</given-names></name>, <name><surname>Schlattmann</surname><given-names>P</given-names></name>, <name><surname>Mendonca</surname><given-names>L</given-names></name>, <name><surname>Kirchner</surname><given-names>U</given-names></name>. <article-title>The Zero-Inflated Poisson Model and the Decayed, Missing and Filled Teeth Index in Dental Epidemiology</article-title>. <source>Journal of the Royal Statistical Society Series A (Statistics in Society)</source>. <year>1999</year>;<volume>162</volume>(<issue>2</issue>):<fpage>195</fpage>–<lpage>209</lpage>.</mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref031">
+                <label>31</label>
+                <mixed-citation publication-type="journal"><name><surname>Clarke</surname><given-names>PS</given-names></name>, <name><surname>Windmeijer</surname><given-names>F</given-names></name>. <article-title>Identification of causal effects on binary outcomes using structural mean models</article-title>. <source>Biostatistics</source>. <year>2010</year>;<volume>11</volume>(<issue>4</issue>):<fpage>756</fpage>–<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1093/biostatistics/kxq024</pub-id>
+<?supplied-pmid 20522728?><pub-id pub-id-type="pmid">20522728</pub-id></mixed-citation>
+              </ref>
+              <ref id="pone.0143769.ref032">
+                <label>32</label>
+                <mixed-citation publication-type="journal"><name><surname>Brion</surname><given-names>MJ</given-names></name>, <name><surname>Shakhbazov</surname><given-names>K</given-names></name>, <name><surname>Visscher</surname><given-names>PM</given-names></name>. <article-title>Calculating statistical power in Mendelian randomization studies</article-title>. <source>Int J Epidemiol</source>. <year>2013</year>;<volume>42</volume>(<issue>5</issue>):<fpage>1497</fpage>–<lpage>501</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dyt179</pub-id>
+<?supplied-pmid 24159078?><pub-id pub-id-type="pmid">24159078</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

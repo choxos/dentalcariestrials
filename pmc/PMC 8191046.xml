@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:44:25Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8191046" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8191046</identifier>
+        <datestamp>2021-06-10</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8191046</article-id>
+              <article-id pub-id-type="pmcid">PMC8191046</article-id>
+              <article-id pub-id-type="pmc-uid">8191046</article-id>
+              <article-id pub-id-type="pmid">34107933</article-id>
+              <article-id pub-id-type="publisher-id">1654</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-021-01654-5</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Cognitive changes and neural correlates after oral rehabilitation procedures in older adults: a protocol for an interventional study</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hedberg</surname>
+                    <given-names>Linn</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ekman</surname>
+                    <given-names>Urban</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Nordin</surname>
+                    <given-names>Love Engström</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Smedberg</surname>
+                    <given-names>Jan-Ivan</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Skott</surname>
+                    <given-names>Pia</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Seiger</surname>
+                    <given-names>Åke</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sandborgh-Englund</surname>
+                    <given-names>Gunilla</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Westman</surname>
+                    <given-names>Eric</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3729-3524</contrib-id>
+                  <name>
+                    <surname>Kumar</surname>
+                    <given-names>Abhishek</given-names>
+                  </name>
+                  <address>
+                    <email>abhishek.kumar@ki.se</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Trulsson</surname>
+                    <given-names>Mats</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.418651.f</institution-id><institution-id institution-id-type="ISNI">0000 0001 2193 1910</institution-id><institution>Folktandvården Eastmaninstitutet, </institution></institution-wrap>Stockholm, Sweden </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Division of Oral Diagnostics and Rehabilitation, Department of Dental Medicine, </institution><institution>Karolinska Institutet, </institution></institution-wrap>Alfred Nobels Allé 8, Box 4064, 141 04 Huddinge, Sweden </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society (NVS), </institution><institution>Karolinska Institutet, </institution></institution-wrap>Huddinge, Sweden </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.24381.3c</institution-id><institution-id institution-id-type="ISNI">0000 0000 9241 5705</institution-id><institution>Department of Diagnostic Medical Physics, </institution><institution>Karolinska University Hospital, </institution></institution-wrap>Solna, Stockholm, Sweden </aff>
+                <aff id="Aff5"><label>5</label>Academic Centre for Geriatric Dentistry, Stockholm, Sweden </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>9</day>
+                <month>6</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>9</day>
+                <month>6</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2021</year>
+              </pub-date>
+              <volume>21</volume>
+              <elocation-id>297</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>5</day>
+                  <month>11</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="accepted">
+                  <day>3</day>
+                  <month>6</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Epidemiological studies show an association between masticatory function and cognitive impairment. This has further strengthened the notion that tooth loss and impaired masticatory function may be risk factors for dementia and cognitive decline. Animal experiments have indicated a causal relationship and several possible mechanisms have been discussed. This evidence is, however, lacking in humans. Therefore, in the current interventional study, we aim to investigate the effect of rehabilitation of masticatory function on cognition in older adults.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Eighty patients indicated for prosthodontic rehabilitation will be randomly assigned to an experimental or a control group. Participants will conduct neuropsychological assessments, masticatory performance tests, saliva tests, optional magnetic resonance imaging, and answer questionnaires on oral health impact profiles and hospital anxiety and depression scale before, 3 months, and 1 year after oral rehabilitation. The difference between the two groups is that the control group will be tested an additional time, (at an interval of about 3 months) before the onset of the oral rehabilitation procedure. The primary outcome is a change in measures of episodic memory performance.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">Although tooth loss and masticatory function are widespread in older people, it is still an underexplored modifiable risk factor potentially contributing to the development of cognitive impairment. If rehabilitation of masticatory function shows positive effects on the neurocognitive function, this will have great implications on future health care for patients with impaired masticatory status. The present project may provide a new avenue for the prevention of cognitive decline in older individuals.</p>
+                  <p id="Par4"><italic>Trial registration</italic>: The protocol for the study was retrospectively registered in ClinicalTrials.gov Identifier: NCT04458207, dated 02-07-2020.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Chewing performance</kwd>
+                <kwd>Magnetic resonance imaging</kwd>
+                <kwd>Episodic memory</kwd>
+                <kwd>Executive functions</kwd>
+                <kwd>Visuospatial functions</kwd>
+                <kwd>Logical thinking</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Stockholm County Council and Karolinska Institutet</institution>
+                  </funding-source>
+                  <award-id>OF14101553</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>Mats</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Karolinska Institute</institution>
+                  </funding-source>
+                </award-group>
+                <open-access>
+                  <p>Open access funding provided by Karolinska Institute.</p>
+                </open-access>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par29">Dementia is a general term that encompasses several neurodegenerative diseases that affect approximately 7% of the population older than 65 years [<xref ref-type="bibr" rid="CR1">1</xref>], and about 30% older than 80 years [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>]. The World Health Organization defines dementia as a “syndrome in which there is deterioration in memory, thinking, behavior, and the ability to perform everyday activities”. Studies have suggested a rapid rise in the incidence of dementia in the aging population [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. Since dementia is a chronic and progressive syndrome, its prevalence will also increase with the rise of the aging population. Further, with the increase in life expectancy, the global burden for the health care of individuals with dementia is expected to increase exponentially. Therefore, the steep rise in dementia is presenting a "significant and urgent challenge" to health care services, and interventions are needed to prevent and counter these challenges [<xref ref-type="bibr" rid="CR6">6</xref>].</p>
+              <p id="Par30">Current research has emphasized the concept of a “brain-stomatognathic axis” in relation to geriatric healthcare. Accordingly, this axis is the complex communication network between the cortical and subcortical regions of the brain and the stomatognathic/masticatory system [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>]. Oral conditions such as loss of teeth [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>], chronic inflammatory disease such as periodontitis [<xref ref-type="bibr" rid="CR12">12</xref>], and chewing difficulties [<xref ref-type="bibr" rid="CR13">13</xref>] are commonly associated with the risk of neurodegenerative diseases [<xref ref-type="bibr" rid="CR14">14</xref>–<xref ref-type="bibr" rid="CR18">18</xref>]. Evidence from animal studies has further strengthened the associations and has suggested a causal relationship.</p>
+              <p id="Par31">Studies on aged rats and mice conclude that a disturbance of normal mastication accelerates the age-dependent impairment of learning abilities and memory, combined with significant degenerative changes in the hippocampus [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]. Specifically, the linkage between mastication and brain function in rodents has been studied by either altering the diet (i.e., hard food vs powder or liquid diet) [<xref ref-type="bibr" rid="CR21">21</xref>], alteration of occlusion [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>], or deliberate extraction of teeth [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR24">24</xref>–<xref ref-type="bibr" rid="CR26">26</xref>]. Studies have reported impaired memory and learning ability with increased expression of brain-derived neurotrophic factor (BDNF) and the decreased number of pyramidal neurons in the hippocampus in mice fed on liquid diets [<xref ref-type="bibr" rid="CR27">27</xref>]. Studies have also reported that cell proliferation in the hippocampus is characteristically inhibited by soft diet feeding in rats [<xref ref-type="bibr" rid="CR28">28</xref>]. Further, it was shown that loss of masticatory function by deliberate extraction of maxillary molars in young growing mice resulted in chronic stress and malnutrition. These mice developed impaired hippocampal-dependent learning ability, hyperactivation, and lateralized rotation behavior commonly associated with dysfunction of the dopaminergic system [<xref ref-type="bibr" rid="CR24">24</xref>]. The dopaminergic system plays a vital role in attention and recognition memory in the prefrontal cortex and the hippocampus [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+              <p id="Par32">Human epidemiological studies have consistently suggested correlations/associations between masticatory impairment and a low number of teeth with the deterioration of cognition and memory [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR29">29</xref>–<xref ref-type="bibr" rid="CR32">32</xref>]. Further, magnetic resonance imaging (MRI) studies have confirmed the association between chewing and increased activation of memory centers of the brain [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>]. It is also suggested that successful aging, i.e., maintaining high cognitive capacity, might partly be affected by preserving the natural teeth [<xref ref-type="bibr" rid="CR35">35</xref>]. However, it is also debated whether the associations between the indicators of poor oral health (dentition status, periodontal disease) and cognitive health could be bidirectional. Patients with impaired cognitive function may be more likely to have poorer oral hygiene, resulting in periodontal disease and tooth loss, due to their cognitive problems. On the one hand, several studies investigating oral health (i.e., periodontitis) as an independent risk factor for dementia have had a cross-sectional study design and thereby problems with temporality and reverse causality. Then again, studies do show significant correlations and associations between chewing and cognitive functions. Thus “cause-effect” relationships have yet to be established in humans. Therefore, the question whether the detrimental effect of loss of masticatory function on cognition is reversible through oral rehabilitation remains to be investigated. In the current project, we propose an interventional study to investigate the relationship between mastication and cognition in humans. The specific aim of the study is to investigate the effect of rehabilitation of masticatory function on neurocognitive assessments in older adults.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods/design</title>
+              <sec id="Sec3">
+                <title>Study location</title>
+                <p id="Par33">Patient recruitment will be performed at the Swedish public dental health service, Folktandvården Stockholms Län AB, Sweden. The dental rehabilitation procedures of the recruited study participants and all the cognitive measurements; masticatory ability and masticatory function test and saliva samples will be performed/collected at the Department of Prosthetic Dentistry, Folktandvården Eastmaninstitutet, Stockholm, Sweden. The imaging data will be collected at the Stockholm University Brain Imaging Centre (SUBIC) and analyzed at the Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet, Sweden.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Study participants</title>
+                <p id="Par34">The study will include patients seeking fixed prosthodontic treatment either due to reduced dentition measured by Eichner’s index [<xref ref-type="bibr" rid="CR36">36</xref>] and complaining of impaired chewing ability due to a reduced number of posterior functional units or reduced dentition in general. Efforts will be made to recruit an equal number of men and women. The criteria for inclusion (Table <xref rid="Tab1" ref-type="table">1</xref>) are patients in the age range of 65–80 years, in need of prosthodontic treatment, and presenting a Mini-Mental State Examination (MMSE) score &gt; 25 [<xref ref-type="bibr" rid="CR37">37</xref>]. The MMSE is a screening tool that has shown to be a sensitive marker of overt dementia and will therefore help us to discriminate between normal cognitive status and individuals at risk of dementia. However, MMSE is not a cognitive test that is suitable for intervention evaluation because many patients will perform at a maximum or near-maximum level (i.e., ceiling effect), leaving no opportunity to detect improvement across time [<xref ref-type="bibr" rid="CR38">38</xref>]. On the contrary, our outcome tests with the neuropsychological assessments (NA) are highly sensitive to change (see heading outcome parameters and measurements). Thus, we aim to exclude patients with overt dementias (with low potential of cognitive improvement after intervention), but we remain open to including patients within the cognitive continuum from normal performances to mild cognitive impairments (with higher potential of cognitive improvement by the intervention). Circumstances that could compromise the validity of the tests, such as poor Swedish language skills, reading disabilities, severely reduced hearing or vision, are also considered as a criterion for exclusion, depending on the severity of the condition. Patients without any subjective masticatory dysfunction and patients that will be rehabilitated with removable dentures are excluded. Specific criteria are used to determine eligibility for the (optional) MRI acquisitions (Table <xref rid="Tab1" ref-type="table">1</xref>). The demographic details (height, weight, etc.,) along with self-reports of ongoing medications (if any) and chewing ability are collected. The participants are screened with Alcohol Use Disorders Identification Test (AUDIT) [<xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR40">40</xref>] and the oral health-related QoL of the participants is assessed with Oral Health Impact Profile (OHIP-14) [<xref ref-type="bibr" rid="CR41">41</xref>]. The hospital anxiety and depression (HAD) scale will be used to measure the anxiety and depression in the groups [<xref ref-type="bibr" rid="CR42">42</xref>]. The number of remaining teeth and occluding units are collected from the dental record (intraoral photos and dental X-rays).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Inclusion and exclusion criteria for study participants</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Inclusion criteria</th><th align="left">Exclusion criteria</th></tr></thead><tbody><tr><td align="left">65–80 years of age at the start of the study</td><td align="left">Brain trauma or stroke &lt; 6 months</td></tr><tr><td align="left">Impaired chewing ability</td><td align="left">Neurological disease (stroke, Alzheimer's disease, other dementias, Parkinson's disease)</td></tr><tr><td align="left">Missing teeth as indicated by Eichner index B2-B4, C1-C4</td><td align="left">Other intellectual disability</td></tr><tr><td align="left">Indications for treatment with fixed prosthodontics, implant and/or tooth-supported (overdentures included)</td><td align="left">Psychological disorders</td></tr><tr><td align="left" rowspan="4">Mini-Mental State Examination (MMSE) score &gt; 25</td><td align="left">Participants with chronic pain, depression, or sleeping disorders</td></tr><tr><td align="left">Daily analgesic medication that may affect cognitive and/or executive performance of the brain</td></tr><tr><td align="left">Poor Swedish language skills, reading disabilities</td></tr><tr><td align="left">Severely reduced hearing or vision</td></tr><tr><td align="left" rowspan="4"/><td align="left"><p><italic>Exclusion criteria</italic></p><p><italic>Magnetic resonance imaging</italic></p></td></tr><tr><td align="left">Claustrophobia</td></tr><tr><td align="left">Difficulties in lying down in a supine position for about an hour, or any other difficulties related to the MRI head coil</td></tr><tr><td align="left">Participants with mental or medical implants in the body contraindicating MRI scan</td></tr></tbody></table></table-wrap></p>
+              </sec>
+              <sec id="Sec5">
+                <title>Sample size</title>
+                <p id="Par35">No studies are currently available that directly compare rehabilitation of chewing function with a control condition on neurocognitive measures. We, therefore, designed our RCT as a superiority trial with enough statistical power to detect a difference in outcome between treatments (if present) with a medium effect size (partial eta square, eta2). For the longitudinal analysis that assesses rehabilitation differences, we expect an effect size (partial eta square, eta<sup>2</sup>) on the NA of at least 0.06. With α set to 0.05 and power at 0.80, a sample of 30 participants in each group is required. The power calculation of the repeated measures analysis is estimated with within-participant factors, which also controls for the between-participant variance. However, due to the moderate rate of dropouts (20–25%) observed across different ongoing studies, optional non-participation of MRI screening, and technical difficulties (e.g., movement artifacts) during brain imaging, we estimate that inclusion of 40 participants in each group is required to meet the demands for statistical power. However, only the first 20 participants willing and eligible to participate in the MRI procedures in each group will undergo brain imaging due to practical and logistical reasons. The MRI acquisitions are optional since there are more contraindications medically and patients are more reluctant to participate. By making MRI optional participants can still be included in the study when MRI acquisitions are not feasible.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Study design</title>
+                <p id="Par36">The study protocol and the measurements are presented in Fig. <xref rid="Fig1" ref-type="fig">1</xref>. As stated above, after informed consent and preliminary screening of the participants who have performed the MMSE and found eligible for inclusion in the study will also provide their basic demographic details (height, weight, etc.), self-reports of ongoing medications, along with the AUDIT and MRI screening questionnaire. The recruited participants indicated for prosthodontic rehabilitation are randomly allocated to either the experimental or the control group (see Fig. <xref rid="Fig1" ref-type="fig">1</xref>). A randomization list (<ext-link ext-link-type="uri" xlink:href="http://www.randomization.com">www.randomization.com</ext-link>) is prepared by a nonparticipating member in the study and the randomization code is allocated over email upon request from the examiners. Further, all tests will be conducted according to the study protocol and at every test occasion, the participants will conduct saliva samples, mixing ability test, NA, questionnaires (OHIP-14, HAD) together with optional MRI acquisitions.<fig id="Fig1"><label>Fig. 1</label><caption><p>Overview of the study protocol</p></caption><graphic xlink:href="12903_2021_1654_Fig1_HTML" id="MO1"/></fig></p>
+                <p id="Par37">The oral rehabilitation of the experimental group will start immediately after the first NA (pre-test). The control group on the other hand will be pre-and post-tested with an interval of about 3 months before the onset of the prosthodontic rehabilitation procedure. The relatively short period between the pre-and post-tests for the control group is motivated by ethical considerations. It is not considered justifiable to deny prosthodontic rehabilitation to the control group any longer than 3 months. Therefore, it is likely that the time between pre-and post-test for the control group will be slightly shorter than for the experimental group. We aim to statistically control for time differences by including time between pre-and post-test as a covariate of interest in the model. Both the experimental and the control group will also perform the post-tests (see Table <xref rid="Tab2" ref-type="table">2</xref>) on two occasions after the completion of the oral rehabilitation procedures (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). The first post-test occasion is after at least 3 months and the second test is to be conducted at 1-year follow-up, approximate time needed to adapt to the new fixed prosthesis.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Outcome measures</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Variable</th><th align="left">Method/test</th><th align="left">Measurements</th></tr></thead><tbody><tr><td align="left" colspan="4"><italic>Primary outcome variables</italic></td></tr><tr><td align="left">1</td><td align="left">Neuropsychological assessments</td><td align="left">Episodic memory</td><td align="left">BVMT-R</td></tr><tr><td align="left" colspan="4"><italic>Secondary outcome variables</italic></td></tr><tr><td align="left">2</td><td align="left">Chewing function</td><td align="left">Two-color chewing gum mixing test</td><td align="left">VOH scores</td></tr><tr><td align="left">3</td><td align="left">Oral health</td><td align="left">Oral health impact profile (OHIP) 14</td><td align="left">OHIP score</td></tr><tr><td align="left">4</td><td align="left">Stress</td><td align="left"><p>Salivary test</p><p>Hospital and anxiety depression scale questionnaire</p></td><td align="left"><p>Salivary Cortisol</p><p>HAD score</p></td></tr><tr><td align="left">5</td><td align="left">Dentition status</td><td align="left">Dental records, photos and X-rays</td><td align="left"><p>Eichner’s index</p><p>Number of teeth</p><p>Number of occluding units</p></td></tr><tr><td align="left">6</td><td align="left">Brain scans</td><td align="left">Magnetic Resonance Imaging</td><td align="left">Volume change hippocampus and/or total volume change gray matter</td></tr></tbody></table></table-wrap></p>
+              </sec>
+              <sec id="Sec7">
+                <title>Intervention: oral rehabilitation</title>
+                <p id="Par38">Individual treatment options will be discussed with the patients and rehabilitation will be provided depending on the clinical situation and the patient’s financial status. The rehabilitation will include fixed prosthodontics and will be achieved by providing the latest and most effective measures in modern-day prosthodontics. Briefly, the procedures will involve a control phase involving scaling, root planning, oral hygiene instructions, etc. When needed, extractions and bone augmentation will be performed, and also temporary removable dentures will be made if required. This will be followed by the restoration of the vertical dimension with occlusal splints (if needed), tooth preparations, placement of dental implants (if needed), and finally cementation of dental crowns. The entire rehabilitation phase is estimated to take approximately 3–12 months, where implant treatment is the main factor for the longer time frames.</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Outcome parameters and measurements</title>
+                <p id="Par39">Test measures are NA with good psychometric properties, i.e., good reliability (with minimum measurement errors), validity (measures the construct intended), and responsiveness (sensitivity to detect changes over time). The primary outcome is the changes in episodic memory and learning measured by the Brief Visuospatial Memory Test-Revised (BVMT-R) [<xref ref-type="bibr" rid="CR43">43</xref>]. All secondary outcomes have been listed and summarized below in Tabel 2, two of them are corresponding changes in neuro correlates at MRI and the masticatory performance assessed by the mixing degree of the two colored gum.</p>
+                <p id="Par40"><italic>Masticatory function</italic> The chewing function will be assessed both objectively and subjectively. The masticatory function will be evaluated using a well-established two-color chewing gum mixing test (Orophys smart chew GmbH, Bern, Switzerland) during a standardized and deliberate chewing sequence of 20 cycles in accordance with the recommended instructions [<xref ref-type="bibr" rid="CR44">44</xref>, <xref ref-type="bibr" rid="CR45">45</xref>]. Accordingly, the participants will be asked to chew on the two-colored chewing gum on their preferred chewing side. The participants will be abruptly stopped by the examiner and asked to spit out the chewing gum after twenty chewing cycles. The examiner will silently count the number of chewing strokes during the tests. The chewed samples will be photographed with a phone camera (iPhone, Apple Inc.) on a specially designed stand before flattening the sample into a wafer of 1 mm thickness. The images will be imported into a photo‐editing software (Adobe Photoshop® Elements for Windows, Adobe systems incorporated, San Jose, CA, USA), both sides of the wafers will be assembled into a single image file. These files are then to be imported and analyzed in a purpose‐built freeware (ViewGum©, dHAL Software, Greece, <ext-link ext-link-type="uri" xlink:href="http://www.dhal.com">www.dhal.com</ext-link>) which calculates the Variance of Hue (VoH), a parameter on the color mixing of the chewing gum.</p>
+                <p id="Par41">The oral health-related QoL assessed by the participants will be evaluated with the OHIP-14 questionnaire and subject-based information on chewing ability will also be collected. These measurements will be used to assess the degree of functional impairment (pretest) and the subsequent effect of restoration of function (post-test) on masticatory function.</p>
+                <p id="Par42"><italic>Neuropsychological assessments</italic> The NA are approximated to 90 min per test occasion and are conducted prior to the protocol by a research assistant blinded to the randomization. The neuropsychological assessments are state-of-the-art tests with good psychometric validity translated into Swedish. The aim is to use the cognitive tests that are sensitive to change and measure a broad range of cognitive domains.</p>
+                <p id="Par43">The assessed cognitive domains and specific tests are:</p>
+                <p id="Par44"><italic>Episodic memory</italic> The Ray Auditory Verbal Learning Test (RAVLT) [<xref ref-type="bibr" rid="CR46">46</xref>], the BVMT-R [<xref ref-type="bibr" rid="CR43">43</xref>].</p>
+                <p id="Par45"><italic>Executive functions</italic> The Trail Making Test (TMT) trial 4 from Delis-Kaplan Executive Function System (D-KEFS) [<xref ref-type="bibr" rid="CR47">47</xref>], the Verbal Fluency (VF) test from D-KEFS, and the Color-Word Interference Test from D-KEFS.</p>
+                <p id="Par46"><italic>Attention/working-memory</italic> The Digit Span from Wechsler Adult Intelligence Scale (WAIS) 4th edition[<xref ref-type="bibr" rid="CR48">48</xref>], the Digit Symbol from WAIS-IV, and the Trail Making Test (TMT) trial 1–3, and 5 from D-KEFS.</p>
+                <p id="Par47"><italic>Visuospatial functions</italic> The Block Design from WAIS-IV.</p>
+                <p id="Par48"><italic>Logical thinking</italic> The Matrix Reasoning from WAIS-IV.</p>
+                <p id="Par49"><italic>Brain imaging</italic> All the Magnetic Resonance Imaging (MRI) acquisitions will be conducted at SUBIC using a Siemens Prisma 3 T scanner (Erlangen, Germany). The duration of the MRI protocol is approximately 40 min and it includes a high resolution sagittal T1-weighted MPRAGE sequence for structural changes, a T2-FLAIR sequence to exclude other types of pathologies such as tumors, and detection of white matter pathology. Further, for the resting-state functional MRI (i.e., the participants don’t perform any cognitive task but are instructed to stay awake during the scanning), an EPI blood oxygen level-dependent (BOLD) sequence will be used. A Pseudo-Continuous Arterial Spin Labeling (pCASL) sequence will be performed to measure brain perfusion. Finally, we also aim to include measures of the masseter muscle in the MRI to be able to study pre- and post-muscle volume using a PD-weighted SPACE sequence. The MRI data will be stored and analyzed within TheHiveDB which is an encrypted web-based neuroimaging database system capable of managing data for large longitudinal projects [<xref ref-type="bibr" rid="CR49">49</xref>]. The system has the capacity to perform fully automated analysis of structural and functional imaging data using a variety of algorithms from Freesurfer, SPM, and FSL, etc. A detailed quality control protocol will be used to ensure the image quality [<xref ref-type="bibr" rid="CR50">50</xref>] and a radiologist at Karolinska University Hospital, Stockholm, Sweden, will assess the images.</p>
+                <p id="Par50"><italic>Saliva samples</italic> Subjective stress of the participants before the saliva collection will be assessed with a Hospital anxiety depression scale questionnaire. Saliva will be collected to measure cortisol levels as a measure of stress. Stimulated saliva will be collected by having the participant chew on paraffin gum and spit out the saliva in a cup for 2 min. The amount of stimulated saliva will be noted and then approximately 5 ml will be collected in a tube and frozen at -80 degrees C for later analyzes. The time of conducting the test will be matched for all tests to avoid bias with fluctuating levels throughout the day. Participants will be instructed not to eat or drink for about two hours before the test.</p>
+                <p id="Par51"><italic>Ethical issues</italic> The regional ethical review board in Stockholm has approved the study (Dnr: 2012/652-31/1). An amendment (Dnr 2016/670-31/2) on the updated protocol has been accepted by the ethical review board, Stockholm. All participants will be given oral and written information about the study, and a signed written informed consent will be obtained prior to randomization and initiation of any testing. The data generated from the study will be stored following the Swedish Archives Act and the Personal Data Act.</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Statistical methods</title>
+                <p id="Par52">The data from the study will be entered in a Microsoft Excel sheet and exported to statistical software packages like SPSS Inc, Statistica, StatSoft Inc, or similar advanced analytics software packages for analysis. The result from the cognitive testing will be analyzed as repeated measure Analysis of covariance (ANCOVAs) with groups (experimental and control) and time (pre-and post-rehabilitation) as factors. Group-by-time interaction, the main effect of the group, and the main effect of time will be evaluated. To compare the magnitude of gains, the effect size (partial eta-square) will also be calculated. We will use time-length between pre-and post-tests as a covariate of interest with aiming to better control group differences. To predict the intervention outcomes, we will develop models that mainly predict cognitive test measures (NA). Predictive ability is defined as the amount of variance in the outcome that can be explained by pre-test cognitive status (slope method). Explained variance in the outcome will be obtained by analyzing linear regressions.</p>
+                <p id="Par53">Preprocessing and statistical analyses of MRI data will be performed with Statistical Parametric Mapping (SPM) run in MATLAB (MathWorks). Movement correction will be performed by realigning and unwarp to the first image in the series. To consider group-specific anatomical brain differences, all patients will be normalized to Montreal Neurological Institute (MNI) echoplanar-imaging template. However, cortical thickness measures will not be normalized but rather used in their raw form. For cortical segmentation, a Freesurfer pipeline will be applied to the MRI images to produce regional cortical thickness and volumetric measures. To investigate rehabilitating-related changes repeated measures ANCOVAs will be performed with the groups (experimental and control) and time (pre-and post-rehabilitation) as factors. We will control for multiple comparisons with the Bonferroni-Holm method since all cognitive tests are correlated and because a majority of the test variables in this study belong to the same family (cognitive domain) or even the same test. In case of significant behavioral effects (i.e., a significant group-by-time interaction effect indicating that: the experimental group improves their cognitive performances &gt; the control group), the changes will be evaluated as covariates of interest in relation to the potential brain changes.</p>
+              </sec>
+            </sec>
+            <sec id="Sec10">
+              <title>Discussion</title>
+              <p id="Par54">We have, in the current protocol introduced an interventional study that aims to investigate the relationship between mastication and cognition in humans. It has previously been proposed that people who maintain their chewing ability may be less likely to develop dementia, compared to those who cannot chew well [<xref ref-type="bibr" rid="CR13">13</xref>]. The decreased chewing function may be an unrecognized and potentially, modifiable risk factor contributing to the development of cognitive decline. Although an association between masticatory function and neurocognition seems evident from animal studies, interventional studies on humans are lacking, and a causal relationship has not yet been established. Therefore, during the course of the study, about eighty participants will be rehabilitated with modern contemporary prosthodontic treatment, and cognitive skills along with brain scans will be evaluated before and after the prosthodontic rehabilitation procedures. Additionally, the masticatory function will be assessed with subjective and objective measurements along with the overall oral health-related quality of life. If rehabilitation of masticatory function shows positive effects on neurocognitive performance, or prolonged cognitive maintenance (i.e., no further decline), it will have great implications on future health care for patients with impaired masticatory status at risk of developing dementia. Thus, the present project may provide a new avenue for the prevention of cognitive decline and dementia and bridge gaps between chewing function and cognition.</p>
+              <p id="Par55">Our overall hypothesis that rehabilitation of the masticatory function will lead to improved cognitive performance primarily in the performance of episodic memory and learning measured by BVMT-R tests along with the corresponding neural changes mainly in the hippocampus and/or prefrontal cortex have substantial support from animal studies. In particular, Watanabe K, et al., in a series of experiments on aged SAMP8 mice showed that deliberate cutting the molar teeth results in impaired learning ability [<xref ref-type="bibr" rid="CR51">51</xref>]. It was proposed that the probable mechanisms for this observation were that a molarless condition in aged mice decreases the <italic>Fos</italic> Induction in the hippocampus, which is related to impaired development of learning ability. Further, it was reported that the <italic>Fos</italic> induction in the hippocampus was normalized by the restoration of the molarless mice with artificial crowns. The mice also demonstrated better performance in the water maze test after the replacement with artificial teeth than during the molarless condition. In other words, restoring masticatory function with artificial crowns in aged mice counteracted the reduction in spatial memory and hippocampal neuron function [<xref ref-type="bibr" rid="CR51">51</xref>]. Our study focuses on frontotemporal mediated cognitive functions such as episodic memory and executive functions which have support from studies on cognitive neuroscience. A robust association has been found between cognition (mainly episodic memory, and executive function) and self-reported chewing ability. It was suggested that chewing difficulty was more likely to be associated with cognitive impairment irrespective of whether the participants chewed with natural teeth or with a dental prosthesis [<xref ref-type="bibr" rid="CR52">52</xref>]. Paganini-Hill and colleagues have also recognized and emphasized the importance of teeth and dental rehabilitation with prostheses (removable or fixed) to support mastication and reduce the risk of cognitive decline and development of dementia [<xref ref-type="bibr" rid="CR53">53</xref>]. Accordingly, our MRI protocol can capture potential brain tissue changes with the structural sequences, and functional changes using a combination of resting-state BOLD fMRI and brain perfusion sequences, as well as our cognitive test battery with its research-based focus on episodic memory and executive functions.</p>
+              <p id="Par56">The study follows a clinical, longitudinal randomized trial design and has considered any possible bias due to type 1 error. Accordingly, the two pre-tests in the control group are included to rule out for test–retest effects of the cognitive measurements. The likelihood of the participants performing better in the cognitive tests in the second assessment is quite high. Therefore, the post-test in the control group will rule out any type 1 error due to an improvement over time that could potentially be interpreted as an improvement due to the intervention (dental rehabilitation). We hypothesize that at post-test (after the intervention), the experimental group will perform better in cognitive tests than the control group at post-test (i.e., the intervention improves the cognitive abilities better than what the test–retest effect does). However, at post-test 2 (after the intervention), we hypothesize that the control group will perform at a similar level as the experimental group as a result of gained effects due to the intervention. Importantly, the control group will probably have a shorter time length between pre-and post-test than the experimental group. This is a limitation that might lead to a greater risk of type- 2 errors and thereby decrease the possibilities to detect intervention effects. However, due to ethical reasons, we cannot deny the control group their dental rehabilitation any longer than 3–4 months after the pre-tests (see the method section for further information on the control for time differences between pre-and post-test). In contrast, if we detect positive intervention effects, we will be able to draw firm conclusions (i.e., despite a shorter time between pre-and post-test for the control group). Importantly, we will also evaluate if we can identify pre-intervention predictors for intervention outcomes. This is especially important regarding cognitive status (assessed with the pre-intervention neuropsychological tests) and we will therefore statistically model cognitive performances to predict intervention outcomes.</p>
+              <p id="Par57">The (optional) MRI acquisitions are in the protocol design not conducted on all study participants, even when taking medical contraindications and reluctance to participate in consideration. The reason to include 40 participants (20 in each group) is to a large extent dependent on the feasibility and availability of the resources. Moreover, this could be seen as a weakness in this part of the study since it will be more difficult to achieve strong reliability in collected data.</p>
+              <p id="Par58">To optimize the cooperation, adaption, and survival of the intervention the participants will be rehabilitated with a fixed tooth or/and implant-supported prosthesis, also including overdentures (OD, implant, or tooth-supported prosthesis). Studies conducted comparing the masticatory function with different prosthetic treatments have shown a better function with fixed alternatives compared with a partial or full removable denture [<xref ref-type="bibr" rid="CR54">54</xref>]. Although overdentures are considered as removable appliances they are included since they improve the masticatory performance compared to full removable ones that are the alternative treatment, especially when used in the mandibular [<xref ref-type="bibr" rid="CR55">55</xref>]. OD is often the preferable option when having anatomical and/or economical limitations and by including OD it will broaden the socioeconomic span as well as the possibility to retain more participants to post-tests. Previous studies have reported a higher survival and lower complication rate in patients rehabilitated with the fixed prosthesis in comparison to the removable ones. In particular, authors have reported a survival rate of 98.7 [<xref ref-type="bibr" rid="CR56">56</xref>] and 95.4% [<xref ref-type="bibr" rid="CR57">57</xref>] for fixed implant-supported prostheses over 5 years. In a retrospective study on fixed tooth-supported partial dentures over 5 units; conducted partly at the same department as the current study, the 10-year survival rate was 74.4% [<xref ref-type="bibr" rid="CR58">58</xref>]. In order to have better treatment outcomes and eliminate any confounders related to the treatment procedures, the participants in the current study will only be treated by specialized dentists or dentists in specialization training under supervision. Though, we do acknowledge that there are a few limitations of the current study protocol. Confounding factors such as sarcopenia, adaptive capacities and adjustments of diet consistency due to loss of teeth can influence the secondary outcome parameters. However, a recent preliminary study with similar study objectives has with a smaller sample shown promising results [<xref ref-type="bibr" rid="CR59">59</xref>]. Successive studies will be planned to consider all the major confounding factors reflecting on the results of the current study and perhaps follow the participants in the current study for a longer duration.</p>
+              <p id="Par59">Contemporary orofacial neuroscience [<xref ref-type="bibr" rid="CR60">60</xref>] related research has emphasized the importance of sensorimotor regulation [<xref ref-type="bibr" rid="CR61">61</xref>–<xref ref-type="bibr" rid="CR70">70</xref>] and adaptation to the altered oral environment during biting [<xref ref-type="bibr" rid="CR64">64</xref>, <xref ref-type="bibr" rid="CR71">71</xref>–<xref ref-type="bibr" rid="CR74">74</xref>] and chewing behaviors [<xref ref-type="bibr" rid="CR71">71</xref>]. Further, recent studies have discussed the significance of retaining natural dentition and optimizing oral functions in people with a dental prosthesis [<xref ref-type="bibr" rid="CR62">62</xref>, <xref ref-type="bibr" rid="CR63">63</xref>, <xref ref-type="bibr" rid="CR75">75</xref>–<xref ref-type="bibr" rid="CR78">78</xref>]. These studies have in general suggested that restoration of chewing function can be an important factor for healthy wellbeing, for review see, [<xref ref-type="bibr" rid="CR79">79</xref>, <xref ref-type="bibr" rid="CR80">80</xref>]. If rehabilitation of the masticatory function also shows positive effects on neurocognitive functions, this will have great implications for future health care of patients with impaired masticatory status. Thus, the present project may provide a new avenue for the prevention of cognitive decline and dementia.</p>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>ANCOVAs</term>
+                  <def>
+                    <p id="Par5">Analysis of Covariance</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>AUDIT</term>
+                  <def>
+                    <p id="Par6">Alcohol Use Disorders Identification Test</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BDNF</term>
+                  <def>
+                    <p id="Par7">Brain-Derived Neurotrophic Factor</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BOLD</term>
+                  <def>
+                    <p id="Par8">Blood Oxygen Level-dependent</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BVMT-R</term>
+                  <def>
+                    <p id="Par9">Brief Visuospatial Memory Test-Revised</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>D-KEFS</term>
+                  <def>
+                    <p id="Par10">Delis-Kaplan Executive Function System</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HAD</term>
+                  <def>
+                    <p id="Par11">Hospital anxiety and depression</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MMSE</term>
+                  <def>
+                    <p id="Par12">Mini-Mental State Examination</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MNI</term>
+                  <def>
+                    <p id="Par13">Montreal Neurological Institute</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MRI</term>
+                  <def>
+                    <p id="Par14">Magnetic Resonance Imaging</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>NA</term>
+                  <def>
+                    <p id="Par15">Neuropsychological Assessments</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>NVS</term>
+                  <def>
+                    <p id="Par16">Department of Neurobiology, Care Sciences, and Society</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>OHIP</term>
+                  <def>
+                    <p id="Par17">Oral Health Impact Profile</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>OD</term>
+                  <def>
+                    <p id="Par18">Overdentures</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>pCASL</term>
+                  <def>
+                    <p id="Par19">Pseudo-Continuous Arterial Spin Labeling</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>PDHS</term>
+                  <def>
+                    <p id="Par20">Public Dental Health Service</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>RAVLT</term>
+                  <def>
+                    <p id="Par21">The Ray Auditory Verbal Learning Test</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SAMP</term>
+                  <def>
+                    <p id="Par22">Senescence Accelerated Mouse Prone</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SPM</term>
+                  <def>
+                    <p id="Par23">Statistical Parametric Mapping</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SUBIC</term>
+                  <def>
+                    <p id="Par24">Stockholm University Brain Imaging Centre</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>TMT</term>
+                  <def>
+                    <p id="Par25">Trail Making Test</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VF</term>
+                  <def>
+                    <p id="Par26">Verbal Fluency</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VOH</term>
+                  <def>
+                    <p id="Par27">Variance of Hue</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>WAIS</term>
+                  <def>
+                    <p id="Par28">Wechsler Adult Intelligence Scale</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors would like to acknowledge the support provided by the Stockholm University Brain Imaging Centre (SUBIC).</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors' contributions</title>
+              <p>MT, UE, EW, and GSE conceptualized the study. JS, PS, AS LEN contributed to the technical details and designing of the protocol. LH, UE, AK drafted the first draft of the protocol. LH, UE, AK, LEN, AS, GSE, and MT revised the draft. All authors read and approved the final draft.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Open access funding provided by Karolinska Institute. The project is partially supported by grants from the Stockholm County Council and Karolinska Institutet (SOF: Styrgruppen för Odontologisk Forskning). The funding body does not have any role in the study design, data collection, analysis, and interpretation of data, and in writing the manuscript from the study.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data and material availability</title>
+              <p>The datasets generated and/or analyzed during the current study are not publicly available but are available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par60">The regional ethical review board in Stockholm has approved the study (Dnr: 2012/652-31/1). An amendment (Dnr 2016/670-31/2) on the updated protocol has been accepted by the ethical review board, Stockholm. All participants are given oral and written information about the study, and a signed written informed consent is obtained before their participation.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par61">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par62">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Drummond</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Birtwhistle</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Williamson</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Khan</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Garies</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Molnar</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence and management of dementia in primary care practices with electronic medical records: a report from the Canadian Primary Care Sentinel Surveillance Network</article-title>
+                  <source>CMAJ Open</source>
+                  <year>2016</year>
+                  <volume>4</volume>
+                  <issue>2</issue>
+                  <fpage>E177</fpage>
+                  <lpage>E184</lpage>
+                  <pub-id pub-id-type="doi">10.9778/cmajo.20150050</pub-id>
+                  <?supplied-pmid 27398361?>
+                  <pub-id pub-id-type="pmid">27398361</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>O'Brien</surname>
+                      <given-names>JT</given-names>
+                    </name>
+                    <name>
+                      <surname>Erkinjuntti</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Reisberg</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Roman</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Sawada</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Pantoni</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Vascular cognitive impairment</article-title>
+                  <source>Lancet Neurol</source>
+                  <year>2003</year>
+                  <volume>2</volume>
+                  <issue>2</issue>
+                  <fpage>89</fpage>
+                  <lpage>98</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S1474-4422(03)00305-3</pub-id>
+                  <?supplied-pmid 12849265?>
+                  <pub-id pub-id-type="pmid">12849265</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>O'Brien</surname>
+                      <given-names>JT</given-names>
+                    </name>
+                    <name>
+                      <surname>Markus</surname>
+                      <given-names>HS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Vascular risk factors and Alzheimer's disease</article-title>
+                  <source>BMC Med</source>
+                  <year>2014</year>
+                  <volume>12</volume>
+                  <fpage>218</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12916-014-0218-y</pub-id>
+                  <?supplied-pmid 25385509?>
+                  <pub-id pub-id-type="pmid">25385509</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Corrada</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Brookmeyer</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Paganini-Hill</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Berlau</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Kawas</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dementia incidence continues to increase with age in the oldest old: the 90+ study</article-title>
+                  <source>Ann Neurol</source>
+                  <year>2010</year>
+                  <volume>67</volume>
+                  <issue>1</issue>
+                  <fpage>114</fpage>
+                  <lpage>121</lpage>
+                  <pub-id pub-id-type="doi">10.1002/ana.21915</pub-id>
+                  <?supplied-pmid 20186856?>
+                  <pub-id pub-id-type="pmid">20186856</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jorm</surname>
+                      <given-names>AF</given-names>
+                    </name>
+                    <name>
+                      <surname>Jolley</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The incidence of dementia. A meta-analysis</article-title>
+                  <source>Neurology</source>
+                  <year>1998</year>
+                  <volume>51</volume>
+                  <issue>3</issue>
+                  <fpage>728</fpage>
+                  <lpage>733</lpage>
+                  <pub-id pub-id-type="doi">10.1212/WNL.51.3.728</pub-id>
+                  <?supplied-pmid 9748017?>
+                  <pub-id pub-id-type="pmid">9748017</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>Alzheimer's Association</collab>
+                  </person-group>
+                  <article-title>2019 Alzheimer's disease facts and figures</article-title>
+                  <source>Alzheimer's Dementia</source>
+                  <year>2019</year>
+                  <volume>15</volume>
+                  <issue>3</issue>
+                  <fpage>321</fpage>
+                  <lpage>387</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jalz.2019.01.010</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Revisiting the link between cognitive decline and masticatory dysfunction</article-title>
+                  <source>BMC Geriatr</source>
+                  <year>2018</year>
+                  <volume>18</volume>
+                  <issue>1</issue>
+                  <fpage>5</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12877-017-0693-z</pub-id>
+                  <?supplied-pmid 29304748?>
+                  <pub-id pub-id-type="pmid">29304748</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>C-S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Functional adaptation of oromotor functions and aging: a focused review of the evidence from brain neuroimaging research</article-title>
+                  <source>Front Aging Neurosci</source>
+                  <year>2020</year>
+                  <volume>11</volume>
+                  <fpage>354</fpage>
+                  <pub-id pub-id-type="doi">10.3389/fnagi.2019.00354</pub-id>
+                  <?supplied-pmid 31998112?>
+                  <pub-id pub-id-type="pmid">31998112</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <mixed-citation publication-type="other">Lin CS, Yeung AWK. What do we learn from brain imaging? A primer for the dentists who want to know more about the association between the brain and human stomatognathic functions. J Oral Rehabil. 2020.</mixed-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fang</surname>
+                      <given-names>W-L</given-names>
+                    </name>
+                    <name>
+                      <surname>Jiang</surname>
+                      <given-names>M-J</given-names>
+                    </name>
+                    <name>
+                      <surname>Gu</surname>
+                      <given-names>B-B</given-names>
+                    </name>
+                    <name>
+                      <surname>Wei</surname>
+                      <given-names>Y-M</given-names>
+                    </name>
+                    <name>
+                      <surname>Fan</surname>
+                      <given-names>S-N</given-names>
+                    </name>
+                    <name>
+                      <surname>Liao</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Tooth loss as a risk factor for dementia: systematic review and meta-analysis of 21 observational studies</article-title>
+                  <source>BMC Psychiatry</source>
+                  <year>2018</year>
+                  <volume>18</volume>
+                  <issue>1</issue>
+                  <fpage>345</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12888-018-1927-0</pub-id>
+                  <?supplied-pmid 30342524?>
+                  <pub-id pub-id-type="pmid">30342524</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Ren</surname>
+                      <given-names>C-J</given-names>
+                    </name>
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Xia</surname>
+                      <given-names>L-Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Shao</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Leng</surname>
+                      <given-names>W-D</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Tooth loss is associated with increased risk of dementia and with a dose–response relationship</article-title>
+                  <source>Front Aging Neurosci</source>
+                  <year>2018</year>
+                  <volume>10</volume>
+                  <fpage>415</fpage>
+                  <pub-id pub-id-type="doi">10.3389/fnagi.2018.00415</pub-id>
+                  <?supplied-pmid 30618721?>
+                  <pub-id pub-id-type="pmid">30618721</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stewart</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Weyant</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Garcia</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Harris</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Launer</surname>
+                      <given-names>LJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Satterfield</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Adverse oral health and cognitive decline: the health, aging and body composition study</article-title>
+                  <source>J Am Geriatr Soc</source>
+                  <year>2013</year>
+                  <volume>61</volume>
+                  <issue>2</issue>
+                  <fpage>177</fpage>
+                  <lpage>184</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jgs.12094</pub-id>
+                  <?supplied-pmid 23405916?>
+                  <pub-id pub-id-type="pmid">23405916</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lexomboon</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wardh</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Parker</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chewing ability and tooth loss: association with cognitive impairment in an elderly population study</article-title>
+                  <source>J Am Geriatr Soc</source>
+                  <year>2012</year>
+                  <volume>60</volume>
+                  <issue>10</issue>
+                  <fpage>1951</fpage>
+                  <lpage>1956</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1532-5415.2012.04154.x</pub-id>
+                  <?supplied-pmid 23035667?>
+                  <pub-id pub-id-type="pmid">23035667</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Weijenberg</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Scherder</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mastication for the mind: the relationship between mastication and cognition in ageing and dementia</article-title>
+                  <source>Neurosci Biobehav Rev</source>
+                  <year>2011</year>
+                  <volume>35</volume>
+                  <issue>3</issue>
+                  <fpage>483</fpage>
+                  <lpage>497</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.neubiorev.2010.06.002</pub-id>
+                  <?supplied-pmid 20547177?>
+                  <pub-id pub-id-type="pmid">20547177</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miura</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamasaki</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kariyasu</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Miura</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sumi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Relationship between cognitive function and mastication in elderly females</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2003</year>
+                  <volume>30</volume>
+                  <issue>8</issue>
+                  <fpage>808</fpage>
+                  <lpage>811</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2842.2003.01124.x</pub-id>
+                  <?supplied-pmid 12880404?>
+                  <pub-id pub-id-type="pmid">12880404</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tsakos</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Watt</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                    <name>
+                      <surname>Rouxel</surname>
+                      <given-names>PL</given-names>
+                    </name>
+                    <name>
+                      <surname>de Oliveira</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Demakakos</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tooth loss associated with physical and cognitive decline in older adults</article-title>
+                  <source>J Am Geriatr Soc</source>
+                  <year>2015</year>
+                  <volume>63</volume>
+                  <issue>1</issue>
+                  <fpage>91</fpage>
+                  <lpage>99</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jgs.13190</pub-id>
+                  <?supplied-pmid 25523131?>
+                  <pub-id pub-id-type="pmid">25523131</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mummolo</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ortu</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Necozione</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Monaco</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Marzo</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Relationship between mastication and cognitive function in elderly in L’Aquila</article-title>
+                  <source>Int J Clin Exp Med</source>
+                  <year>2014</year>
+                  <volume>7</volume>
+                  <issue>4</issue>
+                  <fpage>1040</fpage>
+                  <lpage>1046</lpage>
+                  <?supplied-pmid 24955179?>
+                  <pub-id pub-id-type="pmid">24955179</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ohkubo</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Morokuma</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoneyama</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsuda</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Interactions between occlusion and human brain function activities</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2013</year>
+                  <volume>40</volume>
+                  <issue>2</issue>
+                  <fpage>119</fpage>
+                  <lpage>129</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2842.2012.02316.x</pub-id>
+                  <?supplied-pmid 22624951?>
+                  <pub-id pub-id-type="pmid">22624951</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ono</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamamoto</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Kubo</surname>
+                      <given-names>KY</given-names>
+                    </name>
+                    <name>
+                      <surname>Onozuka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Occlusion and brain function: mastication as a prevention of cognitive dysfunction</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2010</year>
+                  <volume>37</volume>
+                  <issue>8</issue>
+                  <fpage>624</fpage>
+                  <lpage>640</lpage>
+                  <?supplied-pmid 20236235?>
+                  <pub-id pub-id-type="pmid">20236235</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Onozuka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Mirbod</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Ozono</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nishiyama</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Karasawa</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Reduced mastication stimulates impairment of spatial memory and degeneration of hippocampal neurons in aged SAMP8 mice</article-title>
+                  <source>Brain Res</source>
+                  <year>1999</year>
+                  <volume>826</volume>
+                  <issue>1</issue>
+                  <fpage>148</fpage>
+                  <lpage>153</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0006-8993(99)01255-X</pub-id>
+                  <?supplied-pmid 10216208?>
+                  <pub-id pub-id-type="pmid">10216208</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fukushima-Nakayama</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Ono</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Hayashi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Inoue</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wake</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Ono</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Reduced mastication impairs memory function</article-title>
+                  <source>J Dent Res</source>
+                  <year>2017</year>
+                  <volume>96</volume>
+                  <issue>9</issue>
+                  <fpage>1058</fpage>
+                  <lpage>1066</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034517708771</pub-id>
+                  <?supplied-pmid 28621563?>
+                  <pub-id pub-id-type="pmid">28621563</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kubo</surname>
+                      <given-names>KY</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamada</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Iinuma</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Iwaku</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Tamura</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Occlusal disharmony induces spatial memory impairment and hippocampal neuron degeneration via stress in SAMP8 mice</article-title>
+                  <source>Neurosci Lett</source>
+                  <year>2007</year>
+                  <volume>414</volume>
+                  <issue>2</issue>
+                  <fpage>188</fpage>
+                  <lpage>191</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.neulet.2006.12.020</pub-id>
+                  <?supplied-pmid 17207572?>
+                  <pub-id pub-id-type="pmid">17207572</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ichihashi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Arakawa</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Iinuma</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Tamura</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Kubo</surname>
+                      <given-names>K-Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Iwaku</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Occlusal disharmony attenuates glucocorticoid negative feedback in aged SAMP8 mice</article-title>
+                  <source>Neurosci Lett</source>
+                  <year>2007</year>
+                  <volume>427</volume>
+                  <issue>2</issue>
+                  <fpage>71</fpage>
+                  <lpage>76</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.neulet.2007.09.020</pub-id>
+                  <?supplied-pmid 17928141?>
+                  <pub-id pub-id-type="pmid">17928141</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kawahata</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Ono</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Ohno</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kawamoto</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kimoto</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Onozuka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Loss of molars early in life develops behavioral lateralization and impairs hippocampus-dependent recognition memory</article-title>
+                  <source>BMC Neurosci</source>
+                  <year>2014</year>
+                  <volume>15</volume>
+                  <fpage>4</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1471-2202-15-4</pub-id>
+                  <?supplied-pmid 24387332?>
+                  <pub-id pub-id-type="pmid">24387332</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonosaki</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kawase</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Karasawa</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Nagatsu</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujita</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evidence for involvement of dysfunctional teeth in the senile process in the hippocampus of SAMP8 mice</article-title>
+                  <source>Exp Gerontol</source>
+                  <year>2001</year>
+                  <volume>36</volume>
+                  <issue>2</issue>
+                  <fpage>283</fpage>
+                  <lpage>295</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0531-5565(00)00216-3</pub-id>
+                  <?supplied-pmid 11226743?>
+                  <pub-id pub-id-type="pmid">11226743</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Onozuka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Nagasaki</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Jiang</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Ozono</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nishiyama</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Impairment of spatial memory and changes in astroglial responsiveness following loss of molar teeth in aged SAMP8 mice</article-title>
+                  <source>Behav Brain Res</source>
+                  <year>2000</year>
+                  <volume>108</volume>
+                  <issue>2</issue>
+                  <fpage>145</fpage>
+                  <lpage>155</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0166-4328(99)00145-X</pub-id>
+                  <?supplied-pmid 10701658?>
+                  <pub-id pub-id-type="pmid">10701658</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Okihara</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Ito</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kokai</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ishida</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Hiranuma</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kato</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Liquid diet induces memory impairment accompanied by a decreased number of hippocampal neurons in mice</article-title>
+                  <source>J Neurosci Res</source>
+                  <year>2014</year>
+                  <volume>92</volume>
+                  <issue>8</issue>
+                  <fpage>1010</fpage>
+                  <lpage>1017</lpage>
+                  <pub-id pub-id-type="doi">10.1002/jnr.23383</pub-id>
+                  <?supplied-pmid 24687840?>
+                  <pub-id pub-id-type="pmid">24687840</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aoki</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kimoto</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Hori</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Toyoda</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cell proliferation in the dentate gyrus of rat hippocampus is inhibited by soft diet feeding</article-title>
+                  <source>Gerontology</source>
+                  <year>2005</year>
+                  <volume>51</volume>
+                  <issue>6</issue>
+                  <fpage>369</fpage>
+                  <lpage>374</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000088700</pub-id>
+                  <?supplied-pmid 16299417?>
+                  <pub-id pub-id-type="pmid">16299417</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tada</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Miura</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Association between mastication and cognitive status: a systematic review</article-title>
+                  <source>Arch Gerontol Geriatr</source>
+                  <year>2017</year>
+                  <volume>70</volume>
+                  <fpage>44</fpage>
+                  <lpage>53</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.archger.2016.12.006</pub-id>
+                  <?supplied-pmid 28042986?>
+                  <pub-id pub-id-type="pmid">28042986</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <mixed-citation publication-type="other">Shin HE, Cho MJ, Amano A, Song KB, Choi YH. Association between mastication-related factors and the prevalence of dementia in Korean elderly women visiting senior centres. Gerodontology. 2019.</mixed-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>EK</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Choi</surname>
+                      <given-names>YH</given-names>
+                    </name>
+                    <name>
+                      <surname>Tanaka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirotsu</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>HC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Relationship between chewing ability and cognitive impairment in the rural elderly</article-title>
+                  <source>Arch Gerontol Geriatr</source>
+                  <year>2017</year>
+                  <volume>70</volume>
+                  <fpage>209</fpage>
+                  <lpage>213</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.archger.2017.02.006</pub-id>
+                  <?supplied-pmid 28214402?>
+                  <pub-id pub-id-type="pmid">28214402</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kimura</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Ogawa</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoshihara</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamaga</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Takiguchi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Wada</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evaluation of chewing ability and its relationship with activities of daily living, depression, cognitive status and food intake in the community-dwelling elderly</article-title>
+                  <source>Geriatr Gerontol Int</source>
+                  <year>2013</year>
+                  <volume>13</volume>
+                  <issue>3</issue>
+                  <fpage>718</fpage>
+                  <lpage>725</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ggi.12006</pub-id>
+                  <?supplied-pmid 23279752?>
+                  <pub-id pub-id-type="pmid">23279752</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Onozuka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujita</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirano</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Niwa</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Nishiyama</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Mapping brain region activity during chewing: a functional magnetic resonance imaging study</article-title>
+                  <source>J Dent Res</source>
+                  <year>2002</year>
+                  <volume>81</volume>
+                  <issue>11</issue>
+                  <fpage>743</fpage>
+                  <lpage>746</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0810743</pub-id>
+                  <?supplied-pmid 12407087?>
+                  <pub-id pub-id-type="pmid">12407087</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Narita</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kamiya</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamamura</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kawasaki</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsumoto</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Tanaka</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chewing-related prefrontal cortex activation while wearing partial denture prosthesis: pilot study</article-title>
+                  <source>J Prosthodont Res</source>
+                  <year>2009</year>
+                  <volume>53</volume>
+                  <issue>3</issue>
+                  <fpage>126</fpage>
+                  <lpage>135</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jpor.2009.02.005</pub-id>
+                  <?supplied-pmid 19345661?>
+                  <pub-id pub-id-type="pmid">19345661</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Habib</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Nyberg</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Nilsson</surname>
+                      <given-names>LG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cognitive and non-cognitive factors contributing to the longitudinal identification of successful older adults in the betula study</article-title>
+                  <source>Neuropsychol Dev Cogn B Aging Neuropsychol Cogn</source>
+                  <year>2007</year>
+                  <volume>14</volume>
+                  <issue>3</issue>
+                  <fpage>257</fpage>
+                  <lpage>273</lpage>
+                  <pub-id pub-id-type="doi">10.1080/13825580600582412</pub-id>
+                  <?supplied-pmid 17453560?>
+                  <pub-id pub-id-type="pmid">17453560</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ikebe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsuda</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Murai</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Maeda</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Nokubi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Validation of the Eichner index in relation to occlusal force and masticatory performance</article-title>
+                  <source>Int J Prosthodont</source>
+                  <year>2010</year>
+                  <volume>23</volume>
+                  <issue>6</issue>
+                  <fpage>521</fpage>
+                  <lpage>524</lpage>
+                  <?supplied-pmid 21209986?>
+                  <pub-id pub-id-type="pmid">21209986</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Folstein</surname>
+                      <given-names>MF</given-names>
+                    </name>
+                    <name>
+                      <surname>Folstein</surname>
+                      <given-names>SE</given-names>
+                    </name>
+                    <name>
+                      <surname>McHugh</surname>
+                      <given-names>PR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>“Mini-mental state”: a practical method for grading the cognitive state of patients for the clinician</article-title>
+                  <source>J Psychiatr Res</source>
+                  <year>1975</year>
+                  <volume>12</volume>
+                  <issue>3</issue>
+                  <fpage>189</fpage>
+                  <lpage>198</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0022-3956(75)90026-6</pub-id>
+                  <?supplied-pmid 1202204?>
+                  <pub-id pub-id-type="pmid">1202204</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Houx</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Shepherd</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Blauw</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Murphy</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ford</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Bollen</surname>
+                      <given-names>EL</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Testing cognitive function in elderly populations: the PROSPER study. PROspective Study of Pravastatin in the Elderly at Risk</article-title>
+                  <source>J Neurol Neurosurg Psychiatry</source>
+                  <year>2002</year>
+                  <volume>73</volume>
+                  <issue>4</issue>
+                  <fpage>385</fpage>
+                  <lpage>389</lpage>
+                  <pub-id pub-id-type="doi">10.1136/jnnp.73.4.385</pub-id>
+                  <?supplied-pmid 12235304?>
+                  <pub-id pub-id-type="pmid">12235304</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bohn</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Babor</surname>
+                      <given-names>TF</given-names>
+                    </name>
+                    <name>
+                      <surname>Kranzler</surname>
+                      <given-names>HR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Alcohol Use Disorders Identification Test (AUDIT): validation of a screening instrument for use in medical settings</article-title>
+                  <source>J Stud Alcohol</source>
+                  <year>1995</year>
+                  <volume>56</volume>
+                  <issue>4</issue>
+                  <fpage>423</fpage>
+                  <lpage>432</lpage>
+                  <pub-id pub-id-type="doi">10.15288/jsa.1995.56.423</pub-id>
+                  <?supplied-pmid 7674678?>
+                  <pub-id pub-id-type="pmid">7674678</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Reinert</surname>
+                      <given-names>DF</given-names>
+                    </name>
+                    <name>
+                      <surname>Allen</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The alcohol use disorders identification test: an update of research findings</article-title>
+                  <source>Alcohol Clin Exp Res</source>
+                  <year>2007</year>
+                  <volume>31</volume>
+                  <issue>2</issue>
+                  <fpage>185</fpage>
+                  <lpage>199</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1530-0277.2006.00295.x</pub-id>
+                  <?supplied-pmid 17250609?>
+                  <pub-id pub-id-type="pmid">17250609</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Larsson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>List</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Lundstrom</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Marcusson</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ohrbach</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reliability and validity of a Swedish version of the Oral Health Impact Profile (OHIP-S)</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2004</year>
+                  <volume>62</volume>
+                  <issue>3</issue>
+                  <fpage>147</fpage>
+                  <lpage>152</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016350410001496</pub-id>
+                  <?supplied-pmid 15370634?>
+                  <pub-id pub-id-type="pmid">15370634</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lisspers</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Nygren</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Söderman</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Hospital Anxiety and Depression Scale (HAD): some psychometric data for a Swedish sample</article-title>
+                  <source>Acta Psychiatr Scand</source>
+                  <year>1997</year>
+                  <volume>96</volume>
+                  <issue>4</issue>
+                  <fpage>281</fpage>
+                  <lpage>286</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0447.1997.tb10164.x</pub-id>
+                  <?supplied-pmid 9350957?>
+                  <pub-id pub-id-type="pmid">9350957</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Benedict</surname>
+                      <given-names>RHB</given-names>
+                    </name>
+                    <name>
+                      <surname>Schretlen</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Groninger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Dobraski</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Shpritz</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Revision of the brief visuospatial memory test: studies of normal performance, reliability, and validity</article-title>
+                  <source>Psychol Assess</source>
+                  <year>1996</year>
+                  <volume>8</volume>
+                  <issue>2</issue>
+                  <fpage>145</fpage>
+                  <lpage>153</lpage>
+                  <pub-id pub-id-type="doi">10.1037/1040-3590.8.2.145</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schimmel</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Christou</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Herrmann</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A two-colour chewing gum test for masticatory efficiency: development of different assessment methods</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2007</year>
+                  <volume>34</volume>
+                  <issue>9</issue>
+                  <fpage>671</fpage>
+                  <lpage>678</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2842.2007.01773.x</pub-id>
+                  <?supplied-pmid 17716266?>
+                  <pub-id pub-id-type="pmid">17716266</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schimmel</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Christou</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Miyazaki</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Halazonetis</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Herrmann</surname>
+                      <given-names>FR</given-names>
+                    </name>
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A novel colourimetric technique to assess chewing function using two-coloured specimens: validation and application</article-title>
+                  <source>J Dent</source>
+                  <year>2015</year>
+                  <volume>43</volume>
+                  <issue>8</issue>
+                  <fpage>955</fpage>
+                  <lpage>964</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2015.06.003</pub-id>
+                  <?supplied-pmid 26111925?>
+                  <pub-id pub-id-type="pmid">26111925</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <mixed-citation publication-type="other">Schmidt M. Rey Auditory Verbal Learning Test: RAVLT : a Handbook: Western Psychological Services; 1996.</mixed-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fine</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Delis</surname>
+                      <given-names>DC</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="editor">
+                    <name>
+                      <surname>Kreutzer</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>DeLuca</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Caplan</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Delis-Kaplan executive functioning system</article-title>
+                  <source>Encyclopedia of clinical neuropsychology</source>
+                  <year>2011</year>
+                  <publisher-loc>New York</publisher-loc>
+                  <publisher-name>Springer</publisher-name>
+                  <fpage>796</fpage>
+                  <lpage>801</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ryan</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Gontkovsky</surname>
+                      <given-names>ST</given-names>
+                    </name>
+                    <name>
+                      <surname>Kreiner</surname>
+                      <given-names>DS</given-names>
+                    </name>
+                    <name>
+                      <surname>Tree</surname>
+                      <given-names>HA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Wechsler Adult Intelligence Scale-Fourth Edition performance in relapsing–remitting multiple sclerosis</article-title>
+                  <source>J Clin Exp Neuropsychol</source>
+                  <year>2012</year>
+                  <volume>34</volume>
+                  <issue>6</issue>
+                  <fpage>571</fpage>
+                  <lpage>579</lpage>
+                  <pub-id pub-id-type="doi">10.1080/13803395.2012.666229</pub-id>
+                  <?supplied-pmid 22394018?>
+                  <pub-id pub-id-type="pmid">22394018</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Muehlboeck</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>Westman</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Simmons</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>TheHiveDB image data management and analysis framework</article-title>
+                  <source>Front Neuroinform</source>
+                  <year>2014</year>
+                  <volume>7</volume>
+                  <fpage>49</fpage>
+                  <pub-id pub-id-type="doi">10.3389/fninf.2013.00049</pub-id>
+                  <?supplied-pmid 24432000?>
+                  <pub-id pub-id-type="pmid">24432000</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Simmons</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Westman</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Muehlboeck</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Mecocci</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Vellas</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Tsolaki</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The AddNeuroMed framework for multi-centre MRI assessment of Alzheimer's disease: experience from the first 24 months</article-title>
+                  <source>Int J Geriatr Psychiatry</source>
+                  <year>2011</year>
+                  <volume>26</volume>
+                  <issue>1</issue>
+                  <fpage>75</fpage>
+                  <lpage>82</lpage>
+                  <pub-id pub-id-type="doi">10.1002/gps.2491</pub-id>
+                  <?supplied-pmid 21157852?>
+                  <pub-id pub-id-type="pmid">21157852</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Watanabe</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ozono</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nishiyama</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Saito</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Tonosaki</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Fujita</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The molarless condition in aged SAMP8 mice attenuates hippocampal Fos induction linked to water maze performance</article-title>
+                  <source>Behav Brain Res</source>
+                  <year>2002</year>
+                  <volume>128</volume>
+                  <issue>1</issue>
+                  <fpage>19</fpage>
+                  <lpage>25</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0166-4328(01)00268-6</pub-id>
+                  <?supplied-pmid 11755686?>
+                  <pub-id pub-id-type="pmid">11755686</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bergdahl</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Habib</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Bergdahl</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Nyberg</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Nilsson</surname>
+                      <given-names>L-G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Natural teeth and cognitive function in humans</article-title>
+                  <source>Scand J Psychol</source>
+                  <year>2007</year>
+                  <volume>48</volume>
+                  <issue>6</issue>
+                  <fpage>557</fpage>
+                  <lpage>565</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1467-9450.2007.00610.x</pub-id>
+                  <?supplied-pmid 18028078?>
+                  <pub-id pub-id-type="pmid">18028078</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR53">
+                <label>53.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paganini-Hill</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <name>
+                      <surname>Atchison</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dentition, dental health habits, and dementia: the Leisure World Cohort Study</article-title>
+                  <source>J Am Geriatr Soc</source>
+                  <year>2012</year>
+                  <volume>60</volume>
+                  <issue>8</issue>
+                  <fpage>1556</fpage>
+                  <lpage>1563</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1532-5415.2012.04064.x</pub-id>
+                  <?supplied-pmid 22860988?>
+                  <pub-id pub-id-type="pmid">22860988</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR54">
+                <label>54.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schimmel</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Memedi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Parga</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Katsoulis</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Müller</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Masticatory performance and maximum bite and lip force depend on the type of prosthesis</article-title>
+                  <source>Int J Prosthodont</source>
+                  <year>2017</year>
+                  <volume>30</volume>
+                  <issue>6</issue>
+                  <fpage>565</fpage>
+                  <lpage>572</lpage>
+                  <pub-id pub-id-type="doi">10.11607/ijp.5289</pub-id>
+                  <?supplied-pmid 29084301?>
+                  <pub-id pub-id-type="pmid">29084301</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR55">
+                <label>55.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fueki</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Kimoto</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ogawa</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Garrett</surname>
+                      <given-names>NR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of implant-supported or retained dentures on masticatory performance: a systematic review</article-title>
+                  <source>J Prosthet Dent</source>
+                  <year>2007</year>
+                  <volume>98</volume>
+                  <issue>6</issue>
+                  <fpage>470</fpage>
+                  <lpage>477</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0022-3913(07)60147-4</pub-id>
+                  <?supplied-pmid 18061741?>
+                  <pub-id pub-id-type="pmid">18061741</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR56">
+                <label>56.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sailer</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Strasding</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Valente</surname>
+                      <given-names>NA</given-names>
+                    </name>
+                    <name>
+                      <surname>Zwahlen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Liu</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pjetursson</surname>
+                      <given-names>BE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of the survival and complication rates of zirconia-ceramic and metal-ceramic multiple-unit fixed dental prostheses</article-title>
+                  <source>Clin Oral Implants Res</source>
+                  <year>2018</year>
+                  <volume>29</volume>
+                  <issue>Suppl 16</issue>
+                  <fpage>184</fpage>
+                  <lpage>198</lpage>
+                  <pub-id pub-id-type="doi">10.1111/clr.13277</pub-id>
+                  <?supplied-pmid 30328185?>
+                  <pub-id pub-id-type="pmid">30328185</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR57">
+                <label>57.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pjetursson</surname>
+                      <given-names>BE</given-names>
+                    </name>
+                    <name>
+                      <surname>Tan</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                    <name>
+                      <surname>Bragger</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Egger</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Zwahlen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of the survival and complication rates of fixed partial dentures (FPDs) after an observation period of at least 5 years</article-title>
+                  <source>Clin Oral Implants Res</source>
+                  <year>2004</year>
+                  <volume>15</volume>
+                  <issue>6</issue>
+                  <fpage>625</fpage>
+                  <lpage>642</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0501.2004.01117.x</pub-id>
+                  <?supplied-pmid 15533124?>
+                  <pub-id pub-id-type="pmid">15533124</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR58">
+                <label>58.</label>
+                <mixed-citation publication-type="other">Alsterstål-Englund H, Moberg L-E, Petersson J, Smedberg J-I. A retrospective clinical evaluation of extensive tooth-supported fixed dental prostheses after 10 years. J Prosthet Dentistry. 2020.</mixed-citation>
+              </ref>
+              <ref id="CR59">
+                <label>59.</label>
+                <mixed-citation publication-type="other">Tan D, Foster S, Korgaonkar MS, Oxenham V, Whittle T, Klineberg I. The role of progressive oral implant rehabilitation in mastication, cognition and oral health-related quality of life outcomes—a pilot to define the protocol. J Oral Rehabil.</mixed-citation>
+              </ref>
+              <ref id="CR60">
+                <label>60.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Iwata</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sessle</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The evolution of neuroscience as a research field relevant to dentistry</article-title>
+                  <source>J Dent Res</source>
+                  <year>2019</year>
+                  <volume>98</volume>
+                  <issue>13</issue>
+                  <fpage>1407</fpage>
+                  <lpage>1417</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034519875724</pub-id>
+                  <?supplied-pmid 31746682?>
+                  <pub-id pub-id-type="pmid">31746682</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR61">
+                <label>61.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Deng</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Gao</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Lu</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Alteration of occlusal vertical dimension induces signs of neuroplastic changes in corticomotor control of masseter muscles: preliminary findings</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <issue>9</issue>
+                  <fpage>710</fpage>
+                  <lpage>719</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.12682</pub-id>
+                  <?supplied-pmid 29920731?>
+                  <pub-id pub-id-type="pmid">29920731</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR62">
+                <label>62.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>KG</given-names>
+                    </name>
+                    <name>
+                      <surname>Baad-Hansen</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Isidor</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Optimization of jaw muscle activity and fine motor control during repeated biting tasks</article-title>
+                  <source>Arch Oral Biol</source>
+                  <year>2014</year>
+                  <volume>59</volume>
+                  <issue>12</issue>
+                  <fpage>1342</fpage>
+                  <lpage>1351</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.archoralbio.2014.08.009</pub-id>
+                  <?supplied-pmid 25193315?>
+                  <pub-id pub-id-type="pmid">25193315</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR63">
+                <label>63.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tanaka</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Training-induced dynamics of accuracy and precision in human motor control</article-title>
+                  <source>Sci Rep</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <issue>1</issue>
+                  <fpage>6784</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41598-017-07078-y</pub-id>
+                  <?supplied-pmid 28754929?>
+                  <pub-id pub-id-type="pmid">28754929</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR64">
+                <label>64.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tanaka</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Takahashi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Wiesinger</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Vibratory stimulus to the masseter muscle impairs the oral fine motor control during biting tasks</article-title>
+                  <source>J Prosthodont Res.</source>
+                  <year>2019</year>
+                  <volume>63</volume>
+                  <issue>3</issue>
+                  <fpage>354</fpage>
+                  <lpage>360</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jpor.2018.10.011</pub-id>
+                  <?supplied-pmid 30833186?>
+                  <pub-id pub-id-type="pmid">30833186</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR65">
+                <label>65.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kothari</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Luo</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>KG</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Can short-term oral fine motor training affect precision of task performance and induce cortical plasticity of the jaw muscles?</article-title>
+                  <source>Exp Brain Res.</source>
+                  <year>2016</year>
+                  <volume>234</volume>
+                  <issue>7</issue>
+                  <fpage>1935</fpage>
+                  <lpage>1943</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00221-016-4598-4</pub-id>
+                  <?supplied-pmid 26914481?>
+                  <pub-id pub-id-type="pmid">26914481</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR66">
+                <label>66.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Almotairy</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Development of the jaw sensorimotor control and chewing: a systematic review</article-title>
+                  <source>Physiol Behav</source>
+                  <year>2018</year>
+                  <volume>194</volume>
+                  <fpage>456</fpage>
+                  <lpage>465</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.physbeh.2018.06.037</pub-id>
+                  <?supplied-pmid 29960013?>
+                  <pub-id pub-id-type="pmid">29960013</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR67">
+                <label>67.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Johansson</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Temporal profile and amplitude of human masseter muscle activity is adapted to food properties during individual chewing cycles</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>5</issue>
+                  <fpage>367</fpage>
+                  <lpage>373</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.12155</pub-id>
+                  <?supplied-pmid 24612326?>
+                  <pub-id pub-id-type="pmid">24612326</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR68">
+                <label>68.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Almotairy</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Noirrit-Esclassan</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Developmental and age-related changes in sensorimotor regulation of biting maneuvers in humans</article-title>
+                  <source>Physiol Behav</source>
+                  <year>2020</year>
+                  <volume>219</volume>
+                  <fpage>112845</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.physbeh.2020.112845</pub-id>
+                  <?supplied-pmid 32081813?>
+                  <pub-id pub-id-type="pmid">32081813</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR69">
+                <label>69.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Almotairy</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Motor control strategies during unpredictable force control tasks in humans</article-title>
+                  <source>J Oral Rehabil.</source>
+                  <year>2020</year>
+                  <volume>47</volume>
+                  <issue>10</issue>
+                  <fpage>1222</fpage>
+                  <lpage>1232</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.13052</pub-id>
+                  <?supplied-pmid 32634248?>
+                  <pub-id pub-id-type="pmid">32634248</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR70">
+                <label>70.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Almotairy</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Welander</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Age-related changes in oral motor-control strategies during unpredictable load demands in humans.Eur</article-title>
+                  <source>J Oral Sci.</source>
+                  <year>2020</year>
+                  <volume>128</volume>
+                  <issue>4</issue>
+                  <fpage>299</fpage>
+                  <lpage>307</lpage>
+                  <pub-id pub-id-type="doi">10.1111/eos.12721</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR71">
+                <label>71.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Åberg</surname>
+                      <given-names>MK</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of sudden deprivation of sensory inputs from periodontium on mastication</article-title>
+                  <source>Front Neurosci</source>
+                  <year>2019</year>
+                  <volume>13</volume>
+                  <fpage>1316</fpage>
+                  <pub-id pub-id-type="doi">10.3389/fnins.2019.01316</pub-id>
+                  <?supplied-pmid 31920486?>
+                  <pub-id pub-id-type="pmid">31920486</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR72">
+                <label>72.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>KG</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Perturbed oral motor control due to anesthesia during intraoral manipulation of food</article-title>
+                  <source>Sci Rep</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <fpage>46691</fpage>
+                  <pub-id pub-id-type="doi">10.1038/srep46691</pub-id>
+                  <?supplied-pmid 28425479?>
+                  <pub-id pub-id-type="pmid">28425479</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR73">
+                <label>73.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Castrillon</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>KG</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Fine motor control of the jaw following alteration of orofacial afferent inputs</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <issue>2</issue>
+                  <fpage>613</fpage>
+                  <lpage>626</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-016-1939-4</pub-id>
+                  <?supplied-pmid 27568306?>
+                  <pub-id pub-id-type="pmid">27568306</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR74">
+                <label>74.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Avivi-Arber</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Sessle</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dental occlusal changes induce motor cortex neuroplasticity</article-title>
+                  <source>J Dent Res</source>
+                  <year>2015</year>
+                  <volume>94</volume>
+                  <issue>12</issue>
+                  <fpage>1757</fpage>
+                  <lpage>1764</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034515602478</pub-id>
+                  <?supplied-pmid 26310722?>
+                  <pub-id pub-id-type="pmid">26310722</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR75">
+                <label>75.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>KG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of short-term training on behavioral learning and skill acquisition during intraoral fine motor task</article-title>
+                  <source>Neuroscience</source>
+                  <year>2015</year>
+                  <volume>306</volume>
+                  <fpage>10</fpage>
+                  <lpage>17</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.neuroscience.2015.06.065</pub-id>
+                  <?supplied-pmid 26162238?>
+                  <pub-id pub-id-type="pmid">26162238</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR76">
+                <label>76.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Koullia</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Jongenburger</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Koutris</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Lobbezoo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Behavioral learning and skill acquisition during a natural yet novel biting task</article-title>
+                  <source>Physiol Behav</source>
+                  <year>2019</year>
+                  <volume>211</volume>
+                  <fpage>112667</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.physbeh.2019.112667</pub-id>
+                  <?supplied-pmid 31479681?>
+                  <pub-id pub-id-type="pmid">31479681</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR77">
+                <label>77.</label>
+                <mixed-citation publication-type="other">Zhang H KA, Kothari M, Luo X, Trulsson M, Svensson KG, Svensson P. Can short-term oral fine motor training affect precision of task performance and induce cortical plasticity of the jaw muscles? (Submitted). 2015</mixed-citation>
+              </ref>
+              <ref id="CR78">
+                <label>78.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Excitatory drive of masseter muscle during mastication with dental implants</article-title>
+                  <source>Sci Rep</source>
+                  <year>2018</year>
+                  <volume>8</volume>
+                  <issue>1</issue>
+                  <fpage>8597</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41598-018-26926-z</pub-id>
+                  <?supplied-pmid 29872098?>
+                  <pub-id pub-id-type="pmid">29872098</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR79">
+                <label>79.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Kothari</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Grigoriadis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Trulsson</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Svensson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Bite or brain: implication of sensorimotor regulation and neuroplasticity in oral rehabilitation procedures</article-title>
+                  <source>J Oral Rehabil.</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <issue>4</issue>
+                  <fpage>323</fpage>
+                  <lpage>333</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.12603</pub-id>
+                  <?supplied-pmid 29314189?>
+                  <pub-id pub-id-type="pmid">29314189</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR80">
+                <label>80.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sessle</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mechanisms of oral somatosensory and motor functions and their clinical correlates</article-title>
+                  <source>J Oral Rehabil</source>
+                  <year>2006</year>
+                  <volume>33</volume>
+                  <issue>4</issue>
+                  <fpage>243</fpage>
+                  <lpage>261</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2842.2006.01623.x</pub-id>
+                  <?supplied-pmid 16629880?>
+                  <pub-id pub-id-type="pmid">16629880</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

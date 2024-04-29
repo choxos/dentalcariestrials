@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:49:11Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:4139458" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:4139458</identifier>
+        <datestamp>2015-01-20</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J. Clin. Periodontol</journal-id>
+              <journal-id journal-id-type="publisher-id">jcpe</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Clinical Periodontology</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0303-6979</issn>
+              <issn pub-type="epub">1600-051X</issn>
+              <publisher>
+                <publisher-name>John Wiley &amp; Sons Ltd</publisher-name>
+                <publisher-loc>Oxford, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC4139458</article-id>
+              <article-id pub-id-type="pmcid">PMC4139458</article-id>
+              <article-id pub-id-type="pmc-uid">4139458</article-id>
+              <article-id pub-id-type="pmid">24888705</article-id>
+              <article-id pub-id-type="doi">10.1111/jcpe.12278</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Periodontal Diseases</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Comparing clinical attachment level and pocket depth for predicting periodontal disease progression in healthy sites of patients with chronic periodontitis using multi-state Markov models</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mdala</surname>
+                    <given-names>Ibrahimu</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Olsen</surname>
+                    <given-names>Ingar</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Haffajee</surname>
+                    <given-names>Anne D</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au2">2</xref>
+                  <xref ref-type="author-notes" rid="fn2">†</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Socransky</surname>
+                    <given-names>Sigmund S</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au2">2</xref>
+                  <xref ref-type="author-notes" rid="fn2">†</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Thoresen</surname>
+                    <given-names>Magne</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>de Blasio</surname>
+                    <given-names>Birgitte Freiesleben</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="au3">3</xref>
+                  <xref ref-type="aff" rid="au4">4</xref>
+                </contrib>
+                <aff id="au1">
+                  <label>1</label>
+                  <institution>Department of Oral Biology, Faculty of Dentistry, University of Oslo</institution>
+                  <addr-line>Oslo, Norway</addr-line>
+                </aff>
+                <aff id="au2">
+                  <label>2</label>
+                  <institution>Department of Periodontology, The Forsyth Institute</institution>
+                  <addr-line>Cambridge, MA, USA</addr-line>
+                </aff>
+                <aff id="au3">
+                  <label>3</label>
+                  <institution>Department of Biostatistics, Faculty of Medicine, University of Oslo</institution>
+                  <addr-line>Oslo, Norway</addr-line>
+                </aff>
+                <aff id="au4">
+                  <label>4</label>
+                  <institution>Division of Infectious Disease Surveillance, Department of Infectious Disease Epidemiology, Norwegian Institute of Public Health</institution>
+                  <addr-line>Oslo, Norway</addr-line>
+                </aff>
+              </contrib-group>
+              <author-notes>
+                <corresp id="cor1">
+Address:, 
+<italic>Ibrahimu Mdala</italic>
+,
+<italic>Department of Oral Biology</italic>
+, 
+<italic>Faculty of Dentistry</italic>
+, 
+<italic>University of Oslo</italic>
+, 
+<italic>POB 1052 Blindern</italic>
+, 
+<italic>0316 Oslo</italic>
+, 
+<italic>Norway</italic>
+, E-mail: <email>ibrahimu.mdala@odont.uio.no</email></corresp>
+                <fn>
+                  <p><bold>Conflict of interest and source of funding statement</bold>
+The authors declare that they have no conflict of interests. Funding was from the University of Oslo, from the National Institute of Dental and Craniofacial Research (grant DE 12861) and from the European Commission FP7-HEALTH-306029 [“TRIGGER”] (IO).
+</p>
+                </fn>
+                <fn id="fn2">
+                  <label>†</label>
+                  <p>Deceased.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="ppub">
+                <month>9</month>
+                <year>2014</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>22</day>
+                <month>7</month>
+                <year>2014</year>
+              </pub-date>
+              <volume>41</volume>
+              <issue>9</issue>
+              <fpage>837</fpage>
+              <lpage>845</lpage>
+              <history>
+                <date date-type="accepted">
+                  <day>25</day>
+                  <month>5</month>
+                  <year>2014</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© 2014 The Authors. <italic>Journal of Clinical Periodontology</italic> Published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <copyright-year>2014</copyright-year>
+                <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+                  <license-p>This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <abstract>
+                <sec>
+                  <title>Aim</title>
+                  <p>To understand degeneration of healthy sites and identify factors associated with disease progression in patients with chronic periodontitis.</p>
+                </sec>
+                <sec>
+                  <title>Material and Methods</title>
+                  <p>Data on healthy sites from 163 American and Swedish subjects were analysed using two-three-state (health, gingivitis, chronic periodontitis) Markov models based on bleeding on probing (BOP), and either clinical attachment level (CAL) + BOP or pocket depth (PD) + BOP.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p>In 2 years, 10% (CAL + BOP) and 3% (PD + BOP) of healthy sites developed chronic periodontitis. On average, healthy sites remained healthy for 32 months before transiting in both models. Most transitions (87–97%) from health were to the gingivitis state. The expected duration of the gingivitis lesion was 4–5 months and sites recovered with a high probability (96–98%). Disease severity as measured by number of sites with CAL/PD &gt; 4 mm at baseline and smoking, were associated with fast progression from health to chronic periodontitis within 6 months as were gingival redness in the PD + BOP model only. With age, the rate of disease progression to gingivitis decreased.</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p>Transition probabilities for gingivitis and chronic periodontitis were higher with CAL + BOP than with PD + BOP. Smoking and disease severity were significant predictors for fast progression.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>antibiotics</kwd>
+                <kwd>chronic periodontitis</kwd>
+                <kwd>multi-state Markov models</kwd>
+                <kwd>periodontal therapy</kwd>
+              </kwd-group>
+            </article-meta>
+          </front>
+          <body>
+            <p>The natural history of chronic periodontal disease can be viewed as a staged, slowly progressing disease process, from its earliest form when it is called gingivitis to its severe form characterized by irreversible pathological changes (periodontitis). First, healthy sites usually progress to gingivitis when oral hygiene practices are ignored. Second, if good oral hygiene is not restored, further destruction of the tissues often leads to periodontitis. In the context of plaque-induced periodontal diseases, healthy sites are characterized by little or no dental plaque present, whereas gingivitis is characterized by accumulation of dental plaque and inflammation of the gingiva. In plaque-induced periodontitis, there is evidence of inflammation of the gingiva and loss of connective tissue and alveolar bone.</p>
+            <p>From a clinical perspective, a better understanding of the disease dynamics such as the expected time to reach a certain level of degeneration or the probability of progression may lead to more appropriate prevention, management and treatment. Traditionally, risk factors associated with periodontitis are determined with the use of statistical measures such as odds ratios or relative risks. Another approach to model disease progression over time is to use a multi-state Markov model, which assumes that the study subjects reside in one of a finite set of health states (Kalbfleisch &amp; Lawless <xref rid="b15" ref-type="bibr">1985</xref>). The method is increasingly used in medical research because many diseases naturally evolve through stages of increasing severity (Jackson <xref rid="b13" ref-type="bibr">2011</xref>). For example, the technique has been applied in research of HIV progression (Aalen et al. <xref rid="b1" ref-type="bibr">1997</xref>), screening for abdominal aortic aneurysms (Jackson et al. <xref rid="b14" ref-type="bibr">2003</xref>), liver cirrhosis (Andersen et al. <xref rid="b3" ref-type="bibr">1991</xref>) and cancer progression (Kay <xref rid="b16" ref-type="bibr">1986</xref>, Chen et al. <xref rid="b9" ref-type="bibr">1996</xref>). In contrast, the use of multi-state Markov in dentistry models has been very limited. We have identified only two previous studies investigating the clinical course of periodontitis with use of Markov models; a 3-year study of staff volunteers at the University of Queensland (Faddy et al. <xref rid="b10" ref-type="bibr">2000</xref>) and a 26-year study of Norwegian men (Schätzle et al. <xref rid="b24" ref-type="bibr">2009</xref>). Both studies targeted populations without particular risk for periodontal diseases.</p>
+            <p>The use of Markov models for periodontal disease is particularly appealing because the disease is characterized by both advancement and repair over time, which cannot be handled using traditional statistical methods that focus on disease progression only. Instead, the Markov approach allows for a flexible representation where progression and regression may be estimated separately and influence of risk factors on particular transitions studied. For example, gingivitis symptoms may be temporary before healthy conditions are restored, implying that not all sites with gingivitis progress to chronic periodontitis. This idea is not new in periodontal studies. In <xref rid="b25" ref-type="bibr">1984</xref>, Socransky et al. suggested that periodontal diseases progress by recurrent acute episodes. They coined this process “burst theory” and went further to suggest that there may be relatively short periods in which sites may undergo periodontal destruction followed by periods of extended remission.</p>
+            <p>It is generally accepted that the classification of periodontal diseases is extremely difficult and complex because different factors have to be considered. In <xref rid="b26" ref-type="bibr">1989</xref>, the American Academy of Periodontology identified distinct types of periodontal diseases based on factors such as age at onset, clinical appearance, pathogenic microbiota, systemic influences and rate of disease progression. A simpler classification was to follow at the 1st European Workshop in Periodontology in 1993 (Attström &amp; van der Velden <xref rid="b6" ref-type="bibr">1994</xref>), which was revised in 1996 (Armitage <xref rid="b4" ref-type="bibr">1996</xref>). In the 1999 classification, seven major categories of periodontal diseases were listed (Annals of Periodontology <xref rid="b21" ref-type="bibr"/>), emphasizing the multi-factorial nature of the disease. At the 5th European Workshop of Periodontology, a three stage classification based on loss of attachment was introduced (Tonetti &amp; Claffey <xref rid="b27" ref-type="bibr">2005</xref>). Therefore, classification systems should be viewed as dynamic works in progress that need to be modified periodically based on current thinking and new knowledge.</p>
+            <p>There is a clear need for better knowledge about disease development in healthy sites in susceptible patients with periodontitis for implementing appropriate intervention plans. To help bridge this gap in the literature, we propose two continuous Markov models for periodontal disease progression over a discrete state space. The model includes three disease states: health, gingivitis and chronic periodontitis and allows for gingivitis recovery. We distinguish the disease states based on two well-established clinical markers; clinical attachment level (CAL) or periodontal pocket depth (PD) in combination with bleeding on probing (BOP). Due to the controversy regarding periodontal disease classification, we note that the model can be interpreted directly in terms of the clinical parameters without any reference to particular disease levels. We apply the model to longitudinal clinical data from patients with chronic periodontitis (Goodson et al. <xref rid="b11" ref-type="bibr">2012</xref>, Mdala et al. <xref rid="b20" ref-type="bibr">2012</xref>). The purpose of this article is to compare the use of CAL <italic>versus</italic> PD in studying periodontal disease dynamics of healthy periodontal sites in patients with chronic periodontitis and to assess the influence of various covariates on particular disease progression and regression transitions.</p>
+            <sec sec-type="materials|methods">
+              <title>Material and Methods</title>
+              <sec>
+                <title>Data</title>
+                <p>The data were derived from a 2-year clinical study, originally from 217 subjects undergoing treatment for chronic periodontitis, in Boston, USA and Gothenburg, Sweden. The subjects were randomized to the following treatment arms: (1) scaling + root planning (SRP); (2) SRP + surgery (SURG) + systemic amoxicillin (AMOX) + systemic metronidazole (MET); (3) SRP + SURG + local tetracycline (TET); (4) SRP + SURG; (5) SRP + AMOX + MET + TET; (6) SRP + AMOX + MET; (7) SRP + TET; and (8) SRP + SURG + AMOX + MET + TET. The subjects were assessed at the following time points: baseline, 3, 6, 12, 18 and 24 months. For more details concerning patients, inclusion and exclusion criteria, periodontal treatments and clinical monitoring, Mdala et al. (<xref rid="b20" ref-type="bibr">2012</xref>) and Goodson et al. (<xref rid="b11" ref-type="bibr">2012</xref>) should be consulted. We selected data from healthy sites in subjects with at least four completed visits. Healthy sites were defined by CAL/PD ≤ 4 mm or PD ≤ 4 mm and no BOP at baseline. Of these sites, we then included only sites that were healthy at 6 months to allow for possible wash-out of effects of previous periodontal treatments.</p>
+                <p>For the CAL + BOP model, we analysed data from 1, 124 mesiobuccal sites in 162 subjects with a median age of 52 years (range 26–84 years). The data consisted of 622 site observations from 82 Americans and 502 site observations from 80 Swedish subjects. Data for the PD + BOP model consisted of 1, 374 mesiobuccal sites from 165 subjects with a median age of 54 (range 26–84 years). These data consisted of 639 site observations from 80 Americans and 735 site observations from 85 Swedish subjects. Other variables that were included in the analyses were age, gender, nationality (American or Swedish), current smoking habits, evidence of plaque accumulation, gingival redness and disease severity at baseline, defined as the number of teeth with CAL/PD ≥ 4 mm.</p>
+              </sec>
+              <sec>
+                <title>Disease classification</title>
+                <p>At each study visit, CAL, PD and BOP were assessed in the mesiobuccal site of each tooth. Based on the measurements, a site could belong to one of the three states; (1) health, (2) gingivitis and (3) chronic periodontitis (Fig.<xref ref-type="fig" rid="fig01">1</xref>). We defined health and disease states as follows;</p>
+                <fig id="fig01" position="float">
+                  <label>Figure 1</label>
+                  <caption>
+                    <p>A general multi-state Markov model for gingivitis and chronic periodontitis onset based on CAL + BOP (left panel) and PD + BOP (right panel) classifications. States 1, 2 and 3 correspond to health, gingivitis and chronic periodontitis and possible transitions are represented by arrows. Sites can advance from a healthy state to a gingivitis state, and optionally recover from gingivitis to healthy. Because data were observed at arbitrary time points, direct transitions from health to chronic periodontitis are also permissible. However, sites that advance to chronic periodontitis (absorption state) are not expected to recover (transit to healthy state) or transit to gingivitis state. <italic>Q</italic> is the transition intensity matrix. For example, <italic>q</italic><sub>12</sub> represents the instantaneous risk of moving from state 1 to state 2. Because transitions 3 → 1 and 3 → 2 are not permissible, <italic>q</italic><sub>31</sub> = <italic>q</italic><sub>32</sub> = <italic>q</italic><sub>33</sub> = 0. BOP, bleeding on probing; CAL, clinical attachment level; PD, pocket depth.</p>
+                  </caption>
+                  <graphic xlink:href="jcpe0041-0837-f1"/>
+                </fig>
+                <list list-type="order">
+                  <list-item>
+                    <p>
+Health: CAL/PD ≤ 4 mm and no BOP
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+Gingivitis: CAL/PD ≤ 4.0 mm and BOP
+</p>
+                  </list-item>
+                  <list-item>
+                    <p>
+Chronic periodontitis: CAL/PD &gt; 4 mm with or without BOP
+</p>
+                  </list-item>
+                </list>
+                <p>The following transitions were allowed; a healthy site can either advance to gingivitis (slow progression) or advance directly to chronic periodontitis (fast progression). The fast progression transition was added to provide information on “bursting behaviour” and in the present context it implies that a healthy site progresses to chronic periodontitis within half a year. In reality, sites undergoing this fast decay would have passed through the gingivitis state, although this state would not have been observed. A site with gingivitis can either transit to a healthy state (recovery) or advance to chronic periodontitis. Transitions from chronic periodontitis to health and gingivitis were considered not permissible.</p>
+              </sec>
+              <sec>
+                <title>Multi-state Markov model</title>
+                <p>We used a continuous Markov model with constant transition rates to represent periodontal disease progression in healthy sites. Chronic periodontitis is an absorbing state because transitions out of this state are not allowed. Hence we focused on the first occurrence of chronic periodontitis (“first hitting time”) and ignored further potential recovery due to the short duration of the study. Health and gingivitis are transient states as shown in Fig.<xref ref-type="fig" rid="fig01">1</xref> with arrows indicating allowed transitions between states. A transition probability satisfies the Markov property if future transitions depend on the present disease state of a site only, and not on how long the site has been in a given state or from where it has arrived. For example, if a site has gingivitis, then any future movement will only depend on the current state (gingivitis) while being independent of its previous history.</p>
+                <p>Our longitudinal data consisted of observations of the disease process at arbitrary times. The exact times at which state transitions occurred were not known although the underlying process evolved continuously in time. Kalbfleisch &amp; Lawless (<xref rid="b15" ref-type="bibr">1985</xref>) introduced the analysis of panel data under a Markov assumption where movements between disease states are governed by transitional intensities <italic>q</italic><sub>rs</sub> (<italic>t</italic>,<italic>x</italic>(<italic>t</italic>)) with <italic>r</italic>,<italic>s</italic> = 1, 2, 3 (the three possible states) and depend on time <italic>t</italic> and individual level or time-dependent explanatory variables at time <italic>t</italic>, denoted <italic>x</italic>(<italic>t</italic>). In our case, the <italic>q</italic><sub>rs</sub> forms a (3 × 3) matrix <italic>Q</italic> whose rows sum to zero so that the diagonal entries are defined by <inline-formula><inline-graphic xlink:href="jcpe0041-0837-mu1.jpg" mimetype="image"/></inline-formula>. Since it is not possible to move from <italic>S</italic><sub>3</sub>(<italic>t</italic>) to either <italic>S</italic><sub>1</sub>(<italic>t</italic>) or <italic>S</italic><sub>2</sub>(<italic>t</italic>), then in the transition intensity matrix <italic>q</italic><sub>31</sub> = <italic>q</italic><sub>32</sub> = <italic>q</italic><sub>33</sub> = 0. The transition intensity matrix <italic>Q</italic> has the form given in Fig.<xref ref-type="fig" rid="fig01">1</xref>.</p>
+                <p>We were also interested in the transition probabilities. We estimated the transition probabilities based on the observed transition rates using the method of maximum likelihood. In the case where <italic>Q</italic> is constant over time, the transition probability matrix <italic>P</italic>(<italic>t</italic>) = Exp(<italic>tQ</italic>). The full likelihood is then the product of probabilities of transition between observed states, over all sites and observation times, which is maximized in terms of log(<italic>q</italic><sub>rs</sub>) (Jackson <xref rid="b13" ref-type="bibr">2011</xref>).</p>
+              </sec>
+              <sec>
+                <title>Misclassification models</title>
+                <p>Several factors affect the variability and measurement accuracy of CAL and PD including periodontal disease progression and placement of site and tooth, and errors inherent to the experience and number of examiners and the choice of probe instruments (Holtfreter et al. <xref rid="b12" ref-type="bibr">2012</xref>). Clinical measurement errors may cause the observed disease states to be different from the true underlying disease status. To account for such misclassification, we extended the basic models allowing for misclassification using hidden multi-state Markov models (HMMs). The models and the results are presented in the Supporting information.</p>
+              </sec>
+              <sec>
+                <title>Regression model for covariates</title>
+                <p>We estimated the effects of measured covariates on the transition intensities <italic>q</italic><sub>rs</sub> in the Markov model using a proportional intensity model (Kalbfleisch &amp; Lawless <xref rid="b15" ref-type="bibr">1985</xref>). Suppose that each site has an associated vector of covariates <italic>x</italic> and that the process is time-homogeneous Markov with transition intensity matrix <italic>Q</italic>(<italic>x</italic>), which depends on a covariate vector <italic>x</italic>. Then for each entry of <italic>Q</italic>(<italic>x</italic>), the transition intensity for site <italic>i</italic> at observation time <italic>j</italic> is <inline-formula><inline-graphic xlink:href="jcpe0041-0837-mu2.jpg" mimetype="image"/></inline-formula>, where <italic>β</italic><sub>rs</sub> is a vector of regression parameters.</p>
+              </sec>
+              <sec>
+                <title>Model selection and assessment</title>
+                <p>A likelihood ratio test (LRT) statistic was used to compare nested models. This test produces a chi-square (<italic>χ</italic><sup>2</sup>) value and a <italic>p</italic>-value. If two nested models are compared and the LRT produces <italic>p</italic> ≤ 0.05, then the model being compared to fits the data better than the base model. We assessed the goodness of fit of our models by comparing the observed and expected prevalences under the model at a series of time points (Figs S1 and S2).</p>
+              </sec>
+              <sec>
+                <title>Testing for time inhomogeneity</title>
+                <p>The LRT statistic was also used to test for time inhomogeneity of the models. However, due to the short duration of the study, we observed very few transitions between gingivitis and periodontitis. This made the model estimation unstable, hence we present results from time homogeneous models.</p>
+              </sec>
+              <sec>
+                <title>Accounting for dependences</title>
+                <p>To account for dependencies between site observations in the same individual, we present confidence intervals of both the intensity matrix and transition probabilities obtained from bootstrapping at site level (1, 000 bootstrap samples). All analyses were performed by using the msm package in R (Jackson <xref rid="b13" ref-type="bibr">2011</xref>).</p>
+              </sec>
+            </sec>
+            <sec sec-type="results">
+              <title>Results</title>
+              <sec>
+                <title>Models based on CAL + BOP</title>
+                <p>During the 2-year time interval (between 6 and 30 months), a total of 327 sites progressed from healthy state to gingivitis and 89 sites experienced rapid progression from healthy state to chronic periodontitis. There were also 182 transitions from gingivitis to health and 12 transitions from gingivitis to chronic periodontitis.</p>
+              </sec>
+              <sec>
+                <title>Gingivitis and chronic periodontitis onset – the null model</title>
+                <p>Table<xref ref-type="table" rid="tbl1">1</xref> shows the transition intensities for the null model (model without adjusting covariates). The estimated mean sojourn time for a healthy site was −1/<italic>q</italic><sub>11</sub> = −1/(−0.37) = 2.7 years [95% CI 2.4 years, 3.0 years]. The average time spent in the gingivitis state was −1/<italic>q</italic><sub>22</sub> = −1/(−2.06) = 0.5 years [95% CI 0.4, 0.6]. The probabilities of a transition from a healthy state to either gingivitis or chronic periodontitis were <italic>q</italic><sub>12</sub>/(<italic>q</italic><sub>12</sub> + <italic>q</italic><sub>13</sub>) = 87% [95% CI 86%, 88%] and <italic>q</italic><sub>13</sub>/(<italic>q</italic><sub>12</sub> + <italic>q</italic><sub>13</sub>) = 13% [95% CI 12%, 14%] respectively. Similarly, the probability that the next disease state would be either health or chronic periodontitis for a site with gingivitis was 96% [95% CI 94%, 98%] and 4% [95% CI 2%, 6%] respectively.</p>
+                <table-wrap id="tbl1" position="float">
+                  <label>Table 1</label>
+                  <caption>
+                    <p>Transition intensities for the CAL + BOP and PD + BOP models. Because transitions chronic periodontitis → health and chronic periodontitis → gingivitis were not permissible, then <italic>q</italic><sub>31</sub> = <italic>q</italic><sub>32</sub> = <italic>q</italic><sub>33</sub> = 0. An average of −1/(−0.37) = 2.70 years (32.4 months) is spent disease-free before a transition is made from the healthy state and an average of −1/(−2.06) = 0.49 years (5.8 months) is spent with gingivitis before a transition is observed. In the PD + BOP model, an average of 1/0.37 = 2.70 years (32.4 months) is spent disease-free before a transition is observed and an average of 1/2.56 = 0.39 years (4.7 months) is spent with gingivitis before a transition is observed</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th align="center" colspan="3" rowspan="1">CAL + BOP model</th>
+                        <th align="center" colspan="3" rowspan="1">PD + BOP model</th>
+                      </tr>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th align="center" rowspan="1" colspan="1">Health</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis</th>
+                        <th align="center" rowspan="1" colspan="1">Chronic periodontitis</th>
+                        <th align="center" rowspan="1" colspan="1">Health</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis</th>
+                        <th align="center" rowspan="1" colspan="1">Chronic periodontitis</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Health</td>
+                        <td align="center" rowspan="1" colspan="1">−0.37 (−0.42, −0.33)</td>
+                        <td align="center" rowspan="1" colspan="1">0.32 (0.28, 0.37)</td>
+                        <td align="center" rowspan="1" colspan="1">0.05 (0.04, 0.06)</td>
+                        <td align="center" rowspan="1" colspan="1">−0.37 (−0.43, −0.33)</td>
+                        <td align="center" rowspan="1" colspan="1">0.37 (0.32, 0.42)</td>
+                        <td align="center" rowspan="1" colspan="1">0.01 (0.01, 0.02)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Gingivitis</td>
+                        <td align="center" rowspan="1" colspan="1">1.97 (1.66, 2.31)</td>
+                        <td align="center" rowspan="1" colspan="1">−2.06 (−2.42, −1.75)</td>
+                        <td align="center" rowspan="1" colspan="1">0.09 (0.03, 0.16)</td>
+                        <td align="center" rowspan="1" colspan="1">2.50 (2.17, 2.91)</td>
+                        <td align="center" rowspan="1" colspan="1">−2.56 (−3.00, −2.22)</td>
+                        <td align="center" rowspan="1" colspan="1">0.06 (0.02, 0.12)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Chronic periodontitis</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                        <td align="center" rowspan="1" colspan="1">0</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>BOP, bleeding on probing; CAL, clinical attachment level; PD, pocket depth.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>The corresponding 1- and 2-year transition probabilities are summarized in Table<xref ref-type="table" rid="tbl2">2</xref> and plotted in Fig.<xref ref-type="fig" rid="fig02">2</xref>. The system dynamics is characterized by a loss of healthy sites and a steady increase in the fraction of sites that have developed chronic periodontitis. The model estimates that approximately 5% and 10% of the healthy sites will have developed chronic periodontitis in 1 and 2 years, respectively. After an initial transient period, the density of sites in the gingivitis state stabilizes at 11–12%. Our model assessment (Fig. S1) revealed a tendency for the model to overestimate the proportion of sites in the healthy state, while underestimating the proportion with chronic periodontitis after 2 years.</p>
+                <table-wrap id="tbl2" position="float">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Estimates of transition probabilities and 95% CI for sites that were healthy at 6 months based on CAL + BOP and PD + BOP classifications. States 1, 2 and 3 correspond to health, gingivitis and chronic periodontitis respectively. There was a 12% chance that a site that was healthy would convert to gingivitis (1 → 2) in the first 2 years for both CAL + BOP and PD + BOP classified models. The probabilities for progression to chronic periodontitis from healthy (1 → 3) were at least three times higher for the CAL + BOP model compared to the PD + CAL model. After 2 years, recovery from gingivitis (2 → 1) was estimated as 75% for the CAL + BOP model and 83% for the PD + BOP model. Transitions 3 → 1 and 3 → 2 were not permissible</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left" rowspan="3" colspan="1">State transitions</th>
+                        <th align="center" colspan="4" rowspan="1">Predicted transition probabilities for sites that were healthy at 6 months</th>
+                      </tr>
+                      <tr>
+                        <th align="center" colspan="2" rowspan="1">CAL + BOP classified model</th>
+                        <th align="center" colspan="2" rowspan="1">PD + BOP classified model</th>
+                      </tr>
+                      <tr>
+                        <th align="center" rowspan="1" colspan="1">Year 1</th>
+                        <th align="center" rowspan="1" colspan="1">Year 2</th>
+                        <th align="center" rowspan="1" colspan="1">Year 1</th>
+                        <th align="center" rowspan="1" colspan="1">Year 2</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">1 → 2</td>
+                        <td align="center" rowspan="1" colspan="1">0.12 (0.11, 0.13)</td>
+                        <td align="center" rowspan="1" colspan="1">0.12 (0.11, 0.14)</td>
+                        <td align="center" rowspan="1" colspan="1">0.12 (0.11, 0.13)</td>
+                        <td align="center" rowspan="1" colspan="1">0.12 (0.11, 0.13)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">1 → 3</td>
+                        <td align="center" rowspan="1" colspan="1">0.05 (0.04, 0.06)</td>
+                        <td align="center" rowspan="1" colspan="1">0.10 (0.08, 0.12)</td>
+                        <td align="center" rowspan="1" colspan="1">0.01 (0.01, 0.02)</td>
+                        <td align="center" rowspan="1" colspan="1">0.03 (0.02, 0.04)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">2 → 1</td>
+                        <td align="center" rowspan="1" colspan="1">0.72 (0.68, 0.77)</td>
+                        <td align="center" rowspan="1" colspan="1">0.75 (0.72, 0.78)</td>
+                        <td align="center" rowspan="1" colspan="1">0.80 (0.77, 0.83)</td>
+                        <td align="center" rowspan="1" colspan="1">0.83 (0.80, 0.85)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">2 → 3</td>
+                        <td align="center" rowspan="1" colspan="1">0.07 (0.04, 0.10)</td>
+                        <td align="center" rowspan="1" colspan="1">0.12 (0.09, 0.15)</td>
+                        <td align="center" rowspan="1" colspan="1">0.03 (0.01, 0.05)</td>
+                        <td align="center" rowspan="1" colspan="1">0.05 (0.02, 0.08)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>BOP, bleeding on probing; CAL, clinical attachment level; PD, pocket depth.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <fig id="fig02" position="float">
+                  <label>Figure 2</label>
+                  <caption>
+                    <p>A plot of predicted transition probabilities for sites that were healthy at 6 months based on CAL + BOP classification. Here, states 1, 2 and 3 correspond to healthy, gingivitis and chronic periodontitis. Transition probabilities (1 → 3) were higher than for PD + BOP (see Fig.<xref ref-type="fig" rid="fig03">3</xref>). BOP, bleeding on probing; CAL, clinical attachment level; PD, pocket depth.</p>
+                  </caption>
+                  <graphic xlink:href="jcpe0041-0837-f2"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Models with adjusting covariates</title>
+                <p>The results of the univariate analyses for gingival redness, accumulation of plaque, age, smoking status, disease severity, gender and nationality are given in Table S1. A hazard ratio above one signifies a positive association between the covariate and the rate of transition. Conversely, a hazard ratio below one indicates a negative association between a covariate and the rate of transition. A hazard ratio equal to one implies no effect. All covariates were found to have a significant effect on one or more transitions. For example, accumulation of plaque significantly increased the transition intensity between health and gingivitis with a hazard ratio of 1.92 [95% CI 1.41, 2.61].</p>
+                <p>The estimates from the final multi-variate model show that disease severity was associated with a 7% and 15% increase per site with CAL &gt; 4 mm at baseline in the risk for fast progression and progression from gingivitis to chronic periodontitis, respectively (Table<xref ref-type="table" rid="tbl3">3</xref>). Smoking was associated with fast progression from health to chronic periodontitis with a hazard ratio of 2.11. Gingival redness and being male were associated with increased risks of transition from health to gingivitis by factors of 2.15 and 1.51 respectively. With age, the risk for transiting from health to gingivitis decreased by 3%.</p>
+                <table-wrap id="tbl3" position="float">
+                  <label>Table 3</label>
+                  <caption>
+                    <p>Hazard ratios from the multi-variate analysis of the CAL + BOP model given in Fig.<xref ref-type="fig" rid="fig01">1</xref>. The likelihood ratio test was used to select this model. The risk for gingivitis onset was 51% higher in males than females while each year increase in age was associated with a 3% decrease in the risk of gingivitis onset</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left" rowspan="2" colspan="1">Covariates</th>
+                        <th align="center" colspan="4" rowspan="1">Hazard ratios and 95% CI</th>
+                      </tr>
+                      <tr>
+                        <th align="center" rowspan="1" colspan="1">Health → Gingivitis</th>
+                        <th align="center" rowspan="1" colspan="1">Health → Chronic periodontitis</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis → Health</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis → Chronic periodontitis</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Gingival redness</td>
+                        <td align="center" rowspan="1" colspan="1">2.15 (1.56, 2.98)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">0.48 (0.14, 1.70)</td>
+                        <td align="center" rowspan="1" colspan="1">0.96 (0.64, 1.45)</td>
+                        <td align="center" rowspan="1" colspan="1">3.11 (0.53, 18.34)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Smoking</td>
+                        <td align="center" rowspan="1" colspan="1">0.72 (0.53, 1.00)</td>
+                        <td align="center" rowspan="1" colspan="1">2.11 (1.19, 3.76)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">0.71 (0.48, 1.05)</td>
+                        <td align="center" rowspan="1" colspan="1">1.02 (0.26, 3.97)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Gender:males</td>
+                        <td align="center" rowspan="1" colspan="1">1.51 (1.10, 2.08)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.18 (0.67, 2.08)</td>
+                        <td align="center" rowspan="1" colspan="1">1.22 (0.81, 1.84)</td>
+                        <td align="center" rowspan="1" colspan="1">3.10 (0.84, 11.40)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Age</td>
+                        <td align="center" rowspan="1" colspan="1">0.97 (0.96, 0.99)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.97, 1.03)</td>
+                        <td align="center" rowspan="1" colspan="1">0.98 (0.97, 1.00)</td>
+                        <td align="center" rowspan="1" colspan="1">0.94 (0.87, 1.00)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Severity<xref ref-type="table-fn" rid="tf3-3">†</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.97, 1.02)</td>
+                        <td align="center" rowspan="1" colspan="1">1.07 (1.02, 1.12)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.97, 1.04)</td>
+                        <td align="center" rowspan="1" colspan="1">1.15 (1.06, 1.26)<xref ref-type="table-fn" rid="tf3-2">*</xref></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>BOP, bleeding on probing; CAL, clinical attachment level.</p>
+                    </fn>
+                    <fn id="tf3-2">
+                      <label>*</label>
+                      <p>Significant results at <italic>α </italic>= 0.05.</p>
+                    </fn>
+                    <fn id="tf3-3">
+                      <label>†</label>
+                      <p>We estimated the severity of the disease in a subject at baseline by counting the number of teeth with CAL &gt; 4 mm.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Models based on PD + BOP</title>
+                <p>A total of 391 sites progressed from healthy state to gingivitis and 26 sites experienced rapid progression from healthy state to chronic periodontitis. There were also 227 transitions from gingivitis to health while only seven transitions were observed from gingivitis to chronic periodontitis.</p>
+              </sec>
+              <sec>
+                <title>Gingivitis and chronic periodontitis onset – the null model</title>
+                <p>The transition intensities for the PD + BOP model without covariates are given in Table<xref ref-type="table" rid="tbl1">1</xref>. The estimated mean sojourn time for a healthy site was 2.7 years [95% CI 2.3 years, 3.0 years] while the average time spent in the gingivitis state was 0.4 years [95% CI 0.3 years, 0.5 years]. The probabilities for a transition from a healthy state to either gingivitis or chronic periodontitis were 97% [95% CI 95%, 98%] and 3% [95% CI 2%, 5%] respectively. Similarly, the probability that the next disease state would be either health or chronic periodontitis for a site with gingivitis was 98% [95% CI 96%, 99%] and 2% [95% CI 1%, 4%] respectively.</p>
+                <p>The time-dependent transition probabilities for this model are given in Table<xref ref-type="table" rid="tbl2">2</xref> and plotted in Fig.<xref ref-type="fig" rid="fig03">3</xref>. Similar to the CAL + BOP model, the system dynamics is characterized by an ongoing loss of healthy sites and an increase in the proportion of sites that have developed chronic periodontitis. The model estimates that 1% and 3% of the healthy sites will develop chronic periodontitis in 1 and 2 years respectively. After an initial transient period, the density of sites in the gingivitis state stabilizes at 11–12%. We found a good correspondence between the observed and fitted model (Fig. S2).</p>
+                <fig id="fig03" position="float">
+                  <label>Figure 3</label>
+                  <caption>
+                    <p>A plot of predicted transition probabilities for sites that were healthy at 6 months based on PD + BOP classification. Here, states 1, 2 and 3 correspond to health, gingivitis and chronic periodontitis. Estimates for transition probabilities (1 → 3) were lower than for CAL + BOP (see Fig.<xref ref-type="fig" rid="fig02">2</xref>). BOP, bleeding on probing; CAL, clinical attachment level; PD, pocket depth.</p>
+                  </caption>
+                  <graphic xlink:href="jcpe0041-0837-f3"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Models with adjusting covariates</title>
+                <p>Table S2 shows hazard ratios from the univariate analysis. For each site with severe chronic periodontitis at baseline, the risk for a healthy site to develop chronic periodontitis increased by 14% while accumulation of plaque was associated with a 71% increase in the hazard of gingivitis onset.</p>
+                <p>In our final five-parameter model, the risk for a healthy site to experience fast progression or progression from gingivitis to chronic periodontitis increased by 11% and 12% respectively for each site with PD &gt; 4 mm at baseline (Table<xref ref-type="table" rid="tbl4">4</xref>). Fast progression to chronic periodontitis was 2.11 times more likely among smokers than non-smokers. Gingival redness increased the risk for transition from health to gingivitis by a factor of 2.13 and fast progression to chronic periodontitis by a factor of 3.43. Males were more likely to develop gingivitis than females with an increased risk of 39%. Each year increase in age was associated with a 2% decrease in the risk of progression from health to gingivitis.</p>
+                <table-wrap id="tbl4" position="float">
+                  <label>Table 4</label>
+                  <caption>
+                    <p>Hazard ratios from the multi-variate analysis of the PD + BOP model given in Fig.<xref ref-type="fig" rid="fig02">2</xref>. Severity of disease at baseline was associated with an 11% increase in the hazard of chronic periodontitis onset from health state while each year increase in age was associated with 2% decrease in the hazard of gingivitis onset</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left" rowspan="2" colspan="1">Covariates</th>
+                        <th align="center" colspan="4" rowspan="1">Hazard ratios (95% CI)</th>
+                      </tr>
+                      <tr>
+                        <th align="center" rowspan="1" colspan="1">Health → Gingivitis</th>
+                        <th align="center" rowspan="1" colspan="1">Health → Chronic periodontitis</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis → Health</th>
+                        <th align="center" rowspan="1" colspan="1">Gingivitis → Chronic periodontitis</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Gingival redness</td>
+                        <td align="center" rowspan="1" colspan="1">2.13 (1.53, 2.97)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">3.43 (1.12, 10.52)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.13 (0.76, 1.68)</td>
+                        <td align="center" rowspan="1" colspan="1">1.57 (0.38, 6.51)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Smoking</td>
+                        <td align="center" rowspan="1" colspan="1">0.89 (0.66, 1.22)</td>
+                        <td align="center" rowspan="1" colspan="1">2.20 (1.66, 7.37)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.02 (0.71, 1.45)</td>
+                        <td align="center" rowspan="1" colspan="1">0.48 (0.05, 5.02)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Gender:males</td>
+                        <td align="center" rowspan="1" colspan="1">1.39 (1.01, 1.91)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">0.77 (0.25, 2.39)</td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.68, 1.48)</td>
+                        <td align="center" rowspan="1" colspan="1">7.43 (0.35, 15.63)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Age</td>
+                        <td align="center" rowspan="1" colspan="1">0.98 (0.96, 0.99)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.94, 1.06)</td>
+                        <td align="center" rowspan="1" colspan="1">1.00 (0.98, 1.01)</td>
+                        <td align="center" rowspan="1" colspan="1">0.88 (0.77, 1.02)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Severity<xref ref-type="table-fn" rid="tf4-3">†</xref></td>
+                        <td align="center" rowspan="1" colspan="1">0.96 (0.93, 1.00)</td>
+                        <td align="center" rowspan="1" colspan="1">1.11 (1.00, 1.25)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                        <td align="center" rowspan="1" colspan="1">0.96 (0.92, 1.01)</td>
+                        <td align="center" rowspan="1" colspan="1">1.12 (1.01 1.28)<xref ref-type="table-fn" rid="tf4-2">*</xref></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn>
+                      <p>BOP, bleeding on probing; PD, pocket depth.</p>
+                    </fn>
+                    <fn id="tf4-2">
+                      <label>*</label>
+                      <p>Significant results at <italic>α </italic>= 0.05.</p>
+                    </fn>
+                    <fn id="tf4-3">
+                      <label>†</label>
+                      <p>We estimated the severity of the disease in a subject at baseline by counting the number of teeth with PD &gt; 4 mm.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec>
+                <title>Misclassification model results</title>
+                <p>Results for the multi-variate hidden Markov models (HMMs) and the full models without misclassifications were comparatively similar with respect to the estimated mean sojourn time for health and gingivitis (Table S1 in Data S1), and the 2-year probability for transition (Table S2 in Data S1), except for a lower estimate of the transition between health/gingivitis and chronic periodontitis in the PD + BOP model. However, in all HMMs, the misclassification probabilities between chronic periodontitis and health/gingivitis could not be estimated with precision (Table S3 in Data S1).</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion">
+              <title>Discussion</title>
+              <p>The present study is the first attempt to estimate disease progression of healthy sites in susceptible patients with chronic periodontitis using multi-state Markov models.</p>
+              <p>Healthy sites in this group of patients experienced periodontal disease progression after an average of 2.7 years in both models. Overall, the majority of disease transitions in healthy sites were to the gingivitis state. This lesion recovered with a high probability after a mean duration of &lt;6 months. Hence, our analyses suggest that the development of chronic periodontitis is commonly preceded by several instances of gingivitis followed by recession to a healthy state.</p>
+              <p>Comparison of the two models reveals two important differences. First, the CAL + BOP model predicted higher probabilities for fast progression and progression from gingivitis compared to the PD+ BOP model. In consequence, roughly 1 in 10 (CAL + BOP) and 1 in 33 (PD + BOP) of healthy sites progressed to chronic periodontitis in 2 years. The fact that we obtained higher levels of chronic periodontitis in the CAL model is in agreement with Page &amp; Eke (<xref rid="b22" ref-type="bibr">2007</xref>) who argued that using CAL alone would tend to overestimate periodontitis prevalence since attachment loss can be due to non-inflammatory causes. Instead, using PD alone would tend to underestimate disease prevalence because gingival recession, which is common from middle age, reduces PD. Second, we found gingival redness to be associated with fast progression in the PD + BOP model only. CAL and PD measurements provide different information about disease epidemiology. CAL is an indicator of cumulative tissue destruction, including past periodontal disease, while PD is an indicator of current disease status (inflammation; Burt et al. <xref rid="b8" ref-type="bibr">2005</xref>). Since gingival redness is an indicator of inflammation, this could explain why it exclusively predicted fast progression in the PD + BOP model.</p>
+              <p>One interesting finding in the present analyses is that with age, progression from health to gingivitis decreased. This result is in contrast with findings in previous Markov modelling studies of periodontitis, where the effect of age was recognized as reducing disease regression, rather than reducing disease progression (Faddy et al. <xref rid="b10" ref-type="bibr">2000</xref>, Schätzle et al. <xref rid="b24" ref-type="bibr">2009</xref>). There are numerous studies supporting that both prevalence and severity of periodontal disease increase with higher age. However, this relationship may not be related to age <italic>per se</italic>, but instead it may represent the outcome of prolonged exposure to true risk factors (Papapanou et al. <xref rid="b23" ref-type="bibr">1991</xref>). The present study population had manifest periodontal disease. One could therefore speculate that the protective effect of age could be a “frailty effect,” where sites that are highly prone to develop periodontal disease, would manifest disease at an earlier age, so that healthy sites in subjects of higher age will tend to be more robust towards disease progression.</p>
+              <p>Disease severity is commonly included in risk assessment models for periodontitis; usually the number of sites with PD &gt; 5 mm and the number of missing teeth are used as measures of cumulative disease severity (Kye et al. <xref rid="b18" ref-type="bibr">2012</xref>). We showed that disease severity, measured by the number of sites with chronic periodontitis (CAL/PD &gt; 4 mm) at baseline, was associated with fast progression and progression from the gingivitis state. This finding supports the use of sites with elevated probing depths as a prognostic factor, and suggests that measurements of sites with CAL &gt; 4 mm could serve a similar role in risk assessment.</p>
+              <p>Smoking increased the rate of fast progression, but had no significant effect on slow progression through the gingivitis state. The latter finding may possibly be explained by decreased likelihood for BOP and inflammatory response among smokers, attributable to alterations in the gingival microvasculature (Kumar &amp; Faizuddin <xref rid="b17" ref-type="bibr">2011</xref>). Interestingly, Faddy et al. (<xref rid="b10" ref-type="bibr">2000</xref>) found, using a 2-state Markov model, that smoking and age inhibit the healing process rather than promoting disease progression. In the CAL + BOP model, our results indicate a lower recovery rate from gingivitis among smokers although the effect was only marginally significant (Table<xref ref-type="table" rid="tbl3">3</xref>).</p>
+              <p>Males were associated with increased progression from health to gingivitis. Men have been shown to exhibit more periodontal disease than women (Albandar <xref rid="b2" ref-type="bibr">2000</xref>), and this has traditionally been attributed to better oral hygiene practices and more frequent visits to dentists among women (Borrell &amp; Papapanou <xref rid="b7" ref-type="bibr">2005</xref>), although the latter argument does not apply in the current context since all subjects were examined every 6 months. A review of gender differences in periodontal disease concludes that while men appear at greater risk for disease, they do not appear at higher risk for more rapid destruction than women. The finding in the present study that males were not associated with fast progression supports this.</p>
+              <p>Classification problems in periodontal studies are well documented in the literature. As discussed by Armitage (<xref rid="b5" ref-type="bibr">1999</xref>), classification systems provide a framework by which to scientifically study the aetiology, pathogenesis and treatment of diseases in an orderly fashion. Our study did not attempt to introduce new classification systems for periodontal disease. Rather, we aimed at understanding disease progression; more specifically, the burst theory using the two well-known established clinical markers of periodontal disease: CAL and PD. Our classification systems based on CAL, PD and BOP could provide a basis for understanding disease progression in an easy orderly way.</p>
+              <p>An attempt was also made at fitting time-inhomogeneous models in which transition intensities vary over time intervals. Although we found evidence of time inhomogeneity, the lack of enough transitions between disease states due to short duration of the study, prevented us from fitting such models.</p>
+              <p>We performed additional analyses allowing for misclassification between health/gingivitis and chronic periodontitis using hidden multi-state Markov models (HMMs) to account for inaccuracies in the measurement of CALs and probing depths. In these models, however, the confidence intervals for the estimated misclassification probabilities between chronic periodontitis and health/gingivitis were very wide, which made it difficult to draw conclusions from these analyses. This problem may be related to the short duration of the study period and the few observations of transitions to the chronic periodontitis state. For this reason, we chose to present the results of the models without inclusion of measurement error. Still, the HMM models may hint at which covariate effects are robust. For the CAL + BOP model, the HMM models confirmed the general findings presented here, except that the effect of gender may be obscure (Table S5 in Data S1), and smoking was found to prevent regression from the gingivitis state. For the PD + BOP model, the effects of gingival redness and severity on fast progression were not found robust (Table S6 in Data S1). In addition, no general effect of smoking, or gender was obtained.</p>
+              <p>The study had other limitations. First, one main limitation of the present study was its short duration. Chronic periodontitis is a slowly progressing disease that usually takes several years to develop. Due to its short duration, we observed few events of chronic periodontitis onset and it is possible that these transitions occurred in particular frail sites, which may not be representative of the general long-term disease dynamics of healthy sites in this group of patients. However, we included the chronic periodontitis state because it is informative and provides novel insights about the “bursting behaviour” (Socransky et al. <xref rid="b25" ref-type="bibr">1984</xref>). Second, our data may not describe accurately the natural history of periodontal disease development because the teeth showing signs of disease activity were cleansed. Third, a possible limitation with the multi-state Markov approach when used in the msm package for R is that unexplained heterogeneity in transition intensities may not be accounted for (Jackson <xref rid="b13" ref-type="bibr">2011</xref>). This could have been represented by random effects models, which are yet to be implemented in the msm package. However, we accounted for dependences between observations by estimating bootstrapped transition intensities and probabilities. Alternatively, multi-state models with random effects can be fitted to longitudinal data from a Bayesian perspective using Win BUGS (Lunn et al. <xref rid="b19" ref-type="bibr">2000</xref>).</p>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <p>The authors acknowledge the Faculty of Dentistry, University of Oslo, the National Institute of Dental and Craniofacial Research (grant DE 12861) and the European Commission FP7-HEALTH-306029 “TRIGGER”] (IO) for financial support.</p>
+            </ack>
+            <ref-list>
+              <title>References</title>
+              <ref id="b1">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aalen</surname>
+                      <given-names>OO</given-names>
+                    </name>
+                    <name>
+                      <surname>Farewell</surname>
+                      <given-names>VT</given-names>
+                    </name>
+                    <name>
+                      <surname>De Angelis</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Day</surname>
+                      <given-names>NE</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gill</surname>
+                      <given-names>ON</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A Markov model for HIV disease progression including the effect of HIV diagnosis and treatment: application to AIDS prediction in England and Wales</article-title>
+                  <source>Statistical Medicine</source>
+                  <year>1997</year>
+                  <volume>16</volume>
+                  <fpage>2191</fpage>
+                  <lpage>2210</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b2">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Albandar</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Global risk factors and risk indicators for periodontal diseases</article-title>
+                  <source>Periodontology 2002</source>
+                  <year>2000</year>
+                  <volume>29</volume>
+                  <fpage>177</fpage>
+                  <lpage>206</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b3">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Andersen</surname>
+                      <given-names>PK</given-names>
+                    </name>
+                    <name>
+                      <surname>Hansen</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Keiding</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessing the influence of reversible disease indicators on survival</article-title>
+                  <source>Statistical Medicine</source>
+                  <year>1991</year>
+                  <volume>10</volume>
+                  <fpage>1061</fpage>
+                  <lpage>1067</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b4">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Armitage</surname>
+                      <given-names>GC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal diseases: diagnosis</article-title>
+                  <source>Annals of Periodontology</source>
+                  <year>1996</year>
+                  <volume>1</volume>
+                  <fpage>37</fpage>
+                  <lpage>215</lpage>
+                  <pub-id pub-id-type="pmid">9118264</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b5">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Armitage</surname>
+                      <given-names>GC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Development of a classification system for periodontal diseases and conditions</article-title>
+                  <source>Annals of Periodontology</source>
+                  <year>1999</year>
+                  <volume>4</volume>
+                  <fpage>1</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="pmid">10863370</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b6">
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Attström</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="editor">
+                    <name>
+                      <surname>Karring</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>van der Velden</surname>
+                      <given-names>U</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="editor">
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Consensus report (epidemiology)</article-title>
+                  <source>Proceedings of the 1st European Workshop on Periodontics</source>
+                  <year>1994</year>
+                  <publisher-loc>London</publisher-loc>
+                  <publisher-name>Quintessence</publisher-name>
+                  <fpage>120</fpage>
+                  <lpage>126</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b7">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Borrell</surname>
+                      <given-names>LN</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Papapanou</surname>
+                      <given-names>PN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Analytical epidemiology of periodontitis</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>2005</year>
+                  <volume>32</volume>
+                  <issue>Suppl. 6</issue>
+                  <fpage>132</fpage>
+                  <lpage>158</lpage>
+                  <pub-id pub-id-type="pmid">16128835</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b8">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Burt</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Greenwell</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Fiorellini</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Giannobile</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Offenbacher</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Salkin</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Townsend</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheridan</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Genco</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Position paper: epidemiology of periodontal diseases</article-title>
+                  <source>Journal of Periodontology</source>
+                  <year>2005</year>
+                  <volume>76</volume>
+                  <fpage>1406</fpage>
+                  <lpage>1419</lpage>
+                  <pub-id pub-id-type="pmid">16101377</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b9">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>HH</given-names>
+                    </name>
+                    <name>
+                      <surname>Duffy</surname>
+                      <given-names>SW</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tabar</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A Markov chain method to estimate the tumour progression rate from preclinical phase, sensitivity and positive predictive value for mammography in breast cancer screening</article-title>
+                  <source>The Statistician</source>
+                  <year>1996</year>
+                  <volume>45</volume>
+                  <fpage>307</fpage>
+                  <lpage>317</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b10">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Faddy</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cullinan</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Palmer</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Westerman</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Seymour</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ante- dependence modelling in a longitudinal study of periodontal disease: the effect of age, gender, and smoking status</article-title>
+                  <source>Journal of Periodontology</source>
+                  <year>2000</year>
+                  <volume>71</volume>
+                  <fpage>454</fpage>
+                  <lpage>459</lpage>
+                  <pub-id pub-id-type="pmid">10776934</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b11">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goodson</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Haffajee</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Socransky</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kent</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Teles</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Hasturk</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Bogren</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Dyke</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Wennstrom</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Control of periodontal infections: a randomized controlled trial I. The primary outcome attachment gain and pocket depth reduction at treated sites</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>2012</year>
+                  <volume>39</volume>
+                  <fpage>526</fpage>
+                  <lpage>536</lpage>
+                  <pub-id pub-id-type="pmid">22512461</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b12">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Holtfreter</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Alte</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwahn</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Desvarieux</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kocher</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of different manual periodontal probes on periodontal measurements</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>2012</year>
+                  <volume>39</volume>
+                  <fpage>1032</fpage>
+                  <lpage>1041</lpage>
+                  <pub-id pub-id-type="pmid">22924328</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b13">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jackson</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Multi-state models for panel data: the msm package for R</article-title>
+                  <source>Journal of Statistical Software</source>
+                  <year>2011</year>
+                  <volume>38</volume>
+                  <fpage>1</fpage>
+                  <lpage>28</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b14">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jackson</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                    <name>
+                      <surname>Sharples</surname>
+                      <given-names>LD</given-names>
+                    </name>
+                    <name>
+                      <surname>Thompson</surname>
+                      <given-names>SG</given-names>
+                    </name>
+                    <name>
+                      <surname>Duffy</surname>
+                      <given-names>SW</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Couto</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Multi-state Markov models for disease progression with classification error</article-title>
+                  <source>Journal of the Royal Statistical Society: Series D (The Statistician)</source>
+                  <year>2003</year>
+                  <volume>52</volume>
+                  <fpage>193</fpage>
+                  <lpage>209</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b15">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kalbfleisch</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lawless</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The analysis of panel data under a Markov assumption</article-title>
+                  <source>Journal of the American Statistical Association</source>
+                  <year>1985</year>
+                  <volume>80</volume>
+                  <fpage>863</fpage>
+                  <lpage>871</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b16">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kay</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A Markov model for analysing cancer markers and disease states in survival studies</article-title>
+                  <source>Biometrics</source>
+                  <year>1986</year>
+                  <volume>42</volume>
+                  <fpage>855</fpage>
+                  <lpage>865</lpage>
+                  <pub-id pub-id-type="pmid">2434150</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b17">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kumar</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Faizuddin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effects of smoking on gingival microvasculature: a historical study</article-title>
+                  <source>Journal of Indian Society of Periodontology</source>
+                  <year>2011</year>
+                  <volume>15</volume>
+                  <fpage>344</fpage>
+                  <lpage>348</lpage>
+                  <pub-id pub-id-type="pmid">22368357</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b18">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kye</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Davidson</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Martin</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Engebretson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Current status of periodontal risk assessment</article-title>
+                  <source>Journal of Evidence-Based Dental Practice</source>
+                  <year>2012</year>
+                  <volume>12</volume>
+                  <fpage>2</fpage>
+                  <lpage>11</lpage>
+                  <comment>Special Issue-Periodontal and Implant Treatment</comment>
+                  <pub-id pub-id-type="pmid">23040336</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b19">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lunn</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Best</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Spiegelhalter</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>WinBUGS – a Bayesian modelling framework: concepts, structure, and extensibility</article-title>
+                  <source>Statistics and Computing</source>
+                  <year>2000</year>
+                  <volume>10</volume>
+                  <fpage>325</fpage>
+                  <lpage>337</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b20">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mdala</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Haffajee</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Socransky</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>de Blasio</surname>
+                      <given-names>BF</given-names>
+                    </name>
+                    <name>
+                      <surname>Thoresen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Olsen</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goodson</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Multilevel analysis of clinical parameters in chronic periodontitis after root planing/scaling, surgery and systemic and local antibiotics: 2-year results</article-title>
+                  <source>Journal of Oral Microbiology</source>
+                  <year>2012</year>
+                  <volume>4</volume>
+                  <fpage>17535</fpage>
+                </element-citation>
+              </ref>
+              <ref id="b21">
+                <element-citation publication-type="journal">
+                  <article-title>1999 International Workshop for a Classification of Periodontal Diseases and Conditions. Papers. Oak Brook, Illinois, October 30–November 2, 1999</article-title>
+                  <source>Annals of Periodontology</source>
+                  <volume>4</volume>
+                  <fpage>i</fpage>
+                  <comment>, 1–112</comment>
+                  <pub-id pub-id-type="pmid">10896458</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b22">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Page</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Eke</surname>
+                      <given-names>PI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Case definitions for use in population-based surveillance of periodontitis</article-title>
+                  <source>Journal of Periodontology</source>
+                  <year>2007</year>
+                  <volume>78</volume>
+                  <fpage>1387</fpage>
+                  <lpage>1399</lpage>
+                  <pub-id pub-id-type="pmid">17608611</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b23">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Papapanou</surname>
+                      <given-names>PN</given-names>
+                    </name>
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sterrett</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Eneroth</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Considerations on the contribution of aging to loss of periodontal tissue support</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>1991</year>
+                  <volume>18</volume>
+                  <fpage>611</fpage>
+                  <lpage>615</lpage>
+                  <pub-id pub-id-type="pmid">1795058</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b24">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schätzle</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Faddy</surname>
+                      <given-names>MJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Cullinan</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Seymour</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                    <name>
+                      <surname>Bürgin</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Anerud</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Boysen</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Löe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The clinical course of chronic periodontitis: V. Predictive factors in periodontal disease</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>2009</year>
+                  <volume>36</volume>
+                  <fpage>365</fpage>
+                  <lpage>371</lpage>
+                  <pub-id pub-id-type="pmid">19419434</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b25">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Socransky</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Haffajee</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Goodson</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lindhe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>New concepts of destructive periodontal disease</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>1984</year>
+                  <volume>11</volume>
+                  <fpage>21</fpage>
+                  <lpage>32</lpage>
+                  <pub-id pub-id-type="pmid">6582072</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="b26">
+                <element-citation publication-type="book">
+                  <collab>The American Academy of Periodontology</collab>
+                  <source>Proceedings of the World Workshop in Clinical Periodontics</source>
+                  <year>1989</year>
+                  <publisher-loc>Chicago, IL</publisher-loc>
+                  <publisher-name>The American Academy of Periodontology</publisher-name>
+                  <fpage>I/23</fpage>
+                  <lpage>I/24</lpage>
+                </element-citation>
+              </ref>
+              <ref id="b27">
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                  </person-group>
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Claffey</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Advances in the progression of periodontitis and proposal of definitions of a periodontitis case and disease progression for use in risk factor research: Group C Consensus report of the 5th European workshop in periodontology</article-title>
+                  <source>Journal of Clinical Periodontology</source>
+                  <year>2005</year>
+                  <volume>32</volume>
+                  <issue>Suppl. 6</issue>
+                  <fpage>210</fpage>
+                  <lpage>213</lpage>
+                  <pub-id pub-id-type="pmid">16128839</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+            <sec>
+              <title>Clinical Relevance</title>
+              <p><italic>Scientific rationale for the study</italic>: This is the first attempt to estimate disease progression of healthy sites and regression of diseased sites using multi-state Markov modelling in patients with chronic periodontitis.</p>
+              <p><italic>Principal findings</italic>: Transition probabilities for gingivitis and chronic periodontitis were higher with CAL + BOP than with PD + BOP. In 2 years, the transition probabilities for developing chronic periodontitis from health were estimated at 10% and 3% respectively. Disease severity at baseline and smoking were associated with fast progression from health to chronic periodontitis within 6 months. With age, the rate of disease progression to gingivitis decreased.</p>
+              <p><italic>Practical implications</italic>: Rates of disease progression from health to chronic periodontitis are influenced by severity of disease at baseline and smoking.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supporting Information</title>
+              <supplementary-material content-type="local-data" id="sd1">
+                <caption>
+                  <p><bold>Figure S1.</bold>Comparison of observed and fitted prevalences for a CAL + BOP multi-state model.</p>
+                  <p><bold>Figure S2.</bold> Comparison of observed and fitted survival for a PD + BOP multi-state model.</p>
+                  <p><bold>Figure S3.</bold> A 5-year plot of predicted transition probabilities for sites that were healthy at 6 months based on CAL + BOP classification.</p>
+                  <p><bold>Figure S4.</bold> A 5-year plot of predicted transition probabilities for sites that were healthy at 6 months based on PD + BOP classification.</p>
+                </caption>
+                <media mimetype="doc" mime-subtype="doc" xlink:href="jcpe0041-0837-sd1.doc" xlink:type="simple" id="d35e2118" position="anchor"/>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="sd2">
+                <caption>
+                  <p><bold>Table S1.</bold>Hazard ratios from the univariate analysis of the CAL + BOP model given in Fig. 1 (right panel).</p>
+                  <p><bold>Table S2.</bold> Hazard ratios from the univariate analysis of the PD + BOP model given in Fig. 1 (left panel).</p>
+                </caption>
+                <media mimetype="docx" mime-subtype="docx" xlink:href="jcpe0041-0837-sd2.docx" xlink:type="simple" id="d35e2129" position="anchor"/>
+              </supplementary-material>
+              <supplementary-material content-type="local-data" id="sd3">
+                <media mimetype="docx" mime-subtype="docx" xlink:href="jcpe0041-0837-sd3.docx" xlink:type="simple" id="d35e2131" position="anchor"/>
+              </supplementary-material>
+            </sec>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

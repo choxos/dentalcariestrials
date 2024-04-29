@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:40:30Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9826024" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9826024</identifier>
+        <datestamp>2023-01-09</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="jcpe13713" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-051X</journal-id>
+              <journal-id journal-id-type="publisher-id">JCPE</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Clinical Periodontology</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0303-6979</issn>
+              <issn pub-type="epub">1600-051X</issn>
+              <publisher>
+                <publisher-name>Blackwell Publishing Ltd</publisher-name>
+                <publisher-loc>Oxford, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9826024</article-id>
+              <article-id pub-id-type="pmcid">PMC9826024</article-id>
+              <article-id pub-id-type="pmc-uid">9826024</article-id>
+              <article-id pub-id-type="pmid">36085409</article-id>
+              <article-id pub-id-type="pmid">36085409</article-id>
+              <article-id pub-id-type="doi">10.1111/jcpe.13713</article-id>
+              <article-id pub-id-type="publisher-id">JCPE13713</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Therapy</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effect of sub‐marginal instrumentation before surgical treatment of peri‐implantitis: A multi‐centre randomized clinical trial</article-title>
+                <alt-title alt-title-type="left-running-head">Romandini et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="jcpe13713-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Romandini</surname>
+                    <given-names>Mario</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5646-083X</contrib-id>
+                  <xref rid="jcpe13713-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13713-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <address>
+                    <email>mario.romandini@gmail.com</email>
+                  </address>
+                </contrib>
+                <contrib id="jcpe13713-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Laforí</surname>
+                    <given-names>Andreina</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5530-5280</contrib-id>
+                  <xref rid="jcpe13713-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <xref rid="jcpe13713-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Pedrinaci</surname>
+                    <given-names>Ignacio</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13713-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Baima</surname>
+                    <given-names>Giacomo</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Ferrarotti</surname>
+                    <given-names>Francesco</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>Lima</surname>
+                    <given-names>Cristina</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0007" contrib-type="author">
+                  <name>
+                    <surname>Paternó Holtzman</surname>
+                    <given-names>Lucrezia</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1397-0984</contrib-id>
+                  <xref rid="jcpe13713-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0008" contrib-type="author">
+                  <name>
+                    <surname>Aimetti</surname>
+                    <given-names>Mario</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0657-0787</contrib-id>
+                  <xref rid="jcpe13713-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0009" contrib-type="author">
+                  <name>
+                    <surname>Cordaro</surname>
+                    <given-names>Luca</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13713-cr-0010" contrib-type="author">
+                  <name>
+                    <surname>Sanz</surname>
+                    <given-names>Mariano</given-names>
+                  </name>
+                  <xref rid="jcpe13713-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13713-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="jcpe13713-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Section of Post‐graduate Periodontology, Faculty of Odontology</named-content>
+                <institution>University Complutense</institution>
+                <city>Madrid</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13713-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">ETEP (Etiology and Therapy of Periodontal and Peri‐implant Diseases) Research Group</named-content>
+                <institution>University Complutense</institution>
+                <city>Madrid</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13713-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Periodontology and Prosthodontics, “George Eastman” Dental Hospital</named-content>
+                <institution>University Policlinic “Umberto I”</institution>
+                <city>Rome</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <aff id="jcpe13713-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <named-content content-type="organisation-division">Division of Fixed Prosthodontics and Biomaterials, Clinic of Dental Medicine</named-content>
+                <institution>University of Geneva</institution>
+                <city>Geneva</city>
+                <country country="CH">Switzerland</country>
+              </aff>
+              <aff id="jcpe13713-aff-0005">
+                <label>
+                  <sup>5</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Restorative Dentistry and Biomaterials Science, Harvard School of Dental Medicine</named-content>
+                <institution>Harvard University</institution>
+                <city>Boston</city>
+                <named-content content-type="country-part">Massachusetts</named-content>
+                <country country="US">USA</country>
+              </aff>
+              <aff id="jcpe13713-aff-0006">
+                <label>
+                  <sup>6</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Surgical Sciences, C.I.R. Dental School</named-content>
+                <institution>University of Turin</institution>
+                <city>Turin</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Mario Romandini, Departamento de Especialidades Clínicas Odontológicas, Facultad de Odontología, Universidad Complutense de Madrid, Plaza Ramón y Cajal, 3, 28040 Madrid, Spain.<break/>
+Email: <email>mario.romandini@gmail.com</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>09</day>
+                <month>9</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>12</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>49</volume>
+              <issue seq="110">12</issue>
+              <issue-id pub-id-type="doi">10.1111/jcpe.v49.12</issue-id>
+              <fpage>1334</fpage>
+              <lpage>1345</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>28</day>
+                  <month>7</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>11</day>
+                  <month>2</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>01</day>
+                  <month>8</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Clinical Periodontology</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:JCPE-49-1334.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="jcpe13713-sec-0001">
+                  <title>Aim</title>
+                  <p>The present multi‐centre randomized clinical trial with 12 months of follow‐up aimed at studying the added effect of sub‐marginal instrumentation before surgical treatment of peri‐implantitis.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0002">
+                  <title>Materials and Methods</title>
+                  <p>Forty‐two patients diagnosed with peri‐implantitis were recruited. After a behavioural intervention phase including oral hygiene instructions, patients were randomized to either receiving supra‐ and sub‐marginal instrumentation on their affected implants (control group: 21 patients and 29 implants) or only supra‐marginal instrumentation (test group: 21 patients and 24 implants), before undergoing surgery. Changes in the deepest probing pocket depth (PPD) with respect to baseline and a composite outcome of treatment success (no implant loss, no bone loss &gt; 0.5 mm, no bleeding or suppuration on probing [BoP/SoP], and PPD ≤ 5 mm) at the 12‐month examination were regarded as the primary outcomes of the trial.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0003">
+                  <title>Results</title>
+                  <p>At the 12‐month examination, changes in the deepest PPD with respect to baseline amounted to −2.96 mm in the control group and to −3.11 mm in the test one (MD = −0.16; SE = 0.56; <italic toggle="no">p</italic> = .769), while 21.4% of the implants in the control group and 33.3% in the test group presented treatment success (OR = 1.83; SE = 1.15; <italic toggle="no">p</italic> = .338). With the exception of a longer non‐surgical treatment duration in the control group (differences in  = −14.29 min; SE = 2.91; <italic toggle="no">p</italic> &lt; .001), no other secondary (e.g., soft‐tissue recession, keratinized mucosa height, and bone level changes, as well as BoP, SoP, profuse bleeding and implant loss rates) or exploratory (i.e., early wound healing, aesthetics, surgical and total treatment duration, surgery difficulty, intra‐operative bleeding, and adverse events) outcome demonstrated statistically significant differences between groups.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0004">
+                  <title>Conclusions</title>
+                  <p>The present multi‐centre randomized clinical trial did not demonstrate an added effect of performing sub‐marginal instrumentation 6 weeks before the surgical treatment of peri‐implantitis. Larger clinical trials are however needed to confirm the present findings (Clinicaltrials.gov: NCT03620331).</p>
+                </sec>
+              </abstract>
+              <kwd-group kwd-group-type="author-generated">
+                <kwd id="jcpe13713-kwd-0001">clinical trial</kwd>
+                <kwd id="jcpe13713-kwd-0002">disease resolution</kwd>
+                <kwd id="jcpe13713-kwd-0003">non‐surgical treatment</kwd>
+                <kwd id="jcpe13713-kwd-0004">peri‐implantitis</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>Osteology Foundation
+</institution>
+                      <institution-id institution-id-type="doi">10.13039/501100007619</institution-id>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>YRG‐15‐251</award-id>
+                </award-group>
+                <award-group id="funding-0002">
+                  <funding-source>Proclinic Foundation</funding-source>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="1"/>
+                <table-count count="4"/>
+                <page-count count="12"/>
+                <word-count count="8089"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>December 2022</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.3 mode:remove_FC converted:08.01.2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-9001"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Laforí</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Pedrinaci</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Baima</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Ferrarotti</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Paternó Holtzman</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Aimetti</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Cordaro</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2022</year>). <article-title>Effect of sub‐marginal instrumentation before surgical treatment of peri‐implantitis: A multi‐centre randomized clinical trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>49</volume>(<issue>12</issue>), <fpage>1334</fpage>–<lpage>1345</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13713</pub-id>
+<pub-id pub-id-type="pmid">36085409</pub-id></mixed-citation>
+              </p>
+              <fn-group>
+                <fn id="jcpe13713-note-1002">
+                  <p><bold>Funding information</bold> Osteology Foundation, Grant/Award Number: YRG‐15‐251; Proclinic Foundation</p>
+                </fn>
+              </fn-group>
+            </notes>
+          </front>
+          <body id="jcpe13713-body-0001">
+            <p>
+              <boxed-text position="anchor" content-type="box" id="jcpe13713-blkfxd-0001">
+                <caption>
+                  <title>Clinical Relevance</title>
+                </caption>
+                <p><italic toggle="yes">Scientific rationale for study</italic>: There is a need for evidence demonstrating the added effect of sub‐marginal instrumentation prior to the surgical treatment of peri‐implantitis, because this pre‐surgical intervention involves longer treatment durations, higher costs, and increased discomfort for patients.</p>
+                <p><italic toggle="yes">Principal findings</italic>: With the exception of a longer non‐surgical treatment duration in the control group, no other studied outcome demonstrated statistically significant differences between groups.</p>
+                <p><italic toggle="yes">Practical implications</italic>: Depending on the case characteristics (e.g., need for sub‐gingival instrumentation to treat periodontitis), clinicians may decide whether to include this pre‐surgical preparatory step on a case‐by‐case basis.</p>
+              </boxed-text>
+            </p>
+            <sec id="jcpe13713-sec-0007">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Peri‐implantitis represents an important health complication associated with implant dentistry, due to its high prevalence (Derks et al., <xref rid="jcpe13713-bib-0007" ref-type="bibr">2016a</xref>; Romandini et al., <xref rid="jcpe13713-bib-0022" ref-type="bibr">2019</xref>; Vignoletti et al., <xref rid="jcpe13713-bib-0032" ref-type="bibr">2019</xref>; Romandini, Lima, et al., <xref rid="jcpe13713-bib-0024" ref-type="bibr">2021b</xref>) and to its accelerating progression pattern, which may finally lead to the loss of the affected implants and restorations (Derks et al., <xref rid="jcpe13713-bib-0008" ref-type="bibr">2016b</xref>). Its management is further complicated by the lack of a clear symptomatology (Romandini, Lima, et al., <xref rid="jcpe13713-bib-0023" ref-type="bibr">2021a</xref>) and by the scarce sensitivity of its diagnostic procedures (Berglundh et al., <xref rid="jcpe13713-bib-0001" ref-type="bibr">2021</xref>; Romandini, Berglundh, et al., <xref rid="jcpe13713-bib-0021" ref-type="bibr">2021</xref>), which often result in its identification when already in moderate/severe forms.</p>
+              <p>A stepwise therapeutic approach is employed in the management of peri‐implantitis, mirroring the one used in periodontal therapy (Sanz et al., <xref rid="jcpe13713-bib-0026" ref-type="bibr">2020</xref>). After a behavioural intervention phase, including instructions for self‐performed biofilm removal, risk factor control, and supra‐marginal instrumentation, the affected implants undergo a non‐surgical sub‐marginal instrumentation phase (Figuero et al., <xref rid="jcpe13713-bib-0009" ref-type="bibr">2014</xref>). This phase is generally performed after the removal of the restoration under local anaesthesia, and it is accomplished with the objective of decontaminating the affected implant surfaces and supra‐structures (Figuero et al., <xref rid="jcpe13713-bib-0009" ref-type="bibr">2014</xref>). A clinical re‐evaluation of the peri‐implant tissues is then performed 4–8 weeks after to determine whether the endpoints of therapy have been achieved (i.e., treatment success) or whether a surgical phase is needed, before introducing the patient into a life‐long supportive peri‐implant care (Schwarz et al., <xref rid="jcpe13713-bib-0029" ref-type="bibr">2022</xref>).</p>
+              <p>In the management of periodontitis, this stepwise therapeutic approach is widely justified since sub‐gingival instrumentation frequently achieves the pre‐determined endpoints of therapy (Suvan et al., <xref rid="jcpe13713-bib-0031" ref-type="bibr">2020</xref>), thus reducing the need for periodontal surgery to a minority of selected advanced cases. However, in the case of peri‐implantitis, sub‐marginal instrumentation rarely results in residual probing pocket depths (PPD) ≤5 mm and absence of bleeding on probing (BoP) (Merli et al., <xref rid="jcpe13713-bib-0015" ref-type="bibr">2020</xref>; de Waal et al., <xref rid="jcpe13713-bib-0005" ref-type="bibr">2021</xref>; Hentenaar et al., <xref rid="jcpe13713-bib-0011" ref-type="bibr">2021</xref>), parameters associated with long‐term implant survival and no further disease progression (Berglundh, et al., <xref rid="jcpe13713-bib-0034" ref-type="bibr">2018</xref>; Carcuac et al., <xref rid="jcpe13713-bib-0033" ref-type="bibr">2020</xref>). Therefore, surgical therapy is considered the gold standard approach for peri‐implantitis treatment, especially in its moderate/severe forms, and the sub‐marginal instrumentation has become an intermediate phase in preparation to surgery rather than a definitive treatment procedure. Hence some authors have questioned the value of this preparatory intervention, and several trials have only employed a supra‐marginal instrumentation before the surgical treatment of peri‐implantitis (Carcuac et al., <xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>; Cha et al., <xref rid="jcpe13713-bib-0003" ref-type="bibr">2019</xref>). Evidence is therefore needed to verify the added effect of sub‐marginal instrumentation before the surgical treatment of peri‐implantitis, because this intermediate intervention involves longer treatment duration, higher costs, and increased discomfort for patients.</p>
+              <p>The aim of the present multi‐centre randomized clinical trial with 12‐month follow‐up was to evaluate the added effects of the non‐surgical sub‐marginal instrumentation before surgical treatment of peri‐implantitis.</p>
+            </sec>
+            <sec sec-type="materials-and-methods" id="jcpe13713-sec-0008">
+              <label>2</label>
+              <title>MATERIALS AND METHODS</title>
+              <p>This manuscript is reported following the Consolidated Standards of Reporting Trials (CONSORT) 2010 guidelines (Moher et al., <xref rid="jcpe13713-bib-0016" ref-type="bibr">2010</xref>). The protocol of the study was registered in Clinicaltrials.gov (NCT03620331) and approved by the respective ethical committees in each of the participating centres (Rome: Prot. n. 24/17; Madrid: 18/041‐E; Turin: CS2/676). All the participants were informed in detail about the study aims and procedures, and provided a written informed consent before their inclusion in the trial.</p>
+              <sec id="jcpe13713-sec-0009">
+                <label>2.1</label>
+                <title>Trial design</title>
+                <p>The present study was designed as a randomized, clinical, surgeons‐, outcome assessors‐ and statistician‐blinded, multi‐centre, superiority trial with two parallel groups and a 1:1 allocation ratio.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0010">
+                <label>2.2</label>
+                <title>Participants</title>
+                <p>The following three centres equally contributed in providing participants between January 2018 and September 2019: (1) Section of Post‐Graduate Periodontology, Faculty of Odontology, Complutense University (Madrid, Spain); (2) Department of Periodontology and Prosthodontics, “George Eastman” Dental Hospital, University Policlinic “Umberto I” (Rome, Italy); and (3) Section of Periodontology, C.I.R. Dental School, University of Turin (Turin, Italy).</p>
+                <p>Any patient having at least one implant affected by peri‐implantitis, being at least 18 years old, and able to sign an informed consent form was potentially eligible for this trial. Peri‐implantitis was defined as the presence of a peri‐implant PPD ≥6 mm, BoP and/or suppuration on probing (SoP), and radiographically documented marginal bone loss &gt;3 mm, on implants in function by at least 1 year (Carcuac et al., <xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>). In the absence of reference radiographs at 0–1 year after loading making possible bone loss assessment (Berglundh et al. <xref rid="jcpe13713-bib-0034" ref-type="bibr">2018</xref>; Renvert et al., <xref rid="jcpe13713-bib-0020" ref-type="bibr">2018</xref>), implants had to present a bone level &gt;3 mm.</p>
+                <p>Primary exclusion criteria were: compromised general health; inability to attend the study‐related procedures; pregnancy or lactation; chronic use of anti‐inflammatory, immune‐suppressive, or affecting bone/mucosa drugs; previous peri‐implantitis treatment; and implant mobility.</p>
+                <p>Before their inclusion in the trial, all potentially eligible patients received oral hygiene instructions, and implant‐supported restorations not allowing proper access to oral hygiene procedures were corrected. Untreated periodontitis patients (PPD ≥4 mm associated with clinical attachment loss not attributable to other reasons) also received periodontal therapy on their residual dentition without involving study implants. Smokers were motivated to reduce and possibly quit smoking. Two weeks after completing this behavioural phase, only patients with a full‐mouth plaque score &lt;25% (secondary inclusion criterion) were finally included in the trial and consecutively assigned to an envelope for their random allocation to one of the following study groups:<list list-type="bullet" id="jcpe13713-list-0001"><list-item id="jcpe13713-li-0001"><p>Control group: supra‐ and sub‐marginal instrumentation, followed by surgical therapy 6 weeks later.</p></list-item><list-item id="jcpe13713-li-0002"><p>Test group: supra‐marginal instrumentation only, followed by surgical therapy 2 weeks later.</p></list-item></list>
+</p>
+              </sec>
+              <sec id="jcpe13713-sec-0011">
+                <label>2.3</label>
+                <title>Study groups specific interventions</title>
+                <p>An unblinded centre‐specific operator (IP, AL, and GB) performed a full‐mouth supra‐marginal and supra‐gingival instrumentation in both groups using ultrasonic and hand instruments, followed by the use of rubber cups and polishing paste. In the same appointment, only patients of the control group also received a complete non‐surgical sub‐marginal instrumentation of the study implants under local anaesthesia. In brief, after removing the screw‐retained supra‐constructions, overdentures, and, when possible, cement‐retained implant restorations, the study implants and their restorations underwent a deep sub‐marginal instrumentation by means of titanium curettes (Hu‐Friedy, Chicago, IL), followed by three irrigations of the peri‐implant pockets with a solution of 0.12% chlorhexidine + 0.05% cetylpyridinium chloride (DentAid, Barcelona, Spain), and the sub‐marginal application of the same active principles in gel formulation (DentAid), before reconnecting the removed restorations. Thereafter, implants of the control group received surgical therapy 6 weeks after supra‐ and sub‐marginal instrumentation, while the ones of the test group received the surgical therapy 2 weeks after the supra‐marginal instrumentation.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0012">
+                <label>2.4</label>
+                <title>Surgical therapy</title>
+                <p>Surgical interventions were carried out in both groups by operators blinded to the patient allocation (a  board‐certified periodontist in Rome and Turin centres, and four postgraduate students in periodontology in the Madrid centre), using the same surgical instruments (Hu‐Friedy). After removing whenever possible the implant restorations, the surgeons were left free to choose what they felt was the most appropriate surgical approach (access, resective, reconstructive, combined) according to the individual case characteristics. As a general rule, intra‐bony circumferential defects were meant to be treated through reconstructive surgery by means of a bone substitute material (BioOss spongiosa granules, Geistlich AG, Wolhusen, Switzerland) and a resorbable membrane (BioGide Perio, Geistlich AG, Wolhusen, Switzerland). Supra‐bony defects and non‐circumferential intra‐bony defects were meant to be treated by means of resective surgery with implantoplasty. Finally, combined defects were meant to be treated by means of a combined approach (Schwarz et al., <xref rid="jcpe13713-bib-0030" ref-type="bibr">2011</xref>). Implant surfaces were decontaminated mechanically using titanium curettes (Hu‐Friedy) and chemically using gauzes soaked with saline serum. Flaps were sutured in order to allow a non‐submerged healing. Implant restorations were reconnected either just after the surgery or at the 2‐week follow‐up examination, according to the specific clinical situation. The detailed post‐operative care, including the use of a 10‐day systemic antibiotic regimen, is reported in <xref rid="jcpe13713-supitem-0001" ref-type="supplementary-material">Appendix</xref>.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0013">
+                <label>2.5</label>
+                <title>Data collection</title>
+                <sec id="jcpe13713-sec-0014">
+                  <label>2.5.1</label>
+                  <title>Clinical variables</title>
+                  <p>Clinical variables were collected by three centre‐specific outcome assessors (MR, LPH, and FF), blinded to the patient allocation. The following clinical measures were collected at six sites per implant at baseline, just before surgery, and at 6 and 12 months after surgery: PPD, peri‐implant soft‐tissue level from a fixed reference point (i.e., incisal/cusp edge or restoration margin), BoP, SoP and keratinized mucosa height (KMH). Whenever possible, peri‐implant probing at baseline was performed after removing the implant‐supported restorations. At follow‐up visits, probing measurements were carried out exactly in the same conditions of the baseline examination. Implant loss (i.e., implant removed or presenting mobility) was also evaluated at the 6‐ and 12‐month examinations, while the presence of profuse bleeding after probing (Mombelli et al., <xref rid="jcpe13713-bib-0017" ref-type="bibr">1987</xref>) was evaluated at implant level at the 12‐month one. The three centre‐specific outcome assessors were calibrated in person before the start of the trial to apply the same examination criteria (agreement calculations reported in <xref rid="jcpe13713-supitem-0001" ref-type="supplementary-material">Appendix</xref>).</p>
+                </sec>
+                <sec id="jcpe13713-sec-0015">
+                  <label>2.5.2</label>
+                  <title>Radiographic variables</title>
+                  <p>Digital standardized long cone intra‐oral radiographs were obtained at baseline and at 2 weeks, 6 months, and 12 months after surgery. One previously calibrated (agreement calculations reported in <xref rid="jcpe13713-supitem-0001" ref-type="supplementary-material">Appendix</xref>) and blinded investigator (CL) measured in each radiograph the marginal bone level using a software program (Autocad 2016 TM, AutoDesk Inc.), following a previously established protocol (Romandini, Lima, et al., <xref rid="jcpe13713-bib-0024" ref-type="bibr">2021b</xref>; Romandini, Pedrinaci, et al., <xref rid="jcpe13713-bib-0025" ref-type="bibr">2021</xref>).</p>
+                  <p>The inter‐thread pitch distance reported by the manufacturer or the length of the implant was used for the calibration of the apico‐coronal dimension. The marginal bone level was measured, both at the mesial and distal aspect of each implant, as the vertical distance in millimetres between the most coronal part of intra‐osseous portion of the implant (i.e., removing the eventual polished collar) and the first clearly visible contact between the implant surface and the bone, taking advantage of magnification on a high‐definition monitor. The largest value between the mesial and the distal aspect was considered as the bone level for each implant at each time point. To evaluate bone level changes, the 2‐week follow‐up radiograph was taken as reference in case of pure access or resective approaches (Carcuac et al., <xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>), while the baseline one was considered in case of surgeries involving reconstructive procedures.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0016">
+                  <label>2.5.3</label>
+                  <title>Exploratory variables collection methods</title>
+                  <p>Exploratory variables included the assessment on a 100 mm visual analogue scale (VAS) of early wound healing by the centre blinded outcome assessors (2 weeks after surgery), self‐reported smile aesthetics by the patients (baseline, just before surgery, at 6 and 12 months after surgery), and surgery difficulty and intra‐operative bleeding by the blinded surgical operators (just after surgery). Moreover, net (i.e., without considering non‐operative stages) active treatment durations (non‐surgical appointment, surgery, and total) were measured and adverse events were collected.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0017">
+                  <label>2.5.4</label>
+                  <title>Covariates collection</title>
+                  <p>Several covariates including demographic, medical, and dental history data, as well as intra‐oral and dental chart variables, were also collected to test them as potential confounders. Their assessment methods are reported in <xref rid="jcpe13713-supitem-0001" ref-type="supplementary-material">Appendix</xref>.</p>
+                </sec>
+              </sec>
+              <sec id="jcpe13713-sec-0018">
+                <label>2.6</label>
+                <title>Primary, secondary, and exploratory outcomes</title>
+                <p>Changes in the deepest PPD with respect to baseline and treatment success criterion n.1 (no implant loss, no bone loss &gt; 0.5 mm, BoP/SoP− and deepest PPD ≤ 5 mm; Carcuac et al., <xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>) at the 12‐month examination were regarded as the primary outcomes of the trial.</p>
+                <p>Secondary implant‐level outcomes included the changes with respect to baseline in the deepest PPD (just before surgery and at 6 months), lowest KMH (just before surgery, at 6 months, and 12 months), and bone level (at 6 and 12 months). Moreover, the highest site‐specific change in soft‐tissue level (i.e., recession) with respect to baseline was considered at implant level just before surgery, at 6 months, and 12 months. Additional secondary outcomes included the proportions of study implants exhibiting: BoP, SoP, peri‐implant mucosa inflammation (BoP+ and/or SoP+), and soft‐tissue recession &gt;1 mm just before surgery, at 6 months, and 12 months; bone loss &gt; 0.5 mm, bone gain &gt; 0.5 mm, implant loss, and four additional combinations of clinical and radiographic parameters used as composite outcomes of therapy (treatment success) at 6 and 12 months; and profuse bleeding at 12 months.</p>
+                <p>Exploratory patient‐level outcomes included the changes with respect to baseline in self‐reported smile aesthetics at 6 and 12 months, and the absolute values of all the remaining exploratory variables (early wound healing at 2 weeks, treatment durations, surgeon VAS, and adverse events).</p>
+              </sec>
+              <sec id="jcpe13713-sec-0019">
+                <label>2.7</label>
+                <title>Sample size calculation</title>
+                <p>Sample size was calculated to detect clinically relevant differences in both primary outcomes, with a critical level of significance of 0.05, an 80% power, and two‐sided hypothesis tests. To detect a difference of 1.0 mm in PPD changes between groups at the 12‐month examination and considering a common SD of 1.0 mm, a minimum sample size of 34 patients was needed (unpaired <italic toggle="yes">t</italic>‐test). To detect a 35% difference (number needed to treat = 3) in treatment success rates (criterion 1) between groups at 12 months, a minimum of 42 patients was required (chi‐squared test). Therefore, a total sample size of 42 participants (21 in each treatment arm), 14 for each centre, was selected.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0020">
+                <label>2.8</label>
+                <title>Randomization and blinding procedures</title>
+                <p>Randomization and blinding procedures are reported in detail in <xref rid="jcpe13713-supitem-0001" ref-type="supplementary-material">Appendix</xref>. Briefly, a random permuted blocks randomization list stratified by study centre with a 1:1 allocation ratio was generated by an independent researcher. Notes with the assigned randomized group (blinded: A or B) were enclosed in sequentially numbered, identical, opaque, and sealed envelopes.</p>
+                <p>The investigators involved in the selection and inclusion of the patient, the surgeons, the outcome assessors, and the statistician were all blinded with respect to patient allocation. Due to the nature of the interventions, neither patients nor the centre's non‐surgical treatment operator could be blinded to allocation, but they were strongly inculcated to not disclose the allocation status at the surgical appointment and follow‐up assessments.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0021">
+                <label>2.9</label>
+                <title>Data analysis</title>
+                <p>Data analysis was performed by a blinded statistician using STATA version 13.1 software (StataCorp LLC, College Station, TX) and applying the intention‐to‐treat principle.</p>
+                <p>Descriptive key characteristics of the study participants and implants were summarized: continuous variables were expressed as mean (standard deviation ‐ SD), while categorical ones as number (percentage—%).</p>
+                <p>Differences between groups for implant‐level variables were initially tested by multilevel logistic (binary) or linear (continuous) regression analyses only adjusted for clustering. More than 150 covariates (including centre) were then tested separately as possible confounders of the effect of the treatment group on the two primary outcomes and analyses adjusted for surgical approach (involving or not reconstructive procedures) were a priori reported. Patient‐level variables were compared by applying crude logistic (binary) or linear (continuous) regression analyses. Results were expressed as differences in means (MD) or odds ratios (OR), with standard errors (SE).</p>
+                <p>All comparisons between groups were carried out using two‐sided hypothesis and an alpha &lt;0.05 level of significance. Treatment duration variables, which were expected to be possibly indicative of group allocation, were analysed at the end of data analysis in order to preserve the statistician blinding.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="jcpe13713-sec-0022">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>After screening 90 patients for eligibility, 42 of them (53 implants) were included in the trial, 21 in each one of the treatment groups (29 implants in the control and 24 in the test one) (study flowchart reported in Figure <xref rid="jcpe13713-fig-0001" ref-type="fig">1</xref>). The study population consisted mainly of female patients (61.9%), had a mean age at baseline of 61.36 (±12.27) years, and the included implants had a mean baseline bone level of 4.96 (±1.65) mm (Table <xref rid="jcpe13713-tbl-0001" ref-type="table">1</xref>).</p>
+              <fig position="float" fig-type="FIGURE" id="jcpe13713-fig-0001">
+                <label>FIGURE 1</label>
+                <caption>
+                  <p>CONSORT 2010 participant flow diagram of the trial</p>
+                </caption>
+                <graphic xlink:href="JCPE-49-1334-g001" position="anchor" id="jats-graphic-1"/>
+              </fig>
+              <table-wrap position="float" id="jcpe13713-tbl-0001" content-type="TABLE">
+                <label>TABLE 1</label>
+                <caption>
+                  <p>General characteristics of the study patients (<italic toggle="no">N</italic> = 42) and implants (<italic toggle="no">N</italic> = 53)</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Patient‐level characteristics</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Overall (<italic toggle="yes">N</italic> = 42)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">N</italic> = 21)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Test group (<italic toggle="yes">N</italic> = 21)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Age (years), mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">61.36 (±12.27)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">63.62 (±11.14)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">59.10 (±13.18)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Gender, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">16 (38.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (33.3)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9 (42.9)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">26 (61.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (66.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">12 (57.1)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Smoking status, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐smokers</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">20 (47.6)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">12 (57.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 (38.1)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Former smokers</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (35.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 (38.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (33.3)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Current smokers</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (16.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">1 (4.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">6 (28.6)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Diabetes status, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No diabetes</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">38 (90.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">19 (90.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">19 (90.5)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diabetes</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4 (9.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (9.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (9.5)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Periodontal status (AAP), <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No/mild/moderate periodontitis</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9 (21.4)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5 (23.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4 (19.0)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Severe periodontitis</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">28 (66.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (66.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (66.7)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Edentulous</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5 (11.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (9.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3 (14.3)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Implant‐level characteristics</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Overall (<italic toggle="yes">N</italic> = 53)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">N</italic> = 29)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Test group (<italic toggle="yes">N</italic> = 24)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Jaw, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Maxilla</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">28 (52.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (48.3)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (58.3)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mandible</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">25 (47.2)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (51.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 (41.7)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Location, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Anterior (incisors/canines)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11 (20.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (24.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4 (16.7)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Posterior (premolars/molars)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">42 (79.2)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">22 (75.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">20 (83.3)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Implant brand, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">N</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">18 (33.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11 (37.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (29.2)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">S</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">17 (32.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11 (37.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">6 (25.0)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9 (17.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3 (10.4)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">6 (25.0)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9 (17.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4 (13.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5 (20.8)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Implant surface, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐modified</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (3.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (8.3)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Modified</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">42 (79.2)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">25 (86.2)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">17 (70.9)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unknown</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9 (17.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4 (13.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5 (20.8)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Function time (years), mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8.32 (±4.05)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8.09 (±3.91)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8.60 (±4.28)</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" align="left" valign="top" rowspan="1">Surgical approach, <italic toggle="yes">N</italic> (%)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Resective</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">17 (32.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">12 (41.4)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5 (20.8)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Combined (resective + reconstructive)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (28.3)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7 (24.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 (33.3)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Reconstructive</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">18 (33.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 (27.6)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 (41.7)</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Open flap debridement</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3 (5.7)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2 (6.9)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">1 (4.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">PPD (mm), mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7.66 (±2.16)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">7.10 (±1.95)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8.33 (±2.24)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">BoP+, <italic toggle="yes">N</italic> (%)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">51 (96.2)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">27 (93.1)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">24 (100.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">SoP+, <italic toggle="yes">N</italic> (%)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">23 (43.4)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">13 (44.8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 (41.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Peri‐implant mucosa inflammation (BoP+ or SoP+), <italic toggle="yes">N</italic> (%)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">53 (100.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">29 (100.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">24 (100.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Bone level (mm), mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4.96 (±1.65)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5.02 (±1.51)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4.89 (±1.83)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="jcpe13713-ntgp-0001">
+                  <fn id="jcpe13713-note-0001">
+                    <p><italic toggle="yes">Note</italic>: Implant brands: N, Nobel Biocare; S, Straumann; other included the following brands: Euroteknika, Sweden &amp; Martina, AstraTech, Biomet 3i, and Prodent Italia.</p>
+                  </fn>
+                  <fn id="jcpe13713-note-0002">
+                    <p>Abbreviations: AAP, American Academy of Periodontology case definitio; PPD, probing pocket depth.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>All patients received the allocated interventions (including surgery). In one patient from the test group, one implant was removed during the surgical intervention due to implant fracture. All patients attended the 2‐week examination, but one patient from the control group did not attend both the 6‐ and 12‐month examinations due to non‐study‐related reasons.</p>
+              <sec id="jcpe13713-sec-0023">
+                <label>3.1</label>
+                <title>Primary outcomes</title>
+                <p>At the 12‐month examination, an overall change of −3.03 (±1.96) mm in the deepest PPD with respect to baseline was observed, being −2.96 (±1.85) mm and −3.11 (±2.12) mm in the control and test groups, respectively. These differences were not statistically significant (multilevel model only adjusted for clustering: MD = −0.16; SE = 0.56; <italic toggle="yes">p</italic> = .769).</p>
+                <p>The treatment success criterion n.1 (no implant loss, no bone loss &gt; 0.5 mm, BoP/SoP− and PPD ≤ 5 mm) was present at the 12‐month examination in 26.9% of all the study implants, but the tendency for better results in the test group (33.3% vs. 21.4% of the control) was not statistically significant (OR = 1.83; SE = 1.16; <italic toggle="yes">p</italic> = .338).</p>
+                <p>None of the covariates tested as possible confounders influenced the results of the two primary outcomes.</p>
+              </sec>
+              <sec id="jcpe13713-sec-0024">
+                <label>3.2</label>
+                <title>Secondary and exploratory outcomes</title>
+                <sec id="jcpe13713-sec-0025">
+                  <label>3.2.1</label>
+                  <title>Clinical and radiographic outcomes</title>
+                  <p>Table <xref rid="jcpe13713-tbl-0002" ref-type="table">2</xref> reports the results on clinical and radiographic outcomes of the included implants, revealing no statistically significant differences between groups for any of them.</p>
+                  <table-wrap position="float" id="jcpe13713-tbl-0002" content-type="TABLE">
+                    <label>TABLE 2</label>
+                    <caption>
+                      <p>Clinical and radiographic outcomes of the included implants</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <thead valign="bottom">
+                        <tr style="border-bottom:solid 1px #000000">
+                          <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Overall (<italic toggle="yes">N</italic> = 53)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">N</italic> = 29<xref rid="jcpe13713-note-0004" ref-type="table-fn"><sup>a</sup></xref>)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Test group (<italic toggle="yes">N</italic> = 24)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">MD/OR (SE) (only adjusted for clustering)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">MD/OR (SE) (adjusted for clustering and surgical approach)</th>
+                        </tr>
+                      </thead>
+                      <tbody valign="top">
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">PPD change (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.02 (±1.60)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.19 (±1.93)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.27 (±1.07)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.46 (0.43) <italic toggle="yes">p</italic> = .288</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.29 (0.44) <italic toggle="yes">p</italic> = .502</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−3.13 (±1.75)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−2.98 (±1.77)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−3.30 (±1.74)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.33 (0.49) <italic toggle="yes">p</italic> = .503</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.11 (0.49) <italic toggle="yes">p</italic> = .819</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−3.03 (±1.96)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−2.96 (±1.85)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−3.11 (±2.12)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.16 (0.56) <italic toggle="yes">p</italic> = .769</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.20 (0.57) <italic toggle="yes">p</italic> = .972</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Soft‐tissue recession (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.68 (±1.06)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.91 (±1.21)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.40 (±0.77)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.49 (0.29) <italic toggle="yes">p</italic> = .092</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.45 (0.30) <italic toggle="yes">p</italic> = .136</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1.84 (±1.48)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2.02 (±1.60)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1.63 (±1.33)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.31 (0.44) <italic toggle="yes">p</italic> = .487</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 0.07 (0.41) <italic toggle="yes">p</italic> = .864</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1.92 (±1.72)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2.30 (±1.94)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1.48 (±1.31)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.76 (0.49) <italic toggle="yes">p</italic> = .123</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.49 (0.49) <italic toggle="yes">p</italic> = .318</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Soft‐tissue recession &gt; 1 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">10 (18.9)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">8 (27.6)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2 (8.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.11 (0.48) <italic toggle="yes">p</italic> = .615</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.55 (2.23) <italic toggle="yes">p</italic> = .882</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">29 (56.9)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">16 (57.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">13 (56.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.02 (1.04) <italic toggle="yes">p</italic> = .984</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.87 (1.91) <italic toggle="yes">p</italic> = .541</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">29 (58.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">16 (59.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">13 (56.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.87 (0.87) <italic toggle="yes">p</italic> = .887</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.61 (1.54) <italic toggle="yes">p</italic> = .616</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">KMH<xref rid="jcpe13713-note-0005" ref-type="table-fn"><sup>b</sup></xref> change (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.06 (±0.86)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.05 (±0.97)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0.06 (±0.73)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 0.01 (0.23) <italic toggle="yes">p</italic> = .963</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 0.03 (0.24) <italic toggle="yes">p</italic> = .906</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.37 (±1.49)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.32 (±1.49)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.43 (±1.53)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.19 (0.44) <italic toggle="yes">p</italic> = .672</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.36 (0.46) <italic toggle="yes">p</italic> = .426</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.33 (±1.44)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.33 (±1.43)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−0.33 (±1.49)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.09 (0.44) <italic toggle="yes">p</italic> = .846</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.31 (0.45) <italic toggle="yes">p</italic> = .489</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">BoP+, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">50 (94.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">27 (93.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">23 (95.8)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">44 (86.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">24 (85.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">20 (87.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.03 (4.45) <italic toggle="yes">p</italic> = .994</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">33 (66.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">20 (74.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">13 (56.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.31 (1.29) <italic toggle="yes">p</italic> = .777</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">SoP+, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">16 (30.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">5 (17.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">11 (45.8)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 40.85 (106.20) <italic toggle="yes">p</italic> = .154</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 17.58 (37.77) <italic toggle="yes">p</italic> = .182</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (2.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (4.4)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">5 (10.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">3 (11.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2 (8.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.90 (7.37) <italic toggle="yes">p</italic> = .868</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.23 (4.64) <italic toggle="yes">p</italic> = .956</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Peri‐implant mucosa inflammation (BoP+ or SoP+), <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Surgery</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">51 (96.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">27 (93.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">24 (100.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">44 (86.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">24 (85.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">20 (87.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.03 (4.45) <italic toggle="yes">p</italic> = .994</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">33 (66.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">20 (74.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">13 (56.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.31 (1.29) <italic toggle="yes">p</italic> = .777</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Profuse bleeding, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">10 (20.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">6 (22.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">4 (17.4)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.91 (4.73) <italic toggle="yes">p</italic> = .793</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.52 (0.66) <italic toggle="yes">p</italic> = .604</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Bone level change (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Reference<xref rid="jcpe13713-note-0006" ref-type="table-fn"><sup>c</sup></xref>—6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.78 (±2.01)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.77 (±2.12)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.79 (±1.92)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.11 (0.65) <italic toggle="yes">p</italic> = .863</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 0.76 (0.52) <italic toggle="yes">p</italic> = .142</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Reference<xref rid="jcpe13713-note-0006" ref-type="table-fn"><sup>c</sup></xref>—1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.60 (±1.96)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.54 (±1.89)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">−1.67 (±2.08)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −0.30 (0.62) <italic toggle="yes">p</italic> = .628</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 0.38 (0.53) <italic toggle="yes">p</italic> = .467</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Bone loss &gt; 0.5 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">3 (6.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (3.6)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2 (9.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.70 (3.40) <italic toggle="yes">p</italic> = .430</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 4.48 (6.01) <italic toggle="yes">p</italic> = .264</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">6 (12.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">3 (11.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">3 (13.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.04 (1.13) <italic toggle="yes">p</italic> = .969</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.93 (1.84) <italic toggle="yes">p</italic> = .490</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Bone gain &gt; 0.5 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">31 (62.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">15 (53.6)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">16 (72.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.04 (8.04) <italic toggle="yes">p</italic> = .857</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.71 (0.91) <italic toggle="yes">p</italic> = .791</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">30 (60.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">16 (59.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">14 (60.9)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.49 (3.88) <italic toggle="yes">p</italic> = .878</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.35 (0.31) <italic toggle="yes">p</italic> = .234</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Implant loss, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (1.9)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (4.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">2 (3.9)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (3.6)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">1 (4.2)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot id="jcpe13713-ntgp-0002">
+                      <fn id="jcpe13713-note-0003">
+                        <p>Abbreviations: BoP, bleeding on probing; KMH, keratinized mucosa height; MD, difference in means; NE, not estimable; OR, odds ratio; PPD, probing pocket depth; SoP, suppuration on probing.</p>
+                      </fn>
+                      <fn id="jcpe13713-note-0004">
+                        <label>
+                          <sup>a</sup>
+                        </label>
+                        <p>For 6‐ and 12 months data, the control group included 28 implants; one 6 months radiograph from the test group resulted unreadable, reducing the sample size to 23 implants for 6 months radiographic outcomes.</p>
+                      </fn>
+                      <fn id="jcpe13713-note-0005">
+                        <label>
+                          <sup>b</sup>
+                        </label>
+                        <p>For maxillary implants, only buccal sites were considered.</p>
+                      </fn>
+                      <fn id="jcpe13713-note-0006">
+                        <label>
+                          <sup>c</sup>
+                        </label>
+                        <p>Reference radiograph was represented by the initial one in case of implants surgically treated through re‐constructive procedures, while by the 2‐week post‐operative one for the remaining study implants.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                  <p>Peri‐implant mucosa inflammation before surgery was observed in 100.0% of the cases in the test group and 93.1% of the control group. Indeed, two adjacent implants of the control group, from the same patient, showed no signs of BoP/SoP before surgery. Since one of those implants had a PPD = 7 (i.e., not fulfilling the endpoint of therapy) and the other was located adjacent to it, both implants underwent surgery. At the 12‐month examination, a higher mucosal inflammation was observed in the control group; however, this difference was not statistically significant (OR = 0.31; SE = 1.29; <italic toggle="yes">p</italic> = .777). Except for this referred case and an additional one, before and during surgery there was no obvious evidence on whether patients had previously received the sub‐marginal instrumentation.</p>
+                  <p>BoP was present before surgery in 93.1% and 95.8% and at 12 months in 74.1% and 56.5% (OR = 0.31; SE = 1.29; <italic toggle="yes">p</italic> = .777) of the implants of the control and test group, respectively. Profuse bleeding at the 12‐month examination was present in 22.2% and 17.4% of the implants of the control and the test groups, respectively (OR = 1.91; SE = 4.73; <italic toggle="yes">p</italic> = .793). SoP was present before surgery in 17.2% and 45.8% (OR = 40.85; SE = 106.20; <italic toggle="yes">p</italic> = .154) and at 12 months in 11.1% and 8.7% (OR = 1.90; SE = 7.37; <italic toggle="yes">p</italic> = .868) of the implants of the control and test groups, respectively. A non‐statistically significant higher soft‐tissue recession before surgery was observed in the control group (MD = −0.49; SE = 0.29; <italic toggle="yes">p</italic> = .092). At the 12‐month examination, this tendency was still present (MD = −0.76; SE = 0.49; <italic toggle="yes">p</italic> = .123). Only minor reductions in KMH were observed during the entire observation period, without statistically significant differences between groups (12 months: MD = −0.09; SE = 0.44; <italic toggle="yes">p</italic> = .846).</p>
+                  <p>An overall mean bone gain of 1.60 (±1.96) mm was observed between the reference radiograph and the 12‐month visit, without statistically significant differences between groups (MD = −0.30; SE = 0.62; <italic toggle="yes">p</italic> = .628). At this examination, 12.0% of the implants presented a bone loss &gt;0.5 with respect to the reference radiograph (OR = 1.04; SE = 1.13; <italic toggle="yes">p</italic> = .969), while 60.0% of the implants presented a bone gain &gt;0.5 mm (OR = 1.49; SE = 3.88; <italic toggle="yes">p</italic> = .878).</p>
+                  <p>In total, two implants (3.9%), one for each group, were lost during the entire 12‐month observation period.</p>
+                </sec>
+                <sec id="jcpe13713-sec-0026">
+                  <label>3.2.2</label>
+                  <title>Treatment success</title>
+                  <p>Table <xref rid="jcpe13713-tbl-0003" ref-type="table">3</xref> reports the results on treatment success. Depending on the adopted criteria, treatment success at the 12‐month examination was observed between 26.9% and 51.9% of all the study implants, without statistically significant differences between groups.</p>
+                  <table-wrap position="float" id="jcpe13713-tbl-0003" content-type="TABLE">
+                    <label>TABLE 3</label>
+                    <caption>
+                      <p>Treatment success in the included implants</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <col align="left" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="left" span="1"/>
+                      <col align="left" span="1"/>
+                      <thead valign="bottom">
+                        <tr style="border-bottom:solid 1px #000000">
+                          <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Overall (<italic toggle="yes">N</italic> = 52)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">N</italic> = 28)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Test group (<italic toggle="yes">N</italic> = 24)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">MD/OR (SE) (only adjusted for clustering)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">MD/OR (SE) (adjusted for clustering and surgical approach)</th>
+                        </tr>
+                      </thead>
+                      <tbody valign="top">
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Criterion n.1: No implant loss, no bone loss &gt; 0.5 mm, BoP/SoP−, PPD ≤ 5 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">6 (11.8)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">4 (14.3)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">2 (8.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">14 (26.9)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">6 (21.4)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">8 (33.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.83 (1.16) <italic toggle="yes">p</italic> = .338</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.09 (1.38) <italic toggle="yes">p</italic> = .264</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Criterion n.2: No implant loss, no bone loss &gt; 0.5 mm, BoP/SoP−, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">6 (11.8)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">4 (14.3)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">2 (8.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">NE</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">14 (26.9)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">6 (21.4)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">8 (33.3)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 1.83 (1.16) <italic toggle="yes">p</italic> = .338</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.09 (1.38) <italic toggle="yes">p</italic> = .264</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Criterion n.3: No implant loss, no bone loss &gt; 0.5 mm, no PPD ≥ 5 with concomitant BoP/SoP+, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">33 (64.7)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">20 (71.4)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">13 (56.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.52 (0.31) <italic toggle="yes">p</italic> = .271</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.57 (0.35) <italic toggle="yes">p</italic> = .360</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">27 (51.9)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">17 (60.7)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">10 (41.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.46 (0.26) <italic toggle="yes">p</italic> = .173</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.52 (0.30) <italic toggle="yes">p</italic> = .256</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Criterion n.4: No implant loss, no bone loss &gt; 0.5 mm, BoP+ at maximum one site, no SoP, PPD ≤ 5 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">6 Months</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">18 (35.3)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">8 (28.6)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">10 (43.5)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.14 (2.01) <italic toggle="yes">p</italic> = .417</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.35 (2.31) <italic toggle="yes">p</italic> = .384</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">17 (32.7)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">7 (25.0)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">10 (41.7)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.14 (1.29) <italic toggle="yes">p</italic> = .205</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 2.19 (1.36) <italic toggle="yes">p</italic> = .205</td>
+                        </tr>
+                        <tr>
+                          <td colspan="6" align="left" valign="top" rowspan="1">Criterion n.5: No implant loss, no bone loss &gt; 0.5 mm, no profuse bleeding, no SoP, PPD ≤ 5 mm, <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 Year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">24 (46.2)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">13 (46.4)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">11 (45.8)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.98 (0.55) <italic toggle="yes">p</italic> = .966</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.99 (0.57) <italic toggle="yes">p</italic> = .989</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot id="jcpe13713-ntgp-0003">
+                      <fn id="jcpe13713-note-0008">
+                        <p><italic toggle="yes">Note</italic>: One 6 months radiograph from the test group resulted unreadable, reducing in this group the sample size to 23 implants for treatment success outcomes.</p>
+                      </fn>
+                      <fn id="jcpe13713-note-0009">
+                        <p>Abbreviations: BoP, bleeding on probing; MD, difference in means; NE, not estimable; OR, odds ratio; PPD, probing pocket depth; SoP, suppuration on probing.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </sec>
+                <sec id="jcpe13713-sec-0027">
+                  <label>3.2.3</label>
+                  <title>Exploratory outcomes</title>
+                  <p>Table <xref rid="jcpe13713-tbl-0004" ref-type="table">4</xref> reports the results on the exploratory outcomes. There were no statistically significant differences between groups in early wound healing, self‐reported smile aesthetics, surgery difficulty, intra‐operative bleeding, and adverse events. Among the adverse events, two implants in two patients, both in the test group and belonging to the same centre, experienced acute re‐infection during follow‐up, and consequently a re‐intervention was performed (supra‐gingival polishing in one patient and surgical re‐intervention in the second one). However, the total rate of adverse events probably/possibly related to the allocated treatment group (e.g., wound dehiscence) did not differ between groups (OR = 0.75; SE = 0.57; <italic toggle="yes">p</italic> = .707).</p>
+                  <table-wrap position="float" id="jcpe13713-tbl-0004" content-type="TABLE">
+                    <label>TABLE 4</label>
+                    <caption>
+                      <p>Exploratory outcomes (patient‐level)</p>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <col align="left" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="char" char="(" span="1"/>
+                      <col align="left" span="1"/>
+                      <thead valign="bottom">
+                        <tr style="border-bottom:solid 1px #000000">
+                          <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Overall (<italic toggle="yes">N</italic> = 42)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (<italic toggle="yes">N</italic> = 21)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">Test group (<italic toggle="yes">N</italic> = 21<xref rid="jcpe13713-note-0012" ref-type="table-fn"><sup>a</sup></xref>)</th>
+                          <th align="left" valign="bottom" rowspan="1" colspan="1">MD/OR (SE)</th>
+                        </tr>
+                      </thead>
+                      <tbody valign="top">
+                        <tr>
+                          <td colspan="5" align="left" valign="top" rowspan="1">Early wound healing—VAS (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">2 Weeks</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">59.02 (±27.38)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">56.52 (±27.57)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">61.52 (±27.64)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 5.00 (8.52) <italic toggle="yes">p</italic> = .561</td>
+                        </tr>
+                        <tr>
+                          <td colspan="5" align="left" valign="top" rowspan="1">Self‐reported smile aesthetics—VAS change (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—Surgery</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">3.61 (±19.78)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">1.29 (±21.78)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">5.95 (±17.77)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 4.67 (6.14) <italic toggle="yes">p</italic> = .451</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—6 Months</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−13.61 (±23.99)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−17.9 (±26.28)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−9.52 (±21.42)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 8.38 (7.47) <italic toggle="yes">p</italic> = .269</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Baseline—1 Year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−19.05 (±29.28)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−23.35 (±29.43)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">−14.95 (±29.24)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 8.45 (9.17) <italic toggle="yes">p</italic> = .363</td>
+                        </tr>
+                        <tr>
+                          <td colspan="5" align="left" valign="top" rowspan="1">Treatment duration (min), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Non‐surgical appointment</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">17.33 (±11.79)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">24.48 (±11.68)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">10.19 (±6.42)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −14.29 (2.91) <italic toggle="yes">p</italic> &lt; .001</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Surgery</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">84.55 (±30.92)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">84.00 (±31.25)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">85.10 (±31.35)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = 1.10 (9.66) <italic toggle="yes">p</italic> = .910</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Total active treatment duration</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">101.88 (±35.37)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">108.48 (±34.38)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">95.29 (±35.94)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −13.19 (10.85) <italic toggle="yes">p</italic> = .231</td>
+                        </tr>
+                        <tr>
+                          <td colspan="5" align="left" valign="top" rowspan="1">Surgeon VAS (mm), mean (SD)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Surgery difficulty</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">52.36 (±29.50)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">54.85 (±30.65)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">49.85 (±28.85)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −5.00 (9.18) <italic toggle="yes">p</italic> = .589</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Intra‐operative bleeding</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">51.74 (±30.90)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">52.38 (±28.94)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">51.10 (±33.44)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">MD = −1.29 (9.65) <italic toggle="yes">p</italic> = .895</td>
+                        </tr>
+                        <tr>
+                          <td colspan="5" align="left" valign="top" rowspan="1">Adverse events—probably/possibly related with treatment allocation (other than implant loss), <italic toggle="yes">N</italic> (%)</td>
+                        </tr>
+                        <tr>
+                          <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">1 year</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">9 (21.4)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">5 (23.8)</td>
+                          <td align="char" valign="top" rowspan="1" colspan="1">4 (19.1)</td>
+                          <td align="left" valign="top" rowspan="1" colspan="1">OR = 0.75 (0.57) <italic toggle="yes">p</italic> = .707</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot id="jcpe13713-ntgp-0004">
+                      <fn id="jcpe13713-note-0011">
+                        <p>Abbreviations: MD, difference in means; OR, odds ratio; VAS, visual analogue scale.</p>
+                      </fn>
+                      <fn id="jcpe13713-note-0012">
+                        <label>
+                          <sup>a</sup>
+                        </label>
+                        <p>For 6 and 12 months data, the test group included 20 subjects.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                  <p>While the surgery duration was similar between the groups (MD = 1.10 min; SE = 9.66; <italic toggle="yes">p</italic> = .910), the control group showed a higher net duration of the non‐surgical appointment than the test group (MD = −14.29 min; SE = 2.91; <italic toggle="yes">p</italic> &lt; .001); this difference was still present when considering the total active treatment duration, but not statistically significant anymore (−13.19 min; SE = 10.85; <italic toggle="yes">p</italic> = .231).</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="jcpe13713-sec-0028">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>The findings of this multi‐centre randomized clinical trial suggest that the sub‐marginal instrumentation does not provide added benefits to the outcomes of surgical treatment of peri‐implantitis. These results were not influenced by the employed surgical approach and by more than the other 150 variables separately tested as possible confounders.</p>
+              <p>In the control group, no/minimal changes in clinical parameters were observed 6 weeks after providing sub‐marginal instrumentation. This finding is consistent with randomized clinical trials analysing the short‐term efficacy of non‐surgical treatments of peri‐implantitis, regardless of the employed protocols (Merli et al., <xref rid="jcpe13713-bib-0015" ref-type="bibr">2020</xref>; Hentenaar et al., <xref rid="jcpe13713-bib-0011" ref-type="bibr">2021</xref>). This concept is also in line with a long‐term registry study showing high rates of disease progression when peri‐implantitis is only treated non‐surgically (Karlsson et al., <xref rid="jcpe13713-bib-0014" ref-type="bibr">2019</xref>).</p>
+              <p>At 6 and 12 months after surgery, a PPD reduction of ≅3 mm has been observed in both groups. This magnitude of reduction is consistent with most randomized clinical trials evaluating the efficacy of the surgical treatment of peri‐implantitis, irrespective of the implementation of sub‐marginal instrumentation before surgery or the use of different surgical approaches (Carcuac et al., <xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>; Isehed et al., <xref rid="jcpe13713-bib-0012" ref-type="bibr">2016</xref>; Jepsen et al., <xref rid="jcpe13713-bib-0013" ref-type="bibr">2016</xref>; Hallström et al., <xref rid="jcpe13713-bib-0010" ref-type="bibr">2017</xref>; Cha et al., <xref rid="jcpe13713-bib-0003" ref-type="bibr">2019</xref>; de Tapia et al., <xref rid="jcpe13713-bib-0004" ref-type="bibr">2019</xref>; Polymeri et al., <xref rid="jcpe13713-bib-0018" ref-type="bibr">2020</xref>; Renvert et al., <xref rid="jcpe13713-bib-0019" ref-type="bibr">2021</xref>; Derks et al., <xref rid="jcpe13713-bib-0006" ref-type="bibr">2022</xref>).</p>
+              <p>At 6 and 12 months after surgery, an overall soft‐tissue recession of ≅2 mm has been observed, a value which is higher than in other randomized clinical trials (Renvert et al., <xref rid="jcpe13713-bib-0019" ref-type="bibr">2021</xref>; Derks et al., <xref rid="jcpe13713-bib-0006" ref-type="bibr">2022</xref>). Differences in the employed surgical approaches may possibly explain this discrepancy, because the present study also included resective surgeries. The post‐surgical recession may be related with the observed decrease in self‐perceived aesthetics reported by the patients included in the present study after treatment.</p>
+              <p>At the 12‐month examination, an overall 26.9% treatment success rate was found. This value is similar or even superior to other trials (Hallström et al., <xref rid="jcpe13713-bib-0010" ref-type="bibr">2017</xref>; de Tapia et al., <xref rid="jcpe13713-bib-0004" ref-type="bibr">2019</xref>; Polymeri et al., <xref rid="jcpe13713-bib-0018" ref-type="bibr">2020</xref>; Renvert et al., <xref rid="jcpe13713-bib-0019" ref-type="bibr">2021</xref>; Derks et al., <xref rid="jcpe13713-bib-0006" ref-type="bibr">2022</xref>). However, using the same evaluation criteria, Carcuac et al. (<xref rid="jcpe13713-bib-0002" ref-type="bibr">2016</xref>) reported a success rate of 45%. Differences in the study interventions provided may possibly explain this discrepancy.</p>
+              <p>Despite the difference in treatment duration between patients in the test versus the control groups may be considered small (≅14 min), it corresponds to net values. In real‐life clinical settings, this difference may be therefore higher (especially in the case of multiple‐affected implants). Moreover, sub‐marginal instrumentation requires local anaesthesia with the related patient discomfort (Schirmer et al., <xref rid="jcpe13713-bib-0028" ref-type="bibr">2018</xref>) and a longer waiting time before surgery. These patient‐related disadvantages may be clinically less relevant in the case of periodontitis patients where the same area of the mouth undergoes sub‐gingival instrumentation as part of Step 2 of periodontitis treatment. Other exploratory outcomes representing possible reasons to carry out sub‐marginal instrumentation, such as early wound healing, aesthetics, reduction of surgical difficulty, and reduction of intra‐operative bleeding, did not show statistically significant differences between study groups.</p>
+              <p>The results of this trial answer to a clinically relevant question, and they are supported by a solid study design (e.g., randomization procedures, surgeons, outcome assessors and statistician blinding, allocation concealment). Their generalizability is favoured by the multi‐centre setting. The main limitation of the present study is represented by the insufficient statistical power to provide a compelling answer to the study question, because the observed SD for PPD changes resulted higher than the one expected as part of the sample size calculation. Additional limitations worth mentioning include the lack of blinding of patients and non‐surgical operators (due to the intrinsic nature of the tested interventions), the different levels of experience of the involved operators, and the standardization of the sub‐marginal instrumentation protocol in the control group (with the aim of preserving the internal validity of the study). Potentially, different results may be observed when employing different protocols of sub‐marginal instrumentation.</p>
+            </sec>
+            <sec sec-type="conclusions" id="jcpe13713-sec-0029">
+              <label>5</label>
+              <title>CONCLUSIONS</title>
+              <p>The present multi‐centre randomized clinical trial did not demonstrate an added effect of performing sub‐marginal instrumentation 6 weeks before the surgical treatment of peri‐implantitis. Larger clinical trials are however needed to confirm the present findings.</p>
+            </sec>
+            <sec id="jcpe13713-sec-0030">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p>Mario Romandini contributed to study conception and design, to data acquisition, analysis and interpretation, and drafted the manuscript. Luca Cordaro contributed to study design, to data acquisition, and critically revised the manuscript. Andreina Laforí, Ignacio Pedrinaci, Giacomo Baima, Francesco Ferrarotti, Cristina Lima, Lucrezia Paternó Holtzman, Mario Aimetti, and Mariano Sanz contributed to data acquisition and critically revised the manuscript. All the authors gave their final approval of the version to be published and agreed to be accountable for all aspects of the work.</p>
+            </sec>
+            <sec id="jcpe13713-sec-0032">
+              <title>FUNDING INFORMATION</title>
+              <p>This study was funded by a Young Research Grant from the Osteology Foundation to Dr Mario Romandini (YRG‐15‐251) and by the Proclinic Scholarship 2018 to Dr Mario Romandini. Moreover, part of the biomaterials used in this study and normally used in the surgical redentaid constructive treatment of peri‐implantitis was donated by Geistlich AG (Wolhusen, Switzerland), titanium curettes and surgical kits were donated by Hu‐Friedy (Chicago, USA) and antiseptic mouthwashes/gels were donated by Dentaid (Barcelona, Spain).</p>
+            </sec>
+            <sec sec-type="COI-statement" id="jcpe13713-sec-0033">
+              <title>CONFLICT OF INTEREST</title>
+              <p>The authors declare no conflicts of interest related to this study.</p>
+            </sec>
+            <sec id="jcpe13713-sec-0033a">
+              <title>ETHICS STATEMENT</title>
+              <p>The protocol of the study was approved by the respective ethical committees in each of the participating centers (Rome: Prot. n. 24/17; Madrid: 18/041‐E; Turin: CS2/676). All the participants were informed in detail about the study aims and procedures, and provided a written informed consent before their inclusion in the trial.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supporting information</title>
+              <supplementary-material id="jcpe13713-supitem-0001" position="float" content-type="local-data">
+                <caption>
+                  <p><bold>Appendix S1.</bold> Supporting information.</p>
+                </caption>
+                <media xlink:href="JCPE-49-1334-s001.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack id="jcpe13713-sec-0031">
+              <title>ACKNOWLEDGEMENT</title>
+              <p>The authors are extremely grateful to Mariano del Canto (Madrid), Liliam León (Madrid), Isabel Moraza (Rome), Pierluigi Romandini (Rome), and Erminia Squillace (Turin) for their kind support during part of the data collection process.</p>
+            </ack>
+            <sec sec-type="data-availability" id="jcpe13713-sec-0035">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list id="jcpe13713-bibl-0001" content-type="cited-references">
+              <title>REFERENCES</title>
+              <ref id="jcpe13713-bib-0001">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0001"><string-name><surname>Berglundh</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2021</year>). <article-title>Clinical findings and history of bone loss at implant sites</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>(<issue>3</issue>), <fpage>314</fpage>–<lpage>323</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13701</pub-id>
+<pub-id pub-id-type="pmid">33340414</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0034">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0034">Berglundh, T., Wennström, J. L., &amp; Lindhe, J. (2018). <article-title>Long‐term outcome of surgical treatment of peri‐implantitis. A 2‐11‐year retrospective study</article-title>. <source>Observational Study</source>, <volume>29</volume>(<issue>4</issue>), 404–410. <pub-id pub-id-type="doi">10.1111/clr.13138</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0002">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0002"><string-name><surname>Carcuac</surname>, <given-names>O.</given-names></string-name>, <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Charalampakis</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Abrahamsson</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Wennstrom</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2016</year>). <article-title>Adjunctive systemic and local antimicrobial therapy in the surgical treatment of peri‐implantitis: A randomized controlled clinical trial</article-title>. <source>Journal of Dental Research</source>, <volume>95</volume>(<issue>1</issue>), <fpage>50</fpage>–<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1177/0022034515601961</pub-id>
+<pub-id pub-id-type="pmid">26285807</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0033">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0033">Carcuac, O., Derks, J., Abrahamsson, I., Wennström, J. L., &amp; Berglundh, T. (2020). <article-title>Risk for recurrence of disease following surgical therapy of peri‐implantitis‐A prospective longitudinal study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>31</volume>(<issue>11</issue>), 1072–1077. <pub-id pub-id-type="doi">10.1111/clr.13653</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0003">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0003"><string-name><surname>Cha</surname>, <given-names>J. K.</given-names></string-name>, <string-name><surname>Lee</surname>, <given-names>J. S.</given-names></string-name>, &amp; <string-name><surname>Kim</surname>, <given-names>C. S.</given-names></string-name> (<year>2019</year>). <article-title>Surgical therapy of peri‐implantitis with local minocycline: A 6‐month randomized controlled clinical trial</article-title>. <source>Journal of Dental Research</source>, <volume>98</volume>(<issue>3</issue>), <fpage>288</fpage>–<lpage>295</lpage>. <pub-id pub-id-type="doi">10.1177/0022034518818479</pub-id>
+<pub-id pub-id-type="pmid">30626263</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0004">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0004"><string-name><surname>de Tapia</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Valles</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Ribeiro‐Amaral</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Mor</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Herrera</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Nart</surname>, <given-names>J.</given-names></string-name> (<year>2019</year>). <article-title>The adjunctive effect of a titanium brush in implant surface decontamination at peri‐implantitis surgical regenerative interventions: A randomized controlled clinical trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>46</volume>(<issue>5</issue>), <fpage>586</fpage>–<lpage>596</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13095</pub-id>
+<pub-id pub-id-type="pmid">30825341</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0005">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0005"><string-name><surname>de Waal</surname>, <given-names>Y. C. M.</given-names></string-name>, <string-name><surname>Vangsted</surname>, <given-names>T. E.</given-names></string-name>, &amp; <string-name><surname>van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name> (<year>2021</year>). <article-title>Systemic antibiotic therapy as an adjunct to non‐surgical peri‐implantitis treatment: A single‐blind RCT</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>48</volume>, <fpage>996</fpage>–<lpage>1006</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13464</pub-id>
+<pub-id pub-id-type="pmid">33939193</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0006">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0006"><string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Ortiz‐Vigón</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Guerrero</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Donati</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bressan</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Ghensi</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Schaller</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Tomasi</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Karlsson</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Abrahamsson</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Ichioka</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Dionigi</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Regidor</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2022</year>). <article-title>Reconstructive surgical therapy of peri‐implantitis: A multicenter randomized controlled clinical trial</article-title>. <source>Clinical Oral Implants Research</source>. <pub-id pub-id-type="doi">10.1111/clr.13972</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0007">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0007"><string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Schaller</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Håkansson</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wennström</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Tomasi</surname>, <given-names>C.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2016a</year>). <article-title>Effectiveness of implant therapy analyzed in a Swedish population: Prevalence of peri‐implantitis</article-title>. <source>Journal of Dental Research</source>, <volume>95</volume>(<issue>1</issue>), <fpage>43</fpage>–<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1177/0022034515608832</pub-id>
+<pub-id pub-id-type="pmid">26701919</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0008">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0008"><string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Schaller</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Håkansson</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wennström</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Tomasi</surname>, <given-names>C.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2016b</year>). <article-title>Peri‐implantitis – Onset and pattern of progression</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>43</volume>(<issue>4</issue>), <fpage>383</fpage>–<lpage>388</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12535</pub-id>
+<pub-id pub-id-type="pmid">26900869</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0009">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0009"><string-name><surname>Figuero</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Graziani</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Herrera</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2014</year>). <article-title>Management of peri‐implant mucositis and peri‐implantitis</article-title>. <source>Periodontology 2000</source>, <volume>66</volume>(<issue>1</issue>), <fpage>255</fpage>–<lpage>273</lpage>. <pub-id pub-id-type="doi">10.1111/prd.12049</pub-id>
+<pub-id pub-id-type="pmid">25123773</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0010">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0010"><string-name><surname>Hallström</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Persson</surname>, <given-names>G. R.</given-names></string-name>, <string-name><surname>Lindgren</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Renvert</surname>, <given-names>S.</given-names></string-name> (<year>2017</year>). <article-title>Open flap debridement of peri‐implantitis with or without adjunctive systemic antibiotics: A randomized clinical trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>44</volume>, <fpage>1285</fpage>–<lpage>1293</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12805</pub-id>
+<pub-id pub-id-type="pmid">28836279</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0011">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0011"><string-name><surname>Hentenaar</surname>, <given-names>D. F. M.</given-names></string-name>, <string-name><surname>de Waal</surname>, <given-names>Y. C. M.</given-names></string-name>, <string-name><surname>Stewart</surname>, <given-names>R. E.</given-names></string-name>, <string-name><surname>van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, &amp; <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name> (<year>2021</year>). <article-title>Erythritol airpolishing in the non‐surgical treatment of peri‐implantitis: A randomized controlled trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>, <fpage>840</fpage>–<lpage>852</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13757</pub-id>
+<pub-id pub-id-type="pmid">33844373</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0012">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0012"><string-name><surname>Isehed</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Holmlund</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Renvert</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Svenson</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Johansson</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Lundberg</surname>, <given-names>P.</given-names></string-name> (<year>2016</year>). <article-title>Effectiveness of enamel matrix derivative on the clinical and microbiological outcomes following surgical regenerative treatment of peri‐implantitis. A randomized controlled trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>43</volume>(<issue>10</issue>), <fpage>863</fpage>–<lpage>873</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12583</pub-id>
+<pub-id pub-id-type="pmid">27418458</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0013">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0013"><string-name><surname>Jepsen</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Jepsen</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Laine</surname>, <given-names>M. L.</given-names></string-name>, <string-name><surname>Anssari Moin</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Pilloni</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Zeza</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Ortiz‐Vigon</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Roos‐Jansåker</surname>, <given-names>A. M.</given-names></string-name>, &amp; <string-name><surname>Renvert</surname>, <given-names>S.</given-names></string-name> (<year>2016</year>). <article-title>Reconstruction of peri‐implant osseous defects: A multicenter randomized trial</article-title>. <source>Journal of Dental Research</source>, <volume>95</volume>(<issue>1</issue>), <fpage>58</fpage>–<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1177/0022034515610056</pub-id>
+<pub-id pub-id-type="pmid">26450511</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0014">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0014"><string-name><surname>Karlsson</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Håkansson</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wennström</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Petzold</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2019</year>). <article-title>Interventions for peri‐implantitis and their effects on further bone loss: A retrospective analysis of a registry‐based cohort</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>46</volume>(<issue>8</issue>), <fpage>872</fpage>–<lpage>879</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13129</pub-id>
+<pub-id pub-id-type="pmid">31077421</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0015">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0015"><string-name><surname>Merli</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bernardelli</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Giulianelli</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Carinci</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Mariotti</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Merli</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Pini‐Prato</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Nieri</surname>, <given-names>M.</given-names></string-name> (<year>2020</year>). <article-title>Short‐term comparison of two non‐surgical treatment modalities of peri‐implantitis: Clinical and microbiological outcomes in a two‐factorial randomized controlled trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>47</volume>(<issue>10</issue>), <fpage>1268</fpage>–<lpage>1280</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13345</pub-id>
+<pub-id pub-id-type="pmid">32678954</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0016">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0016"><string-name><surname>Moher</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Hopewell</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Schulz</surname>, <given-names>K. F.</given-names></string-name>, <string-name><surname>Montori</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Gotzsche</surname>, <given-names>P. C.</given-names></string-name>, <string-name><surname>Devereaux</surname>, <given-names>P. J.</given-names></string-name>, <string-name><surname>Elbourne</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Egger</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Altman</surname>, <given-names>D. G.</given-names></string-name> (<year>2010</year>). <article-title>CONSORT 2010 explanation and elaboration: Updated guidelines for reporting parallel group randomised trials</article-title>. <source>British Medical Journal (Clinical Research Ed.)</source>, <volume>340</volume>, <elocation-id>c869</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.c869</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0017">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0017"><string-name><surname>Mombelli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Van Oosten</surname>, <given-names>M. A. C.</given-names></string-name>, <string-name><surname>Schürch</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>Lang</surname>, <given-names>N. P.</given-names></string-name> (<year>1987</year>). <article-title>The microbiota associated with successful or failing osseointegrated titanium implants</article-title>. <source>Molecular Oral Microbiology</source>, <volume>2</volume>, <fpage>145</fpage>–<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1111/j.1399-302X.1987.tb00298.x</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0018">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0018"><string-name><surname>Polymeri</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Anssari‐Moin</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>van der Horst</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wismeijer</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Laine</surname>, <given-names>M. L.</given-names></string-name>, &amp; <string-name><surname>Loos</surname>, <given-names>B. G.</given-names></string-name> (<year>2020</year>). <article-title>Surgical treatment of peri‐implantitis defects with two different xenograft granules: A randomized clinical pilot study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>31</volume>, <fpage>1047</fpage>–<lpage>1060</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13651</pub-id>
+<pub-id pub-id-type="pmid">32803798</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0019">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0019"><string-name><surname>Renvert</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Giovannoli</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Roos‐Jansåker</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Rinke</surname>, <given-names>S.</given-names></string-name> (<year>2021</year>). <article-title>Surgical treatment of peri‐implantitis with or without a deproteinized bovine bone mineral and a native bilayer collagen membrane: A randomized clinical trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>48</volume>, <fpage>1312</fpage>–<lpage>1321</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13513</pub-id>
+<pub-id pub-id-type="pmid">34169551</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0020">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0020"><string-name><surname>Renvert</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Rutger Persson</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Pirih</surname>, <given-names>F. Q.</given-names></string-name>, &amp; <string-name><surname>Camargo</surname>, <given-names>P. M.</given-names></string-name> (<year>2018</year>). <article-title>Peri‐implant health, peri‐implant mucositis, and peri‐implantitis: Case definitions and diagnostic considerations</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>45</volume>(<issue>Suppl. 20</issue>), <fpage>S278</fpage>–<lpage>S285</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12956</pub-id>
+<pub-id pub-id-type="pmid">29926496</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0021">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0021"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Berglundh</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name> (<year>2021</year>). <article-title>Diagnosis of peri‐implantitis in the absence of baseline data: A diagnostic accuracy study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>(<issue>3</issue>), <fpage>297</fpage>–<lpage>313</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13700</pub-id>
+<pub-id pub-id-type="pmid">33340418</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0022">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0022"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Cordaro</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Donno</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Cordaro</surname>, <given-names>L.</given-names></string-name> (<year>2019</year>). <article-title>Discrepancy between patient satisfaction and biologic complication rate in patients rehabilitated with overdentures and not participating in a structured maintenance program after 7 to 12 years of loading</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>34</volume>(<issue>5</issue>), <fpage>1143</fpage>–<lpage>1151</lpage>. <pub-id pub-id-type="doi">10.11607/jomi.7465</pub-id>
+<pub-id pub-id-type="pmid">31184632</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0023">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0023"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Pedrinaci</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Araoz</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Costanza Soldini</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2021a</year>). <article-title>Clinical signs, symptoms, perceptions, and impact on quality of life in patients suffering from peri‐implant diseases: A university‐representative cross‐sectional study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>(<issue>1</issue>), <fpage>100</fpage>–<lpage>111</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13683</pub-id>
+<pub-id pub-id-type="pmid">33210787</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0024">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0024"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Pedrinaci</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Araoz</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Costanza Soldini</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2021b</year>). <article-title>Prevalence and risk/protective indicators of peri‐implant diseases: A university‐representative cross‐sectional study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>(<issue>1</issue>), <fpage>112</fpage>–<lpage>122</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13684</pub-id>
+<pub-id pub-id-type="pmid">33210772</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0025">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0025"><string-name><surname>Romandini</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Pedrinaci</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Costanza Soldini</surname>, <given-names>M. C.</given-names></string-name>, <string-name><surname>Araoz</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2021</year>). <article-title>Prevalence and risk/protective indicators of buccal soft tissue dehiscence around dental implants</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>95</volume>(<issue>9</issue>), <fpage>995</fpage>–<lpage>999</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13417</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0026">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0026"><string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Herrera</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Kebschull</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Jepsen</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Beglundh</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Tonetti</surname>, <given-names>M. S.</given-names></string-name>, &amp; <collab collab-type="authors">EFP Workshop Participants and Methodological Consultants</collab>
+. (<year>2020</year>). <article-title>Treatment of stage I‐III periodontitis‐the EFP S3 level clinical practice guideline</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>47</volume>(<issue>Suppl. 22</issue>), <fpage>4</fpage>–<lpage>60</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13290</pub-id>
+<pub-id pub-id-type="pmid">32383274</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0028">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0028"><string-name><surname>Schirmer</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Otero Dos Santos</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Franciele Rost</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Cardoso Ferreira</surname>, <given-names>M. B.</given-names></string-name>, &amp; <string-name><surname>Weidlich</surname>, <given-names>P.</given-names></string-name> (<year>2018</year>). <article-title>Factors associated with pain and analgesic consumption following non‐surgical periodontal therapy under local anaesthesia and carried out by dental students</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>45</volume>(<issue>1</issue>), <fpage>68</fpage>–<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12833</pub-id>
+<pub-id pub-id-type="pmid">29078012</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0029">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0029"><string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Jepsen</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Obreja</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Galarraga‐Vinueza</surname>, <given-names>M. E.</given-names></string-name>, &amp; <string-name><surname>Ramanauskaite</surname>, <given-names>A.</given-names></string-name> (<year>2022</year>). <article-title>Surgical therapy of peri‐implantitis</article-title>. <source>Periodontology</source>, <volume>2000</volume>(<issue>88</issue>), <fpage>145</fpage>–<lpage>181</lpage>. <pub-id pub-id-type="doi">10.1111/prd.12417</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0030">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0030"><string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Sahm</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Iglhaut</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Becker</surname>, <given-names>J.</given-names></string-name> (<year>2011</year>). <article-title>Impact of the method of surface debridement and decontamination on the clinical outcome following combined surgical therapy of peri‐implantitis: A randomized controlled clinical study</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>38</volume>(<issue>3</issue>), <fpage>276</fpage>–<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01690.x</pub-id>
+<pub-id pub-id-type="pmid">21219392</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0031">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0031"><string-name><surname>Suvan</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Leira</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Moreno Sancho</surname>, <given-names>F. M.</given-names></string-name>, <string-name><surname>Graziani</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Tomasi</surname>, <given-names>C.</given-names></string-name> (<year>2020</year>). <article-title>Subgingival instrumentation for treatment of periodontitis. A systematic review</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>47</volume>(<issue>Suppl. 22</issue>), <fpage>155</fpage>–<lpage>175</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13245</pub-id>
+<pub-id pub-id-type="pmid">31889320</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13713-bib-0032">
+                <mixed-citation publication-type="journal" id="jcpe13713-cit-0032"><string-name><surname>Vignoletti</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Di Domenico</surname>, <given-names>G. L.</given-names></string-name>, <string-name><surname>Di Martino</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Montero</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>De Sanctis</surname>, <given-names>M.</given-names></string-name> (<year>2019</year>). <article-title>Prevalence and risk indicators of peri‐implantitis in a sample of university‐based dental patients in Italy: A cross‐sectional study</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>46</volume>(<issue>5</issue>), <fpage>597</fpage>–<lpage>605</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13111</pub-id>
+<pub-id pub-id-type="pmid">30980410</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

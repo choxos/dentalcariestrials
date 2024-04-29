@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:41:34Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9400256" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9400256</identifier>
+        <datestamp>2022-08-25</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9400256</article-id>
+              <article-id pub-id-type="pmcid">PMC9400256</article-id>
+              <article-id pub-id-type="pmc-uid">9400256</article-id>
+              <article-id pub-id-type="pmid">35999531</article-id>
+              <article-id pub-id-type="publisher-id">2391</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-022-02391-z</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Investigation of the palatal soft tissue volume: a 3D virtual analysis for digital workflows and presurgical planning</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Seidel</surname>
+                    <given-names>Anna</given-names>
+                  </name>
+                  <address>
+                    <email>anna.seidel@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Schmitt</surname>
+                    <given-names>Christian</given-names>
+                  </name>
+                  <address>
+                    <email>schmitcn@outlook.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Matta</surname>
+                    <given-names>Ragai Edward</given-names>
+                  </name>
+                  <address>
+                    <email>ragai.matta@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Buchbender</surname>
+                    <given-names>Mayte</given-names>
+                  </name>
+                  <address>
+                    <email>mayte.buchbender@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Wichmann</surname>
+                    <given-names>Manfred</given-names>
+                  </name>
+                  <address>
+                    <email>manfred.wichmann@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Berger</surname>
+                    <given-names>Lara</given-names>
+                  </name>
+                  <address>
+                    <email>lara.berger@uk-erlangen.de</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.411668.c</institution-id><institution-id institution-id-type="ISNI">0000 0000 9935 6525</institution-id><institution>Department of Prosthodontics, </institution><institution>University Hospital Erlangen of Friedrich-Alexander University Erlangen-Nürnberg (FAU), </institution></institution-wrap>Glueckstrasse 11, 91054 Erlangen, Germany </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.411668.c</institution-id><institution-id institution-id-type="ISNI">0000 0000 9935 6525</institution-id><institution>Department of Oral and Maxillofacial Surgery, </institution><institution>University Hospital Erlangen of Friedrich-Alexander University Erlangen-Nürnberg (FAU), </institution></institution-wrap>Glueckstrasse 11, 91054 Erlangen, Germany </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>23</day>
+                <month>8</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>23</day>
+                <month>8</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2022</year>
+              </pub-date>
+              <volume>22</volume>
+              <elocation-id>361</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>5</day>
+                  <month>7</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>11</day>
+                  <month>8</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2022</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">In mucogingival and implant surgery, an autologous soft tissue graft from the palate is the gold standard for reconstructing missing keratinised soft tissue and volume. Previously, presurgical measurements of the graft harvesting site were described with two-dimensional (2D) linear measurements. The present observational clinical study aimed to evaluate a three-dimensional (3D) measurement method for determining the present palatal soft tissue volume for each patient individually.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Pre-existing cone beam computed tomography (CBCT) scans of 20 patients were converted into 3D Standard Tessellation Language models of the bone surface. Intraoral impressions of the maxilla were taken and digitised to visualise the gingival surface. The resulting virtual models of bone (reference value) and gingival (actual value) surfaces were merged, with tooth surfaces used for registration. The region between the central incisors and the hard palate was subdivided into 5 regions of interest (ROIs). The distance between palatal bone and gingival surface was analysed both volumetrically and linearly, and the results were statistically evaluated for the ROIs.
+</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">The average gingival surface area on the palate was 19.1 cm<sup>2</sup>, and the mean volume was 58.2 cm<sup>3</sup> (± 16.89). Among the ROIs, the mean linear value was highest in the most distal region, from the second molar to the hard palate (4.0 ± 1.09 mm) and lowest in the canine region (1.9 ± 0.63 mm). For mean distance, significant differences were found for the anterior palate and the most posterior palate in comparison with all other ROIs (<italic>p</italic> &lt; 0.01). The volume measurements also declined significantly and steadily between the posterior (1.9 ± 1.0 cm<sup>3</sup>) and anterior palates (0.4 ± 0.2 cm<sup>3</sup>).</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">By merging digital data, palatal soft tissue could be quantified virtually. The results were reliable and comparable to previous findings with linear measurement methods. This 3D soft tissue volume analysis method fully exploited the diagnostic potential of data that are frequently collected for presurgical planning in oral surgery (i.e., CBCT + surface scans). This evaluation method might be useful for volumetric and linear measurements in other applications in anatomy and for determining palatal soft tissue dimensions in the planning stage before surgical interventions.</p>
+                </sec>
+                <sec>
+                  <title>
+                    <italic>Trial registration</italic>
+                  </title>
+                  <p id="Par5">This observational clinical trial was retrospectively registered in the German Clinical Trials Register, reference number: DRKS00023918.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Hard palate</kwd>
+                <kwd>Maxilla</kwd>
+                <kwd>Reference values</kwd>
+                <kwd>Cone-beam computed tomography</kwd>
+                <kwd>Oral surgical procedures</kwd>
+                <kwd>Connective tissue</kwd>
+                <kwd>Imaging</kwd>
+                <kwd>Three-dimensional</kwd>
+                <kwd>Soft palate</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Friedrich-Alexander-Universität Erlangen-Nürnberg (1041)</institution>
+                  </funding-source>
+                </award-group>
+                <open-access>
+                  <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+                </open-access>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par16">A healthy gingival architecture, with a harmonic red-white-margin on teeth and implants, is strongly associated with aesthetics for both the layperson and professionals [<xref ref-type="bibr" rid="CR1">1</xref>]. Healthy gingival architecture can be impaired by gingival recessions. Periodontal and peri-implant recessions represent a multifactorial condition [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>], which can progress, regardless of the patients’ oral hygiene [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR5">5</xref>]. Previous studies have shown that more than 50% of a sample of the adult population experienced mid-buccal recessions [<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR6">6</xref>]. Recent findings have shown that the prevalence of gingival recessions was over 90% in the US population (30 years and older) [<xref ref-type="bibr" rid="CR7">7</xref>]. In addition to effects on the aesthetics, attachment loss and insufficient integrity of the periodontal soft tissue complex can entail both non-carious and carious lesions in the roots and dentinal hypersensitivity [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>]. Furthermore, a narrow keratinised gingival band may limit efficient oral hygiene, and thus, impede the prevention of periodontal and peri-implant disease. To restore healthy, aesthetic conditions, mucogingival surgery may be considered to widen and thicken the keratinised tissue [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR11">11</xref>].</p>
+              <p id="Par17">Soft tissue grafting is an essential part of plastic periodontal and implant surgery. Despite all efforts to find alternative augmentation materials for mucogingival replacement grafts, autologous tissue remains the gold standard for augmenting keratinised tissue, reducing recession, and reconstructing the papilla [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. A critical aspect of surgical success is the quantity and quality of the obtained transplant tissue, in addition to many other factors, like blood supply and proper flap management [<xref ref-type="bibr" rid="CR14">14</xref>]<italic>.</italic> The maxillary tuberosity and lateral palate are the most commonly used donor sites for both free gingival grafts and subepithelial connective tissue grafts [<xref ref-type="bibr" rid="CR15">15</xref>]. The area between the first premolar and second molars is considered the most suitable harvesting site [<xref ref-type="bibr" rid="CR16">16</xref>], due to the high ratio of tissue thickness to keratinised gingiva. However, gingival thickness and histologic composition can vary among individuals, and even within the same patient [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>].</p>
+              <p id="Par18">The success and long-term results of soft tissue grafting can be improved by careful presurgical planning. The amount of retrievable tissue should be determined and potential adaptations of the surgery technique should be considered [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR14">14</xref>]. The amount of retrieved tissue directly influences the treatment outcome, because the soft tissue graft shrinks during remodelling in the healing process. Therefore, the transplant needs to exceed the desired volume by about 30–40% [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR20">20</xref>]. When covering multiple recessions, or when particularly large volume deficits are to be compensated with soft tissue, a large amount of soft tissue from the palate may be required for grafting [<xref ref-type="bibr" rid="CR21">21</xref>]. The obligatory clinical measurement of tissue thickness at the transplant donor site before surgery can be performed either directly or indirectly [<xref ref-type="bibr" rid="CR22">22</xref>]. A direct, but invasive measurement is bone sounding, with a needle or periodontal probe. This measurement is typically performed immediately before the procedure to avoid unnecessary anaesthesia [<xref ref-type="bibr" rid="CR15">15</xref>]. Alternatively, indirect, atraumatic measurements can be performed by evaluating sectional images of three-dimensional radiographs [<xref ref-type="bibr" rid="CR23">23</xref>–<xref ref-type="bibr" rid="CR27">27</xref>] or ultrasound scans [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]. Ultrasound evaluations are valid, both for determining mucosa thickness and for detecting palatal vessels. The currently available technique is to perform two-dimensional (2D), punctual linear distance measurements to estimate thickness from the bone surface to the gingival surface.</p>
+              <p id="Par19">Diagnostic and therapy planning with three-dimensional (3D) digital solutions have come an integral part of modern dentistry, particularly in the fields of implant and periodontal surgery, maxillofacial surgery, and prosthodontics. Virtual assessment and preoperative planning possibilities provide the surgeon with rich information about the clinical situation and a better spatial picture of the anatomy. The modality mainly used for 3D radiological imaging in dental applications is cone-beam computed tomography (CBCT). From CBCT and Multi-Slice Computed Tomography (MSCT) data, virtual models of the patient’s clinical situation can be created, and hard tissue can be displayed in a reliable, geometrically correct way [<xref ref-type="bibr" rid="CR29">29</xref>]. When a digital workflow is employed to carry out the patient's oral rehabilitation, the preoperatively acquired data typically consist of a CBCT scan and an intraoral surface scan, or digitised model cast, to obtain a precise display of the teeth and soft tissues. These Standard Tessellation Language (STL) models can be merged by matching their respective surfaces (e.g., the teeth). This technique is frequently used to analyse the available osseous tissue for implant placement in the desired prosthetic position and can help to make the treatment more accurate and more predictable [<xref ref-type="bibr" rid="CR30">30</xref>]. A variety of commercial planning software is available that guides the clinician through the correct model merging process and allows virtual planning for guided implant placement [<xref ref-type="bibr" rid="CR31">31</xref>]. Anatomical variations can be taken into account in advance, during therapy planning, and potential precautions can be identified to ensure an optimal result with minimal risk to the patient.</p>
+              <sec id="Sec2">
+                <title>Objectives</title>
+                <p id="Par20">Although the benefits of preoperative procedure planning are evident, less attention has been paid to the use of 3D planning for soft tissue applications in mucogingival surgery. Therefore, the present study aimed to test the possibility of using a 3D evaluation technique for providing information about maxillary soft tissue. We used data commonly collected for navigated oral surgery and digital workflows (CBCT bone model + intraoral surface model) to perform a virtual analysis of the palatal masticatory mucosa. We hypothesised that the results would enrich the preoperative planning stage with an additional step: the investigation of the patient’s anatomical condition, with regard to the palatal soft tissue volume.</p>
+              </sec>
+            </sec>
+            <sec id="Sec3">
+              <title>Methods</title>
+              <sec id="Sec4">
+                <title>Study design and inclusion criteria</title>
+                <p id="Par21">This prospective observational study aimed to determine individual volumes of palatal mucosa and the variation in the palatal soft tissues among patients. The study design was to merge STL models, derived from CBCT Digital Imaging and Communications in Medicine (DICOM) data, with virtual intraoral models (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). We measured the surface discrepancies and examined correlations with findings from previous studies that measured palatal soft tissue thicknesses.<fig id="Fig1"><label>Fig. 1</label><caption><p>Schematic illustration of the palatal soft tissue measured in the anterior maxilla. The white dashed line indicates the space measured between <bold>A</bold> the bone surface and <bold>B</bold> the gingival surface</p></caption><graphic xlink:href="12903_2022_2391_Fig1_HTML" id="MO1"/></fig></p>
+                <p id="Par22">Based on the processing of digital data sets, this clinical investigation aimed to obtain as much information as possible for the presurgical planning stage by analysing the patient’s existing 3D data (e.g., from tests indicated and performed for navigated implant placement).</p>
+                <p id="Par23">Patients were identified with consecutive sampling in the Department of Prosthodontics of the University Hospital Erlangen of Friedrich-Alexander University, Erlangen-Nürnberg, from November 2018 until February 2019. Eligible subjects were healthy, aged 18 -75 years. Inclusion criteria were: a complete fixed natural dentition of at least 14 teeth in the upper jaw; healthy periodontium (pocket probing depth &lt; 4 mm) with no previous mucogingival and/or osseous surgery in the region of interest; no medication that might cause gingival hyperplasia; and a pre-existing CBCT scan (0.3 voxel size) of the entire upper jaw and palate, acquired within the prior 12 months. To avoid scattering in the CBCT images, and hence, more accurate data for merging [<xref ref-type="bibr" rid="CR32">32</xref>], patients were excluded when metallic or ceramic restorations were found in the upper jaw. Finally, 20 patients fulfilled the inclusion/exclusion criteria and provided informed consent for participation in the study. This study was conducted in accordance with the Declaration of Helsinki on medical protocol and ethics [<xref ref-type="bibr" rid="CR33">33</xref>], and it was approved by the Medical Ethics Committee of Friedrich-Alexander University Erlangen-Nürnberg (Approval-Nr. 350_18B). It was retrospectively registered in the German Clinical Trials Register with the reference number DRKS00023918.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Digital data acquisition</title>
+                <p id="Par24">All 20 patients had undergone 3D imaging for treatment at the Department of Oral and Maxillofacial Surgery and/or the Department of Prosthodontics, University Hospital, Erlangen. Thus, all CBCTs were performed for therapeutic reasons. The CBCT scans were acquired with the following parameters: 0.3 mm voxels, 120 kV, 18.54 mA, and 8.9 s (acquisition time) (3D eXam, Kavo Dental GmbH, Biberach, Germany). The resulting DICOM datasets were converted into STL files, with Hounsfield Units (HU) for bone (threshold 150–2000 HU). The STL files represented virtual 3D models of the bone surface (Impact View 4.4.1, CT Imaging GmbH, Erlangen, Germany). The scans were precisely segmented, and small remaining holes were manually closed. The result was a relief model of the maxillary bone, with its alveolar processes and teeth, the complete vestibular site, and the palate, up to the spina nasalis posterior (Fig. <xref rid="Fig2" ref-type="fig">2</xref>b).<fig id="Fig2"><label>Fig. 2</label><caption><p>Virtual models merged to evaluate the volume of palatal soft tissues. <bold>A</bold> Clinical situation; <bold>B</bold> CBCT bone model; <bold>C</bold> merged CBCT and intraoral surface model; <bold>D</bold> colour-coded distance map representing the deviation between the two model surfaces at defined regions of interest (areas between the horizontal lines). Colour coding ranges from green (contacting model surfaces) to dark red (model surfaces separated by a large distance)</p></caption><graphic xlink:href="12903_2022_2391_Fig2_HTML" id="MO2"/></fig></p>
+                <p id="Par25">All study subjects were clinically examined. Then, a high-precision impression was taken of the maxillary region to obtain a precise model of the gingival surface of each patient’s palate for this investigation (Fig. <xref rid="Fig2" ref-type="fig">2</xref>a). To avoid plaster model fabrication and potential associated errors, a vinylsiloxanether (Identium® Scan Medium, Kettenbach, Eschenburg, Germany) was chosen for the impression material. The impressions were digitised directly with an industrial, high precision, optical scanner (Atos SO II, GOM GmbH, Braunschweig, Germany), with an applied measuring volume of 38 × 29 × 15 mm. To obtain the maxillary relief, the derived digital model was inverted with computer-aided design (CAD) analysis software (GOM Inspect, GOM GmbH, Braunschweig, Germany).</p>
+                <p id="Par26">A CBCT bone model (in STL file format) and a virtual impression model (in CAD file format) of the upper jaw were prepared for each patient. These models were subsequently uploaded into CAD analysis software (GOM Inspect) for evaluation.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Digital data evaluation</title>
+                <p id="Par27">The maxillary CBCT model and the intraoral surface model were evaluated for each patient (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). After importing the CBCT data into the investigation software (GOM Inspect), the CBCT model (bone) was chosen as the reference value. Then, the corresponding impression model (teeth and gingival surface) was imported into the software and designated the actual value. Next, the two models were superimposed, with the teeth as the reference surface for registration (Fig. <xref rid="Fig2" ref-type="fig">2</xref>c). The <italic>matching workflow</italic> procedure was as follows: after a rough manual alignment, the software merged the corresponding bone and gingiva models precisely, based on the registration algorithm ‘local best-fit’ over the selected tooth surfaces [<xref ref-type="bibr" rid="CR34">34</xref>].</p>
+                <p id="Par28">The distances between the virtual bone and virtual gingival surfaces were then measured (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). This 3D-analysis enabled visualisation of the distances between the mucosal surfaces and the bone surfaces, which was equivalent to an analysis of the quantity of soft tissue (Fig. <xref rid="Fig2" ref-type="fig">2</xref>d). To display and measure the volume of masticatory soft tissue, a segmentation method was applied, and in each segment, a 3D surface comparison was performed between corresponding reference and actual values.</p>
+                <p id="Par29">The overall region of interest (ROI) was defined as the entire area from the anterior to the posterior palate. A paramarginal distance was set to 3 mm from the teeth’s palatal sulcus. A posterior border was chosen as the line behind the second molars, which followed the margin from the hard to soft palate. The ROI was then subdivided into 5 equally sized ROIs (Table <xref rid="Tab1" ref-type="table">1</xref>, Fig. <xref rid="Fig2" ref-type="fig">2</xref>d), which were defined in advance to facilitate conclusions about the different palatal sections.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Definition of the subdivided regions of interest (ROIs 1–5)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"><italic>ROI 1</italic></th><th align="left">palatal area from the anterior teeth to the mesial aspect of the first premolar</th></tr></thead><tbody><tr><td align="left"><italic>ROI 2</italic></td><td align="left">mesial aspect of the first premolar to the palatal cusp of the second premolar</td></tr><tr><td align="left"><italic>ROI 3</italic></td><td align="left">palatal cusp of the second premolar to the distal fissure of the first molar</td></tr><tr><td align="left"><italic>ROI 4</italic></td><td align="left">distal fissure of the first molar to the distal fissure of the second molar</td></tr><tr><td align="left"><italic>ROI 5</italic></td><td align="left">distal fissure of the second molar to the posterior boundary of the hard palate</td></tr></tbody></table></table-wrap></p>
+                <p id="Par30">The surface discrepancy between the bone model and the gingival relief model was calculated. To visualise local volumetric differences, the discrepancies were displayed upon the rendered volume as a colour-coded distance map (Fig. <xref rid="Fig2" ref-type="fig">2</xref>d).</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Statistical analysis</title>
+                <p id="Par31">Statistical data analyses were performed with the statistical software, R V3.6.3 [<xref ref-type="bibr" rid="CR35">35</xref>]. For all 20 patients, the overall deviation between the bone and soft tissue surfaces was assessed with the merged STL data. The descriptive characteristics of ROIs 1–5 are expressed as the mean distance (MeanDist), minimal distance (MinDist), maximal distance (MaxDist), and volume (Vol). The Wilcoxon signed-rank test was performed to compare the MeanDist and Vol values among the subdivided ROIs. P-values were corrected with the Benjamini–Hochberg method for multiple testing. A corrected p-value &lt; 0.05 was considered significant.</p>
+              </sec>
+            </sec>
+            <sec id="Sec8">
+              <title>Results</title>
+              <p id="Par32">The patients had a mean age of 36.5 ± 13.1 years; the mean ages for women and men were 31.75 ± 6.4 years and 37.75 ± 14.2 years, respectively. The distances between the bone and gingival surfaces over the entire palatal region (ROIs 1–5) was examined for all 20 test subjects. Descriptive statistics are summarised in Table <xref rid="Tab2" ref-type="table">2</xref>.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Calculated distances between bone and gingival surfaces of the palate for the five areas of interest (ROIs 1–5)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Measurement</th><th align="left">ROI 1</th><th align="left">ROI 2</th><th align="left">ROI 3</th><th align="left">ROI 4</th><th align="left">ROI 5</th><th align="left">total</th></tr></thead><tbody><tr><td align="left">Area of valid distance [mm<sup>2</sup>]</td><td char="." align="char">193.4</td><td char="." align="char">382.9</td><td char="." align="char">488.5</td><td char="." align="char">411.9</td><td char="." align="char">439.5</td><td char="." align="char">1911.2</td></tr><tr><td align="left">Mean distance [mm]</td><td char="." align="char">1.9</td><td char="." align="char">2.4</td><td char="." align="char">2.7</td><td char="." align="char">2.9</td><td char="." align="char">4.0</td><td char="." align="char">2.8</td></tr><tr><td align="left"> ± SD</td><td char="." align="char">0.63</td><td char="." align="char">0.57</td><td char="." align="char">0.65</td><td char="." align="char">0.86</td><td char="." align="char">1.09</td><td char="." align="char">0.61</td></tr><tr><td align="left">Minimal distance [mm]</td><td char="." align="char">0.5</td><td char="." align="char">0.4</td><td char="." align="char">0.4</td><td char="." align="char">0.4</td><td char="." align="char">0.3</td><td char="." align="char">0.1</td></tr><tr><td align="left"> ± SD</td><td char="." align="char">0.59</td><td char="." align="char">0.48</td><td char="." align="char">0.38</td><td char="." align="char">0.41</td><td char="." align="char">0.40</td><td char="." align="char">0.18</td></tr><tr><td align="left">Maximal distance [mm]</td><td char="." align="char">3.8</td><td char="." align="char">5.0</td><td char="." align="char">5.6</td><td char="." align="char">7.0</td><td char="." align="char">8.7</td><td char="." align="char">8.6</td></tr><tr><td align="left"> ± SD</td><td char="." align="char">0.58</td><td char="." align="char">1.20</td><td char="." align="char">1.40</td><td char="." align="char">1.64</td><td char="." align="char">1.86</td><td char="." align="char">1.52</td></tr><tr><td align="left">Volume (Vol) [mm<sup>3</sup>]</td><td char="." align="char">351.2</td><td char="." align="char">977.1</td><td char="." align="char">1392.8</td><td char="." align="char">1243.8</td><td char="." align="char">1862.3</td><td char="." align="char">5824.9</td></tr><tr><td align="left"> ± SD</td><td char="." align="char">204.66</td><td char="." align="char">313.98</td><td char="." align="char">463.12</td><td char="." align="char">384.10</td><td char="." align="char">965.05</td><td char="." align="char">1689.36</td></tr><tr><td align="left">Ratio: Volume per surface area [mm]</td><td char="." align="char">1.83</td><td char="." align="char">2.55</td><td char="." align="char">2.85</td><td char="." align="char">3.02</td><td char="." align="char">4.23</td><td char="." align="char">3.04</td></tr></tbody></table><table-wrap-foot><p><italic>SD</italic> standard deviation</p></table-wrap-foot></table-wrap></p>
+              <p id="Par33">In assessing all 20 individual measurements, the mean linear distance (MeanDist) of palatal bone to gingival surface was 2.8 mm (± 0.61 mm) over the entire palate. The mean MaxDist was 8.6 mm and the mean MinDist was 0.1 mm. The distribution of distances in the sample is demonstrated in Fig. <xref rid="Fig3" ref-type="fig">3</xref>, which shows examples of colour-coded distance maps.<fig id="Fig3"><label>Fig. 3</label><caption><p>Colour-coded distance maps represent the distribution of palatal soft tissue volumes. Distance measurements are for 9 individuals. Colour coding ranges from green (contacting model surfaces) to dark red (model surfaces separated by a large distance)</p></caption><graphic xlink:href="12903_2022_2391_Fig3_HTML" id="MO3"/></fig></p>
+              <p id="Par34">The distances measured in individual sections of the palate (ROIs 1–5), subdivided from anterior to posterior, are shown in Table <xref rid="Tab1" ref-type="table">1</xref> and Fig. <xref rid="Fig2" ref-type="fig">2</xref>c. The MeanDist increased from segment 1 to segment 5, as follows: 1.9 mm in ROI 1; 2.4 mm in ROI 2; 2.7 mm in ROI 3; 2.9 mm in ROI 4; 4.0 mm in ROI 5 (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig4"><label>Fig. 4</label><caption><p>Three-dimensional (volumes) and two-dimensional (distances) measurements of maxillar palatal regions. Boxplots show the mean, minimal, and maximal distances [mm] and volumes [mm<sup>3</sup>]. Calculated p-values are given above each bracket; brackets indicate the two groups compared</p></caption><graphic xlink:href="12903_2022_2391_Fig4_HTML" id="MO4"/></fig></p>
+              <p id="Par35">The average surface area of the 20 analysed palates was 1911.2 mm<sup>2</sup>, with an average volume of 5824.9 mm<sup>3</sup>. The volume measurements in the most posterior part of the palate, ROI 5 (1862.3 mm<sup>3</sup>), showed the greatest degree of variation <bold>(</bold>SD ± 965.05). The ratio of palatal tissue volume to the palatal surface area in each ROI increased from the anterior (ROI 1, 1.83 mm) to the posterior (ROI 5, 4.23 mm) region.</p>
+              <p id="Par36">The Vol and MeanDist measurements were compared between the subdivided regions (ROIs 1–5; Fig. <xref rid="Fig4" ref-type="fig">4</xref>). In the Vol analysis, all ROIs were significantly different, except ROIs 3 and 4 (p = 0.054) and ROIs 3 and 5 (p = 0.056). In the MeanDist analysis, only ROIs 3 and 4 were not significantly different (p = 0.143).</p>
+            </sec>
+            <sec id="Sec9">
+              <title>Discussion</title>
+              <p id="Par37">Periodontal plastic and implant surgeries are complex, technique-sensitive procedures that require a high level of expertise [<xref ref-type="bibr" rid="CR36">36</xref>]. Hence, various factors should be addressed in the preoperative stage to ensure optimal outcomes [<xref ref-type="bibr" rid="CR37">37</xref>]. For a soft tissue graft, the planning phase of a mucogingival surgery procedure should consider the tissue quantity and the optimal donor site [<xref ref-type="bibr" rid="CR14">14</xref>]. The present study aimed to use the data typically collected in backward planning or navigated oral surgery (CBCTs and surface scans) for performing a volumetric digital soft tissue analysis. The currently established measurement methods for determining intraoral tissue thickness include direct and indirect procedures. The "classic" method is a direct, invasive bone sounding, with a needle or periodontal probe [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR38">38</xref>]. However, the data obtained are limited, because only a few punctual linear measurements are made, and those may be biased by the uneven structure of the alveolar bone or a non-perpendicular position [<xref ref-type="bibr" rid="CR26">26</xref>]. Due to the necessary anaesthesia, bone sounding is typically performed intraoperatively; consequently, preoperative planning based on tissue thickness is not applicable. Later studies pointed out the need for an indirect technique, with radiological imaging or ultrasound examination, which could be performed preoperatively [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR39">39</xref>–<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+              <p id="Par38">The present clinical study developed a method for obtaining a volumetric, 3D representation of the palatal soft tissues. Moreover, with this method, patients were spared unnecessary anaesthesia. In the present study, no direct measurement was performed as a control that could be compared to the obtained data, because only two-dimensional data (linear measurements) were available for comparisons. Indeed, to date, no other 3D evaluation of palatal soft tissue volume has been described in the literature. Therefore, to put our MeanDist results (Table <xref rid="Tab2" ref-type="table">2</xref>) into the context of the linear measurements found in the literature, appropriate articles were selected manually (Table <xref rid="Tab3" ref-type="table">3</xref>) to provide an overview of the typical 2D measurements performed and mean results for the palatal mucosa.<table-wrap id="Tab3"><label>Table 3</label><caption><p>Overview of results from studies that analysed palatal soft tissue thickness</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Author</th><th align="left">Title</th><th align="left">Year</th><th align="left">Measurement method and site</th><th align="left">Mean palatal masticatory soft tissue thickness [mm] ± SD for the overall palate, the first premolar region (P1) and the second molar region (M2)</th></tr></thead><tbody><tr><td align="left" rowspan="3">Studer et al. [<xref ref-type="bibr" rid="CR15">15</xref>]</td><td align="left" rowspan="3"><italic>The thickness of masticatory mucosa in the human hard palate and tuberosity as potential donor sites for ridge augmentation procedures</italic></td><td align="left" rowspan="3">1997</td><td align="left" rowspan="3">Direct bone sounding with a periodontal probe at 18 measurement points in 31 subjects</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 2.4 (± 0.6) to 3.9 (± 0.6)</td></tr><tr><td char="." align="char">M2 = 2.6 (± 0.8) to 3.5 (± 1.2)</td></tr><tr><td align="left" rowspan="3">Wara-aswapati et al. [<xref ref-type="bibr" rid="CR38">38</xref>]</td><td align="left" rowspan="3"><italic>Thickness of palatal masticatory mucosa associated with age</italic></td><td align="left" rowspan="3">2001</td><td align="left" rowspan="3">Direct bone sounding with a periodontal probe in 62 subjects</td><td char="." align="char">Overall = 3.0 (± 0.3)</td></tr><tr><td char="." align="char">P1 = 3.1 (± 0.5)</td></tr><tr><td char="." align="char">M2 = 3.8 (± 1.2)</td></tr><tr><td align="left" rowspan="3">Barriviera et al. [<xref ref-type="bibr" rid="CR23">23</xref>]</td><td align="left" rowspan="3"><italic>A new method to assess and measure palatal masticatory mucosa by cone-beam computerised tomography</italic></td><td align="left" rowspan="3">2009</td><td align="left" rowspan="3">Punctual linear measurements of palatal soft tissue in 2D coronal CBCTs from 31 subjects</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 3.11</td></tr><tr><td char="." align="char">M2 = 3.15</td></tr><tr><td align="left" rowspan="3">Yilmaz et al. [<xref ref-type="bibr" rid="CR24">24</xref>]</td><td align="left" rowspan="3"><italic>Cone-beam computed tomography evaluation of the soft tissue thickness and greater palatine foramen location in the palate</italic></td><td align="left" rowspan="3">2015</td><td align="left" rowspan="3">CBCT images of 345 subjects were measured in coronal slices</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 3.0 (± 0.75)</td></tr><tr><td char="." align="char">M2 = 3.7 (± 0.48)</td></tr><tr><td align="left" rowspan="3">Hormdee et al. [<xref ref-type="bibr" rid="CR25">25</xref>]</td><td align="left" rowspan="3"><italic>Palatal soft tissue thickness on maxillary posterior teeth and its relation to palatal vault angle measured by cone beam computed tomography</italic></td><td align="left" rowspan="3">2020</td><td align="left" rowspan="3">Punctual, linear analysis of soft tissue thickness on the basis of CBCT data acquired in 2D coronal sections in 56 subjects</td><td char="." align="char">Overall = 3.71 (± 0.65)</td></tr><tr><td char="." align="char">P1 = 3.9 (± 0.73)</td></tr><tr><td char="." align="char">M2 = 3.86 (± 1.46)</td></tr><tr><td align="left" rowspan="3">Ogawa. et al. [<xref ref-type="bibr" rid="CR26">26</xref>]</td><td align="left" rowspan="3"><italic>Accuracy of cone beam computed tomography in evaluation of palatal mucosa thickness</italic></td><td align="left" rowspan="3">2020</td><td align="left" rowspan="3">Evaluations of palatal mucosa thickness in CBCT plus digital impressions in 174 subjects (after creating a conversion formula, based on direct K file measurements at 15 sites in 10 subjects)</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 3.20 (± 0.78) to 4.73 (± 0.76)</td></tr><tr><td char="." align="char">M2 = 3.40 (± 1.32) to 5.74 (± 1.50)</td></tr><tr><td align="left" rowspan="3">Song et al. [<xref ref-type="bibr" rid="CR27">27</xref>]</td><td align="left" rowspan="3"><italic>Thickness of posterior palatal masticatory mucosa: the use of computerised tomography</italic></td><td align="left" rowspan="3">2008</td><td align="left" rowspan="3">Linear punctual measurement of palatal masticatory mucosa thickness at 24 measurement points on CT images from 100 subjects</td><td char="." align="char">Overall = 3.83 (± 0.58)</td></tr><tr><td char="." align="char">P1 = 3.66 (± 0.66)</td></tr><tr><td char="." align="char">M2 = 3.39 (± 1.00)</td></tr><tr><td align="left" rowspan="3">Uchida et al. [<xref ref-type="bibr" rid="CR39">39</xref>]</td><td align="left" rowspan="3"><italic>Measurement </italic>in vivo<italic> of Masticatory mucosal thickness with 20 MHz B-mode ultrasonic diagnostic equipment</italic></td><td align="left" rowspan="3">1989</td><td align="left" rowspan="3">Punctual measurements of palatal masticatory mucosa thickness with a 20-MHz B-Mode ultrasonic device in 100 edentulous patients</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 4.52 (± 0.9) to 4.46 (± 0.82)</td></tr><tr><td char="." align="char">M2 = 5.62 (± 1.0) to 5.53 (± 0.91)</td></tr><tr><td align="left" rowspan="3">Müller et al. [<xref ref-type="bibr" rid="CR18">18</xref>]</td><td align="left" rowspan="3"><italic>Thickness of masticatory mucosa</italic></td><td align="left" rowspan="3">2000</td><td align="left" rowspan="3">Mucosa thickness measured in 40 subjects with a 5-MHz ultrasonic device</td><td char="." align="char">Overall = n/a</td></tr><tr><td char="." align="char">P1 = 2.4 (± 0.45) to 2.89 (± 0.64)</td></tr><tr><td char="." align="char">M2 = 2.44 (± 0.89) to 2.76 (± 1.15)</td></tr><tr><td align="left" rowspan="3">Schulze et al. [<xref ref-type="bibr" rid="CR28">28</xref>]</td><td align="left" rowspan="3"><italic>B-mode versus A-mode ultrasonographic measurements of mucosal thickness </italic>in vivo</td><td align="left" rowspan="3">2002</td><td align="left" rowspan="3">Assessment of palatal masticatory mucosa with A-mode and B-mode, 10-MHz ultrasonographic devices in 50 subjects</td><td char="." align="char"><p>Overall = 1.9 mm to 5.9 mm</p><p>(95% CI, 2.9 to 3.3; median 3.1)</p></td></tr><tr><td char="." align="char">P1 = n/a</td></tr><tr><td char="." align="char">M2 = n/a</td></tr><tr><td align="left" rowspan="3">Heil et al. [<xref ref-type="bibr" rid="CR41">41</xref>]</td><td align="left" rowspan="3"><italic>Determination of the palatal masticatory mucosa thickness by dental MRI: a prospective study analysing age and gender effects</italic></td><td align="left" rowspan="3">2018</td><td align="left" rowspan="3">Assessment of palatal mucosa thickness on dental MRIs, at 3 Tesla with contrast-enhanced, high-resolution 3D-sequences; 40 measurement points in 40 subjects</td><td char="." align="char">Overall = 3.29 (± 0.45)</td></tr><tr><td char="." align="char">P1 = 2.1 (± 0.1) to 4.5 (± 1.0)</td></tr><tr><td char="." align="char">M2 = 2.1 (± 0.1) to 4.9 (± 0.8)</td></tr></tbody></table></table-wrap></p>
+              <p id="Par39">The results of our linear measurements (MeanDist, Table <xref rid="Tab2" ref-type="table">2</xref>) were consistent with the trend of palatal soft tissue thicknesses shown in Table <xref rid="Tab3" ref-type="table">3</xref>. Our linear measurements of 1.9–4.0 mm were comparable to the mean values of direct measurements (2.0–3.7 mm) reported in a study that performed direct probing in 62 subjects [<xref ref-type="bibr" rid="CR38">38</xref>]. Our proposed 3D virtual analysis (Fig. <xref rid="Fig4" ref-type="fig">4</xref>) was consistent with reports in the literature that showed that the soft tissue thicknesses tended to increase from the anterior to the posterior palate [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR38">38</xref>]. It should be noted that our evaluations included the masticatory mucosa of both the lateral palate and the posterior palate. Consistent with the findings of Studer et al. [<xref ref-type="bibr" rid="CR15">15</xref>], our results showed that the keratinised mucosa was significantly thicker at the tuberosity and posterior palate (ROI 5, Table <xref rid="Tab2" ref-type="table">2</xref>; Fig. <xref rid="Fig3" ref-type="fig">3</xref>) than in the rest of the hard palate. Furthermore, our results showed that the standard deviations of both the MeanDist and the Vol increased from anterior to posterior. This result suggested that tissue thicknesses showed greater anatomical variation near the tuberosity and the entry of the vascular-nerve bundle, compared to other regions. This observation was reported in most of the studies shown in Table <xref rid="Tab3" ref-type="table">3</xref> (compare the standard values for first premolar [P1] region to those of the second molar [M2] region). Wara-aswapati et al. [<xref ref-type="bibr" rid="CR38">38</xref>] found that the overall thickness of the palatal masticatory mucosa increased from the gingival margin to the lateral palate, and then, decreased to the midline. That finding explained the variation in our results within a single segment, because the soft tissue volume at the midpalate is lower than the volume at the lateral palate, as shown in the colour-coded distance maps (Fig. <xref rid="Fig3" ref-type="fig">3</xref>), where the red colour indicates the largest volume and the green colour indicates no volume (i.e., contacting surfaces).</p>
+              <p id="Par40">A spatial concept of each patient’s individual anatomy, as displayed in Fig. <xref rid="Fig3" ref-type="fig">3</xref>, prior to surgery has advantages. Intraoperative arterial bleeding and postoperative haemorrhage are risks that may arise when autologous grafts are extracted from the lateral palate, due to the proximity of the greater palatine artery. The digital analysis presented here showed that the highest volume was found in the most dorsal part of the hard palate on both sides of the maxilla (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). This site coincides with the location of the vascular-nerve bundle that exits the greater palatine foramen. That bundle is typically described as distal to the third molar or between third and second molars, about 10–14 mm from the gingival margin [<xref ref-type="bibr" rid="CR42">42</xref>]. These anatomical features were also found in the measurements acquired in this study; however, the findings must be interpreted with caution. For example, ROI 5 showed particularly high volume (Table <xref rid="Tab2" ref-type="table">2</xref>), because the measurement included both the actual soft tissue volume and the volume of the palatal vascular-nerve bundle.</p>
+              <p id="Par41">There are indications that may require a particularly thick soft tissue graft, such as implant-related or pre-prosthetic scenarios or to compensate tissue volume loss after a tooth extraction. In these cases, a presurgical soft tissue volume analysis might be beneficial. However, it is not sufficient to analyse solely the quantity of soft tissue; previous research has shown that good tissue quality (e.g., tissue rich in lamina propria) is crucial for surgical success. The layers of palatal soft tissue include the epithelium (approximately 0.30 – 0.44 mm thick), the connective tissue with the lamina propria (0.8 – 1.5 mm thick), and the submucosal tissue with its fatty component [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>]. It should be highlighted that the present study focused on the quantitative analysis of palatal soft tissue with 3D imaging to provide information about the anatomical conditions of the entire palate, but it did not investigate tissue quality.</p>
+              <p id="Par42">Table <xref rid="Tab3" ref-type="table">3</xref> shows that examining radiological data in sectional views is a popular tool for soft tissue analysis. Some studies measured the palatal masticatory mucosa thickness in 2D sectional views of CBCTs. Ogawa et al. showed that punctual linear measurements on CBCTs were 0.34 (± 0.04) mm smaller than direct measurements with a K-file [<xref ref-type="bibr" rid="CR26">26</xref>]. Considering the low contrast resolution, in general, soft tissue analyses are limited with CBCTs [<xref ref-type="bibr" rid="CR45">45</xref>]; therefore, soft tissue measurements are only suitable to a limited extent in CBCTs. Consequently, we integrated a surface scan into our method of measuring soft tissue, by superimposing an intraoral surface model and a CBCT model.</p>
+              <p id="Par43">As stated, there is a need for an easy, indirect, readily available method for measuring the soft tissue of the palate. The tissue volume measurement procedure performed in this study was indirect and non-invasive. Although a CBCT was used, it was not obtained for study purposes, but for navigated implant surgery or another medically justified indication. CBCT scans have become an indispensable part of everyday clinical practice in the field of oral and craniofacial surgery, but of course, the cost–benefit for the patient must be weighed, and radiological exposure should only be applied when justified [<xref ref-type="bibr" rid="CR46">46</xref>].</p>
+              <p id="Par44">Compared to CBCT, magnetic resonance imaging (MRI) might be superior for visualising intraoral hard and soft tissues while providing reliable data [<xref ref-type="bibr" rid="CR41">41</xref>]. MRI has not been clinically established for dental purposes, it is expensive and requires a long examination time. Therefore, MRI is not currently an option for replacing the radiation emitting imaging of CBCT and MSCT. Mucosa measurements performed with MRI provide results comparable to those obtained with direct bone sounding [<xref ref-type="bibr" rid="CR47">47</xref>], and MRI is the only absolutely non-invasive method, with no radiation risk.</p>
+              <p id="Par45">The individual steps applied in this study were based on previous research that examined the accuracy of each step. The precision of the high-performance industrial optical scanner (Atos SO II, GOM GmbH) for digitising the impressions was 3 µm [<xref ref-type="bibr" rid="CR34">34</xref>], and the accuracy of the converted 3D CBCT models was 400 (± 229) µm for 0.3 voxels [<xref ref-type="bibr" rid="CR48">48</xref>]. The merging workflow was performed in a precise, two stage approach (manually and with a best-fit-algorithm), where images were registered by the tooth surfaces. Accurate imaging and precise superimposition are the foundation for the proposed workflow and reliable results. A recent study found that the matching accuracy was 300 µm with manual alignments of data (CBCT scan + surface scan) from patients without metallic restorations in the region of interest [<xref ref-type="bibr" rid="CR32">32</xref>]. Data merging via the tooth surfaces was particularly accurate for patients without metallic restorations; therefore, the presence of a metallic restoration was selected as an exclusion criterion for participating in this study. A valid, reliable alternative to taking impressions of patients with high-precision silicone in this study would have been a direct intraoral scan as intraoral scans can correctly display both the teeth and the soft tissues [<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR50">50</xref>].</p>
+              <p id="Par46">Merging 3D data provides information about anatomy, aesthetics, and function, before therapy has begun. In the field of digital dentistry, innovations arise at a fast pace, and they constantly lead to the development of therapy concepts and materials for oral rehabilitation based on 3D datasets. Recent innovations have included a fully digital workflow for dental prostheses [<xref ref-type="bibr" rid="CR51">51</xref>, <xref ref-type="bibr" rid="CR52">52</xref>] and the emergence of highly functional materials, like oxide ceramics [<xref ref-type="bibr" rid="CR53">53</xref>], fibre-reinforced composites [<xref ref-type="bibr" rid="CR54">54</xref>] and glass/carbon fibres [<xref ref-type="bibr" rid="CR55">55</xref>].</p>
+              <p id="Par47">None of the studies listed in Table <xref rid="Tab3" ref-type="table">3</xref> measured soft tissue volume (in mm<sup>3</sup>). Therefore, no direct comparisons could be made with previous findings. Nevertheless, the results of this study should be interpreted with caution, because the sample size limited the reliability of the obtained measurements. It should be noted that this study was the first to test the possibility of 3D volumetric measurements of palatal soft tissue.</p>
+              <p id="Par48">However, a 3D examination of soft tissue <italic>changes</italic> has been established and is currently used in clinical research [<xref ref-type="bibr" rid="CR56">56</xref>]: That investigation technique involves superimposing pre- and postoperative intraoral surface scans or model scans, and then comparing them to determine the average tissue thickness and volume relative to baseline (i.e., preoperative values). For example, a recent study investigated the changes in palatal soft tissue, in terms of wound healing, after graft harvesting [<xref ref-type="bibr" rid="CR57">57</xref>]. However, that technique solely compared the gingival surface at different time points, and CBCT scans were not integrated; therefore, only alterations in soft tissue relative to baseline were analysed. In contrast, our study showed that the proposed method could be used to determine, volumetrically, the <italic>absolute</italic> measurements of the soft tissue in the palate.</p>
+            </sec>
+            <sec id="Sec10">
+              <title>Conclusions</title>
+              <p id="Par49">Surgical planning software applies the principle of merging STL models via relevant structures with automatically generated HU-thresholds; however, to date, soft tissue assessments have not been performed.With the technique described in this study, the anatomical soft tissue features of the palate of each individual patient were displayed in three dimensions for preoperative planning. The superimposed bone and soft tissue data were used to fully exploit the diagnostic possibilities offered by 3D datasets. We showed that the measured soft tissue volume increased from the anterior (351 mm<sup>3</sup>) to the posterior palate (1863 mm<sup>3</sup>), with the greatest variance in the posterior palate. With this digital, indirect measurement method, based on merging 3D CBCT data and intraoral surface models, a projection of the palatal soft tissue volume was performed reliably for each patient individually. In future, studies are needed with a larger number of participants to determine the most appropriate harvesting site for maxillary grafts and to establish the presented digital method in clinical practice.
+</p>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>2D</term>
+                  <def>
+                    <p id="Par6">Two-dimensional</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>3D</term>
+                  <def>
+                    <p id="Par7">Three-dimensional</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CBCT</term>
+                  <def>
+                    <p id="Par8">Cone-Beam Computed Tomography</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MSCT</term>
+                  <def>
+                    <p id="Par9">Multi-Slice Computed Tomography</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CAD/CAM</term>
+                  <def>
+                    <p id="Par10">Computer-aided design/ Computer-aided manufacturing</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>STL</term>
+                  <def>
+                    <p id="Par11">Standard Tessellation Language</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DICOM</term>
+                  <def>
+                    <p id="Par12">Digital Imaging and Communications in Medicine</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HU</term>
+                  <def>
+                    <p id="Par13">Hounsfield Units</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ROI</term>
+                  <def>
+                    <p id="Par14">Region of interest</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MRI</term>
+                  <def>
+                    <p id="Par15">Magnetic resonance imaging</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors thank GOM for support with software applications and Dr. Werner Adler for support with the statistical analysis.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>AS contributed to the conceptualisation, data curation, formal analysis, investigation, methodology, project administration, supervision, visualisation, and writing the original draft; CS contributed to the formal analysis, supervision, validation, and reviewing the original draft; REM contributed to the conceptualisation, methodology, project administration, software, supervision, and reviewing the original draft; MB contributed to the formal analysis, validation, and reviewing the original draft; MW contributed to the formal analysis, resources, validation, and reviewing the original draft; LB contributed to the data curation, investigation, visualisation, and reviewing and editing the original draft. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>Regarding Open Access funding, we acknowledge financial support by Deutsche Forschungsgemeinschaft and Friedrich-Alexander-Universität Erlangen-Nürnberg within the funding programme "Open Access Publication Funding“ and the Projekt "DEAL".</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>All data generated or analysed during this study are included in this published article.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethical approval and consent to participate</title>
+                <p id="Par50">This study was conducted in accordance with the Declaration of Helsinki on medical protocol and ethics [<xref ref-type="bibr" rid="CR33">33</xref>] and all national ethical standards. It was approved and conducted in accordance with the Medical Ethics Committee of Friedrich-Alexander University Erlangen-Nürnberg (Approval-Nr. 350_18B). All patients of this study provided informed consent. It was retrospectively registered in the German Clinical Trials Register with the reference number: DRKS00023918 (<ext-link ext-link-type="uri" xlink:href="https://www.drks.de">https://www.drks.de</ext-link>).</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par51">All participants gave their informed consent prior to their inclusion in the study.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par52">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Batra</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Daing</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Azam</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Miglani</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Bhardwaj</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of altered gingival characteristics on smile esthetics: Laypersons' perspectives by Q sort methodology</article-title>
+                  <source>Am J Orthod Dentofacial Orthop</source>
+                  <year>2018</year>
+                  <volume>154</volume>
+                  <issue>1</issue>
+                  <fpage>82</fpage>
+                  <lpage>90 e2</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ajodo.2017.12.010</pub-id>
+                  <?supplied-pmid 29957325?>
+                  <pub-id pub-id-type="pmid">29957325</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wennstrom</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mucogingival therapy</article-title>
+                  <source>Ann Periodontol</source>
+                  <year>1996</year>
+                  <volume>1</volume>
+                  <issue>1</issue>
+                  <fpage>671</fpage>
+                  <lpage>701</lpage>
+                  <pub-id pub-id-type="doi">10.1902/annals.1996.1.1.671</pub-id>
+                  <?supplied-pmid 9118276?>
+                  <pub-id pub-id-type="pmid">9118276</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kassab</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Cohen</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The etiology and prevalence of gingival recession</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>2003</year>
+                  <volume>134</volume>
+                  <issue>2</issue>
+                  <fpage>220</fpage>
+                  <lpage>225</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.2003.0137</pub-id>
+                  <?supplied-pmid 12636127?>
+                  <pub-id pub-id-type="pmid">12636127</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Matas</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Sentís</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Mendieta</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ten-year longitudinal study of gingival recession in dentists</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2011</year>
+                  <volume>38</volume>
+                  <issue>12</issue>
+                  <fpage>1091</fpage>
+                  <lpage>1098</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01799.x</pub-id>
+                  <?supplied-pmid 22092502?>
+                  <pub-id pub-id-type="pmid">22092502</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chambrone</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Tatakis</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term outcomes of untreated buccal gingival recessions: a systematic review and meta-analysis</article-title>
+                  <source>J Periodontol</source>
+                  <year>2016</year>
+                  <volume>87</volume>
+                  <issue>7</issue>
+                  <fpage>796</fpage>
+                  <lpage>808</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2016.150625</pub-id>
+                  <?supplied-pmid 26878749?>
+                  <pub-id pub-id-type="pmid">26878749</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vehkalahti</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Occurrence of gingival recession in adults</article-title>
+                  <source>J Periodontol</source>
+                  <year>1989</year>
+                  <volume>60</volume>
+                  <issue>11</issue>
+                  <fpage>599</fpage>
+                  <lpage>603</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1989.60.11.599</pub-id>
+                  <?supplied-pmid 2600746?>
+                  <pub-id pub-id-type="pmid">2600746</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Romandini</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Soldini</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Montero</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Sanz</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Epidemiology of mid-buccal gingival recessions in NHANES according to the 2018 World Workshop Classification System</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2020</year>
+                  <volume>47</volume>
+                  <issue>10</issue>
+                  <fpage>1180</fpage>
+                  <lpage>1190</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.13353</pub-id>
+                  <?supplied-pmid 32748539?>
+                  <pub-id pub-id-type="pmid">32748539</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cortellini</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Bissada</surname>
+                      <given-names>NF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mucogingival conditions in the natural dentition: narrative review, case definitions, and diagnostic considerations</article-title>
+                  <source>J Periodontol</source>
+                  <year>2018</year>
+                  <volume>89</volume>
+                  <issue>Suppl 1</issue>
+                  <fpage>S204</fpage>
+                  <lpage>S213</lpage>
+                  <pub-id pub-id-type="doi">10.1002/JPER.16-0671</pub-id>
+                  <?supplied-pmid 29926948?>
+                  <pub-id pub-id-type="pmid">29926948</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Teixeira</surname>
+                      <given-names>DNR</given-names>
+                    </name>
+                    <name>
+                      <surname>Zeola</surname>
+                      <given-names>LF</given-names>
+                    </name>
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Gomes</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Souza</surname>
+                      <given-names>PG</given-names>
+                    </name>
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>DC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Relationship between noncarious cervical lesions, cervical dentin hypersensitivity, gingival recession, and associated risk factors: a cross-sectional study</article-title>
+                  <source>J Dent</source>
+                  <year>2018</year>
+                  <volume>76</volume>
+                  <fpage>93</fpage>
+                  <lpage>97</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2018.06.017</pub-id>
+                  <?supplied-pmid 29940290?>
+                  <pub-id pub-id-type="pmid">29940290</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>GH</given-names>
+                    </name>
+                    <name>
+                      <surname>Chan</surname>
+                      <given-names>HL</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>HL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The significance of keratinized mucosa on implant health: a systematic review</article-title>
+                  <source>J Periodontol</source>
+                  <year>2013</year>
+                  <volume>84</volume>
+                  <issue>12</issue>
+                  <fpage>1755</fpage>
+                  <lpage>1767</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2013.120688</pub-id>
+                  <?supplied-pmid 23451989?>
+                  <pub-id pub-id-type="pmid">23451989</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lang</surname>
+                      <given-names>NP</given-names>
+                    </name>
+                    <name>
+                      <surname>Löe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The relationship between the width of keratinized gingiva and gingival health</article-title>
+                  <source>J Periodontol</source>
+                  <year>1972</year>
+                  <volume>43</volume>
+                  <issue>10</issue>
+                  <fpage>623</fpage>
+                  <lpage>627</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1972.43.10.623</pub-id>
+                  <?supplied-pmid 4507712?>
+                  <pub-id pub-id-type="pmid">4507712</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zuhr</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Baumer</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Hurzeler</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The addition of soft tissue replacement grafts in plastic periodontal and implant surgery: critical elements in design and execution</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>Suppl 15</issue>
+                  <fpage>S123</fpage>
+                  <lpage>S142</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12185</pub-id>
+                  <?supplied-pmid 24640997?>
+                  <pub-id pub-id-type="pmid">24640997</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chambrone</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Tatakis</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal soft tissue root coverage procedures: a systematic review from the AAP Regeneration Workshop</article-title>
+                  <source>J Periodontol</source>
+                  <year>2015</year>
+                  <volume>86</volume>
+                  <issue>2 Suppl</issue>
+                  <fpage>S8</fpage>
+                  <lpage>51</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2015.130674</pub-id>
+                  <?supplied-pmid 25644302?>
+                  <pub-id pub-id-type="pmid">25644302</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cairo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal plastic surgery of gingival recessions at single and multiple teeth</article-title>
+                  <source>Periodontol 2000</source>
+                  <year>2017</year>
+                  <volume>75</volume>
+                  <issue>1</issue>
+                  <fpage>296</fpage>
+                  <lpage>316</lpage>
+                  <pub-id pub-id-type="doi">10.1111/prd.12186</pub-id>
+                  <?supplied-pmid 28758301?>
+                  <pub-id pub-id-type="pmid">28758301</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Studer</surname>
+                      <given-names>SP</given-names>
+                    </name>
+                    <name>
+                      <surname>Allen</surname>
+                      <given-names>EP</given-names>
+                    </name>
+                    <name>
+                      <surname>Rees</surname>
+                      <given-names>TC</given-names>
+                    </name>
+                    <name>
+                      <surname>Kouba</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The thickness of masticatory mucosa in the human hard palate and tuberosity as potential donor sites for ridge augmentation procedures</article-title>
+                  <source>J Periodontol</source>
+                  <year>1997</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>145</fpage>
+                  <lpage>151</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.1997.68.2.145</pub-id>
+                  <?supplied-pmid 9058332?>
+                  <pub-id pub-id-type="pmid">9058332</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Klosek</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Rungruang</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Anatomical study of the greater palatine artery and related structures of the palatal vault: considerations for palate as the subepithelial connective tissue graft donor site</article-title>
+                  <source>Surg Radiol Anat</source>
+                  <year>2009</year>
+                  <volume>31</volume>
+                  <issue>4</issue>
+                  <fpage>245</fpage>
+                  <lpage>250</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00276-008-0432-4</pub-id>
+                  <?supplied-pmid 19015806?>
+                  <pub-id pub-id-type="pmid">19015806</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Harris</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Histologic evaluation of connective tissue grafts in humans</article-title>
+                  <source>Int J Periodontics Restor Dent</source>
+                  <year>2003</year>
+                  <volume>23</volume>
+                  <issue>6</issue>
+                  <fpage>575</fpage>
+                  <lpage>583</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Schaller</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Eger</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Heinecke</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Thickness of masticatory mucosa</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2000</year>
+                  <volume>27</volume>
+                  <issue>6</issue>
+                  <fpage>431</fpage>
+                  <lpage>436</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051x.2000.027006431.x</pub-id>
+                  <?supplied-pmid 10883873?>
+                  <pub-id pub-id-type="pmid">10883873</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rebele</surname>
+                      <given-names>SF</given-names>
+                    </name>
+                    <name>
+                      <surname>Zuhr</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Schneider</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Jung</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                    <name>
+                      <surname>Hurzeler</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tunnel technique with connective tissue graft versus coronally advanced flap with enamel matrix derivative for root coverage: a RCT using 3D digital measuring methods. Part II. Volumetric studies on healing dynamics and gingival dimensions</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>6</issue>
+                  <fpage>593</fpage>
+                  <lpage>603</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12254</pub-id>
+                  <?supplied-pmid 24708338?>
+                  <pub-id pub-id-type="pmid">24708338</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmitt</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Moest</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Lutz</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Wehrhan</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Neukam</surname>
+                      <given-names>FW</given-names>
+                    </name>
+                    <name>
+                      <surname>Schlegel</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term outcomes after vestibuloplasty with a porcine collagen matrix (Mucograft((R)) ) versus the free gingival graft: a comparative prospective clinical trial</article-title>
+                  <source>Clin Oral Implants Res</source>
+                  <year>2016</year>
+                  <volume>27</volume>
+                  <issue>11</issue>
+                  <fpage>e125</fpage>
+                  <lpage>e133</lpage>
+                  <pub-id pub-id-type="doi">10.1111/clr.12575</pub-id>
+                  <?supplied-pmid 25720794?>
+                  <pub-id pub-id-type="pmid">25720794</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zucchelli</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>De Sanctis</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Treatment of multiple recession-type defects in patients with esthetic demands</article-title>
+                  <source>J Periodontol</source>
+                  <year>2000</year>
+                  <volume>71</volume>
+                  <issue>9</issue>
+                  <fpage>1506</fpage>
+                  <lpage>1514</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2000.71.9.1506</pub-id>
+                  <?supplied-pmid 11022782?>
+                  <pub-id pub-id-type="pmid">11022782</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abraham</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Deepak</surname>
+                      <given-names>KT</given-names>
+                    </name>
+                    <name>
+                      <surname>Ambili</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Preeja</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Archana</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Gingival biotype and its clinical significance—a review</article-title>
+                  <source>Saudi J Dent Res</source>
+                  <year>2014</year>
+                  <volume>5</volume>
+                  <issue>1</issue>
+                  <fpage>3</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ksujds.2013.06.003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Barriviera</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Duarte</surname>
+                      <given-names>WR</given-names>
+                    </name>
+                    <name>
+                      <surname>Januario</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Faber</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Bezerra</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A new method to assess and measure palatal masticatory mucosa by cone-beam computerized tomography</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2009</year>
+                  <volume>36</volume>
+                  <issue>7</issue>
+                  <fpage>564</fpage>
+                  <lpage>568</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2009.01422.x</pub-id>
+                  <?supplied-pmid 19538329?>
+                  <pub-id pub-id-type="pmid">19538329</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yilmaz</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                    <name>
+                      <surname>Boke</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Ayali</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cone-beam computed tomography evaluation of the soft tissue thickness and greater palatine foramen location in the palate</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2015</year>
+                  <volume>42</volume>
+                  <issue>5</issue>
+                  <fpage>458</fpage>
+                  <lpage>461</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12390</pub-id>
+                  <?supplied-pmid 25817728?>
+                  <pub-id pub-id-type="pmid">25817728</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hormdee</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Yamsuk</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Sutthiprapaporn</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Palatal soft tissue thickness on maxillary posterior teeth and its relation to palatal vault angle measured by cone-beam computed tomography</article-title>
+                  <source>Int J Dent</source>
+                  <year>2020</year>
+                  <volume>2020</volume>
+                  <fpage>8844236</fpage>
+                  <?supplied-pmid 32963535?>
+                  <pub-id pub-id-type="pmid">32963535</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ogawa</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Katagiri</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Koyanagi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Maekawa</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Shiba</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Ohsugi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Accuracy of cone beam computed tomography in evaluation of palatal mucosa thickness</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2020</year>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.13254</pub-id>
+                  <?supplied-pmid 31912948?>
+                  <pub-id pub-id-type="pmid">31912948</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Song</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Um</surname>
+                      <given-names>YJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Choi</surname>
+                      <given-names>SH</given-names>
+                    </name>
+                    <name>
+                      <surname>Cho</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>CK</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Thickness of posterior palatal masticatory mucosa: the use of computerized tomography</article-title>
+                  <source>J Periodontol</source>
+                  <year>2008</year>
+                  <volume>79</volume>
+                  <issue>3</issue>
+                  <fpage>406</fpage>
+                  <lpage>412</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2008.070302</pub-id>
+                  <?supplied-pmid 18315422?>
+                  <pub-id pub-id-type="pmid">18315422</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schulze</surname>
+                      <given-names>RK</given-names>
+                    </name>
+                    <name>
+                      <surname>Curić</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>d'Hoedt</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>B-mode versus A-mode ultrasonographic measurements of mucosal thickness in vivo</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2002</year>
+                  <volume>93</volume>
+                  <issue>1</issue>
+                  <fpage>110</fpage>
+                  <lpage>117</lpage>
+                  <pub-id pub-id-type="doi">10.1067/moe.2002.119465</pub-id>
+                  <?supplied-pmid 11805786?>
+                  <pub-id pub-id-type="pmid">11805786</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jacobs</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Salmon</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Codari</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassan</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Bornstein</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Cone beam computed tomography in implant dentistry: recommendations for clinical use</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2018</year>
+                  <volume>18</volume>
+                  <issue>1</issue>
+                  <fpage>88</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-018-0523-5</pub-id>
+                  <?supplied-pmid 29764458?>
+                  <pub-id pub-id-type="pmid">29764458</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hämmerle</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                    <name>
+                      <surname>Cordaro</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>van Assche</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Benic</surname>
+                      <given-names>GI</given-names>
+                    </name>
+                    <name>
+                      <surname>Bornstein</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gamper</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Digital technologies to support planning, treatment, and fabrication processes and outcome assessments in implant dentistry. Summary and consensus statements. The 4th EAO consensus conference 2015</article-title>
+                  <source>Clin Oral Implants Res</source>
+                  <year>2015</year>
+                  <volume>26</volume>
+                  <fpage>97</fpage>
+                  <lpage>101</lpage>
+                  <pub-id pub-id-type="doi">10.1111/clr.12648</pub-id>
+                  <?supplied-pmid 26385624?>
+                  <pub-id pub-id-type="pmid">26385624</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kernen</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Wanner</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Wismeijer</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Nelson</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Flügge</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A review of virtual planning software for guided implant surgery - data import and visualization, drill guide design and manufacturing</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2020</year>
+                  <volume>20</volume>
+                  <issue>1</issue>
+                  <fpage>251</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-020-01208-1</pub-id>
+                  <?supplied-pmid 32912273?>
+                  <pub-id pub-id-type="pmid">32912273</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Flügge</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Derksen</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Te Poel</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassan</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Nelson</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Wismeijer</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Registration of cone beam computed tomography data and intraoral surface scans—a prerequisite for guided implant surgery with CAD/CAM drilling guides</article-title>
+                  <source>Clin Oral Implants Res</source>
+                  <year>2017</year>
+                  <volume>28</volume>
+                  <issue>9</issue>
+                  <fpage>1113</fpage>
+                  <lpage>1118</lpage>
+                  <pub-id pub-id-type="doi">10.1111/clr.12925</pub-id>
+                  <?supplied-pmid 27440381?>
+                  <pub-id pub-id-type="pmid">27440381</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>World Medical Association Declaration of Helsinki</collab>
+                  </person-group>
+                  <article-title>ethical principles for medical research involving human subjects</article-title>
+                  <source>JAMA</source>
+                  <year>2013</year>
+                  <volume>310</volume>
+                  <issue>20</issue>
+                  <fpage>2191</fpage>
+                  <lpage>2194</lpage>
+                  <pub-id pub-id-type="doi">10.1001/jama.2013.281053</pub-id>
+                  <pub-id pub-id-type="pmid">24141714</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Holst</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Karl</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wichmann</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Matta</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A new triple-scan protocol for 3D fit assessment of dental restorations</article-title>
+                  <source>Quintessence Int</source>
+                  <year>2011</year>
+                  <volume>42</volume>
+                  <issue>8</issue>
+                  <fpage>651</fpage>
+                  <lpage>657</lpage>
+                  <?supplied-pmid 21842005?>
+                  <pub-id pub-id-type="pmid">21842005</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <mixed-citation publication-type="other">R Core-Team. R: a language and environment for statistical computing. 2017. <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/">https://www.R-project.org/</ext-link>. Accessed 20 Sept 2020.</mixed-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tonetti</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Jepsen</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Clinical efficacy of periodontal plastic surgery procedures: consensus report of Group 2 of the 10th European Workshop on Periodontology</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>Suppl 15</issue>
+                  <fpage>S36</fpage>
+                  <lpage>43</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12219</pub-id>
+                  <?supplied-pmid 24640999?>
+                  <pub-id pub-id-type="pmid">24640999</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sanz</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Simion</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Surgical techniques on periodontal plastic surgery and soft tissue regeneration: consensus report of Group 3 of the 10th European Workshop on Periodontology</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>Suppl 15</issue>
+                  <fpage>S92</fpage>
+                  <lpage>S97</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12215</pub-id>
+                  <?supplied-pmid 24641004?>
+                  <pub-id pub-id-type="pmid">24641004</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wara-aswapati</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitiphat</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Chandrapho</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Rattanayatikul</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Karimbux</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Thickness of palatal masticatory mucosa associated with age</article-title>
+                  <source>J Periodontol</source>
+                  <year>2001</year>
+                  <volume>72</volume>
+                  <issue>10</issue>
+                  <fpage>1407</fpage>
+                  <lpage>1412</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2001.72.10.1407</pub-id>
+                  <?supplied-pmid 11699483?>
+                  <pub-id pub-id-type="pmid">11699483</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Uchida</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kobayashi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Nagao</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Measurement in vivo of masticatory mucosal thickness with 20 MHz B-mode ultrasonic diagnostic equipment</article-title>
+                  <source>J Dent Res</source>
+                  <year>1989</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>95</fpage>
+                  <lpage>100</lpage>
+                  <pub-id pub-id-type="doi">10.1177/00220345890680021501</pub-id>
+                  <?supplied-pmid 2645334?>
+                  <pub-id pub-id-type="pmid">2645334</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Muller</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Heinecke</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Schaller</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Eger</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Masticatory mucosa in subjects with different periodontal phenotypes</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2000</year>
+                  <volume>27</volume>
+                  <issue>9</issue>
+                  <fpage>621</fpage>
+                  <lpage>626</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1600-051x.2000.027009621.x</pub-id>
+                  <?supplied-pmid 10983595?>
+                  <pub-id pub-id-type="pmid">10983595</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Heil</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwindling</surname>
+                      <given-names>FS</given-names>
+                    </name>
+                    <name>
+                      <surname>Jelinek</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Prager</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Lazo Gonzalez</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Determination of the palatal masticatory mucosa thickness by dental MRI: a prospective study analysing age and gender effects</article-title>
+                  <source>Dentomaxillofac Radiol</source>
+                  <year>2018</year>
+                  <volume>47</volume>
+                  <issue>2</issue>
+                  <fpage>20170282</fpage>
+                  <pub-id pub-id-type="doi">10.1259/dmfr.20170282</pub-id>
+                  <?supplied-pmid 28959890?>
+                  <pub-id pub-id-type="pmid">28959890</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tavelli</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Barootchi</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ravidà</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Oh</surname>
+                      <given-names>TJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>HL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>what is the safety zone for palatal soft tissue graft harvesting based on the locations of the greater palatine artery and foramen? A systematic review</article-title>
+                  <source>J Oral Maxillofac Surg</source>
+                  <year>2019</year>
+                  <volume>77</volume>
+                  <issue>2</issue>
+                  <fpage>271.e1</fpage>
+                  <lpage>271.e9</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joms.2018.10.002</pub-id>
+                  <pub-id pub-id-type="pmid">30395825</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cho</surname>
+                      <given-names>KH</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>DS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kim</surname>
+                      <given-names>HJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Histological assessment of the palatal mucosa and greater palatine artery with reference to subepithelial connective tissue grafting</article-title>
+                  <source>Anat Cell Biol</source>
+                  <year>2013</year>
+                  <volume>46</volume>
+                  <issue>3</issue>
+                  <fpage>171</fpage>
+                  <lpage>176</lpage>
+                  <pub-id pub-id-type="doi">10.5115/acb.2013.46.3.171</pub-id>
+                  <?supplied-pmid 24179691?>
+                  <pub-id pub-id-type="pmid">24179691</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bertl</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Pifl</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hirtler</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Rendl</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Nürnberger</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Stavropoulos</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Relative composition of fibrous connective and fatty/glandular tissue in connective tissue grafts depends on the harvesting technique but not the donor site of the hard palate</article-title>
+                  <source>J Periodontol</source>
+                  <year>2015</year>
+                  <volume>86</volume>
+                  <issue>12</issue>
+                  <fpage>1331</fpage>
+                  <lpage>1339</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2015.150346</pub-id>
+                  <?supplied-pmid 26291293?>
+                  <pub-id pub-id-type="pmid">26291293</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Angelopoulos</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Scarfe</surname>
+                      <given-names>WC</given-names>
+                    </name>
+                    <name>
+                      <surname>Farman</surname>
+                      <given-names>AG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparison of maxillofacial CBCT and medical CT</article-title>
+                  <source>Atlas Oral Maxillofac Surg Clin North Am</source>
+                  <year>2012</year>
+                  <volume>20</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>17</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.cxom.2011.12.008</pub-id>
+                  <?supplied-pmid 22365427?>
+                  <pub-id pub-id-type="pmid">22365427</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Horner</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>O'Malley</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Glenny</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Guidelines for clinical use of CBCT: a review</article-title>
+                  <source>Dentomaxillofac Radiol</source>
+                  <year>2015</year>
+                  <volume>44</volume>
+                  <issue>1</issue>
+                  <fpage>20140225</fpage>
+                  <pub-id pub-id-type="doi">10.1259/dmfr.20140225</pub-id>
+                  <?supplied-pmid 25270063?>
+                  <pub-id pub-id-type="pmid">25270063</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hilgenfeld</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Kästel</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Heil</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Rammelsberg</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Heiland</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bendszus</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>High-resolution dental magnetic resonance imaging for planning palatal graft surgery-a clinical pilot study</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <issue>4</issue>
+                  <fpage>462</fpage>
+                  <lpage>470</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12870</pub-id>
+                  <?supplied-pmid 29334405?>
+                  <pub-id pub-id-type="pmid">29334405</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Seidel</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Bergauer</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Lell</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Buder</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>von Wilmowsky</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Dach</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Does formalin fixation influence MSCT/CBCT accuracy?</article-title>
+                  <source>Surg Radiol Anat</source>
+                  <year>2017</year>
+                  <pub-id pub-id-type="doi">10.1007/s00276-017-1908-x</pub-id>
+                  <?supplied-pmid 28828519?>
+                  <pub-id pub-id-type="pmid">28828519</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cicciù</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Fiorillo</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>D’Amico</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Gambino</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Amantia</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Laino</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>3D digital impression systems compared with traditional techniques in dentistry: a recent data systematic review</article-title>
+                  <source>Materials</source>
+                  <year>2020</year>
+                  <volume>13</volume>
+                  <issue>8</issue>
+                  <fpage>1982</fpage>
+                  <pub-id pub-id-type="doi">10.3390/ma13081982</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kong</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Liu</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Digital versus conventional full-arch impressions in linear and 3D accuracy: a systematic review and meta-analysis of in vivo studies</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2022</year>
+                  <pub-id pub-id-type="doi">10.1007/s00784-022-04607-6</pub-id>
+                  <?supplied-pmid 35786783?>
+                  <pub-id pub-id-type="pmid">35786783</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Beretta</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Manfredini</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Poli</surname>
+                      <given-names>PP</given-names>
+                    </name>
+                    <name>
+                      <surname>Tansella</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Maiorana</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Full digital model-free maxillary prosthetic rehabilitation by means of one-piece implants: a proof of concept clinical report with three-years follow up</article-title>
+                  <source>Prosthesis</source>
+                  <year>2022</year>
+                  <volume>4</volume>
+                  <issue>2</issue>
+                  <fpage>202</fpage>
+                  <lpage>212</lpage>
+                  <pub-id pub-id-type="doi">10.3390/prosthesis4020020</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Joda</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Zarone</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferrari</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The complete digital workflow in fixed prosthodontics: a systematic review</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2017</year>
+                  <volume>17</volume>
+                  <issue>1</issue>
+                  <fpage>124</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-017-0415-0</pub-id>
+                  <?supplied-pmid 28927393?>
+                  <pub-id pub-id-type="pmid">28927393</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR53">
+                <label>53.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Michelinakis</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Apostolakis</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Kamposiora</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Papavasiliou</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Özcan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The direct digital workflow in fixed implant prosthodontics: a narrative review</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2021</year>
+                  <volume>21</volume>
+                  <issue>1</issue>
+                  <fpage>37</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-021-01398-2</pub-id>
+                  <?supplied-pmid 33478459?>
+                  <pub-id pub-id-type="pmid">33478459</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR54">
+                <label>54.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nicali</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Pradal</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Brandolini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Mantelli</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Levi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Novel 3D printing method to reinforce implant-supported denture fiberglass as material for implant prosthesis: a pilot study</article-title>
+                  <source>Clin Exp Dent Res</source>
+                  <year>2022</year>
+                  <volume>8</volume>
+                  <issue>3</issue>
+                  <fpage>715</fpage>
+                  <lpage>720</lpage>
+                  <pub-id pub-id-type="doi">10.1002/cre2.568</pub-id>
+                  <?supplied-pmid 35441495?>
+                  <pub-id pub-id-type="pmid">35441495</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR55">
+                <label>55.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fiorillo</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>D’Amico</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Turkina</surname>
+                      <given-names>AY</given-names>
+                    </name>
+                    <name>
+                      <surname>Nicita</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Amoroso</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Risitano</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Endo and exoskeleton: new technologies on composite materials</article-title>
+                  <source>Prosthesis</source>
+                  <year>2020</year>
+                  <volume>2</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.3390/prosthesis2010001</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR56">
+                <label>56.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schmitt</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Brückbauer</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Schlegel</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                    <name>
+                      <surname>Buchbender</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Adler</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Matta</surname>
+                      <given-names>RE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Volumetric soft tissue alterations in the early healing phase after peri-implant soft tissue contour augmentation with a porcine collagen matrix versus the autologous connective tissue graft: a controlled clinical trial</article-title>
+                  <source>J Clin Periodontol</source>
+                  <year>2021</year>
+                  <volume>48</volume>
+                  <issue>1</issue>
+                  <fpage>145</fpage>
+                  <lpage>162</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.13387</pub-id>
+                  <?supplied-pmid 33047372?>
+                  <pub-id pub-id-type="pmid">33047372</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR57">
+                <label>57.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Ramos</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Borges</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Montero</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Correia</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A 3D digital analysis of the hard palate wound healing after free gingival graft harvest: a pilot study in the short term</article-title>
+                  <source>Dent J (Basel)</source>
+                  <year>2022</year>
+                  <volume>10</volume>
+                  <issue>6</issue>
+                  <fpage>109</fpage>
+                  <pub-id pub-id-type="doi">10.3390/dj10060109</pub-id>
+                  <pub-id pub-id-type="pmid">35735651</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

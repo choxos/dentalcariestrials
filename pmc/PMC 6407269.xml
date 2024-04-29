@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:46:52Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:6407269" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:6407269</identifier>
+        <datestamp>2019-03-21</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC6407269</article-id>
+              <article-id pub-id-type="pmcid">PMC6407269</article-id>
+              <article-id pub-id-type="pmc-uid">6407269</article-id>
+              <article-id pub-id-type="pmid">30845960</article-id>
+              <article-id pub-id-type="publisher-id">732</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-019-0732-6</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>The MEOPAeDent trial protocol—an observational study of the Equimolar Mixture of Oxygen and Nitrous Oxide (EMONO) effects in paediatric dentistry</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Prud’homme</surname>
+                    <given-names>Tony</given-names>
+                  </name>
+                  <address>
+                    <email>tony.prudhomme@univ-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dajean-Trutaud</surname>
+                    <given-names>Sylvie</given-names>
+                  </name>
+                  <address>
+                    <email>sylvie.dajean-trutaud@univ-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Rousselet</surname>
+                    <given-names>Morgane</given-names>
+                  </name>
+                  <address>
+                    <email>morgane.rousselet@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Feuillet</surname>
+                    <given-names>Fanny</given-names>
+                  </name>
+                  <address>
+                    <email>fanny.feuillet@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Carpentier-Cheraud</surname>
+                    <given-names>Marjorie</given-names>
+                  </name>
+                  <address>
+                    <email>marjorie.CARPENTIERCHERAUD@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bonnot</surname>
+                    <given-names>Olivier</given-names>
+                  </name>
+                  <address>
+                    <email>olivier.bonnot@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hyon</surname>
+                    <given-names>Isabelle</given-names>
+                  </name>
+                  <address>
+                    <email>isabelle.hyon@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Grall-Bronnec</surname>
+                    <given-names>Marie</given-names>
+                  </name>
+                  <address>
+                    <email>marie.grall@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Lopez-Cazaux</surname>
+                    <given-names>Serena</given-names>
+                  </name>
+                  <address>
+                    <email>serena.lopez-cazaux@univ-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Victorri-Vigneau</surname>
+                    <given-names>Caroline</given-names>
+                  </name>
+                  <address>
+                    <email>caroline.vigneau@chu-nantes.fr</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0472 0371</institution-id><institution-id institution-id-type="GRID">grid.277151.7</institution-id><institution>Faculty of Dental Surgery, Pediatric Dentistry Department, </institution><institution>CHU Nantes, </institution></institution-wrap>1 place Alexis Ricordeau, BP 84215, 44042 Nantes, Cedex 1, France </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.449623.e</institution-id><institution>Université Nantes, </institution></institution-wrap>Nantes, France </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0472 0371</institution-id><institution-id institution-id-type="GRID">grid.277151.7</institution-id><institution>Addictology and Psychiatry Department, </institution><institution>CHU Nantes, </institution></institution-wrap>Nantes, France </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0472 0371</institution-id><institution-id institution-id-type="GRID">grid.277151.7</institution-id><institution>Pharmacology Department – Addictovigilance, </institution><institution>CHU Nantes, </institution></institution-wrap>Nantes, France </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.4817.a</institution-id><institution>UMR 1246 – SPHERE “Methods in Patient-centered outcomes and health research”, </institution><institution>Université Nantes et Tours, </institution></institution-wrap>Nantes, France </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>7</day>
+                <month>3</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>7</day>
+                <month>3</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2019</year>
+              </pub-date>
+              <volume>19</volume>
+              <elocation-id>42</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>31</day>
+                  <month>8</month>
+                  <year>2018</year>
+                </date>
+                <date date-type="accepted">
+                  <day>25</day>
+                  <month>2</month>
+                  <year>2019</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s). 2019</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Many studies were conducted to assess the benefit/risk ratio of EMONO (Equimolar Mixture of Oxygen and Nitrous Oxide) in France before it was authorized for use outside the hospital setting in 2009. The main objective of this project is to evaluate the effects sought and felt by children when EMONO is used in paediatric dentistry. The secondary objectives are to (i) evaluate the appreciation of EMONO by the children, (ii) characterize children who experience both analgesia and anxiolysis, (iii) evaluate children’s appetite for EMONO and characterize children with a high appetite and (iv) evaluate the impact of the difference in practice among the French dental service university hospitals on anxiety. The maintenance of a framework for the safe use of this drug, whose place in dental care is fundamental, is essential. Twelve of the 16 French dental service university hospitals agreed to participate in this study.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">MEOPAeDent is an observational, descriptive, transversal study that aims to evaluate the effects sought and felt by children when EMONO is used in paediatric dentistry. Subjects requiring dental care under EMONO are recruited by 12 French dental service university hospitals. Patients aged from 3 to 15 years are recruited for the study when they visit a dental service of a French university hospital requiring dental care under EMONO. The investigator collects the necessary data from the child’s medical records, from his own observations and from questions posed to the child and his/her parents. A survey is completed at the first and final sessions of dental care under EMONO.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">This study will provide an evaluation of the effects of EMONO on the French paediatric population in need of dental care as well as evaluate the appetite for the use of this substance. The results will first be used to provide additional data that is essential to monitor the use of a product with an authorization to use it outside of hospitals from 2009 in France, confirm its safety for use and justify its framework of application.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par4"><ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link> ID: <ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03453411">NCT03453411</ext-link> registered 2 March 2018.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Equimolar mixture of oxygen and nitrous oxide (EMONO)</kwd>
+                <kwd>Substance-related disorders</kwd>
+                <kwd>Observational study</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Conseil Scientifique Local de l'UFR Odontologie de Nantes</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100007543</institution-id>
+                      <institution>Agence Nationale de Sécurité du Médicament et des Produits de Santé</institution>
+                    </institution-wrap>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2019</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par10">EMONO is an equimolar mixture of oxygen and nitrous oxide available in France for dental care. It has an analgesic effect with a reduction of the perception threshold of different painful stimuli and an anxiolytic effect. It causes modifications in consciousness: patients are relaxed, sedated and less aware of their surroundings. Pulmonary absorption and elimination of nitrous oxide occur very quickly because of its low solubility in blood and tissues, explaining the rapidity of the analgesic effect and quick return to the initial status after discontinuation of inhalation [<xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+              <p id="Par11">Based on the product characteristics summary available in the French government’s public drug database [<ext-link ext-link-type="uri" xlink:href="http://base-donnees-publique.medicaments.gouv.fr/">base-donnees-publique.medicaments.gouv.fr/</ext-link>], EMONO indications in dentistry are dental care for infants, children and adolescents, as well as for anxious and patients with disabilities. Administered in combination with oxygen, it improves the cooperation of patients during anxiety-related or painful medical and paramedical procedures (mild to moderate pain) and offers a short duration per use. EMONO in dental care provides great benefit to patients with behavioural disorders, mental retardation or excessive anxiety. Patient cooperation tends to improve under EMONO and, when not used in conjunction with psychotropic agents [<xref ref-type="bibr" rid="CR6">6</xref>–<xref ref-type="bibr" rid="CR8">8</xref>], the use of EMONO is safe.</p>
+              <p id="Par12">In France, ANSM (French National Agency for Medicines and Health Products Safety) has classified EMONO as a drug known to produce dependency. EMONO obtained its approval in 2001 in France in several indications, particularly in dental care, in hospitals exclusively, for children and patients with anxiety or disability. Its use was considered as very safe in this context [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>]. In 2009, the authorization to use it outside the hospital setting has led to a risk management plan implementation. The Nantes CEIP-A (Centers for the Evaluation of and Information on Drug Dependence) has been entrusted with EMONO supervision. It was shown that nitrous oxide could cause problematic consumption: 31 cases of problematic consumption of nitrous oxide alone or in a mixture with oxygen were reported over a period from 1978 to 2014 [<xref ref-type="bibr" rid="CR11">11</xref>–<xref ref-type="bibr" rid="CR37">37</xref>]. Classical vulnerability factors of addiction have been reported (family context, psychiatric vulnerability). Several problematic consumer groups with different characteristics have been defined: the first group includes users taking pure nitrous oxide for recreational purposes, the second group is characterized as nitrous oxide users taking it for medical purposes, and the third group is characterized as those taking it in the presence of health professionals, mainly dentists using the nitrous oxide/oxygen mixture [<xref ref-type="bibr" rid="CR11">11</xref>–<xref ref-type="bibr" rid="CR37">37</xref>]. However, none of the patients in the ANSM reports were described as those with dependence or abuse due to EMONO use in dental care. The desired effects in patients during EMONO use are relative anxiolysis and analgesia with a preserved state of awakening [<xref ref-type="bibr" rid="CR2">2</xref>].</p>
+              <p id="Par13">The dental service of university hospitals often represent one of the last resorts for dental care at the regional level for patients with limited cooperation because of their disabilities or anxiety. The use of EMONO is often implemented several times for each patient. Indeed, very few dentists nearby use EMONO, leading to a large influx of patients at the university hospital service. However, the authorization to use it outside the hospital setting will lead to an increasing number of dentists using EMONO.</p>
+              <p id="Par14">EMONO in paediatric dental care is particularly useful in which EMONO can be administered as the first psychoactive substance known for its positive effects (euphoria). Health professionals observe children who take EMONO daily. The main objective of this project is to evaluate the effects sought and felt by children when EMONO is used in paediatric dentistry. The secondary objectives are to (i) evaluate the appreciation of EMONO by a child, (ii) characterize children who experience both analgesia and anxiolysis, (iii) evaluate children’s appetite for EMONO and characterize children with high appetite and (iv) evaluate the impact of various product applications among the French dental service university hospitals on anxiety. The maintenance of the framework for the safe use of this drug, which is placed in dental care as fundamental, and the benefit ratio as very favourable, is essential. Twelve French dental service university hospitals have agreed to set up this study.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <sec id="Sec3">
+                <title>Study design</title>
+                <p id="Par15">This observational, descriptive, transversal study aims to evaluate the effects sought and felt by children when EMONO is used in paediatric dentistry. Subjects needing dental care under EMONO were recruited by 12 French dental service university hospitals. Thereafter, the data are collected by practitioner observation, direct interview after dental care under EMONO and using the subject’s medical record.</p>
+                <p id="Par16">This project received the financial support from the French National Agency for Medicines and Health Products Safety (ANSM) as part of the 2017 ‘national call for tender’ and also received funding from the local Scientific Committee of the Faculty of Dental Surgery in Nantes as part of the 2017 call for tender.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Setting of the study</title>
+                <p id="Par17">The Dental Service of Nantes University Hospital, along with the Nantes CEIP-A, is the coordinating investigation centre in charge of the general management, monitoring and coordinating of the project. A consortium was set up with partner dental service university hospitals in charge of coordinating the project at the local level in their research area (dental service university hospitals in Brest, Bordeaux, Toulouse, Lyon, Paris Descartes, Nancy, Lille, Reims, Nice, Marseille and Strasbourg). The dental service university hospitals participating in the study are spread over the metropolitan territories of France. The period of inclusion for each participating dental service university hospital is 12 months, and there is no follow up after the patient’s assessment and his/her final care session.</p>
+                <p id="Par18">For this national multicentric study, a multi-disciplinary steering committee, comprising pharmacologists, dentists, psychiatrists, methodologists, biostatisticians and clinical research staff, was set up to draft the study protocol. Its mission is to ensure the study’s validity in terms of the scientific content and methodology. The leading committee will handle any practical problems occurring during the study and where appropriate, decide on amendments to the protocol. The committee shall meet regularly, and whenever necessary, to approve aspects concerning practical organization and to answer any questions raised during the study.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Participants</title>
+                <sec id="Sec6">
+                  <title>Eligibility criteria</title>
+                  <p id="Par19">The patients are recruited for the study by their dentist when they visit the dental service university hospitals for their dental care under EMONO, according to the following inclusion criteria:<list list-type="bullet"><list-item><p id="Par20">Children aged 3 to 15 years</p></list-item><list-item><p id="Par21">Requiring dental care under EMONO</p></list-item><list-item><p id="Par22">Being able to provide the details to answer the questionnaire of the study</p></list-item><list-item><p id="Par23">Cooperating along with his/her parents and ready to participate in the study</p></list-item></list></p>
+                  <p id="Par24">The exclusion criteria of the study are as follows:</p>
+                  <p id="Par25">Patients are restricted from participation if their dental care can be performed in a vigilant state or involves several important treatments, justifying general anaesthesia. Finally, children who cannot understand the questionnaire will not be allowed to participate.</p>
+                </sec>
+              </sec>
+              <sec id="Sec7">
+                <title>Patient recruitment</title>
+                <p id="Par26">Each dentist from a dental service university hospital participating in the study recruits patients needing dental care under EMONO over a 12-month period. If the patient meets all the inclusion criteria, the dentist asks the child and his or her parents or legal guardian, if he or she wishes to participate in the study, providing clear and appropriate verbal and written information on the study (objectives, scientific interest, and practical procedures).</p>
+                <p id="Par27">Without any delay, the dentist collects the patient’s oral consent (as well as that from at least one of the parents or legal guardians). The lack of delay is due to the design of the study, which has been approved by the Committee for the Protection of Persons (CPP).</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Consent for participation</title>
+                <p id="Par28">At inclusion, the patients receive an information leaflet for their age range, as well as their parents or legal guardian. The investigator will note in the patient’s file that the patient and parents have been orally informed, received the briefing note and gave their oral consent to participate in the research. At least one parent of all children, regardless of the age of the child, must be informed and must consent.</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Ethics statement</title>
+                <p id="Par29">This non-interventional study has been declared to the French Data Protection Body (CNIL) and received a favourable opinion from the Committee for the Protection of Persons. It has also been registered at <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">ClinicalTrials.gov</ext-link>.</p>
+              </sec>
+              <sec id="Sec10">
+                <title>Variables and data measurement</title>
+                <p id="Par30">Data for the analysis are collected in two steps, through the survey completed by the dentist at both the first and final sessions of dental care under EMONO. If the patient requires only one treatment session, only the first part of the questionnaire is completed.</p>
+              </sec>
+              <sec id="Sec11">
+                <title>Survey</title>
+                <p id="Par31">Once the investigator receives oral consent to participate in the research from the patients and at least one of the parents (or legal guardian), the necessary data are collected from the child’s medical records, from his own observations and from questions to the child and his/her parents. A survey is completed at both the first and final sessions of dental care under EMONO.</p>
+                <sec id="Sec12">
+                  <title>Primary endpoint</title>
+                  <p id="Par32">Our primary endpoint, to describe the effects of EMONO that are felt and sought during care during the first and last treatment sessions, will be performed by questioning the patients comprehensively about the presence or absence of each expected effect of EMONO (waking state preserved, no abolition of judgment, relative analgesia, anxiolysis), and each adverse event (slight decrease in consciousness, agitation, anxiety, euphoric effect, nausea or vomiting, sensation distortion) at the first and last treatment sessions. The presence of unexpected “other” effects will also be indicated. When scored as present, all effects will be considered as experienced by the patient.</p>
+                  <p id="Par33">For each effect felt, the patient will be asked about his or her perception of the effect (positive or not).</p>
+                  <p id="Par34">To describe the effects felt and sought with EMONO use, the prevalence of each effect felt will be calculated, and the proportion of patients who felt this effect and found it pleasant (positive) will also be indicated.</p>
+                </sec>
+                <sec id="Sec13">
+                  <title>Secondary endpoints</title>
+                  <p id="Par35">
+                    <italic>Three parameters will be used to evaluate the child’s assessment of EMONO during the first session of care:</italic>
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par36">VAS (Visual analogue scale): the patient marks on the line the point he/she feel represents their perception and eventually their appreciation of contact with EMONO</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par37">Choice of the child with an adapted drug-liking test: the patient will be asked if he/she prefers to exchange the toy that he/she traditionally receives at the end of the care against an EMONO inhalation without care [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par38">The child’s will to continue care in the case of adverse effects</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par39">
+                    <italic>Three parameters will define children who experience both analgesia and anxiolysis during the first session of care:</italic>
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par40">Decreased score on the anxiety scale (Venham modified by Veerkamp) before and after inhalation of EMONO</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par41">Presence of anxiolysis among the effects felt</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par42">Presence of analgesia among the effects felt</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par43">We will estimate the prevalence of children for whom at least one of the first two parameters and the third parameter are present during the same session of EMONO use.</p>
+                  <p id="Par44">
+                    <italic>The parameter “Presence of signs that the child is trying to prolong contact with EMONO” will be used to define patients with a higher appetite for EMONO (shown by patients’ attempt to extend the duration of EMONO use physically or verbally) during the first session of care. The following three parameters will characterize these children:</italic>
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par45">Table answering the questions about the presence of expected effects of EMONO and their perceptions</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par46">Medical history</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par47">Family situation of parents and anxiety of parents [<xref ref-type="bibr" rid="CR40">40</xref>–<xref ref-type="bibr" rid="CR42">42</xref>]</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par48">
+                    <italic>Three parameters will make it possible to evaluate the impact of the difference of practice between the French dental service university hospitals regarding the anxiety during the first and last sessions of care:</italic>
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par49">Decreased score on the anxiety scale (Venham modified by Veerkamp) before and after inhalation of EMONO</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par50">Use of a sedative premedication</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par51">Patient management using closed boxes or open spaces</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par52">The different practices evaluated in the French dental service university hospital will include the use or absence of a sedative premedication and management of the patient in closed or open boxes.</p>
+                  <p id="Par53">The evolution of the EMONO intake between the first and last sessions of care will be evaluated by the existence of an amnesic effect during the last session, tolerance during the history of care (noticed during the last session), difference in the effective dosage between the first and last sessions and the regular concern of the child for EMONO consumption according to the parents during the last session. The difference in EMONO appetite between the first and last sessions will also be recorded.</p>
+                </sec>
+              </sec>
+              <sec id="Sec14">
+                <title>Study size</title>
+                <p id="Par54">The evaluation of the effects sought and felt by children when EMONO is used in paediatric dentistry does not require any sample size calculation. The dental service of Nantes University Hospital manages between 8 and 10 patients eligible for research per week and has a national average of numbers supported by participating dental services.</p>
+                <p id="Par55">This estimate allows a 12-month inclusion potential, which represents between 5000 and 6000 patients. Considering a ratio of one eligible patient out of three to four to include, the recruitment aim is 1300 patients. The period of inclusion was set at 12 months to ensure that the study would be proposed to a maximum of eligible patients.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Statistical methods</title>
+                <p id="Par56">All the evaluation parameters will be subjected to a descriptive analysis. The quantitative variable evaluation parameters will be described using position parameters (mean or median) and dispersion (standard deviation, interquartile range and range). Normality of their distribution will be assessed (normality test and evaluation using the relevant graphic tools). The qualitative variable evaluation parameters will be shown in the form of number and frequency tables for each modality.</p>
+                <p id="Par57">To answer the main objective (description of the effects felt and sought using EMONO), the prevalence of each effect felt will be calculated, and the proportion of patients who felt this effect and found it pleasant (positive) will also be indicated.</p>
+                <p id="Par58">Each criterion to evaluate the EMONO’s assessment by the child will be analysed independently (average for the VAS score, prevalence of drug-liking and continuation of care).</p>
+                <p id="Par59">The prevalence of children who experience both analgesia and anxiolysis will be estimated. A multivariate logistic regression model will be applied to define the associated factors: child/parent socio-demographic characteristics and antecedents.</p>
+                <p id="Par60">The prevalence of children with a higher appetite for EMONO will be estimated. A multivariate logistic regression model will be applied to define the associated factors: socio-demographic child/parent characteristics, medical history, presence of expected EMONO effects and their perceptions.</p>
+                <p id="Par61">The impact of care practices (sedative premedication and closed/open box management) on anxiety will be evaluated using average comparisons (Student’s tests) of the anxiety score before and after the inhalation of EMONO. A comparison will also be made on the difference in the pre- and post-inhalation score.</p>
+                <p id="Par62">The evolution of EMONO intake between the first and last sessions will be described in terms of the prevalence (amnesic effect, tolerance, concern), appetite difference and difference between the effective dosage at the first and last treatment sessions will be calculated.</p>
+              </sec>
+            </sec>
+            <sec id="Sec16">
+              <title>Discussion</title>
+              <p id="Par63">A pilot study was carried out at the Dental Service of Nantes University Hospital, considering most of the parameters that will be used for this national study. It revealed a relatively small number of patients with both anxiolysis and analgesia effects. Sixty-two percent of patients presented an anxiolytic effect, and 40% showed relative analgesia. Both effects were associated in 33% of children. These effects were among the most monitored in patients [<xref ref-type="bibr" rid="CR43">43</xref>].</p>
+              <p id="Par64">Among the 76 patients assessed, 12 attempted to extend the duration of EMONO use (16%), which was considered similar to signalling a higher appetite for the product. After bivariate statistical analysis, none of the variables collected appeared significantly associated with the extension of EMONO use.</p>
+              <p id="Par65">Recruiting patients needing EMONO for dental care will not be a challenge for the partners working on the project. The main objective of this project is to evaluate the effects sought and felt by children when EMONO is used in paediatric dentistry. It does not need a precise number of subjects. On the other hand, being able to characterize patients with a higher appetite for EMONO will require 1291 patients from a subject calculation with an alpha risk of 5%. This calculation was made from the results of the pilot study.</p>
+              <p id="Par66">The purpose of the study is to evaluate the use of EMONO received only at the hospital. In addition to considering elements of the subject’s medical and family histories, this evaluation includes a semi-structured interview with the subject after its consumption. Given the variability in the study population, the interview will be adapted to the child’s or adolescent’s age, maturity and comprehension skills. The subject’s parent or legal guardian may also be questioned in addition to the subject.</p>
+              <p id="Par67">In paediatric dentistry, the use of EMONO in children corresponds in most cases to the first administration of a substance known for its positive effect, euphoria. It seems fundamental to us to evaluate the therapeutic and non-therapeutic effects to better estimate the benefit/risk ratio of the administration. The interest of this evaluation is such that most of the French dental service university hospitals (12/16) responded favourably and wishes to participate in this work. A national study would increase the power and ensure the representativeness of the data collection.</p>
+              <p id="Par68">MEOPAeDent is the first study that proposes to evaluate the appetite for the use of EMONO in the French paediatric population in need of dental care, in addition to evaluate the effects sought and felt by children. We believe that this substance evaluation known for its very important contribution in paediatric dentistry will confirm its safety of use and justify its framework of application.</p>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>ANSM</term>
+                  <def>
+                    <p id="Par5">French National Agency for Medicines and Health Products Safety</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CEIP-A</term>
+                  <def>
+                    <p id="Par6">Centers for the Evaluation of and Information on drug Dependence</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CNIL</term>
+                  <def>
+                    <p id="Par7">French Data Protection Body</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>EMONO</term>
+                  <def>
+                    <p id="Par8">Equimolar Mixture of Oxygen and Nitrous Oxide</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VAS</term>
+                  <def>
+                    <p id="Par9">Visual analogue scale</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+              <sec id="FPar1">
+                <title>Funding</title>
+                <p id="Par69">This project received the financial support from the French National Agency for Medicines and Health Products Safety (ANSM) as part of the 2017 ‘national call for tender’ (130,000 euros). The ANSM is the main sponsor of the study in its entirety and must receive regular reports.</p>
+                <p id="Par70">It also received funding from the local Scientific Committee of the Faculty of Dental Surgery in Nantes as part of the 2017 call for tender (1.500 euros). This funding will be used to analyse the differences in practices among French dental service university hospitals.</p>
+                <p id="Par71">Both financial support sources represent governmental funding.</p>
+              </sec>
+              <sec id="FPar2" sec-type="data-availability">
+                <title>Availability of data and materials</title>
+                <p id="Par72">Not applicable.</p>
+              </sec>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>TP, MGB and CVV conceived the study. TP, SDT, IH, SLC and CVV set up the pilot study and will contribute to the smooth running of the current study. TP, SDT, IH and SLC bring their expertise in paediatric odontology to the analysis of results. OB, MGB and CVV bring their expertise in paediatric psychiatry, addictology and pharmacology to the analysis of results. MR, FF and MCC helped to shape the study and obtain regulatory approvals. All authors made substantial contributions to the conception and design of the study. All the authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="COI-statement">
+              <sec id="FPar3">
+                <title>Ethics approval and consent to participate</title>
+                <p>This non-interventional study has been declared to the French Data Protection Body (CNIL) and received a favourable opinion from a Committee for the Protection of Persons.</p>
+                <p>At inclusion, the patients receive an information leaflet for their age range, as well as the parents or legal guardian. The investigator will note in the patient’s file that he/she and the parents have been orally informed, received the briefing note and provided their oral consent to participate in the research. At least one parent of all children, regardless of the age of the child, must be informed and must consent.</p>
+              </sec>
+              <sec id="FPar4">
+                <title>Consent for publication</title>
+                <p>Not applicable.</p>
+              </sec>
+              <sec id="FPar5">
+                <title>Competing interests</title>
+                <p>The authors declare that they have no competing interests.</p>
+              </sec>
+              <sec id="FPar6">
+                <title>Publisher’s Note</title>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </sec>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hopkins</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide: a unique drug of continuing importance for anaesthesia</article-title>
+                  <source>Best Pract Res Clin Anaesthesiol</source>
+                  <year>2005</year>
+                  <volume>19</volume>
+                  <issue>3</issue>
+                  <fpage>381</fpage>
+                  <lpage>389</lpage>
+                  <?supplied-pmid 16013688?>
+                  <pub-id pub-id-type="pmid">16013688</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wilson</surname>
+                      <given-names>KE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Overview of paediatric dental sedation: 2. Nitrous oxide/oxygen inhalation sedation</article-title>
+                  <source>Dent Update.</source>
+                  <year>2013</year>
+                  <volume>40</volume>
+                  <issue>10</issue>
+                  <fpage>822</fpage>
+                  <lpage>824</lpage>
+                  <?supplied-pmid 24597026?>
+                  <pub-id pub-id-type="pmid">24597026</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brunick</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Clark</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide and oxygen sedation: an update</article-title>
+                  <source>Dent Assist</source>
+                  <year>2013</year>
+                  <volume>82</volume>
+                  <issue>4</issue>
+                  <fpage>12</fpage>
+                  <?supplied-pmid 24003604?>
+                  <pub-id pub-id-type="pmid">24003604</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Craig</surname>
+                      <given-names>DC</given-names>
+                    </name>
+                    <name>
+                      <surname>Wildsmith</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Conscious sedation for dentistry: an update</article-title>
+                  <source>Br Dent J</source>
+                  <year>2007</year>
+                  <volume>203</volume>
+                  <issue>11</issue>
+                  <fpage>629</fpage>
+                  <lpage>631</lpage>
+                  <?supplied-pmid 18065980?>
+                  <pub-id pub-id-type="pmid">18065980</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Holroyd</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts</surname>
+                      <given-names>GJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inhalation sedation with nitrous oxide: a review</article-title>
+                  <source>Dent Update</source>
+                  <year>2000</year>
+                  <volume>27</volume>
+                  <issue>3</issue>
+                  <fpage>141</fpage>
+                  <?supplied-pmid 11218285?>
+                  <pub-id pub-id-type="pmid">11218285</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hennequin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Collado</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Faulks</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Koscielny</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Onody</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Nicolas</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A clinical trial of efficacy and safety of inhalation sedation with a 50% nitrous oxide/oxygen premix (Kalinox) in general practice</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2012</year>
+                  <volume>16</volume>
+                  <issue>2</issue>
+                  <fpage>633</fpage>
+                  <lpage>642</lpage>
+                  <?supplied-pmid 22186944?>
+                  <pub-id pub-id-type="pmid">22186944</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Annequin</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Carbajal</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Chauvin</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gall</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Tourniaire</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Murat</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Fixed 50% nitrous oxide oxygen mixture for painful procedures: a French survey</article-title>
+                  <source>Pediatrics.</source>
+                  <year>2000</year>
+                  <volume>105</volume>
+                  <issue>4</issue>
+                  <fpage>E47</fpage>
+                  <?supplied-pmid 10742368?>
+                  <pub-id pub-id-type="pmid">10742368</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dohrn</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Lichtor</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                    <name>
+                      <surname>Coalson</surname>
+                      <given-names>DW</given-names>
+                    </name>
+                    <name>
+                      <surname>Uitvlugt</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>de Wit</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Zacny</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reinforcing effects of extended inhalation of nitrous oxide in humans</article-title>
+                  <source>Drug Alcohol Depend</source>
+                  <year>1993</year>
+                  <volume>31</volume>
+                  <issue>3</issue>
+                  <fpage>265</fpage>
+                  <lpage>280</lpage>
+                  <?supplied-pmid 8462415?>
+                  <pub-id pub-id-type="pmid">8462415</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Onody</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Gil</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Hennequin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Safety of inhalation of a 50% nitrous oxide/oxygen premix: a prospective survey of 35 828 administrations</article-title>
+                  <source>Drug Saf</source>
+                  <year>2006</year>
+                  <volume>29</volume>
+                  <issue>7</issue>
+                  <fpage>633</fpage>
+                  <lpage>640</lpage>
+                  <?supplied-pmid 16808555?>
+                  <pub-id pub-id-type="pmid">16808555</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Collado</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Nicolas</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Faulks</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Tardieu</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Manière</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Droz</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Onody</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Hennequin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of safe and effective administration of nitrous oxide after a postgraduate training course</article-title>
+                  <source>BMC Clin Pharmacol</source>
+                  <year>2008</year>
+                  <volume>8</volume>
+                  <fpage>3</fpage>
+                  <?supplied-pmid 18547418?>
+                  <pub-id pub-id-type="pmid">18547418</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Hsu</surname>
+                      <given-names>YD</given-names>
+                    </name>
+                    <name>
+                      <surname>Lin</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Spinal myoclonus in subacute combined degeneration caused by nitrous oxide intoxication</article-title>
+                  <source>Acta Neurol Taiwanica</source>
+                  <year>2007</year>
+                  <volume>16</volume>
+                  <issue>2</issue>
+                  <fpage>102</fpage>
+                  <lpage>105</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Winek</surname>
+                      <given-names>CL</given-names>
+                    </name>
+                    <name>
+                      <surname>Wahba</surname>
+                      <given-names>WW</given-names>
+                    </name>
+                    <name>
+                      <surname>Rozin</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Accidental death by nitrous oxide inhalation</article-title>
+                  <source>Forensic Sci Int</source>
+                  <year>1995</year>
+                  <volume>73</volume>
+                  <issue>2</issue>
+                  <fpage>139</fpage>
+                  <lpage>141</lpage>
+                  <?supplied-pmid 7797187?>
+                  <pub-id pub-id-type="pmid">7797187</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Waters</surname>
+                      <given-names>MF</given-names>
+                    </name>
+                    <name>
+                      <surname>Kang</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Mazziotta</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>DeGiorgio</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide inhalation as a cause of cervical myelopathy</article-title>
+                  <source>Acta Neurol Scand</source>
+                  <year>2005</year>
+                  <volume>112</volume>
+                  <issue>4</issue>
+                  <fpage>270</fpage>
+                  <lpage>272</lpage>
+                  <?supplied-pmid 16146499?>
+                  <pub-id pub-id-type="pmid">16146499</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wagner</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Clark</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Wesche</surname>
+                      <given-names>DL</given-names>
+                    </name>
+                    <name>
+                      <surname>Doedens</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Lloyd</surname>
+                      <given-names>AW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Asphyxial deaths from the recreational use of nitrous oxide</article-title>
+                  <source>J Forensic Sci</source>
+                  <year>1992</year>
+                  <volume>37</volume>
+                  <issue>4</issue>
+                  <fpage>1008</fpage>
+                  <lpage>1015</lpage>
+                  <?supplied-pmid 1506823?>
+                  <pub-id pub-id-type="pmid">1506823</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Waclawik</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Luzzio</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Juhasz-Pocsine</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamilton</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Myeloneuropathy from nitrous oxide abuse: unusually high methylmalonic acid and homocysteine levels</article-title>
+                  <source>WMJ.</source>
+                  <year>2003</year>
+                  <volume>102</volume>
+                  <issue>4</issue>
+                  <fpage>43</fpage>
+                  <lpage>45</lpage>
+                  <?supplied-pmid 12967021?>
+                  <pub-id pub-id-type="pmid">12967021</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Temple</surname>
+                      <given-names>WA</given-names>
+                    </name>
+                    <name>
+                      <surname>Beasley</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                    <name>
+                      <surname>Baker</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide abuse from whipped cream dispenser chargers</article-title>
+                  <source>N Z Med J</source>
+                  <year>1997</year>
+                  <volume>110</volume>
+                  <issue>1050</issue>
+                  <fpage>322</fpage>
+                  <lpage>323</lpage>
+                  <?supplied-pmid 9315037?>
+                  <pub-id pub-id-type="pmid">9315037</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Suruda</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>McGlothlin</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Fatal abuse of nitrous oxide in the workplace</article-title>
+                  <source>J Occup Med</source>
+                  <year>1990</year>
+                  <volume>32</volume>
+                  <issue>8</issue>
+                  <fpage>682</fpage>
+                  <lpage>684</lpage>
+                  <?supplied-pmid 2401921?>
+                  <pub-id pub-id-type="pmid">2401921</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sterman</surname>
+                      <given-names>AB</given-names>
+                    </name>
+                    <name>
+                      <surname>Coyle</surname>
+                      <given-names>PK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Subacute toxic delirium following nitrous oxide abuse</article-title>
+                  <source>Arch Neurol</source>
+                  <year>1983</year>
+                  <volume>40</volume>
+                  <issue>7</issue>
+                  <fpage>446</fpage>
+                  <lpage>447</lpage>
+                  <?supplied-pmid 6860185?>
+                  <pub-id pub-id-type="pmid">6860185</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shulman</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Geraghty</surname>
+                      <given-names>TJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Tadros</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A case of unusual substance abuse causing myeloneuropathy</article-title>
+                  <source>Spinal Cord</source>
+                  <year>2007</year>
+                  <volume>45</volume>
+                  <issue>4</issue>
+                  <fpage>314</fpage>
+                  <lpage>317</lpage>
+                  <?supplied-pmid 16896338?>
+                  <pub-id pub-id-type="pmid">16896338</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sethi</surname>
+                      <given-names>NK</given-names>
+                    </name>
+                    <name>
+                      <surname>Mullin</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Torgovnick</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Capasso</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide "whippit" abuse presenting with cobalamin responsive psychosis</article-title>
+                  <source>J Med Toxicol</source>
+                  <year>2006</year>
+                  <volume>2</volume>
+                  <issue>2</issue>
+                  <fpage>71</fpage>
+                  <lpage>74</lpage>
+                  <?supplied-pmid 18072118?>
+                  <pub-id pub-id-type="pmid">18072118</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sahenk</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Mendell</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <name>
+                      <surname>Couri</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Nachtman</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Polyneuropathy from inhalation of N2O cartridges through a whipped-cream dispenser</article-title>
+                  <source>Neurology.</source>
+                  <year>1978</year>
+                  <volume>28</volume>
+                  <issue>5</issue>
+                  <fpage>485</fpage>
+                  <lpage>487</lpage>
+                  <?supplied-pmid 205815?>
+                  <pub-id pub-id-type="pmid">205815</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Richardson</surname>
+                      <given-names>PG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Peripheral neuropathy following nitrous oxide abuse</article-title>
+                  <source>Emerg Med Australas</source>
+                  <year>2010</year>
+                  <volume>22</volume>
+                  <issue>1</issue>
+                  <fpage>88</fpage>
+                  <lpage>90</lpage>
+                  <?supplied-pmid 20152009?>
+                  <pub-id pub-id-type="pmid">20152009</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nevins</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Neuropathy after nitrous oxide abuse</article-title>
+                  <source>JAMA.</source>
+                  <year>1980</year>
+                  <volume>244</volume>
+                  <issue>20</issue>
+                  <fpage>2264</fpage>
+                  <?supplied-pmid 6253695?>
+                  <pub-id pub-id-type="pmid">6253695</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Martinez</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>McCarthy</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Patel</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide "whippit" abuse presenting as clinical B12 deficiency and ataxia</article-title>
+                  <source>Am J Emerg Med</source>
+                  <year>2004</year>
+                  <volume>22</volume>
+                  <issue>2</issue>
+                  <fpage>124</fpage>
+                  <?supplied-pmid 15011232?>
+                  <pub-id pub-id-type="pmid">15011232</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Layzer</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                    <name>
+                      <surname>Fishman</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Schafer</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Neuropathy following abuse of nitrous oxide</article-title>
+                  <source>Neurology.</source>
+                  <year>1978</year>
+                  <volume>28</volume>
+                  <issue>5</issue>
+                  <fpage>504</fpage>
+                  <lpage>506</lpage>
+                  <?supplied-pmid 205816?>
+                  <pub-id pub-id-type="pmid">205816</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Layzer</surname>
+                      <given-names>RB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Myeloneuropathy after prolonged exposure to nitrous oxide</article-title>
+                  <source>Lancet.</source>
+                  <year>1978</year>
+                  <volume>2</volume>
+                  <issue>8102</issue>
+                  <fpage>1227</fpage>
+                  <lpage>1230</lpage>
+                  <?supplied-pmid 82736?>
+                  <pub-id pub-id-type="pmid">82736</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Iwata</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>O'Keefe</surname>
+                      <given-names>GB</given-names>
+                    </name>
+                    <name>
+                      <surname>Karanas</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Neurologic problems associated with chronic nitrous oxide abuse in a non-healthcare worker</article-title>
+                  <source>Am J Med Sci</source>
+                  <year>2001</year>
+                  <volume>322</volume>
+                  <issue>3</issue>
+                  <fpage>173</fpage>
+                  <lpage>174</lpage>
+                  <?supplied-pmid 11570786?>
+                  <pub-id pub-id-type="pmid">11570786</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hwang</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Himel</surname>
+                      <given-names>HN</given-names>
+                    </name>
+                    <name>
+                      <surname>Edlich</surname>
+                      <given-names>RF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Frostbite of the face after recreational misuse of nitrous oxide</article-title>
+                  <source>Burns.</source>
+                  <year>1996</year>
+                  <volume>22</volume>
+                  <issue>2</issue>
+                  <fpage>152</fpage>
+                  <lpage>153</lpage>
+                  <?supplied-pmid 8634126?>
+                  <pub-id pub-id-type="pmid">8634126</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gutmann</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnsen</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide-induced myeloneuropathy: report of cases</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>1981</year>
+                  <volume>103</volume>
+                  <issue>2</issue>
+                  <fpage>239</fpage>
+                  <lpage>241</lpage>
+                  <?supplied-pmid 6943187?>
+                  <pub-id pub-id-type="pmid">6943187</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Garbaz</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Mispelaere</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Boutemy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Jounieaux</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pneumothorax following recreational inhalation of nitrous oxide</article-title>
+                  <source>Rev Mal Respir</source>
+                  <year>2007</year>
+                  <volume>24</volume>
+                  <issue>5</issue>
+                  <fpage>622</fpage>
+                  <lpage>624</lpage>
+                  <?supplied-pmid 17519814?>
+                  <pub-id pub-id-type="pmid">17519814</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Diamond</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Diamond</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Freedman</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>FP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>"whippets"-induced cobalamin deficiency manifesting as cervical myelopathy</article-title>
+                  <source>J Neuroimaging</source>
+                  <year>2004</year>
+                  <volume>14</volume>
+                  <issue>3</issue>
+                  <fpage>277</fpage>
+                  <lpage>280</lpage>
+                  <?supplied-pmid 15228771?>
+                  <pub-id pub-id-type="pmid">15228771</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chadly</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Marc</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Barres</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Durigon</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Suicide by nitrous oxide poisoning</article-title>
+                  <source>Am J Forensic Med Pathol</source>
+                  <year>1989</year>
+                  <volume>10</volume>
+                  <issue>4</issue>
+                  <fpage>330</fpage>
+                  <lpage>331</lpage>
+                  <?supplied-pmid 2589295?>
+                  <pub-id pub-id-type="pmid">2589295</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cartner</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sinnott</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Silburn</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Paralysis caused by "nagging"</article-title>
+                  <source>Med J Aust</source>
+                  <year>2007</year>
+                  <volume>187</volume>
+                  <issue>6</issue>
+                  <fpage>366</fpage>
+                  <lpage>367</lpage>
+                  <?supplied-pmid 17874987?>
+                  <pub-id pub-id-type="pmid">17874987</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Butzkueven</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>King</surname>
+                      <given-names>JO</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nitrous oxide myelopathy in an abuser of whipped cream bulbs</article-title>
+                  <source>J Clin Neurosci</source>
+                  <year>2000</year>
+                  <volume>7</volume>
+                  <issue>1</issue>
+                  <fpage>73</fpage>
+                  <lpage>75</lpage>
+                  <?supplied-pmid 10847659?>
+                  <pub-id pub-id-type="pmid">10847659</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brett</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Myeloneuropathy from whipped cream bulbs presenting as conversion disorder</article-title>
+                  <source>Aust N Z J Psychiatry</source>
+                  <year>1997</year>
+                  <volume>31</volume>
+                  <issue>1</issue>
+                  <fpage>131</fpage>
+                  <lpage>132</lpage>
+                  <?supplied-pmid 9088497?>
+                  <pub-id pub-id-type="pmid">9088497</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Blanco</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Peters</surname>
+                      <given-names>HA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Myeloneuropathy and macrocytosis associated with nitrous oxide abuse</article-title>
+                  <source>Arch Neurol</source>
+                  <year>1983</year>
+                  <volume>40</volume>
+                  <issue>7</issue>
+                  <fpage>416</fpage>
+                  <lpage>418</lpage>
+                  <?supplied-pmid 6305315?>
+                  <pub-id pub-id-type="pmid">6305315</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <mixed-citation publication-type="other">Alt RS, Morrissey RP, Gang MA, Hoffman RS, Schaumburg HH. Severe myeloneuropathy from acute high-dose nitrous oxide (N(2)O) abuse. J Emerg Med. 2011;41(4):378–80.</mixed-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <mixed-citation publication-type="other">Evans SM, Funderburk FR, Griffiths RR. Zolpidem and triazolam in humans: behavioral and subjective effects and abuse liability. J Pharmacol Exp Ther. 1990;255(3):1246–55.</mixed-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Griffiths</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Bigelow</surname>
+                      <given-names>GE</given-names>
+                    </name>
+                    <name>
+                      <surname>Ator</surname>
+                      <given-names>NA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Principles of initial experimental drug abuse liability assessment in humans</article-title>
+                  <source>Drug Alcohol Depend</source>
+                  <year>2003</year>
+                  <volume>70</volume>
+                  <issue>3 Suppl</issue>
+                  <fpage>S41</fpage>
+                  <lpage>S54</lpage>
+                  <?supplied-pmid 12759196?>
+                  <pub-id pub-id-type="pmid">12759196</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Weaver</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Schofield</surname>
+                      <given-names>TJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mediation and moderation of divorce effects on children's behavior problems</article-title>
+                  <source>J Fam Psychol</source>
+                  <year>2015</year>
+                  <volume>29</volume>
+                  <issue>1</issue>
+                  <fpage>39</fpage>
+                  <lpage>48</lpage>
+                  <?supplied-pmid 25419913?>
+                  <pub-id pub-id-type="pmid">25419913</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koskenvuo</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Koskenvuo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Childhood adversities predict strongly the use of psychotropic drugs in adulthood: a population-based cohort study of 24,284 Finns</article-title>
+                  <source>J Epidemiol Community Health</source>
+                  <year>2015</year>
+                  <volume>69</volume>
+                  <issue>4</issue>
+                  <fpage>354</fpage>
+                  <lpage>360</lpage>
+                  <?supplied-pmid 25538256?>
+                  <pub-id pub-id-type="pmid">25538256</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lara</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Crego</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Romero-Maroto</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Emotional contagion of dental fear to children: the fathers' mediating role in parental transfer of fear</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2012</year>
+                  <volume>22</volume>
+                  <issue>5</issue>
+                  <fpage>324</fpage>
+                  <lpage>330</lpage>
+                  <?supplied-pmid 22092785?>
+                  <pub-id pub-id-type="pmid">22092785</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <mixed-citation publication-type="other">Prud’homme T, Nizard J, Dajean-Trutaud S, Grall-Bronnec M, Victorri-Vigneau C. Interest of nitrous oxide as an analgesic in dental care. Poster on the World Congress on Pain 2016 (Yokohama).</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

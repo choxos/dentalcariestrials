@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:41:51Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8642765" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8642765</identifier>
+        <datestamp>2021-12-06</datestamp>
+        <setSpec>trials</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Trials</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Trials</journal-id>
+              <journal-title-group>
+                <journal-title>Trials</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1745-6215</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8642765</article-id>
+              <article-id pub-id-type="pmcid">PMC8642765</article-id>
+              <article-id pub-id-type="pmc-uid">8642765</article-id>
+              <article-id pub-id-type="pmid">34863260</article-id>
+              <article-id pub-id-type="publisher-id">5828</article-id>
+              <article-id pub-id-type="doi">10.1186/s13063-021-05828-y</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Study protocol for a randomized clinical trial to evaluate the effect of the use of Xylitol gum in the prevention of caries lesions in children living in Ladakh—the <italic>Ca</italic>ries <italic>Pre</italic>vention <italic>X</italic>ylitol in <italic>Ch</italic>ildren (CaPreXCh) trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Cagetti</surname>
+                    <given-names>Maria Grazia</given-names>
+                  </name>
+                  <address>
+                    <email>maria.cagetti@unimi.it</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Cocco</surname>
+                    <given-names>Fabio</given-names>
+                  </name>
+                  <address>
+                    <email>dr.fabiococco@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Calzavara</surname>
+                    <given-names>Ezio</given-names>
+                  </name>
+                  <address>
+                    <email>ezio.calzavara@studiocalzavara.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Augello</surname>
+                    <given-names>Davide</given-names>
+                  </name>
+                  <address>
+                    <email>davideaugello@hotmail.it</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Zangpoo</surname>
+                    <given-names>Phunchok</given-names>
+                  </name>
+                  <address>
+                    <email>xangpo@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8573-485X</contrib-id>
+                  <name>
+                    <surname>Campus</surname>
+                    <given-names>Guglielmo</given-names>
+                  </name>
+                  <address>
+                    <email>guglielmo.campus@zmk.unibe.ch</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.4708.b</institution-id><institution-id institution-id-type="ISNI">0000 0004 1757 2822</institution-id><institution>Department of Biomedical, Surgical and Dental Sciences, </institution><institution>University of Milan, </institution></institution-wrap>Via Beldiletto 1, 20142 Milan, Italy </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.11450.31</institution-id><institution-id institution-id-type="ISNI">0000 0001 2097 9138</institution-id><institution>Department of Medicine, Surgery and Experimental Sciences, School of Dentistry, </institution><institution>University of Sassari, </institution></institution-wrap>Viale San Pietro, 07100 Sassari, Italy </aff>
+                <aff id="Aff3"><label>3</label>Italian Association of Dentists (ANDI), Rome, Italy </aff>
+                <aff id="Aff4"><label>4</label>Community Health Center, Dental Service, Padum, Ladakh, India </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.5734.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 0726 5157</institution-id><institution>Department of Restorative, Preventive and Pediatric Dentistry, </institution><institution>University of Bern, </institution></institution-wrap>Freiburgstrasse 7, 3010 Bern, CH Switzerland </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.448878.f</institution-id><institution-id institution-id-type="ISNI">0000 0001 2288 8774</institution-id><institution>Department of Pediatric, Preventive Dentistry and Orthodontics, School of Dentistry, </institution><institution>Sechenov University, 119, </institution></institution-wrap>Moscow, 119991 Russia </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>4</day>
+                <month>12</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>4</day>
+                <month>12</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2021</year>
+              </pub-date>
+              <volume>22</volume>
+              <elocation-id>871</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>5</day>
+                  <month>6</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>13</day>
+                  <month>11</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Xylitol use is reported to be able to reduce dental plaque amount and cariogenic bacteria and, as a consequence, the caries increment. Only few data on the oral health of Ladakh’s population are available. The aim of the present protocol will be to record the caries prevalence of primary and permanent molars of schoolchildren living in Ladakh and to implement a school-based Xylitol programme, named the <italic>Ca</italic>ries <italic>Pre</italic>vention <italic>X</italic>ylitol in <italic>Ch</italic>ildren (CaPreXCh) trial, using chewing gums.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">The protocol is designed as a triple-blind randomized, controlled, parallel-group clinical trial in children aged 5–14 years. The study should have been carried out from August 2021 to August 2024 in Zanskar Valley (Ladakh), but the COVID-19 pandemic does not allow today to make predictions on the exact start. Participants will be randomly allocated into two groups: subjects who will receive a chewing gum with Xylitol (70% w/v) as only sweetener, and those who will receive a sugared chewing gum containing Maltitol (23% w/v). The subjects will be instructed to chew a total of 6 pellets for 5 min divided into 3 intakes a day (2 in the morning, 2 after the midday meal and 2 in the afternoon) for one school year. Clinical examination will comprise an oral examination in which caries index (ICDAS scores), bleeding on probing and plaque pH evaluation after sucrose challenge will be recorded at baseline (<italic>t</italic><sub>0</sub>); the clinical examination will be repeated after 12 months since the beginning of the chewing gum administration period (<italic>t</italic><sub>1</sub>), after another 12-month period (<italic>t</italic><sub>2</sub>) and finally after further 12 months (<italic>t</italic><sub>3</sub>) (24 months from the end of the chewing gum use). The primary outcome will be the caries increment measured both at enamel and dentinal levels on primary and permanent molars. Data analysis will be conducted through Kaplan-Meyer graphs to evaluate caries increment. A comparison of the methods will be carried out with Cox regression with shared frailty. The net caries increment for initial, moderate and severe caries levels, using ICDAS (Δ-initial, Δ-moderate and Δ-severe), will be calculated.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">This trial will be the first trial conducted in India assessing the efficacy of a school-based caries preventive programme through the use of chewing gum containing only Xylitol as a sweetener. The findings could help strengthen the evidence for the efficacy of Xylitol use in community-based caries prevention programmes in children.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par4">Clinical <ext-link ext-link-type="uri" xlink:href="http://trials.gov">trials.gov</ext-link><ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/history/NCT04420780?V_1=View">NCT04420780</ext-link>. Registered on June 9, 2020</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s13063-021-05828-y.</p>
+                </sec>
+              </abstract>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par11">Ladakh is a region administered by India, covering an area slightly larger than Croatia; it is part of the larger region of Kashmir and Jammu, which has been the subject of dispute between India, Pakistan and China since 1947. The Indian Government reports Ladakh to be one of the districts that are below health service and condition standards [<xref ref-type="bibr" rid="CR1">1</xref>]. The complex terrain and the high altitude, above 9000 ft, is responsible for the cold weather, a limited diet, a limited availability of drinking water and the poor socioeconomic conditions, factors affecting the population’s wellbeing [<xref ref-type="bibr" rid="CR2">2</xref>–<xref ref-type="bibr" rid="CR4">4</xref>].</p>
+              <p id="Par12">The Italian National Association of Dentists Foundation (ANDI Foundation) has among its main aims that of improving the quality of life of populations with socioeconomic inequalities in various parts of the world, as the population living in the Zanskar Valley of Ladakh. Dental care is currently limited to small dental clinics, as at the medical centre in Padum (CHC, community health centre). During summertime, when the valley is accessible, teams of volunteers from the Italian National Dentistry Association (ANDI) Foundation work as dentists at the Padum’s facility and promote oral health in schools.</p>
+              <p id="Par13">Oral health data on the population living in Ladakh are poor. A recent survey performed on schoolchildren living in Ladakh showed that caries was almost ubiquitarian with only 10% of caries-free children [<xref ref-type="bibr" rid="CR5">5</xref>]. Caries severity, in both primary and permanent dentitions, was statistically significantly related to gender, waist circumference, body mass index (BMI), oral hygiene frequency and self-reported chewing problems. An increasing relative risk for caries in permanent dentition compared to caries-free subjects was observed in children with a low BMI [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+              <p id="Par14">The frequent intake of fermentable carbohydrates with the diet favours a high plaque cariogenicity, increasing the possibility of demineralization of enamel and dentin; the acidic environment of the plaque in turn promotes the growth of cariogenic bacteria, further increasing the caries risk [<xref ref-type="bibr" rid="CR6">6</xref>]. As a consequence, different preventive approaches of caries prevention have focused on the reduction of sugar intake and its replacement with non-fermentable sweeteners, such as Xylitol. Polyols were proposed as an anti-caries agent since the 1970s, delivered mostly through chewing gum. Xylitol-based caries prevention programmes have been carried out in children and adults, showing the capacity of the polyol in reducing caries risk factors and caries incidence [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>]. An advantage of using Xylitol in caries prevention programmes is that it does not require specifically trained personnel for its administration, since it can be easily given both at home by parents and at school by teachers even in less served areas of the earth.</p>
+              <p id="Par15">Although encouraging results were obtained in children in ten RCT studies, the quality of evidence was rated as very low [<xref ref-type="bibr" rid="CR10">10</xref>], calling for the need of well-conducted and methodological sound trials. Moreover, the use of Xylitol for caries control is considered a preventive method that might encounter dietary-cultural obstacles, especially in countries where polyol and or chewing gum use are not frequently consumed, and this aspect needs also to be further investigated.</p>
+              <p id="Par16">Recently, a chewing gum sweetened with Xylitol only was proposed. A preliminary study showed that this product is able to increase significantly the Xylitol concentration in saliva compared to the level obtained using a chewing gum containing different polyols. Furthermore, the chewing gum also demonstrated to have the capacity of reducing bacterial strains related to caries and periodontal disease [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+              <p id="Par17">The aim of the present protocol will be to register the caries prevalence of schoolchildren living in Ladakh and to implement a school-based Xylitol programme using chewing gums in order to reduce caries incidence.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <sec id="Sec3">
+                <title>Trial design</title>
+                <p id="Par18">This is the third and final version of the protocol (edited on the 15th of May 2021). A superiority trial is designed to detect a difference between treatments as a triple-blind randomized, controlled, parallel-group clinical trial. Two groups will be compared: subjects who will receive a Xylitol chewing gum with the polyol as the only sweetener (70% w/v), and those who will receive sugared gum containing a 23% (w/v) Maltitol. The flowchart of the study design is displayed in Fig. <xref rid="Fig1" ref-type="fig">1</xref>.
+<fig id="Fig1"><label>Fig. 1</label><caption><p>The flowchart of the study design</p></caption><graphic xlink:href="13063_2021_5828_Fig1_HTML" id="MO1"/></fig></p>
+                <p id="Par19">The investigation will have an experimental period of one school year (approximately 9 months in total). The study will gain the approval of all the schools’ authorities. Due to language problems and the low literacy rate of the population, parents’ or guardians’ verbal approval will be obtained for children’s participation.</p>
+                <p id="Par20">The trial—Caries Prevention Xylitol in Children (CaPreXCh)—was registered with ClinicalTrial.gov (NCT04420780) and is currently in the no-recruiting phase. The Standard Protocol Items for Clinical Trials (SPIRIT) was used to guide the present protocol as detailed in online supplementary appendix (Additional file <xref rid="MOESM1" ref-type="media">1</xref>).</p>
+                <p id="Par21">The study should have been carried out from August 2021 to August 2024 in Zanskar Valley (Ladakh), but due to the persistence of the COVID-19 pandemic, it is not possible to predict the real beginning of the trial.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Participants, interventions and outcomes</title>
+                <sec id="Sec5">
+                  <title>Setting</title>
+                  <p id="Par22">The study will be conducted in the Zanskar Valley (Ladakh). School classes of subjects aged 5–14 years old will be randomly selected from a list of classes in the selected schools.</p>
+                  <p id="Par23">In 2018, the total schoolchildren population in the Zanskar Valley aged 5–17 years amounted to 2407 children.</p>
+                </sec>
+                <sec id="Sec6">
+                  <title>Eligibility: inclusion and exclusion criteria</title>
+                  <p id="Par24">The inclusion criteria will consider the following:</p>
+                  <p id="Par25">a) To be 5–14 years old</p>
+                  <p id="Par26">b) To be in good general health</p>
+                  <p id="Par27">The exclusion criteria will consider the following:</p>
+                  <p id="Par28">a) Children who refuse to participate in the research; parents/guardians who refuse the participation of their children to the trial</p>
+                  <p id="Par29">b) Children who present systemic conditions or chronic diseases that require differentiated care and follow-up</p>
+                </sec>
+                <sec id="Sec7">
+                  <title>Preliminary epidemiological survey</title>
+                  <p id="Par30">A team of four dentists received training to diagnose caries lesions using the WHO-DMFT index for permanent teeth and the dmft for primary teeth. The team received training, and inter-examiner reliability was assessed before the start of the study; sensitivity, specificity, percentage agreement and kappa statistics were recorded. Inter-examiner reliability ranged from 0.75 to 0.84 (K-Cohen) for sound teeth and from 0.82 to 0.88 for caries lesions. Intra-examiner reliability ranged from 0.82 to 0.90 for sound teeth and from 0.84 to 0.91 for caries lesions. Dental caries prevalence (dt/DT) and severity (number of lesions) were recorded for caries at the dentinal lesion level [<xref ref-type="bibr" rid="CR12">12</xref>]. Every subject was examined using a plain mirror (Hahnenkratt, Königsbach, Germany) and the WHO CPI ballpoint probe (Asa-Dental, Milan, Italy), under standard light. No bitewing radiographs or fibre-optic trans-illumination were used.</p>
+                  <p id="Par31">An ad hoc prepared questionnaire assessed general health, eating habits, oral hygiene and the self-perception of oral conditions, based on previous surveys [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR13">13</xref>]. The height (cm) and the weight (kg) were measured and the body mass index (BMI) was calculated. The waist circumference was also measured.</p>
+                  <p id="Par32">Caries was almost ubiquitarian with only 10.04% of caries-free children (dt/DT = 0). Caries severity, in both primary and permanent dentitions, was statistically significantly related to gender and waist circumference (<italic>p</italic> &lt; 0.01). This preliminary epidemiological survey will allow to design the intervention trial.</p>
+                </sec>
+              </sec>
+              <sec id="Sec8">
+                <title>Interventions</title>
+                <p id="Par33">After obtaining actual caries data, schools with similar numbers of schoolchildren (at least 300 subjects per school) will be selected for the preventive project. The participants will be randomized, taking as cluster the school class, allocating each class into one of the two groups of the study (Fig. <xref rid="Fig1" ref-type="fig">1</xref>):</p>
+                <p id="Par34">(1) The first group (Xyl) will receive sugar-free gums containing 70% (w/v) Xylitol as the only sweetener</p>
+                <p id="Par35">(2) The second group (Pol) will receive reduced sugared gums containing 23% (w/v) Maltitol</p>
+                <p id="Par36">Both groups of children will receive a total of 6 pellets of chewing gum a day during a period of one school year (about 9 months). All chewing gums will be produced and supplied by Perfetti Van Melle SpA (Lainate, Italy). All types of chewing gums will weigh 1.4 g each and will be identical in colour, shape and taste.</p>
+                <sec id="Sec9">
+                  <title>Clinical examination</title>
+                  <p id="Par37">Clinical examination, coordinated by E.C. as responsible of the coordinating centre, will comprise an oral examination (caries index, bleeding on probing recording) and an evaluation of plaque pH fluctuation after the sucrose challenge. Bleeding on probing will be used as a proxy of plaque presence, since there is a causal relationship between bleeding on probing and amount of plaque [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>].</p>
+                  <p id="Par38">The subjects will be examined using a mouth mirror, a ball-ended probe and artificial light. Caries registration will be performed with regard to the first and second primary, and first and second permanent, molars. The International Caries Detection and Assessment System (ICDAS) will be used to record caries at tooth level as initial, moderate or severe lesions, the number of filled teeth and the missing teeth for caries [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. Initial caries lesion can be defined as a primary lesion, which has not reached the stage of an established lesion with cavitation (ICDAS scores 1 and 2). Moderate caries lesions are defined as white or brown spot lesion with localized enamel breakdown or an underlying dentine shadow without visible dentine exposure (ICDAS scores 3 and 4). Extensive caries lesions are defined as a distinct cavity in opaque or discoloured enamel with visible dentine (ICDAS scores 5 and 6) [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR16">16</xref>]. The bleeding on probing score, as the percentage of periodontal site bleeding, will be registered in all subjects.</p>
+                </sec>
+                <sec id="Sec10">
+                  <title>Plaque pH measurements</title>
+                  <p id="Par39">Interproximal plaque pH, as an interim indicator, will be evaluated using pH indicator strips [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>], which measure a pH value in the range of 4.0–7.0 (Spezialindikator, pH range 4.0–7.0; Merck, Darmstadt, Germany). The strips determine changes in plaque pH, discriminating differences at the level of 0.2–0.5 pH units, and they are easy to use. The strips will be cut into 4 pieces (approx. 2 mm in width) in order to get a strip that could be easily inserted into the interproximal space, held in situ for 10 s and its colour compared to the colour index scheme supplied by the manufacturer.</p>
+                  <p id="Par40">For each subject, 3 measurements will be carried out in 2 sites, between the 2nd premolar or the 2nd primary molar, if present, and the 1st molar right and left of the upper jaw. Measurements will be performed before and at 2, 5, 10, 15 and 20 min after a mouth rinse with 10% sucrose.</p>
+                </sec>
+                <sec id="Sec11">
+                  <title>Calibration of the examiners</title>
+                  <p id="Par41">Four dentists will be trained and calibrated by a benchmark examiner. Baseline training will consist of a 1-day theoretical course, followed by an examination of extracted teeth, plus a session of photographs. After 2 days of the theoretical course, a clinical training will be performed. Twenty children will be examined and re-examined after 72 h. Inter-examiner reliability with the benchmark examiner will be evaluated using fixed-effects analysis of variance and intra-examiner reproducibility assessed as the percentage of agreement using Cohen’s kappa statistic [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+                </sec>
+                <sec id="Sec12">
+                  <title>Sample size</title>
+                  <p id="Par42">The sample size calculation was performed based on the primary outcome of the randomized clinical trial (caries increment at enamel and dentinal level). The calculation considered the results of a 3-year period [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. It was also taken into account an increment of approximately 10% of the sample due to some changes in the prevalence of the disease. Thus, estimating a level of significance of 0.05 with a power of 80% and a caries prevalence of about 90% [<xref ref-type="bibr" rid="CR5">5</xref>], the number of participants was set to 409 subjects (Kelsey method), based on a 10% absolute difference between the groups, using a two-tailed test [<xref ref-type="bibr" rid="CR19">19</xref>].</p>
+                </sec>
+                <sec id="Sec13">
+                  <title>Treatment</title>
+                  <p id="Par43">P.Z. will coordinate the treatment phase of the chewing gums. The subjects of both arms will be instructed to chew a total of 6 pellets for 5 min divided into 3 intakes a day (2 in the morning, 2 after the midday meal and 2 in the afternoon) [<xref ref-type="bibr" rid="CR7">7</xref>, <xref ref-type="bibr" rid="CR8">8</xref>]. Thus, the total daily intake of Xylitol in the Xyl group will be 5.8 g, whilst, in the Pol group, the amount of administered Maltitol will be 1.9 g. Subjects will be instructed to use the chewing gum immediately after the main meals and snacks. Parents/guardians will not be requested to make changes in the dietary and oral hygiene habits of their children. Tooth brushing will not be allowed for at least 1 h after the chewing gum use. All subjects will receive a fluoridated toothpaste containing 1450 μg/g NaF and a manual toothbrush, which will be substituted every 3 months throughout the entire experimental period (3 years). All children will be instructed to brush their teeth twice a day (after breakfast and dinner) for 2 min using vertical movements [<xref ref-type="bibr" rid="CR20">20</xref>].</p>
+                  <p id="Par44">In order to evaluate the success of the administration of chewing gum at school, teachers will receive 1 month at a time the chewing gums necessary for that period of time and will distribute the blister packs to their school class. Children will have to return their empty blister pack when receiving that for the following month. This procedure will be repeated for all experimental (chewing) period (1-year school calendar/9 months).</p>
+                </sec>
+              </sec>
+              <sec id="Sec14">
+                <title>Outcomes</title>
+                <p id="Par45">The primary outcome will be the caries increment measured both at enamel and dentinal levels. The secondary outcomes will be the differences obtained comparing caries increment and the variation of plaque pH in relation to the treatment used. Furthermore, a cost-effectiveness analysis will be performed using as outcome the measurement of quality-adjusted life years (QALY) [<xref ref-type="bibr" rid="CR21">21</xref>].</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Participant timeline</title>
+                <p id="Par46">The study should have been recruiting patients from August 2021 to September 2021; nevertheless, as previously described, COVID-19 does not allow at the moment to make predictions about it. Each subject will be enrolled for 36 months, estimating 9 months (one school year) of treatment and 27 months of follow-up. The study phases are presented in Fig. <xref rid="Fig2" ref-type="fig">2</xref>.
+<fig id="Fig2"><label>Fig. 2</label><caption><p>The study phases</p></caption><graphic xlink:href="13063_2021_5828_Fig2_HTML" id="MO2"/></fig></p>
+              </sec>
+              <sec id="Sec16">
+                <title>Recruitment</title>
+                <p id="Par47">The recruitment will occur in Zanskar Valley (Ladakh), in Padum city.</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Assignment of interventions</title>
+                <sec id="Sec18">
+                  <title>Allocation: sequence generation and concealment mechanism</title>
+                  <p id="Par48">The random list will be generated using a computer program (Microsoft Excel for Mac version 16.37); a school-class-based randomization will be carried out by G.C. in permuted blocks of 2 or 4 classes with a random variation of the blocking number and 2 groups will be created [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>].</p>
+                  <p id="Par49">The two types of chewing gums will both be supplied in plain white containers coded as ‘green’ or ‘blue’. The code will be sealed by an independent monitor and not broken until the statistical analysis will be finalized.</p>
+                </sec>
+              </sec>
+              <sec id="Sec19">
+                <title>Implementation</title>
+                <p id="Par50">All examinations of the children enrolled will be carried out by calibrated dentists. The clinical examination of the enrolled sample will be recorded at baseline (<italic>t</italic><sub>0</sub>), will be repeated after 12 months since the start of the chewing gum administration period (<italic>t</italic><sub>1</sub>), after another 12 months period (<italic>t</italic><sub>2</sub>) and finally after further 12 months (<italic>t</italic><sub>3</sub>) (24 months from the end of the chewing gum use) (Fig. <xref rid="Fig2" ref-type="fig">2</xref>).</p>
+              </sec>
+              <sec id="Sec20">
+                <title>Blinding</title>
+                <p id="Par51">The study will have a triple-blind design: children, parents/guardians and teachers responsible for the treatment; dentists who will evaluate the outcomes; and the statistician who will analyse data will be blinded to the allocation group of the participants.</p>
+              </sec>
+              <sec id="Sec21">
+                <title>Data collection, management, and analysis</title>
+                <p id="Par52">The follow-up assessments will be performed by calibrated blinded dentists. The clinical data will be recorded on electronic sheets organized on PageMaker and then transferred into Microsoft Excel Software. The data management team is formed by two authors (F.C., G.C.). Data will be cleaned, deleting those revealing the participants’ identities, and they will be shared in a public repository at the moment of the submission of the manuscripts.</p>
+                <p id="Par53">Data on caries will be recorded considering the tooth as the unit of analysis. The progression or change of status can be described with three modalities: 1—as the change from no caries stage to initial stage or to moderate stage or extensive; 2—as the change from initial stage to moderate or extensive stage; and 3—as the change from moderate stage to extensive stage. The net caries increment for initial, moderate and extensive caries levels, using ICDAS (Δ-initial, Δ-moderate and Δ-extensive), will be calculated in primary and permanent molars. Differences between groups in terms of caries increment will be evaluated using the nonparametric Mann–Whitney <italic>U</italic> test. Data analysis will be conducted through Kaplan–Meyer graphs to evaluate caries increment. A comparison of the methods will be carried out with Cox regression with shared frailty. The calculation of sensitivity, specificity and accuracy will consider the results obtained with the indices and the classification of caries lesion presence by the proposed reference standard. The cost-effectiveness ratio will also be verified, considering as effectiveness the prevention of the primary outcome. For all tests, two-tailed analyses will be used, considering a level of significance of 5%. The quality-adjusted life-year index (QALY) will be calculated to assess the value of the preventive intervention [<xref ref-type="bibr" rid="CR22">22</xref>]. To determine QALYs, the utility value associated with a given state of health by the years lived in that state will be calculated. A year of life lived with no caries increment will be worth 1 QALY (1 year of life × 1 utility value) [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>]. Plans to promote participant retention and completion of follow-ups will be performed; a list of any outcome in participants who discontinue the treatment will be compiled and the data will be analysed, taking into account that living conditions in Ladakh do not allow for high mobility of the population. This will make participant retention a minor problem.</p>
+                <p id="Par54">The effectiveness of the treatment will be assessed for those who fully followed the protocol (per-protocol subjects). The efficacy and consequences of treatment will be also considered, calculating the event rate (ER) for each group and the number needed to treat (NNT) [<xref ref-type="bibr" rid="CR24">24</xref>]. An event will be defined as the change of status at tooth level, i.e. the development of a new lesion or the progression of an existing lesion to a more severe level or the change of a tooth previously affected in a filled or a missing tooth during the 2-year follow-up period.</p>
+                <p id="Par55">Analyses will be performed using the statistical package Stata 16.0 (Stata Corp, College Station, USA).</p>
+              </sec>
+              <sec id="Sec22">
+                <title>Monitoring</title>
+                <sec id="Sec23">
+                  <title>Data monitoring</title>
+                  <p id="Par56">An independent regulation of data collection, management and analysis will be applied independently by the authors.</p>
+                </sec>
+              </sec>
+              <sec id="Sec24">
+                <title>Harms</title>
+                <p id="Par57">The procedures performed offer minimal risk to patients’ oral health. Side effects of the administration of both chewing gums will be assessed by means of a questionnaire administered to the participants’ parents after 3 months from the beginning of the experimental period and a second time at the end of the administration period.</p>
+              </sec>
+              <sec id="Sec25">
+                <title>Auditing</title>
+                <p id="Par58">Data will be stored by one of the authors of the study. Data will be weekly inspected. The inconsistencies will be verified, corrected and registered.</p>
+              </sec>
+              <sec id="Sec26">
+                <title>Ethics and dissemination</title>
+                <sec id="Sec27">
+                  <title>Research ethics approval, consent and assent</title>
+                  <p id="Par59">No official ethical committee is present in the area of the survey. The study proposal was already submitted to the authorities of the Zanskar Tibetan Hospital Health Care &amp; Sowa Rigpa Research Institute and its coordinator, the Lama Zopta, for their approval. Approval will also be asked to each school involved in the survey. Due to language difficulties and the population’s low literacy rate, verbal approval will be obtained for children’s participation by their parents or guardians. Plans for communicating important protocol modifications will be prepared and, in case, disseminate them to relevant parties.</p>
+                </sec>
+                <sec id="Sec28">
+                  <title>Confidentiality</title>
+                  <p id="Par60">Participants will be coded with identification numbers to guarantee confidentiality during data analysis. Participants’ files will be stored in a secure room in the Department of Restorative, Preventive and Pediatric Dentistry, University of Bern.</p>
+                </sec>
+                <sec id="Sec29">
+                  <title>Access to data</title>
+                  <p id="Par61">Full protocol, clinical trial data and statistical code will be granted full access via public repository after acceptance of the final reports and manuscripts of the trial.</p>
+                </sec>
+                <sec id="Sec30">
+                  <title>Ancillary and post-trial care</title>
+                  <p id="Par62">Parents/guardians of the children participating in the trial will receive information about the children’s oral status. If caries lesions in dentine will be detected in the children enrolled in the trial, the children will insert in a treatment plan list and they will be contacted for cares by the medical centre in Padum (CHC, community health centre).</p>
+                </sec>
+                <sec id="Sec31">
+                  <title>Dissemination policy</title>
+                  <p id="Par63">A full report of the findings will be prepared and submitted in full length through national and international journals and newsletters and via website.</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec id="Sec32">
+              <title>Discussion</title>
+              <p id="Par64">Dental caries continues to be one of the most prevalent human diseases worldwide. The actual skewed caries figure suggests the need of implementing effective preventive approaches, especially for high-risk groups such as children living in low socioeconomic contests [<xref ref-type="bibr" rid="CR25">25</xref>]. The children population living in the remote valley of Zanskar in Ladakh has shown a very high caries prevalence and still no caries preventive programme at the school level has ever been implemented. Due to the lack of dental facilities in the area, a school-based preventive programme seems to be the most effective strategy to reach children. Since caries is a behaviour-related disease, especially in children, different caries-preventive measures have been proposed, such as using sugar substitutes. Sugar-free chewing gums, especially those containing Xylitol, were effectively administered to reduce caries-associated risk factors and caries lesion increment [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR9">9</xref>].</p>
+              <p id="Par65">A randomized controlled trial is considered the most powerful study design, in which at least two interventions are contemporaneously administered to two or more groups of subjects forming the arms of the trial. The random enrolment into each arm reduces the potential risk of bias [<xref ref-type="bibr" rid="CR25">25</xref>]. Randomization is generally performed at an individual level. However, a group-randomized design may be useful in situations where there is a presumed lack of feasibility of carrying out the intervention at the individual level or/and when researchers aim to obtain findings on the intervention effect at the group level, as it happens with the school-based intervention [<xref ref-type="bibr" rid="CR26">26</xref>]. School-based programmes are effective strategies to improve oral health among schoolchildren, particularly among underprivileged groups of children at high caries risk [<xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR27">27</xref>]. Promoting children’s health through schools is strongly recommended by the World Health Organization [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+              <p id="Par66">Just one recent paper assesses the salivary concentration of xylitol released from two chewing gums containing different amounts of the polyol in a sample of healthy volunteers [<xref ref-type="bibr" rid="CR29">29</xref>] so the proposed trial will be first clinical trial aiming to evaluate and understand the use of chewing gums with Xylitol as the only sweetener. To the best of the authors’ knowledge, this will be the first clinical trial to assess the effect of a sugar-free Xylitol chewing gum on caries prevention in a population with special living conditions like that of Ladakh. The hypothesis under evaluation is that there will be a statistically significant difference between the interventions regarding caries increment. The findings will contribute to strengthen the evidence for the efficacy of Xylitol use in community-based caries prevention programmes in children.</p>
+            </sec>
+            <sec id="Sec33">
+              <title>Trial status</title>
+              <p id="Par67">The trial is not recruiting participants yet. The recruitment will start when the COVID-19 pandemic will allow it.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary Information</title>
+              <sec id="Sec34">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="13063_2021_5828_MOESM1_ESM.doc">
+                      <caption>
+                        <p><bold>Additional file 1.</bold> SPIRIT checklist.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>Xyl</term>
+                  <def>
+                    <p id="Par5">Xylitol group</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>Pol</term>
+                  <def>
+                    <p id="Par6">Polyol group</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>dmft</term>
+                  <def>
+                    <p id="Par7">Decayed, missed, filled teeth (primary dentition)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DMFT</term>
+                  <def>
+                    <p id="Par8">Decayed, Missed, Filled Teeth (permanent dentition)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICDAS</term>
+                  <def>
+                    <p id="Par9">International Caries Detection and Assessment System Codes</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>QALY</term>
+                  <def>
+                    <p id="Par10">Quality-adjusted life-year index</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors want to thank the ANDI Foundation for the support provided for the preliminary survey, the volunteers of the ANDI Foundation and the authorities in Ladakh for helping us. In particular, the authors want to thank the Zanskar Health Care &amp; Sowa Rigpa Research Institute and Dr. Enrico Carlino.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>MGC, FC, EC and GC conceived the study idea. MGC, FC and GC designed the study. FC and GC implemented the clinical trial. EC, MGC and GC are the trial coordinators. MGC and GC are the principal investigators. EC and DA are the dentists responsible. EC and PZ are responsible for organizing the treatments. All authors wrote and revised the manuscript. The authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>This study will be sponsored by the University of Bern (Switzerland) and Perfetti Van Melle (Nederlands) as the supplier for the chewing gums. Perfetti Van Melle will have no role in the study design, data collection and analysis, nor in the preparation and publication of the manuscript/s.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The dataset will be available in a public repository after the acceptance of the manuscripts.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par68">No official ethical committee is present in the area of the survey. The study proposal was already submitted to the authorities of the Zanskar Health Care &amp; Sowa Rigpa Research Institute and its coordinator the Lama Zopta gave the approval for the study.</p>
+                <p id="Par69">P.Z. will be responsible for the collection of the consent to participate forms.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par70">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par71">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <mixed-citation publication-type="other">Taneja G, Sridhar VS-R, Mohanty JS, Joshi A, Bhushan P, Jain M, et al. Kumar, Gera RR. India’s RMNCH+A Strategy approach, learnings and limitations. BMJ Glob. Health. 2019;4(3). 10.1136/bmjgh-2018-001162.</mixed-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Miele</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                    <name>
+                      <surname>Schwartz</surname>
+                      <given-names>AR</given-names>
+                    </name>
+                    <name>
+                      <surname>Gilman</surname>
+                      <given-names>RH</given-names>
+                    </name>
+                    <name>
+                      <surname>Pham</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Wise</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Davila-Roman</surname>
+                      <given-names>VG</given-names>
+                    </name>
+                    <name>
+                      <surname>Jun</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Polotsky</surname>
+                      <given-names>VY</given-names>
+                    </name>
+                    <name>
+                      <surname>Miranda</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Leon-Velarde</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Checkley</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Increased cardiometabolic risk and worsening hypoxemia at high altitude</article-title>
+                  <source>High Alt Med Biol</source>
+                  <year>2016</year>
+                  <volume>17</volume>
+                  <issue>2</issue>
+                  <fpage>93</fpage>
+                  <lpage>100</lpage>
+                  <pub-id pub-id-type="doi">10.1089/ham.2015.0084</pub-id>
+                  <?supplied-pmid 27281472?>
+                  <pub-id pub-id-type="pmid">27281472</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hirschler</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Molinari</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Gonzalez</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Maccallini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Castano</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of hypertension in Argentinean indigenous children living at high altitudes versus US children</article-title>
+                  <source>Clin Exp Hypertens</source>
+                  <year>2018</year>
+                  <volume>40</volume>
+                  <issue>8</issue>
+                  <fpage>752</fpage>
+                  <lpage>757</lpage>
+                  <pub-id pub-id-type="doi">10.1080/10641963.2018.1431258</pub-id>
+                  <?supplied-pmid 29393695?>
+                  <pub-id pub-id-type="pmid">29393695</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hirschler</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Gonzalez</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Molinari</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Velez</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Nordera</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Suarez</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Robredo</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Blood pressure level increase with altitude in three Argentinean indigenous communities</article-title>
+                  <source>AIMS Public Health</source>
+                  <year>2019</year>
+                  <volume>6</volume>
+                  <issue>4</issue>
+                  <fpage>370</fpage>
+                  <lpage>379</lpage>
+                  <pub-id pub-id-type="doi">10.3934/publichealth.2019.4.370</pub-id>
+                  <?supplied-pmid 31909060?>
+                  <pub-id pub-id-type="pmid">31909060</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <mixed-citation publication-type="other">Cagetti MG, Cocco F, Calzavara E, Augello D, Zagpoo P, Campus G. Life-conditions and anthropometric variables as risk factors for caries in children in Ladakh. A cross-sectional survey. BMC Oral Health submitted.</mixed-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Koo</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Falsetta</surname>
+                      <given-names>ML</given-names>
+                    </name>
+                    <name>
+                      <surname>Klein</surname>
+                      <given-names>MI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The exopolysaccharide matrix: a virulence determinant of cariogenic biofilm</article-title>
+                  <source>J Dent Res</source>
+                  <year>2013</year>
+                  <volume>92</volume>
+                  <issue>12</issue>
+                  <fpage>1065</fpage>
+                  <lpage>1073</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034513504218</pub-id>
+                  <?supplied-pmid 24045647?>
+                  <pub-id pub-id-type="pmid">24045647</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Sacco</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Solinas</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Mastroberardino</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Lingström</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Six months of daily high-dose xylitol in high-risk schoolchildren: a randomized clinical trial on plaque pH and salivary mutans streptococci</article-title>
+                  <source>Caries Res</source>
+                  <year>2009</year>
+                  <volume>43</volume>
+                  <issue>6</issue>
+                  <fpage>455</fpage>
+                  <lpage>461</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000264682</pub-id>
+                  <?supplied-pmid 20016175?>
+                  <pub-id pub-id-type="pmid">20016175</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Sale</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Petruzzi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Solinas</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Strohmenger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lingström</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Six months of high-dose xylitol in high-risk caries subjects--a 2-year randomised, clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2013</year>
+                  <volume>17</volume>
+                  <issue>3</issue>
+                  <fpage>785</fpage>
+                  <lpage>791</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-012-0774-5</pub-id>
+                  <?supplied-pmid 22791282?>
+                  <pub-id pub-id-type="pmid">22791282</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Carta</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Strohmenger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lingström</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The caries preventive effect of 1-year use of low-dose xylitol chewing gum. A randomized placebo-controlled clinical trial in high-caries-risk adults</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <issue>9</issue>
+                  <fpage>2733</fpage>
+                  <lpage>2740</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-017-2075-5</pub-id>
+                  <?supplied-pmid 28303470?>
+                  <pub-id pub-id-type="pmid">28303470</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marghalani</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Guinto</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Phan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Dhar</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Tinanoff</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effectiveness of Xylitol in reducing dental caries in children</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2017</year>
+                  <volume>39</volume>
+                  <issue>2</issue>
+                  <fpage>103</fpage>
+                  <lpage>110</lpage>
+                  <?supplied-pmid 28390459?>
+                  <pub-id pub-id-type="pmid">28390459</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <mixed-citation publication-type="other">Campus G, Cocco F, Ottolenghi L, Cagetti MG. Comparison of ICDAS, CAST, Nyvad’s criteria, and WHO-DMFT for caries detection in a sample of Italian schoolchildren. Int J Environ Res Public Health. 2019;16(21).</mixed-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Solinas</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Senna</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Minelli</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Majori</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Montagna</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>Reali</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Castiglia</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Strohmenger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>National pathfinder survey of 12-year-old children’s oral health in Italy</article-title>
+                  <source>Caries Res</source>
+                  <year>2007</year>
+                  <volume>41</volume>
+                  <issue>6</issue>
+                  <fpage>512</fpage>
+                  <lpage>517</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000110884</pub-id>
+                  <?supplied-pmid 17992014?>
+                  <pub-id pub-id-type="pmid">17992014</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Congiu</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Meloni</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Sale</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Are distinctive risk indicators associated with different stages of caries in children?</article-title>
+                  <source>A cross-sectional study BMC Public Health</source>
+                  <year>2016</year>
+                  <volume>161</volume>
+                  <issue>1</issue>
+                  <fpage>1213</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12889-016-3865-4</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Müller</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Stadermann</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Multivariate multilevel models for repeated measures in the study of smoking effects on the association between plaque and gingival bleeding</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2006</year>
+                  <volume>10</volume>
+                  <issue>4</issue>
+                  <fpage>311</fpage>
+                  <lpage>316</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-006-0067-y</pub-id>
+                  <?supplied-pmid 16896834?>
+                  <pub-id pub-id-type="pmid">16896834</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ismail</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                    <name>
+                      <surname>Sohn</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Tellez</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Amaya</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Sen</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitts</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The International Caries Detection and Assessment System (ICDAS): an integrated system for measuring dental caries</article-title>
+                  <source>Commun Dent Oral Epidemiol</source>
+                  <year>2007</year>
+                  <volume>35</volume>
+                  <issue>3</issue>
+                  <fpage>170</fpage>
+                  <lpage>178</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2007.00347.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Carta</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Naspero</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Long-term efficacy of Magnolia Bark Extract and Xylitol administered through chewing gums on caries in adults: a 2-year randomized controlled intervention trial</article-title>
+                  <source>J Funct Foods</source>
+                  <year>2020</year>
+                  <volume>68</volume>
+                  <fpage>103891</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jff.2020.103891</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Sale</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Strohmenger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lingström</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Association between interdental plaque acidogenicity and caries risk at surface level: a cross sectional study in primary dentition</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2011</year>
+                  <volume>21</volume>
+                  <issue>2</issue>
+                  <fpage>119</fpage>
+                  <lpage>125</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-263X.2010.01099.x</pub-id>
+                  <?supplied-pmid 20731733?>
+                  <pub-id pub-id-type="pmid">20731733</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Carlén</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassan</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Lingström</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The strip method: a simple method for plaque pH assessment</article-title>
+                  <source>Caries Res</source>
+                  <year>2010</year>
+                  <volume>44</volume>
+                  <issue>4</issue>
+                  <fpage>341</fpage>
+                  <lpage>344</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000315273</pub-id>
+                  <?supplied-pmid 20616550?>
+                  <pub-id pub-id-type="pmid">20616550</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <mixed-citation publication-type="other">Dean AG, Sullivan KM, Soe MM. OpenEpi: open source epidemiologic statistics for public health, Versione. <ext-link ext-link-type="uri" xlink:href="http://www.openepi.com">www.OpenEpi.com</ext-link>, updated 2013/04/06, last access 18/05/2020.</mixed-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mastroberardino</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Jessica</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Strohmenger</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Vertical brushing versus horizontal brushing: a randomized split-mouth clinical trial</article-title>
+                  <source>Quintessence Int</source>
+                  <year>2014</year>
+                  <volume>45</volume>
+                  <issue>8</issue>
+                  <fpage>653</fpage>
+                  <lpage>661</lpage>
+                  <pub-id pub-id-type="doi">10.3290/j.qi.a32238</pub-id>
+                  <?supplied-pmid 25019112?>
+                  <pub-id pub-id-type="pmid">25019112</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bleichrodt</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Quiggin</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Life-cycle preferences over consumption and health: when is cost-effectiveness analysis equivalent to cost-benefit analysis?</article-title>
+                  <source>J Health Econ</source>
+                  <year>1999</year>
+                  <volume>18</volume>
+                  <issue>6</issue>
+                  <fpage>681</fpage>
+                  <lpage>708</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0167-6296(99)00014-4</pub-id>
+                  <?supplied-pmid 10847930?>
+                  <pub-id pub-id-type="pmid">10847930</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Weinstein</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Torrance</surname>
+                      <given-names>GE</given-names>
+                    </name>
+                    <name>
+                      <surname>McGuire</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>QALYs: the basics</article-title>
+                  <source>Value Health</source>
+                  <year>2009</year>
+                  <volume>12</volume>
+                  <fpage>S5</fpage>
+                  <lpage>S9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1524-4733.2009.00515.x</pub-id>
+                  <?supplied-pmid 19250132?>
+                  <pub-id pub-id-type="pmid">19250132</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Torrance</surname>
+                      <given-names>GE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Measurement of health state utilities for economic appraisal: a review</article-title>
+                  <source>J Health Econ</source>
+                  <year>1986</year>
+                  <volume>5</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>30</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0167-6296(86)90020-2</pub-id>
+                  <?supplied-pmid 10311607?>
+                  <pub-id pub-id-type="pmid">10311607</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Laupacis</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Sackett</surname>
+                      <given-names>DL</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>An assessment of clinically useful measures of the consequences of treatment</article-title>
+                  <source>New Engl J Med</source>
+                  <year>1988</year>
+                  <volume>318</volume>
+                  <issue>26</issue>
+                  <fpage>1728</fpage>
+                  <lpage>1733</lpage>
+                  <pub-id pub-id-type="doi">10.1056/NEJM198806303182605</pub-id>
+                  <?supplied-pmid 3374545?>
+                  <pub-id pub-id-type="pmid">3374545</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kassebaum</surname>
+                      <given-names>NJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>AGC</given-names>
+                    </name>
+                    <name>
+                      <surname>Bernabé</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleming</surname>
+                      <given-names>TD</given-names>
+                    </name>
+                    <name>
+                      <surname>Reynolds</surname>
+                      <given-names>AE</given-names>
+                    </name>
+                    <name>
+                      <surname>Vos</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Murray</surname>
+                      <given-names>CJL</given-names>
+                    </name>
+                    <name>
+                      <surname>Marcenes</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>GBD 2015 Oral Health Collaborators. Global, regional, and national prevalence, incidence, and disability-adjusted life years for oral conditions for 195 countries, 1990-2015: a systematic analysis for the global burden of diseases, injuries, and risk factors</article-title>
+                  <source>J Dent Res</source>
+                  <year>2017</year>
+                  <volume>96</volume>
+                  <fpage>380</fpage>
+                  <lpage>387</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034517693566</pub-id>
+                  <pub-id pub-id-type="pmid">28792274</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moulton</surname>
+                      <given-names>LH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Covariate-based constrained randomization of group-randomized trials</article-title>
+                  <source>Clin Trials</source>
+                  <year>2004</year>
+                  <volume>1</volume>
+                  <issue>3</issue>
+                  <fpage>297</fpage>
+                  <lpage>305</lpage>
+                  <pub-id pub-id-type="doi">10.1191/1740774504cn024oa</pub-id>
+                  <?supplied-pmid 16279255?>
+                  <pub-id pub-id-type="pmid">16279255</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Suresh</surname>
+                      <given-names>KP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>An overview of randomization techniques: an unbiased assessment of outcome in clinical research</article-title>
+                  <source>J Hum Reprod Sci</source>
+                  <year>2011</year>
+                  <volume>4</volume>
+                  <issue>1</issue>
+                  <fpage>8</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.4103/0974-1208.82352</pub-id>
+                  <?supplied-pmid 21772732?>
+                  <pub-id pub-id-type="pmid">21772732</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Petersen</surname>
+                      <given-names>PE</given-names>
+                    </name>
+                    <name>
+                      <surname>Hunsrisakhun</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Thearmontree</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Pithpornchaiyakul</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Hintao</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Jürgensen</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ellwood</surname>
+                      <given-names>RP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>School-based intervention for improving the oral health of children in Southern Thailand</article-title>
+                  <source>Commun Dent Health</source>
+                  <year>2015</year>
+                  <volume>32</volume>
+                  <fpage>44</fpage>
+                  <lpage>50</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cocco</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Cagetti</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Majdub</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Campus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Concentration in saliva and antibacterial effect of xylitol chewing gum: in vivo and in vitro study</article-title>
+                  <source>Appl Sci</source>
+                  <year>2020</year>
+                  <volume>10</volume>
+                  <issue>8</issue>
+                  <fpage>2900</fpage>
+                  <pub-id pub-id-type="doi">10.3390/app10082900</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

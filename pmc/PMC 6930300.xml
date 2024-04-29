@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:45:37Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:6930300" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:6930300</identifier>
+        <datestamp>2019-12-27</datestamp>
+        <setSpec>scirep</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+              <journal-title-group>
+                <journal-title>Scientific Reports</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2045-2322</issn>
+              <publisher>
+                <publisher-name>Nature Publishing Group UK</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC6930300</article-id>
+              <article-id pub-id-type="pmcid">PMC6930300</article-id>
+              <article-id pub-id-type="pmc-uid">6930300</article-id>
+              <article-id pub-id-type="pmid">31874981</article-id>
+              <article-id pub-id-type="publisher-id">56233</article-id>
+              <article-id pub-id-type="doi">10.1038/s41598-019-56233-0</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Temporal development of the oral microbiome and prediction of early childhood caries</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Dashper</surname>
+                    <given-names>S. G.</given-names>
+                  </name>
+                  <address>
+                    <email>stuartgd@unimelb.edu.au</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mitchell</surname>
+                    <given-names>H. L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3923-1116</contrib-id>
+                  <name>
+                    <surname>Lê Cao</surname>
+                    <given-names>K.-A.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Carpenter</surname>
+                    <given-names>L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gussy</surname>
+                    <given-names>M. G.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Calache</surname>
+                    <given-names>H.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gladman</surname>
+                    <given-names>S. L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bulach</surname>
+                    <given-names>D. M.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0306-278X</contrib-id>
+                  <name>
+                    <surname>Hoffmann</surname>
+                    <given-names>B.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Catmull</surname>
+                    <given-names>D. V.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pruilh</surname>
+                    <given-names>S.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff8">8</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Johnson</surname>
+                    <given-names>S.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gibbs</surname>
+                    <given-names>L.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Amezdroz</surname>
+                    <given-names>E.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bhatnagar</surname>
+                    <given-names>U.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff9">9</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Seemann</surname>
+                    <given-names>T.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mnatzaganian</surname>
+                    <given-names>G.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-4570-0620</contrib-id>
+                  <name>
+                    <surname>Manton</surname>
+                    <given-names>D. J.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6618-4856</contrib-id>
+                  <name>
+                    <surname>Reynolds</surname>
+                    <given-names>E. C.</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution>Oral Health Cooperative Research Centre, Melbourne Dental School, </institution><institution>University of Melbourne, </institution></institution-wrap>Carlton, Vic Australia </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id><institution-id institution-id-type="GRID">grid.1002.3</institution-id><institution>ACRF Blood Cancer Therapeutics Centre, Central Clinical School, </institution><institution>Monash University, </institution></institution-wrap>Melbourne, Vic Australia </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution>Melbourne Integrative Genomics, School of Mathematics and Statistics, </institution><institution>The University of Melbourne, </institution></institution-wrap>Melbourne, Vic Australia </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution>Jack Brockhoff Child Health &amp; Wellbeing Program, Melbourne School of Population &amp; Global Health, </institution><institution>University of Melbourne, </institution></institution-wrap>Carlton, Vic Australia </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2342 0938</institution-id><institution-id institution-id-type="GRID">grid.1018.8</institution-id><institution>Department of Dentistry and Oral Health, La Trobe Rural Health School, </institution><institution>La Trobe University, </institution></institution-wrap>Bendigo, Vic Australia </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0526 7079</institution-id><institution-id institution-id-type="GRID">grid.1021.2</institution-id><institution>School of Health and Social Development, </institution><institution>Deakin University, </institution></institution-wrap>Burwood, Vic Australia </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution>Doherty Applied Microbial Genomics, Department of Microbiology and Immunology, </institution><institution>University of Melbourne, Doherty Institute for Infection and Immunity, </institution></institution-wrap>Melbourne, Vic Australia </aff>
+                <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 2286 8343</institution-id><institution-id institution-id-type="GRID">grid.461574.5</institution-id><institution>Department of Mathematical and Modeling Engineering, </institution><institution>Institut National des Sciences Appliquées de Toulouse, </institution></institution-wrap>Toulouse, France </aff>
+                <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0187 6133</institution-id><institution-id institution-id-type="GRID">grid.460659.8</institution-id><institution>Sydney Dental Hospital, </institution></institution-wrap>New South Wales, Australia </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>24</day>
+                <month>12</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>24</day>
+                <month>12</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2019</year>
+              </pub-date>
+              <volume>9</volume>
+              <elocation-id>19732</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>28</day>
+                  <month>6</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="accepted">
+                  <day>5</day>
+                  <month>12</month>
+                  <year>2019</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2019</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <p id="Par1">Human microbiomes are predicted to assemble in a reproducible and ordered manner yet there is limited knowledge on the development of the complex bacterial communities that constitute the oral microbiome. The oral microbiome plays major roles in many oral diseases including early childhood caries (ECC), which afflicts up to 70% of children in some countries. Saliva contains oral bacteria that are indicative of the whole oral microbiome and may have the ability to reflect the dysbiosis in supragingival plaque communities that initiates the clinical manifestations of ECC. The aim of this study was to determine the assembly of the oral microbiome during the first four years of life and compare it with the clinical development of ECC. The oral microbiomes of 134 children enrolled in a birth cohort study were determined at six ages between two months and four years-of-age and their mother’s oral microbiome was determined at a single time point. We identified and quantified 356 operational taxonomic units (OTUs) of bacteria in saliva by sequencing the V4 region of the bacterial 16S RNA genes. Bacterial alpha diversity increased from a mean of 31 OTUs in the saliva of infants at 1.9 months-of-age to 84 OTUs at 39 months-of-age. The oral microbiome showed a distinct shift in composition as the children matured. The microbiome data were compared with the clinical development of ECC in the cohort at 39, 48, and 60 months-of-age as determined by ICDAS-II assessment. <italic>Streptococcus mutans</italic> was the most discriminatory oral bacterial species between health and current disease, with an increased abundance in disease. Overall our study demonstrates an ordered temporal development of the oral microbiome, describes a limited core oral microbiome and indicates that saliva testing of infants may help predict ECC risk.</p>
+              </abstract>
+              <kwd-group kwd-group-type="npg-subject">
+                <title>Subject terms</title>
+                <kwd>Microbiome</kwd>
+                <kwd>Dental caries</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2019</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1" sec-type="introduction">
+              <title>Introduction</title>
+              <p id="Par2">Early Childhood Caries (ECC) is a complex, multifaceted disease involving interactions between the oral microbiota, host susceptibility at the tooth, mouth and person level, and environmental factors, especially behaviours relating to early feeding practices, ingestion of free sugars and oral hygiene<sup><xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR3">3</xref></sup>. ECC is defined as the presence of one or more decayed (non-cavitated or cavitated lesions), missing (due to caries), or filled tooth surfaces (dmfs) in any primary tooth in a child under the age of six years<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. Australian children at four years of age have an average decayed, missing, and filled teeth (dmft) score of 1.94<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. However, this score masks the true pattern and burden of disease as 60% of those examined were caries free. Additionally, the burden of disease associated with ECC is disproportionately borne by children from vulnerable and disadvantaged families<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>.</p>
+              <p id="Par3">Although largely preventable ECC can be difficult to diagnose in its early stages. Cavitation is a late stage of the disease process that initially manifests as a change in the species composition of the supragingival plaque microbiota from the commensal plaque biofilm community to a dysbiotic community that is dominated by acidogenic and aciduric species<sup><xref ref-type="bibr" rid="CR7">7</xref>,<xref ref-type="bibr" rid="CR8">8</xref></sup>. Although <italic>S. mutans</italic> and to a lesser degree <italic>S. sobrinus</italic> have historically been linked to dental caries initiation recent microbiome-based studies have implicated a much wider range of other acidogenic and aciduric bacterial species, including other streptococci, <italic>Actinomyces</italic> spp. and bifidobacteria such as <italic>Scardovia wiggsiae</italic> with disease<sup><xref ref-type="bibr" rid="CR9">9</xref>–<xref ref-type="bibr" rid="CR11">11</xref></sup>. The abundance of a number of these species in supragingival plaque has been associated with caries activity in cross-sectional studies<sup><xref ref-type="bibr" rid="CR12">12</xref></sup>. Detection of the change in composition of the supragingival plaque microbiota is therefore a method to detect ECC-risk prior to clinical manifestation of caries and offers the opportunity to treat caries at its earliest stages preventing irreversible cavitation.</p>
+              <p id="Par4">The bacterial aetiology of ECC is further complicated by the fact that bacteria are colonising the child’s oral cavity at a time when teeth are erupting and are vulnerable to demineralization<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. We currently have limited information on the timing of the colonisation of human oral cavity by bacteria and the development of the oral microbiome in infants<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. Saliva is an easily obtained bodily fluid that contains a significant number of detectable oral bacterial species that have the potential to act as biomarkers for the bacterial dysbiosis in supragingival plaque that leads to clinical caries manifestation<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. The bacterial composition of saliva, whilst over representing those bacteria present on the mucosal surfaces of the oral cavity, especially the tongue and buccal epithelium, has been routinely used to describe the oral microbiome<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR15">15</xref></sup>. By better understanding how the oral microbiome develops and behaves over time in infants in health and disease we may be able to identify children at highest risk of disease and develop interventions at critical time-points to more effectively prevent disease development and progression.</p>
+              <p id="Par5">In this study we used a longitudinal cohort study model to characterise the oral microbiomes of 134 children at six time-points from two months-of-age to four years-of-age, along with the microbiomes of their mothers. The onset and progression of ECC in these children was determined up to five years-of-age. The oral microbiome was then compared with clinical outcomes.</p>
+            </sec>
+            <sec id="Sec2" sec-type="materials|methods">
+              <title>Materials and Methods</title>
+              <sec id="Sec3">
+                <title>VicGen cohort study</title>
+                <p id="Par6">The VicGen longitudinal cohort study of infants/children was established in 2008 to follow the natural history and examine the causative factors of Early Childhood Caries (ECC)<sup><xref ref-type="bibr" rid="CR16">16</xref>,<xref ref-type="bibr" rid="CR17">17</xref></sup>. Participants were recruited through their mother from Maternal and Child Health Centres in six local government areas in Victoria, Australia. Clinical oral examinations, questionnaires and collection of saliva from the children were conducted at seven mean ages (± standard deviation) - 1.9 ± 0.8, 7.7 ± 1.3, 13.2 ± 1.2, 19.7 ± 2.0, 39.0 ± 3.2, 48.6 ± 1.6 and 60 ± 1.8 months<sup><xref ref-type="bibr" rid="CR16">16</xref>,<xref ref-type="bibr" rid="CR17">17</xref></sup>.</p>
+                <p id="Par7">Ethics approval to conduct this study was provided by the University of Melbourne Human Research Ethics Committee (HREC 0722543 and HREC 1137124) and the study was approved by the Victorian Department of Education and Early Childhood Development (Ref: 2008/202). All research described in this manuscript was performed in accordance with relevant guidelines and regulations, and informed consent was obtained from all participants or their parent or legal guardian.</p>
+                <p id="Par8">In the current nested study 134 child/mother dyads from the VicGen cohort had their saliva samples sequenced for microbiomic determination. They were selected on the basis of disease development and included a suitable number of healthy controls. Descriptive statistics were used to compare the full cohort of 259 child/mother dyads who completed the larger VicGen study with those 134 in this analysis. The 134 child/mother dyads were similar on all parameters except the larger VicGen group had a lower representation of metropolitan dwellers and as a consequence fewer lived in fluoridated areas at the beginning of the cohort study (Supplementary Table <xref rid="MOESM1" ref-type="media">1</xref>).</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Clinical assessment</title>
+                <p id="Par9">Modified International Caries Detection and Assessment System (ICDAS II) criteria were used for caries assessment. ICDAS II was developed for clinical use in caries management and epidemiology, as the measure correlates the clinical appearance of a lesion with its histological depth or severity. ICDAS II is validated for use with children, comparable to standard criteria in epidemiological surveys<sup><xref ref-type="bibr" rid="CR18">18</xref></sup>, and has acceptable validity and reproducibility for all codes when used with primary molar teeth<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. The need to collect data in the field rather than a dental clinic setting precluded the use of compressed air, therefore Code 1 lesions could not be recorded unless they were located in pits or fissures. The caries assessment was conducted by three dental practitioners who had been trained, calibrated and were familiar with the screening methodology before clinical data collection<sup><xref ref-type="bibr" rid="CR17">17</xref></sup>. Restorations were given an ICDAS II score of 5, with a total of nine children at the sixth visit and 20 children at the seventh visit having at least one dental restoration. Teeth that were reported to be extracted due to caries were given an ICDAS II score of 6. One child from the sixth visit and one from the seventh visit each had an extraction due to dental caries.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Saliva sampling</title>
+                <p id="Par10">Unstimulated saliva, up to 5 mL, was collected from infants using a pipette and from children by passive drooling into a sterile tube. Maternal saliva was collected at the same time as their infant’s second clinical assessment at 7.7 months-of-age. The samples were rapidly frozen at −20 °C, stored and periodically transported to the Melbourne Dental School where they were stored at −80 °C in secure freezers until further analysis.</p>
+              </sec>
+              <sec id="Sec6">
+                <title>16S rRNA gene sequencing analysis of saliva samples</title>
+                <p id="Par11">In total saliva samples from 134 children and their mothers were subjected to microbiomic analyses. The children’s saliva was analysed at the first six mean ages - 1.9, 7.7, 13.2, 19.7, 39.0 and 48.6 months-of-age. Total DNA was extracted from saliva samples for each time-point collected. Targeted amplification of the V4 region of the 16S rRNA phylogenetic marker gene was performed using PCR with custom barcoded primers essentially as described previously<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>DNA extraction</title>
+                <p id="Par12">Methods for DNA extraction from saliva were based on the NIH Human Microbiome Project Manual of Procedures (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov">www.ncbi.nlm.nih.gov</ext-link>). Total DNA was extracted from saliva using PowerLyzer® PowerSoil® DNA Isolation Kits (Qiagen). The manufacturer’s “Vacuum Protocol” instructions were followed with minor modifications as follows: For a given volume of saliva, the amount of total DNA that could be extracted was much higher for adults than for children. Therefore, for DNA extraction up to 400 μL of saliva from children and 200 μL of saliva from adults was added to the bead tubes. Bead Solution was then added to a final volume of 750 μL, as well as 4 μL of 100 mM RNase A (Sigma Aldrich) to eliminate RNA. Samples were lysed using a Precellys 24 Homogeniser (Bertin Technologies), at speed 5000 for 45 s. Detergent-containing Solution-C1 was added post-homogenisation to avoid excessive foaming and mixed by inversion. Samples were then incubated for 5 min at room temperature, to allow time for RNA digestion, before performing the inhibitor removal, binding and washing steps as specified in the Mo Bio Laboratories protocol. DNA was eluted using 40 μL of 2 mM Tris buffer at pH 8, pre-heated to 70 °C. Purified DNA was stored at −80 °C.</p>
+              </sec>
+              <sec id="Sec8">
+                <title>PCR amplification and sequencing</title>
+                <p id="Par13">The Ion Amplicon Library Preparation Fusion Method (Thermo Fisher Scientific), was adapted for amplification of the V4 region of the 16S rRNA gene from oral bacteria. Experimental controls consistently showed that the Platinum<sup>®</sup> PCR SuperMix High Fidelity specified in the protocol, failed to amplify <italic>Actinomyces naeslundii</italic> DNA, so Q5<sup>®</sup> Hot Start High-Fidelity DNA Polymerase (Genesearch) was substituted. PCRs were performed using a 50 μL reaction volume containing 6 ng of total DNA as template (consisting of ~3 ng bacterial DNA), 1X Q5 reaction buffer, 0.3 μM PAGE-purified custom barcoded primers (Thermo Fisher Scientific), 0.2 mM dNTPs (Thermo Fisher Scientific), and 1 unit of Q5 Hot Start High-Fidelity DNA polymerase. Reactions were held at 98 °C for 3 min to denature the DNA, followed by 17 cycles of amplification at 98  °C for 10 s, 48 °C for 10 s, and 72 °C for 15 s. The sequences of the 62 barcoded forward-primers and the single reverse-primer used in this study are shown in the Table of Primers (Supplementary Table <xref rid="MOESM1" ref-type="media">2</xref>). Amplicon libraries were purified using Agencourt® AMPure® XP Reagent (Beckman Coulter) according to the instructions provided in the Ion Amplicon Library Preparation Fusion Method protocol. Purified barcoded amplicon libraries were quantified using a LabChip GX Touch 24 nucleic acids separation system using the DNA high sensitivity kits (Perkin Elmer). Emulsion PCR of pooled amplicon libraries was performed using an Ion OneTouch™ 2 System with 400 bp protocols and multiplex sequencing was performed on an Ion Torrent Personal Genome Machine, utilising Hi-Q chemistry with 525 reagent flows per run (Thermo Fisher Scientific).</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Bioinformatics and statistical analyses</title>
+                <p id="Par14">Torrent Suite Software was used to demultiplex samples and trim sequencing adapters and barcodes. The Galaxy/GVL 4.1.0 workbench and FROGS<sup><xref ref-type="bibr" rid="CR21">21</xref></sup> was used for filtering and clustering of sequences, essentially as described previously<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. Primer sequences were trimmed and sequences were removed that did not contain both forward and reverse primers, were less than 220 bp in length or greater than 350 bp, contained ambiguities, contained homopolymers with size &gt;7 nt, or contained two poor qualities scores (&lt;10) that were &lt;= 10 nt apart. Clustering was performed using the Swarm method<sup><xref ref-type="bibr" rid="CR22">22</xref></sup>, chimeric DNA sequences were detected and removed as were any clusters containing only a single sequence. After trimming and filtering a total of 31,714,787 amplicon sequences remained with an average read length of 255 nt.</p>
+                <p id="Par15">Statistical analyses were carried out using R CRAN version 3.4.3 and specific R packages<sup><xref ref-type="bibr" rid="CR23">23</xref></sup>. The Phyloseq package<sup><xref ref-type="bibr" rid="CR24">24</xref></sup> was used to compare community structure, and DESeq. 2 was used for differential abundance analysis. The HOMD database was used to assign cluster taxonomy<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. The multivariate longitudinal analyses were conducted as follows: OTU count table were transformed as relative proportions using Total Sum Scaling, followed by Centered Log Ratio transformation<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. Principal Component Analysis was conducted using the mixOmics R package<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>. Because of uneven sampling on each individual infant, time trajectories for each OTU and each infant were modelled using smoothing splines with smoothing parameter 0.4. This process enabled us to interpolate matching time points across each infant. For bacterial biomarker identification, we applied sparse Partial Least Square Discriminant Analysis (sPLS-DA)<sup><xref ref-type="bibr" rid="CR28">28</xref></sup> where we considered specific time points of interest (e.g 39 and 48.6 months-of-age) to discriminate ECC as defined as one or more ICDAS II score of 2 or above versus healthy.</p>
+                <p id="Par16">To determine if the oral microbiome composition changed before the onset of cavitation the cohort was divided into four groups based on the time of the first clinical detection of cavitation, as determined by one or more ICDAS II scores of 3 or above. The four groups were composed of children who had cavitation at 39 months-of-age, comprising 12 individuals; 33 individuals at 48.6 months-of-age; and 20 individuals who had developed disease at 60 months-of-age; and a stay healthy group who had no clinically detectable disease in the first 60 months of life, comprising 69 individuals. The oral microbiome composition was then compared with disease status at later time-points.</p>
+              </sec>
+            </sec>
+            <sec id="Sec10" sec-type="results">
+              <title>Results</title>
+              <p id="Par17">The oral microbiomes of 134 children were characterised at six time-points from two months up to four years-of-age. Of a possible 804 samples, 762 provided usable sequence data. The oral microbiomes of 132 of the 134 mothers were determined at a single time point. The sequenced saliva samples generated 32 million 16S DNA sequences, on average ~35,000 16S DNA sequences were identified per saliva sample with a total of 356 Operational Taxonomic Units (OTUs) identified.</p>
+              <sec id="Sec11">
+                <title>Temporal development of the oral microbiome</title>
+                <p id="Par18">Over time there was an increase in the mean number of bacterial OTUs in the saliva of infants. Children at 1.9 months-of-age had a low bacterial diversity in their saliva with an average of 31 ± 11 OTUs. The bacterial diversity increased over time to reach an average of 84 ± 16 OTUs at 39 months-of-age then remained stable until 48.6 months-of-age (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). The mothers of these children had an average of 124 ± 25 OTUs in saliva. Principal component analysis of the temporal development of the oral microbiome showed a distinct shift in the composition of the microbiome over time (Fig. <xref rid="Fig2" ref-type="fig">2a</xref>). To aid in our understanding of how the oral microbiome develops we defined a “core oral microbiome” as containing all taxa that had a 90% or higher prevalence at one or more time-points. At 1.9 months-of-age only seven bacterial OTUs, <italic>Streptococcus mitis</italic> group (100%), <italic>Gemella haemolysans</italic> (100%), <italic>Streptococcus salivarius</italic> group (98%)<italic>, Rothia mucilaginosa</italic> (93%), <italic>Staphylococcus caprae</italic> (93%), <italic>Haemophilus parainfluenzae</italic> (92%) and <italic>Campylobacter concisus</italic> (92%) were found in above 90% of the child saliva samples (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). At 7.7 months-of-age the number of species detected in the saliva of 90% or more of the cohort had increased to 14. This included six of the seven previous species with only <italic>Staphylococcus caprae</italic> decreasing to below 90% prevalence. At 13.2 months-of-age the core microbiome of saliva had increased to 28 species and by 19.7 months-of-age it was 32 species (Fig. <xref rid="Fig3" ref-type="fig">3</xref>). The total number of species in the core microbiome then remained relatively stable until 48.6 months-of-age, although the composition varied. The mothers had a distinct oral microbiome from the children (Fig. <xref rid="Fig2" ref-type="fig">2b</xref>) with a core microbiome of 54 species, of which 32 of the 40 species listed in Fig. <xref rid="Fig3" ref-type="fig">3</xref> were present. Notable additions to the core microbiome of the adults compared with the children included five species of <italic>Prevotella</italic> (<italic>P. denticola, P. salivae, P. pallens, P. oris</italic> and <italic>P. nigrescens</italic>), <italic>S. mutans</italic> and <italic>T. socranskii</italic>. Interestingly a number of species including <italic>Porphyromonas</italic> sp. oral taxon 930 (64%), <italic>Bergeyella</italic> sp. oral taxon 931 (50%) and <italic>S. sanguinegens</italic> (40%) all decreased markedly in prevalence in adults compared with children.<fig id="Fig1"><label>Figure 1</label><caption><p>Notch plot of the bacterial α-diversity of saliva from the 134 children and their mothers examined in this study. The figure shows oral bacterial community development in children as the increase in taxa number over six time-points, from 1.9 to 48.6 months-of-age. The number of bacterial taxa in the saliva of mothers taken when their children were 7.7 months-of-age is shown for comparison. The box represents the interquartile (50% of data), the horizontal line in the box represents the median, the “notch” represents the 95% confidence interval of the median and the “whiskers” represent the maximum and minimum values.</p></caption><graphic xlink:href="41598_2019_56233_Fig1_HTML" id="d29e725"/></fig><fig id="Fig2"><label>Figure 2</label><caption><p>Principal component analysis of the oral microbiome from 1.9 months to 48.6 months-of-age showing the temporal development of the bacterial community. (<bold>A</bold>) Inclusion of the mothers’ oral microbiome (blue) into the data, showing the relationship of the children’s microbiome to that of their mothers’. (<bold>B</bold>) Without the mothers, a longitudinal trend is still observed. The microbiome of each child is shown at ages 1.9 (orange), 7.7 (grey), 13.2 (green), 19.7 (pink), 39 (yellow) and 48.6 (black) months. Confidence ellipse plots for each mean age group are represented at a 95% level.</p></caption><graphic xlink:href="41598_2019_56233_Fig2_HTML" id="d29e741"/></fig><fig id="Fig3"><label>Figure 3</label><caption><p>Temporal development of the core oral microbiome. Values represent the percentage of the cohort with detectable levels of each taxa at the six mean ages tested. Taxa were considered to be part of the core microbiome if they were present in the saliva of more than 90% of the children in the cohort at one or more time-points. Bold font within the Figure shows those values above 90%. Taxa are arranged from early to late colonisers and the shading clusters taxa based on when they first became part of the core microbiome. <italic>Staphylococcus caprae</italic> is placed at the end of the Figure due to its anomalous colonization pattern. The final row shows the total number of taxa in the children’s core microbiome at that time point.</p></caption><graphic xlink:href="41598_2019_56233_Fig3_HTML" id="d29e753"/></fig></p>
+                <p id="Par19">The five most abundant OTUs, <italic>Streptococcus mitis</italic> group, <italic>G. haemolysans</italic>, <italic>S. salivarius</italic> group, <italic>H. parainfluenzae</italic>, and <italic>Granulicatella elegans</italic>, composed on average 90% of the total bacteria found in saliva at 1.9 months-of-age. This total proportion declined to 70% by four years-of-age driven mainly by declines in two of the OTUs the <italic>Streptococcus mitis</italic> group and the <italic>S. salivarius</italic> group (Fig. <xref rid="Fig4" ref-type="fig">4</xref>). At all time-points the <italic>Streptococcus mitis</italic> group was by far the most abundant OTU in saliva. However, the abundance of this taxon decreased substantially over the first 19.7 months of life, as the species richness of the saliva increased, and then remained relatively stable until 48.6 months-of-age. At this age the <italic>Streptococcus mitis</italic> group was still twice as abundant in children’s saliva compared with their mothers (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).<fig id="Fig4"><label>Figure 4</label><caption><p>Change in the bacterial composition of children’s saliva from 1.9 months to 48.6 months-of-age based on the twenty most abundant taxa. The bacterial composition of the mothers’ saliva when the children were 7.7 months-of-age is shown for comparison.</p></caption><graphic xlink:href="41598_2019_56233_Fig4_HTML" id="d29e799"/></fig></p>
+                <p id="Par20"><italic>G. haemolysans</italic> was the second most abundant bacterial species across the first four years of life. There was a relatively small increase in abundance of this species between two months and four years-of-age. Interestingly the adult saliva on average contained fewer than half the <italic>G. haemolysans</italic> of the children (Fig. <xref rid="Fig4" ref-type="fig">4</xref>). <italic>H. parainfluenzae</italic> showed a steady increase in abundance over the first three years of life before dropping slightly at four years-of-age to a level similar to that seen in adults. <italic>G. elegans</italic> was largely absent from the saliva of infants at 1.9 months-of-age but was relatively abundant by 8 months-of-age and did not change significantly in abundance over the next 40 months of life. The <italic>S. salivarius</italic> group was a major component of the adults’ saliva and had a similar abundance in infants at two months-of-age. Its abundance declined markedly after two months-of-age and then only increased slightly over time to four years-of-age (Fig. <xref rid="Fig4" ref-type="fig">4</xref>).</p>
+              </sec>
+              <sec id="Sec12">
+                <title>Disease development in the cohort</title>
+                <p id="Par21">All infants examined in this study had a healthy dentition up to a mean age of 19.7 months. At the following clinical assessment at 39 months-of-age, 12 children had cavitation, as defined by having at least one ICDAS II score of 3 or higher. By a mean of 48.6 months-of-age a total of 45 children had clinically detectable cavitation, with 33 of those children developing cavities between 39 and 48.6 months-of-age. By a mean of five years-of-age a total of 65 of the 259 children had cavities with 20 children developing enamel cavities between 48.6 and 60 months-of-age. Using a more sensitive measure of an ICDAS II score of 2, which is a distinct visual change in enamel, as a determination of clinically detectable ECC, 106 of the 259 (41%) children had disease at five years-of-age.</p>
+                <p id="Par22">As would be expected the severity of ECC varied across those 65 children with disease. To quantify this variability an ECC severity score was developed by multiplying the number of teeth affected in a child by their ICDAS II score and then summing them. Children who first had ECC detected at 39 months-of-age had a mean ECC severity score of 20.5 ± 11.4 with a median of 17.0 at 60 months-of-age. Children who first had ECC detected at 48.6 months-of-age, had a mean ECC severity score of 17.3 ± 9.0 with a median of 15.0 at 60 months-of-age. This indicates that similar disease outcomes at 60 months-of-age were obtained for children developing ECC between 39 and 48.6 months-of-age. Children who first had ECC detected at 60 months-of-age had a lower mean ECC severity score of 11.6 ± 5.8 with a median of 10.0. At the severe end of the disease spectrum by 60 months-of-age 11 children had ICDAS II scores of 6 (Extensive distinct cavity with visible dentin). One child had ten teeth with detectable ECC, five of these teeth had an ICDAS II score of 5 (Distinct cavity with visible dentin) and one had a score of 6 (Table <xref rid="Tab1" ref-type="table">1</xref>). Of those children with ECC the 10% with the most severe disease had an ECC severity score of 25 or above and the top 20% had an ECC severity score of 23 or above (Table <xref rid="Tab1" ref-type="table">1</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Severity score of ECC at 60 months-of-age.</p></caption><table frame="hsides" rules="groups"><thead><tr><th>ID</th><th>Total No. Teeth with ICDAS II ≥2</th><th>Severity Score at 60 months-of-age*</th></tr></thead><tbody><tr><td>241</td><td>9</td><td>48</td></tr><tr><td>641</td><td>11</td><td>46</td></tr><tr><td>8</td><td>8</td><td>33</td></tr><tr><td>802</td><td>9</td><td>31</td></tr><tr><td>126</td><td>8</td><td>28</td></tr><tr><td>486</td><td>7</td><td>28</td></tr><tr><td>925</td><td>5</td><td>25</td></tr><tr><td>896</td><td>6</td><td>25</td></tr><tr><td>302</td><td>7</td><td>25</td></tr><tr><td>226</td><td>7</td><td>25</td></tr><tr><td>613</td><td>6</td><td>23</td></tr><tr><td>660</td><td>6</td><td>23</td></tr><tr><td>507</td><td>5</td><td>22</td></tr></tbody></table><table-wrap-foot><p>The severity score was determined by multiplying the number of teeth affected by the ICDAS II score of that tooth and summing the results. The Table shows the scores for the 13 individuals with the most advanced disease in this study.</p></table-wrap-foot></table-wrap></p>
+              </sec>
+              <sec id="Sec13">
+                <title>Oral microbiome and ECC</title>
+                <p id="Par23">The sPLS-DA analysis was conducted to identify key taxa discriminating the oral microbiome of children who were healthy from those who had clinically detectable disease at 39 or 48.6 months-of-age as defined as one or more ICDAS II score of 2 or above. Overlap was observed between the two groups (Figs. <xref rid="Fig5" ref-type="fig">5a</xref> and <xref rid="Fig6" ref-type="fig">6a</xref>), but the analyses consistently identified <italic>S. mutans</italic> as the most discriminatory taxa associated with disease. At 48.6 months-of-age <italic>Leptotrichia shahii</italic>, <italic>Scardovia wiggsiae</italic> and <italic>Leptotrichia</italic> IK040 were also associated with disease (Figs. <xref rid="Fig5" ref-type="fig">5a</xref> and <xref rid="Fig6" ref-type="fig">6a</xref>). There was a less consistent association of particular taxa with health at these two ages with <italic>Fusobacterium periodonticum</italic>, <italic>Stomatobaculum longum</italic> and <italic>Bergeyella</italic> 602D02 being associated with health at 39 months-of-age and <italic>Prevotella shahii</italic>, <italic>Prevotella pallens</italic>, <italic>Stomatobaculum longum</italic>, <italic>Porphyromonas</italic> CW034 and <italic>Capnocytophaga</italic> AM20030 being associated with health at 48.6 months-of-age (Figs. <xref rid="Fig5" ref-type="fig">5b</xref> and <xref rid="Fig6" ref-type="fig">6b</xref>).<fig id="Fig5"><label>Figure 5</label><caption><p>Discriminant Analysis of oral microbiome taxa at a mean age of 39 months associated with health (caries free) or disease (ECC as defined by the presence of one or more ICDAS II score of two or above). (<bold>A</bold>) sPLS-DA plot showing some discrimination of the sample groups, 95% confidence ellipse plots are represented. (<bold>B</bold>) Most important taxa selected from sPLS-DA and associated with caries free or ECC. The x-axis represents the importance of each OTU in sPLS-DA, the y-axis the OTUs with their Genus | Species taxonomy classification. Colours indicate the sample group where the OTU’s median was the largest. Blue = health; Orange = disease.</p></caption><graphic xlink:href="41598_2019_56233_Fig5_HTML" id="d29e1069"/></fig><fig id="Fig6"><label>Figure 6</label><caption><p>Discriminant Analysis of oral microbiome taxa at a mean age of 48.6 months associated with health (caries free) or disease (ECC as defined by the presence of one or more ICDAS II score of two or above). (<bold>A</bold>) sPLS-DA plot showing some discrimination of the sample groups, 95% confidence ellipse plots are represented. (<bold>B</bold>) Most important taxa selected from sPLS-DA and associated with caries free or ECC. The x-axis represents the importance of each OTU in sPLS-DA, the y-axis the OTUs with their Genus | Species taxonomy classification. Colours indicate the sample group where the OTU’s median was the largest. Blue = health; Orange = disease.</p></caption><graphic xlink:href="41598_2019_56233_Fig6_HTML" id="d29e1084"/></fig></p>
+                <p id="Par24">There was little difference in the oral microbiomes at 1.9, 7.7 and 19.7 months-of-age of those children who developed disease at the later time points compared with those that remained healthy (data not shown). However, at 39 months-of-age there were differences in the abundances of particular taxa in the oral microbiome of children who developed disease compared with those who remained healthy at 48.6 months-of-age (Fig. <xref rid="Fig7" ref-type="fig">7</xref>). In particular <italic>S. mutans</italic>, <italic>S. sobrinus</italic> and <italic>V. parvula</italic> levels were all elevated in children who developed disease. Conversely <italic>Prevotella nigrescens</italic>, three species of <italic>Leptotricia</italic> and <italic>Actinobaculum</italic> 12B759 levels were decreased in children who developed disease.<fig id="Fig7"><label>Figure 7</label><caption><p>Differences in bacterial taxa abundances in saliva at 39 months-of-age in children who developed disease at 48.6 months-of-age compared with those that remained healthy.</p></caption><graphic xlink:href="41598_2019_56233_Fig7_HTML" id="d29e1117"/></fig></p>
+              </sec>
+              <sec id="Sec14">
+                <title><italic>S. mutans</italic> and disease</title>
+                <p id="Par25">As our data indicated that <italic>S. mutans</italic> was the most discriminatory taxa for the prediction of present and future clinical disease we focussed on this species. Only 24% of infants had detectable levels of <italic>S. mutans</italic> in their saliva at 1.9 months-of-age. Interestingly, this prevalence decreased to 17% at 7.7 months-of-age before increasing to 25% at 13.2 months-of-age, 42% at 19.7 months-of-age and 58% at 39 months-of-age. The prevalence of S. mutans then decreased slightly to 51% at 48.6 months-of-age. Nine children had no detectable <italic>S. mutans</italic> at any time-point up to and including the 48.6 month sample and eight of these children remained healthy with a single child developing detectable disease at 60 months-of-age.</p>
+                <p id="Par26">The abundance of <italic>S. mutans</italic> in saliva of adults at a single time-point and children at the six time-points between 1.9 months and 48.6 months-of-age was compared with the time caries was first clinically detected. As shown above ECC was first clinically detected in this cohort at 39 months-of-age. There was no significant difference in the abundance of <italic>S. mutans</italic> in the saliva of the mothers whose children remained healthy and those who developed clinical signs of disease at 39, 48.6 or 60 months-of-age (Fig. <xref rid="Fig8" ref-type="fig">8A</xref>). Similarly, <italic>S. mutans</italic> levels in the saliva of children at 1.9, 7.7 and 13.2 months-of-age were not significantly different in children who remained healthy compared with children who developed clinical ECC during the study (Fig. <xref rid="Fig8" ref-type="fig">8B–D</xref>). In contrast at 19.7 months-of-age salivary levels of <italic>S. mutans</italic> were significantly elevated in children who developed ECC at 39 (p = 0.017) and 48.6 (p = 0.015) months-of-age, but not children who developed disease at 60 months-of-age, compared with the stay healthy group. (Fig. <xref rid="Fig8" ref-type="fig">8E</xref>). At 39 months-of-age salivary levels of <italic>S. mutans</italic> were significantly elevated in children who first had ECC clinically detected at 39 (p = 0.000) and 48.6 (p = 0.000) months-of-age, but not those children who were first diagnosed at 60 months-of-age (p = 0.073), relative to the stay healthy group (Fig. <xref rid="Fig8" ref-type="fig">8F</xref>). At 48.6 months-of-age <italic>S. mutans</italic> levels were significantly elevated in the saliva of children who were first clinically diagnosed with caries at 48.6 (p = 0.000) and 60 (p = 0.009) months-of-age relative to the stay healthy group (Fig. <xref rid="Fig8" ref-type="fig">8G</xref>). At 48.6 months-of-age salivary <italic>S. mutans</italic> in children who were clinically determined to have ECC at 39 months-of-age was still elevated.<fig id="Fig8"><label>Figure 8</label><caption><p>Abundance of <italic>S. mutans</italic> in the saliva of mothers and children at specified time points who remained healthy for the entire 60 months (purple, n = 69), developed clinically detectable disease at 39 months (red, n = 12), 48.6 months (green, n = 33) or 60 months (blue, n = 20) of age. The box plots show the median (line within the box), first and third quartiles (box), non-outlier range (whiskers), and outliers (dots). Asterisks denote those values significantly different to the remain healthy control group.</p></caption><graphic xlink:href="41598_2019_56233_Fig8_HTML" id="d29e1185"/></fig></p>
+              </sec>
+            </sec>
+            <sec id="Sec15" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par27">There is currently only very limited information available regarding the development of the oral microbiome in the crucial first years of life<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR29">29</xref></sup>. This is the first study to characterise the oral microbiomes of over 100 children at six time points from near birth to four years-of-age. There was a rapid colonisation of the oral cavity by a limited number of early colonising bacterial taxa over the first two years of life, demonstrating that this is a crucial age for the ordered development of the oral microbiome. The timing of colonisation and bacterial community development may be affected by a range of environmental factors including the microbiome of their mother, diet, health and antibiotic intake, and may have implications for the normal development of the oral microbiota and disease risk<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>.</p>
+              <p id="Par28">Defining a core oral microbiome as being made up of species that were detected in at least 90% of the children in the cohort, regardless of the abundance of the bacterium, enabled the colonisation pattern of the oral cavity to be determined. The core oral microbiome increased five-fold between approximately two and 39 months-of-age with the initial core microbiome mainly composed of species that adhere to and colonise mucosal epithelial surfaces such as <italic>R. mucilaginosa</italic>, <italic>G. haemolysans</italic> and the <italic>S. salivarius</italic> and <italic>S. mitis</italic> groups. This is to be expected given the absence of teeth in the oral cavity of two-month-old infants. The emergence of hard non-shedding tooth surfaces and dietary changes creating new niches are likely to be responsible for the rapid expansion of the core saliva microbiome. The development of the bacterial biofilm communities that comprise plaque has been shown to proceed in an ordered manner with particular taxa fulfilling specific ecological roles<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>. Colonisation times may therefore affect normal plaque development, and possibly susceptibility to disease.</p>
+              <p id="Par29">The <italic>S. mitis</italic> group and <italic>G. haemolysans</italic> were the two most abundant taxa in saliva in the first four years of life and had colonised all children by two months-of-age, demonstrating the early colonisation of the oral cavity by these species prior to tooth eruption. The <italic>Streptococcus mitis</italic> group are widely regarded as commensal species that are associated with oral health<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>. This group of species has a high degree of similarity at the genetic and physiological level<sup><xref ref-type="bibr" rid="CR32">32</xref></sup> and contains species including <italic>S. mitis</italic>, <italic>S. oralis</italic>, <italic>S. pneumoniae, S. peroris</italic> and <italic>S. dentisani</italic> that are inconsistently classified and difficult to differentiate using the V4 region of the 16s RNA gene<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>. The use of the V4 region in this study is therefore likely to lead to an underestimation of the total biodiversity within the oral microbiome. The predominance of the <italic>S. mitis</italic> group reduced over time as more bacterial species colonised the oral cavity. At four years-of-age both species were twice as abundant in the saliva of children compared with adults. This is consistent with the study of Dzidic <italic>et al</italic>.<sup><xref ref-type="bibr" rid="CR29">29</xref></sup> who found that <italic>Streptococcus</italic> spp. comprised approximately 80% of the saliva microbiome at three months-of-age declining to around 60% by 7 years-of-age and <italic>Gemella</italic> spp. increased from approximately 6% to 8% over the same time. Sulyanto <italic>et al</italic>.<sup><xref ref-type="bibr" rid="CR14">14</xref></sup> also found that the <italic>S. mitis</italic> group along with <italic>G. haemolysans, R. mucilaginosa</italic> and the <italic>S. salivarius</italic> group were the most abundant taxa in toddlers and infants up to one year of age.</p>
+              <p id="Par30">In the majority of cases the prevalence of core microbiome taxa increased with age. Unusually the prevalence of <italic>S. caprae</italic> decreased over time. This bacterium is regarded as a commensal of human skin and its prevalence at early time-points may reflect contamination of the saliva by contact with the infant’s or mother’s skin, alternatively this species may colonise the oral cavity early in life before being displaced. Three other species <italic>Bergeyella</italic> sp. oral taxon 931, <italic>Leptotrichia</italic> sp. oral taxon 221 and <italic>Sneathia sanguinegens</italic> all increased in prevalence to 13.2 months-of-age and then decreased. A few species such as <italic>Tannerella</italic> sp. oral taxon 286, <italic>L. shahii</italic> and <italic>C. morbi</italic> increased in prevalence relatively slowly, becoming components of the core oral microbiome at 39 months-of-age. However, colonisation of the oral cavity by new species still occurs well after four years-of-age as their mothers’ saliva contained many more species and had a distinctly different composition.</p>
+              <p id="Par31">In this observed cohort at a mean age of five years 105 of the 259 children in the cohort (41%) had early clinical signs of ECC as determined by an ICDAS II score of 2 or above and 65 of the children (25%) had enamel caries with cavitation, as defined as one or more teeth with an ICDAS II score of 3 or above. This level of disease is similar to that seen in comparable populations<sup><xref ref-type="bibr" rid="CR34">34</xref></sup>. However, few epidemiological studies have been conducted with children under five years-of-age so it is difficult to generalise amongst populations<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. ECC is a disease that is detected at varying times and progresses at different rates in individuals. As shown in this study where twelve children (4.6%) showed the first clinical evidence of disease at the 39 month examination, 33 (12.7%) showed the first clinical evidence of disease at the 48.6 month examination and 20 (7.7%) at the five year examination. As could be expected children who first displayed the clinical signs of ECC at 39 months-of-age had more advanced or widespread disease at 60 months-of-age than children who did not display clinical disease until the later time-points as determined using a cumulative ICDAS II score.</p>
+              <p id="Par32">ECC begins as a change in the bacterial species composition of the plaque biofilm at specific sites in the oral cavity prior to the subsurface demineralisation of enamel and clinical symptoms of disease. Detection of the change in composition of the supragingival plaque microbiota may therefore be a way to detect ECC prior to clinical manifestation of disease and offers the opportunity to intervene to manage the disease process at its earliest stages and prevent irreversible cavitation. The abundance of a number of bacterial species in supragingival plaque has been associated with caries activity in cross sectional studies<sup><xref ref-type="bibr" rid="CR12">12</xref></sup>. In the present study we have shown that there was a shift in the composition of the oral microbiome of children who had clinically detectable disease compared with those who were healthy at both 39 and 48.6 months-of-age. However, the magnitude of the shift was insufficient to adequately differentiate between clinical health and disease at an individual level. The most discriminatory species identified to be associated with ECC at both ages was <italic>S. mutans</italic>.</p>
+              <p id="Par33">A number of studies have investigated the potential for the oral microbiome to predict future disease. In a recent cohort study the abundance of <italic>Streptococcus cristatus</italic> in saliva was significantly higher at both 3 and 24 months-of-age in children who had caries at 9 years-of-age compared with those who were caries free<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>. Sampling children at two time-points over a three-year period Holgerson and colleagues<sup><xref ref-type="bibr" rid="CR36">36</xref></sup> determined that apart from higher levels of lactobacilli, the bacterial composition of saliva at 3 months-of-age was unrelated to caries development at three years-of-age. The occurrence of <italic>Lactobacillus</italic> spp. in our cohort was universally low with usually only 2–5 children having detectable levels at any given time-point and the detection of these species showed no correlation with disease. In a population with a high prevalence of ECC Chaffee <italic>et al</italic>.<sup><xref ref-type="bibr" rid="CR37">37</xref></sup> showed that high maternal levels of <italic>L. casei</italic> and <italic>S. mutans</italic> in saliva were predictive of increased ECC occurrence. However, in the current cohort although all mothers had detectable levels of <italic>S. mutans</italic> in their saliva the abundance of this species was not predictive of ECC in their children.</p>
+              <p id="Par34">Most children are reported to acquire <italic>S. mutans</italic> soon after eruption of the primary teeth<sup><xref ref-type="bibr" rid="CR38">38</xref>,<xref ref-type="bibr" rid="CR39">39</xref></sup>. In an American population with very high ECC incidence, 50% of the children in the cohort had detectable <italic>S. mutans</italic> or <italic>S. sobrinus</italic> in their saliva by two years-of-age and ~79% were positive by four years-of-age<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. In the current study <italic>S. mutans</italic> was detectable in approximately one quarter of the cohort at 1.9 months-of-age, well before the eruption of teeth, but this prevalence decreased at 7.7 months before returning to a quarter at 13.2 months-of-age. By four years-of-age half of all children had detectable <italic>S. mutans</italic> in their saliva. This pattern of colonisation may indicate early inoculation from their mother or other sources followed by a failure to establish well and proliferate in some children until later in life.</p>
+              <p id="Par35">At 39 months-of-age <italic>S. mutans</italic>, <italic>S. sobrinus</italic> and <italic>V. parvula</italic> levels in the saliva of children who developed disease at 48.6 months-of-age were all elevated compared with those that remained healthy. Salivary <italic>S. mutans</italic> levels were also significantly elevated at 19.7, 39 and 48.6 months-of-age in healthy children who had clinically detectable ECC at the following examination compared with children who remained healthy. Salivary <italic>S. mutans</italic> levels also remained elevated during active disease. It is likely therefore that salivary levels of <italic>S. mutans</italic>, as well as others including <italic>S. sobrinus</italic> and <italic>V. parvula</italic>, are a useful prognostic biomarker for imminent enamel demineralisation in children from 18 months to four years-of-age. Although this association has been shown previously the majority of studies specifically targeted S. mutans using PCR or culture, were cross sectional or both<sup><xref ref-type="bibr" rid="CR41">41</xref>,<xref ref-type="bibr" rid="CR42">42</xref></sup>. Our study using a prospective cohort study design and a relatively unbiased, open end methodology was able to examine the associations of the majority of bacterial species in saliva with disease over time. Elevated levels of <italic>S. mutans</italic>, <italic>S. sobrinus</italic> and <italic>V. parvula</italic> in saliva is likely to be a surrogate marker for frequent dietary carbohydrate intake in children. This intake results in dysbiosis of the microbial community leading to increases in acidogenic and aciduric bacteria in supragingival plaque<sup><xref ref-type="bibr" rid="CR11">11</xref></sup>.</p>
+              <p id="Par36">In conclusion the oral microbiome shows an ordered ecological succession during the first four years of life and the bacterial composition of saliva and in particular the abundance of certain species may have potential as biomarkers for ECC.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary information</title>
+              <sec id="Sec16">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="41598_2019_56233_MOESM1_ESM.pdf">
+                      <caption>
+                        <p>Supplementary Tables</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p><bold>Publisher’s note</bold> Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <sec>
+              <title>Supplementary information</title>
+              <p>is available for this paper at 10.1038/s41598-019-56233-0.</p>
+            </sec>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>The authors would like to acknowledge all the families who have given up time to be involved in the cohort, the Maternal and Child Health Nurses and administration staff who assisted with recruitment. We also acknowledge Dr. Andrea de Silva as well as the project staff who have been involved in the cohort. This research was supported by: The National Health and Medical Research Council (Primary Health Care Project Grant 425829, Career Development Fellowship 1087415 to KALC); Dental Health Services Victoria; Financial Markets Foundation for Children; Jack Brockhoff Foundation; La Trobe University, the Victorian Government Department for Education and Training and the Australian Government Department of Industry, Innovation and Science Grant ID 20080108 through the Oral Health Cooperative Research Centre. The authors dedicate this paper to the memory of Professor Elizabeth Waters whose leadership, vision and vitality will never be forgotten.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>S.G.D., M.G.G. conceived, designed and oversaw the overall study; H.L.M., B.H., D.V.C., E.C.R., S.L.G., D.M.B., T.S. conducted the microbiomic analyses; K.-A.L.C., S.P. conducted bioinformatic and biostatistical analyses of the microbiome data; L.C., H.C., S.J., L.G., E.A. oversaw the cohort study, collated and analysed the clinical data; U.B., D.J.M., G.M. provided clinical and statistical analyses of the data.</p>
+            </notes>
+            <notes notes-type="COI-statement">
+              <title>Competing interests</title>
+              <p id="Par37">The authors declare no competing interests.</p>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Frencken</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Minimal intervention dentistry for managing dental caries - a review: report of a FDI task group</article-title>
+                  <source>Int Dent J</source>
+                  <year>2012</year>
+                  <volume>62</volume>
+                  <fpage>223</fpage>
+                  <lpage>243</lpage>
+                  <pub-id pub-id-type="doi">10.1111/idj.12007</pub-id>
+                  <?supplied-pmid 23106836?>
+                  <pub-id pub-id-type="pmid">23106836</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ha</surname>
+                      <given-names>Diep</given-names>
+                    </name>
+                    <name>
+                      <surname>Do</surname>
+                      <given-names>Loc</given-names>
+                    </name>
+                    <name>
+                      <surname>Spencer</surname>
+                      <given-names>Andrew</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomson</surname>
+                      <given-names>William</given-names>
+                    </name>
+                    <name>
+                      <surname>Golley</surname>
+                      <given-names>Rebecca</given-names>
+                    </name>
+                    <name>
+                      <surname>Rugg-Gunn</surname>
+                      <given-names>Andrew</given-names>
+                    </name>
+                    <name>
+                      <surname>Levy</surname>
+                      <given-names>Steven</given-names>
+                    </name>
+                    <name>
+                      <surname>Scott</surname>
+                      <given-names>Jane</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors Influencing Early Feeding of Foods and Drinks Containing Free Sugars—A Birth Cohort Study</article-title>
+                  <source>International Journal of Environmental Research and Public Health</source>
+                  <year>2017</year>
+                  <volume>14</volume>
+                  <issue>10</issue>
+                  <fpage>1270</fpage>
+                  <pub-id pub-id-type="doi">10.3390/ijerph14101270</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Peres</surname>
+                      <given-names>Karen Glazer</given-names>
+                    </name>
+                    <name>
+                      <surname>Nascimento</surname>
+                      <given-names>Gustavo G.</given-names>
+                    </name>
+                    <name>
+                      <surname>Peres</surname>
+                      <given-names>Marco Aurelio</given-names>
+                    </name>
+                    <name>
+                      <surname>Mittinty</surname>
+                      <given-names>Murthy N.</given-names>
+                    </name>
+                    <name>
+                      <surname>Demarco</surname>
+                      <given-names>Flavio Fernando</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>Ina Silva</given-names>
+                    </name>
+                    <name>
+                      <surname>Matijasevich</surname>
+                      <given-names>Alicia</given-names>
+                    </name>
+                    <name>
+                      <surname>Barros</surname>
+                      <given-names>Aluisio J D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of Prolonged Breastfeeding on Dental Caries: A Population-Based Birth Cohort Study</article-title>
+                  <source>Pediatrics</source>
+                  <year>2017</year>
+                  <volume>140</volume>
+                  <issue>1</issue>
+                  <fpage>e20162943</fpage>
+                  <pub-id pub-id-type="doi">10.1542/peds.2016-2943</pub-id>
+                  <pub-id pub-id-type="pmid">28759394</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Drury</surname>
+                      <given-names>TF</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Diagnosing and Reporting Early Childhood Caries for Research Purposes: A Report of a Workshop Sponsored by the National Institute of Dental and Craniofacial Research, the Health Resources and Services Administration, and the Health Care Financing Administration</article-title>
+                  <source>Journal of Public Health Dentistry</source>
+                  <year>1999</year>
+                  <volume>59</volume>
+                  <fpage>192</fpage>
+                  <lpage>197</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.1999.tb03268.x</pub-id>
+                  <?supplied-pmid 10649591?>
+                  <pub-id pub-id-type="pmid">10649591</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <mixed-citation publication-type="other">Ha, D., Roberts-Thomson, K. F. &amp; Armfield, J. M. <italic>The Child Dental Health Survey Australia</italic>, 2005 and 2006. (Australian Institute of Health and Welfare Australia, 2011).</mixed-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shackleton</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Inequalities in dental caries experience among 4-year-old New Zealand children</article-title>
+                  <source>Community Dentistry and Oral Epidemiology</source>
+                  <year>2018</year>
+                  <volume>46</volume>
+                  <fpage>288</fpage>
+                  <lpage>296</lpage>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12364</pub-id>
+                  <?supplied-pmid 29419880?>
+                  <pub-id pub-id-type="pmid">29419880</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marsh</surname>
+                      <given-names>PD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Are dental diseases examples of ecological catastrophes?</article-title>
+                  <source>Microbiology</source>
+                  <year>2003</year>
+                  <volume>149</volume>
+                  <fpage>279</fpage>
+                  <lpage>294</lpage>
+                  <pub-id pub-id-type="doi">10.1099/mic.0.26082-0</pub-id>
+                  <?supplied-pmid 12624191?>
+                  <pub-id pub-id-type="pmid">12624191</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marsh</surname>
+                      <given-names>PD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Dental plaque as a biofilm and a microbial community - implications for health and disease</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2006</year>
+                  <volume>6</volume>
+                  <issue>Suppl 1</issue>
+                  <fpage>S14</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1472-6831-6-S1-S14</pub-id>
+                  <?supplied-pmid 16934115?>
+                  <pub-id pub-id-type="pmid">16934115</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kressirer</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Scardovia wiggsiae and its potential role as a caries pathogen</article-title>
+                  <source>Journal of oral biosciences</source>
+                  <year>2017</year>
+                  <volume>59</volume>
+                  <fpage>135</fpage>
+                  <lpage>141</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.job.2017.05.002</pub-id>
+                  <?supplied-pmid 29104444?>
+                  <pub-id pub-id-type="pmid">29104444</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Takahashi</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Nyvad</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Role of Bacteria in the Caries Process:Ecological Perspectives</article-title>
+                  <source>Journal of Dental Research</source>
+                  <year>2011</year>
+                  <volume>90</volume>
+                  <fpage>294</fpage>
+                  <lpage>303</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034510379602</pub-id>
+                  <?supplied-pmid 20924061?>
+                  <pub-id pub-id-type="pmid">20924061</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tanner</surname>
+                      <given-names>ACR</given-names>
+                    </name>
+                    <name>
+                      <surname>Kressirer</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rothmiller</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Johansson</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Chalmers</surname>
+                      <given-names>NI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Caries Microbiome: Implications for Reversing Dysbiosis</article-title>
+                  <source>Advances in Dental Research</source>
+                  <year>2018</year>
+                  <volume>29</volume>
+                  <fpage>78</fpage>
+                  <lpage>85</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034517736496</pub-id>
+                  <?supplied-pmid 29355414?>
+                  <pub-id pub-id-type="pmid">29355414</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aas</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Bacteria of dental caries in primary and permanent teeth in children and young adults</article-title>
+                  <source>J Clin Microbiol</source>
+                  <year>2008</year>
+                  <volume>46</volume>
+                  <fpage>1407</fpage>
+                  <lpage>1417</lpage>
+                  <pub-id pub-id-type="doi">10.1128/JCM.01410-07</pub-id>
+                  <?supplied-pmid 18216213?>
+                  <pub-id pub-id-type="pmid">18216213</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Teng</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Prediction of Early Childhood Caries via Spatial-Temporal Variations of Oral Microbiota</article-title>
+                  <source>Cell Host Microbe</source>
+                  <year>2015</year>
+                  <volume>18</volume>
+                  <fpage>296</fpage>
+                  <lpage>306</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.chom.2015.08.005</pub-id>
+                  <?supplied-pmid 26355216?>
+                  <pub-id pub-id-type="pmid">26355216</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sulyanto</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Thompson</surname>
+                      <given-names>ZA</given-names>
+                    </name>
+                    <name>
+                      <surname>Beall</surname>
+                      <given-names>CJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Leys</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Griffen</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Predominant Oral Microbiota Is Acquired Early in an Organized Pattern</article-title>
+                  <source>Scientific Reports</source>
+                  <year>2019</year>
+                  <volume>9</volume>
+                  <fpage>10550</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41598-019-46923-0</pub-id>
+                  <?supplied-pmid 31332213?>
+                  <pub-id pub-id-type="pmid">31332213</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hall</surname>
+                      <given-names>MW</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Inter-personal diversity and temporal dynamics of dental, tongue, and salivary microbiota in the healthy oral cavity</article-title>
+                  <source>npj Biofilms and Microbiomes</source>
+                  <year>2017</year>
+                  <volume>3</volume>
+                  <fpage>2</fpage>
+                  <pub-id pub-id-type="doi">10.1038/s41522-016-0011-0</pub-id>
+                  <?supplied-pmid 28649403?>
+                  <pub-id pub-id-type="pmid">28649403</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Silva-Sanigorski</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The VicGeneration study—a birth cohort to examine the environmental, behavioural and biological predictors of early childhood caries: background, aims and methods</article-title>
+                  <source>BMC Public Health</source>
+                  <year>2010</year>
+                  <volume>10</volume>
+                  <fpage>97</fpage>
+                  <pub-id pub-id-type="doi">10.1186/1471-2458-10-97</pub-id>
+                  <?supplied-pmid 20181292?>
+                  <pub-id pub-id-type="pmid">20181292</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gussy</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Natural history of dental caries in very young Australian children</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2016</year>
+                  <volume>26</volume>
+                  <fpage>173</fpage>
+                  <lpage>183</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12169</pub-id>
+                  <?supplied-pmid 25967851?>
+                  <pub-id pub-id-type="pmid">25967851</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Braga</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Oliveira</surname>
+                      <given-names>LB</given-names>
+                    </name>
+                    <name>
+                      <surname>Bonini</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Bonecker</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mendes</surname>
+                      <given-names>FM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Feasibility of the International Caries Detection and Assessment System (ICDAS-II) in epidemiological surveys and comparability with standard World Health Organization criteria</article-title>
+                  <source>Caries Res</source>
+                  <year>2009</year>
+                  <volume>43</volume>
+                  <fpage>245</fpage>
+                  <lpage>249</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000217855</pub-id>
+                  <?supplied-pmid 19439944?>
+                  <pub-id pub-id-type="pmid">19439944</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shoaib</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Deery</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Ricketts</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                    <name>
+                      <surname>Nugent</surname>
+                      <given-names>ZJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Validity and reproducibility of ICDAS II in primary teeth</article-title>
+                  <source>Caries Res</source>
+                  <year>2009</year>
+                  <volume>43</volume>
+                  <fpage>442</fpage>
+                  <lpage>448</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000258551</pub-id>
+                  <?supplied-pmid 19907175?>
+                  <pub-id pub-id-type="pmid">19907175</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fernando</surname>
+                      <given-names>JR</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The prebiotic effect of CPP-ACP sugar-free chewing gum</article-title>
+                  <source>Journal of Dentistry</source>
+                  <year>2019</year>
+                  <volume>91</volume>
+                  <fpage>103225</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2019.103225</pub-id>
+                  <?supplied-pmid 31693918?>
+                  <pub-id pub-id-type="pmid">31693918</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Escudie</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>FROGS: Find, Rapidly, OTUs with Galaxy Solution</article-title>
+                  <source>Bioinformatics</source>
+                  <year>2018</year>
+                  <volume>34</volume>
+                  <fpage>1287</fpage>
+                  <lpage>1294</lpage>
+                  <pub-id pub-id-type="doi">10.1093/bioinformatics/btx791</pub-id>
+                  <?supplied-pmid 29228191?>
+                  <pub-id pub-id-type="pmid">29228191</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mahe</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Rognes</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Quince</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>de Vargas</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Dunthorn</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Swarm: robust and fast clustering method for amplicon-based studies</article-title>
+                  <source>PeerJ</source>
+                  <year>2014</year>
+                  <volume>2</volume>
+                  <fpage>e593</fpage>
+                  <pub-id pub-id-type="doi">10.7717/peerj.593</pub-id>
+                  <?supplied-pmid 25276506?>
+                  <pub-id pub-id-type="pmid">25276506</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <mixed-citation publication-type="other">R: A language and environment for statistical computing. (R Foundation for Statistical Computing, Vienna, Austria, 2017).</mixed-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>McMurdie</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Holmes</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>phyloseq: an R package for reproducible interactive analysis and graphics of microbiome census data</article-title>
+                  <source>PLoS One</source>
+                  <year>2013</year>
+                  <volume>8</volume>
+                  <fpage>e61217</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0061217</pub-id>
+                  <?supplied-pmid 23630581?>
+                  <pub-id pub-id-type="pmid">23630581</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dewhirst</surname>
+                      <given-names>FE</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The human oral microbiome</article-title>
+                  <source>J Bacteriol</source>
+                  <year>2010</year>
+                  <volume>192</volume>
+                  <fpage>5002</fpage>
+                  <lpage>5017</lpage>
+                  <pub-id pub-id-type="doi">10.1128/JB.00542-10</pub-id>
+                  <?supplied-pmid 20656903?>
+                  <pub-id pub-id-type="pmid">20656903</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <mixed-citation publication-type="other">Le Cao, K. A., Rossouw, D., Robert-Granie, C. &amp; Besse, P. A sparse PLS for variable selection when integrating omics data. <italic>Stat Appl Genet Mol Biol</italic><bold>7</bold>, Article 35, 10.2202/1544-6115.1390 (2008).</mixed-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rohart</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Gautier</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Singh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lê Cao</surname>
+                      <given-names>K-A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>mixOmics: An R package for ‘omics feature selection and multiple data integration</article-title>
+                  <source>PLoS Comput Biol</source>
+                  <year>2017</year>
+                  <volume>13</volume>
+                  <fpage>e1005752</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pcbi.1005752</pub-id>
+                  <?supplied-pmid 29099853?>
+                  <pub-id pub-id-type="pmid">29099853</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lê Cao</surname>
+                      <given-names>K-A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>MixMC: Multivariate insights into Microbial Communities</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2016</year>
+                  <volume>11</volume>
+                  <fpage>e0160169</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0160169</pub-id>
+                  <pub-id pub-id-type="pmid">27513472</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dzidic</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Oral microbiome development during childhood: an ecological succession influenced by postnatal factors and associated with tooth decay</article-title>
+                  <source>The ISME Journal</source>
+                  <year>2018</year>
+                  <volume>12</volume>
+                  <fpage>2292</fpage>
+                  <lpage>2306</lpage>
+                  <pub-id pub-id-type="doi">10.1038/s41396-018-0204-z</pub-id>
+                  <pub-id pub-id-type="pmid">29899505</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kolenbrander</surname>
+                      <given-names>PE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral Microbial Communities: Biofilms, Interactions, and Genetic Systems</article-title>
+                  <source>Annual Review of Microbiology</source>
+                  <year>2000</year>
+                  <volume>54</volume>
+                  <fpage>413</fpage>
+                  <lpage>437</lpage>
+                  <pub-id pub-id-type="doi">10.1146/annurev.micro.54.1.413</pub-id>
+                  <?supplied-pmid 11018133?>
+                  <pub-id pub-id-type="pmid">11018133</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Belda-Ferre</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The oral metagenome in health and disease</article-title>
+                  <source>ISME J</source>
+                  <year>2012</year>
+                  <volume>6</volume>
+                  <fpage>46</fpage>
+                  <lpage>56</lpage>
+                  <pub-id pub-id-type="doi">10.1038/ismej.2011.85</pub-id>
+                  <?supplied-pmid 21716308?>
+                  <pub-id pub-id-type="pmid">21716308</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kilian</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Evolution of Streptococcus pneumoniae and its close commensal relatives</article-title>
+                  <source>PLoS One</source>
+                  <year>2008</year>
+                  <volume>3</volume>
+                  <fpage>e2683</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0002683</pub-id>
+                  <?supplied-pmid 18628950?>
+                  <pub-id pub-id-type="pmid">18628950</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Camelo-Castillo</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Benitez-Paez</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Belda-Ferre</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Cabrera-Rubio</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Mira</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Streptococcus dentisani sp. nov., a novel member of the mitis group</article-title>
+                  <source>Int J Syst Evol Microbiol</source>
+                  <year>2014</year>
+                  <volume>64</volume>
+                  <fpage>60</fpage>
+                  <lpage>65</lpage>
+                  <pub-id pub-id-type="doi">10.1099/ijs.0.054098-0</pub-id>
+                  <?supplied-pmid 24006481?>
+                  <pub-id pub-id-type="pmid">24006481</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <mixed-citation publication-type="other">Do, L. G. &amp; Spencer, A. J. <italic>Oral health of Australian children: the National Child Oral Health Study 2012–14</italic>. (University of Adelaide Press., 2016).</mixed-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Leong</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gussy</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                    <name>
+                      <surname>Barrow</surname>
+                      <given-names>S-YL</given-names>
+                    </name>
+                    <name>
+                      <surname>Silva-Sanigorski</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Waters</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of risk factors during first year of life for early childhood caries</article-title>
+                  <source>International Journal of Paediatric Dentistry</source>
+                  <year>2013</year>
+                  <volume>23</volume>
+                  <fpage>235</fpage>
+                  <lpage>250</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-263X.2012.01260.x</pub-id>
+                  <?supplied-pmid 22925469?>
+                  <pub-id pub-id-type="pmid">22925469</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lif Holgerson</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Öhman</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Rönnlund</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Johansson</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Maturation of Oral Microbiota in Children with or without Dental Caries</article-title>
+                  <source>PLOS ONE</source>
+                  <year>2015</year>
+                  <volume>10</volume>
+                  <fpage>e0128534</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0128534</pub-id>
+                  <?supplied-pmid 26020247?>
+                  <pub-id pub-id-type="pmid">26020247</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chaffee</surname>
+                      <given-names>BW</given-names>
+                    </name>
+                    <name>
+                      <surname>Gansky</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Weintraub</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Featherstone</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                    <name>
+                      <surname>Ramos-Gomez</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Maternal oral bacterial levels predict early childhood caries development</article-title>
+                  <source>J Dent Res</source>
+                  <year>2014</year>
+                  <volume>93</volume>
+                  <fpage>238</fpage>
+                  <lpage>244</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034513517713</pub-id>
+                  <?supplied-pmid 24356441?>
+                  <pub-id pub-id-type="pmid">24356441</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gross</surname>
+                      <given-names>EL</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Beyond Streptococcus mutans: Dental Caries Onset Linked to Multiple Species by 16S rRNA Community Analysis</article-title>
+                  <source>PLOS ONE</source>
+                  <year>2012</year>
+                  <volume>7</volume>
+                  <fpage>e47722</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0047722</pub-id>
+                  <?supplied-pmid 23091642?>
+                  <pub-id pub-id-type="pmid">23091642</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tanner</surname>
+                      <given-names>ACR</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Cultivable anaerobic microbiota of severe early childhood caries</article-title>
+                  <source>Journal of clinical microbiology</source>
+                  <year>2011</year>
+                  <volume>49</volume>
+                  <fpage>1464</fpage>
+                  <lpage>1474</lpage>
+                  <pub-id pub-id-type="doi">10.1128/JCM.02427-10</pub-id>
+                  <?supplied-pmid 21289150?>
+                  <pub-id pub-id-type="pmid">21289150</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ghazal</surname>
+                      <given-names>TS</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Mutans Streptococci and Dental Caries: A New Statistical Modeling Approach</article-title>
+                  <source>Caries Research</source>
+                  <year>2018</year>
+                  <volume>52</volume>
+                  <fpage>246</fpage>
+                  <lpage>252</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000486103</pub-id>
+                  <?supplied-pmid 29393143?>
+                  <pub-id pub-id-type="pmid">29393143</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Warren</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>A longitudinal study of dental caries risk among very young low SES children</article-title>
+                  <source>Community Dentistry and Oral Epidemiology</source>
+                  <year>2009</year>
+                  <volume>37</volume>
+                  <fpage>116</fpage>
+                  <lpage>122</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2008.00447.x</pub-id>
+                  <?supplied-pmid 19046332?>
+                  <pub-id pub-id-type="pmid">19046332</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fernando</surname>
+                      <given-names>S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Tadakamadla</surname>
+                      <given-names>S.K.</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakr</surname>
+                      <given-names>M.</given-names>
+                    </name>
+                    <name>
+                      <surname>Scuffham</surname>
+                      <given-names>P.A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>N.W.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Indicators of Risk for Dental Caries in Children: A Holistic Approach</article-title>
+                  <source>JDR Clinical &amp; Translational Research</source>
+                  <year>2019</year>
+                  <volume>4</volume>
+                  <issue>4</issue>
+                  <fpage>333</fpage>
+                  <lpage>341</lpage>
+                  <pub-id pub-id-type="doi">10.1177/2380084419834236</pub-id>
+                  <pub-id pub-id-type="pmid">31039050</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

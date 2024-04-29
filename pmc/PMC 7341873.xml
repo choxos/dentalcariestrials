@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:42:58Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:7341873" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:7341873</identifier>
+        <datestamp>2020-07-09</datestamp>
+        <setSpec>scirep</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+              <journal-title-group>
+                <journal-title>Scientific Reports</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2045-2322</issn>
+              <publisher>
+                <publisher-name>Nature Publishing Group UK</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC7341873</article-id>
+              <article-id pub-id-type="pmcid">PMC7341873</article-id>
+              <article-id pub-id-type="pmc-uid">7341873</article-id>
+              <article-id pub-id-type="pmid">32636425</article-id>
+              <article-id pub-id-type="publisher-id">67885</article-id>
+              <article-id pub-id-type="doi">10.1038/s41598-020-67885-8</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effect of nano-hydroxyapatite and ozone on approximal initial caries: a randomized clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Grocholewicz</surname>
+                    <given-names>Katarzyna</given-names>
+                  </name>
+                  <address>
+                    <email>katarzyna.grocholewicz@pum.edu.pl</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Matkowska-Cichocka</surname>
+                    <given-names>Grażyna</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Makowiecki</surname>
+                    <given-names>Piotr</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Droździk</surname>
+                    <given-names>Agnieszka</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ey-Chmielewska</surname>
+                    <given-names>Halina</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dziewulska</surname>
+                    <given-names>Anna</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Tomasik</surname>
+                    <given-names>Małgorzata</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Trybek</surname>
+                    <given-names>Grzegorz</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Janiszewska-Olszowska</surname>
+                    <given-names>Joanna</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1411 4349</institution-id><institution-id institution-id-type="GRID">grid.107950.a</institution-id><institution>Department of Interdisciplinary Dentistry, </institution><institution>Pomeranian Medical University, </institution></institution-wrap>Al. Powstańców Wielkopolskich 72, 70-111 Szczecin, Poland </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1411 4349</institution-id><institution-id institution-id-type="GRID">grid.107950.a</institution-id><institution>Department of General and Dental Radiology, </institution><institution>Pomeranian Medical University, </institution></institution-wrap>Al. Powstańców Wielkopolskich 72, 70-111 Szczecin, Poland </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1411 4349</institution-id><institution-id institution-id-type="GRID">grid.107950.a</institution-id><institution>Department of Dental Prosthetics, </institution><institution>Pomeranian Medical University, </institution></institution-wrap>Al. Powstańców Wielkopolskich 72, 70-111 Szczecin, Poland </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 1411 4349</institution-id><institution-id institution-id-type="GRID">grid.107950.a</institution-id><institution>Department of Dental Surgery, </institution><institution>Pomeranian Medical University, </institution></institution-wrap>Al. Powstańców Wielkopolskich 72, 70-111 Szczecin, Poland </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>7</day>
+                <month>7</month>
+                <year>2020</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>7</day>
+                <month>7</month>
+                <year>2020</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2020</year>
+              </pub-date>
+              <volume>10</volume>
+              <elocation-id>11192</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>17</day>
+                  <month>12</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="accepted">
+                  <day>10</day>
+                  <month>6</month>
+                  <year>2020</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2020</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <p id="Par1">The aim of the study was to assess the efficacy of three methods of enamel remineralization on initial approximal caries: (1) a nano-hydroxyapatite gel, (2) gaseous ozone therapy, (3) combination of a nano-hydroxyapatite gel and ozone. Patients (n = 92, age 20–30 years) with initial approximal enamel lesions on premolar and molar teeth (n = 546) were randomly allocated to three groups subjected to a 6-months treatment: Group I: domestic nano-hydroxyapatite remineralizing gel, group II: in-office ozone therapy, group III: both domestic remineralizing gel and ozone therapy. Caries lesions were assessed on bitewing radiographs at baseline, after 1 year and after 2 years. At one-year follow-up, the smallest rate of lesions with remineralisation (36.5%) was found in group I, and the highest (69.3%)—in group III. In group III a significant remineralisation was noticed in after 1 year and then a demineralisation after 2 years. Thus nano-hydroxyapatite gel and ozone therapy exert some capacities to remineralize approximal enamel and dentine subsurface lesions of premolar and molar teeth. Moreover, the combination of both methods produces the best effect compared to nano-hydroxyapatite or ozone therapy applied alone. However, the treatment should be continued for a long time in order to achieve nonrestorative recovery of caries.</p>
+              </abstract>
+              <kwd-group kwd-group-type="npg-subject">
+                <title>Subject terms</title>
+                <kwd>Dental caries</kwd>
+                <kwd>Medical research</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2020</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par2">Dental caries is considered the most prevalent chronic disease. Recent epidemiological studies revealed a shift in the prevalence of caries with age; in younger subjects carious lesions are more prevalent on occlusal surfaces, whereas with advancing age—on approximal surfaces<sup><xref ref-type="bibr" rid="CR1">1</xref>–<xref ref-type="bibr" rid="CR6">6</xref></sup>. Approximal non-cavitated caries lesions are difficult to detect directly by visual examination, due to the contact area. Therefore, for early detection and monitoring of approximal caries, clinicians not only perform a visual examination, but also analyse bitewing radiographs for signs of demineralisation<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>. Although some studies indicate that the best method to detect caries on approximal surfaces is the use of a laser fluorescence device or<sup><xref ref-type="bibr" rid="CR8">8</xref>–<xref ref-type="bibr" rid="CR10">10</xref></sup>, bitewing radiographs are still more popular, since most dental offices are equipped in an X-ray apparatus.</p>
+              <p id="Par3">Initial, non-cavitated lesions as well as caries restricted to the enamel (not involving the dentin) can be arrested or even remineralized by applying therapeutic agents<sup><xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR12">12</xref></sup>. Thus this stage of caries is possible to arrest or reverse by modifying the etiologic factors or applying preventive measures. However, the repair proceeds mostly within the superficial layer<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>.</p>
+              <p id="Par4">In recent papers, two methods of treating non-cavitated carious lesions could be found. One approach is to remineralize the lesion body with fluoride, casein phosphopeptide amorphous calcium phosphate (CPP-ACP) or nano-hydroxyapatite (nHAP). Hydroxyapatite is the most important part of enamel structure, producing its bright white appearance and eliminating the diffuse reflectivity of light by closing the small pores of enamel surface, it is biocompatible and bioactive<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. In recent years, nano-materials have been developed, which are capable of remineralizing initial carious lesions of the enamel<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. Some properties of nano-hydroxyapatite are considered unique compared to hydroxyapatite, e.g. higher solubility, higher surface energy and better biocompatibility<sup><xref ref-type="bibr" rid="CR16">16</xref></sup>.</p>
+              <p id="Par5">Another approach is to apply antibacterial agents in order to reduce the level of bacterial species associated to caries and thus to protect the lesion from microorganisms. This is achieved by the use of ozone and chlorhexidine or resin infiltration<sup><xref ref-type="bibr" rid="CR17">17</xref></sup> as well. Sealants could also be applied for this purpose<sup><xref ref-type="bibr" rid="CR18">18</xref>,<xref ref-type="bibr" rid="CR19">19</xref></sup>. Ozone has proven to be effective against bacteria (both gram-negative and gram-positive) as well as viruses and fungi<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup>. It is a strong oxidant, highly bactericidal and thus is used to treat primary root caries or occlusal caries as well as dentinal hypersensitivity<sup><xref ref-type="bibr" rid="CR22">22</xref>–<xref ref-type="bibr" rid="CR26">26</xref></sup>. Ozone is also capable of remineralizing lesions within the dentin<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>. It opens dentinal tubules within carious lesion (by damaging biomolecules) and, thus enhances remineralization by increasing perfusion of remineralizing agents<sup><xref ref-type="bibr" rid="CR28">28</xref></sup>. The use of ozone in different fields of dentistry has been reported, including: periodontology, endodontics and maxillofacial surgery<sup><xref ref-type="bibr" rid="CR29">29</xref>–<xref ref-type="bibr" rid="CR31">31</xref></sup>. Some recent papers report the use of ozone for the treatment of initial pit and fissure caries as an alternative to other non-invasive interventions<sup><xref ref-type="bibr" rid="CR23">23</xref>,<xref ref-type="bibr" rid="CR25">25</xref>,<xref ref-type="bibr" rid="CR29">29</xref></sup>. Both in vivo and in vitro studies can be found concerning the successful use of ozone to treat caries, disinfect cavities, reduce the level of caries-associated microorganisms in dental plaque or remineralize caries lesions. However, more clinical evidence for ozone application is required before it can be widely used for managing and preventing caries<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>.</p>
+              <p id="Par6">The aim of this study was to assess and compare the efficacy of nano-hydroxyapatite gel and gaseous ozone therapy on enamel remineralization of initial caries lesions on approximal surfaces of premolar and molar teeth in adults.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Material and methods</title>
+              <p id="Par7">The study was conducted in years 2012–2016 on 134 participants (96 females and 38 males) aged from 20 to 30 years (median 23.3 years), who were recruited from a pool of patients attending Department of Interdisciplinary Dentistry Pomeranian Medical University in Szczecin, Poland. The characteristic of the study group has been presented in Table <xref rid="Tab1" ref-type="table">1</xref>. The study protocol was approved by the Ethics Committee of the Pomeranian Medical University in Szczecin (KB-0012/102/11) and conducted in accordance with accepted ethical standards for research practice. A written informed consent was obtained from all participants enrolled. The study protocol has been registered in clinicaltrials.gov 30th October 2019 at the reference number NCT04147091.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Demographic characteristics of study population.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Characteristic</th><th align="left">Total (n = 92)</th><th align="left">Group I (n = 31)</th><th align="left">Group II (n = 30)</th><th align="left">Group III (n = 31)</th></tr></thead><tbody><tr><td align="left">Women</td><td align="left">66</td><td align="left">26</td><td align="left">17</td><td align="left">23</td></tr><tr><td align="left">Men</td><td align="left">26</td><td align="left">5</td><td align="left">13</td><td align="left">8</td></tr><tr><td align="left">Age (median)</td><td align="left">23.3</td><td align="left">23.3</td><td align="left">22.6</td><td align="left">24.0</td></tr></tbody></table></table-wrap>
+</p>
+              <p id="Par8">The first stage of the study comprised detection of the initial caries enamel lesions on approximal surfaces of premolar and molar teeth (baseline 0), all the patients were subjected to clinical examination followed by X-ray radiographic (bitewing) assessment (Gendex Expert DC, Gendex Dental Systems, USA) and a digital radiography system (Digora 2,5 S, Soredex, Finland). Parameters of X-ray exposition were: voltage—65 kV, anode current—7 mA, X-ray focus—0.4 mm, exposure time—0.08 s. A lead apron was used for radiological protection. In order to obtain repeatability at each examination the radiographs were made using a film holder with an individual positioner made of an occlusal registration material (Futar D, Kettenbach, Germany). The depth of approximal caries lesions was classified according to the scoring system by Mejàre et al.<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>: 0—no visible radiolucency, 1—radiolucency in the outer half of the enamel, 2—radiolucency in the inner half of the enamel, 3—radiolucency in the dentin; broken enamel–dentin border without obvious spread in the dentin, 4—radiolucency with obvious spread in the outer half of the dentin, 5—radiolucency with obvious spread in the inner half of the dentin. Clinical and radiological data were recorded in the study chart. The clinical visual-tactile examination was performed on the dental chair, using a dental probe.</p>
+              <p id="Par9">The inclusion criteria for the study were:<list list-type="bullet"><list-item><p id="Par10">Initial demineralisation lesions not exceeding enamel-dentin junction on approximal surfaces, radiolucency merely within the enamel (score 1 and score 2, not exceeding the enamel–dentine border that were detected on X-ray radiography)</p></list-item><list-item><p id="Par11">Existing contact points on approximal surfaces between the premolar and molar teeth</p></list-item></list>
+</p>
+              <p id="Par12">The exclusion criteria were: the distal surface of the last tooth in arch, overlapping teeth, fillings on approximal surfaces of teeth of interest, periodontal disease as well as ongoing orthodontic therapy. All subjects qualified for the study were generally healthy and did not take any medicine. Thus no contraindications for ozone therapy were stated in the study group.</p>
+              <p id="Par13">From among 134 examined subjects, 92 were selected (66 women, 26 man) with initial caries on approximal surfaces. At the beginning of the study, all participants received a written information sheet with oral hygiene instructions including tooth brushing method (roll technique minimum twice a day) and flossing (every day after the evening tooth brushing) as well as dietary advice (no more than 5 sugar contacts a day). All patients enrolled reported to have used fluoridated toothpaste (1450 ppm) before the initiation of the study and they got recommendations to continue using such toothpaste during the entire study). Neither the water nor nutritive products were fluoridated.</p>
+              <p id="Par14">All participants were then randomly allocated (using random number generator) into three treatment groups. For ethical reasons there was no control group. Sample size was verified using an online power and sample size calculator (powerandsamplesize.com). At the level of clinical significance of 1.5 and power of correlation of 80%, the sample size (number of surfaces assessed) yielded 139.</p>
+              <p id="Par15">Group I subjects received a remineralizing gel containing 10% of nano-hydroxyapatite (ApaCare &amp; Repair, Cumdente, Germany) for domestic use (for 6 months daily use). After a thorough evening tooth-cleaning with fluoridated toothpaste and flossing, the gel was applied on the overall teeth using a toothbrush, and the patient abstained from consumption of any food and beverage for a period of 3 h. Each patient was provided with two tubes of the gel.</p>
+              <p id="Par16">Group II participants were subjected to ozone therapy carried out 4 times: at first appointment, after 2, 4 and 6 months. Before ozone application, each patient was requested to perform a thorough tooth-brushing and cleansing of approximal surfaces with dental floss. The gas was generated by OzonyTron (Mymed, Germany) apparatus and applied with silicon trays for both tooth arches simultaneously, using the full mouth disinfection program for 5 min. This procedure was performed in all patients by the same experienced operator (the second author).</p>
+              <p id="Par17">Group III subjects received a combination of the remineralizing gel for domestic use and ozone therapy in the same treatment courses.</p>
+              <p id="Par18">The period of treatment was 6 months in every group and the follow-up examinations were carried out after 1 year (follow-up 1), as in the studies by Ekstrand et al.<sup><xref ref-type="bibr" rid="CR33">33</xref></sup> as well as by Arslan and Kaplan<sup><xref ref-type="bibr" rid="CR34">34</xref></sup> and after 2 years (follow-up 2) from the beginning of the study. The clinical examination on control visits was only adjunct to radiographic assessment; progression, regression as well as an absence of demineralization lesions were analysed in bitewing radiographs by the blinded second author. The primary outcome was caries lesion progression or regression.</p>
+              <p id="Par19">To determine the optical density (pixel intensity = gray value) in the central area of caries lesion the density measurement tool in Digora 2,5S Software was used. A point located within the dentin in half distance between cemento-enamel junction and pulp cavity wall was determined and used as a reference for measuring optical density of the cavity. Then the difference between the lowest value of optical density within the cavity and the density of the reference point located within the dentin in half distance between the cemento-enamel junction and pulp cavity wall was calculated. Comparing the value of the differences in optical density between the lesion area and the reference point in subsequent examinations allowed to determine whether there is regress or progress or no change in optical density of the analysed area. A reduced difference indicated increasing density in the lesion area, which meant caries regression.</p>
+              <p id="Par20">The Statistica 12 Pl version software was used for data analysis. During the evaluation of the study data, along with the descriptive statistical methods (frequency), the quantitative variables that did not have a normal distribution were analysed using the Mann–Whitney U test and the Wilcoxon signed-rank test was used to compare two dependent samples. Data related to optical density, differences in optical density between two areas were analysed using the Mann–Whitney U test and Wilcoxon signed rank tests, for intergroup and intragroup comparison, respectively. A significance level was set at p &lt; 0.05 for all statistical tests.</p>
+            </sec>
+            <sec id="Sec3">
+              <title>Results</title>
+              <p id="Par21">At the beginning of the study, 4,027 approximal surfaces of premolar and molar teeth in 134 patients were examined (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). Out of them, 3,481 did not meet the inclusion criteria and thus were excluded from the study. The study design flow is depicted in Fig. <xref rid="Fig1" ref-type="fig">1</xref>. The caries lesions observed in clinical evaluation on 48 approximal surfaces received radiological examination scores higher than 2 and required invasive treatment, remaining 3,433 surfaces were scored 0. Finally, a total of 546 initial enamel lesions (score 1 and 2) in 92 patients were subjected to observation and none of them was detectable during visual clinical examination. From the 546 approximal surfaces, 307 were in molars and 239 in premolars.<fig id="Fig1"><label>Figure 1</label><caption><p>CONSORT flow chart of the study.</p></caption><graphic xlink:href="41598_2020_67885_Fig1_HTML" id="MO1"/></fig>
+</p>
+              <p id="Par22">Table <xref rid="Tab2" ref-type="table">2</xref> presents differences between average optical densities in the lesion area and the reference point in subsequent examinations in all observed groups. In group I applying nano-hydroxyapatite gel the mean values of differences between reference point and area analyzed increased in follow-ups relative to baseline, indicating a progress of demineralisation. In group II (subjected to ozone therapy) the difference of optical densities in two compared areas after one year slightly decreased (indicating remineralization) and after two years increased. In group III (provided with nano-hydroxyapatite and ozone therapy) in follow-up 1 a significant decrease (remineralization) was noticed and then in follow-up 2 an increase (demineralisation) of differences between optical densities. Significance levels of optical density differences in compared groups in subsequent examinations are presented in Table <xref rid="Tab3" ref-type="table">3</xref>.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Differences between average optical densities in the lesion area and the reference point in subsequent examinations.</p></caption><graphic position="anchor" xlink:href="41598_2020_67885_Tab2_HTML" id="MO2"/></table-wrap>
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>Significance levels of optical density differences in compared groups in subsequent examinations.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Compared groups</th><th align="left" colspan="3">Examination</th></tr><tr><th align="left">Baseline</th><th align="left">Follow-up 1</th><th align="left">Follow-up 2</th></tr></thead><tbody><tr><td align="left">I vs. II (178/205)</td><td align="left">NS (0.12)</td><td char="." align="char">0.002</td><td align="left"> &lt; 0.001</td></tr><tr><td align="left">I vs. III (178/163)</td><td align="left">NS (0.23)</td><td char="." align="char">0.073</td><td align="left"> &lt; 0.001</td></tr><tr><td align="left">II vs. III (205/163)</td><td align="left">0.005</td><td char="." align="char">NS (0.24)</td><td align="left">NS (0.61)</td></tr></tbody></table></table-wrap>
+</p>
+              <p id="Par23">After 1 year of the observation (Table <xref rid="Tab4" ref-type="table">4</xref>) in group I a regression of initial caries lesions was found in 36.5% lesions analyzed. In group II regression was stated in 60% lesions. In group III a regression was found in 69.3% of analysed lesions.<table-wrap id="Tab4"><label>Table 4</label><caption><p>Changes of optical density differences in particular groups—results after 1 year (baseline vs. follow-up 1).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="3">Optical density difference</th><th align="left" colspan="6">Group</th><th align="left" rowspan="2" colspan="3"><italic>p*</italic></th></tr><tr><th align="left" colspan="2">I</th><th align="left" colspan="2">II</th><th align="left" colspan="2">III</th></tr><tr><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left">I vs. II</th><th align="left">I vs. III</th><th align="left">II vs. III</th></tr></thead><tbody><tr><td align="left">Decrease</td><td align="left">65</td><td char="." align="char">36.5</td><td align="left">123</td><td align="left">60</td><td align="left">113</td><td char="." align="char">69.3</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char">0.08</td></tr><tr><td align="left">No change</td><td align="left">9</td><td char="." align="char">5.1</td><td align="left">19</td><td align="left">9.3</td><td align="left">9</td><td char="." align="char">5.5</td><td char="." align="char">NS (0.17)</td><td char="." align="char">NS (0.96)</td><td char="." align="char">NS (0.25)</td></tr><tr><td align="left">Increase</td><td align="left">104</td><td char="." align="char">58.4</td><td align="left">63</td><td align="left">30.7</td><td align="left">41</td><td char="." align="char">25.2</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char">NS (0.29)</td></tr></tbody></table><table-wrap-foot><p><italic>*p</italic> &lt; 0.05 significant.</p></table-wrap-foot></table-wrap>
+</p>
+              <p id="Par24">After two years of the study (Table <xref rid="Tab5" ref-type="table">5</xref>) the findings in particular groups were similar to those at the one-year follow-up. The smallest rate of caries reversal was observed in group I (18.0%). In group II it was 38.0%, and in group III 45.4%.<table-wrap id="Tab5"><label>Table 5</label><caption><p>Changes of optical density differences in particular groups—results after 2 year (baseline vs. follow-up 2).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="3">Optical density difference</th><th align="left" colspan="6">Group</th><th align="left" rowspan="2" colspan="3"><italic>p*</italic></th></tr><tr><th align="left" colspan="2">I</th><th align="left" colspan="2">II</th><th align="left" colspan="2">III</th></tr><tr><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left"><italic>n</italic></th><th align="left">%</th><th align="left">I vs. II</th><th align="left">I vs. III</th><th align="left">II vs. III</th></tr></thead><tbody><tr><td align="left">Decrease</td><td align="left">32</td><td char="." align="char">18.0</td><td align="left">78</td><td char="." align="char">38.0</td><td align="left">74</td><td char="." align="char">45.4</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char"> &lt; 0.001</td><td align="left">NS (0.19)</td></tr><tr><td align="left">No change</td><td align="left">9</td><td char="." align="char">5.1</td><td align="left">15</td><td char="." align="char">7.3</td><td align="left">16</td><td char="." align="char">9.8</td><td char="." align="char">0.48</td><td char="." align="char">NS (0.14)</td><td align="left">NS (0.50)</td></tr><tr><td align="left">Increase</td><td align="left">137</td><td char="." align="char">77.0</td><td align="left">112</td><td char="." align="char">54.6</td><td align="left">73</td><td char="." align="char">44.8</td><td char="." align="char"> &lt; 0.001</td><td char="." align="char"> &lt; 0.001</td><td align="left">NS (0.08)</td></tr></tbody></table><table-wrap-foot><p><italic>*p</italic> &lt; 0.05 significant.</p></table-wrap-foot></table-wrap>
+</p>
+            </sec>
+            <sec id="Sec4">
+              <title>Discussion</title>
+              <p id="Par25">The present study showed that nano-hydroxyapatite gel application and ozone therapy have some potential to remineralize enamel lesions, but a combination of both methods produces the best effect. Observation of changes in particular groups revealed that the differences between average optical densities in two compared areas decreased the most in group provided both preventive agents, pointing to the best therapeutic effect. Six months after treatment cessation (follow-up 1) optical density was significantly higher than one year later (follow-up 2).</p>
+              <p id="Par26">Concerning to restorative and preventive aspects, nano-hydroxyapatite exerts a significant remineralizing effect on initial enamel lesions, which is certainly higher than of the traditionally used fluorides<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>.</p>
+              <p id="Par27">An In vitro study comparing nHAP dentifrice and a fluoride dentifrice (5% nHAP, 10% nHAP, 1,100 ppm fluoride) showed that remineralization achieved was similar, and inhibited caries development, thus suggesting that an nHAP dentifrice can be an effective alternative to fluoride toothpaste<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. Tschoppe et al.<sup><xref ref-type="bibr" rid="CR36">36</xref></sup> analyzed the remineralizing effect of toothpastes containing n-HAP compared to amine fluoride toothpastes with bovine dentine. Their study revealed that toothpastes containing nano-hydroxyapatite of different types showed a similar remineralizing potential to enamel and dentin, however toothpastes enriched in fluoride had lower properties than the aforementioned. In another study, Huang et al.<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>, analysed the effect of four nano-HAP concentrations on initial enamel caries lesions in cyclically varying pH and confirmed that nano-hydroxyapatite is able to remineralize enamel. Moreover at each time point in the pH-cycling, different concentrations were exerted distinct effects on remineralization and an optimal concentration of nano-hydroxyapatite for enamel remineralization proved to be a 10% suspension. The authors concluded that nano-hydroxyapatite used daily in a proper concentration could be beneficial in promoting remineralization. Hill et al.<sup><xref ref-type="bibr" rid="CR38">38</xref></sup> in their in vitro study demonstrated a higher dense particle coverage and occlusion of the dentin tubule by nHAP oral rinse compared to the zinc-substituted hydroxyapatite. El Assal et al.<sup><xref ref-type="bibr" rid="CR39">39</xref></sup> proved that nano-hydroxyapatite, especially when combined with application of a laser, had a significant remineralizing effect on initial enamel lesions, and that the pure type of nHAP shoved a higher effect than the nano-fluoroapatite type.</p>
+              <p id="Par28">All of the above studies indicating the efficacy of nHAP in remineralizating initial caries were carried out in vitro, whereas the present study revealed remarkable remineralizing effects of this agent in vivo.</p>
+              <p id="Par29">Atabek and Oztas<sup><xref ref-type="bibr" rid="CR40">40</xref></sup> proved that ozone both alone and combined with a remineralizing agent is effective in caries reversal of initial fissure lesions. Samuel et al.<sup><xref ref-type="bibr" rid="CR41">41</xref></sup> carried out an in situ study on artificially created subsurface demineralization and concluded that ozone (ozonized water) significantly improved the remineralizing capability of nano-hydroxyapatite.</p>
+              <p id="Par30">Few studies have been published referring to the effect of ozone on enamel remineralization. No clinical studies could be found in the literature, to investigate the effect of ozone application combined with nano-hydroxyapatite on approximal initial caries as was the interest of the present investigation. In our study we observed that ozone had a potential of initial caries reversal. However, major effect was noticed when it was combined with a remineralizing adjunct: nano-hydroxyapatite. The results of our study are in agreement with the observations by Samuel et al.<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>, who showed that ozone significantly improved the remineralizing capability of nano-hydroxyapatite on artificially induced enamel caries lesions compared to nano-hydroxyapatite alone. Results contrary to the present study were reported by Tahmassebi et al.<sup><xref ref-type="bibr" rid="CR42">42</xref></sup>, who analysed in vitro the effect of ozone on artificial caries-like lesions and concluded that ozone alone is not effective in promoting remineralization or preventing enamel demineralization unless combined with an agent containing high levels of fluoride. The diverse observations may result from a different way of ozone application and a different ozone generator. Moreover, the effect of ozone on the reduction of bacteria in the lesion could not be studied in vitro. Yazıcıoğlu and Ulukap<sup><xref ref-type="bibr" rid="CR17">17</xref></sup> in their study applied ozone in vivo from different generators and used different treatment courses than in the present study. They concluded that the ozone gas application inhibited the demineralization activity due to the microorganism removal merely in the outer half of enamel. This finding is similar to our conclusion referring to the regression of lesions in the study group that underwent ozone treatment alone. Atabek and Oztas<sup><xref ref-type="bibr" rid="CR40">40</xref></sup> studied the effect of ozone alone and combined with a remineralizing solution on early fissure caries in permanent molars and concluded that applying ozone, either alone or with a remineralizing solution, can lead to caries reversal, since ozone therapy alone in correct oral conditions promotes remineralization.</p>
+              <p id="Par31">It should be noticed that all the patients involved in the present study used fluoridated toothpaste for daily oral hygiene before, during and after the treatment. Thus fluoride could be an additional factor enhancing remineralization. This factor was uniform in all the study groups.</p>
+              <p id="Par32">Possible limitations of the present study are the facts that the patients were not blinded to the treatment and application of nanohydroxyapatite gel was based on trust (its use could not be objectively verified).</p>
+              <p id="Par33">In conclusion, the results of the current study indicate that nano-hydroxyapatite gel and ozone therapy exert some properties to remineralize initial approximal enamel and dentine subsurface lesions of premolar and molar teeth. The combination of both methods produces the best effect compared to nano-hydroxyapatite or ozone therapy alone. The treatment procedures should be continued for a long time in order to achieve the effect of nonrestorative treatment of caries.</p>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>K.G.—study design, data interpretation, manuscript drafting, participation in writing manuscript, G.M.C.—data acquisition and analysis, literature search, participation in writing manuscript, P.M.—participation in drafting and writing manuscript, A.g.D.r.—participation in data interpretation and in writing manuscript, H.E.C.—participation in writing manuscript, A.D.z.—participation in writing manuscript, M.T.—participation in writing manuscript, G.T.—participation in writing manuscript, J.J.O.—participation in writing manuscript, final corrections, final acceptance. All the authors have read and accepted the final version of the paper.</p>
+            </notes>
+            <notes id="FPar1" notes-type="COI-statement">
+              <title>Competing interests</title>
+              <p id="Par34">The authors declare no conflict of interest.</p>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Asmyhr</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Grytten</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Grytten</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Changing trends in caries experience among male military recruits in Norway</article-title>
+                  <source>Commun. Dent. Oral Epidemiol.</source>
+                  <year>1994</year>
+                  <volume>22</volume>
+                  <fpage>206</fpage>
+                  <lpage>207</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1994.tb01842.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lith</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Pettersson</surname>
+                      <given-names>LG</given-names>
+                    </name>
+                    <name>
+                      <surname>Gröndahl</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiographic study of approximal restorative treatment in children and adolescents in two Swedish communities differing in caries prevalence</article-title>
+                  <source>Commun. Dent. Oral Epidemiol.</source>
+                  <year>1995</year>
+                  <volume>23</volume>
+                  <fpage>211</fpage>
+                  <lpage>216</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1995.tb00233.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fure</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Zickert</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Incidence of tooth loss and dental caries in 60-, 70- and 80-year-old Swedish individuals</article-title>
+                  <source>Commun. Dent. Oral Epidemiol.</source>
+                  <year>1997</year>
+                  <volume>25</volume>
+                  <fpage>137</fpage>
+                  <lpage>142</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1997.tb00911.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mejàre</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Källestål</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Stenlund</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Johansson</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries development from 11 to 22 years of age: A prospective radiographic study. Prevalence and distribution</article-title>
+                  <source>Caries Res</source>
+                  <year>1998</year>
+                  <volume>32</volume>
+                  <fpage>10</fpage>
+                  <lpage>16</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000016424</pub-id>
+                  <pub-id pub-id-type="pmid">9438566</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Martignon</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Chavarría</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ekstrand</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries status and proximal lesion behaviour during a 6-year period in young adult Danes: An epidemiological investigation</article-title>
+                  <source>Clin. Oral Investig.</source>
+                  <year>2010</year>
+                  <volume>14</volume>
+                  <fpage>383</fpage>
+                  <lpage>390</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-009-0306-0</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mejàre</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Stenlund</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Zelezny-Holmlund</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Caries incidence and lesion progression from adolescence to young adulthood: A prospective 15-year cohort study in Sweden</article-title>
+                  <source>Caries Res.</source>
+                  <year>2004</year>
+                  <volume>38</volume>
+                  <fpage>130</fpage>
+                  <lpage>141</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000075937</pub-id>
+                  <pub-id pub-id-type="pmid">14767170</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abogazalah</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ando</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Alternative methods to visual and radiographic examinations for approximal caries detection</article-title>
+                  <source>J. Oral Sci.</source>
+                  <year>2017</year>
+                  <volume>59</volume>
+                  <fpage>315</fpage>
+                  <lpage>322</lpage>
+                  <pub-id pub-id-type="doi">10.2334/josnusd.16-0595</pub-id>
+                  <pub-id pub-id-type="pmid">28529280</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Menem</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Barngkgei</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Beiruti</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Al</surname>
+                      <given-names>HI</given-names>
+                    </name>
+                    <name>
+                      <surname>Joury</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The diagnostic accuracy of a laser fluorescence device and digital radiography in detecting approximal caries lesions in posterior permanent teeth: An in vivo study</article-title>
+                  <source>Lasers Med. Sci.</source>
+                  <year>2017</year>
+                  <volume>32</volume>
+                  <fpage>621</fpage>
+                  <lpage>628</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s10103-017-2157-2</pub-id>
+                  <pub-id pub-id-type="pmid">28194533</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bizhang</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wollenweber</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Singh-Hüsgen</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Danesh</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Zimmer</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pen-type laser fluorescence device versus bitewing radiographs for caries detection on approximal surfaces</article-title>
+                  <source>Head Face Med.</source>
+                  <year>2016</year>
+                  <volume>12</volume>
+                  <fpage>30</fpage>
+                  <lpage>37</lpage>
+                  <pub-id pub-id-type="doi">10.1186/s13005-016-0126-9</pub-id>
+                  <pub-id pub-id-type="pmid">27809872</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Souza</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                    <name>
+                      <surname>Diniz</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Boldieri</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodrigues</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Lussi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>de Cássia Loiola Cordeiro</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>In vitro performance of a pen-type laser fluorescence device and bitewing radiographs for approximal caries detection in permanent and primary teeth</article-title>
+                  <source>Indian J. Dent. Res.</source>
+                  <year>2014</year>
+                  <volume>25</volume>
+                  <fpage>702</fpage>
+                  <lpage>710</lpage>
+                  <pub-id pub-id-type="doi">10.4103/0970-9290.152165</pub-id>
+                  <pub-id pub-id-type="pmid">25728100</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Featherstone</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The continuum of dental caries—Evidence for a dynamic disease process</article-title>
+                  <source>J. Dent. Res.</source>
+                  <year>2004</year>
+                  <volume>83</volume>
+                  <fpage>C39</fpage>
+                  <lpage>C42</lpage>
+                  <pub-id pub-id-type="doi">10.1177/154405910408301s08</pub-id>
+                  <pub-id pub-id-type="pmid">15286120</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Urquhart</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Tampi</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                    <name>
+                      <surname>Pilcher</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Slayton</surname>
+                      <given-names>RL</given-names>
+                    </name>
+                    <name>
+                      <surname>Araujo</surname>
+                      <given-names>MWB</given-names>
+                    </name>
+                    <name>
+                      <surname>FONTANA</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Nonrestorative treatments for caries: Systematic review and network meta-analysis</article-title>
+                  <source>J. Dent. Res.</source>
+                  <year>2019</year>
+                  <volume>98</volume>
+                  <fpage>14</fpage>
+                  <lpage>26</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034518800014</pub-id>
+                  <pub-id pub-id-type="pmid">30290130</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pitts</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Zero</surname>
+                      <given-names>DT</given-names>
+                    </name>
+                    <name>
+                      <surname>Marsh</surname>
+                      <given-names>PD</given-names>
+                    </name>
+                    <name>
+                      <surname>Ekstrand</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Weintraub</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Ramos-Gomez</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Dental caries</article-title>
+                  <source>Nat. Rev. Dis. Primers.</source>
+                  <year>2017</year>
+                  <pub-id pub-id-type="doi">10.1038/nrdp.2017.30</pub-id>
+                  <?supplied-pmid 28540937?>
+                  <pub-id pub-id-type="pmid">28540937</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pepla</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Besharat</surname>
+                      <given-names>LK</given-names>
+                    </name>
+                    <name>
+                      <surname>Palaia</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Tenore</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Migliau</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Nano-hydroxyapatite and its applications in preventive, restorative and regenerative dentistry: A review of literature</article-title>
+                  <source>Ann. Stomatol. (Roma)</source>
+                  <year>2014</year>
+                  <volume>5</volume>
+                  <fpage>108</fpage>
+                  <lpage>114</lpage>
+                  <pub-id pub-id-type="pmid">25506416</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sadat-Shojai</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Khorasani</surname>
+                      <given-names>MT</given-names>
+                    </name>
+                    <name>
+                      <surname>Dinpanah-Khoshdargi</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Jamshidi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Synthesis methods for nanosized hydroxyapatite with diverse structures</article-title>
+                  <source>Acta Biomater.</source>
+                  <year>2013</year>
+                  <volume>9</volume>
+                  <fpage>7591</fpage>
+                  <lpage>7621</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.actbio.2013.04.012</pub-id>
+                  <pub-id pub-id-type="pmid">23583646</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Haghgoo</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Rezvani</surname>
+                      <given-names>MB</given-names>
+                    </name>
+                    <name>
+                      <surname>Salehi</surname>
+                      <given-names>ZM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of nano-hydroxyapatite and sodium fluoride mouthrinse for remineralization of incipient carious lesions</article-title>
+                  <source>J. Dent. (Tehran)</source>
+                  <year>2014</year>
+                  <volume>11</volume>
+                  <fpage>406</fpage>
+                  <lpage>410</lpage>
+                  <pub-id pub-id-type="pmid">25584051</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yazıcıoğlu</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Ulukapı</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The investigation of non-invasive techniques for treating early approximal carious lesions: An in vivo study</article-title>
+                  <source>Int. Dent. J.</source>
+                  <year>2014</year>
+                  <volume>64</volume>
+                  <fpage>1</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1111/idj.12056</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ekstrand</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Martignon</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakhshandeh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ricketts</surname>
+                      <given-names>DN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The non-operative resin treatment of proximal caries lesions</article-title>
+                  <source>Dent. Update</source>
+                  <year>2012</year>
+                  <volume>39</volume>
+                  <fpage>618</fpage>
+                  <lpage>620</lpage>
+                  <pub-id pub-id-type="doi">10.12968/denu.2012.39.9.614</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tellez</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gomez</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Kaur</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pretty</surname>
+                      <given-names>IA</given-names>
+                    </name>
+                    <name>
+                      <surname>Ellwood</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Ismail</surname>
+                      <given-names>AI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Non-surgical management methods of non-cavitated carious lesions</article-title>
+                  <source>Commun. Dent. Oral Epidemiol.</source>
+                  <year>2013</year>
+                  <volume>41</volume>
+                  <fpage>79</fpage>
+                  <lpage>96</lpage>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12028</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lynch</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antimicrobial management of primary root carious lesions: A review</article-title>
+                  <source>Gerodontology</source>
+                  <year>1996</year>
+                  <volume>13</volume>
+                  <fpage>118e29</fpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1741-2358.1996.tb00163.x</pub-id>
+                  <pub-id pub-id-type="pmid">9452634</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Johansson</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Claesson</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>van Dijken</surname>
+                      <given-names>JW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antibacterial effect of ozone on cariogenic bacterial species</article-title>
+                  <source>J. Dent.</source>
+                  <year>2009</year>
+                  <volume>37</volume>
+                  <fpage>449e53</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2009.02.004</pub-id>
+                  <pub-id pub-id-type="pmid">19342147</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Baysan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Whiley</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Lynch</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Antimicrobial effect of a novel ozone-generating device on micro-organisms associated with primary root carious lesions in vitro</article-title>
+                  <source>Caries Res.</source>
+                  <year>2000</year>
+                  <volume>34</volume>
+                  <fpage>498</fpage>
+                  <lpage>501</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000016630</pub-id>
+                  <pub-id pub-id-type="pmid">11093025</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Baysan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lynch</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of ozone on the oral microbiota and clinical severity of primary root caries</article-title>
+                  <source>Am. J. Dent.</source>
+                  <year>2004</year>
+                  <volume>17</volume>
+                  <fpage>56</fpage>
+                  <lpage>60</lpage>
+                  <?supplied-pmid 15241911?>
+                  <pub-id pub-id-type="pmid">15241911</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Huth</surname>
+                      <given-names>KC</given-names>
+                    </name>
+                    <name>
+                      <surname>Paschos</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Brand</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Hickel</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of ozone on non-cavitated fissure carious lesions in permanent molars. A controlled prospective clinical study</article-title>
+                  <source>Am. J. Dent.</source>
+                  <year>2005</year>
+                  <volume>18</volume>
+                  <fpage>223</fpage>
+                  <lpage>228</lpage>
+                  <?supplied-pmid 16296426?>
+                  <pub-id pub-id-type="pmid">16296426</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dähnhardt</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Gygax</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Martignoni</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Suter</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Lussi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Treating sensitive cervical areas with ozone. A prospective controlled clinical trial</article-title>
+                  <source>Am. J. Dent.</source>
+                  <year>2008</year>
+                  <volume>21</volume>
+                  <fpage>74</fpage>
+                  <lpage>76</lpage>
+                  <?supplied-pmid 18578171?>
+                  <pub-id pub-id-type="pmid">18578171</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Azarpazhooh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Limeback</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Lawrence</surname>
+                      <given-names>HP</given-names>
+                    </name>
+                    <name>
+                      <surname>Fillery</surname>
+                      <given-names>ED</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluating the effect of an ozone delivery system on the reversal of dentin hypersensitivity: A randomized, double-blinded clinical trial</article-title>
+                  <source>J. Endod.</source>
+                  <year>2009</year>
+                  <volume>35</volume>
+                  <fpage>1</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2008.10.001</pub-id>
+                  <pub-id pub-id-type="pmid">19084115</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dähnhardt</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Jaeggi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Lussi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Treating open carious lesions in anxious children with ozone. A prospective controlled clinical study</article-title>
+                  <source>Am. J. Dent.</source>
+                  <year>2006</year>
+                  <volume>19</volume>
+                  <fpage>267</fpage>
+                  <lpage>270</lpage>
+                  <?supplied-pmid 17073201?>
+                  <pub-id pub-id-type="pmid">17073201</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <mixed-citation publication-type="other">Baysan A., Lynch E. Management of root caries using ozone. KaVo Dental Ltd website. <ext-link ext-link-type="uri" xlink:href="http://www.kavo.com/forum/upfiles/4/Db84539.pdf">https://www.kavo.com/forum/upfiles/4/Db84539.pdf</ext-link>. Accessed 11 Nov 2015 (2002).</mixed-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nogales</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferrari</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kantorovich</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Lage-Marques</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ozone therapy in medicine and dentistry</article-title>
+                  <source>J. Contemp. Dent. Pract.</source>
+                  <year>2008</year>
+                  <volume>9</volume>
+                  <fpage>75</fpage>
+                  <lpage>84</lpage>
+                  <pub-id pub-id-type="doi">10.5005/jcdp-9-4-75</pub-id>
+                  <pub-id pub-id-type="pmid">18473030</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Azarpazhooh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Limeback</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The application of ozone in dentistry: A systematic review of literature</article-title>
+                  <source>J. Dent.</source>
+                  <year>2008</year>
+                  <volume>36</volume>
+                  <fpage>104</fpage>
+                  <lpage>116</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2007.11.008</pub-id>
+                  <pub-id pub-id-type="pmid">18166260</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stuebinger</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Sader</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Filippi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The use of ozone in dentistry and maxillofacial surgery: A review</article-title>
+                  <source>Quintessence Int.</source>
+                  <year>2006</year>
+                  <volume>37</volume>
+                  <fpage>353</fpage>
+                  <lpage>359</lpage>
+                  <pub-id pub-id-type="pmid">16683682</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Almaz</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sönmez</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ozone therapy in the management and prevention of caries</article-title>
+                  <source>J. Formos Med. Assoc.</source>
+                  <year>2015</year>
+                  <volume>114</volume>
+                  <fpage>3</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jfma.2013.06.020</pub-id>
+                  <pub-id pub-id-type="pmid">23969041</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ekstrand</surname>
+                      <given-names>KR</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakhshandeh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Martignon</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Treatment of proximal superficial caries lesions on primary molar teeth with resin infiltration and fluoride varnish versus fluoride varnish only: Efficacy after 1 year</article-title>
+                  <source>Caries Res.</source>
+                  <year>2010</year>
+                  <volume>2010</volume>
+                  <issue>44</issue>
+                  <fpage>41</fpage>
+                  <lpage>46</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000275573</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arslan</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Kaplan</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of resin infiltration on the progression of proximal caries lasions: A randomized clinical trial</article-title>
+                  <source>Med. Princ. Pract.</source>
+                  <year>2019</year>
+                  <pub-id pub-id-type="doi">10.1159/000503053</pub-id>
+                  <?supplied-pmid 31476757?>
+                  <pub-id pub-id-type="pmid">31476757</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Najibfard</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ramalingam</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Chedjieu</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Amaechi</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Remineralization of early caries by a nano-hydroxyapatite dentifrice</article-title>
+                  <source>J. Clin. Dent.</source>
+                  <year>2011</year>
+                  <volume>22</volume>
+                  <fpage>139</fpage>
+                  <lpage>143</lpage>
+                  <?supplied-pmid 22403978?>
+                  <pub-id pub-id-type="pmid">22403978</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tschoppe</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Zandim</surname>
+                      <given-names>DL</given-names>
+                    </name>
+                    <name>
+                      <surname>Martus</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Kielbassa</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Enamel and dentine remineralization by nano-hydroxyapatite toothpastes</article-title>
+                  <source>J. Dent.</source>
+                  <year>2011</year>
+                  <volume>39</volume>
+                  <fpage>430</fpage>
+                  <lpage>437</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2011.03.008</pub-id>
+                  <pub-id pub-id-type="pmid">21504777</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Huang</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Gao</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of nano-hydroxyapatite concentration on remineralization of initial enamel lesion in vitro</article-title>
+                  <source>Biomed. Mater.</source>
+                  <year>2009</year>
+                  <volume>4</volume>
+                  <fpage>034104</fpage>
+                  <pub-id pub-id-type="doi">10.1088/1748-6041/4/3/034104</pub-id>
+                  <pub-id pub-id-type="pmid">19498220</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <mixed-citation publication-type="other">Hill R., Chen X., Gillam D. In vitro ability of a novel nanohydroxyapatite oral rinse to occlude dentine tubules. <italic>Int. J. Dent.</italic> 153284 (2015).</mixed-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>El Assal</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Saafan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Moustafa</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Al-Sayed</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of combining laser and nanohydroxy-apatite on the surface properties of enamel with initial defects</article-title>
+                  <source>J. Clin. Exp. Dent.</source>
+                  <year>2018</year>
+                  <volume>10</volume>
+                  <fpage>e425</fpage>
+                  <lpage>e430</lpage>
+                  <?supplied-pmid 29849965?>
+                  <pub-id pub-id-type="pmid">29849965</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Atabek</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Oztas</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effectiveness of ozone with or without the additional use of remineralizing solution on non-cavitated fissure carious lesions in permanent molars</article-title>
+                  <source>Eur. J. Dent.</source>
+                  <year>2011</year>
+                  <volume>5</volume>
+                  <fpage>393</fpage>
+                  <lpage>399</lpage>
+                  <pub-id pub-id-type="doi">10.1055/s-0039-1698911</pub-id>
+                  <pub-id pub-id-type="pmid">22654551</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Samuel</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Dorai</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Khatri</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Patil</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of ozone to remineralize initial enamel caries: in situ study</article-title>
+                  <source>Clin. Oral Invest.</source>
+                  <year>2016</year>
+                  <volume>20</volume>
+                  <fpage>1109</fpage>
+                  <lpage>1113</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-016-1710-x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Taahmassebi</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Chrysafi</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Duggal</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of ozone on progression or regression of artificial caries-like enamel lesions in vitro</article-title>
+                  <source>J. Dent.</source>
+                  <year>2014</year>
+                  <volume>42</volume>
+                  <fpage>167</fpage>
+                  <lpage>174</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2013.11.011</pub-id>
+                  <pub-id pub-id-type="pmid">24287258</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

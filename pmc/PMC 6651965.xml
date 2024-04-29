@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:46:22Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:6651965" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:6651965</identifier>
+        <datestamp>2019-07-31</datestamp>
+        <setSpec>trials</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Trials</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Trials</journal-id>
+              <journal-title-group>
+                <journal-title>Trials</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1745-6215</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC6651965</article-id>
+              <article-id pub-id-type="pmcid">PMC6651965</article-id>
+              <article-id pub-id-type="pmc-uid">6651965</article-id>
+              <article-id pub-id-type="pmid">31337437</article-id>
+              <article-id pub-id-type="publisher-id">3538</article-id>
+              <article-id pub-id-type="doi">10.1186/s13063-019-3538-6</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Brushing RemInder 4 Good oral HealTh (BRIGHT) trial: does an SMS behaviour change programme with a classroom-based session improve the oral health of young people living in deprived areas? A study protocol of a randomised controlled trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Marshman</surname>
+                    <given-names>Zoe</given-names>
+                  </name>
+                  <address>
+                    <email>Z.Marshman@sheffield.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ainsworth</surname>
+                    <given-names>Hannah</given-names>
+                  </name>
+                  <address>
+                    <email>hannah.ainsworth@york.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Chestnutt</surname>
+                    <given-names>Ivor Gordon</given-names>
+                  </name>
+                  <address>
+                    <email>Chestnuttig@cardiff.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Day</surname>
+                    <given-names>Peter</given-names>
+                  </name>
+                  <address>
+                    <email>p.f.day@leeds.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Dey</surname>
+                    <given-names>Donna</given-names>
+                  </name>
+                  <address>
+                    <email>d.dey@dundee.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>El Yousfi</surname>
+                    <given-names>Sarab</given-names>
+                  </name>
+                  <address>
+                    <email>selyousfi1@sheffield.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Fairhurst</surname>
+                    <given-names>Caroline</given-names>
+                  </name>
+                  <address>
+                    <email>caroline.fairhurst@york.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gilchrist</surname>
+                    <given-names>Fiona</given-names>
+                  </name>
+                  <address>
+                    <email>f.gilchrist@sheffield.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Hewitt</surname>
+                    <given-names>Catherine</given-names>
+                  </name>
+                  <address>
+                    <email>catherine.hewitt@york.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Jones</surname>
+                    <given-names>Claire</given-names>
+                  </name>
+                  <address>
+                    <email>c.x.jones@dundee.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kellar</surname>
+                    <given-names>Ian</given-names>
+                  </name>
+                  <address>
+                    <email>I.Kellar@leeds.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pavitt</surname>
+                    <given-names>Sue</given-names>
+                  </name>
+                  <address>
+                    <email>s.pavitt@leeds.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff8">8</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0005-3044</contrib-id>
+                  <name>
+                    <surname>Robertson</surname>
+                    <given-names>Mark</given-names>
+                  </name>
+                  <address>
+                    <email>m.r.robertson@dundee.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff9">9</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Shah</surname>
+                    <given-names>Sarwat</given-names>
+                  </name>
+                  <address>
+                    <email>Sarwat.shah@york.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff10">10</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Stevens</surname>
+                    <given-names>Katherine</given-names>
+                  </name>
+                  <address>
+                    <email>K.Stevens@Sheffield.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff11">11</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Torgerson</surname>
+                    <given-names>David</given-names>
+                  </name>
+                  <address>
+                    <email>david.torgerson@york.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Innes</surname>
+                    <given-names>Nicola</given-names>
+                  </name>
+                  <address>
+                    <email>n.p.innes@dundee.ac.uk</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff9">9</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9262</institution-id><institution-id institution-id-type="GRID">grid.11835.3e</institution-id><institution>School of Clinical Dentistry, </institution><institution>University of Sheffield, </institution></institution-wrap>Claremont Crescent, Sheffield, S10 2TA UK </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9668</institution-id><institution-id institution-id-type="GRID">grid.5685.e</institution-id><institution>York Trials Unit, Department of Health Sciences, Faculty of Sciences ARRC Building, </institution><institution>University of York, </institution></institution-wrap>York, YO10 5DD UK </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0001 0807 5670</institution-id><institution-id institution-id-type="GRID">grid.5600.3</institution-id><institution>Cardiff University School of Dentistry, </institution></institution-wrap>Heath Park, Cardiff, CF14 4XY UK </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8403</institution-id><institution-id institution-id-type="GRID">grid.9909.9</institution-id><institution>School of Dentistry, </institution><institution>University of Leeds, </institution></institution-wrap>Leeds, LS2 9LU UK </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0397 2876</institution-id><institution-id institution-id-type="GRID">grid.8241.f</institution-id><institution>School of Education and Social Work, </institution><institution>University of Dundee, </institution></institution-wrap>Nethergate, Dundee, DD1 4HN UK </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0397 2876</institution-id><institution-id institution-id-type="GRID">grid.8241.f</institution-id><institution>Health information Centre, </institution><institution>University of Dundee, </institution></institution-wrap>(Main Level 5 Corridor), Second Floor (Level 7), Mail Box 15, Ninewells Hospital &amp; Medical School, Dundee, DD1 9SY UK </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8403</institution-id><institution-id institution-id-type="GRID">grid.9909.9</institution-id><institution>School of Psychology, </institution><institution>University of Leeds, </institution></institution-wrap>Lifton Place, Leeds, LS2 9JT UK </aff>
+                <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 8403</institution-id><institution-id institution-id-type="GRID">grid.9909.9</institution-id><institution>Dental Translational &amp; Clinical Research Unit, School of Dentistry, </institution><institution>University of Leeds, </institution></institution-wrap>Leeds, LS2 9LU UK </aff>
+                <aff id="Aff9"><label>9</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 0397 2876</institution-id><institution-id institution-id-type="GRID">grid.8241.f</institution-id><institution>School of Dentistry, </institution><institution>University of Dundee, </institution></institution-wrap>Park Place, Dundee, DD6 8EF UK </aff>
+                <aff id="Aff10"><label>10</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9668</institution-id><institution-id institution-id-type="GRID">grid.5685.e</institution-id><institution>Department of Health Sciences, Faculty of Sciences ARRC Building, </institution><institution>University of York, </institution></institution-wrap>York, YO10 5DD UK </aff>
+                <aff id="Aff11"><label>11</label><institution-wrap><institution-id institution-id-type="ISNI">0000 0004 1936 9262</institution-id><institution-id institution-id-type="GRID">grid.11835.3e</institution-id><institution>Health Economics and Decision Science, School of Health and Related Research, </institution><institution>The University of Sheffield, </institution></institution-wrap>Regent Court, 30 Regent Street, Sheffield, S1 4DA UK </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>23</day>
+                <month>7</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>23</day>
+                <month>7</month>
+                <year>2019</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2019</year>
+              </pub-date>
+              <volume>20</volume>
+              <elocation-id>452</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>7</day>
+                  <month>3</month>
+                  <year>2019</year>
+                </date>
+                <date date-type="accepted">
+                  <day>26</day>
+                  <month>6</month>
+                  <year>2019</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s). 2019</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Almost one-half of 12–15 year olds living in deprived areas of the UK have dental caries (tooth decay) with few oral health promotion programmes aimed at children of this age. Mobile phone-based interventions such as short messaging service (SMS) interventions have been found effective at changing certain behaviours and improving health outcomes. This protocol describes the BRIGHT Trial, investigating the clinical and cost-effectiveness of a behaviour change intervention—classroom-based session (CBS) embedded in the curriculum and a series of SMS delivered to participants twice daily to remind them to brush their teeth, compared to usual curriculum and no SMS—to reduce the prevalence of dental caries in young people from deprived areas.</p>
+                </sec>
+                <sec>
+                  <title>Objectives</title>
+                  <p id="Par2">To investigate the clinical and cost-effectiveness of a complex intervention to improve the oral health of young people living in deprived areas.</p>
+                </sec>
+                <sec>
+                  <title>Methods/design</title>
+                  <p id="Par3">This is a school-based, assessor-blinded, two-arm cluster-randomised controlled trial with an internal pilot trial. Overall, the trial will involve approximately 5040 11–13 year olds in 42 schools with a 3-year follow-up. The trial will take place in secondary schools in England, Scotland and Wales. The primary outcome is the presence of carious lesions in permanent teeth at 3 years. Secondary outcomes are: number of carious teeth, frequency of twice-daily toothbrushing, plaque levels, gingivitis, child health-related quality of life and oral health-related quality of life. A cost-utility analysis will be conducted.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par4">The findings of the trial have implications for embedding oral health interventions into school curricula guidance produced by national bodies, including departments for education and dental public health and guideline-development organisations.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par5">ISRCTN registry, <ext-link ext-link-type="uri" xlink:href="http://www.isrctn.com/ISRCTN12139369">ISRCTN12139369</ext-link>. Registered on 10 May 2017.</p>
+                </sec>
+                <sec>
+                  <title>Electronic supplementary material</title>
+                  <p>The online version of this article (10.1186/s13063-019-3538-6) contains supplementary material, which is available to authorized users.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Dental caries</kwd>
+                <kwd>Caries prevention</kwd>
+                <kwd>Prevention</kwd>
+                <kwd>Behaviour change</kwd>
+                <kwd>Randomised controlled trial</kwd>
+                <kwd>Child dental health</kwd>
+                <kwd>mHealth</kwd>
+                <kwd>Short messaging service</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100000664</institution-id>
+                      <institution>Health Technology Assessment Programme</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>15/166/08</award-id>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2019</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par25">Untreated dental caries (tooth decay) is the most prevalent condition worldwide, affecting 2.4 billion people [<xref ref-type="bibr" rid="CR1">1</xref>]. The consequences for children include pain [<xref ref-type="bibr" rid="CR2">2</xref>], loss of sleep, problems with eating and speaking and time off school [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR5">5</xref>]. Dental caries has a significant impact on young people’s daily lives with around 50% of 12–15 year olds reporting toothache and around one-quarter of 12–15 year olds reporting difficulty eating [<xref ref-type="bibr" rid="CR4">4</xref>]. Dental caries can also affect the general health and quality of life of children, interfering with nutrition, school attendance and school performance [<xref ref-type="bibr" rid="CR6">6</xref>–<xref ref-type="bibr" rid="CR8">8</xref>]. A recent systematic review found children with one or more decayed teeth had a higher probability of poor school performance and poor school attendance than children free of obvious caries [<xref ref-type="bibr" rid="CR8">8</xref>].</p>
+              <p id="Par26">Dental caries affects an average of one in three 12 year olds in the UK and although it affects all parts of society, it shows a positive, linear association with deprivation [<xref ref-type="bibr" rid="CR9">9</xref>–<xref ref-type="bibr" rid="CR11">11</xref>]. In 2013 in England, 32% of 12 year olds experienced dental caries and required treatment, ranging from 46% of those eligible for free school meals (FSM) to 30% of those ineligible. For 15 year olds 44% required treatment, 59% of those eligible for FSM and 43% of those ineligible [<xref ref-type="bibr" rid="CR4">4</xref>]. Treating oral diseases is expensive, costing NHS England £3.4 billion annually. Children’s tooth extractions alone, carried out under general anaesthesia, and as a result of dental caries, costs an estimated £36 million annually in England [<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+              <p id="Par27">The use of fluoridated toothpaste is considered to have been largely responsible for the dramatic reduction in the levels of dental caries from a mean of 8.4 decayed, missing and filled teeth (DMFT) in 1973 [<xref ref-type="bibr" rid="CR13">13</xref>] to 1.4 in 2013 [<xref ref-type="bibr" rid="CR4">4</xref>]. Brushing with fluoridated toothpaste is one of the most highly effective preventive measures [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. Observational studies have shown current levels of efficacy, frequency and duration of toothbrushing to be inadequate [<xref ref-type="bibr" rid="CR16">16</xref>–<xref ref-type="bibr" rid="CR18">18</xref>], increasing the risk of dental caries [<xref ref-type="bibr" rid="CR9">9</xref>].</p>
+              <p id="Par28">Mobile health (mHealth) describes multimedia technologies that interface with healthcare delivery and are supported by mobile devices, almost exclusively mobile phones [<xref ref-type="bibr" rid="CR19">19</xref>]. In 2017, 86% of 12–15 year olds in the UK owned a mobile phone [<xref ref-type="bibr" rid="CR20">20</xref>], providing the potential to deliver large-scale health behaviour change interventions. While young people of lower socio-economic status are subject to inequality in access and use of health services, research suggests they have equivalent mobile phone access to their more affluent peers [<xref ref-type="bibr" rid="CR21">21</xref>]. Short messaging service (SMS) are short text messages sent from computers, phones or other mobile devices usually to phones and are the most widely studied mHealth interventions [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR22">22</xref>].</p>
+              <p id="Par29">A recent systematic review of preventive health behaviour change SMS interventions found a small but statistically significant weighted mean effect size for the impact of SMS on preventive health behaviour change (d = 0.24) with positive effect of SMS interventions in 11 of the 35 included studies, with a further 13 studies having mixed effects [<xref ref-type="bibr" rid="CR23">23</xref>]. The key features of SMS interventions include duration, tailoring, targeting of the content and how SMS are used along with other activities [<xref ref-type="bibr" rid="CR23">23</xref>]. The duration of interventions typically ranged from 1 to 66 weeks with a median duration of 12 weeks. There was some suggestion that interventions lasting 6–12 months were associated with greater effects than shorter interventions. The frequency of messages varied from five times per day to once a month depending on the expected frequency of the targeted behaviour [<xref ref-type="bibr" rid="CR23">23</xref>]. The limitations of existing studies included a lack of a specified theoretical framework, insufficient power to detect change, only short-term follow-up after the end of the intervention, low retention rates and failure to blind assessors [<xref ref-type="bibr" rid="CR23">23</xref>–<xref ref-type="bibr" rid="CR25">25</xref>]. It was recommended that future studies ensured the intervention, including the SMS, was developed rigorously, the SMS were written to be appropriate for the target population and the SMS were tailored to individuals according to their age and gender and used the participant’s name.</p>
+              <p id="Par30">Although the mobile phone has been investigated as a vehicle for health behaviour change using SMS interventions, there is a paucity of research with adolescents and involving oral health behaviour change [<xref ref-type="bibr" rid="CR26">26</xref>]. One recent study, of unemployed young people aged 18–24 years in New Zealand, investigated the Keep on Brushing (KOB) programme of weekly SMS and free toothbrushes/toothpaste, seeking to boost motivation [<xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]. The KOB intervention was underpinned by the Health Belief Model [<xref ref-type="bibr" rid="CR29">29</xref>]. This study was conducted in a branch of the New Zealand Government’s employment and beneficiary services and 171 participants were recruited and completed a baseline survey and then received a series of motivational SMS over 10 weeks. Self-reported toothbrushing frequency was the primary outcome measure. Other socio-demographic data (age, gender, ethnicity, employment status) and method-specific (level of attrition, distribution of successful text messages deliveries, active withdrawal) variables were also collected. Self-reported toothbrushing of twice or more per day increased from 51% at baseline to 70% at week 3, 74% at week 6, and 73% at week 9. No important differences were noted between ages, gender or ethnic groups, although attrition was relatively high with only 26% participating by week 9. The authors concluded that motivational SMS improved the self-reported oral health of this hard-to-reach group and suggested a randomised controlled trial including a longer intervention with tailoring of the messages was needed.</p>
+              <p id="Par31">The aim of this study is to establish the clinical and cost-effectiveness of a SMS behaviour change programme to improve the oral health of young people living in deprived areas.</p>
+              <p id="Par32">The main trial will:<list list-type="order"><list-item><p id="Par33">investigate the effect of the intervention on caries prevalence</p></list-item><list-item><p id="Par34">investigate the effect of the intervention on twice-daily tooth brushing, oral health-related quality of life and oral health behaviours</p></list-item><list-item><p id="Par35">investigate the cost-effectiveness of the intervention</p></list-item><list-item><p id="Par36">explore implementation, mechanisms of impact and context through a process evaluation</p></list-item></list></p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods/design</title>
+              <sec id="Sec3">
+                <title>Study design</title>
+                <p id="Par37">The BRIGHT trial is a multi-centre, school-based, assessor-blinded, two-arm cluster-randomised controlled trial (RCT).</p>
+                <p id="Par38">The population being investigated are pupils in schools with above average percentage of pupils eligible for free school meals (FSM). The BRIGHT intervention is based on the New Zealand KOB study intervention. It is a multi-component, complex intervention with two parts: 1) a short classroom-based session (CBS) embedded in the curriculum; and 2) a series of follow-up twice-daily SMS. Pupils in the control group will continue to receive routine education and no text messaging, and the primary outcome is the presence of caries.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Procedure</title>
+                <sec id="Sec5">
+                  <title>Study setting</title>
+                  <p id="Par39">The trial aims to recruit 5040 young people, aged 11–13 years (year 7 and year 8 in England/Wales; S1 and S2 in Scotland) from 42 schools across Scotland, England and Wales with above the national average percentage of pupils eligible for FSM. These year groups have been chosen purposefully to minimise disruption to English and Welsh GCSE and Scottish Qualifications Authority National 5 exam years, and also to confine 3-year follow-up to within the school setting to avoid the need to follow participants to further education settings.</p>
+                </sec>
+                <sec id="Sec6">
+                  <title>School eligibility (inclusion/exclusion criteria)</title>
+                  <p id="Par40">To be eligible for participation, schools must:<list list-type="bullet"><list-item><p id="Par41">be located in Scotland, England (South Yorkshire and West Yorkshire), or South Wales</p></list-item><list-item><p id="Par42">be state funded</p></list-item><list-item><p id="Par43">have pupils aged 11–16 years old</p></list-item><list-item><p id="Par44">have at least 60 pupils per year group</p></list-item><list-item><p id="Par45">have above the national average percentage (for each devolved nation) of pupils eligible for FSM</p></list-item></list></p>
+                  <p id="Par46">Schools will be ineligible for inclusion if they are:<list list-type="bullet"><list-item><p id="Par47">in Special Measures where the school is judged by the Office for Standards in Education, Children’s Services and Skills to be failing, or likely to fail, to provide an acceptable standard of education</p></list-item><list-item><p id="Par48">due to close</p></list-item></list></p>
+                  <p id="Par49">Eligible schools will be identified based on data from the Department for Education’s register of educational establishments in England and Wales and Education Scotland. Schools will be approached by local research teams and invited to take part.</p>
+                </sec>
+                <sec id="Sec7">
+                  <title>Participants</title>
+                  <p id="Par50">Participants are young people aged 11–13 years old at baseline and attending schools with above the national average percentage of pupils eligible for FSM.</p>
+                </sec>
+                <sec id="Sec8">
+                  <title>Young person (participant) eligibility (inclusion/exclusion criteria)</title>
+                  <p id="Par51">Young people will be eligible for inclusion if they are:<list list-type="bullet"><list-item><p id="Par52">a pupil at a participating school, and</p></list-item><list-item><p id="Par53">aged 11–12 years (in year 7 in England/Wales or S1 in Scotland) or 12–13 years (in year 8 in England/Wales or S2 in Scotland)</p></list-item></list></p>
+                  <p id="Par54">Young people will be ineligible for inclusion if:<list list-type="bullet"><list-item><p id="Par55">they have no functioning mobile telephone of their own, or</p></list-item><list-item><p id="Par56">their parent/carer does not want them to be part of the trial and they opt out</p></list-item></list></p>
+                </sec>
+                <sec id="Sec9">
+                  <title>Young person (participant) recruitment</title>
+                  <p id="Par57">Recruitment strategies have been based on consultation with young people through a youth organisation particularly concerned with hard-to-reach young people (Children and Young People’s Empowerment Project (Chilypep)), teachers and head teachers, a school welfare officer and school nurse and from learning during the internal pilot trial. A young person forum has contributed to the design of the trial and successfully ran throughout the internal pilot trial. This forum will continue to advise on participant recruitment and the best ways of optimising continued engagement with hard-to-reach pupils during the trial.</p>
+                </sec>
+                <sec id="Sec10">
+                  <title>Consent procedure</title>
+                  <p id="Par58">Parents/carers will have the opportunity to state that they do not want their child to participate (opt out), by completing and returning an opt-out form to their child’s school. Eligible young people whose parents/carers have not opted them out of the research will then be invited to take part in the trial. The young people who agree will be asked to sign a consent form by members of the local research team or teachers.</p>
+                  <p id="Par59">All young people who complete the baseline questionnaire and dental assessment will be given a £10 voucher to thank them for their time; all young people who complete the follow-up questionnaire and dental assessment will be given a £5 voucher as a thank you.</p>
+                </sec>
+                <sec id="Sec11">
+                  <title>Study procedure</title>
+                  <sec id="FPar1">
+                    <title>Randomisation</title>
+                    <p id="Par60">Allocation will take place within schools by randomising schools 1:1 to one of two regimes:<list list-type="order"><list-item><p id="Par61">11–12-year-old pupils (year 7 in England and Wales/S1 in Scotland) to receive the intervention and 12–13-year-old pupils (year 8 in England and Wales/S2 in Scotland) to act as the control group, or</p></list-item><list-item><p id="Par62">12–13-year-old pupils (year 8 in England and Wales/S2 in Scotland) to receive the intervention and 11–12-year-old pupils (year 7 in England and Wales/S1 in Scotland) to act as the control group</p></list-item></list></p>
+                    <p id="Par63">An allocation sequence, stratified by school using blocks of size two [<xref ref-type="bibr" rid="CR30">30</xref>], will be generated by an independent statistician. This sequence will be retained by the statistician and will not be accessible to other members of the trial research team. Once a school is ready to be randomised, following collection of their baseline data, the year groups within that school will be randomised by assigning their year 7 and year 8 cohorts (in that order) to the next block in the allocation schedule. The research team and schools will then be informed of which year group has been allocated to receive the BRIGHT intervention and which has been assigned to the control arm. Since the statistician performing the allocation and the teams recruiting the schools are completely separate, and the allocation schedule cannot be known to anyone but the statistician in advance of randomisation, allocation concealment is assured.</p>
+                  </sec>
+                  <sec id="FPar2">
+                    <title>Blinding</title>
+                    <p id="Par64">Given the nature of the intervention, it will not be possible to blind schools or participants (pupils) to their group allocation; however, clinical examinations will be performed by a trained and calibrated dentist blind to the allocation of the pupils, as far as possible. It is possible that pupils may unblind the assessors but they will be encouraged not to discuss the intervention with the dental team to minimise this risk. We shall ask the dental teams to record whether they became unblinded to the pupil’s allocation.</p>
+                  </sec>
+                </sec>
+              </sec>
+              <sec id="Sec12">
+                <title>Intervention and comparison (control)</title>
+                <p id="Par65">The aim of the intervention is to increase toothbrushing frequency with a fluoride toothpaste and thereby reduce the likelihood of the development of dental caries. The intervention consists of two components: (1) a CBS delivered by teachers in the schools’ curricula followed by (2) a series of twice-daily SMS to mobile phones. The intervention meets the Medical Research Council definition of a complex intervention in terms of the interactions between components and the difficulty of behaviours required by those receiving the intervention [<xref ref-type="bibr" rid="CR31">31</xref>]. The control group will not receive the CBS or SMS messages. The KOB intervention has been refined to be more acceptable to young people and informed by recent behaviour change theory [<xref ref-type="bibr" rid="CR32">32</xref>].</p>
+                <sec id="Sec13">
+                  <title>CBS</title>
+                  <p id="Par66">Teachers will deliver the single CBS (50 min in duration) in the school environment to participants in the intervention arm. The schools will receive a teacher’s guide that will outline the learning intentions and success criteria for the lesson, in addition to the appropriate teaching resources in order to deliver the lesson. The lesson has been quality assured in England, Scotland and Wales. The number of schools that report delivering the CBS will be reported.</p>
+                </sec>
+                <sec id="Sec14">
+                  <title>SMS</title>
+                  <p id="Par67">The schedule of SMS was developed using young people’s own words and will reinforce the messages from the CBS. SMS will be provided via mobile phones twice daily according to the recommended frequency of toothbrushing with a fluoride toothpaste. Participants will be reminded to inform the study team of any changes to their mobile phone number. When participants wish to stop receiving text messages, they can text STOP for free at any time. Messages will also be re-started on request. The number of SMS messages received by the pupils will be summarised descriptively.</p>
+                </sec>
+              </sec>
+              <sec id="Sec15">
+                <title>Outcome measures</title>
+                <sec id="Sec16">
+                  <title>Primary outcome</title>
+                  <p id="Par68">The primary outcome for this trial is the presence of at least one treated or untreated carious lesion in any permanent tooth measured at the young person-level using the permanent tooth index 'DMFT' (Decayed, Missing and Filled Teeth) where decay is measured as carious lesions extending into dentine - International Caries Detection and Assessment System (ICDAS) levels 4-6 [<xref ref-type="bibr" rid="CR33">33</xref>], at three years follow-up. The outcome will be measured cross-sectionally at 3 years, and is regardless of the presence or absence of caries in the teeth at baseline.</p>
+                </sec>
+                <sec id="Sec17">
+                  <title>Secondary outcomes</title>
+                  <p id="Par69">
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par70">Caries (D<sub>4–6</sub> MFT) at 2 years: the presence of at least one treated or untreated carious lesion into dentine in permanent teeth (ICDAS levels 4–6) at 2 years follow-up.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par71">Caries (D<sub>1–6</sub> MFT) at 2 and 3 years: the presence of at least one carious lesion in permanent teeth (ICDAS levels 1–6) at 2 and 3 years follow-up.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par72">Number of carious teeth at 2 and 3 years: The number of permanent teeth with any treated or untreated carious lesions (ICDAS 1-6, and caries into dentine 4-6) at 2 and 3 years.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par122">Twice-daily toothbrushing: self-reported toothbrushing frequency using validated questions from the national Child Dental Health surveys at baseline, 6 months and 1, 2 and 3 years. To validate the self-reported measure, two proxy clinical objective indicators will be collected: (i) clinically assessed plaque levels using Turesky’s modification of the Quigley Hein Plaque Index [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]; and (ii) clinically assessed gingivitis using gingival bleeding (modification of the Gingival Index of Löe) [<xref ref-type="bibr" rid="CR36">36</xref>] and mean number of bleeding gingival sites per child. The clinical measures will be carried out at baseline and at the end of years 2 and 3.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                </sec>
+                <sec id="Sec18">
+                  <title>Other outcomes</title>
+                  <p id="Par73">
+                    <list list-type="bullet">
+                      <list-item>
+                        <p id="Par74">Health related quality of life (HRQoL) will be assessed using the Child Health Utility 9D (CHU9D) [<xref ref-type="bibr" rid="CR37">37</xref>]. This will be measured at baseline and at years 1, 2 and 3.</p>
+                      </list-item>
+                      <list-item>
+                        <p id="Par75">Child oral HRQoL will be assessed using the CARIES-QC. This will be measured at baseline and at years 1, 2 and 3.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                  <p id="Par76">Oral health behaviours will be assessed based on self-reported data from young people using questions from the national Child Dental Health Survey [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR38">38</xref>] on diet, use of dental services and other forms of fluoride use, which will allow assessment of confounding. This will be measured at baseline, 6 months and at years 1, 2 and 3.</p>
+                  <p id="Par77">For cost-effectiveness, health service resource use will be assessed for the health economic analysis based on data reported by parents via a questionnaire. This will be measured at baseline and at years 1, 2 and 3. Resource use may also be estimated from routine data sources.</p>
+                  <p id="Par78">Impact on school attendance will be measured by asking schools to provide the attendance record of all participating young people at baseline and at 1, 2 and 3 years.</p>
+                  <p id="Par79">The impact of the intervention on young people from deprived areas specifically will be assessed. Young people’s eligibility for FSM will be collected from their school and Income Deprivation Affecting Children Index (IDACI) scores will be calculated where possible from participant’s home postcodes.</p>
+                  <p id="Par80">A mixed method process evaluation will also be conducted to explore implementation, mechanisms of impact and context of the complex intervention [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+                  <p id="Par81">Figure <xref rid="Fig1" ref-type="fig">1</xref> describes the schedule of recruitment, assessments and intervention delivery.<fig id="Fig1"><label>Fig. 1</label><caption><p>Schedule of enrolment, interventions and assessments</p></caption><graphic xlink:href="13063_2019_3538_Fig1_HTML" id="MO1"/></fig></p>
+                </sec>
+                <sec id="Sec19">
+                  <title>Data collection</title>
+                  <p id="Par82">Data collection will be carried out in the secondary schools under standard dental epidemiological conditions and with questionnaires completed by young people in school time and by parents at home.</p>
+                  <p id="Par83">The University of Dundee and York Trials Unit (YTU) at University of York will act as the data controllers for this study. All information collected during the course of the trial will be kept strictly confidential. YTU and the regional sites will comply with all aspects of the General Data Protection Regulation 2016 applicable in the UK from May 2018. Personal data will be processed under Article 6 (1) (e) (<italic>Processing necessary for the performance of a task carried out in the public interest</italic>) and Special Category data under Article 9 (2) (j) (<italic>Processing necessary for ... scientific ... research purposes)</italic> of the General Data Protection Regulation 2016. Data sharing agreements will be put in place with participating schools.</p>
+                  <p id="Par84">A unique trial identification number (trial ID) will be generated for each participant, details of which will be entered into the trial management system. All data, from baseline through to final follow-up, will be collected on paper using case report forms (CRFs) and identified solely by the trial ID; they will be scanned at YTU using Teleform data capture software into a bespoke data management system. Both the trial management system and the data management systems are held on secure University of York servers with access limited to specified members of YTU staff. The paper consent forms and paper CRFs will be held separately and securely in a controlled access area in locked cabinets.</p>
+                  <p id="Par85">A young person’s mobile phone number, along with their nickname (to which text messages will be addressed) and text message time preference, will be uploaded by YTU directly to the Health Informatics Centre (HIC), University of Dundee. No other details will be uploaded. HIC Services operates a secure Safe Haven environment with strong data governance for the provisioning of data.</p>
+                  <sec id="FPar3">
+                    <title>Sample size</title>
+                    <p id="Par86">The estimated proportion of UK 12 year olds with caries is 32%, with estimates of 46% for those eligible for FSM and 30% for those not eligible for FSM [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR40">40</xref>]. Based on a systematic review of interventions for caries prevention to increase the frequency of toothbrushing [<xref ref-type="bibr" rid="CR41">41</xref>], an absolute reduction in the proportion of young people with caries of 8% might be expected with this intervention. An individually randomised trial powered at 90% (5% two-sided α) to detect a reduction in the proportion of young people with caries from 32% to 24% would require a sample size of 1320. Since this is a cluster trial, this figure needs to be inflated to account for the correlation of the outcomes within schools, as measured by the intraclass correlation coefficient (ICC). Few estimates of a school-level ICC are available for dental data. In a previous study evaluating a behaviour change programme for preventing dental caries in primary schools, an ICC of 0.01 was used, which was estimated using their own unpublished data [<xref ref-type="bibr" rid="CR42">42</xref>]; a more conservative ICC of 0.02 has been chosen for this trial.</p>
+                    <p id="Par87">Additionally, since randomisation is taking place at the level of the year group, and not at the school-level, there is the potential for some contamination (e.g. pupils in the year group assigned to the control arm receiving information about the intervention from pupils in the other participating year group assigned to receive the intervention). There is an argument to therefore increase the sample size further to account for some level of contamination, which has the potential to dilute the treatment effect. We have assumed only partial contamination effects (i.e. those contaminated gain half the treatment benefits as it is unlikely that any pupil in the control group would receive all the intervention) for 27% of the control group pupils (based on findings from the internal pilot phase of the trial). In total, 40 schools are required assuming within-school (year group level randomisation), an average of 60 pupils per year group, an ICC of 0.02, and 20% pupil-level attrition at follow-up. This would give us 90% power (5% two-sided α) to detect an 8% absolute reduction, from 32% to 24%, in the proportion of pupils with caries. An attrition rate of 20% was estimated as the pupils will continue to be at school for the duration of the trial so it will be possible to reach and engage with them through the school and in an environment they recognise as educational and supporting their interests. Overall, 42 schools will be recruited to allow for the potential that a small number of schools may withdraw.</p>
+                  </sec>
+                </sec>
+              </sec>
+              <sec id="Sec20">
+                <title>Data analysis</title>
+                <p id="Par88">All analyses will be conducted on an intention to treat basis, including all randomised young people in the groups to which their year group was allocated irrespective of deviations based on non-compliance, unless otherwise stated. Data from the internal pilot will be used in all analyses.</p>
+                <p id="Par89">The primary analysis will compare the proportion of young people with any treated or untreated caries in permanent teeth at 2 and 3 years between the intervention and control groups using a repeated measures binary logistic multilevel model, with the primary time-point of interest at 3 years. The model will control for presence or absence of caries at baseline, year group, time and an interaction between treatment and time as fixed effect covariates. Pupils and school will be included as random effects (to allow for clustering of data within each pupil (over time) and school). Cohen’s kappa coefficient will be used to measure the intra-examiner agreement of presence of carious lesions at ICDAS code 4–6 for 5% of participants who will be examined twice at a particular time point.</p>
+                <p id="Par90">A subgroup analysis will be conducted looking at participants with baseline caries by including presence or absence of caries at baseline in an interaction with treatment group in the primary model. The hypothesis is that young people with caries at baseline are more likely to have caries at follow-up than those who do not have caries at baseline.</p>
+                <p id="Par91">Secondary analyses will compare self-reported twice-daily brushing frequency at 6 months and 1, 2 and 3 years using a repeated measures binary logistic multilevel model. Continuous measures (Plaque Index Gingival Index of Löe), mean number of bleeding gingival sites per child and CARIES-QC will be analysed using a covariance pattern model. Other secondary outcomes will be analysed using appropriate regression techniques.</p>
+              </sec>
+              <sec id="Sec21">
+                <title>Health economic assessment</title>
+                <p id="Par92">A cost-utility analysis will be conducted. This will estimate the mean differences in costs and quality adjusted life years (QALYs) and report the incremental cost-effectiveness ratio (ICER) for each pathway. The cost-utility analysis will be conducted in line with current recommendations from NICE. In particular, an NHS and Personal Social Services perspective will be taken for costs, and health benefits will be quantified using QALYs. The longer term cost-effectiveness will be modelled to estimate the longer term resource use and HRQoL implications of the intervention.</p>
+                <p id="Par93">QALYs will be estimated using the CHU9D [<xref ref-type="bibr" rid="CR37">37</xref>] reported at baseline and annually thereafter. The CHU9D will be valued using published population tariff values [<xref ref-type="bibr" rid="CR37">37</xref>, <xref ref-type="bibr" rid="CR43">43</xref>], allowing QALYs to be estimated for each arm using the trapezium rule to calculate the area under the curve.NHS resource use will be measured for each participant at baseline and annually up to 36 months. This will include all medication costs (e.g. antibiotics) and visits to dental practices for treatment and health services (e.g. referral to specialists in paediatric dentistry, dental admission for a general anaesthetic) using the parent resource use questionnaire.</p>
+              </sec>
+              <sec id="Sec22">
+                <title>Serious adverse events and adverse events</title>
+                <p id="Par94">All participants in the BRIGHT trial will have a dental assessment and complete questionnaires throughout the study period. The intervention participants will receive a CBS about oral health and text message reminders about toothbrushing. Due to the nature of participant involvement, no serious adverse events or adverse events are anticipated that will be unexpected and related.</p>
+                <p id="Par95">However, the following procedures will be in place to seek to capture any complications associated with the trial:<list list-type="bullet"><list-item><p id="Par96">Young people and parents/carers will be informed in the participant information sheet that they are able to report any concerns or anything out of the ordinary that has happened to them as a result of taking part in BRIGHT to the research team during the course of the study. Contact details are provided.</p></list-item><list-item><p id="Par97">The dental examination case report form will provide space for the dental examiner to record any suspected serious pathologies, safeguarding issues or unexpected and related adverse events or serious adverse events identified at the time of the dental assessment.</p></list-item></list></p>
+                <p id="Par98">The BRIGHT trial team will monitor incoming data in response to these questions.</p>
+              </sec>
+              <sec id="Sec23">
+                <title>Expected events</title>
+                <p id="Par99">It is expected that some participants may experience non-serious adverse events such as minor discomfort in their jaw as a result of keeping their mouth open during the dental assessment, similar to that experienced during a check-up at the dentist. It is also possible that some minor bleeding from the gums might occur as a result of checking for the presence of dental plaque during the clinical examination.</p>
+                <p id="Par100">It is also expected that there may be unrelated incidents of hospitalisations, illnesses, disabling/incapacitating/life-threatening conditions, other common illnesses and rarely deaths in the study population; we will not seek to record all such events. We only seek to record those that could be related and unexpected.</p>
+              </sec>
+              <sec id="Sec24">
+                <title>Reporting adverse events</title>
+                <p id="Par101">Details of any serious adverse events or adverse events reported by the participants will be considered by the principal investigators and research team. Only details of any serious adverse events that are required to be reported to the Research Ethics Committee, i.e. events which are related to taking part in the study and are unexpected, will be recorded using a trial adverse event form. The adverse event reporting period for this trial begins as soon as the participant consents to be in the study and ends at the final data collection point.</p>
+              </sec>
+              <sec id="Sec25">
+                <title>Suspected serious pathology</title>
+                <p id="Par102">In the very rare circumstance that a serious dental/oral issue (e.g. oral cancer, gross swelling or sepsis) is identified during the clinical assessment, dental assessors will contact the Chief Investigator or Co-Principal Investigator, who will (in line with good practice) discuss with a second colleague to decide on the most appropriate person for the child to be referred to. If it is agreed that the young person should be referred to someone else, then the school will be contacted, and we will work with the school and the school nurse to ensure that the young person reaches the appropriate help, whether that is a health or social care professional.</p>
+              </sec>
+              <sec id="Sec26">
+                <title>Publication and dissemination policy</title>
+                <p id="Par103">The study will inform on the cost-effectiveness of a low cost SMS delivered alongside a classroom-based intervention for secondary schools by local authorities or departments of education to reduce dental caries in young adults. The results will be published in a NIHR HTA monograph and high impact, peer reviewed dental journals and in education academic journals and newsletters. The results will be presented at international and national dental and education conferences. The findings will also be disseminated to the wider public health and education audiences. A publication policy has been developed.</p>
+                <p id="Par104">The study progress and findings will be communicated to schools, participants and the public via the trial website, social media and easy to read reports.</p>
+              </sec>
+            </sec>
+            <sec id="Sec27">
+              <title>Discussion</title>
+              <p id="Par105">This trial is the result of a commissioned call in November 2015 by the National Institute for Health Research, Health Technology Assessment Programme, asking the question: “What is the clinical and cost-effectiveness of a digital behaviour change programme to improve oral health in deprived young people?” The trial was commissioned on the basis of the findings from a study in New Zealand where an increase in self-reported toothbrushing in young adults resulted from the use of a series of motivational SMS [<xref ref-type="bibr" rid="CR27">27</xref>]. The authors concluded that motivational SMS improved self-reported oral health and further research was needed. They suggested an RCT that included a longer intervention with tailoring of the messages. The protocol for this trial meets the commissioning brief and has used evidence and theory to design a deliverable trial evaluating a complex intervention (Additional file <xref rid="MOESM1" ref-type="media">1</xref>).</p>
+              <p id="Par106">This trial is the first school-based RCT of an mHealth intervention targeting oral health behaviour in adolescents. A number of interventions have been influential in reducing caries in younger children but adolescents are an often neglected group who also experience the impact of dental caries on their daily lives and into adulthood [<xref ref-type="bibr" rid="CR44">44</xref>]. There has been an increased interest in the use of digital technology for health improvement with adolescents given the potential to deliver large-scale health behaviour change interventions and the ubiquity of mobile phone use [<xref ref-type="bibr" rid="CR45">45</xref>]. The results of this study will help to inform evidence-based practice for mHealth interventions aimed at improving oral health. The study will also address limitations of existing studies in that it will have sufficient power to detect change, includes a 3-year follow-up period and dental assessors will be blinded [<xref ref-type="bibr" rid="CR23">23</xref>–<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+              <p id="Par107">The variety of comprehensive and validated clinical and child-centred measures in this trial is a strength which will help the findings to be compared to, and possibly combined with, other trials investigating interventions to improve children’s oral health. We are looking at the veracity of the self-reported measure of toothbrushing by using two proxy clinical objective indicators (clinically assessed plaque and gingivitis measures using validated tools). Additionally, HRQoL and OHRQoL will be assessed using self-reported data from young people using validated child-centred questionnaires.</p>
+              <p id="Par108">Other strengths of the trial include its being conducted across three of the four nations (England, Scotland and Wales), which increases the generalisability of the findings within the UK education systems. We have worked with secondary schools to ensure the intervention fits within the curricula around health and well-being. The SMS message delivery system used can be automated should future roll-out be indicated.</p>
+              <p id="Par109">While a further strength of the study is the focus of the recruitment of schools with above the national average percentage of pupils eligible for FSM, this does create challenges. These schools may have limited capacity to cope with the demands of involvement in a RCT while also demonstrating educational improvement of their pupils. For this reason schools judged as having serious weaknesses were excluded.</p>
+              <p id="Par110">One of the limitations of this trial is the risk of contamination within schools between one participating year group and the other. We investigated this within the internal pilot trial and found that 27% of the control group pupils had potentially received some of the intervention messages. However, it is highly unlikely that all 27% received the full intervention effect (i.e. received the classroom based session and be receiving bi-daily SMS toothbrushing reminders). The sample size calculation accounts for the possibility of partial contamination effects (i.e. those contaminated gain half the treatment benefits) for 27% of the control group.</p>
+              <p id="Par111">If the findings of the trial show that the intervention is effective, this will inform policy to encourage embedding of the intervention into school curricula and the adoption into guidance produced by departments of education and public health and dental organisations.</p>
+              <p id="Par112">The BRIGHT trial is currently recruiting schools and young people participants. Recruitment began in October 2017 and will be completed in July 2019.</p>
+            </sec>
+            <sec id="Sec28">
+              <title>Conclusions</title>
+              <p id="Par113">
+                <list list-type="bullet">
+                  <list-item>
+                    <p id="Par114">The BRIGHT trial aims to reduce oral health inequalities through use of an mHealth intervention, targeting those young people living in the most deprived areas.</p>
+                  </list-item>
+                  <list-item>
+                    <p id="Par115">The findings of the BRIGHT trial have implications for embedding oral health interventions into school curricula guidance produced by national bodies, including departments for education and dental public health and guideline development organisations.</p>
+                  </list-item>
+                </list>
+              </p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Additional file</title>
+              <sec id="Sec29">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="13063_2019_3538_MOESM1_ESM.doc">
+                      <label>Additional file 1:</label>
+                      <caption>
+                        <p>SPIRIT 2013 checklist: recommended items to address in a clinical trial protocol and related documents. (DOC 121 kb)</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>BRIGHT</term>
+                  <def>
+                    <p id="Par6">Brushing RemInder 4 Good oral HealTh</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CARIES-QC</term>
+                  <def>
+                    <p id="Par7">A measure of child oral health related quality of life</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CBS</term>
+                  <def>
+                    <p id="Par8">Classroom-based session</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>Chilypep</term>
+                  <def>
+                    <p id="Par9">Children and Young People’s Empowerment Project</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CHU9D</term>
+                  <def>
+                    <p id="Par10">Child Health Utility-9D –a measure of child health-related quality of life</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DMFT</term>
+                  <def>
+                    <p id="Par11">Decayed, missing and filled permanent teeth</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FSM</term>
+                  <def>
+                    <p id="Par12">Free school meals</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>GCSE</term>
+                  <def>
+                    <p id="Par13">General Certificate of Secondary Education qualification taken by secondary school students (equivalent is Scottish Qualifications Authority National 5)</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HRQoL</term>
+                  <def>
+                    <p id="Par14">Health-related quality of life</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICC</term>
+                  <def>
+                    <p id="Par15">Intraclass correlation coefficient</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICDAS</term>
+                  <def>
+                    <p id="Par16">International Caries Detection and Assessment System</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ICER</term>
+                  <def>
+                    <p id="Par17">Incremental cost-effectiveness ratio</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>KOB</term>
+                  <def>
+                    <p id="Par18">Keep on Brushing programme—a study of text messaging for unemployed young people in New Zealand</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>mHealth</term>
+                  <def>
+                    <p id="Par19">Mobile health—describes multimedia technologies that interface with health care delivery and are supported by mobile devices</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>NICE</term>
+                  <def>
+                    <p id="Par20">National Institute for Clinical Excellence</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>OHRQoL</term>
+                  <def>
+                    <p id="Par21">Oral health-related quality of life</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>QALY</term>
+                  <def>
+                    <p id="Par22">Quality adjusted life year</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>RCT</term>
+                  <def>
+                    <p id="Par23">Randomised controlled trial</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SMS</term>
+                  <def>
+                    <p id="Par24">Short messaging service—texting for mobile phones</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>
+                <bold>Members of the Trial Steering Committee</bold>
+              </p>
+              <p>A Trial Steering Committee (TSC) has been formed and includes an independent chair and other independent members, such as a statistician, health economist and patient public involvement representatives. Sponsor and funder representatives are also included in this committee as observers. Other members of the research team may attend meetings as and when necessary. The TSC will provide an overall supervision of the trial and ensure that the study is conducted according to the protocol and within the overarching ethical framework through its independent chair. Members will also provide advice outside these meetings according to their area of expertise at key stages via email, phone or, if needed, face-to-face.</p>
+              <p>
+                <table-wrap id="Taba">
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th>Name</th>
+                        <th>Role</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Professor David Conway</td>
+                        <td>Professor of Dental Public Health, Trial Steering Committee member (Chair)</td>
+                      </tr>
+                      <tr>
+                        <td>Dr John Morris</td>
+                        <td>Independent Clinician, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Professor Marion Van der Pol</td>
+                        <td>Health Economist, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Dr Tanya Walsh</td>
+                        <td>Statistician, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Maria Clark</td>
+                        <td>Patient Public Involvement Representative, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Margaret Ogden</td>
+                        <td>Patient Public Involvement Representative, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Irene Soulsby</td>
+                        <td>Patient Public Involvement Representative, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Feruza Nuritova</td>
+                        <td>Sponsor Representative, Trial Steering Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Avril Lloyd</td>
+                        <td>HTA Manager, Trial Steering Committee member</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </p>
+              <p>
+                <bold>Members of the DM(E)C</bold>
+              </p>
+              <p>An independent DM(E) C has been formed, which will be the only group who sees the confidential, accumulating data for the trial. Reports to the DM(E) C will be produced by the statisticians. The DM(E) C can recommend premature closure or reporting of the trial.</p>
+              <p>
+                <table-wrap id="Tabb">
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th>Name</th>
+                        <th>Role</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Dr Ben Styles</td>
+                        <td>Lead for NFER Education Trials Unit, Data Monitoring (Ethics) Committee member (Chair)</td>
+                      </tr>
+                      <tr>
+                        <td>Vicky Ryan</td>
+                        <td>Senior Research Associate (Statistician), Data Monitoring (Ethics) Committee member</td>
+                      </tr>
+                      <tr>
+                        <td>Dr Christopher Vernazza</td>
+                        <td>NIHR Clinician Scientist, Data Monitoring (Ethics) Committee member</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </p>
+              <p>• Lesley Pollard, Children and Young People’s Empowerment Project</p>
+              <p>• Alicia Ridout, mHabitat</p>
+              <p>• David Cooper, Batley Girls High School.</p>
+              <p>• Victoria Pickering, Administrative Assistant, University of Dundee for managing and compiling references.</p>
+              <p>• The research is supported by the National Institute for Health Research (NIHR) infrastructure at Leeds. The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health and Social Care.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>NI and ZM are the co-principal investigators for the grant and led the development and writing of the trial protocol and this paper. HA contributed to the study design and methods following the funding award and to the development of the trial protocol. CH and CF were co-applicants on the grant and contributed to writing the protocol, in particular the statistical analysis sections, and reviewed this paper. DT, FG, SE, IGC, IK, MR, SS, PD, DD, KS and SP contributed to the design of the trial and contributed to writing the protocol. CJ contributed to the SMS delivery and monitoring aspects of the protocol and developed the TextApp system. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>This study has been funded by the National Institute for Health Research (NIHR), Health Technology Assessment (HTA) Programme. Project number 15/166/08 Interventions to Improve Oral Health in Deprived Young People.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The final anonymised trial data set will be available to all trial team members/investigators if a formal request describing their plans is approved by the trial steering group. To ensure confidentiality, data dispersed to project team members will be blinded of any identifying participant information.</p>
+            </notes>
+            <notes>
+              <title>Ethics approval and consent to participate</title>
+              <p id="Par116">The study has obtained ethics approval from NHS Scotland East of Scotland Research Ethics Service. Health Research Authority approval was not required for this study. Approval from Health and Care Research Wales has been obtained. Management Permissions have been obtained from NHS Tayside Research and Development and NHS Wales Cardiff and Vale University Health Board Research and Development. We will obtain written informed consent from all participants in the study and from the participants’ parents/guardians. The information for the study has been developed with the involvement of young people.</p>
+              <p id="Par117">The chief investigator will seek approval for any amendments to the protocol or other study documents from the sponsor’s representatives, research ethics committee, and NHS research and development offices. Amendments to the protocol or other study docs will not be implemented without these approvals.</p>
+            </notes>
+            <notes>
+              <title>Consent for publication</title>
+              <p id="Par118">Not applicable</p>
+            </notes>
+            <notes notes-type="COI-statement">
+              <title>Competing interests</title>
+              <p id="Par119">No competing interests are declared by ZM, HA, CJ, FG, SE, IGC, NI, MR, PD, KS, CF, SS, DT, SP, IK and DD.</p>
+              <p id="Par120">CH is a member of the NIHR HTA commissioning board.</p>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kassebaum</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Bernabe</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Dahiya</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bhandari</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Murray</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Marcenes</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Global burden of untreated caries: A systematic review and metaregression</article-title>
+                  <source>J Dent Res</source>
+                  <year>2015</year>
+                  <volume>94</volume>
+                  <issue>5</issue>
+                  <fpage>650</fpage>
+                  <lpage>658</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034515573272</pub-id>
+                  <pub-id pub-id-type="pmid">25740856</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shepherd</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Nadanovsky</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheiham</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The prevalence and impact of dental pain in 8-year-old school children in Harrow</article-title>
+                  <source>Engl Br Dent J</source>
+                  <year>1999</year>
+                  <volume>187</volume>
+                  <issue>1</issue>
+                  <fpage>38</fpage>
+                  <lpage>41</lpage>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4800197</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>American Academy on Pediatric Dentistry</collab>
+                  </person-group>
+                  <article-title>Policy on early childhood caries (ECC): Classifications, consequences, and preventive strategies</article-title>
+                  <source>Pediatr Dent</source>
+                  <year>2016</year>
+                  <volume>38</volume>
+                  <issue>6</issue>
+                  <fpage>52</fpage>
+                  <lpage>54</lpage>
+                  <pub-id pub-id-type="pmid">27931420</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <mixed-citation publication-type="other">Pitts NB, Chadwick B, Anderson T. Children's Dental Health Survey 2013. Report 2: Dental disease and damage in children England, Wales and Northern Island England: Health &amp; Social Care Information Centre; 2015 [cited 2016 13 May]. Available from: <ext-link ext-link-type="uri" xlink:href="http://doc.ukdataservice.ac.uk/doc/7774/mrdoc/pdf/7774_cdhs_2013_technical_report.pdf">http://doc.ukdataservice.ac.uk/doc/7774/mrdoc/pdf/7774_cdhs_2013_technical_report.pdf</ext-link>.</mixed-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gilchrist</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Marshman</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Deery</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodd</surname>
+                      <given-names>HD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The impact of dental caries on children and young people: What they have to say?</article-title>
+                  <source>Int J Paediatr Dent</source>
+                  <year>2015</year>
+                  <volume>25</volume>
+                  <issue>5</issue>
+                  <fpage>327</fpage>
+                  <lpage>338</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12186</pub-id>
+                  <pub-id pub-id-type="pmid">26153526</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jackson</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Vann</surname>
+                      <given-names>WF</given-names>
+                      <suffix>Jr</suffix>
+                    </name>
+                    <name>
+                      <surname>Kotch</surname>
+                      <given-names>JB</given-names>
+                    </name>
+                    <name>
+                      <surname>Pahel</surname>
+                      <given-names>BT</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JY</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of poor oral health on children's school attendance and performance</article-title>
+                  <source>Am J Public Health</source>
+                  <year>2011</year>
+                  <volume>101</volume>
+                  <issue>10</issue>
+                  <fpage>1900</fpage>
+                  <lpage>1906</lpage>
+                  <pub-id pub-id-type="doi">10.2105/AJPH.2010.200915</pub-id>
+                  <pub-id pub-id-type="pmid">21330579</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Blumenshine</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Vann</surname>
+                      <given-names>WF</given-names>
+                      <suffix>Jr</suffix>
+                    </name>
+                    <name>
+                      <surname>Gizlice</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JY</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Children's school performance: impact of general and oral health</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>2008</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>82</fpage>
+                  <lpage>87</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.2007.00062.x</pub-id>
+                  <pub-id pub-id-type="pmid">18221320</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rebelo</surname>
+                      <given-names>Maria Augusta Bessa</given-names>
+                    </name>
+                    <name>
+                      <surname>Rebelo Vieira</surname>
+                      <given-names>Janete Maria</given-names>
+                    </name>
+                    <name>
+                      <surname>Pereira</surname>
+                      <given-names>Juliana Vianna</given-names>
+                    </name>
+                    <name>
+                      <surname>Quadros</surname>
+                      <given-names>Larissa Neves</given-names>
+                    </name>
+                    <name>
+                      <surname>Vettore</surname>
+                      <given-names>Mario Vianna</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Does oral health influence school performance and school attendance? A systematic review and meta-analysis</article-title>
+                  <source>International Journal of Paediatric Dentistry</source>
+                  <year>2018</year>
+                  <volume>29</volume>
+                  <issue>2</issue>
+                  <fpage>138</fpage>
+                  <lpage>148</lpage>
+                  <pub-id pub-id-type="doi">10.1111/ipd.12441</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pine</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Adair</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>Nicoll</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Burnside</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Petersen</surname>
+                      <given-names>PE</given-names>
+                    </name>
+                    <name>
+                      <surname>Beighton</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>International comparisons of health inequalities in childhood dental caries</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2004</year>
+                  <volume>21</volume>
+                  <issue>1 Suppl</issue>
+                  <fpage>121</fpage>
+                  <lpage>130</lpage>
+                  <?supplied-pmid 15072481?>
+                  <pub-id pub-id-type="pmid">15072481</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <collab>The Scottish Dental Epidemiology Co-ordinating Committee</collab>
+                  </person-group>
+                  <source>Detailed National Dental Inspection Programme of Primary 7 children and the Basic Inspection of Primary 1 and Primary 7 children</source>
+                  <year>2015</year>
+                  <publisher-loc>Edinburgh</publisher-loc>
+                  <publisher-name>Information Services Division Scotland</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schwendicke</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Dorfer</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Schlattmann</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Page</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomson</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Paris</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Socioeconomic inequality and caries: a systematic review and meta-analysis</article-title>
+                  <source>J Dent Res</source>
+                  <year>2015</year>
+                  <volume>94</volume>
+                  <issue>1</issue>
+                  <fpage>10</fpage>
+                  <lpage>18</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034514557546</pub-id>
+                  <pub-id pub-id-type="pmid">25394849</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goodwin</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Sanders</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Pretty</surname>
+                      <given-names>IA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A study of the provision of hospital based dental general anaesthetic services for children in the northwest of England: part 1--a comparison of service delivery between six hospitals</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <fpage>50</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-015-0028-4</pub-id>
+                  <pub-id pub-id-type="pmid">25912074</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <mixed-citation publication-type="other">Todd JE. Children's dental health in England and Wales, 1973: a survey carried out by Social Survey Division of the Office of Population Censuses and Surveys in collaboration with the Department of Dental Health, University of Birmingham for the Department of Health and Social Security. London: H.M. Stationery Office; 1975.</mixed-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marinho</surname>
+                      <given-names>VC</given-names>
+                    </name>
+                    <name>
+                      <surname>Higgins</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheiham</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Logan</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Fluoride toothpastes for preventing dental caries in children and adolescents</article-title>
+                  <source>Cochrane Database Syst Rev</source>
+                  <year>2003</year>
+                  <volume>1</volume>
+                  <fpage>CD002278</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <mixed-citation publication-type="other">Yaacob M, Worthington HV, Deacon SA, Deery C, Walmsley AD, Robinson PG, et al. Powered versus manual toothbrushing for oral health. Cochrane Database Syst Rev. 2014;17(6):6.</mixed-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>White</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Chadwick</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Nuttall</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Chestnutt</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Steele</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral health habits amongst children in the United Kingdom in 2003</article-title>
+                  <source>Br Dent J</source>
+                  <year>2006</year>
+                  <volume>200</volume>
+                  <issue>9</issue>
+                  <fpage>487</fpage>
+                  <lpage>491</lpage>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4813523</pub-id>
+                  <pub-id pub-id-type="pmid">16703081</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Verrips</surname>
+                      <given-names>GH</given-names>
+                    </name>
+                    <name>
+                      <surname>Kalsbeek</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Woerkum</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Koelen</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kok-Weimar</surname>
+                      <given-names>TL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Correlates of toothbrushing in preschool children by their parents in four ethnic groups in The Netherlands</article-title>
+                  <source>Community Dent Health</source>
+                  <year>1994</year>
+                  <volume>11</volume>
+                  <issue>4</issue>
+                  <fpage>233</fpage>
+                  <lpage>239</lpage>
+                  <?supplied-pmid 7850643?>
+                  <pub-id pub-id-type="pmid">7850643</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zeedyk</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Longbottom</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitts</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tooth-brushing practices of parents and toddlers: A study of home-based videotaped sessions</article-title>
+                  <source>Caries Res</source>
+                  <year>2005</year>
+                  <volume>39</volume>
+                  <issue>1</issue>
+                  <fpage>27</fpage>
+                  <lpage>33</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000081653</pub-id>
+                  <pub-id pub-id-type="pmid">15591731</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Head</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Noar</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Iannarino</surname>
+                      <given-names>NT</given-names>
+                    </name>
+                    <name>
+                      <surname>Harrington</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Efficacy of text messaging-based interventions for health promotion: A meta-analysis</article-title>
+                  <source>Soc Sci Med</source>
+                  <year>2013</year>
+                  <volume>97</volume>
+                  <fpage>41</fpage>
+                  <lpage>48</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.socscimed.2013.08.003</pub-id>
+                  <pub-id pub-id-type="pmid">24161087</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <mixed-citation publication-type="other">Share of children who regularly used mobile phones in the United Kingdom (UK) from 2014 to 2017, by age. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.statista.com/statistics/398283/children-regular-use-of-mobile-phones-by-age-uk/">https://www.statista.com/statistics/398283/children-regular-use-of-mobile-phones-by-age-uk/</ext-link>.</mixed-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <mixed-citation publication-type="other">OFCOM. Children and Parents: Media Use and Attitudes Report. 2017. Available from <ext-link ext-link-type="uri" xlink:href="https://www.ofcom.org.uk/__data/assets/pdf_file/0020/108182/children-parents-media-use-attitudes-2017.pdf">https://www.ofcom.org.uk/__data/assets/pdf_file/0020/108182/children-parents-media-use-attitudes-2017.pdf</ext-link>.</mixed-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fjeldsoe</surname>
+                      <given-names>BS</given-names>
+                    </name>
+                    <name>
+                      <surname>Marshall</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Behavior change interventions delivered by mobile telephone short-message service</article-title>
+                  <source>Am J Prev Med</source>
+                  <year>2009</year>
+                  <volume>36</volume>
+                  <issue>2</issue>
+                  <fpage>165</fpage>
+                  <lpage>173</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.amepre.2008.09.040</pub-id>
+                  <pub-id pub-id-type="pmid">19135907</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Armanasco</surname>
+                      <given-names>Ashleigh A.</given-names>
+                    </name>
+                    <name>
+                      <surname>Miller</surname>
+                      <given-names>Yvette D.</given-names>
+                    </name>
+                    <name>
+                      <surname>Fjeldsoe</surname>
+                      <given-names>Brianna S.</given-names>
+                    </name>
+                    <name>
+                      <surname>Marshall</surname>
+                      <given-names>Alison L.</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preventive Health Behavior Change Text Message Interventions: A Meta-analysis</article-title>
+                  <source>American Journal of Preventive Medicine</source>
+                  <year>2017</year>
+                  <volume>52</volume>
+                  <issue>3</issue>
+                  <fpage>391</fpage>
+                  <lpage>402</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.amepre.2016.10.042</pub-id>
+                  <pub-id pub-id-type="pmid">28073656</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cole-Lewis</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Kershaw</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Text messaging as a tool for behavior change in disease prevention and management</article-title>
+                  <source>Epidemiol Rev</source>
+                  <year>2010</year>
+                  <volume>32</volume>
+                  <fpage>56</fpage>
+                  <lpage>69</lpage>
+                  <pub-id pub-id-type="doi">10.1093/epirev/mxq004</pub-id>
+                  <pub-id pub-id-type="pmid">20354039</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Eathington</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Baldwin</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Sipsma</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The impact of health education transmitted via social media or text messaging on adolescent and young adult risky sexual behavior: a systematic review of the literature</article-title>
+                  <source>Sex Transm Dis</source>
+                  <year>2014</year>
+                  <volume>41</volume>
+                  <issue>7</issue>
+                  <fpage>413</fpage>
+                  <lpage>419</lpage>
+                  <pub-id pub-id-type="doi">10.1097/OLQ.0000000000000146</pub-id>
+                  <pub-id pub-id-type="pmid">24922099</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Albino</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tiwari</surname>
+                      <given-names>T</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Preventing childhood caries: A review of recent behavioral research</article-title>
+                  <source>J Dent Res</source>
+                  <year>2016</year>
+                  <volume>95</volume>
+                  <issue>1</issue>
+                  <fpage>35</fpage>
+                  <lpage>42</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034515609034</pub-id>
+                  <pub-id pub-id-type="pmid">26438210</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schluter</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamilton</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Coe</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Messer-Perkins</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Keep on brushing: a longitudinal study of motivational text messaging in young adults aged 18-24 years receiving Work and Income Support</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>2015</year>
+                  <volume>75</volume>
+                  <issue>2</issue>
+                  <fpage>118</fpage>
+                  <lpage>125</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jphd.12079</pub-id>
+                  <pub-id pub-id-type="pmid">25409935</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Smith</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Whaanga</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <source>Evaluation of oral health self-care trial initiatives. Keep on Brushing (improving the oral health self-care of 18–24 year old beneficiaries)</source>
+                  <year>2015</year>
+                  <publisher-loc>New Zealand</publisher-loc>
+                  <publisher-name>Ministry of Health Manatu Hauora, Canterbury</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Champion</surname>
+                      <given-names>VL</given-names>
+                    </name>
+                    <name>
+                      <surname>Skinner</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                  </person-group>
+                  <source>The health belief model. Health Behavior and Health Education: Theory, Research, and Practice</source>
+                  <year>2008</year>
+                  <publisher-loc>San Fransisco</publisher-loc>
+                  <publisher-name>Jossey-Bass</publisher-name>
+                  <fpage>1</fpage>
+                  <lpage>552</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sedgwick</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Treatment allocation in trials: stratified randomisation</article-title>
+                  <source>BMJ.</source>
+                  <year>2015</year>
+                  <volume>350</volume>
+                  <fpage>h978</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.h978</pub-id>
+                  <pub-id pub-id-type="pmid">25722098</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Craig</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Dieppe</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Macintyre</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Michie</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nazareth</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Petticrew</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Developing and evaluating complex interventions: the new Medical Research Council guidance</article-title>
+                  <source>BMJ.</source>
+                  <year>2008</year>
+                  <volume>337</volume>
+                  <issue>a1655</issue>
+                  <fpage>979</fpage>
+                  <lpage>983</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abroms</surname>
+                      <given-names>LC</given-names>
+                    </name>
+                    <name>
+                      <surname>Whittaker</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Free</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Mendel Van Alstyne</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Schindler-Ruwisch</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Developing and pretesting a text messaging program for health behavior change: Recommended steps</article-title>
+                  <source>JMIR mHealth and uHealth</source>
+                  <year>2015</year>
+                  <volume>3</volume>
+                  <issue>4</issue>
+                  <fpage>e107</fpage>
+                  <pub-id pub-id-type="doi">10.2196/mhealth.4917</pub-id>
+                  <pub-id pub-id-type="pmid">26690917</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pitts</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>"ICDAS"--an international system for caries detection and assessment being developed to facilitate caries epidemiology, research and appropriate clinical management</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2004</year>
+                  <volume>21</volume>
+                  <issue>3</issue>
+                  <fpage>193</fpage>
+                  <lpage>198</lpage>
+                  <?supplied-pmid 15470828?>
+                  <pub-id pub-id-type="pmid">15470828</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Quigley</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Hein</surname>
+                      <given-names>JW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparative cleansing efficiency of manual and power brushing</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>1962</year>
+                  <volume>65</volume>
+                  <issue>1</issue>
+                  <fpage>26</fpage>
+                  <lpage>29</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.1962.0184</pub-id>
+                  <pub-id pub-id-type="pmid">14489483</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <mixed-citation publication-type="other">Marinho VCC, Higgins JPT, Logan S, Sheiham A. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2003;1:CD002278.</mixed-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Löe</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Silness</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal disease in pregnancy. I. Prevalence and severity</article-title>
+                  <source>Acta Odontologica Scandinavica</source>
+                  <year>1963</year>
+                  <volume>21</volume>
+                  <fpage>533</fpage>
+                  <lpage>551</lpage>
+                  <pub-id pub-id-type="doi">10.3109/00016356309011240</pub-id>
+                  <pub-id pub-id-type="pmid">14121956</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stevens</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Valuation of the Child Health Utility 9D Index</article-title>
+                  <source>PharmacoEconomics.</source>
+                  <year>2012</year>
+                  <volume>30</volume>
+                  <issue>8</issue>
+                  <fpage>729</fpage>
+                  <lpage>747</lpage>
+                  <pub-id pub-id-type="doi">10.2165/11599120-000000000-00000</pub-id>
+                  <pub-id pub-id-type="pmid">22788262</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Anderson</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Thomas</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Ryan</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Dennes</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Fuller</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <source>Children's Dental Health Survey 2013</source>
+                  <year>2015</year>
+                  <publisher-loc>Health &amp; Social Care Information Centre</publisher-loc>
+                  <publisher-name>England</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moore</surname>
+                      <given-names>GF</given-names>
+                    </name>
+                    <name>
+                      <surname>Audrey</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Barker</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bond</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Bonell</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Hardeman</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Process evaluation of complex interventions: Medical Research Council guidance</article-title>
+                  <source>BMJ</source>
+                  <year>2015</year>
+                  <volume>350</volume>
+                  <fpage>h1258</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.h1258</pub-id>
+                  <pub-id pub-id-type="pmid">25791983</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <collab>Department for Education</collab>
+                  </person-group>
+                  <source>Schools, pupils and their characteristics: January 2015</source>
+                  <year>2015</year>
+                  <publisher-loc>London</publisher-loc>
+                  <publisher-name>Crown Copyright</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Twetman</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Axelsson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Dahlgren</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Holm</surname>
+                      <given-names>AK</given-names>
+                    </name>
+                    <name>
+                      <surname>Källestål</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Lagerlöf</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Caries-preventive effect of fluoride toothpaste: a systematic review</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2003</year>
+                  <volume>61</volume>
+                  <issue>6</issue>
+                  <fpage>347</fpage>
+                  <lpage>355</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016350310007590</pub-id>
+                  <pub-id pub-id-type="pmid">14960006</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pine</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Adair</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Robinson</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Burnside</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Moynihan</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Wade</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>The BBaRTS Healthy Teeth Behaviour Change Programme for preventing dental caries in primary school children: study protocol for a cluster randomised controlled trial</article-title>
+                  <source>Trials.</source>
+                  <year>2016</year>
+                  <volume>17</volume>
+                  <issue>1</issue>
+                  <fpage>103</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s13063-016-1226-3</pub-id>
+                  <pub-id pub-id-type="pmid">26897029</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ratcliffe</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Flynn</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Terlich</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Stevens</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Brazier</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Sawyer</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Developing adolescent-specific health state values for economic evaluation: an application of profile case best-worst scaling to the Child Health Utility 9D</article-title>
+                  <source>PharmacoEconomics.</source>
+                  <year>2012</year>
+                  <volume>30</volume>
+                  <issue>8</issue>
+                  <fpage>713</fpage>
+                  <lpage>727</lpage>
+                  <pub-id pub-id-type="doi">10.2165/11597900-000000000-00000</pub-id>
+                  <pub-id pub-id-type="pmid">22788261</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <collab>National Institute for Health and Care Excellence</collab>
+                  </person-group>
+                  <source>Oral Health Improvement for Local Authorities and their Partners:PH55</source>
+                  <year>2014</year>
+                  <publisher-loc>London</publisher-loc>
+                  <publisher-name>NICE</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Loescher</surname>
+                      <given-names>LJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Rains</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Kramer</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Akers</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Moussa</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review of interventions to enhance healthy lifestyle behaviors in adolescents delivered via mobile phone text messaging</article-title>
+                  <source>Am J Health Promot</source>
+                  <year>2018</year>
+                  <volume>32</volume>
+                  <issue>4</issue>
+                  <fpage>865</fpage>
+                  <lpage>879</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0890117116675785</pub-id>
+                  <pub-id pub-id-type="pmid">27923885</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

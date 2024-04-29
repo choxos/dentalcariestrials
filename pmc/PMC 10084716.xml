@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:41:27Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10084716" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10084716</identifier>
+        <datestamp>2023-04-11</datestamp>
+        <setSpec>eortho</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Eur J Orthod</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Eur J Orthod</journal-id>
+              <journal-id journal-id-type="publisher-id">eortho</journal-id>
+              <journal-title-group>
+                <journal-title>The European Journal of Orthodontics</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0141-5387</issn>
+              <issn pub-type="epub">1460-2210</issn>
+              <publisher>
+                <publisher-name>Oxford University Press</publisher-name>
+                <publisher-loc>UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10084716</article-id>
+              <article-id pub-id-type="pmcid">PMC10084716</article-id>
+              <article-id pub-id-type="pmc-uid">10084716</article-id>
+              <article-id pub-id-type="pmid">34369566</article-id>
+              <article-id pub-id-type="pmid">34369566</article-id>
+              <article-id pub-id-type="doi">10.1093/ejo/cjab051</article-id>
+              <article-id pub-id-type="publisher-id">cjab051</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+                <subj-group subj-group-type="category-taxonomy-collection">
+                  <subject>AcademicSubjects/MED00500</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effects of force magnitude on dental arches in cervical headgear therapy</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2992-3784</contrib-id>
+                  <name>
+                    <surname>Talvitie</surname>
+                    <given-names>Tuula</given-names>
+                  </name>
+                  <aff><institution>Vaasa Social Services and Health Care Division, Dental Service</institution>, <addr-line>Vaasa</addr-line>, <country country="FI">Finland</country></aff>
+                  <aff><institution>Faculty of Health Sciences, Institute of Dentistry, University of Eastern Finland</institution>, <addr-line>Kuopio</addr-line>, <country country="FI">Finland</country></aff>
+                  <xref rid="c1" ref-type="corresp"/>
+                  <!--tuula.talvitie@fimnet.fi-->
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Helminen</surname>
+                    <given-names>Mika</given-names>
+                  </name>
+                  <aff><institution>Tays Research Services, Tampere University Hospital</institution>, <country country="FI">Finland</country></aff>
+                  <aff><institution>Faculty of Social Sciences, Health Sciences, Tampere University</institution>, <country country="FI">Finland</country></aff>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Karsila</surname>
+                    <given-names>Susanna</given-names>
+                  </name>
+                  <aff><institution>Turku Municipal Health Care Services, Dental Teaching Unit</institution>, <addr-line>Turku</addr-line>, <country country="FI">Finland</country></aff>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Pirttiniemi</surname>
+                    <given-names>Pertti</given-names>
+                  </name>
+                  <aff><institution>Department of Oral Development and Orthodontics, Research Unit of Oral Health Sciences, University of Oulu</institution>, <country country="FI">Finland</country></aff>
+                  <aff><institution>Medical Research Center, Oulu University Hospital</institution>, <country country="FI">Finland</country></aff>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Signorelli</surname>
+                    <given-names>Luca</given-names>
+                  </name>
+                  <aff><institution>Private Practice</institution>, <addr-line>Wil</addr-line>, <country country="CH">Switzerland</country></aff>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Varho</surname>
+                    <given-names>Reeta</given-names>
+                  </name>
+                  <aff><institution>Turku Municipal Health Care Services, Dental Teaching Unit</institution>, <addr-line>Turku</addr-line>, <country country="FI">Finland</country></aff>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Peltomäki</surname>
+                    <given-names>Timo</given-names>
+                  </name>
+                  <aff><institution>Faculty of Health Sciences, Institute of Dentistry, University of Eastern Finland</institution>, <addr-line>Kuopio</addr-line>, <country country="FI">Finland</country></aff>
+                  <aff><institution>Faculty of Medicine and Health Technology, Tampere University</institution>, <country country="FI">Finland</country></aff>
+                </contrib>
+              </contrib-group>
+              <author-notes>
+                <corresp id="c1">Correspondence to: Tuula Talvitie, Vaasa Social Services and Health Care Division, Kirkkopuistikko Health Station, Kirkkopuistikko 26b, 65100 Vaasa, Finland. E-mail: <email>tuula.talvitie@fimnet.fi</email></corresp>
+              </author-notes>
+              <pub-date pub-type="collection">
+                <month>4</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="epub" iso-8601-date="2021-08-09">
+                <day>09</day>
+                <month>8</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>09</day>
+                <month>8</month>
+                <year>2021</year>
+              </pub-date>
+              <volume>44</volume>
+              <issue>2</issue>
+              <fpage>146</fpage>
+              <lpage>154</lpage>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021. Published by Oxford University Press on behalf of the European Orthodontic Society</copyright-statement>
+                <copyright-year>2021</copyright-year>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:href="cjab051.pdf"/>
+              <abstract>
+                <title>Summary</title>
+                <sec id="s0100">
+                  <title>Aim</title>
+                  <p>To study the influence of different force magnitudes on dental arches in cervical headgear (CHG) treatment.</p>
+                </sec>
+                <sec id="s0101">
+                  <title>Material and methods</title>
+                  <p>In this controlled clinical trial, patients (<italic toggle="yes">n</italic> = 40) were treated with CHG with light (L, 300 g, <italic toggle="yes">n</italic> = 22) or heavy force (H, 500 g, <italic toggle="yes">n</italic> = 18) magnitude. Subjects were asked to use CHG for 10 hours a day for 10 months. The outer bow of the CHG facebow was raised 10–20 degrees and the inner bow expanded 3–4 mm. Adherence to instructions and force magnitude were monitored with an electronic module (Smartgear, Swissorthodontics, Switzerland). Impressions for study models were taken before (T1) and after (T2) treatment and the study models were scanned into digital form (3Shape, R700 Scanner, Denmark). Measurements were made using the digital models (Planmeca Romexis, Model analyser, Finland).</p>
+                </sec>
+                <sec id="s0102">
+                  <title>Results</title>
+                  <p>During the treatment (T1–T2) the upper inter-canine distance increased by 2.83 mm (<italic toggle="yes">P</italic> = 0.000) and 2.60 mm (<italic toggle="yes">P</italic> = 0.000) in the L and H force magnitude groups, respectively. Upper inter-molar width increased by 3.16 mm (<italic toggle="yes">P</italic> = 0.000) and 2.50 mm (<italic toggle="yes">P</italic> = 0.000) in the L and H groups, respectively. Maxillary total arch perimeter increased by 6.39 mm (<italic toggle="yes">P</italic> = 0.001) and 6.68 mm (<italic toggle="yes">P</italic> = 0.001) in the L and H groups, respectively. In the amount of change over time, T1–T2, in the upper arch measurements, no significant difference was found between the groups. Lower inter-canine width increased by 0.94 mm (<italic toggle="yes">P</italic> = 0.005) and 1.16 mm (<italic toggle="yes">P</italic> = 0.000) in the L and H groups, respectively; no difference between the groups. Lower inter-molar distance increased by 2.17 mm (<italic toggle="yes">P</italic> = 0.000) and 1.11 mm (<italic toggle="yes">P</italic> = 0.008) in the L and H groups, respectively. At the end of the study, upper and lower inter-molar width was larger in the L group than in the H group (<italic toggle="yes">P</italic> = 0.039 and <italic toggle="yes">P</italic> = 0.022, respectively).</p>
+                </sec>
+                <sec id="s0103">
+                  <title>Conclusion</title>
+                  <p>CHG therapy is an effective method for expanding and releasing moderate crowding of the upper dental arch. The lower arch spontaneously follows the upper arch in widening effects, and minor expansion can also be seen on the lower arch. In the L group, larger inter-molar width was achieved on the upper and lower arch; probably due to better adherence to instructions. Light force is recommended for use in CHG therapy.</p>
+                </sec>
+              </abstract>
+              <counts>
+                <page-count count="9"/>
+              </counts>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="s1">
+              <title>Introduction</title>
+              <p>Signs of development of Class II malocclusion can be seen already at the primary dental stage, the traits of which are transferred to early mixed and permanent dentition. Self-correction during dentofacial growth and development is not to be expected without therapy (<xref rid="CIT0001" ref-type="bibr">1–6</xref>). Class II molar relationship is associated with high variation in sagittal and vertical combinations of skeletal disharmony (<xref rid="CIT0007" ref-type="bibr">7</xref>); most commonly associated with a retrusive mandibular position combined with a normal or protrusive or retrusive maxillary position and excessive lower face height (<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0007" ref-type="bibr">7</xref>). Additionally, transversal discrepancy with a narrow upper dental arch is stated to be closely associated with Class II (<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0003" ref-type="bibr">3</xref>, <xref rid="CIT0006" ref-type="bibr">6</xref>, <xref rid="CIT0008" ref-type="bibr">8–10</xref>), which can be detected at early age in the primary dentition and is maintained or can even worsen during development of the permanent dentition (<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0006" ref-type="bibr">6</xref>, <xref rid="CIT0011" ref-type="bibr">11</xref>).</p>
+              <p>In general, more than 3 mm crowding in the early mixed dentition is found about 10 and 15 per cent in the upper and lower arch, respectively (<xref rid="CIT0012" ref-type="bibr">12</xref>). Over 2 mm crowding in the mixed dentition is in most cases transferred into the permanent dentition (<xref rid="CIT0013" ref-type="bibr">13</xref>). Less than 2 mm crowding in the mandibular anterior region in the early mixed dentition is thought to be related to a normal development stage and expected to self-correct during transition into the permanent dentition (<xref rid="CIT0014" ref-type="bibr">14</xref>). Early expansion of the maxillary dental arch can release crowding, meaning less fixed appliance treatment and less extractions are needed in the later development stage (<xref rid="CIT0015" ref-type="bibr">15</xref>).</p>
+              <p>Headgear (HG) is still widely used (<xref rid="CIT0016" ref-type="bibr">16</xref>, <xref rid="CIT0017" ref-type="bibr">17</xref>) and is considered to be an effective orthodontic appliance in Class II therapy (<xref rid="CIT0018" ref-type="bibr">18</xref>, <xref rid="CIT0019" ref-type="bibr">19</xref>). Like all removable orthodontic devices, HG is effective only when used in strict adherence to instructions throughout the HG therapy. Lack of compliance is one of the most important reasons not to use HG in Class II treatment (<xref rid="CIT0019" ref-type="bibr">19</xref>).</p>
+              <p>In cervical headgear (CHG) activation for treatment numerous variations and combinations have been used. Facebow settings alone can fluctuate greatly. Expansion of the facebow inner arch can vary between 0 and 10 mm (<xref rid="CIT0020" ref-type="bibr">20–27</xref>) and the long outer bow can be raised 0–20 degrees to prevent distal tipping of the first molars (<xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0026" ref-type="bibr">26–29</xref>). Used force magnitude can fluctuate from very light to very heavy (200–1000 g) depending on the target outcome (<xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0025" ref-type="bibr">25</xref>, <xref rid="CIT0026" ref-type="bibr">26</xref>, <xref rid="CIT0030" ref-type="bibr">30–34</xref>). Moreover, recommended CHG wear time varies greatly from 8 to 16 hours per day to up to 24/7 use (<xref rid="CIT0021" ref-type="bibr">21</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0028" ref-type="bibr">28</xref>, <xref rid="CIT0033" ref-type="bibr">33</xref>, <xref rid="CIT0035" ref-type="bibr">35–39</xref>).</p>
+              <p>Upper dental arch expansion has been found to result in spontaneous change in mandibular position (<xref rid="CIT0002" ref-type="bibr">2</xref>, <xref rid="CIT0008" ref-type="bibr">8</xref>, <xref rid="CIT0021" ref-type="bibr">21</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>), which can simplify future treatment need and therapy arrangements (<xref rid="CIT0015" ref-type="bibr">15</xref>, <xref rid="CIT0020" ref-type="bibr">20</xref>). In Class II therapy, correction of transversal discrepancy to improve sagittal relations is often needed. CHG therapy can influence sagittal and transversal planes simultaneously. With an expanded inner arch of the facebow, maxillary dental arch widening is achieved and considered to be effective and stable (<xref rid="CIT0009" ref-type="bibr">9</xref>, <xref rid="CIT0015" ref-type="bibr">15</xref>, <xref rid="CIT0018" ref-type="bibr">18</xref>, <xref rid="CIT0020" ref-type="bibr">20</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>, <xref rid="CIT0040" ref-type="bibr">40</xref>, <xref rid="CIT0041" ref-type="bibr">41</xref>). In addition, simultaneous mandibular dental arch widening and lengthening has also been reported (<xref rid="CIT0009" ref-type="bibr">9</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>, <xref rid="CIT0041" ref-type="bibr">41</xref>).</p>
+              <p>Maxillary displacement in the anterior direction can be restricted with HG (<xref rid="CIT0018" ref-type="bibr">18</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0030" ref-type="bibr">30</xref>, <xref rid="CIT0042" ref-type="bibr">42</xref>, <xref rid="CIT0043" ref-type="bibr">43</xref>) while at the same time changing the position of the maxillary first molars in the distal direction (<xref rid="CIT0018" ref-type="bibr">18</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0030" ref-type="bibr">30</xref>, <xref rid="CIT0043" ref-type="bibr">43</xref>) and allowing normal mandible development to continue (<xref rid="CIT0027" ref-type="bibr">27</xref>, <xref rid="CIT0043" ref-type="bibr">43–45</xref>). Force magnitude has been postulated to be a decisive factor in achieving desired skeletal or dental improvements in CHG therapy. Less than 450 g force is thought to cause primarily dental effects and over 450 g to cause skeletal effects, the latter presumably due to exceeding the tooth moving threshold (<xref rid="CIT0046" ref-type="bibr">46–48</xref>). Activated force magnitude in CHG therapy can be set to a certain level, light or heavy, but not to a specific force, because force fluctuation has been found to occur constantly during use (<xref rid="CIT0043" ref-type="bibr">43</xref>). Despite different amounts of activated force, no pure dental or skeletal effects have been found in CHG use (<xref rid="CIT0043" ref-type="bibr">43</xref>). The aim of this controlled clinical investigation was to study the effect of inner arch expansion of the facebow on the upper and lower dental arches when different force magnitudes in CHG treatment were used.</p>
+            </sec>
+            <sec id="s2">
+              <title>Subjects and methods</title>
+              <p>The subjects and methods have been presented in our previous studies (<xref rid="CIT0043" ref-type="bibr">43</xref>, <xref rid="CIT0049" ref-type="bibr">49</xref>, <xref rid="CIT0050" ref-type="bibr">50</xref>) but for clarification they are also presented here. The study subjects were recruited from a pool of children appropriate for the orthodontic treatment at the Health Care Center of Turku, in Turku, Finland. Possible study subjects were considered during screening if they met the following dental criteria:</p>
+              <list list-type="order">
+                <list-item>
+                  <p>Class II (or end-to-end) molar relationship</p>
+                </list-item>
+                <list-item>
+                  <p>Mixed dentition stage</p>
+                </list-item>
+                <list-item>
+                  <p>Moderate dental crowding</p>
+                </list-item>
+              </list>
+              <p>Complete orthodontic examination was accomplished with panoramic and cephalometric radiographs, dental and facial photos, and study model impressions. The plan for the orthodontic therapy was made by an experienced orthodontist (SK). The subjects were invited to take part in the study if the therapy method included only CHG. Subjects were to be treated as a part of a training course in orthodontics (clinical skills) at the Institute of Dentistry, University of Turku. The aim was to have one CHG patient per student, totalling at least 44 subjects. A pre-study power analysis was also conducted to determine an appropriate sample size for the investigation. Based on the findings of a previous study, it was estimated that a 3 mm difference in upper dental arch length gain over 12 months of CHG use could be expected (<xref rid="CIT0022" ref-type="bibr">22</xref>). It was further assumed that the standard deviation (SD) would be the same, that is, 3 mm, in the light and heavy force magnitude groups. To achieve 80 per cent statistical power with a 5 per cent significance criterion, 17 subjects would be needed per group.</p>
+              <p>Approval for the research plan was acquired from the Ethical Committee of the Hospital District of Southwest Finland (ETMK: 77/180/2011). The invited children and their guardians signed an informed consent before booking an appointment with a dental student to fit the CHG. All stages of treatment were supervised closely by a senior orthodontist (SK) and a postgraduate orthodontic student (RV). The inner bow of the CHG was expanded (3–4 mm) and the long outer bow bent 10–20 degrees upwards in relation to the inner bow. The subjects were allocated into two groups, light (L) and heavy (H), with an activated force magnitude of 300 and 500 g, respectively. Force magnitude was controlled with an electronic module (Smartgear, Swissorthodontics, Switzerland) while the patient was sitting and looking straight ahead. The first 22 children who had booked appointment to start CHG treatment all received a CHG with light force module, as only light force modules were available when the clinical course for the dental students started.</p>
+              <p>The children were instructed to wear the CHG for 10 hours a day, i.e. while sleeping, but the importance of wearing the HG in the early evening hours was emphasized. Patients visited the dental clinic every 6–8 weeks until the end of the study at 10 months. The use and force magnitude of the HG were controlled and readjusted during the appointments. The children and their parents did not know which group, L or H, they were assigned to but were fully informed and aware that they were taking part in the CHG study. At start, 44 patients were recruited for the study; two patients subsequently left the treatment programme: one moved out of the city, and one dropped out due to aplasia in lower permanent premolars noticed after the treatment (<xref rid="F1" ref-type="fig">Figure 1</xref>). This trial is based on 40 children, 22 in the L group (8 males, 14 females) and 18 in the H group (7 males, 11 females). An adjustment period with 300 g force was carried out in the first 6–8 weeks for both groups in order to learn how to put on the CHG and to sleep with the device. The total number of days monitored was 11 344 over 10 months.</p>
+              <fig position="float" id="F1">
+                <label>Figure 1</label>
+                <caption>
+                  <p>Chart illustrating the flow of the subjects T1–T2.</p>
+                </caption>
+                <graphic xlink:href="cjab051_fig1" position="float"/>
+              </fig>
+              <p>An electronic module (Smartgear, Swissorthodontics, Switzerland) was integrated into the neck strap on the right side to evaluate the hours of use and force magnitude. For safety reasons, a snap-away spring mechanism was used on both sides. The temperature and activated force magnitude were measured by the module once a minute and average values were calculated every 15 minutes. Accuracy of the temperature and force measurements was 1°C and 10 g, respectively. The module also allowed the time and date of CHG insertion/removal to be recorded. The information was read by the Smartgear Compliance Control System Version 2.1.2 (Swissorthodontics, Switzerland) and converted into table format (Excel, Windows 7, Microsoft) for analysis.</p>
+              <p>The study models were scanned with a 3D scanner (3Shape, R700 Scanner, Denmark) and model analysing software (Romexis Model Analyser, Planmeca, Finland) was used to study the digital models. Linear measurements are described in <xref rid="F2" ref-type="fig">Figure 2</xref> (<xref rid="CIT0027" ref-type="bibr">27</xref>). Measurements were made before (T1) and after the treatment (T2) by one investigator (TT) to describe the arch length and width in the posterior and anterior areas in the digital models. Blinding was ensured so that the examiner (TT) did not know which group the subject belonged to. Re-measurements of 10 pairs of pre- and post-treatment digital models were carried out at intervals of at least 2 weeks to measure the reliability of the measurements.</p>
+              <fig position="float" id="F2">
+                <label>Figure 2.</label>
+                <caption>
+                  <p>Distances (mm) on dental arches and are measured on 3D models digitally. Upper arch—U1 and U4: from the first permanent maxillary molar distobuccal cusp to the canine crown tip on same side. U2 and U3: from the canine crown tip to the incisor’s most mesial point on the same side. U5 and U6: from the first permanent maxillary molar distobuccal cusp tip to the incisor’s most mesial point on the same side. U7: from the canine to the canine crown tip on the upper arch. U8: from the permanent maxillary first molar distobuccal cusp to the permanent maxillary first molar distobuccal cusp on the contralateral side. U9: The shortest distance on the first permanent molars’ palatal surfaces on the upper arch. Lower arch—L1 and L4: from the permanent mandibular first molar distobuccal cusp to the canine crown tip on the same side. L2 and L3: from the canine crown tip to the incisor’s most mesial point on the same side. L5 and L6: from the permanent mandibular first molar distobuccal cusp to the incisor’s most mesial point on the same side. L7: from the canine crown tip to the canine crown tip on the lower arch. L8: from the permanent mandibular first molar distobuccal cusp tip to the permanent mandibular first molar distobuccal cusp on the contralateral side. L9: the shortest distance on the permanent first molars’ lingual surfaces on the lower arch.</p>
+                </caption>
+                <graphic xlink:href="cjab051_fig2" position="float"/>
+              </fig>
+              <p>Inter-molar distance (U8 and L8) was measured from the first molar distobuccal cusp tip to the first molar distobuccal cusp tip on the contralateral side in both dental arches. Inter-molar distance (U9 and L9) was measured from the gingival margin to gingival margin the first molars. The inter-canine distance (U7 and L7) was measured from the cusp tip to the cusp tip on the contralateral side. Measurement was made from the primary canine tip if it was present or from the permanent canine tip if erupted sufficiently to enable measurement. If both primary and permanent canines were missing the measurement was made from the middle of the alveolar process. Leeway space was not taken into account in the transversal measurements.</p>
+              <sec id="s3">
+                <title>Statistical analysis</title>
+                <p>The results of linear measurements of the dental arches between the groups (L and H) at time points T1, T2, and T1–T2 were analysed with the Mann–Whitney <italic toggle="yes">U</italic>-test. Wilcoxon test was used to evaluate the change over time (T1–T2) within the group (L or H). <italic toggle="yes">P</italic>-values were considered statistically significant if they were less than 0.05. Reliability of the measurements was tested by intraclass correlation coefficients (ICCs) to compare re-measurements.</p>
+              </sec>
+            </sec>
+            <sec id="s4">
+              <title>Results</title>
+              <p>ICC values in the maxillary measurements (U1–U9) varied from 0.90 to 0.98; the highest value was in U2 and the lowest in U9. In the mandibular measurements (L1–L9) ICC varied from 0.84 to 0.98. L3 measurement had the lowest and L1 the highest ICC value. The values indicate satisfactory to excellent level and reliable repeatability of the measurements.</p>
+              <p>At beginning of the therapy, no age difference between the groups was identified. The mean age at T1 was 9.7 years (SD 0.73 years) and 9.9 years (SD 0.74 years) in the L and H groups, respectively.</p>
+              <p>At T1, four (22.2 per cent) subjects in the H group had one lower primary second molar exfoliated, while in the L group all lower primary second molars were <italic toggle="yes">in situ</italic>. At T2, five (22.7 per cent) subjects in the L group had lost the lower primary second molar on one side and 17 (77.3 per cent) subjects had lower primary second molars <italic toggle="yes">in situ</italic> on both sides; in the H group six subjects (33.3 per cent) had lost the lower primary second molar on both sides and three (16.7 per cent) on one side, and both were <italic toggle="yes">in situ</italic> in nine cases (50.0 per cent).</p>
+              <p>In 15 cases, Class I molar relationship on both sides was achieved during the treatment. In 21 subjects, Class I on one side was detected, and on the other side cusp-to-cusp or Class III molar relationship in 16 and 5 subjects, respectively. Even Class III molar relationship on both sides was found in two cases. Only in two cases Class II/Class II or Class II/ cusp-to-cusp molar relationship was found after the treatment.</p>
+              <sec id="s5">
+                <title>Upper dental arch</title>
+                <p>Measurements of the upper dental arch are presented in <xref rid="T1" ref-type="table">Table 1</xref>. At T1 some statistically significant difference was found between the groups. Measurements on the right side (U1 and U5) were larger in the L than in the H group (<italic toggle="yes">P</italic> = 0.034 and <italic toggle="yes">P</italic> = 0.034), respectively. Total arch perimeter (U1–U4) was larger in the L group than in the H group (<italic toggle="yes">P</italic> = 0.048).</p>
+                <table-wrap position="float" id="T1">
+                  <label>Table 1.</label>
+                  <caption>
+                    <p>During the treatment enlargement was seen in measurements U1–U9 in both groups.</p>
+                  </caption>
+                  <table frame="vsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th rowspan="1" colspan="1"/>
+                        <th colspan="7" rowspan="1">Light force, L (300 g)</th>
+                        <th colspan="7" rowspan="1">Heavy force, H (500 g)</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                      </tr>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th rowspan="1" colspan="1"/>
+                        <th colspan="2" rowspan="1">T1</th>
+                        <th colspan="2" rowspan="1">T2</th>
+                        <th colspan="2" rowspan="1">T1–T2</th>
+                        <th rowspan="1" colspan="1"><italic toggle="yes">P</italic>*</th>
+                        <th colspan="2" rowspan="1">T1</th>
+                        <th colspan="2" rowspan="1">T2</th>
+                        <th colspan="2" rowspan="1">T1–T2</th>
+                        <th rowspan="1" colspan="1"><italic toggle="yes">P</italic>*</th>
+                        <th rowspan="1" colspan="1">T1</th>
+                        <th rowspan="1" colspan="1">T2</th>
+                        <th rowspan="1" colspan="1">T1–T2</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td rowspan="1" colspan="1"><italic toggle="yes">n</italic> = 40</td>
+                        <td rowspan="1" colspan="1">Valid</td>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1">40</td>
+                        <td rowspan="1" colspan="1">40</td>
+                        <td rowspan="1" colspan="1">40</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U1 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">27.58</td>
+                        <td rowspan="1" colspan="1">1.29</td>
+                        <td rowspan="1" colspan="1">29.34</td>
+                        <td rowspan="1" colspan="1">2.12</td>
+                        <td rowspan="1" colspan="1">1.76</td>
+                        <td rowspan="1" colspan="1">1.80</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">26.34</td>
+                        <td rowspan="1" colspan="1">1.99</td>
+                        <td rowspan="1" colspan="1">29.05</td>
+                        <td rowspan="1" colspan="1">2.34</td>
+                        <td rowspan="1" colspan="1">2.71</td>
+                        <td rowspan="1" colspan="1">2.05</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.034</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.600</td>
+                        <td rowspan="1" colspan="1">0.153</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U2 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">17.79</td>
+                        <td rowspan="1" colspan="1">1.76</td>
+                        <td rowspan="1" colspan="1">19.13</td>
+                        <td rowspan="1" colspan="1">1.53</td>
+                        <td rowspan="1" colspan="1">1.33</td>
+                        <td rowspan="1" colspan="1">0.80</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">17.44</td>
+                        <td rowspan="1" colspan="1">1.40</td>
+                        <td rowspan="1" colspan="1">18.44</td>
+                        <td rowspan="1" colspan="1">0.97</td>
+                        <td rowspan="1" colspan="1">1.00</td>
+                        <td rowspan="1" colspan="1">0.90</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.563</td>
+                        <td rowspan="1" colspan="1">0.100</td>
+                        <td rowspan="1" colspan="1">0.366</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U3 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18.29</td>
+                        <td rowspan="1" colspan="1">1.43</td>
+                        <td rowspan="1" colspan="1">19.48</td>
+                        <td rowspan="1" colspan="1">1.38</td>
+                        <td rowspan="1" colspan="1">1.19</td>
+                        <td rowspan="1" colspan="1">0.86</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">17.73</td>
+                        <td rowspan="1" colspan="1">1.31</td>
+                        <td rowspan="1" colspan="1">18.89</td>
+                        <td rowspan="1" colspan="1">0.93</td>
+                        <td rowspan="1" colspan="1">1.16</td>
+                        <td rowspan="1" colspan="1">1.11</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.262</td>
+                        <td rowspan="1" colspan="1">0.163</td>
+                        <td rowspan="1" colspan="1">0.657</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U4 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">27.29</td>
+                        <td rowspan="1" colspan="1">1.43</td>
+                        <td rowspan="1" colspan="1">29.40</td>
+                        <td rowspan="1" colspan="1">2.00</td>
+                        <td rowspan="1" colspan="1">2.11</td>
+                        <td rowspan="1" colspan="1">1.29</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">26.60</td>
+                        <td rowspan="1" colspan="1">1.59</td>
+                        <td rowspan="1" colspan="1">28.40</td>
+                        <td rowspan="1" colspan="1">1.69</td>
+                        <td rowspan="1" colspan="1">1.80</td>
+                        <td rowspan="1" colspan="1">1.30</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.271</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.039</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.427</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U5 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">43.26</td>
+                        <td rowspan="1" colspan="1">2.40</td>
+                        <td rowspan="1" colspan="1">45.54</td>
+                        <td rowspan="1" colspan="1">2.69</td>
+                        <td rowspan="1" colspan="1">2.28</td>
+                        <td rowspan="1" colspan="1">1.70</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">41.38</td>
+                        <td rowspan="1" colspan="1">2.64</td>
+                        <td rowspan="1" colspan="1">44.59</td>
+                        <td rowspan="1" colspan="1">2.80</td>
+                        <td rowspan="1" colspan="1">3.21</td>
+                        <td rowspan="1" colspan="1">1.34</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.034</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.209</td>
+                        <td rowspan="1" colspan="1">0.147</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U6 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">43.38</td>
+                        <td rowspan="1" colspan="1">2.38</td>
+                        <td rowspan="1" colspan="1">46.06</td>
+                        <td rowspan="1" colspan="1">2.55</td>
+                        <td rowspan="1" colspan="1">2.68</td>
+                        <td rowspan="1" colspan="1">1.33</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">41.78</td>
+                        <td rowspan="1" colspan="1">2.24</td>
+                        <td rowspan="1" colspan="1">44.26</td>
+                        <td rowspan="1" colspan="1">2.17</td>
+                        <td rowspan="1" colspan="1">2.48</td>
+                        <td rowspan="1" colspan="1">1.17</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.112</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.040</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.638</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U7 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">31.22</td>
+                        <td rowspan="1" colspan="1">1.80</td>
+                        <td rowspan="1" colspan="1">34.04</td>
+                        <td rowspan="1" colspan="1">2.46</td>
+                        <td rowspan="1" colspan="1">2.83</td>
+                        <td rowspan="1" colspan="1">1.74</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">30.90</td>
+                        <td rowspan="1" colspan="1">2.24</td>
+                        <td rowspan="1" colspan="1">33.50</td>
+                        <td rowspan="1" colspan="1">1.76</td>
+                        <td rowspan="1" colspan="1">2.60</td>
+                        <td rowspan="1" colspan="1">1.87</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.677</td>
+                        <td rowspan="1" colspan="1">0.443</td>
+                        <td rowspan="1" colspan="1">0.717</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U8 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">52.00</td>
+                        <td rowspan="1" colspan="1">2.41</td>
+                        <td rowspan="1" colspan="1">55.17</td>
+                        <td rowspan="1" colspan="1">2.37</td>
+                        <td rowspan="1" colspan="1">3.16</td>
+                        <td rowspan="1" colspan="1">1.64</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">51.04</td>
+                        <td rowspan="1" colspan="1">3.03</td>
+                        <td rowspan="1" colspan="1">53.54</td>
+                        <td rowspan="1" colspan="1">2.37</td>
+                        <td rowspan="1" colspan="1">2.50</td>
+                        <td rowspan="1" colspan="1">1.78</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.312</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.039</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.199</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U9 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">32.29</td>
+                        <td rowspan="1" colspan="1">2.30</td>
+                        <td rowspan="1" colspan="1">35.92</td>
+                        <td rowspan="1" colspan="1">2.55</td>
+                        <td rowspan="1" colspan="1">3.63</td>
+                        <td rowspan="1" colspan="1">1.93</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">31.76</td>
+                        <td rowspan="1" colspan="1">2.39</td>
+                        <td rowspan="1" colspan="1">34.42</td>
+                        <td rowspan="1" colspan="1">1.70</td>
+                        <td rowspan="1" colspan="1">2.66</td>
+                        <td rowspan="1" colspan="1">1.68</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.427</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.020</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.075</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">U1–U4 (mm) <break/>
+Total arch perimeter</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">90.96</td>
+                        <td rowspan="1" colspan="1">4.39</td>
+                        <td rowspan="1" colspan="1">97.35</td>
+                        <td rowspan="1" colspan="1">5.81</td>
+                        <td rowspan="1" colspan="1">6.39</td>
+                        <td rowspan="1" colspan="1">3.17</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.001</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">88.12</td>
+                        <td rowspan="1" colspan="1">4.62</td>
+                        <td rowspan="1" colspan="1">94.79</td>
+                        <td rowspan="1" colspan="1">4.92</td>
+                        <td rowspan="1" colspan="1">6.68</td>
+                        <td rowspan="1" colspan="1">3.13</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.001</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.048</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.125</td>
+                        <td rowspan="1" colspan="1">0.840</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="fn-0100">
+                      <p>At T1 and T2 some difference was seen between the groups, but the change T1–T2 was similar in both groups. <italic toggle="yes">P</italic>* = Wilcoxon test; <italic toggle="yes">P</italic> = Mann–Whitney <italic toggle="yes">U</italic>-test.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>Statistically significant increase was found in all measurements in the maxillary dental arch in both groups during the CHG therapy, with great individual variability. In the amount of change over time, T1–T2, in the upper arch measurements, no significant difference was seen between the groups. Inter-canine (U7) width increased 2.83 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.60 mm (<italic toggle="yes">P</italic> &lt; 0.001) and inter-molar width (U8) 3.16 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.50 mm (<italic toggle="yes">P</italic> &lt; 0.001), and (U9) 3.63 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.66 mm (<italic toggle="yes">P</italic> &lt; 0.001) in the L and H groups, respectively (<xref rid="F3" ref-type="fig">Figure 3</xref>). Lateral segments were found to lengthen as follows—U1: 1.76 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.71 mm (<italic toggle="yes">P</italic> &lt; 0.001) and U4: 2.11 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 1.80 mm (<italic toggle="yes">P</italic> &lt; 0.001) in the L and H groups, respectively. Increases in the anterior segment were U2: 1.33 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 1.00 mm (<italic toggle="yes">P</italic> &lt; 0.001) and U3: 1.19 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 1.16 mm (<italic toggle="yes">P</italic> &lt; 0.001) in the L and H groups, respectively. Sagittal arch length (U5 and U6) increased in the L group by 2.28 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.68 mm (<italic toggle="yes">P</italic> &lt; 0.001), respectively, and in the H group by 3.21 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 2.48 mm (<italic toggle="yes">P</italic> &lt; 0.001), respectively. Total arch perimeter (U1–U4) was statistically significantly larger in the L group at T1: 90.96 and 88.12 mm (<italic toggle="yes">P</italic> = 0.048) but not at T2: 97.35 and 94.79 mm (<italic toggle="yes">P</italic> = 0.125) in the L and H groups, respectively; during T1–T2 the increase was 6.39 mm (<italic toggle="yes">P</italic> = 0.001) and 6.68 mm (<italic toggle="yes">P</italic> = 0.001) in the L and H groups, respectively (<xref rid="F4" ref-type="fig">Figure 4</xref>).</p>
+                <fig position="float" id="F3">
+                  <label>Figure 3.</label>
+                  <caption>
+                    <p>Cervical headgear (CHG) was effective with light and heavy force to enhance the maxillary inter-canine (U7) and inter-molar (U8 and U9) distance during the treatment, with great individual variability; U7: <italic toggle="yes">P</italic> &lt; 0.001 and <italic toggle="yes">P</italic> &lt; 0.001; U8: <italic toggle="yes">P</italic> &lt; 0.001 and <italic toggle="yes">P</italic> &lt; 0.001; U9: <italic toggle="yes">P</italic> &lt;0.001 and <italic toggle="yes">P</italic> &lt; 0.001; in the L and H groups, respectively.</p>
+                  </caption>
+                  <graphic xlink:href="cjab051_fig3" position="float"/>
+                </fig>
+                <fig position="float" id="F4">
+                  <label>Figure 4.</label>
+                  <caption>
+                    <p>The total arch perimeter in the upper arch (U1–U4) increased over 6 mm in both groups during cervical headgear (CHG) therapy, with great individual variability (<italic toggle="yes">P</italic> = 0.001 and <italic toggle="yes">P</italic> = 0.001 in the L and H group, respectively). In the lower dental arch, enhancement in the total arch perimeter was seen (L1–L4) in the L group (<italic toggle="yes">P</italic> = 0.010); in the H group, no change was seen during the treatment.</p>
+                  </caption>
+                  <graphic xlink:href="cjab051_fig4" position="float"/>
+                </fig>
+                <p>Analogous to the beginning of the study, some statistically significant differences were found between the groups at the end of the study. On the left side, U4 and U6 distances were larger in the L group (<italic toggle="yes">P</italic> = 0.039 and <italic toggle="yes">P</italic> = 0.040, respectively). Inter-molar distance was wider in the L group (U8: <italic toggle="yes">P</italic> = 0.039 and U9: <italic toggle="yes">P</italic> = 0.020).</p>
+              </sec>
+              <sec id="s6">
+                <title>Lower dental arch</title>
+                <p>Measurements of the lower dental arch are presented in <xref rid="T2" ref-type="table">Table 2</xref>. At T1 distances L3, L5, L6, and L1–L4 were found to be statistically significantly different between the groups. The anterior segment (L3) was shorter in the H group (<italic toggle="yes">P</italic> = 0.015). Sagittal arch length measurement (L5 and L6) was shorter in the H group (<italic toggle="yes">P</italic> = 0.008 and <italic toggle="yes">P</italic> = 0.011, respectively). Total arch perimeter (L1–L4) was shorter in the H group (<italic toggle="yes">P</italic> = 0.004).</p>
+                <table-wrap position="float" id="T2">
+                  <label>Table 2.</label>
+                  <caption>
+                    <p>Statistically significant enlargement was found in the lower dental arch during CHG therapy in the L and H group in most measurements, but the change was larger in the L group, particularly in inter-molar width.</p>
+                  </caption>
+                  <table frame="vsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th rowspan="1" colspan="1"/>
+                        <th colspan="7" rowspan="1">Light force, L (300 g)</th>
+                        <th colspan="7" rowspan="1">Heavy force, H (500 g)</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                        <th rowspan="1" colspan="1">L versus H</th>
+                      </tr>
+                      <tr>
+                        <th rowspan="1" colspan="1"/>
+                        <th rowspan="1" colspan="1"/>
+                        <th colspan="2" rowspan="1">T1</th>
+                        <th colspan="2" rowspan="1">T2</th>
+                        <th colspan="2" rowspan="1">T1–T2</th>
+                        <th rowspan="1" colspan="1"><italic toggle="yes">P</italic>*</th>
+                        <th colspan="2" rowspan="1">T1</th>
+                        <th colspan="2" rowspan="1">T2</th>
+                        <th colspan="2" rowspan="1">T1–T2</th>
+                        <th rowspan="1" colspan="1"><italic toggle="yes">P</italic>*</th>
+                        <th rowspan="1" colspan="1">T1</th>
+                        <th rowspan="1" colspan="1">T2</th>
+                        <th rowspan="1" colspan="1">T1–T2</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td rowspan="1" colspan="1"><italic toggle="yes">n</italic> = 40</td>
+                        <td rowspan="1" colspan="1">Valid</td>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">22</td>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">18</td>
+                        <td rowspan="1" colspan="1">40</td>
+                        <td rowspan="1" colspan="1">40</td>
+                        <td rowspan="1" colspan="1">40</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1">Mean</td>
+                        <td rowspan="1" colspan="1">SD</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <italic toggle="yes">P</italic>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L1 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">27.73</td>
+                        <td rowspan="1" colspan="1">1.27</td>
+                        <td rowspan="1" colspan="1">28.28</td>
+                        <td rowspan="1" colspan="1">2.51</td>
+                        <td rowspan="1" colspan="1">0.55</td>
+                        <td rowspan="1" colspan="1">2.00</td>
+                        <td rowspan="1" colspan="1">0.147</td>
+                        <td rowspan="1" colspan="1">26.87</td>
+                        <td rowspan="1" colspan="1">1.76</td>
+                        <td rowspan="1" colspan="1">26.78</td>
+                        <td rowspan="1" colspan="1">1.98</td>
+                        <td rowspan="1" colspan="1">−0.08</td>
+                        <td rowspan="1" colspan="1">0.69</td>
+                        <td rowspan="1" colspan="1">0.799</td>
+                        <td rowspan="1" colspan="1">0.070</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.024</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.229</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L2 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">13.86</td>
+                        <td rowspan="1" colspan="1">0.96</td>
+                        <td rowspan="1" colspan="1">14.15</td>
+                        <td rowspan="1" colspan="1">0.89</td>
+                        <td rowspan="1" colspan="1">0.29</td>
+                        <td rowspan="1" colspan="1">0.61</td>
+                        <td rowspan="1" colspan="1">0.068</td>
+                        <td rowspan="1" colspan="1">13.14</td>
+                        <td rowspan="1" colspan="1">1.34</td>
+                        <td rowspan="1" colspan="1">13.47</td>
+                        <td rowspan="1" colspan="1">1.13</td>
+                        <td rowspan="1" colspan="1">0.32</td>
+                        <td rowspan="1" colspan="1">0.51</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.015</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.100</td>
+                        <td rowspan="1" colspan="1">0.096</td>
+                        <td rowspan="1" colspan="1">0.804</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L3 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">14.11</td>
+                        <td rowspan="1" colspan="1">0.94</td>
+                        <td rowspan="1" colspan="1">14.39</td>
+                        <td rowspan="1" colspan="1">0.67</td>
+                        <td rowspan="1" colspan="1">0.28</td>
+                        <td rowspan="1" colspan="1">0.65</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.033</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">13.26</td>
+                        <td rowspan="1" colspan="1">1.20</td>
+                        <td rowspan="1" colspan="1">14.00</td>
+                        <td rowspan="1" colspan="1">1.15</td>
+                        <td rowspan="1" colspan="1">0.74</td>
+                        <td rowspan="1" colspan="1">0.84</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.002</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.015</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.120</td>
+                        <td rowspan="1" colspan="1">0.120</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L4 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">27.67</td>
+                        <td rowspan="1" colspan="1">1.34</td>
+                        <td rowspan="1" colspan="1">27.70</td>
+                        <td rowspan="1" colspan="1">1.26</td>
+                        <td rowspan="1" colspan="1">0.03</td>
+                        <td rowspan="1" colspan="1">0.99</td>
+                        <td rowspan="1" colspan="1">0.799</td>
+                        <td rowspan="1" colspan="1">26.89</td>
+                        <td rowspan="1" colspan="1">2.28</td>
+                        <td rowspan="1" colspan="1">26.13</td>
+                        <td rowspan="1" colspan="1">2.31</td>
+                        <td rowspan="1" colspan="1">−0.76</td>
+                        <td rowspan="1" colspan="1">1.19</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.014</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.299</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.004</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.034</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L5 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">38.10</td>
+                        <td rowspan="1" colspan="1">1.89</td>
+                        <td rowspan="1" colspan="1">38.77</td>
+                        <td rowspan="1" colspan="1">1.89</td>
+                        <td rowspan="1" colspan="1">0.67</td>
+                        <td rowspan="1" colspan="1">0.71</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">36.97</td>
+                        <td rowspan="1" colspan="1">1.78</td>
+                        <td rowspan="1" colspan="1">36.77</td>
+                        <td rowspan="1" colspan="1">2.27</td>
+                        <td rowspan="1" colspan="1">−0.20</td>
+                        <td rowspan="1" colspan="1">0.80</td>
+                        <td rowspan="1" colspan="1">0.304</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.008</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.001</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.003</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L6 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">38.55</td>
+                        <td rowspan="1" colspan="1">1.69</td>
+                        <td rowspan="1" colspan="1">38.91</td>
+                        <td rowspan="1" colspan="1">1.48</td>
+                        <td rowspan="1" colspan="1">0.35</td>
+                        <td rowspan="1" colspan="1">0.89</td>
+                        <td rowspan="1" colspan="1">0.068</td>
+                        <td rowspan="1" colspan="1">37.07</td>
+                        <td rowspan="1" colspan="1">1.96</td>
+                        <td rowspan="1" colspan="1">36.89</td>
+                        <td rowspan="1" colspan="1">2.27</td>
+                        <td rowspan="1" colspan="1">−0.18</td>
+                        <td rowspan="1" colspan="1">0.95</td>
+                        <td rowspan="1" colspan="1">0.304</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.011</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.070</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L7 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">25.90</td>
+                        <td rowspan="1" colspan="1">1.68</td>
+                        <td rowspan="1" colspan="1">26.84</td>
+                        <td rowspan="1" colspan="1">1.52</td>
+                        <td rowspan="1" colspan="1">0.94</td>
+                        <td rowspan="1" colspan="1">1.46</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.005</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">25.09</td>
+                        <td rowspan="1" colspan="1">2.61</td>
+                        <td rowspan="1" colspan="1">26.25</td>
+                        <td rowspan="1" colspan="1">2.39</td>
+                        <td rowspan="1" colspan="1">1.16</td>
+                        <td rowspan="1" colspan="1">1.42</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.527</td>
+                        <td rowspan="1" colspan="1">0.563</td>
+                        <td rowspan="1" colspan="1">0.717</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L8 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">45.98</td>
+                        <td rowspan="1" colspan="1">2.39</td>
+                        <td rowspan="1" colspan="1">48.15</td>
+                        <td rowspan="1" colspan="1">2.07</td>
+                        <td rowspan="1" colspan="1">2.17</td>
+                        <td rowspan="1" colspan="1">1.29</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">45.07</td>
+                        <td rowspan="1" colspan="1">2.75</td>
+                        <td rowspan="1" colspan="1">46.18</td>
+                        <td rowspan="1" colspan="1">2.66</td>
+                        <td rowspan="1" colspan="1">1.11</td>
+                        <td rowspan="1" colspan="1">1.56</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.008</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.262</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.022</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.032</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L9 (mm)</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">31.88</td>
+                        <td rowspan="1" colspan="1">1.76</td>
+                        <td rowspan="1" colspan="1">33.38</td>
+                        <td rowspan="1" colspan="1">1.55</td>
+                        <td rowspan="1" colspan="1">1.50</td>
+                        <td rowspan="1" colspan="1">0.84</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.000</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">30.82</td>
+                        <td rowspan="1" colspan="1">2.30</td>
+                        <td rowspan="1" colspan="1">31.49</td>
+                        <td rowspan="1" colspan="1">2.08</td>
+                        <td rowspan="1" colspan="1">0.67</td>
+                        <td rowspan="1" colspan="1">0.99</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.007</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.169</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.004</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.003</bold>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">L1–L4 (mm) <break/>
+Total arch perimeter</td>
+                        <td rowspan="1" colspan="1"/>
+                        <td rowspan="1" colspan="1">83.36</td>
+                        <td rowspan="1" colspan="1">3.24</td>
+                        <td rowspan="1" colspan="1">84.52</td>
+                        <td rowspan="1" colspan="1">4.04</td>
+                        <td rowspan="1" colspan="1">1.16</td>
+                        <td rowspan="1" colspan="1">2.38</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.010</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">80.16</td>
+                        <td rowspan="1" colspan="1">3.97</td>
+                        <td rowspan="1" colspan="1">80.37</td>
+                        <td rowspan="1" colspan="1">4.14</td>
+                        <td rowspan="1" colspan="1">0.21</td>
+                        <td rowspan="1" colspan="1">1.69</td>
+                        <td rowspan="1" colspan="1">0.734</td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.004</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">
+                          <bold>0.001</bold>
+                        </td>
+                        <td rowspan="1" colspan="1">0.299</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <fn id="fn-0101">
+                      <p><italic toggle="yes">P</italic>* = Wilcoxon test; <italic toggle="yes">P</italic> = Mann–Whitney <italic toggle="yes">U</italic>-test.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>During the treatment, T1–T2, an increase was seen in both groups in inter-canine (L7) distance (<xref rid="F5" ref-type="fig">Figure 5</xref>): 0.94 mm (<italic toggle="yes">P</italic> = 0.005) and 1.16 mm (<italic toggle="yes">P</italic> &lt; 0.001) in the L and H groups, respectively, with great individual variability. Widening of the inter-molar distance (L8 and L9) was found as follows—L8: 2.17 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 1.11 mm (<italic toggle="yes">P</italic> = 0.008) and L9: 1.50 mm (<italic toggle="yes">P</italic> &lt; 0.001) and 0.67 mm (<italic toggle="yes">P</italic> = 0.007) in the L and H groups, respectively, with great individual variability. In the anterior segment (L2 and L3) slight, but statistically significant enlargement during the therapy was found in the H group: 0.32 mm (<italic toggle="yes">P</italic> = 0.015) and 0.74 mm (<italic toggle="yes">P</italic> = 0.002), respectively; in the L group a statistically significant minor increment was found only in L3: 0.28 mm (<italic toggle="yes">P</italic> = 0.033). A minor, but statistically significant increase in total arch perimeter (L1–L4) was found only in the L group: 1.16 mm (<italic toggle="yes">P</italic> = 0.010; <xref rid="F4" ref-type="fig">Figure 4</xref>). The change during T1–T2 was larger in the L group in inter-molar width (L8 and L9; <italic toggle="yes">P</italic> = 0.032 and <italic toggle="yes">P</italic> = 0.003, respectively). In lateral segment (L4) and sagittal arch length (L5), the T1–T2 change was statistically different between groups (<italic toggle="yes">P</italic> = 0.034 and <italic toggle="yes">P</italic> = 0.003, respectively); in the L group a slight increment and in the H group a decrement were found.</p>
+                <fig position="float" id="F5">
+                  <label>Figure 5.</label>
+                  <caption>
+                    <p>Inter-canine distance (L7) and inter-molar distance (L8 and L9) enhanced in the lower arch in the L and H groups during the cervical headgear (CHG) therapy (L7: <italic toggle="yes">P</italic> = 0.005 and <italic toggle="yes">P</italic> &lt; 0.001; L8: <italic toggle="yes">P</italic> &lt; 0.001 and <italic toggle="yes">P</italic> = 0.008; L9: <italic toggle="yes">P</italic> &lt; 0.001 and <italic toggle="yes">P</italic> = 0.007; in the L and H groups, respectively). The change was larger in the molar area in the L group (<italic toggle="yes">P</italic> = 0.032 and 0.003 in L8 and L9, respectively).</p>
+                  </caption>
+                  <graphic xlink:href="cjab051_fig5" position="float"/>
+                </fig>
+                <p>At the end of the study, lateral segments were larger in the L group (L1 and L4, <italic toggle="yes">P</italic> = 0.024 and <italic toggle="yes">P</italic> = 0.004, respectively). Lower dental arch was narrower in the molar region (L8 and L9) in the H group (<italic toggle="yes">P</italic> = 0.022 and <italic toggle="yes">P</italic> = 0.004). Sagittal arch length (L5 and L6) was shorter in the H group (<italic toggle="yes">P</italic> = 0.001 and <italic toggle="yes">P</italic> &lt; 0.001, respectively). Total arch perimeter (L1–L4) was shorter in the H group (<italic toggle="yes">P</italic> = 0.001), analogous to the difference before the therapy.</p>
+              </sec>
+            </sec>
+            <sec id="s7">
+              <title>Discussion</title>
+              <p>This controlled clinical investigation studied how different force magnitude influences dental arch dimensions during CHG therapy. Subjects were allocated into light (L) and heavy (H) groups and asked to wear CHG for 10 hours daily, emphasizing the importance of use during early evening hours. Hours used and force magnitude were monitored with an electronic module. The children were all in co-operative age, in pre-puberty (<xref rid="CIT0051" ref-type="bibr">51</xref>). After a 10-month CHG treatment period, re-evaluation was made for a future treatment plan. A Class I molar relationship was achieved in most of the cases and treatment was continued with fixed appliances.</p>
+              <p>According to our previous study on adherence to instructions and fluctuation of force magnitude in CHG therapy (<xref rid="CIT0049" ref-type="bibr">49</xref>), children in the L group used the device during the study period over 9 hours a day and in the H group for less than 8 hours. Force magnitude in CHG therapy can be set to a certain level, light or heavy, although the force magnitude fluctuates greatly and continually (0–900 g). Mean force magnitude during the CHG was approximately 320 and 460 g in the L and H groups, respectively, with high individual variability. In our cephalometric study (<xref rid="CIT0043" ref-type="bibr">43</xref>), over 20 skeletal and dental measurements were evaluated before and after the treatment. According to the cephalometric measurements, the groups were homogenous at the start of the study. The only difference was inclination of the upper incisors, which were 6 degrees more proclined in the L than in the H group (<xref rid="CIT0043" ref-type="bibr">43</xref>). In the present study, some differences were initially found in the dental arch measurements. This difference between the groups can be considered to be of dental origin based on the cephalometric analysis (<xref rid="CIT0043" ref-type="bibr">43</xref>).</p>
+              <p>To the best of our knowledge, this is the first study to investigate how different force magnitude influences dental arches in CHG therapy. Based on this study, dental effects on the upper and lower dental arches can be achieved both with light and heavy force. Enhancement was seen in the transversal and sagittal dimensions on the maxillary arch in both groups. In the mandibular arch, minor, but mostly statistically significant changes in both groups were also found. After the treatment the mandibular inter-molar distance was larger in the L group; the change during the follow-up period was significantly larger in the L group.</p>
+              <p>In the HG therapy, expansion of the inner facebow arch can be applied up to 10 mm in order to broaden the upper dental arch while achieving at the same time as distal movement of the first molars and restriction of forward displacement of the maxilla (<xref rid="CIT0015" ref-type="bibr">15</xref>, <xref rid="CIT0025" ref-type="bibr">25</xref>, <xref rid="CIT0040" ref-type="bibr">40</xref>). Widening of the maxillary molars has been found to lead to spontaneous buccal tipping of the mandibular molars, supposedly due to occlusal factors, and eventually to mild changes in the mandibular dental arch width (<xref rid="CIT0015" ref-type="bibr">15</xref>, <xref rid="CIT0020" ref-type="bibr">20</xref>, <xref rid="CIT0022" ref-type="bibr">22</xref>, <xref rid="CIT0027" ref-type="bibr">27</xref>, <xref rid="CIT0041" ref-type="bibr">41</xref>, <xref rid="CIT0052" ref-type="bibr">52</xref>). This study is in agreement with the previous studies. Modest expansion (3–4 mm) of the inner facebow arch applied in the present study seems, however, to be clinically sufficient to increase the maxillary and mandibular inter-canine and inter-molar distance. Widening of the upper arch is probably partly due to the force magnitude loaded on the molars and partly due to the expanded facebow inner arch, which lifts the buccal muscles from the dental arch, allowing enlargement (<xref rid="CIT0025" ref-type="bibr">25</xref>). Adherence to instructions has been found to be better with light force treatment (<xref rid="CIT0049" ref-type="bibr">49</xref>), which may clarify why the upper and lower inter-molar distance was larger in the L group at the end of the treatment. In addition to the longer duration of the acting force, lower force magnitude itself has been found to lead to more favourable tooth movement (<xref rid="CIT0046" ref-type="bibr">46–48</xref>).</p>
+              <p>Light and heavy force CHG can be used to gain more space in the anterior and posterior segments of the maxillary arch. Space gain in the upper arch has been found to be mainly due to the distal movement of the maxillary molars (<xref rid="CIT0025" ref-type="bibr">25</xref>, <xref rid="CIT0043" ref-type="bibr">43</xref>, <xref rid="CIT0053" ref-type="bibr">53</xref>), seen as an increase in lateral segment dimensions (<xref rid="CIT0027" ref-type="bibr">27</xref>). Furthermore, the inter-canine and inter-molar distance was increased and the maxillary incisors proclined in the labial direction (<xref rid="CIT0020" ref-type="bibr">20</xref>, <xref rid="CIT0043" ref-type="bibr">43</xref>). The more than 6 mm increase found in total arch perimeter can release crowding, which in the following treatment phase may mean fewer permanent tooth extractions and less need for fixed appliance for tooth alignment (<xref rid="CIT0015" ref-type="bibr">15</xref>). HG therapy can be considered a clinically important method for reducing mild and moderate crowding in the mixed dentition (<xref rid="CIT0025" ref-type="bibr">25</xref>).</p>
+              <p>Mandibular dental arch length is known to decrease after age 8 during normal occlusal development (<xref rid="CIT0054" ref-type="bibr">54</xref>, <xref rid="CIT0055" ref-type="bibr">55</xref>). During normal development, reduction of lower dental arch perimeter can be expected to be approximately 3 mm between 7 and 13 years (<xref rid="CIT0055" ref-type="bibr">55</xref>, <xref rid="CIT0056" ref-type="bibr">56</xref>). Despite the reduction it is possible to see relieving of anterior crowding during development from the early mixed dentition to the early permanent dentition due to Leeway space in the lateral segments (<xref rid="CIT0057" ref-type="bibr">57</xref>). Crowding in the lower arch can be relieved by tipping lower incisors labially, increasing the inter-canine distance, enhancing the mandibular arch width in the posterior area, and uprighting mandibular first molars (<xref rid="CIT0013" ref-type="bibr">13</xref>, <xref rid="CIT0058" ref-type="bibr">58</xref>, <xref rid="CIT0059" ref-type="bibr">59</xref>). According to the present study, CHG is an effective method for maintaining or even increasing total lower arch perimeter (L1–L4). Based on our previous study (<xref rid="CIT0043" ref-type="bibr">43</xref>), no change in lower incisor inclination was found during the study period. Enhancement in the sagittal arch length (L5 and L6) can be considered to be mostly from posterior origin, increase in the inter-molar width, and probably also the mandibular molar uprighting. In the H group, the dentition development stage was more advanced (more exfoliated lower primary second molars) than in the L group. Changes in the H group are suggested to be related to normal development from mixed dentition to early permanent dentition, which normally includes mesial migration of the mandibular first molars and canine movement into the Leeway space (<xref rid="CIT0056" ref-type="bibr">56</xref>, <xref rid="CIT0057" ref-type="bibr">57</xref>, <xref rid="CIT0060" ref-type="bibr">60</xref>). We suggest that with CHG therapy normal reduction of lower dental arch perimeter can be alleviated or even increased by increasing inter-molar and inter-canine distance in the mixed dentition. Changes were seen in both groups, but in the L group the change was larger. Changes in the lower arch during the HG therapy are minor in absolute terms (mm) but in borderline cases can influence future treatment decisions, e.g. permanent tooth extractions (<xref rid="CIT0027" ref-type="bibr">27</xref>). Expansion in the lower molar area is stated to be stable, but some relapse in inter-canine distance can be found at long-term follow-up (<xref rid="CIT0015" ref-type="bibr">15</xref>, <xref rid="CIT0061" ref-type="bibr">61</xref>).</p>
+              <p>The maxillary molar movement in the distal direction is not all bodily movement, but tilting can also occur during HG therapy (<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0028" ref-type="bibr">28</xref>, <xref rid="CIT0029" ref-type="bibr">29</xref>, <xref rid="CIT0050" ref-type="bibr">50</xref>). In our previous study, maxillary first and second molars were found have tipped more distally with heavy force than with light force (<xref rid="CIT0050" ref-type="bibr">50</xref>). The follow-up period in this study was rather short, 10 months, and thus not all patients had early permanent dentition by the end of the study. After the treatment the upper first molars can be expected to migrate mesially and upright (<xref rid="CIT0023" ref-type="bibr">23</xref>, <xref rid="CIT0028" ref-type="bibr">28</xref>, <xref rid="CIT0062" ref-type="bibr">62</xref>); consequently, some of the space gained in the arch may be lost during the post-treatment period.</p>
+              <sec id="s8">
+                <title>Strengths and limitations</title>
+                <p>Allocation of the children to the study groups occurred by booking a suitable appointment to start the CHG therapy and not by sealed-envelope randomization. Incomplete randomization is considered a significant limitation of the study, preventing it from being classified as a randomized clinical trial. It would have been appropriate to include a control group of the same age without treatment, but no ethical committee would have approved such a study plan despite the inclusion of radiographic examination. In addition, the follow-up time was too short to study the changes in irregularity and release of crowding on the dental arches, as not all subjects would have had early permanent dentition at the end of the study period.</p>
+                <p>The strengths of this investigation were that at start of the study the groups were homogenous, at same age with small range, skeletally similar according to the cephalometric analysis, of similar occlusal status (<xref rid="CIT0043" ref-type="bibr">43</xref>), and all subjects were of co-operative age, in pre-puberty.</p>
+              </sec>
+            </sec>
+            <sec id="s9">
+              <title>Conclusion</title>
+              <list list-type="order">
+                <list-item>
+                  <p>CHG therapy with light or heavy force magnitude is an effective method to expand the upper dental arch. Inter-molar and inter-canine distance increased during the therapy in both groups.</p>
+                </list-item>
+                <list-item>
+                  <p>Mild to moderate crowding on the upper dental arch can be released with CHG therapy, the total arch perimeter increased over 6 mm in both groups. Most of the space is achieved by distalizing the upper first molars.</p>
+                </list-item>
+                <list-item>
+                  <p>Milder spontaneous widening was found on the lower arch during the CHG therapy in both groups.</p>
+                </list-item>
+                <list-item>
+                  <p>Light force magnitude is recommended for use in CHG therapy; larger inter-molar width was achieved on the upper and lower arch; probably due to better adherence to instructions. Expanded facebow inner arch lifts the buccal muscles apart from the dental arch; the CHG has more time to effect in the L group.</p>
+                </list-item>
+              </list>
+            </sec>
+            <sec id="s0104">
+              <title>Funding</title>
+              <p>None to declare.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="s0105">
+              <title>Conflicts of interest</title>
+              <p>None to declare.</p>
+            </sec>
+            <sec sec-type="data-availability" id="s0106">
+              <title>Data availability</title>
+              <p>The data underlying this article cannot be shared publicly to protect the privacy of the individuals who participated in the study. The data will be shared on reasonable request to the corresponding author.</p>
+            </sec>
+          </body>
+          <back>
+            <ref-list id="r1">
+              <title>References</title>
+              <ref id="CIT0001">
+                <label>1.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bishara</surname>, <given-names>S.E.</given-names></string-name>, <string-name><surname>Hoppens</surname>, <given-names>B.J.</given-names></string-name>, <string-name><surname>Jakobsen</surname>, <given-names>J.R.</given-names></string-name> and <string-name><surname>Kohout</surname>, <given-names>F.J</given-names></string-name></person-group>. (<year>1988</year>) <article-title>Changes in the molar relationship between the deciduous and permanent dentitions: a longitudinal study</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>93</volume>, <fpage>19</fpage>–<lpage>28</lpage>.<pub-id pub-id-type="pmid">3422119</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0002">
+                <label>2.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Baccetti</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Franchi</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>McNamara</surname>, <given-names>J.A.</given-names>, <suffix>Jr</suffix></string-name> and <string-name><surname>Tollaro</surname>, <given-names>I</given-names></string-name></person-group>. (<year>1997</year>) <article-title>Early dentofacial features of Class II malocclusion: a longitudinal study from the deciduous through the mixed dentition</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>111</volume>, <fpage>502</fpage>–<lpage>509</lpage>.<pub-id pub-id-type="pmid">9155809</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0003">
+                <label>3.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Varrela</surname>, <given-names>J</given-names></string-name></person-group>. (<year>1998</year>) <article-title>Early developmental traits in class II malocclusion</article-title>. <source>Acta Odontologica Scandinavica</source>, <volume>56</volume>, <fpage>375</fpage>–<lpage>377</lpage>.<pub-id pub-id-type="pmid">10066120</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0004">
+                <label>4.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>You</surname>, <given-names>Z.H.</given-names></string-name>, <string-name><surname>Fishman</surname>, <given-names>L.S.</given-names></string-name>, <string-name><surname>Rosenblum</surname>, <given-names>R.E.</given-names></string-name> and <string-name><surname>Subtelny</surname>, <given-names>J.D</given-names></string-name></person-group>. (<year>2001</year>) <article-title>Dentoalveolar changes related to mandibular forward growth in untreated Class II persons</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>120</volume>, <fpage>598</fpage>–<lpage>607; quiz 676</lpage>.<pub-id pub-id-type="pmid">11742304</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0005">
+                <label>5.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Keski-Nisula</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Lehto</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Lusa</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Keski-Nisula</surname>, <given-names>L.</given-names></string-name> and <string-name><surname>Varrela</surname>, <given-names>J</given-names></string-name></person-group>. (<year>2003</year>) <article-title>Occurrence of malocclusion and need of orthodontic treatment in early mixed dentition</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>124</volume>, <fpage>631</fpage>–<lpage>638</lpage>.<pub-id pub-id-type="pmid">14666075</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0006">
+                <label>6.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lux</surname>, <given-names>C.J.</given-names></string-name>, <string-name><surname>Conradt</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Burden</surname>, <given-names>D.</given-names></string-name> and <string-name><surname>Komposch</surname>, <given-names>G</given-names></string-name></person-group>. (<year>2003</year>) <article-title>Dental arch widths and mandibular-maxillary base widths in Class II malocclusions between early mixed and permanent dentitions</article-title>. <source>The Angle Orthodontist</source>, <volume>73</volume>, <fpage>674</fpage>–<lpage>685</lpage>.<pub-id pub-id-type="pmid">14719732</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0007">
+                <label>7.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>McNamara</surname>, <given-names>J.A.</given-names>, <suffix>Jr</suffix></string-name></person-group> (<year>1981</year>) <article-title>Components of class II malocclusion in children 8–10 years of age</article-title>. <source>The Angle Orthodontist</source>, <volume>51</volume>, <fpage>177</fpage>–<lpage>202</lpage>.<pub-id pub-id-type="pmid">7023290</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0008">
+                <label>8.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tollaro</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Baccetti</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Franchi</surname>, <given-names>L.</given-names></string-name> and <string-name><surname>Tanasescu</surname>, <given-names>C.D</given-names></string-name></person-group>. (<year>1996</year>) <article-title>Role of posterior transverse interarch discrepancy in Class II, Division 1 malocclusion during the mixed dentition phase</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>110</volume>, <fpage>417</fpage>–<lpage>422</lpage>.<pub-id pub-id-type="pmid">8876494</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0009">
+                <label>9.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kirjavainen</surname>, <given-names>M.</given-names></string-name> and <string-name><surname>Kirjavainen</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2003</year>) <article-title>Maxillary expansion in Class II correction with orthopedic cervical headgear. A posteroanterior cephalometric study</article-title>. <source>The Angle Orthodontist</source>, <volume>73</volume>, <fpage>281</fpage>–<lpage>285</lpage>.<pub-id pub-id-type="pmid">12828436</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0010">
+                <label>10.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sayin</surname>, <given-names>M.O.</given-names></string-name> and <string-name><surname>Turkkahraman</surname>, <given-names>H</given-names></string-name></person-group>. (<year>2004</year>) <article-title>Comparison of dental arch and alveolar widths of patients with Class II, Division 1 malocclusion and subjects with Class I ideal occlusion</article-title>. <source>The Angle Orthodontist</source>, <volume>74</volume>, <fpage>356</fpage>–<lpage>360</lpage>.<pub-id pub-id-type="pmid">15264647</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0011">
+                <label>11.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bishara</surname>, <given-names>S.E.</given-names></string-name>, <string-name><surname>Bayati</surname>, <given-names>P.</given-names></string-name> and <string-name><surname>Jakobsen</surname>, <given-names>J.R</given-names></string-name></person-group>. (<year>1996</year>) <article-title>Longitudinal comparisons of dental arch changes in normal and untreated Class II, Division 1 subjects and their clinical implications</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>110</volume>, <fpage>483</fpage>–<lpage>489</lpage>.<pub-id pub-id-type="pmid">8922506</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0012">
+                <label>12.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tausche</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Luck</surname>, <given-names>O.</given-names></string-name> and <string-name><surname>Harzer</surname>, <given-names>W</given-names></string-name></person-group>. (<year>2004</year>) <article-title>Prevalence of malocclusions in the early mixed dentition and orthodontic treatment need</article-title>. <source>European Journal of Orthodontics</source>, <volume>26</volume>, <fpage>237</fpage>–<lpage>244</lpage>.<pub-id pub-id-type="pmid">15222706</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0013">
+                <label>13.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sanin</surname>, <given-names>C.</given-names></string-name> and <string-name><surname>Savara</surname>, <given-names>B.S</given-names></string-name></person-group>. (<year>1973</year>) <article-title>Factors that affect the alignment of the mandibular incisors: a longitudinal study</article-title>. <source>American Journal of Orthodontics</source>, <volume>64</volume>, <fpage>248</fpage>–<lpage>257</lpage>.<pub-id pub-id-type="pmid">4516457</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0014">
+                <label>14.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sardarian</surname>, <given-names>A.</given-names></string-name> and <string-name><surname>Ghaderi</surname>, <given-names>F</given-names></string-name></person-group>. (<year>2018</year>) <article-title>Prediction of the occurrence and severity of mandibular incisor crowding in the early mixed dentition using craniofacial parameters</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>153</volume>, <fpage>701</fpage>–<lpage>707</lpage>.<pub-id pub-id-type="pmid">29706218</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0015">
+                <label>15.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pirttiniemi</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Kantomaa</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Mäntysaari</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Pykäläinen</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Krusinskiene</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Laitala</surname>, <given-names>T.</given-names></string-name> and <string-name><surname>Karikko</surname>, <given-names>J</given-names></string-name></person-group>. (<year>2005</year>) <article-title>The effects of early headgear treatment on dental arches and craniofacial morphology: an 8 year report of a randomized study</article-title>. <source>European Journal of Orthodontics</source>, <volume>27</volume>, <fpage>429</fpage>–<lpage>436</lpage>.<pub-id pub-id-type="pmid">15961567</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0016">
+                <label>16.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Pietilä</surname>
+ <given-names>I</given-names></string-name></person-group>. (<year>2010</year>) <article-title>Delivery, outcome, and costs of orthodontic care in Finnish health centres</article-title>. <source>Turku, Annales Universitatis Turkuensis</source>, D 920.</mixed-citation>
+              </ref>
+              <ref id="CIT0017">
+                <label>17.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tüfekçi</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Allen</surname>, <given-names>S.B.</given-names></string-name>, <string-name><surname>Best</surname>, <given-names>A.M.</given-names></string-name> and <string-name><surname>Lindauer</surname>, <given-names>S.J</given-names></string-name></person-group>. (<year>2016</year>) <article-title>Current trends in headgear use for the treatment of Class II malocclusions</article-title>. <source>The Angle Orthodontist</source>, <volume>86</volume>, <fpage>584</fpage>–<lpage>589</lpage>.<pub-id pub-id-type="pmid">26401825</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0018">
+                <label>18.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Henriques</surname>, <given-names>F.P.</given-names></string-name>, <string-name><surname>Janson</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Henriques</surname>, <given-names>J.F.</given-names></string-name> and <string-name><surname>Pupulim</surname>, <given-names>D.C</given-names></string-name></person-group>. (<year>2015</year>) <article-title>Effects of cervical headgear appliance: a systematic review</article-title>. <source>Dental Press Journal of Orthodontics</source>, <volume>20</volume>, <fpage>76</fpage>–<lpage>81</lpage>.</mixed-citation>
+              </ref>
+              <ref id="CIT0019">
+                <label>19.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Papageorgiou</surname>, <given-names>S.N.</given-names></string-name>, <string-name><surname>Kutschera</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Memmert</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Gölz</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Jäger</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Bourauel</surname>, <given-names>C.</given-names></string-name> and <string-name><surname>Eliades</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2017</year>) <article-title>Effectiveness of early orthopaedic treatment with headgear: a systematic review and meta-analysis</article-title>. <source>European Journal of Orthodontics</source>, <volume>39</volume>, <fpage>176</fpage>–<lpage>187</lpage>.<pub-id pub-id-type="pmid">27169757</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0020">
+                <label>20.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kirjavainen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Kirjavainen</surname>, <given-names>T.</given-names></string-name> and <string-name><surname>Haavikko</surname>, <given-names>K</given-names></string-name></person-group>. (<year>1997</year>) <article-title>Changes in dental arch dimensions by use of an orthopaedic cervical headgear in Class II correction</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>111</volume>, <fpage>59</fpage>–<lpage>66</lpage>.<pub-id pub-id-type="pmid">9009925</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0021">
+                <label>21.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Lima Filho</surname>, <given-names>R.M.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>A.L.</given-names></string-name> and <string-name><surname>de Oliveira Ruellas</surname>, <given-names>A.C</given-names></string-name></person-group>. (<year>2003</year>) <article-title>Mandibular changes in skeletal class II patients treated with Kloehn cervical headgear</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>124</volume>, <fpage>83</fpage>–<lpage>90</lpage>.<pub-id pub-id-type="pmid">12867902</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0022">
+                <label>22.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Mäntysaari</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Kantomaa</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Pirttiniemi</surname>, <given-names>P.</given-names></string-name> and <string-name><surname>Pykäläinen</surname>, <given-names>A</given-names></string-name></person-group>. (<year>2004</year>) <article-title>The effects of early headgear treatment on dental arches and craniofacial morphology: a report of a 2 year randomized study</article-title>. <source>European Journal of Orthodontics</source>, <volume>26</volume>, <fpage>59</fpage>–<lpage>64</lpage>.<pub-id pub-id-type="pmid">14994883</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0023">
+                <label>23.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Tortop</surname>, <given-names>T.</given-names></string-name> and <string-name><surname>Yüksel</surname>, <given-names>S</given-names></string-name></person-group>. (<year>2007</year>) <article-title>Treatment and posttreatment changes with combined headgear therapy</article-title>. <source>The Angle Orthodontist</source>, <volume>77</volume>, <fpage>857</fpage>–<lpage>863</lpage>.<pub-id pub-id-type="pmid">17685765</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0024">
+                <label>24.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Marchiori Farret</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>de Lima</surname>, <given-names>E.M.</given-names></string-name>, <string-name><surname>Pereira Araújo</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Deon Rizzatto</surname>, <given-names>S.M.</given-names></string-name>, <string-name><surname>Macedo de Menezes</surname>, <given-names>L.</given-names></string-name> and <string-name><surname>Lima Grossi</surname>, <given-names>M</given-names></string-name></person-group>. (<year>2008</year>) <article-title>Molar changes with cervical headgear alone or in combination with rapid maxillary expansion</article-title>. <source>The Angle Orthodontist</source>, <volume>78</volume>, <fpage>847</fpage>–<lpage>851</lpage>.<pub-id pub-id-type="pmid">18298206</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0025">
+                <label>25.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Varlik</surname>, <given-names>S.K.</given-names></string-name> and <string-name><surname>Iscan</surname>, <given-names>H.N</given-names></string-name></person-group>. (<year>2008</year>) <article-title>The effects of cervical headgear with an expanded inner bow in the permanent dentition</article-title>. <source>European Journal of Orthodontics</source>, <volume>30</volume>, <fpage>425</fpage>–<lpage>430</lpage>.<pub-id pub-id-type="pmid">18678761</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0026">
+                <label>26.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Sambataro</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Fastuca</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Oppermann</surname>, <given-names>N.J.</given-names></string-name>, <string-name><surname>Lorusso</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Baccetti</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Franchi</surname>, <given-names>L.</given-names></string-name> and <string-name><surname>Caprioglio</surname>, <given-names>A</given-names></string-name></person-group>. (<year>2017</year>) <article-title>Cephalometric changes in growing patients with increased vertical dimension treated with cervical headgear</article-title>. <source>Journal of Orofacial Orthopedics</source>, <volume>78</volume>, <fpage>312</fpage>–<lpage>320</lpage>.<pub-id pub-id-type="pmid">28455746</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0027">
+                <label>27.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Julku</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Hannula</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Pirilä-Parkkinen</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Tolvanen</surname>, <given-names>M.</given-names></string-name> and <string-name><surname>Pirttiniemi</surname>, <given-names>P</given-names></string-name></person-group>. (<year>2019</year>) <article-title>Dental arch effects after early and later timed cervical headgear treatment-a randomized controlled trial</article-title>. <source>European Journal of Orthodontics</source>, <volume>41</volume>, <fpage>622</fpage>–<lpage>630</lpage>.<pub-id pub-id-type="pmid">30601990</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0028">
+                <label>28.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Armstrong</surname>, <given-names>M.M</given-names></string-name></person-group>. (<year>1971</year>) <article-title>Controlling the magnitude, direction, and duration of extraoral force</article-title>. <source>American Journal of Orthodontics</source>, <volume>59</volume>, <fpage>217</fpage>–<lpage>243</lpage>.<pub-id pub-id-type="pmid">5276725</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0029">
+                <label>29.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Melsen</surname>, <given-names>B</given-names></string-name></person-group>. (<year>1978</year>) <article-title>Effects of cervical anchorage during and after treatment: an implant study</article-title>. <source>American Journal of Orthodontics</source>, <volume>73</volume>, <fpage>526</fpage>–<lpage>540</lpage>.<pub-id pub-id-type="pmid">277067</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0030">
+                <label>30.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Wieslander</surname>, <given-names>L</given-names></string-name></person-group>. (<year>1974</year>) <article-title>The effect of force on craniofacial development</article-title>. <source>American Journal of Orthodontics</source>, <volume>65</volume>, <fpage>531</fpage>–<lpage>538</lpage>.<pub-id pub-id-type="pmid">4208011</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0031">
+                <label>31.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Godt</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Kalwitzki</surname>, <given-names>M.</given-names></string-name> and <string-name><surname>Göz</surname>, <given-names>G</given-names></string-name></person-group>. (<year>2007</year>) <article-title>Effects of cervical headgear on overbite against the background of existing growth patterns. A retrospective analysis of study casts</article-title>. <source>The Angle Orthodontist</source>, <volume>77</volume>, <fpage>42</fpage>–<lpage>46</lpage>.<pub-id pub-id-type="pmid">17029551</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0032">
+                <label>32.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kirjavainen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Hurmerinta</surname>, <given-names>K.</given-names></string-name> and <string-name><surname>Kirjavainen</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2007</year>) <article-title>Facial profile changes in early Class II correction with cervical headgear</article-title>. <source>The Angle Orthodontist</source>, <volume>77</volume>, <fpage>960</fpage>–<lpage>967</lpage>.<pub-id pub-id-type="pmid">18004917</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0033">
+                <label>33.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Angelieri</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>de Almeida</surname>, <given-names>R.R.</given-names></string-name>, <string-name><surname>Janson</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Castanha Henriques</surname>, <given-names>J.F.</given-names></string-name> and <string-name><surname>Pinzan</surname>, <given-names>A</given-names></string-name></person-group>. (<year>2008</year>) <article-title>Comparison of the effects produced by headgear and pendulum appliances followed by fixed orthodontic treatment</article-title>. <source>European Journal of Orthodontics</source>, <volume>30</volume>, <fpage>572</fpage>–<lpage>579</lpage>.<pub-id pub-id-type="pmid">19054813</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0034">
+                <label>34.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Zervas</surname>, <given-names>E.D.</given-names></string-name>, <string-name><surname>Galang-Boquiren</surname>, <given-names>M.T.</given-names></string-name>, <string-name><surname>Obrez</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Costa Viana</surname>, <given-names>M.G.</given-names></string-name>, <string-name><surname>Oppermann</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Sanchez</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Romero</surname>, <given-names>E.G.</given-names></string-name> and <string-name><surname>Kusnoto</surname>, <given-names>B</given-names></string-name></person-group>. (<year>2016</year>) <article-title>Change in the vertical dimension of Class II Division 1 patients after use of cervical or high-pull headgear</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>150</volume>, <fpage>771</fpage>–<lpage>781</lpage>.<pub-id pub-id-type="pmid">27871703</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0035">
+                <label>35.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Cureton</surname>, <given-names>S.L.</given-names></string-name>, <string-name><surname>Regennitter</surname>, <given-names>F.J.</given-names></string-name> and <string-name><surname>Yancey</surname>, <given-names>J.M</given-names></string-name></person-group>. (<year>1993</year>) <article-title>Clinical versus quantitative assessment of headgear compliance</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>104</volume>, <fpage>277</fpage>–<lpage>284</lpage>.<pub-id pub-id-type="pmid">8362790</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0036">
+                <label>36.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kim</surname>, <given-names>K.R.</given-names></string-name> and <string-name><surname>Muhl</surname>, <given-names>Z.F</given-names></string-name></person-group>. (<year>2001</year>) <article-title>Changes in mandibular growth direction during and after cervical headgear treatment</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>119</volume>, <fpage>522</fpage>–<lpage>530</lpage>.<pub-id pub-id-type="pmid">11343025</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0037">
+                <label>37.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Doruk</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Ağar</surname>, <given-names>U.</given-names></string-name> and <string-name><surname>Babacan</surname>, <given-names>H</given-names></string-name></person-group>. (<year>2004</year>) <article-title>The role of the headgear timer in extraoral co-operation</article-title>. <source>European Journal of Orthodontics</source>, <volume>26</volume>, <fpage>289</fpage>–<lpage>291</lpage>.<pub-id pub-id-type="pmid">15222714</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0038">
+                <label>38.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Ağar</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Doruk</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Biçakçi</surname>, <given-names>A.A.</given-names></string-name> and <string-name><surname>Büküsoğlu</surname>, <given-names>N</given-names></string-name></person-group>. (<year>2005</year>) <article-title>The role of psycho-social factors in headgear compliance</article-title>. <source>European Journal of Orthodontics</source>, <volume>27</volume>, <fpage>263</fpage>–<lpage>267</lpage>.<pub-id pub-id-type="pmid">15947226</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0039">
+                <label>39.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Brandão</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Pinho</surname>, <given-names>H.S.</given-names></string-name> and <string-name><surname>Urias</surname>, <given-names>D</given-names></string-name></person-group>. (<year>2006</year>) <article-title>Clinical and quantitative assessment of headgear compliance: a pilot study</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>129</volume>, <fpage>239</fpage>–<lpage>244</lpage>.<pub-id pub-id-type="pmid">16473716</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0040">
+                <label>40.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kirjavainen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Kirjavainen</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Hurmerinta</surname>, <given-names>K.</given-names></string-name> and <string-name><surname>Haavikko</surname>, <given-names>K</given-names></string-name></person-group>. (<year>2000</year>) <article-title>Orthopedic cervical headgear with an expanded inner bow in class II correction</article-title>. <source>The Angle Orthodontist</source>, <volume>70</volume>, <fpage>317</fpage>–<lpage>325</lpage>.<pub-id pub-id-type="pmid">10961782</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0041">
+                <label>41.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Fenderson</surname>, <given-names>F.A.</given-names></string-name>, <string-name><surname>McNamara</surname>, <given-names>J.A.</given-names>, <suffix>Jr</suffix></string-name>, <string-name><surname>Baccetti</surname>, <given-names>T.</given-names></string-name> and <string-name><surname>Veith</surname>, <given-names>C.J</given-names></string-name></person-group>. (<year>2004</year>) <article-title>A long-term study on the expansion effects of the cervical-pull facebow with and without rapid maxillary expansion</article-title>. <source>The Angle Orthodontist</source>, <volume>74</volume>, <fpage>439</fpage>–<lpage>449</lpage>.<pub-id pub-id-type="pmid">15387020</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0042">
+                <label>42.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Freitas</surname>, <given-names>M.R.</given-names></string-name>, <string-name><surname>Lima</surname>, <given-names>D.V.</given-names></string-name>, <string-name><surname>Freitas</surname>, <given-names>K.M.</given-names></string-name>, <string-name><surname>Janson</surname>, <given-names>G.</given-names></string-name> and <string-name><surname>Henriques</surname>, <given-names>J.F</given-names></string-name></person-group>. (<year>2008</year>) <article-title>Cephalometric evaluation of Class II malocclusion treatment with cervical headgear and mandibular fixed appliances</article-title>. <source>European Journal of Orthodontics</source>, <volume>30</volume>, <fpage>477</fpage>–<lpage>482</lpage>.<pub-id pub-id-type="pmid">18725383</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0043">
+                <label>43.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Talvitie</surname>, <given-names>T.H.</given-names></string-name>, <string-name><surname>Helminen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Karsila</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Varho</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Signorelli</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Pirttiniemi</surname>, <given-names>P.</given-names></string-name> and <string-name><surname>Peltomäki</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2019</year>) <article-title>Impact of force magnitude on effectiveness in cervical headgear therapy: a cephalometric analysis</article-title>. <source>European Journal of Orthodontics</source>, <volume>41</volume>, <fpage>646</fpage>–<lpage>651</lpage>.<pub-id pub-id-type="pmid">31179505</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0044">
+                <label>44.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Julku</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Pirilä-Parkkinen</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Tolvanen</surname>, <given-names>M.</given-names></string-name> and <string-name><surname>Pirttiniemi</surname>, <given-names>P</given-names></string-name></person-group>. (<year>2019</year>) <article-title>Comparison of effects of cervical headgear treatment on skeletal facial changes when the treatment time is altered: a randomized controlled trial</article-title>. <source>European Journal of Orthodontics</source>, <volume>41</volume>, <fpage>631</fpage>–<lpage>640</lpage>.<pub-id pub-id-type="pmid">31369675</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0045">
+                <label>45.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Nucera</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Militi</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Lo Giudice</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Longo</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Fastuca</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Caprioglio</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Cordasco</surname>, <given-names>G.</given-names></string-name> and <string-name><surname>Papadopoulos</surname>, <given-names>M.A</given-names></string-name></person-group>. (<year>2018</year>) <article-title>Skeletal and dental effectiveness of treatment of class II Malocclusion with headgear: a systematic review and meta-analysis</article-title>. <source>The Journal of Evidence-Based Dental Practice</source>, <volume>18</volume>, <fpage>41</fpage>–<lpage>58</lpage>.<pub-id pub-id-type="pmid">29478681</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0046">
+                <label>46.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bowden</surname>, <given-names>D.E</given-names></string-name></person-group>. (<year>1978</year>) <article-title>Theoretical considerations of headgear therapy: a literature review. 1. Mechanical principles</article-title>. <source>British Journal of Orthodontics</source>, <volume>5</volume>, <fpage>145</fpage>–<lpage>152</lpage>.<pub-id pub-id-type="pmid">385036</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0047">
+                <label>47.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bowden</surname>, <given-names>D.E</given-names></string-name></person-group>. (<year>1978</year>) <article-title>Theoretical considerations of headgear therapy: a literature review. 2. Clinical response and usage</article-title>. <source>British Journal of Orthodontics</source>, <volume>5</volume>, <fpage>173</fpage>–<lpage>181</lpage>.<pub-id pub-id-type="pmid">385038</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0048">
+                <label>48.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Owman-Moll</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Kurol</surname>, <given-names>J.</given-names></string-name> and <string-name><surname>Lundgren</surname>, <given-names>D</given-names></string-name></person-group>. (<year>1996</year>) <article-title>The effects of a four-fold increased orthodontic force magnitude on tooth movement and root resorptions. An intra-individual study in adolescents</article-title>. <source>European Journal of Orthodontics</source>, <volume>18</volume>, <fpage>287</fpage>–<lpage>294</lpage>.<pub-id pub-id-type="pmid">8791892</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0049">
+                <label>49.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Talvitie</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Helminen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Karsila</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Varho</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Signorelli</surname>, <given-names>L.</given-names></string-name> and <string-name><surname>Peltomäki</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2019</year>) <article-title>Adherence to instructions and fluctuation of force magnitude in cervical headgear therapy</article-title>. <source>The Angle Orthodontist</source>, <volume>89</volume>, <fpage>268</fpage>–<lpage>274</lpage>.<pub-id pub-id-type="pmid">30451531</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0050">
+                <label>50.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Talvitie</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Helminen</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Karsila</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Varho</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Signorelli</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Pirttiniemi</surname>, <given-names>P.</given-names></string-name> and <string-name><surname>Peltomäki</surname>, <given-names>T</given-names></string-name></person-group>. (<year>2021</year>) <article-title>The impact of force magnitude on the first and second maxillary molars in cervical headgear therapy</article-title>. <source>European Journal of Orthodontics</source>, 43, 648–657.</mixed-citation>
+              </ref>
+              <ref id="CIT0051">
+                <label>51.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Weiss</surname>, <given-names>J.</given-names></string-name> and <string-name><surname>Eiser</surname>, <given-names>H.M</given-names></string-name></person-group>. (<year>1977</year>) <article-title>Psychological timing of orthodontic treatment</article-title>. <source>American Journal of Orthodontics</source>, <volume>72</volume>, <fpage>198</fpage>–<lpage>204</lpage>.<pub-id pub-id-type="pmid">268151</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0052">
+                <label>52.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Kang</surname>, <given-names>S.J.</given-names></string-name>, <string-name><surname>Kim</surname>, <given-names>H.H.</given-names></string-name>, <string-name><surname>Hwang</surname>, <given-names>H.S.</given-names></string-name> and <string-name><surname>Lee</surname>, <given-names>K.M</given-names></string-name></person-group>. (<year>2017</year>) <article-title>Immediate changes in the mandibular dentition after maxillary molar distalization using headgear</article-title>. <source>Korean Journal of Orthodontics</source>, <volume>47</volume>, <fpage>142</fpage>–<lpage>147</lpage>.<pub-id pub-id-type="pmid">28337423</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0053">
+                <label>53.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Uçem</surname>, <given-names>T.T.</given-names></string-name> and <string-name><surname>Yüksel</surname>, <given-names>S</given-names></string-name></person-group>. (<year>1998</year>) <article-title>Effects of different vectors of forces applied by combined headgear</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>113</volume>, <fpage>316</fpage>–<lpage>323</lpage>.<pub-id pub-id-type="pmid">9517724</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0054">
+                <label>54.</label>
+                <mixed-citation publication-type="book"><person-group person-group-type="author"><string-name><surname>Moorrees</surname>, <given-names>C.F.A</given-names></string-name></person-group>. (<year>1959</year>) <source>Dentition of the Growing Child: A Longitudinal Study of Dental Development Between 3 and 18 Years of Age</source>. <publisher-name>Harvard University Press</publisher-name>, <publisher-loc>Cambridge, MA</publisher-loc>.</mixed-citation>
+              </ref>
+              <ref id="CIT0055">
+                <label>55.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Bishara</surname>, <given-names>S.E.</given-names></string-name>, <string-name><surname>Jakobsen</surname>, <given-names>J.R.</given-names></string-name>, <string-name><surname>Treder</surname>, <given-names>J.</given-names></string-name> and <string-name><surname>Nowak</surname>, <given-names>A</given-names></string-name></person-group>. (<year>1998</year>) <article-title>Arch length changes from 6 weeks to 45 years</article-title>. <source>The Angle Orthodontist</source>, <volume>68</volume>, <fpage>69</fpage>–<lpage>74</lpage>.<pub-id pub-id-type="pmid">9503137</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0056">
+                <label>56.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Thilander</surname>, <given-names>B</given-names></string-name></person-group>. (<year>2009</year>) <article-title>Dentoalveolar development in subjects with normal occlusion. A longitudinal study between the ages of 5 and 31 years</article-title>. <source>European Journal of Orthodontics</source>, <volume>31</volume>, <fpage>109</fpage>–<lpage>120</lpage>.<pub-id pub-id-type="pmid">19304760</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0057">
+                <label>57.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Barros</surname>, <given-names>S.E.</given-names></string-name>, <string-name><surname>Chiqueto</surname>, <given-names>K.</given-names></string-name> and <string-name><surname>Janson</surname>, <given-names>G</given-names></string-name></person-group>. (<year>2016</year>) <article-title>Impact of dentofacial development on early mandibular incisor crowding</article-title>. <source>American Journal of Orthodontics and Dentofacial Orthopedics</source>, <volume>150</volume>, <fpage>332</fpage>–<lpage>338</lpage>.<pub-id pub-id-type="pmid">27476367</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0058">
+                <label>58.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Hagberg</surname>, <given-names>C</given-names></string-name></person-group>. (<year>1994</year>) <article-title>The alignment of permanent mandibular incisors in children. A longitudinal prospective study</article-title>. <source>European Journal of Orthodontics</source>, <volume>16</volume>, <fpage>121</fpage>–<lpage>129</lpage>.<pub-id pub-id-type="pmid">8005199</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0059">
+                <label>59.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Türkkahraman</surname>, <given-names>H.</given-names></string-name> and <string-name><surname>Sayin</surname>, <given-names>M.O</given-names></string-name></person-group>. (<year>2004</year>) <article-title>Relationship between mandibular anterior crowding and lateral dentofacial morphology in the early mixed dentition</article-title>. <source>The Angle Orthodontist</source>, <volume>74</volume>, <fpage>759</fpage>–<lpage>764</lpage>.<pub-id pub-id-type="pmid">15673137</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0060">
+                <label>60.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Gianelly</surname>, <given-names>A.A</given-names></string-name></person-group>. (<year>1995</year>) <article-title>Leeway space and the resolution of crowding in the mixed dentition</article-title>. <source>Seminars in Orthodontics</source>, <volume>1</volume>, <fpage>188</fpage>–<lpage>194</lpage>.<pub-id pub-id-type="pmid">9002915</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0061">
+                <label>61.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Heino</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Kokko</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Vuollo</surname>, <given-names>V.</given-names></string-name> and <string-name><surname>Pirttiniemi</surname>, <given-names>P</given-names></string-name></person-group>. (<year>2021</year>) <article-title>Effect of cervical headgear on dental arch area, shape and interarch dimensions: a randomized study</article-title>. <source>Journal of Orofacial Orthopedics</source>, <volume>82</volume>, <fpage>153</fpage>–<lpage>162</lpage>.<pub-id pub-id-type="pmid">33270142</pub-id></mixed-citation>
+              </ref>
+              <ref id="CIT0062">
+                <label>62.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><string-name><surname>Abed</surname>, <given-names>Y.</given-names></string-name> and <string-name><surname>Brin</surname>, <given-names>I</given-names></string-name></person-group>. (<year>2010</year>) <article-title>Early headgear effect on the eruption pattern of maxillary second molars</article-title>. <source>The Angle Orthodontist</source>, <volume>80</volume>, <fpage>454</fpage>–<lpage>460</lpage>.<pub-id pub-id-type="pmid">20482348</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

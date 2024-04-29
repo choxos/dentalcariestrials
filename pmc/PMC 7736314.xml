@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:45:01Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:7736314" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:7736314</identifier>
+        <datestamp>2020-12-15</datestamp>
+        <setSpec>scirep</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+              <journal-title-group>
+                <journal-title>Scientific Reports</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2045-2322</issn>
+              <publisher>
+                <publisher-name>Nature Publishing Group UK</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC7736314</article-id>
+              <article-id pub-id-type="pmcid">PMC7736314</article-id>
+              <article-id pub-id-type="pmc-uid">7736314</article-id>
+              <article-id pub-id-type="pmid">33318507</article-id>
+              <article-id pub-id-type="publisher-id">78724</article-id>
+              <article-id pub-id-type="doi">10.1038/s41598-020-78724-1</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Poor oral hygiene and dental caries predict high mortality rate in hemodialysis: a 3-year cohort study</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes" equal-contrib="yes">
+                  <name>
+                    <surname>Mizutani</surname>
+                    <given-names>Koji</given-names>
+                  </name>
+                  <address>
+                    <email>mizuperi@tmd.ac.jp</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author" equal-contrib="yes">
+                  <name>
+                    <surname>Mikami</surname>
+                    <given-names>Risako</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gohda</surname>
+                    <given-names>Tomohito</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gotoh</surname>
+                    <given-names>Hiromichi</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Aoyama</surname>
+                    <given-names>Norio</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Matsuura</surname>
+                    <given-names>Takanori</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kido</surname>
+                    <given-names>Daisuke</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Takeda</surname>
+                    <given-names>Kohei</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Izumi</surname>
+                    <given-names>Yuichi</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Sasaki</surname>
+                    <given-names>Yoshiyuki</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Iwata</surname>
+                    <given-names>Takanori</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.265073.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 1014 9130</institution-id><institution>Department of Periodontology, Graduate School of Medical and Dental Sciences, </institution><institution>Tokyo Medical and Dental University (TMDU), </institution></institution-wrap>1-5-45 Yushima, Bunkyo-ku, Tokyo, 113-8549 Japan </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.258269.2</institution-id><institution-id institution-id-type="ISNI">0000 0004 1762 2738</institution-id><institution>Department of Nephrology, Faculty of Medicine , </institution><institution>Juntendo University, </institution></institution-wrap>Tokyo, Japan </aff>
+                <aff id="Aff3"><label>3</label>Department of Internal Medicine, Saiyu Soka Hospital, Saitama, Japan </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.462431.6</institution-id><institution-id institution-id-type="ISNI">0000 0001 2156 468X</institution-id><institution>Division of Periodontology, Department of Oral Interdisciplinary Medicine, </institution><institution>Graduate School of Dentistry, Kanagawa Dental University, </institution></institution-wrap>Kanagawa, Japan </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.508290.6</institution-id><institution>Oral Care Perio Center, </institution><institution>Southern Tohoku Research Institute for Neuroscience, Southern Tohoku General Hospital, </institution></institution-wrap>Fukushima, Japan </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.265073.5</institution-id><institution-id institution-id-type="ISNI">0000 0001 1014 9130</institution-id><institution>Department of Maxillofacial Surgery, </institution><institution>Graduate School of Medical and Dental Sciences, Tokyo Medical and Dental University (TMDU), </institution></institution-wrap>Tokyo, Japan </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>14</day>
+                <month>12</month>
+                <year>2020</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>14</day>
+                <month>12</month>
+                <year>2020</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2020</year>
+              </pub-date>
+              <volume>10</volume>
+              <elocation-id>21872</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>18</day>
+                  <month>6</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="accepted">
+                  <day>30</day>
+                  <month>11</month>
+                  <year>2020</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2020</copyright-statement>
+                <license license-type="OpenAccess">
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <p id="Par1">The aim of this study was to investigate the impact of oral hygiene, periodontal diseases, and dental caries on all-cause mortality in hemodialysis. This prospective cohort study included 266 patients with end-stage renal disease who were undergoing hemodialysis. Medical interviews, blood biochemical tests, and comprehensive dental examinations including periodontal pocket examination on all teeth and dental plaque accumulation by debris index-simplified (DI-S), were performed. Survival rates were assessed at a 3-year follow-up. Overall, 207 patients were included in the longitudinal analysis, and 38 subjects died during the follow-up period. Cox proportional hazards analysis of the multivariate model demonstrated that the highest tertile of DI-S had a significantly higher risk of all-cause mortality than the lowest two tertiles after adjustment for age, sex, smoking habit, body mass index, diabetes, prior cardiovascular disease, hemodialysis vintage, high sensitivity C-reactive protein, albumin, and number of remaining teeth (hazard ratio, 3.04; 95% confidence interval, 1.50–6.17; <italic>p</italic> = 0.002). Moreover, the number of decayed teeth significantly increased the hazard ratio to 1.21 (95% confidence interval, 1.06.1.37; <italic>p</italic> = 0.003). This study suggests that accumulated dental plaque and untreated decay, but not periodontal disease, may be independently associated with all-cause mortality in patients undergoing hemodialysis.</p>
+              </abstract>
+              <kwd-group kwd-group-type="npg-subject">
+                <title>Subject terms</title>
+                <kwd>Health care</kwd>
+                <kwd>Nephrology</kwd>
+                <kwd>Risk factors</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>Grant-in-Aid for Scientific Research from the Japan Society for the Promotion of Science</institution>
+                  </funding-source>
+                  <award-id>16K20666</award-id>
+                  <principal-award-recipient>
+                    <name>
+                      <surname>Mizutani</surname>
+                      <given-names>Koji</given-names>
+                    </name>
+                  </principal-award-recipient>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2020</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Introduction</title>
+              <p id="Par2">Hemodialysis (HD) is initiated in end-stage renal disease. These patients show a high crude mortality rate of more than 20%<sup><xref ref-type="bibr" rid="CR1">1</xref></sup> due to the high risk of cardiovascular disease (CVD), susceptibility to infection, or immune system degradation. Many factors such as age, presence of diabetes mellitus (DM), history of cardiovascular events, and elevated high-sensitivity C-reactive protein (hsCRP) were reported as risk factors for mortality<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>.</p>
+              <p id="Par3">Periodontitis is an inflammatory and infectious disease caused by dental plaque. Periodontitis has demonstrated a high degree of evidence of a relationship with non-communicable diseases such as heart diseases<sup><xref ref-type="bibr" rid="CR3">3</xref>,<xref ref-type="bibr" rid="CR4">4</xref></sup>, and DM<sup><xref ref-type="bibr" rid="CR5">5</xref>,<xref ref-type="bibr" rid="CR6">6</xref></sup> via elevated oxidative stress<sup><xref ref-type="bibr" rid="CR7">7</xref></sup>. The association of periodontitis with chronic kidney disease (CKD) was revealed by an epidemiological investigation<sup><xref ref-type="bibr" rid="CR8">8</xref></sup> and a recent systematic review and meta-analysis<sup><xref ref-type="bibr" rid="CR9">9</xref></sup>. Several studies have reported that periodontitis may affect the survival rate of patients undergoing HD<sup><xref ref-type="bibr" rid="CR10">10</xref>–<xref ref-type="bibr" rid="CR12">12</xref></sup>, while a large-scale longitudinal study reported that periodontitis was not associated with an increased risk of early death in adults treated with HD<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. Whether periodontal disease affects the mortality rate of HD patients remains controversial. Currently available reports are limited, and the findings of these reports are inconsistent between investigations.</p>
+              <p id="Par4">It is known that both periodontitis and dental caries are common in CKD patients<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. Especially in patients undergoing HD, the number of caries and filled teeth is significantly higher than that in healthy individuals<sup><xref ref-type="bibr" rid="CR15">15</xref></sup>. The cause is considered to be a decrease in salivary outflow<sup><xref ref-type="bibr" rid="CR16">16</xref></sup> and a low frequency of preventative dental care in dialysis patients<sup><xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR18">18</xref></sup>. Impaired masticatory efficiency, oral disease, and subsequent loss of teeth may affect nutrition intake. This may be related to inflammation and malnutrition, which represents a potential modifiable risk factor for cardiovascular disease and mortality.</p>
+              <p id="Par5">To more accurately analyze the causal relationship between survival rates and periodontal disease or dental caries, biofilm accumulation on the teeth should be evaluated. It has been reported that oral hygiene behaviors, such as frequency of brushing and use of dental floss, affected the mortality of HD patients<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. One previous study investigated the impact of oral health parameters, including plaque deposition, on the survival rate of HD patients and reported that they were not significant mortality predictors after adjusting for confounders<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. However, to our knowledge, careful analysis of the impact of dental parameters on the mortality rate of patients undergoing HD has not yet been performed. Therefore, this study aimed to investigate whether dental markers are associated with mortality in HD patients after adjusting for confounding factors and previously reported risk factors. The design of this study was formulated as follows: 1. participants: hemodialysis patients; 2. exposure factors: high oral plaque accumulation, untreated teeth and periodontal disease; 3. comparison: low oral plaque accumulation, treated caries and periodontal health; 4. outcomes: mortality.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Results</title>
+              <sec id="Sec3">
+                <title>Study participants</title>
+                <p id="Par6">A total of 266 patients were assessed for eligibility; eleven enrolled subjects were excluded due to a lack of blood examination data on the day of the dental examination. At the end of the 3-year follow-up, 255 subjects were assessed; 52 subjects had died (20.4%), while others including 11 subjects who were transferred to other hospitals (4 subjects were received kidney transplants) were alive. To assess the impact of dental plaque and periodontal disease, subjects who did not have simplified debris index (DI-S) subjected teeth (n = 48, including 39 with edentulous jaw) were excluded. Finally, 207 patients (38 patients were deceased) were included in the longitudinal analysis (Fig. <xref rid="Fig1" ref-type="fig">1</xref>). The baseline characteristics are shown in Table <xref rid="Tab1" ref-type="table">1</xref>. The mean ± standard deviation (SD) age of the study population was 65.9 ± 12.1 years and 135 (65.2%) patients were men. The median dialysis vintage was 64 months. A total of 101 (48.8%) patients had diabetes, and the mean duration of diabetes was 19.0 ± 9.3 years. The mean number of remaining, decayed, and filled teeth was 19.9 ± 7.1, 1.1 ± 2.0, and 8.3 ± 5.3, respectively. The mean DI-S score was 0.99 ± 0.76. The number of patients with healthy, mild, moderate, or severe periodontal disease status was 13 (6.3%), 67 (32.4%), 82 (39.6%), and 45 (21.7%), respectively.<fig id="Fig1"><label>Figure 1</label><caption><p>Flow diagram of the subject enrollment process.</p></caption><graphic xlink:href="41598_2020_78724_Fig1_HTML" id="MO1"/></fig><table-wrap id="Tab1"><label>Table 1</label><caption><p>Baseline characteristics of subjects stratified according to outcome.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Characteristics</th><th align="left">All participants (N = 207)</th><th align="left">Survivor (N = 169)</th><th align="left">Non-survivor (N = 38)</th><th align="left"><italic>p</italic> value</th></tr></thead><tbody><tr><td align="left">Male</td><td align="left">135 (65.2%)</td><td align="left">111 (65.7%)</td><td align="left">24 (63.2%)</td><td char="." align="char">0.71</td></tr><tr><td align="left">Age (years)</td><td align="left">65.9 ± 12.1</td><td align="left">64.9 ± 12.5</td><td align="left">70.9 ± 9.2</td><td char="." align="char">0.01</td></tr><tr><td align="left" colspan="5">Smoking</td></tr><tr><td align="left"> Non-smoker</td><td align="left">84 (40.6%)</td><td align="left">70 (41.4%)</td><td align="left">14 (36.8%)</td><td char="." align="char">0.50</td></tr><tr><td align="left"> Past-smoker</td><td align="left">92 (44.4%)</td><td align="left">76 (45.0%)</td><td align="left">16 (42.1%)</td><td char="." align="char"/></tr><tr><td align="left"> Current-smoker</td><td align="left">31 (15.0%)</td><td align="left">23 (13.6%)</td><td align="left">8 (21.1%)</td><td char="." align="char"/></tr><tr><td align="left">BMI (kg/m<sup>2</sup>)</td><td align="left">21.5 (19.2, 23.5)</td><td align="left">21.5 (19.3, 23.6)</td><td align="left">19.9 (17.9, 22.9)</td><td char="." align="char">0.01</td></tr><tr><td align="left">Hemodialysis vintage (months)</td><td align="left">64 (33, 115)</td><td align="left">62 (33, 116)</td><td align="left">74 (35, 107)</td><td char="." align="char">0.54</td></tr><tr><td align="left">Diabetes</td><td align="left">101 (48.8%)</td><td align="left">78 (46.1%)</td><td align="left">15 (39.5%)</td><td char="." align="char">0.15</td></tr><tr><td align="left">Duration of diabetes (years)</td><td align="left">19.0 ± 9.3</td><td align="left">18.8 ± 9.9</td><td align="left">20.1 ± 6.7</td><td char="." align="char">0.67</td></tr><tr><td align="left">Prior CVD event</td><td align="left">51 (24.6%)</td><td align="left">33 (19.5%)</td><td align="left">18 (47.4%)</td><td char="." align="char">0.001</td></tr><tr><td align="left">Albumin (g/dL)</td><td align="left">3.5 (3.3, 3.7)</td><td align="left">3.5 (3.3, 3.7)</td><td align="left">3.2 (2.9, 3.6)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">hsCRP (mg/dL)</td><td align="left">0.16 (0.05, 0.45)</td><td align="left">0.14 (0.05, 0.34)</td><td align="left">0.54 (0.18, 1.84)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left" colspan="5"><bold>Dental health status</bold></td></tr><tr><td align="left">Number of remaining teeth</td><td align="left">22 (16, 26)</td><td align="left">22 (17, 26)</td><td align="left">19 (8, 24)</td><td char="." align="char">0.006</td></tr><tr><td align="left">Number of decayed teeth</td><td align="left">0 (0, 1)</td><td align="left">0 (0, 1)</td><td align="left">1 (0, 3)</td><td char="." align="char">0.002</td></tr><tr><td align="left">Number of filled teeth</td><td align="left">7 (4, 13)</td><td align="left">8 (5, 13)</td><td align="left">5 (1, 10)</td><td char="." align="char">0.006</td></tr><tr><td align="left">DI-S</td><td align="left">0.8 (0.3, 1.5)</td><td align="left">0.8 (0.3, 1.2)</td><td align="left">1.5 (0.7, 2.0)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Frequency of tooth brushing (/day)</td><td align="left">2 (1, 2)</td><td align="left">2 (1, 2)</td><td align="left">1 (1, 2)</td><td char="." align="char">0.03</td></tr><tr><td align="left">Use of interdental cleaning tools</td><td align="left">50 (24.1%)</td><td align="left">45 (26.6%)</td><td align="left">5 (13.2%)</td><td char="." align="char">0.03</td></tr><tr><td align="left" colspan="5">Periodontal disease</td></tr><tr><td align="left"> Healthy</td><td align="left">13 (6.3%)</td><td align="left">12 (7.1%)</td><td align="left">1 (2.63%)</td><td char="." align="char">0.54</td></tr><tr><td align="left"> Mild</td><td align="left">67 (32.4%)</td><td align="left">54 (32.0%)</td><td align="left">13 (34.2%)</td><td char="." align="char"/></tr><tr><td align="left"> Moderate</td><td align="left">82 (39.6%)</td><td align="left">70 (41.4%)</td><td align="left">12 (31.6%)</td><td char="." align="char"/></tr><tr><td align="left"> Severe</td><td align="left">45 (21.7%)</td><td align="left">33 (19.5%)</td><td align="left">12 (31.6%)</td><td char="." align="char"/></tr><tr><td align="left">PPD≧4 mm (%)</td><td align="left">2.9 (0.6, 9.3)</td><td align="left">2.8 (0.6, 8.4)</td><td align="left">3.8 (0.0, 16.7)</td><td char="." align="char">0.42</td></tr><tr><td align="left">BOP (%)</td><td align="left">7.7 (3.4, 18.7)</td><td align="left">7.4 (3.4, 17.3)</td><td align="left">11.0 (2.7, 22.3)</td><td char="." align="char">0.59</td></tr><tr><td align="left">Number of <italic>P.gingivalis</italic> (/ml, log10)</td><td align="left">5.3 (4.4, 5.8)</td><td align="left">5.3 (4.4, 5.8)</td><td align="left">5.6 (5.0, 6.1)</td><td char="." align="char">0.17</td></tr></tbody></table><table-wrap-foot><p>Values are shown as n (%), mean ± SD, or median (25%, 75%) as appropriate.</p><p>BMI, body mass index; BOP, bleeding on probing; BP, blood pressure; CVD, cardiovascular disease; DI-S, simplified debris index; hsCRP, high-sensitivity C-reactive protein; PPD, probing pocket depth.</p></table-wrap-foot></table-wrap></p>
+                <p id="Par7">During the 3-year follow-up period, 38 subjects died (18.4%). Details of the survivors and non-survivors stratified according to outcome are summarized in Table <xref rid="Tab1" ref-type="table">1</xref>. Comparing the two groups, patients in the non-survivor group were older and more likely to have had a history of CVD and a higher serum hsCRP level. Body mass index (BMI) and serum albumin levels were significantly lower in the non-survivor group than in the survivor group. The number of remaining teeth and filled teeth were significantly lower; and the number of decayed teeth was significantly higher in the non-survivor group than in the survivor group. Oral hygiene habits, such as brushing frequency and use of interdental cleaning tools, were significantly worse in the non-survivor group than in the survivor group. The median DI-S was approximately twofold higher in the non-survivor group than in the survivor group (<italic>p</italic> &lt; 0.001).</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Association of dental health status with outcome</title>
+                <p id="Par8">To determine the impact of dental markers on the temporal pattern of the occurrence of all-cause mortality, we plotted the overall survival for all-cause mortality according to the follow-up period. For patients in the highest tertile of DI-S, the overall survival for all-cause mortality steeply decreased at a constant rate from the start of the observation (Fig. <xref rid="Fig2" ref-type="fig">2</xref>a). In categorical variables of the number of remaining teeth and filled teeth, not decayed teeth, significant differences were detected using the log-rank test for equality of survivor function, although clinical covariates showed an association with risk for all-cause mortality (Fig. <xref rid="Fig2" ref-type="fig">2</xref>b, c, and d). Overall survival for all-cause mortality according to the frequency of tooth brushing per day showed significant differences (Fig. <xref rid="Fig2" ref-type="fig">2</xref>e), but not the use of interdental cleaning tools (Fig. <xref rid="Fig2" ref-type="fig">2</xref>f). In contrast, overall survival for all-cause mortality according to the case classification of periodontal disease did not show significant differences (Fig. <xref rid="Fig2" ref-type="fig">2</xref>g).<fig id="Fig2"><label>Figure 2</label><caption><p>Overall survival for all-cause mortality in hemodialysis patients (n = 207) during the 3-year follow-up period according to dental parameters at baseline; tertiles of DI-S (<bold>a</bold>), categorical variables of the number of remaining teeth (<bold>b</bold>), decayed teeth (<bold>c</bold>), filled teeth (<bold>d</bold>), frequency of tooth brushing per day (<bold>e</bold>), use of interdental cleaning tools (<bold>f</bold>), and classification of periodontal disease (<bold>g</bold>). Significant differences were detected using the log-rank test for equality of survivor function.</p></caption><graphic xlink:href="41598_2020_78724_Fig2_HTML" id="MO2"/></fig></p>
+              </sec>
+              <sec id="Sec5">
+                <title>Association of DI-S score with all-cause mortality</title>
+                <p id="Par9">The subjects were divided into the top and lower tertiles of the DI-S score (T3 group vs. T1-2 group), and their baseline characteristics are summarized in Table <xref rid="Tab2" ref-type="table">2</xref>. The mean age and the ratio of a history of prior CVD events did not differ significantly between the groups. The mean hsCRP value was significantly higher in the T3 group than in the T1-2 group. The mean number of teeth was significantly lower, and the number of decayed teeth was lower in the T3 group compared to the T1-2 group. A higher 3-year mortality rate was observed in T3 compared to T1 or T2.<table-wrap id="Tab2"><label>Table 2</label><caption><p>Baseline characteristics of subjects and their survival rate at the 3-year follow-up.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">T1-2 (N = 138)</th><th align="left">T3 (N = 69)</th><th align="left"><italic>p</italic> value</th></tr></thead><tbody><tr><td align="left" colspan="4"><bold>Baseline characteristics</bold></td></tr><tr><td align="left">Male</td><td align="left">83 (60.1%)</td><td align="left">52 (75.4%)</td><td char="." align="char">0.03</td></tr><tr><td align="left">Age</td><td align="left">64.9 ± 12.0</td><td align="left">68.2 ± 12.2</td><td char="." align="char">0.07</td></tr><tr><td align="left" colspan="4">Smoking</td></tr><tr><td align="left"> Non-smoker</td><td align="left">56 (40.6%)</td><td align="left">28 (40.6%)</td><td char="." align="char">0.98</td></tr><tr><td align="left"> Past-smoker</td><td align="left">61 (44.2%)</td><td align="left">31 (44.9%)</td><td char="." align="char"/></tr><tr><td align="left">Current smoker</td><td align="left">21 (15.2%)</td><td align="left">10 (14.5%)</td><td char="." align="char"/></tr><tr><td align="left">BMI (kg/m<sup>2</sup>)</td><td align="left">21.4 (19.3, 23.2)</td><td align="left">21.5 (191.1, 24.0)</td><td char="." align="char">0.87</td></tr><tr><td align="left">Hemodialysis vintage (months)</td><td align="left">58 (26, 129)</td><td align="left">74 (37, 109)</td><td char="." align="char">0.50</td></tr><tr><td align="left">Diabetes (%)</td><td align="left">60 (43.5%)</td><td align="left">41 (59.4%)</td><td char="." align="char">0.02</td></tr><tr><td align="left">Duration of diabetes (years)</td><td align="left">18.2 ± 9.3</td><td align="left">20.4 ± 9.2</td><td char="." align="char">0.25</td></tr><tr><td align="left">Prior CVD event (%)</td><td align="left">29 (21.0%)</td><td align="left">22 (31.9%)</td><td char="." align="char">0.06</td></tr><tr><td align="left">Albumin (g/dL)</td><td align="left">3.5 (3.3, 3.7)</td><td align="left">3.5 (3.2, 3.7)</td><td char="." align="char">0.20</td></tr><tr><td align="left">hsCRP (mg/dL)</td><td align="left">0.13 (0.04, 0.40)</td><td align="left">0.21 (0.08, 0.92)</td><td char="." align="char">0.012</td></tr><tr><td align="left" colspan="4"><bold>Baseline dental health status</bold></td></tr><tr><td align="left">Number of remaining teeth</td><td align="left">24 (19, 27)</td><td align="left">17 (9, 23)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Number of decayed teeth</td><td align="left">0 (0, 4)</td><td align="left">0 (0, 2)</td><td char="." align="char">0.07</td></tr><tr><td align="left">Number of filled teeth</td><td align="left">10 (5, 13)</td><td align="left">5 (2, 8)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">DI-S</td><td align="left">0.5 (0.3, 0.8)</td><td align="left">1.7 (1.5, 2.0)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Frequency of tooth brushing (/day)</td><td align="left">2 (1, 2)</td><td align="left">1 (1, 2)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Use of interdental cleaning tools</td><td align="left">47 (34.1%)</td><td align="left">3 (4.3%)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Dental care within 1 year</td><td align="left">84 (60.9%)</td><td align="left">28 (40.6%)</td><td char="." align="char">0.008</td></tr><tr><td align="left" colspan="4">Periodontal disease</td></tr><tr><td align="left"> Healthy</td><td align="left">12 (8.7%)</td><td align="left">1 (1.4%)</td><td char="." align="char">0.007</td></tr><tr><td align="left"> Mild</td><td align="left">50 (36.2%)</td><td align="left">17 (24.6%)</td><td char="." align="char"/></tr><tr><td align="left"> Moderate</td><td align="left">54 (39.1%)</td><td align="left">28 (40.6%)</td><td char="." align="char"/></tr><tr><td align="left"> Severe</td><td align="left">22 (15.9%)</td><td align="left">23 (33.3%)</td><td char="." align="char"/></tr><tr><td align="left">PPD ≥ 4 mm (%)</td><td align="left">2.1 (0.0, 6.0)</td><td align="left">6.3 (2.0, 16.7)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">BOP (%)</td><td align="left">5.8 (2.4, 11.9)</td><td align="left">15.6 (6.7, 29.6)</td><td char="." align="char"> &lt; 0.001</td></tr><tr><td align="left">Number of <italic>P.gingivalis</italic> (/ml, log10)</td><td align="left">5.3 ± 1.0</td><td align="left">5.1 ± 1.0</td><td char="." align="char">0.28</td></tr><tr><td align="left" colspan="4"><bold>3-year follow up</bold></td></tr><tr><td align="left">Deceased</td><td align="left">14 (10.1%)</td><td align="left">24 (34.8%)</td><td char="." align="char"> &lt; 0.001</td></tr></tbody></table><table-wrap-foot><p>The subjects were divided into the top and lower two tertiles of DI-S score (T3 group vs. T1-2 group). Values are shown as n (%), mean ± SD, or med (25%, 75%) as appropriate.</p><p>BMI, body mass index; BOP, bleeding on probing; BP, blood pressure; CVD, cardiovascular disease; DI-S, simplified debris index; hsCRP, high-sensitivity C-reactive protein; PPD, probing pocket depth; T, tertile.</p></table-wrap-foot></table-wrap></p>
+                <p id="Par10">The Cox proportional hazards analysis of the univariate model showed that a current smoking habit, history of a prior CVD event, a low albumin level, and a high hsCRP level showed significant HRs associated with the baseline parameters with a 3-year risk of death due to all causes (Table <xref rid="Tab3" ref-type="table">3</xref>). The number of remaining teeth, filled teeth, decayed teeth, DI-S (T3 vs. T1-2), and frequency of daily brushing were significantly associated with the risk of all-cause death in HD patients. Periodontal disease parameters such as the full-mouth ratio of probing pocket depth (PPD) ≥ 4 mm sites, bleeding on probing (BOP)-positive sites, and presence of <italic>P. gingivalis</italic> were not associated (Table <xref rid="Tab3" ref-type="table">3</xref>). The Cox proportional hazards analysis of the multivariate models is shown in Table <xref rid="Tab4" ref-type="table">4</xref>. Model 1 was adjusted for confounding factors such as age, sex, smoking habit, body mass index, the presence of DM. Model 2 was adjusted for above cofounders and number of teeth on the explanatory factors which were assumed to cofound with the number of teeth. Model 3 was adjusted for conventionally-reported risk factors such as prior CVD event, serum hsCRP and albumin level were added in model 1. Multivariate model 3, as well as model 1 and 2, demonstrated that the top tertile of baseline DI-S significantly increased the risk of all-cause death in HD patients after adjustment for age, sex, smoking habit, BMI, DM, serum hsCRP level, albumin, and number of remaining teeth (hazard ratio [HR], 3.04; 95% confidence interval [CI], 1.50.6.17; <italic>p</italic> = 0.002) (Table <xref rid="Tab4" ref-type="table">4</xref>). The number of decayed teeth also significantly increased the HR to 1.21 (95% CI, 1.06.1.37; <italic>p</italic> = 0.003). The proportional hazards assumption was confirmed using graphical diagnostics based on scaled Schoenfeld residuals and log–log survival curves. The test for multivariate model 3 is shown in Supplemental Fig. <xref rid="MOESM1" ref-type="media">1</xref>.<table-wrap id="Tab3"><label>Table 3</label><caption><p>Cox proportional HRs associating baseline parameters with 3-year risk of death due to all causes.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left" colspan="3">Univariate model</th></tr><tr><th align="left">HR</th><th align="left">95%CI</th><th align="left">p-value</th></tr></thead><tbody><tr><td align="left">Male</td><td align="left">0.90</td><td align="left">0.46–1.73</td><td align="left">0.75</td></tr><tr><td align="left">Age (per years)</td><td align="left">1.05</td><td align="left">1.01–1.08</td><td align="left">0.01</td></tr><tr><td align="left" colspan="4">Smoking</td></tr><tr><td align="left"> Non-smoker</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left"> Past-smoker</td><td align="left">1.09</td><td align="left">0.53–2.24</td><td align="left">0.81</td></tr><tr><td align="left"> Current-smoker</td><td align="left">1.68</td><td align="left">0.70–4.00</td><td align="left">0.24</td></tr><tr><td align="left" colspan="4">BMI (kg/m<sup>2</sup>)</td></tr><tr><td align="left">  &lt; 18.5</td><td align="left">2.21</td><td align="left">1.12–4.36</td><td align="left">0.02</td></tr><tr><td align="left"> 18.5–24.9</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left">  ≥ 25</td><td align="left">0.36</td><td align="left">0.09–1.55</td><td align="left">0.17</td></tr><tr><td align="left">Hemodialysis vintage (per month)</td><td align="left">1.00</td><td align="left">0.99–1.00</td><td align="left">0.51</td></tr><tr><td align="left">Diabetes mellitus</td><td align="left">1.69</td><td align="left">0.88–3.24</td><td align="left">0.12</td></tr><tr><td align="left">Duration of DM (per year)<sup>a</sup></td><td align="left">1.02</td><td align="left">0.97–1.06</td><td align="left">0.50</td></tr><tr><td align="left">Prior CVD event</td><td align="left">3.07</td><td align="left">1.62–5.81</td><td align="left">0.001</td></tr><tr><td align="left">White Blood Cell (per 10<sup>3</sup>/μL)</td><td align="left">1.17</td><td align="left">1.03–1.34</td><td align="left">0.02</td></tr><tr><td align="left">Albumin (per g/dL)</td><td align="left">0.10</td><td align="left">0.04–0.21</td><td align="left"> &lt; 0.001</td></tr><tr><td align="left">hsCRP (per mg/dL)</td><td align="left">1.94</td><td align="left">1.61–2.35</td><td align="left"> &lt; 0.001</td></tr><tr><td align="left" colspan="4"><bold>Dental status</bold></td></tr><tr><td align="left">Number of teeth (per tooth)</td><td align="left">0.94</td><td align="left">0.90–0.98</td><td align="left">0.003</td></tr><tr><td align="left">Number of decayed teeth (per tooth)</td><td align="left">1.18</td><td align="left">1.07–1.31</td><td align="left">0.002</td></tr><tr><td align="left">Number of filled teeth (per tooth)</td><td align="left">0.90</td><td align="left">0.84–0.97</td><td align="left">0.004</td></tr><tr><td align="left" colspan="4"><bold>Oral hygiene status</bold></td></tr><tr><td align="left">DI-S (T3 versus T1-2)</td><td align="left">3.78</td><td align="left">1.95–7.30</td><td align="left"> &lt; 0.001</td></tr><tr><td align="left" colspan="4">Frequency of tooth brushing (per time/day)</td></tr><tr><td align="left">  &lt; 2</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left"> ≥ 2</td><td align="left">0.47</td><td align="left">0.25–0.90</td><td align="left">0.022</td></tr><tr><td align="left">Use of interdental cleaning tools</td><td align="left">0.46</td><td align="left">0.18–1.17</td><td align="left">0.10</td></tr><tr><td align="left" colspan="4"><bold>Periodontal parameters</bold></td></tr><tr><td align="left" colspan="4">Severity of periodontitis</td></tr><tr><td align="left"> Healthy</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left"> Mild</td><td align="left">2.64</td><td align="left">0.33–19.42</td><td align="left">0.33</td></tr><tr><td align="left"> Moderate</td><td align="left">1.83</td><td align="left">0.24–14.11</td><td align="left">0.56</td></tr><tr><td align="left"> Severe</td><td align="left">3.52</td><td align="left">0.46–27.10</td><td align="left">0.23</td></tr><tr><td align="left" colspan="4">PPD ≥ 4 mm (%)</td></tr><tr><td align="left">  &lt; 10</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left"> ≥ 10</td><td align="left">1.86</td><td align="left">0.95–3.64</td><td align="left">0.07</td></tr><tr><td align="left" colspan="4">BOP (%)</td></tr><tr><td align="left">  &lt; 10</td><td align="left">Ref</td><td align="left">–</td><td align="left">–</td></tr><tr><td align="left"> ≥ 10</td><td align="left">1.48</td><td align="left">0.78–2.80</td><td align="left">0.23</td></tr><tr><td align="left">Number of <italic>P.gingivalis</italic> (per numbers/ml, log10)</td><td align="left">1.30</td><td align="left">0.81–2.08</td><td align="left">0.28</td></tr></tbody></table><table-wrap-foot><p>BMI, body mass index; BOP, bleeding on probing; BP, blood pressure; CVD, cardiovascular disease; DI-S, simplified debris index; hsCRP, high-sensitivity C-reactive protein; PPD, probing pocket depth; Ref, reference.</p><p><sup>a</sup>Records only for subjects with diabetes (n = 101).</p><p><sup>b</sup>Records only for subjects who <italic>P. gingivalis</italic> was detected (n = 115).</p></table-wrap-foot></table-wrap><table-wrap id="Tab4"><label>Table 4</label><caption><p>Cox proportional hazard ratios associating baseline dental parameters with a 3-year risk of all-cause mortality: proportional hazards analysis using a multivariate model.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Variable (unit of increase)</th><th align="left" colspan="2">Univariate model</th><th align="left" colspan="2">Multivariate model 1</th><th align="left" colspan="2">Multivariate model 2</th><th align="left" colspan="2">Multivariate model 3</th></tr><tr><th align="left">HR (95% CI)</th><th align="left"><italic>p</italic> value</th><th align="left">HR (95% CI)</th><th align="left"><italic>p</italic> value</th><th align="left">HR (95% CI)</th><th align="left"><italic>p</italic> value</th><th align="left">HR (95% CI)</th><th align="left"><italic>p</italic> value</th></tr></thead><tbody><tr><td align="left" colspan="9"><bold>Dental status</bold></td></tr><tr><td align="left">Number of teeth (1 tooth)</td><td char="." align="char">0.94 (0.90, 0.98)</td><td char="." align="char">0.003</td><td char="." align="char">0.97 (0.93, 1.02)</td><td char="." align="char">0.300</td><td align="left">–</td><td align="left">–</td><td char="." align="char">1.00 (0.95, 1.05)</td><td char="." align="char">0.920</td></tr><tr><td align="left">Number of decayed teeth (1 tooth)</td><td char="." align="char">1.18 (1.07, 1.31)</td><td char="." align="char">0.002</td><td char="." align="char">1.21 (1.09, 1.35)</td><td char="." align="char"> &lt; 0.001</td><td align="left">1.23 (1.09, 1.37)</td><td align="left"> &lt; 0.001</td><td char="." align="char">1.21 (1.06, 1.37)</td><td char="." align="char">0.003</td></tr><tr><td align="left" colspan="9"><bold>Oral hygiene status</bold></td></tr><tr><td align="left">Tooth brushing (twice or more a day)</td><td char="." align="char">0.47 (0.25, 0.90)</td><td char="." align="char">0.022</td><td char="." align="char">0.46 (0.23, 0.96)</td><td char="." align="char">0.038</td><td align="left">0.48 (0.23, 1.00)</td><td align="left">0.049</td><td char="." align="char">0.61 (0.28, 1.34)</td><td char="." align="char">0.216</td></tr><tr><td align="left">Use of interdental cleaning tools</td><td char="." align="char">0.46 (0.18, 1.17)</td><td char="." align="char">0.104</td><td char="." align="char">0.48 (0.19, 1.27)</td><td char="." align="char">0.141</td><td align="left">0.84 (0.30, 2.34)</td><td align="left">0.744</td><td char="." align="char">0.84 (0.31, 2.29)</td><td char="." align="char">0.734</td></tr><tr><td align="left">DI-S (T3 versus T1-2)</td><td char="." align="char">3.78 (1.95, 7.30)</td><td char="." align="char">0.000</td><td char="." align="char">3.40 (1.69, 6.83)</td><td char="." align="char">0.001</td><td align="left">3.63 (1.70, 7.75)</td><td align="left">0.001</td><td char="." align="char">3.04 (1.50, 6.17)</td><td char="." align="char">0.002</td></tr><tr><td align="left" colspan="9"><bold>Periodontal status</bold></td></tr><tr><td align="left">PPD ≥ 4 mm (10% or more)</td><td char="." align="char">1.86 (0.95, 3.64)</td><td char="." align="char">0.069</td><td char="." align="char">1.70 (0.84, 3.45)</td><td char="." align="char">0.141</td><td align="left">–</td><td align="left">–</td><td char="." align="char">1.43 (0.69, 2.94)</td><td char="." align="char">0.332</td></tr><tr><td align="left">BOP (10% or more)</td><td char="." align="char">1.48 (0.78, 2.80)</td><td char="." align="char">0.227</td><td char="." align="char">1.46 (0.75, 2.82)</td><td char="." align="char">0.266</td><td align="left">–</td><td align="left">–</td><td char="." align="char">1.96 (0.97, 3.98)</td><td char="." align="char">0.062</td></tr><tr><td align="left">Severe periodontitis</td><td char="." align="char">1.71 (0.87, 3.40)</td><td char="." align="char">0.122</td><td char="." align="char">1.33 (0.66, 2.71)</td><td char="." align="char">0.430</td><td align="left">–</td><td align="left">–</td><td char="." align="char">1.27 (0.61, 2.65)</td><td char="." align="char">0.517</td></tr></tbody></table><table-wrap-foot><p>Model 1: Each variable was adjusted for confounding factors: age, sex, current smoking, body mass index, and presence of diabetes.</p><p>Model 2: The explanatory factors assumed to coincide with the number of teeth were adjusted for Model 1 + number of teeth.</p><p>Model 3: Model 1 + Prior cardiovascular disease event + Albumin + high-sensitivity C-reactive protein.</p><p>BOP, bleeding on probing; DI-S, simplified debris index; PPD, probing pocket depth.</p><p>Hazard ratios are presented with 95% CI and P value.</p></table-wrap-foot></table-wrap></p>
+              </sec>
+            </sec>
+            <sec id="Sec6">
+              <title>Discussion</title>
+              <p id="Par11">To the best of our knowledge, this is the first report to show that dental plaque accumulation and decayed teeth can significantly affect the mortality rate of HD patients, even after adjustment for confounders. We hypothesized that untreated caries, periodontal disease, and poor oral hygiene were exposure factors, and assumed that age, sex, smoking, BMI, number of remaining teeth, and diabetes were confounding factors for the outcome of mortality. Furthermore, untreated caries and DI-S remained significant explanatory variables even after adjusting for previously known risk factors such as a history of CVD, low levels of albumin, and elevated hsCRP levels. Therefore, we considered that there is a significant correlation between both untreated caries and DI-S and the mortality of dialysis patients. However, no rational explanation can be provided from existing evidence regarding the mechanism by which DI-S and untreated caries affect mortality in dialysis patients, except for the pathways involved in a history of CVD or elevated hsCRP levels. Therefore, we consider that DI-S and untreated caries may be markers that influence mortality. However, factors such as access to dental care, health literacy, and socioeconomic factors could not be measured at this time. It is probable that poor oral hygiene, which is caused by insufficient brushing and untreated decay, might be notable aspects of a low level of health consciousness. Indeed, a recent large-scale investigation suggested that improved oral hygiene is positively associated with the decreased occurrence of new-onset diabetes<sup><xref ref-type="bibr" rid="CR21">21</xref></sup>. Oral hygiene behaviors such as frequency of brushing and use of dental floss were reported to affect the mortality of HD patients in a previous report<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. Although the frequency of brushing and use of interdental cleaning tools were associated with the risk of all-cause death in the univariate hazards analysis in this study, the multivariate model did not demonstrate a statistically significant association.</p>
+              <p id="Par12">The plaque control that we focus on in this study is known to be difficult to improve unless continuous strict instructions are provided<sup><xref ref-type="bibr" rid="CR22">22</xref></sup>. Poor plaque control levels may recur even after repeated oral hygiene instruction<sup><xref ref-type="bibr" rid="CR23">23</xref>,<xref ref-type="bibr" rid="CR24">24</xref></sup>. Therefore, it is assumed that the exposure factor of poor oral hygiene is maintained to some extent during the observation period. In this study, DI-S was used as an index for plaque control. This index is a parameter that can easily evaluate the state of oral cleaning without burdening the patient<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. It is used as an index for adult brushing instruction, and there is a report that oral hygiene instruction improved the average score from 1.8 to 1.1–1.3<sup><xref ref-type="bibr" rid="CR26">26</xref></sup>. In this study, 1.2 is set as the boundary value, which is considered to be a valid threshold for oral hygiene. The results of this study suggest that remaining dental plaque, not plaque-induced periodontal disease, is a substantial risk factor for mortality. Controversy persists as to whether periodontal disease affects the mortality rate of HD patients<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR11">11</xref>,<xref ref-type="bibr" rid="CR13">13</xref></sup>. Poor oral hygiene caused by dental plaque accumulation has been reported to be a risk factor for pneumonia<sup><xref ref-type="bibr" rid="CR27">27</xref>,<xref ref-type="bibr" rid="CR28">28</xref></sup>, CVD<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>, and endothelial dysfunction<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>. We considered that accumulated dental plaque might cause systemic inflammation that can lead to the occurrence of critical CVD events<sup><xref ref-type="bibr" rid="CR31">31</xref></sup> or infections through three possible pathways. First, bacteremia caused by daily oral activities such as tooth brushing or chewing<sup><xref ref-type="bibr" rid="CR32">32</xref></sup> is more likely to occur as the amount of accumulated dental plaque increases<sup><xref ref-type="bibr" rid="CR33">33</xref>,<xref ref-type="bibr" rid="CR34">34</xref></sup>. In particular, people with poor oral hygiene may be exposed to minor and daily bacteremia, which can cause a systemic inflammatory burden. Periodontal disease contributes to the cumulative long-term inflammatory burden by systemically disseminating inflammatory mediators generated during local inflammatory responses to periodontal pathogens<sup><xref ref-type="bibr" rid="CR35">35</xref></sup>. The second possibility is aspiration pneumonia caused by the aspiration of oral bacteria, as the risk of aspiration pneumonia increases with the amount of dental plaque<sup><xref ref-type="bibr" rid="CR36">36</xref></sup>. A previous prospective cohort study in Japan revealed that periodontal disease is independently associated with pneumonia mortality in hemodialysis patients<sup><xref ref-type="bibr" rid="CR11">11</xref></sup>. The other possibility is dysbiosis caused by the swallowing of oral bacteria. Recently, it has been shown that changes in the structure and function of the intestinal microbiota affect the entire body, such as disorders of the immune system. For example, the repeated swallowing of <italic>P. gingivalis</italic> may cause intestinal dysbiosis<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>. However, the detection of <italic>P. gingivalis</italic> was not a significant predictor of all-cause mortality in the present study. Therefore, further microbiological investigations are required.</p>
+              <p id="Par13">The periodontal parameters were not significantly associated with mortality. Periodontal disease is generally an irreversible disease with active and stable phases. Inflammation of the periodontal tissue is more pronounced in the active phase. The case definition of periodontal disease or periodontal pocket depth describes irreversible destruction of periodontal tissue, but does not indicate whether it is active or stable. To compensate for this ambiguity, this study uses BOP as a separate assessment of the inflammatory state of the gingiva. Previous studies have also been controversial with reports of significant or no significant association with periodontitis on the mortality of HD patients. Larger studies are needed to study the influence of periodontal inflammation in patients with HD.</p>
+              <p id="Par14">The limitations of this study were that it included the findings of a single dental examination measured during the follow-up period. In this study, the examination value at baseline was used as an explanatory variable. Although, the analysis assumes that these exposure factors continue to be equivalent during the observation period. Therefore, careful interpretation of the presented conclusion is required because of the substantial methodological weaknesses. The residual confounding may be a factor due to insufficient sample size and a broad range of clinical factors. As the study includes data from a single-center and an all-Japanese population, the presented analytical model is not applicable to other populations such as different regions or races. In addition, there may be unknown confounding factors, such as socioeconomic status and accessibility to dental care. A well-designed prospective intervention study is needed to validate our findings, which suggest that improved dental hygiene may prolong the life of HD patients.</p>
+              <p id="Par15">In conclusion, the present findings suggest that dental plaque accumulation and untreated decay are independently associated with all-cause mortality in HD patients. Because plaque accumulation levels can be improved with behavior modification by the patients themselves and the dental professions’ support, the present findings on DI-S may have certain clinical implications for the dental care of patients undergoing maintenance hemodialysis.</p>
+            </sec>
+            <sec id="Sec7">
+              <title>Materials and methods</title>
+              <sec id="Sec8">
+                <title>Study participants</title>
+                <p id="Par16">This study enrolled 266 patients with end-stage renal disease undergoing HD at an outpatient hemodialysis clinic located in the Tokyo metropolitan area in April 2015. All participants provided informed consent. The primary outcome measure was all-cause mortality from the time of baseline examination in the study. Participant survival rate was assessed based on medical records at a 3-year follow-up in April 2018. This study was approved by the Research Ethics Committee of Tokyo Medical and Dental University (D2014-126) and complied with the Declaration of Helsinki. This trial followed the CONSORT guidelines and is registered in the University Hospital Medical Information Network (UMIN) Clinical Trials Registry (UMIN000039845).</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Clinical examination and laboratory measurements</title>
+                <p id="Par17">We performed a medical interview, blood biochemical test including hsCRP level, blood pressure measurement, and physical measurements. A thorough medical history was taken at the time of the study enrollment by a trained physician. Prior CVD was defined as a medical history and clinical findings of coronary artery, cerebrovascular, and peripheral vascular diseases. The details have been described in our previous study<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>.</p>
+                <p id="Par18">A comprehensive dental examination was performed. The number of remaining teeth was recorded as it is not only an important factor in oral function but can also be a cumulative consequence of the progression of periodontal disease. To evaluate dental health, the number of decayed, missing, and filled teeth were recorded following the oral health assessment criteria by WHO as the DMFT index<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>. Oral hygiene status was evaluated according to the DI-S<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. Briefly, the six surfaces examined for the DI-S were selected from four posterior and two anterior teeth, known as the Ramfjord index teeth<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>, for periodontal screening. In the posterior dentition, the buccal surfaces of the upper first molars and the lingual surfaces of the first molar were screened, and at times the second molar was screened. In the anterior teeth, the labial surfaces of the upper right and the lower left central incisors were scored. In the absence of either of these anterior teeth, the central incisor on the opposite side of the midline was substituted. The criteria for classifying debris were 0, no debris; 1. debris covering not more than one-third of the tooth surface; 2. debris covering more than one-third, but not more than two-thirds; and 3. debris covering more than two-thirds of the exposed tooth surface. The average score of six possible surfaces was calculated. Periodontal examination of tooth mobility, PPD, clinical attachment level, and BOP at 6 sites on all residual teeth was performed with a manual probe (PCP‐UNC 15, Hu-Friedy, Chicago, IL) by experienced periodontists. Based on the periodontal examination findings, the periodontal case classification was diagnosed at the time of examination according to the Centers of Disease Control and Prevention / American Academy of Periodontology (CDC/AAP) case definition<sup><xref ref-type="bibr" rid="CR42">42</xref></sup>. Resting saliva was collected into a designated tray for 1 min to measure the number of <italic>P. gingivalis</italic> using real-time polymerase chain reaction (PCR)<sup><xref ref-type="bibr" rid="CR43">43</xref>,<xref ref-type="bibr" rid="CR44">44</xref></sup>. Samples were kept in a freezer at –80 °C until used for the extraction of bacterial DNA (QIAmp DNA Mini Kit; Quiagen, Valencia, CA, USA). The real-time PCR was performed using a PCR reaction mixture (Premix ExTaq, Takara-bio, Shiga, Japan) with the one cycle at 95 °C for 30 s followed by 40 cycles at 95 °C each for 5 s, and at 60 °C for 30 s (Thermal Cycler Dice Real Time System II, Takara-bio, Shiga, Japan). The primers and probe were below; Forward: 5′-TAGCTTGCTAAGGTCGATGG-3′, Reverse: 5′-CAAGTGTATGCGGTTTTAGT-3′, TaqMan Probe: FAM-TGCGTAACGCGTATGCAACTTGCC-TAMRA.</p>
+              </sec>
+              <sec id="Sec10">
+                <title>Statistical analysis</title>
+                <p id="Par19">All variables are expressed as numbers (percentages) for categorical data and as means ± SD or median and interquartile ranges for continuous data with and without a normal distribution, respectively. For analytical purposes, patients were stratified according to survivors and non-survivors, or their tertiles of DI-S levels. Differences between groups were assessed using t-test, Kruskal–Wallis test, Mann–Whitney test, or Fisher’s exact test, depending on the distribution (normal or skewed, respectively). Kaplan–Meier survival estimates were calculated based on dental markers. Significant differences were detected using the log-rank test for equality of survivor function. Univariate Cox proportional hazards analysis was used to examine the association of baseline variables with all-cause mortality. Multivariate-adjusted HR values were calculated after adjustment for confounders such as age, sex, smoking habit, body mass index (BMI), diabetes, prior CVD, HD vintage, hsCRP and albumin levels. The variables were applied based on the previous studies of multivariate models of all-cause mortality in HD patients<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>. Because the associations of BMI or DI-S with outcomes were not linear, these two explanatory variables were subjected to the Cox proportional hazard model as categorical variables. The proportional hazard assumption in the Cox models was tested. All <italic>p</italic> values were 2-sided, and those &lt; 0.05 were considered statistically significant. Statistical analysis was performed using a statistical software (STATA version 15.0; Stata, College Station, Texas, USA).</p>
+              </sec>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary information</title>
+              <sec id="Sec15">
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="41598_2020_78724_MOESM1_ESM.tif">
+                      <caption>
+                        <p>Supplementary Information 1.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                  <supplementary-material content-type="local-data" id="MOESM2">
+                    <media xlink:href="41598_2020_78724_MOESM2_ESM.docx">
+                      <caption>
+                        <p>Supplementary Information 2.</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher's note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+              <fn>
+                <p>These authors contributed equally: Koji Mizutani and Risako Mikami.</p>
+              </fn>
+            </fn-group>
+            <sec>
+              <title>Supplementary Information</title>
+              <p> The online version contains supplementary material available at 10.1038/s41598-020-78724-1.</p>
+            </sec>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>This study was supported by a Grant-in-Aid for Scientific Research from the Japan Society for the Promotion of Science (16K20666). The authors thank Drs. Kuniha Konuma, Naho Kobayashi, Yuka Shiheido, Wataru Ono, Hiroki Sato, and Rie Kawamura for their help in collecting the data.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>K.M., R.M., and T.G. contributed to conception, design, data acquisition, analysis, interpretation, and the drafting and critical revision of the manuscript; N.A. contributed to conception, data acquisition, analysis, and critical revision of the manuscript; H.G., T.M., D.K., and K.T. contributed to conception, data acquisition, and critical revision of the manuscript; Y.I. and T.I. contributed to conception, design, data interpretation, and the critical revision of the manuscript; Y.S. contributed to conception, design, data analysis, and the drafting and critical revision of the manuscript. All authors gave final approval and agreed to be accountable for all aspects of the work.</p>
+            </notes>
+            <notes id="FPar1" notes-type="COI-statement">
+              <title>Competing interests</title>
+              <p id="Par20">The authors declare no competing interests.</p>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Go</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Chertow</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Fan</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>McCulloch</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Hsu</surname>
+                      <given-names>CY</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Chronic kidney disease and the risks of death, cardiovascular events, and hospitalization</article-title>
+                  <source>N. Engl. J. Med.</source>
+                  <year>2004</year>
+                  <volume>351</volume>
+                  <fpage>1296</fpage>
+                  <lpage>1305</lpage>
+                  <pub-id pub-id-type="doi">10.1056/NEJMoa041031</pub-id>
+                  <?supplied-pmid 15385656?>
+                  <pub-id pub-id-type="pmid">15385656</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ma</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhao</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Risk factors for mortality in patients undergoing hemodialysis: a systematic review and meta-analysis</article-title>
+                  <source>Int. J. Cardiol.</source>
+                  <year>2017</year>
+                  <volume>238</volume>
+                  <fpage>151</fpage>
+                  <lpage>158</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.ijcard.2017.02.095</pub-id>
+                  <?supplied-pmid 28341375?>
+                  <pub-id pub-id-type="pmid">28341375</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Genco</surname>
+                      <given-names>RJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Van Dyke</surname>
+                      <given-names>TE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevention: reducing the risk of CVD in patients with periodontitis</article-title>
+                  <source>Nat. Rev. Cardiol.</source>
+                  <year>2010</year>
+                  <volume>7</volume>
+                  <fpage>479</fpage>
+                  <lpage>480</lpage>
+                  <pub-id pub-id-type="doi">10.1038/nrcardio.2010.120</pub-id>
+                  <?supplied-pmid 20725103?>
+                  <pub-id pub-id-type="pmid">20725103</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lockhart</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Periodontal disease and atherosclerotic vascular disease: Does the evidence support an independent association? A scientific statement from the American Heart Association</article-title>
+                  <source>Circulation</source>
+                  <year>2012</year>
+                  <volume>125</volume>
+                  <fpage>2520</fpage>
+                  <lpage>2544</lpage>
+                  <pub-id pub-id-type="doi">10.1161/CIR.0b013e31825719f3</pub-id>
+                  <?supplied-pmid 22514251?>
+                  <pub-id pub-id-type="pmid">22514251</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Graziani</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Gennai</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Solini</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Petrini</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A systematic review and meta-analysis of epidemiologic observational evidence on the effect of periodontitis on diabetes an update of the EFP-AAP review</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <fpage>167</fpage>
+                  <lpage>187</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12837</pub-id>
+                  <?supplied-pmid 29277926?>
+                  <pub-id pub-id-type="pmid">29277926</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lalla</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Papapanou</surname>
+                      <given-names>PN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Diabetes mellitus and periodontitis: a tale of two common interrelated diseases</article-title>
+                  <source>Nat. Rev. Endocrinol.</source>
+                  <year>2011</year>
+                  <volume>7</volume>
+                  <fpage>738</fpage>
+                  <lpage>748</lpage>
+                  <pub-id pub-id-type="doi">10.1038/nrendo.2011.106</pub-id>
+                  <?supplied-pmid 21709707?>
+                  <pub-id pub-id-type="pmid">21709707</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mizutani</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Mima</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Katagiri</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>King</surname>
+                      <given-names>GL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Obesity-associated gingival vascular inflammation and insulin resistance</article-title>
+                  <source>J. Dent. Res.</source>
+                  <year>2014</year>
+                  <volume>93</volume>
+                  <fpage>596</fpage>
+                  <lpage>601</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0022034514532102</pub-id>
+                  <?supplied-pmid 24744283?>
+                  <pub-id pub-id-type="pmid">24744283</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fisher</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>GW</given-names>
+                    </name>
+                    <name>
+                      <surname>West</surname>
+                      <given-names>BT</given-names>
+                    </name>
+                    <name>
+                      <surname>McCarthy</surname>
+                      <given-names>ET</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Bidirectional relationship between chronic kidney and periodontal disease: a study using structural equation modeling</article-title>
+                  <source>Kidney Int.</source>
+                  <year>2011</year>
+                  <volume>79</volume>
+                  <fpage>347</fpage>
+                  <lpage>355</lpage>
+                  <pub-id pub-id-type="doi">10.1038/ki.2010.384</pub-id>
+                  <?supplied-pmid 20927035?>
+                  <pub-id pub-id-type="pmid">20927035</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhao</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>T</italic>he directional and non-directional associations of periodontitis with chronic kidney disease: a systematic review and meta-analysis of observational studies</article-title>
+                  <source>J. Periodontal Res.</source>
+                  <year>2018</year>
+                  <volume>53</volume>
+                  <fpage>682</fpage>
+                  <lpage>704</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jre.12565</pub-id>
+                  <?supplied-pmid 29777531?>
+                  <pub-id pub-id-type="pmid">29777531</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>LP</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>R</italic>elationship between periodontal disease and mortality in patients treated with maintenance hemodialysis</article-title>
+                  <source>Am. J. Kidney Dis.</source>
+                  <year>2011</year>
+                  <volume>57</volume>
+                  <fpage>276</fpage>
+                  <lpage>282</lpage>
+                  <pub-id pub-id-type="doi">10.1053/j.ajkd.2010.09.016</pub-id>
+                  <?supplied-pmid 21177012?>
+                  <pub-id pub-id-type="pmid">21177012</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Iwasaki</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>P</italic>eriodontal disease and pneumonia mortality in haemodialysis patients: a 7-year cohort study</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2018</year>
+                  <volume>45</volume>
+                  <fpage>38</fpage>
+                  <lpage>45</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jcpe.12828</pub-id>
+                  <?supplied-pmid 28985442?>
+                  <pub-id pub-id-type="pmid">28985442</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kshirsagar</surname>
+                      <given-names>AV</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>P</italic>eriodontal disease adversely affects the survival of patients with end-stage renal disease</article-title>
+                  <source>Kidney Int.</source>
+                  <year>2009</year>
+                  <volume>75</volume>
+                  <fpage>746</fpage>
+                  <lpage>751</lpage>
+                  <pub-id pub-id-type="doi">10.1038/ki.2008.660</pub-id>
+                  <?supplied-pmid 19165177?>
+                  <pub-id pub-id-type="pmid">19165177</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ruospo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>P</italic>eriodontitis and early mortality among adults treated with hemodialysis: a multinational propensity-matched cohort study</article-title>
+                  <source>BMC Nephrol.</source>
+                  <year>2017</year>
+                  <volume>18</volume>
+                  <fpage>166</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12882-017-0574-x</pub-id>
+                  <?supplied-pmid 28532432?>
+                  <pub-id pub-id-type="pmid">28532432</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ruospo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>P</italic>revalence and severity of oral disease in adults with chronic kidney disease: a systematic review of observational studies</article-title>
+                  <source>Nephrol. Dial. Transplant.</source>
+                  <year>2014</year>
+                  <volume>29</volume>
+                  <fpage>364</fpage>
+                  <lpage>375</lpage>
+                  <pub-id pub-id-type="doi">10.1093/ndt/gft401</pub-id>
+                  <?supplied-pmid 24081863?>
+                  <pub-id pub-id-type="pmid">24081863</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Misaki</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Fukunaga</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Shimizu</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Ishikawa</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Nakano</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Possible link between dental diseases and arteriosclerosis in patients on hemodialysis</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2019</year>
+                  <volume>14</volume>
+                  <fpage>e0225038</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0225038</pub-id>
+                  <?supplied-pmid 31834880?>
+                  <pub-id pub-id-type="pmid">31834880</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bossola</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Xerostomia in patients on chronic hemodialysis: an update</article-title>
+                  <source>Semin. Dial.</source>
+                  <year>2019</year>
+                  <volume>32</volume>
+                  <fpage>467</fpage>
+                  <lpage>474</lpage>
+                  <pub-id pub-id-type="doi">10.1111/sdi.12821</pub-id>
+                  <?supplied-pmid 31117154?>
+                  <pub-id pub-id-type="pmid">31117154</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yoshioka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>F</italic>actors associated with regular dental visits among hemodialysis patients</article-title>
+                  <source>World J. Nephrol.</source>
+                  <year>2016</year>
+                  <volume>5</volume>
+                  <fpage>455</fpage>
+                  <lpage>460</lpage>
+                  <pub-id pub-id-type="doi">10.5527/wjn.v5.i5.455</pub-id>
+                  <?supplied-pmid 27648409?>
+                  <pub-id pub-id-type="pmid">27648409</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ziebolz</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Hornecker</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Mausberg</surname>
+                      <given-names>RF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral health of hemodialysis patients: a cross-sectional study at two German dialysis centers</article-title>
+                  <source>Hemodial. Int.</source>
+                  <year>2012</year>
+                  <volume>16</volume>
+                  <fpage>69</fpage>
+                  <lpage>75</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1542-4758.2011.00606.x</pub-id>
+                  <?supplied-pmid 22098671?>
+                  <pub-id pub-id-type="pmid">22098671</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Palmer</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Dental health and mortality in people with end-stage kidney disease treated with hemodialysis: a multinational cohort study</article-title>
+                  <source>Am. J. Kidney Dis.</source>
+                  <year>2015</year>
+                  <volume>66</volume>
+                  <fpage>666</fpage>
+                  <lpage>676</lpage>
+                  <pub-id pub-id-type="doi">10.1053/j.ajkd.2015.04.051</pub-id>
+                  <?supplied-pmid 26120038?>
+                  <pub-id pub-id-type="pmid">26120038</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Souza</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>A</italic>ssociation among oral health parameters, periodontitis, and its treatment and mortality in patients undergoing hemodialysis</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2014</year>
+                  <volume>85</volume>
+                  <fpage>e169</fpage>
+                  <lpage>178</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2013.130427</pub-id>
+                  <?supplied-pmid 24224959?>
+                  <pub-id pub-id-type="pmid">24224959</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chang</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>KJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Woo</surname>
+                      <given-names>HG</given-names>
+                    </name>
+                    <name>
+                      <surname>Song</surname>
+                      <given-names>TJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Improved oral hygiene is associated with decreased risk of new-onset diabetes: a nationwide population-based cohort study</article-title>
+                  <source>Diabetologia</source>
+                  <year>2020</year>
+                  <volume>63</volume>
+                  <fpage>924</fpage>
+                  <lpage>933</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00125-020-05112-9</pub-id>
+                  <?supplied-pmid 32128623?>
+                  <pub-id pub-id-type="pmid">32128623</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <mixed-citation publication-type="other">Preus, H. R., Al-Lami, Q. &amp; Baelum, V. Oral hygiene revisited. The clinical effect of a prolonged oral hygiene phase prior to periodontal therapy in periodontitis patients: a randomized clinical study. <italic>J. Clin. Periodontol.</italic><bold>47,</bold> 36–42. 10.1111/jcpe.13207 (2020).</mixed-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Stewart</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Wolfe</surname>
+                      <given-names>GR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The retention of newly-acquired brushing and flossing skills</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>1989</year>
+                  <volume>16</volume>
+                  <fpage>331</fpage>
+                  <lpage>332</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051x.1989.tb01664.x</pub-id>
+                  <?supplied-pmid 2723105?>
+                  <pub-id pub-id-type="pmid">2723105</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Renz</surname>
+                      <given-names>AN</given-names>
+                    </name>
+                    <name>
+                      <surname>Newton</surname>
+                      <given-names>JT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Changing the behavior of patients with periodontitis</article-title>
+                  <source>Periodontol.</source>
+                  <year>2009</year>
+                  <volume>51</volume>
+                  <fpage>252</fpage>
+                  <lpage>268</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0757.2009.00314.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Baram</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Karlsborg</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakke</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Improvement of oral function and hygiene in Parkinson's disease: a randomised controlled clinical trial</article-title>
+                  <source>J. Oral Rehabil.</source>
+                  <year>2020</year>
+                  <volume>47</volume>
+                  <fpage>370</fpage>
+                  <lpage>376</lpage>
+                  <pub-id pub-id-type="doi">10.1111/joor.12924</pub-id>
+                  <?supplied-pmid 31837276?>
+                  <pub-id pub-id-type="pmid">31837276</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bizarra</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Ribeiro</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Improving toothbrushing behaviour in an institution for the disabled in Lisbon Portugal</article-title>
+                  <source>Int. J. Dent. Hyg.</source>
+                  <year>2009</year>
+                  <volume>7</volume>
+                  <fpage>182</fpage>
+                  <lpage>187</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1601-5037.2009.00387.x</pub-id>
+                  <?supplied-pmid 19659714?>
+                  <pub-id pub-id-type="pmid">19659714</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mojon</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Budtz-Jorgensen</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Michel</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Limeback</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral health and history of respiratory tract infection in frail institutionalised elders</article-title>
+                  <source>Gerodontology</source>
+                  <year>1997</year>
+                  <volume>14</volume>
+                  <fpage>9</fpage>
+                  <lpage>16</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1741-2358.1997.00009.x</pub-id>
+                  <?supplied-pmid 9610298?>
+                  <pub-id pub-id-type="pmid">9610298</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Scannapieco</surname>
+                      <given-names>FA</given-names>
+                    </name>
+                    <name>
+                      <surname>Papandonatos</surname>
+                      <given-names>GD</given-names>
+                    </name>
+                    <name>
+                      <surname>Dunford</surname>
+                      <given-names>RG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Associations between oral conditions and respiratory disease in a national sample survey population</article-title>
+                  <source>Ann. Periodontol.</source>
+                  <year>1998</year>
+                  <volume>3</volume>
+                  <fpage>251</fpage>
+                  <lpage>256</lpage>
+                  <pub-id pub-id-type="doi">10.1902/annals.1998.3.1.251</pub-id>
+                  <?supplied-pmid 9722708?>
+                  <pub-id pub-id-type="pmid">9722708</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Oliveira</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Watt</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Hamer</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Toothbrushing, inflammation, and risk of cardiovascular disease: results from Scottish Health Survey</article-title>
+                  <source>BMJ</source>
+                  <year>2010</year>
+                  <volume>340</volume>
+                  <fpage>c2451</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.c2451</pub-id>
+                  <?supplied-pmid 20508025?>
+                  <pub-id pub-id-type="pmid">20508025</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kajikawa</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>P</italic>oor oral health, that is, decreased frequency of tooth brushing, is associated with endothelial dysfunction</article-title>
+                  <source>Circ. J.</source>
+                  <year>2014</year>
+                  <volume>78</volume>
+                  <fpage>950</fpage>
+                  <lpage>954</lpage>
+                  <pub-id pub-id-type="doi">10.1253/circj.cj-13-1330</pub-id>
+                  <?supplied-pmid 24500034?>
+                  <pub-id pub-id-type="pmid">24500034</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>De Angelis</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>I</italic>nfluence of the oral status on cardiovascular diseases in an older Italian population</article-title>
+                  <source>Int. J. Immunopathol. Pharmacol.</source>
+                  <year>2018</year>
+                  <volume>32</volume>
+                  <fpage>394632017751786</fpage>
+                  <pub-id pub-id-type="doi">10.1177/0394632017751786</pub-id>
+                  <?supplied-pmid 29363361?>
+                  <pub-id pub-id-type="pmid">29363361</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lockhart</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>B</italic>acteremia associated with toothbrushing and dental extraction</article-title>
+                  <source>Circulation</source>
+                  <year>2008</year>
+                  <volume>117</volume>
+                  <fpage>3118</fpage>
+                  <lpage>3125</lpage>
+                  <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.758524</pub-id>
+                  <?supplied-pmid 18541739?>
+                  <pub-id pub-id-type="pmid">18541739</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <mixed-citation publication-type="other">Lockhart, P. B. e<italic>t al. P</italic>oor oral hygiene as a risk factor for infective endocarditis-related bacteremia. <italic>J. Am. Dent. Assoc.</italic><bold>140,</bold> 1238–1244. 10.14219/jada.archive.2009.0046 (2009).</mixed-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tomas</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Diz</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Tobias</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Scully</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Donos</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontal health status and bacteraemia from daily oral activities: systematic review/meta-analysis</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>2012</year>
+                  <volume>39</volume>
+                  <fpage>213</fpage>
+                  <lpage>228</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01784.x</pub-id>
+                  <?supplied-pmid 22092606?>
+                  <pub-id pub-id-type="pmid">22092606</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Beck</surname>
+                      <given-names>JD</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>A</italic>ssociations between IgG antibody to oral organisms and carotid intima-medial thickness in community-dwelling adults</article-title>
+                  <source>Atherosclerosis</source>
+                  <year>2005</year>
+                  <volume>183</volume>
+                  <fpage>342</fpage>
+                  <lpage>348</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.atherosclerosis.2005.03.017</pub-id>
+                  <?supplied-pmid 15893320?>
+                  <pub-id pub-id-type="pmid">15893320</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yoneyama</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoshida</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Matsui</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Sasaki</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Oral care and pneumonia Oral Care Working Group</article-title>
+                  <source>Lancet</source>
+                  <year>1999</year>
+                  <volume>354</volume>
+                  <fpage>515</fpage>
+                  <pub-id pub-id-type="doi">10.1016/s0140-6736(05)75550-1</pub-id>
+                  <?supplied-pmid 10465203?>
+                  <pub-id pub-id-type="pmid">10465203</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Hajishengallis</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Periodontitis: from microbial immune subversion to systemic inflammation</article-title>
+                  <source>Nat. Rev. Immunol.</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <fpage>30</fpage>
+                  <lpage>44</lpage>
+                  <pub-id pub-id-type="doi">10.1038/nri3785</pub-id>
+                  <?supplied-pmid 25534621?>
+                  <pub-id pub-id-type="pmid">25534621</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gohda</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Circulating TNF receptors 1 and 2 predict mortality in patients with end-stage renal disease undergoing dialysis</article-title>
+                  <source>Sci. Rep.</source>
+                  <year>2017</year>
+                  <volume>7</volume>
+                  <fpage>43520</fpage>
+                  <pub-id pub-id-type="doi">10.1038/srep43520</pub-id>
+                  <?supplied-pmid 28256549?>
+                  <pub-id pub-id-type="pmid">28256549</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <mixed-citation publication-type="other">Petersen, P. E. B., Ramon J; World Health Organization. In <italic>Oral Health Surveys: Basic Methods</italic>, 5th edn (World Health Organization, 2013).</mixed-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <mixed-citation publication-type="other">Greene, J. C. &amp; Vermillion, J. R. The simplified oral hygiene index. <italic>J. Am. Dent. Assoc.</italic><bold>68,</bold> 7–13. 10.14219/jada.archive.1964.0034 (1964).</mixed-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rams</surname>
+                      <given-names>TE</given-names>
+                    </name>
+                    <name>
+                      <surname>Oler</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Listgarten</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Slots</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Utility of Ramfjord index teeth to assess periodontal disease progression in longitudinal studies</article-title>
+                  <source>J. Clin. Periodontol.</source>
+                  <year>1993</year>
+                  <volume>20</volume>
+                  <fpage>147</fpage>
+                  <lpage>150</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-051x.1993.tb00330.x</pub-id>
+                  <?supplied-pmid 8436634?>
+                  <pub-id pub-id-type="pmid">8436634</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Page</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                    <name>
+                      <surname>Eke</surname>
+                      <given-names>PI</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Case definitions for use in population-based surveillance of periodontitis</article-title>
+                  <source>J. Periodontol.</source>
+                  <year>2007</year>
+                  <volume>78</volume>
+                  <fpage>1387</fpage>
+                  <lpage>1399</lpage>
+                  <pub-id pub-id-type="doi">10.1902/jop.2007.060264</pub-id>
+                  <?supplied-pmid 17608611?>
+                  <pub-id pub-id-type="pmid">17608611</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thanakun</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Pornprasertsuk-Damrongsri</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Gokyu</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kobayashi</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Izumi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Inverse association of plasma IgG antibody to aggregatibacter actinomycetemcomitans and high C-reactive protein levels in patients with metabolic syndrome and periodontitis</article-title>
+                  <source>PLoS ONE</source>
+                  <year>2016</year>
+                  <volume>11</volume>
+                  <fpage>e0148638</fpage>
+                  <pub-id pub-id-type="doi">10.1371/journal.pone.0148638</pub-id>
+                  <?supplied-pmid 26871443?>
+                  <pub-id pub-id-type="pmid">26871443</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mikami</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title><italic>A</italic>ssociation between circulating tumor necrosis factor receptors and oral bacterium in patients receiving hemodialysis: a cross-sectional study</article-title>
+                  <source>Clin. Exp. Nephrol.</source>
+                  <year>2020</year>
+                  <pub-id pub-id-type="doi">10.1007/s10157-020-01952-2</pub-id>
+                  <?supplied-pmid 32816134?>
+                  <pub-id pub-id-type="pmid">32816134</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

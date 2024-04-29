@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:48:00Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:3196725" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:3196725</identifier>
+        <datestamp>2011-10-20</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article">
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC3196725</article-id>
+              <article-id pub-id-type="pmcid">PMC3196725</article-id>
+              <article-id pub-id-type="pmc-uid">3196725</article-id>
+              <article-id pub-id-type="pmid">21985746</article-id>
+              <article-id pub-id-type="publisher-id">1472-6831-11-27</article-id>
+              <article-id pub-id-type="pmid">21985746</article-id>
+              <article-id pub-id-type="doi">10.1186/1472-6831-11-27</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Protocol for Northern Ireland Caries Prevention in Practice Trial (NIC-PIP) trial: a randomised controlled trial to measure the effects and costs of a dental caries prevention regime for young children attending primary care dental services</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" id="A1">
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>Martin</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>martin.tickle@manchester.ac.uk</email>
+                </contrib>
+                <contrib contrib-type="author" id="A2">
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>Keith M</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>keith.milsom@hsthpct.nhs.uk</email>
+                </contrib>
+                <contrib contrib-type="author" id="A3">
+                  <name>
+                    <surname>Donaldson</surname>
+                    <given-names>Michael</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I2">2</xref>
+                  <email>Michael.Donaldson@hscni.net</email>
+                </contrib>
+                <contrib contrib-type="author" id="A4">
+                  <name>
+                    <surname>Killough</surname>
+                    <given-names>Seamus</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I3">3</xref>
+                  <email>sbkilldent@hotmail.com</email>
+                </contrib>
+                <contrib contrib-type="author" id="A5">
+                  <name>
+                    <surname>O'Neill</surname>
+                    <given-names>Ciaran</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I4">4</xref>
+                  <email>ciaran.oneill@nuigalway.ie</email>
+                </contrib>
+                <contrib contrib-type="author" id="A6">
+                  <name>
+                    <surname>Crealey</surname>
+                    <given-names>Grainne</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I5">5</xref>
+                  <email>Grainne.crealey@crsc.n-i.nhs.uk</email>
+                </contrib>
+                <contrib contrib-type="author" id="A7">
+                  <name>
+                    <surname>Sutton</surname>
+                    <given-names>Matthew</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I6">6</xref>
+                  <email>matt.sutton@manchester.ac.uk</email>
+                </contrib>
+                <contrib contrib-type="author" id="A8">
+                  <name>
+                    <surname>Noble</surname>
+                    <given-names>Solveig</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I7">7</xref>
+                  <email>Solveig.Noble@northerntrust.hscni.net</email>
+                </contrib>
+                <contrib contrib-type="author" id="A9">
+                  <name>
+                    <surname>Greer</surname>
+                    <given-names>Margaret</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I5">5</xref>
+                  <xref ref-type="aff" rid="I7">7</xref>
+                  <email>MargaretGreer@crsc.n-i.nhs.uk</email>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes" id="A10">
+                  <name>
+                    <surname>Worthington</surname>
+                    <given-names>Helen V</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="I1">1</xref>
+                  <email>Helen.Worthington@manchester.ac.uk</email>
+                </contrib>
+              </contrib-group>
+              <aff id="I1"><label>1</label>School of Dentistry, the University of Manchester, Oxford Road, Manchester, M13 9PL, UK</aff>
+              <aff id="I2"><label>2</label>Health and Social Care Board, County Hall. 182 Galgorm Road, Ballymena, County Antrim, Northern Ireland, BT42 1QB, UK</aff>
+              <aff id="I3"><label>3</label>British Dental Association, 2 Woodstock Link, Belfast, County Antrim, Northern Ireland, BT6 8DD, UK</aff>
+              <aff id="I4"><label>4</label>Department of Economics, National University of Ireland, University Road Galway, County Galway, Ireland</aff>
+              <aff id="I5"><label>5</label>Northern Ireland Clinical Research Support Centre, Education and Research Centre, Royal Group of Hospitals Trust, Grosvenor Road, Belfast, Northern Ireland, BT12 6BA, UK</aff>
+              <aff id="I6"><label>6</label>School of Community Based Medicine, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK</aff>
+              <aff id="I7"><label>7</label>Northern Health and Social Care Trust, Greenmount Avenue, Ballymena, County Antrim, Northern Ireland, BT43 6DA, UK</aff>
+              <pub-date pub-type="collection">
+                <year>2011</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>10</day>
+                <month>10</month>
+                <year>2011</year>
+              </pub-date>
+              <volume>11</volume>
+              <fpage>27</fpage>
+              <lpage>27</lpage>
+              <history>
+                <date date-type="received">
+                  <day>22</day>
+                  <month>7</month>
+                  <year>2011</year>
+                </date>
+                <date date-type="accepted">
+                  <day>10</day>
+                  <month>10</month>
+                  <year>2011</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>Copyright ©2011 Tickle et al; licensee BioMed Central Ltd.</copyright-statement>
+                <copyright-year>2011</copyright-year>
+                <copyright-holder>Tickle et al; licensee BioMed Central Ltd.</copyright-holder>
+                <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0">
+                  <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/2.0">http://creativecommons.org/licenses/by/2.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:href="http://www.biomedcentral.com/1472-6831/11/27"/>
+              <abstract>
+                <sec>
+                  <title>Background</title>
+                  <p>Dental caries is a persistent public health problem with little change in the prevalence in young children over the last 20 years. Once a child contracts the disease it has a significant impact on their quality of life. There is good evidence from Cochrane reviews including trials that fluoride varnish and regular use of fluoride toothpaste can prevent caries.</p>
+                  <p>The Northern Ireland Caries Prevention in Practice Trial (NIC-PIP) trial will compare the costs and effects of a caries preventive package (fluoride varnish, toothpaste, toothbrush and standardised dental health education) with dental health education alone in young children.</p>
+                </sec>
+                <sec>
+                  <title>Methods/Design</title>
+                  <p>A randomised controlled trial on children initially aged 2 and 3 years old who are regular attenders at the primary dental care services in Northern Ireland. Children will be recruited and randomised in dental practices. Children will be randomised to the prevention package of both fluoride varnish (twice per year for three years), fluoride toothpaste (1,450 ppm F) (supplied twice per year), a toothbrush (supplied twice a year) or not; both test and control groups receive standardised dental health education delivered by the dentist twice per year. Randomisation will be conducted by the Belfast Trust Clinical Research Support Centre ([CRSC] a Clinical Trials Unit).</p>
+                  <p>1200 participants will be recruited from approximately 40 dental practices. Children will be examined for caries by independent dental examiners at baseline and will be excluded if they have caries. The independent dental examiners will examine the children again at 3 years blinded to study group.</p>
+                  <p>The primary end-point is whether the child develops caries (cavitation into dentine) or not over the three years. One secondary outcome is the number of carious surfaces in the primary dentition in children who experience caries. Other secondary outcomes are episodes of pain, extraction of primary teeth, other adverse events and costs which will be obtained from parental questionnaires.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p>This is a pragmatic trial conducted in general dental practice. It tests a composite caries prevention intervention, which represents an evidence based approach advocated by current guidance from the English Department of Health which is feasible to deliver to all low risk (caries free) children in general dental practice. The trial will provide valuable information to policy makers and clinicians on the costs and effects of caries prevention delivered to young children in general dental practice.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p>EudraCT No: 2009 - 010725 - 39</p>
+                  <p>ISRCTN: <ext-link ext-link-type="uri" xlink:href="http://www.controlled-trials.com/ISRCTN36180119">ISRCTN36180119</ext-link></p>
+                  <p>Ethics Reference No: 09/H1008/93:</p>
+                </sec>
+              </abstract>
+            </article-meta>
+          </front>
+          <body>
+            <sec>
+              <title>Background</title>
+              <p>Although dental caries is a preventable disease it is a persistent public health problem, with little change in the prevalence in young children over the last 20 years [<xref ref-type="bibr" rid="B1">1</xref>]. Caries is closely associated with social deprivation resulting in large geographical and social inequalities across the UK. The last national child dental health survey [<xref ref-type="bibr" rid="B1">1</xref>] showed that in 2003 43% and 61% of 5-year-olds in England and Northern Ireland respectively had caries; 10 years earlier, the figures were 45% and 60%. Over the last 10 years the proportion of parents taking children under 3 years to the dentist increased from 42% to 54% [<xref ref-type="bibr" rid="B1">1</xref>]; evidently this favourable change in visiting patterns has not been translated into reduced levels of tooth decay in the population.</p>
+              <p>Few prospective studies have been undertaken to provide an understanding of how the disease behaves longitudinally [<xref ref-type="bibr" rid="B2">2</xref>] A recently completed prospective cohort study [<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B3">3</xref>] followed 739 children aged 3 to 6 years attending 50 dental practices in the North West of England over a 3 year period. This study demonstrated a stark difference between children who present with and without the disease at their first visit to the dentist. Over the study period 25% of caries free children developed caries, by contrast 72% of those with the disease at initial presentation developed further cavities. No matter what age a child contracted the disease it progressed at the same rapid rate. An important finding of this study was that more cases (children with caries) arose from the initially caries free population (N = 155, 21% of the total population and 25% of the population who were caries free at first attendance) than from those who present with the disease at their first visit to the dentist (N = 118, 16%). NHS Business Services Organisation (BSO) data shows that this situation is mirrored in Northern Ireland; 25% of 2-3-year-old children have the disease at initial presentation but 35% who are caries free at their first visit go on to develop the disease over a 3 year period. Once a child contracts the disease there is a significant impact on their quality of life and that of their family. Children with caries have an 18.8% chance each year of an unscheduled visit due to toothache and an 11% chance of an extraction each year [<xref ref-type="bibr" rid="B4">4</xref>]. As adverse outcomes are so common in children with the disease, the priority should be prevention, with a primary focus of maintaining the caries free children in that state. Dentists cannot prevent the disease starting in children who already have caries at their first visit; these children should be considered as a separate population; their dental care needs are quite different and are complicated by the effects of restorative treatment.</p>
+              <p>The need to improve preventive care provided by dentists has moved up the policy agenda following the publication of the Primary Dental Care Strategy for Northern Ireland [<xref ref-type="bibr" rid="B5">5</xref>] in 2006, which placed a strong emphasis on prevention of caries in general practice, and the subsequent Oral Health Strategy for Northern Ireland in 2007 [<xref ref-type="bibr" rid="B6">6</xref>], which sets targets for reduction in the caries levels of 5-year-olds. The introduction of new, locally commissioned NHS dental contracts in England and Wales in April 2006 also means that strengthening the evidence base for prevention is important for policy makers and the NHS. One of the main reasons for changing NHS dental contracts was to encourage prevention, however the new contract in England has been heavily criticised by the dental profession and NHS managers [<xref ref-type="bibr" rid="B7">7</xref>] and more recently by the House of Commons Health Select Committee [<xref ref-type="bibr" rid="B8">8</xref>] for offering little incentive for dentists to provide preventive care. Indeed one of the recommendations of the Health Select Committee report was that 'the Department of Health undertake research to determine the extent to which the provision of preventive advice is being given and its cost-effectiveness.' This emphasis on prevention is also seen in the Darzi report [<xref ref-type="bibr" rid="B9">9</xref>] and the Primary and Community Care Strategy [<xref ref-type="bibr" rid="B10">10</xref>]. Scotland has decided to retain the centrally funded GDS contract based on capitation for children and fee for item for adults. The Department of Health in Northern Ireland intends to change the GDS contract and wants to use the outcomes of this trial to inform preventive aspects of the new contract. So, there is pressure on politicians, policy makers and NHS commissioners in the UK to ensure that effective caries prevention is provided in practice. Unfortunately recent research suggests that the preventive care currently provided by GDPs is ineffective and inequitable [<xref ref-type="bibr" rid="B11">11</xref>]. Dentists are ill-equipped in terms of their knowledge [<xref ref-type="bibr" rid="B12">12</xref>] and how they present information to their patients [<xref ref-type="bibr" rid="B13">13</xref>] to provide an effective service.</p>
+              <p>Preventive care provided by most dentists is based on health education aimed at reducing sugar intake [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>] which lacks evidence to demonstrate its effectiveness [<xref ref-type="bibr" rid="B14">14</xref>,<xref ref-type="bibr" rid="B15">15</xref>]. However, there is good evidence that fluoride-based interventions can have a dramatic effect on the disease. For example in a systematic review of water fluoridation [<xref ref-type="bibr" rid="B16">16</xref>] the median of mean differences of studies suggested that a 15% absolute difference in the proportions of children caries free can be expected between fluoridated and non-fluoridated populations. It has been estimated that this equates to a difference of around 40% in caries increment [<xref ref-type="bibr" rid="B17">17</xref>]. In England water fluoridation is currently being examined as a means of preventing caries but is not technically, economically or politically feasible in every area of the UK, so other delivery vehicles such as professionally applied fluoride varnish or distributed fluoride toothpaste need to be considered. A Cochrane systematic review of fluoride varnish [<xref ref-type="bibr" rid="B18">18</xref>] included 9 RCTs and reported a pooled d(e/m)fs prevented fraction estimate of 33% (95% CI, 19% to 48%; p &lt; 0.0001). A second systematic review [<xref ref-type="bibr" rid="B19">19</xref>] of fluoride varnish used different selection criteria and identified only 3 trials examining primary teeth and concluded that the evidence was inconclusive due to the poor quality of the studies. A subsequently published trial of 2-4 year old children [<xref ref-type="bibr" rid="B20">20</xref>] examined the effect of 22,600 ppm varnish applied twice a year over 2 years and reported a 57% reduction in caries increment compared to a control group. Another recent trial in the USA [<xref ref-type="bibr" rid="B21">21</xref>] investigated the use of 22,600 ppm varnish on infants with a mean age of 1.8 years resident in an area supplied with artificially fluoridated water at 1 ppm. Caries incidence was lower in those receiving fluoride varnish twice a year than in a counselling only control (OR 3.77 (95% CI 1.88-7.58) and no adverse events were reported.</p>
+              <p>A Cochrane review of fluoride toothpaste use [<xref ref-type="bibr" rid="B22">22</xref>] in children aged 5-16 years reported clear evidence that fluoride toothpastes are efficacious in preventing caries in permanent teeth but there was little information concerning the primary dentition or adverse effects. Similar findings were also reported by another systematic review of toothpastes published around the same time[<xref ref-type="bibr" rid="B23">23</xref>]. An RCT in the North West [<xref ref-type="bibr" rid="B24">24</xref>] testing fluoride toothpaste provided through the post to children from birth to 5-years-old reported a 16% difference in increment and an 8% absolute difference in the proportion of caries free children receiving 1450 ppm toothpaste compared to a control group. A Cochrane systematic review examined the effectiveness of any fluoride agent (gel, varnish, mouth rinse) combined with toothpaste [<xref ref-type="bibr" rid="B25">25</xref>] and reported a D(M)FS pooled preventive fraction of 10% (95% CI, 2% to 17%; p = 0.01) in favour of a combined regimen over toothpaste alone but the significant difference in favour of the combined use of fluoride varnish and toothpaste accrued from a very small trial and appears likely to be a spurious result. The risks associated with these two interventions are small for the age group under investigation. A follow up study [<xref ref-type="bibr" rid="B26">26</xref>] of participants in the NW toothpaste trial [<xref ref-type="bibr" rid="B24">24</xref>] compared the prevalence of fluorosis in the study groups and reported a slight increase in prevalence of TF score 3 (an index of fluorosis) but no increase in the overall prevalence of developmental defects of enamel. Recent work shows that fluorosis risk is related to an elevated fluoride intake for all of the first 3 years of life [<xref ref-type="bibr" rid="B27">27</xref>] but that the first 2 years of life are the period with greatest risk [<xref ref-type="bibr" rid="B28">28</xref>].</p>
+              <p>Although sub-optimal, the available literature has informed the contents of Delivering Better Oral Health an Evidence Based Toolkit [<xref ref-type="bibr" rid="B29">29</xref>] national guidance that has been circulated by the Department of Health to every dental practice in England. The fluoride interventions to be investigated in this trial are identified by the Toolkit and the approach taken in this trial; focusing on caries free children is also supported by the Toolkit, which recommends application of the interventions to all children attending dental practice, the majority of whom will be caries free at their first attendance. This reasoning was informed by the outcomes of the North West cohort study [<xref ref-type="bibr" rid="B7">7</xref>] and because there are no effective screening tools to accurately and reliable identify the children who will develop caries. The effectiveness of the intervention to be tested and the impact on NHS costs are unknown and need to be tested in primary care.</p>
+              <p>The aim of this study is to therefore measure the costs and effects of a 'preventive package' of fluoride varnish, fluoride toothpaste, toothbrush and standard dental health education in keeping young children who regularly attend primary care service free of dental caries, compared with receiving standard dental health education alone.</p>
+              <p>If the technologies tested in this trial are effective at preventing caries and reducing costs it will influence how dentistry is provided for young children both in the UK and internationally. If the interventions are shown not to be an efficient use of resources this will also influence policy and commissioning, to perhaps focus prevention resources on population interventions such as water fluoridation.</p>
+            </sec>
+            <sec>
+              <title>Methods/Design</title>
+              <sec>
+                <title>Trial Objectives</title>
+                <p>To compare over a 3 year period the effectiveness of fluoride varnish, fluoride toothpaste, toothbrush and standardised health education, provided twice a year, as a preventive package, with standardised health education alone provided twice a year in preventing the conversion of 2 to 3 year old children from caries-free at baseline to caries-active state in the primary dentition, reducing the number of carious surfaces (caries into dentine) in the primary dentition in children who convert from caries free to caries active states and preventing episodes of pain and extraction of primary teeth.</p>
+                <p>To compare over a 3 year period the costs of dental care in a group receiving fluoride varnish, fluoride toothpaste, toothbrush and standardised health education, provided twice a year as a preventive package with a group receiving standardised health education alone provided twice a year.</p>
+              </sec>
+              <sec>
+                <title>Study design</title>
+                <p>NIC-PIP is a pragmatic three year parallel group randomised controlled trial where 2 and 3 year old children are randomised to receive the caries preventive package or not. The recruitment of the children is outlined in Figure <xref ref-type="fig" rid="F1">1</xref>. A full economic evaluation of the costs of the package is being conducted.</p>
+                <fig id="F1" position="float">
+                  <label>Figure 1</label>
+                  <caption>
+                    <p><bold>Trial schematic showing the screening, recruitment and randomisation of children</bold>.</p>
+                  </caption>
+                  <graphic xlink:href="1472-6831-11-27-1"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Ethical considerations</title>
+                <p>Full ethical approval for this study has been obtained from Northwest 7 REC- GM Central (formally Central Manchester Research Ethics Committee). Two external bodies; a Data Monitoring and a Trial Steering Committee, will monitor study progress.</p>
+              </sec>
+              <sec>
+                <title>Study Participants</title>
+                <p>Participants will be children who are initially aged 2 and 3.99 years who attend NHS General Dental Service (GDS) practices in Northern Ireland. Children will be eligible to participate in the study if they are aged 2 or 3 years, attending the selected GDS practices and a person with parental responsibility signs a consent form. The children will not be eligible if: they have caries into dentine, a past history of fillings or extractions due to caries, fissure sealants on primary molar teeth, history of severe allergic reactions requiring hospitalisation or are already participating in any other clinical trial involving medical products at recruitment.</p>
+              </sec>
+              <sec>
+                <title>Trial interventions</title>
+                <p>The fluoride varnish (22,600 ppm) is classed as an Investigative Medicinal Product and therefore must comply with relevant UK regulations [<xref ref-type="bibr" rid="B30">30</xref>]. The fluoride varnish and toothpaste will appear in its normal commercial packaging. The fluoride varnish will be applied to the dried primary teeth of the children by a participating dentist at two visits to the dental surgery each year at approximately 6 monthly intervals (+/- 4 weeks). One drop of varnish will be applied to the primary teeth in each arch (2 drops in total) using a standardised brush applicator. After application parents will be advised not to brush their children's teeth for 24 hours.</p>
+                <p>A free toothbrush and a free 50 ml tube of 1,450 ppm of fluoride toothpaste will also be provided to test group children twice a year. Parents of children aged 2 but not 3 years will be advised to use a smear of toothpaste and those over 3 years will be advised to use a pea sized blob of toothpaste when brushing their teeth. Photographs of a smear and a pea size blob will be included in the standardised dental health education guide. It will be stressed to parents that children must be supervised by an adult when they brush their teeth. Standardised dental health education will be given at each 6 month check up visit by dentists following written guidance.</p>
+                <p>Children allocated to the control group will attend at 6 monthly intervals and receive the same standardised dental health education at each 6 month visit as the test group. The control group will not receive any professionally applied or provided fluoride interventions.</p>
+              </sec>
+              <sec>
+                <title>Follow-up of children</title>
+                <p>Children will be followed from trial entry until the end of the study (three years). They will attend the dentist every 6 months where data on any symptoms reported or treatment received by each child at each visit (both planned 6 monthly and unplanned symptomatic visits) will be collected on site clinical record forms. A piloted questionnaire for the person with parental responsibility will be used to identify any unscheduled visits to other dental services and other episodes of toothache not severe enough to require a visit to the dentist. Fluoride varnish has been used routinely in dental practice and the risk to participants is low. The reporting criteria for adverse events is shown in Figure <xref ref-type="fig" rid="F2">2</xref>. The trial manager is undertaking duties delegated by the trial sponsor and is responsible for reporting of Suspected Unexpected Serious Adverse Reactions (SUSARs) and other Serious Adverse Reactions (SARs) to the competent authorities (regulatory authorities and central research ethics committees). The person with parental responsibility, and children, where appropriate, have the right to withdraw from the trial at any time for any reason, and this will be documented.</p>
+                <fig id="F2" position="float">
+                  <label>Figure 2</label>
+                  <caption>
+                    <p><bold>Flow chart of assessing and notification of Adverse Events</bold>.</p>
+                  </caption>
+                  <graphic xlink:href="1472-6831-11-27-2"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Outcome measures</title>
+                <p>Baseline and outcome examinations at 3 years will be performed by trained and calibrated examiners. Outcome examiners will be blinded to the treatment allocation and using the same diagnostic protocol. The primary outcome is to measure whether the child has become caries active (caries into dentine). The following secondary outcomes are to be measured on the children: the number of carious surfaces (caries into dentine) in the primary dentition for children who have become caries active, the number of episodes of pain and number of extractions of primary teeth and the costs of dental care over a 3 year period. The final three outcomes will be assessed by questionnaire filled in by the person with parental responsibility.</p>
+              </sec>
+              <sec>
+                <title>Randomisation</title>
+                <p>Potentially eligible children will be identified from the electronic databases of practices or in the case of practices without a computer by the Business Services Organisation. These children will be block-booked into dedicated trial sessions in the dental practices. A separate randomisation schedule will be prepared by the CRSC for each recruiting centre using randomised permutated blocks. The block lengths will vary to ensure the centres are blind to patient allocation. An invitation letter and trial information leaflet will be sent to parents of identified children asking if they would like to participate in the trial. An appointment for a check-up will be included in the invitation and will stress that the adult with parental responsibility for the child must accompany the child when they attend for assessment. The child's dentist or the external dental examiners (who will undertake the baseline examinations) will consent the children into the trial. Baseline assessment will be undertaken after each child has been consented but prior to randomisation.</p>
+                <p>An eligibility form will be faxed to the CRSC, where the children will be centrally randomised to one of the two treatment groups. The children will initially be identified at registration by their initials, date of birth and gender only. Once all of the eligibility criteria have been verified by the CTU they will provide the investigator with confirmation of the treatment allocation via fax to provide a paper record of the allocation, and the unique patient ID will be assigned.</p>
+              </sec>
+              <sec>
+                <title>Sample size considerations</title>
+                <p>The principal outcome measure is whether the child develops caries in the primary dentition or not. We expect to see an absolute difference in the proportion of children with caries after 3 years of 0.1 between test and control groups. If caries free children are selected for the study it is estimated that 47% will develop caries over the three years. A two group chi-square test with a 0.050 two-sided significance level will have 90% power to detect the difference between a proportion of 0.470 and a proportion of 0.370 (odds ratio of 0.662) when the sample size in each group is 510. We assume that 2% will be excluded because of a history of severe allergic reaction and a further 1% for other reasons. We also assume that 75% of children approached will be caries free and a 70% consent rate with an estimated 15% drop-out rate over the 3 years. Therefore we will need to initially invite at least 2,356 children to take part in the study, recruiting 1200 children to ensure we have sufficient power at the end of the trial. The recruitment process is summarised in the CONSORT flow chart in Figure <xref ref-type="fig" rid="F3">3</xref>.</p>
+                <fig id="F3" position="float">
+                  <label>Figure 3</label>
+                  <caption>
+                    <p><bold>CONSORT flowchart showing the estimated numbers of children throughout the trial</bold>.</p>
+                  </caption>
+                  <graphic xlink:href="1472-6831-11-27-3"/>
+                </fig>
+              </sec>
+              <sec>
+                <title>Statistical analysis</title>
+                <p>All analyses will use an 'intention to treat' principal. All outcome measures stated in the protocol will be fully analysed using generalized linear models adjusting for covariates felt to be of prognostic importance including age and socio-economic status (SES). Statistical significance will be at the 0.05 level for all analysis and 95% confidence intervals will be calculated. A binary logistic regression model will be fitted to the primary outcome, whether the child remained caries free or not, with study group, age and socioeconomic status as covariates. The unadjusted and adjusted odds ratios from the logistic regression model will be reported and will specify that the adjusted is the primary analytical approach. A pre-planned subgroup analysis will be undertaken for deprived/not deprived children by selecting children whose parents are exempt from dental charges or not.</p>
+                <p>Health economic analysis will compare the total cost to the NHS for dental care in each of the two arms of the trial in accordance with the relative levels of effectiveness for each of the two arms. A multiple linear regression model will be fitted to the individual discounted costs per child with group, age and socio-economic status (SES) as covariates. If the assumptions underlying the model are not upheld, robust estimates of the standard errors will be calculated for the estimated parameters. Separate calculations will be made of between-treatment differences in cost to parents to identify any between-programme trade-offs. All calculations will be subjected to sensitivity analysis and discount rates of 3.5% for both cost and benefits will be applied. The incremental cost effectiveness ratio (ICER) will be estimated by dividing the difference in mean discounted costs between the two groups by the difference in discounted proportions that remain caries free. The relationship between cost and secondary outcomes such as the number of carious surfaces will be examined in an analogous fashion to that detailed above. The net present value of costs will be divided by the net present value of the number of carious surfaces to ascertain the average cost for carious surface avoided.</p>
+              </sec>
+              <sec>
+                <title>Time plan for the NIC-PIP study</title>
+                <p>Patient recruitment began in April 2011 and is planned to continue until November 2011.</p>
+              </sec>
+            </sec>
+            <sec>
+              <title>Competing interests</title>
+              <p>The authors declare that they have no competing interests.</p>
+            </sec>
+            <sec>
+              <title>Authors' contributions</title>
+              <p>MT, KMM and HVW were responsible for the initial research question, and contributing to drafting of the study protocol. MD, SK, CO, GC, MS, SN and MG have all also contributed to the development of the protocol and study design as members of the research team. HVW and MT were responsible for the drafting of this paper, although all authors provided comments on the drafts and have read and approved the final version.</p>
+            </sec>
+            <sec>
+              <title>Pre-publication history</title>
+              <p>The pre-publication history for this paper can be accessed here:</p>
+              <p>
+                <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1472-6831/11/27/prepub">http://www.biomedcentral.com/1472-6831/11/27/prepub</ext-link>
+              </p>
+            </sec>
+          </body>
+          <back>
+            <sec>
+              <title>Acknowledgements</title>
+              <p>The NIC-PIP trial research team trial would like to thank Karen Bailey, Lynn Murphy, Julie Brodison, Paula Kearney-Mitchell and members of the CRSC in Belfast for their contributions to the protocol. Finally we would like to thank all of the general dental practitioners, practice managers, and nurses and staff of the Community Dental Service who have given us feedback on early stages of the protocol to make the recruitment of the children and practices workable.</p>
+              <p>The project is funded by National Institute of Health Research Health Technology Assessment programme (project number 08/14/19 <ext-link ext-link-type="uri" xlink:href="http://www.hta.ac.uk/1970">http://www.hta.ac.uk/1970</ext-link>) and will be published in full in Health Technology Assessment. NHS support costs and NHS treatment costs will be met by the Northern Ireland Health Board. We also acknowledge the support provided by the Belfast, Northern, South Eastern, Southern and Western Health and Social care Trusts in Northern Ireland.</p>
+              <sec>
+                <title>Disclaimer</title>
+                <p>The views and opinions expressed are those of the authors and do not necessarily reflect those of the HTA programme, NIHR, NHS or the Department of Health</p>
+              </sec>
+            </sec>
+            <ref-list>
+              <ref id="B1">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Lader</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Chadwick</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Chestnutt</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Harker</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Morris</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Nuttal</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Pitts</surname>
+                    <given-names>N</given-names>
+                  </name>
+                  <name>
+                    <surname>Steel</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>White</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <source>Children's Dental health in the United Kingdom 2003</source>
+                  <year>2004</year>
+                  <publisher-name>Statistics Of N. London</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B2">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Harris</surname>
+                    <given-names>R</given-names>
+                  </name>
+                  <name>
+                    <surname>Nicoll</surname>
+                    <given-names>AD</given-names>
+                  </name>
+                  <name>
+                    <surname>Adair</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                  <name>
+                    <surname>Pine</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <article-title>Risk factors for dental caries in young children: a systematic review of the literature</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2004</year>
+                  <volume>21</volume>
+                  <issue>1 Suppl</issue>
+                  <fpage>71</fpage>
+                  <lpage>85</lpage>
+                  <pub-id pub-id-type="pmid">15072476</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B3">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <article-title>The incidence of dental caries in the primary molar teeth of young children receiving National Health Service funded dental care in practices in the North West of England</article-title>
+                  <source>Br Dent J</source>
+                  <year>2008</year>
+                  <volume>205</volume>
+                  <issue>7</issue>
+                  <fpage>E14</fpage>
+                  <comment>discussion 384-385</comment>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.2008.582</pub-id>
+                  <pub-id pub-id-type="pmid">18849940</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B4">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <article-title>The occurrence of dental pain and extractions over a 3-year period in a cohort of children aged 3-6 years</article-title>
+                  <source>J Public Health Dent</source>
+                  <year>2008</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>63</fpage>
+                  <lpage>69</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1752-7325.2007.00048.x</pub-id>
+                  <pub-id pub-id-type="pmid">18661601</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B5">
+                <mixed-citation publication-type="book">
+                  <collab>Department of Health SSaPP</collab>
+                  <source>Primary Dental Care Strategy for Northern Ireland</source>
+                  <year>2006</year>
+                  <publisher-name>Belfast DHSSPP</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B6">
+                <mixed-citation publication-type="book">
+                  <collab>Department of Health SSaPP</collab>
+                  <source>An Oral Health Strategy for Northern Ireland</source>
+                  <year>2007</year>
+                  <publisher-name>Belfast: DHSSPP</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B7">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Threlfall</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Pine</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Kearney-Mitchell</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <article-title>The introduction of the new dental contract in England - a baseline qualitative assessment</article-title>
+                  <source>Br Dent J</source>
+                  <year>2008</year>
+                  <volume>204</volume>
+                  <issue>2</issue>
+                  <fpage>59</fpage>
+                  <lpage>62</lpage>
+                  <pub-id pub-id-type="doi">10.1038/bdj.2008.1</pub-id>
+                  <pub-id pub-id-type="pmid">18223578</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B8">
+                <mixed-citation publication-type="book">
+                  <collab>House of Commons Health Committee</collab>
+                  <source>Dental Services Fifth Report of Session 2007-08</source>
+                  <year>2008</year>
+                  <publisher-name>London: House of Commons London: The Stationery Office Ltd</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B9">
+                <mixed-citation publication-type="book">
+                  <collab>Department of Health</collab>
+                  <person-group person-group-type="editor">Darzi L</person-group>
+                  <source>High Quality Care for All: NHS Next Stage Review final report</source>
+                  <year>2008</year>
+                  <publisher-name>London: DoH</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B10">
+                <mixed-citation publication-type="book">
+                  <collab>Department of Health</collab>
+                  <source>NHS Next Stage Review: Our vision for primary and community care</source>
+                  <year>2008</year>
+                  <publisher-name>Gateway</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B11">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>King</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <article-title>The influences on preventive care provided to children who frequently attend the UK General Dental Service</article-title>
+                  <source>Br Dent J</source>
+                  <year>2003</year>
+                  <volume>194</volume>
+                  <issue>6</issue>
+                  <fpage>329</fpage>
+                  <lpage>332</lpage>
+                  <comment>discussion 318</comment>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4809947</pub-id>
+                  <pub-id pub-id-type="pmid">12682660</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B12">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Threlfall</surname>
+                    <given-names>AG</given-names>
+                  </name>
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Hunt</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <article-title>Exploring the content of the advice provided by general dental practitioners to help prevent caries in young children</article-title>
+                  <source>Br Dent J</source>
+                  <year>2007</year>
+                  <volume>202</volume>
+                  <issue>3</issue>
+                  <fpage>E9</fpage>
+                  <comment>discussion 148-149</comment>
+                  <pub-id pub-id-type="doi">10.1038/bdj.2007.46</pub-id>
+                  <pub-id pub-id-type="pmid">17256013</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B13">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Threlfall</surname>
+                    <given-names>AG</given-names>
+                  </name>
+                  <name>
+                    <surname>Hunt</surname>
+                    <given-names>CM</given-names>
+                  </name>
+                  <name>
+                    <surname>Milsom</surname>
+                    <given-names>KM</given-names>
+                  </name>
+                  <name>
+                    <surname>Tickle</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <article-title>Exploring factors that influence general dental practitioners when providing advice to help prevent caries in children</article-title>
+                  <source>Br Dent J</source>
+                  <year>2007</year>
+                  <volume>202</volume>
+                  <issue>4</issue>
+                  <fpage>E10</fpage>
+                  <comment>discussion 216-217</comment>
+                  <pub-id pub-id-type="doi">10.1038/bdj.2007.143</pub-id>
+                  <pub-id pub-id-type="pmid">17308533</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B14">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Gratrix</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <name>
+                    <surname>Holloway</surname>
+                    <given-names>PJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Wainwright-Stringer</surname>
+                    <given-names>YM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ward</surname>
+                    <given-names>SJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Worthington</surname>
+                    <given-names>HV</given-names>
+                  </name>
+                  <article-title>A cluster randomised, controlled trial of the value of dental health educators in general dental practice</article-title>
+                  <source>Br Dent J</source>
+                  <year>2003</year>
+                  <volume>195</volume>
+                  <issue>7</issue>
+                  <fpage>395</fpage>
+                  <lpage>400</lpage>
+                  <comment>discussion 385</comment>
+                  <pub-id pub-id-type="doi">10.1038/sj.bdj.4810566</pub-id>
+                  <pub-id pub-id-type="pmid">14551632</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B15">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Kay</surname>
+                    <given-names>EJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Locker</surname>
+                    <given-names>D</given-names>
+                  </name>
+                  <article-title>Is dental health education effective? A systematic review of current evidence</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>1996</year>
+                  <volume>24</volume>
+                  <issue>4</issue>
+                  <fpage>231</fpage>
+                  <lpage>235</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.1996.tb00850.x</pub-id>
+                  <pub-id pub-id-type="pmid">8871028</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B16">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>McDonagh</surname>
+                    <given-names>MS</given-names>
+                  </name>
+                  <name>
+                    <surname>Whiting</surname>
+                    <given-names>PF</given-names>
+                  </name>
+                  <name>
+                    <surname>Wilson</surname>
+                    <given-names>PM</given-names>
+                  </name>
+                  <name>
+                    <surname>Sutton</surname>
+                    <given-names>AJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Chestnutt</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Cooper</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Misso</surname>
+                    <given-names>K</given-names>
+                  </name>
+                  <name>
+                    <surname>Bradley</surname>
+                    <given-names>M</given-names>
+                  </name>
+                  <name>
+                    <surname>Treasure</surname>
+                    <given-names>E</given-names>
+                  </name>
+                  <name>
+                    <surname>Kleijnen</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <article-title>Systematic review of water fluoridation</article-title>
+                  <source>BMJ</source>
+                  <year>2000</year>
+                  <volume>321</volume>
+                  <issue>7265</issue>
+                  <fpage>855</fpage>
+                  <lpage>859</lpage>
+                  <pub-id pub-id-type="doi">10.1136/bmj.321.7265.855</pub-id>
+                  <pub-id pub-id-type="pmid">11021861</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B17">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Worthington</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Clarkson</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <article-title>The evidence base for topical fluorides</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2003</year>
+                  <volume>20</volume>
+                  <issue>2</issue>
+                  <fpage>74</fpage>
+                  <lpage>76</lpage>
+                  <pub-id pub-id-type="pmid">12914024</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B18">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Marinho</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Higgins</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Logan</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Sheiham</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <article-title>Fluoride varnishes for preventing dental caries in children and adolescents</article-title>
+                  <source>Cochrane Database of Systematic Reviews</source>
+                  <year>2002</year>
+                  <volume>3</volume>
+                  <publisher-name>Wiley</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B19">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Petersson</surname>
+                    <given-names>LG</given-names>
+                  </name>
+                  <name>
+                    <surname>Twetman</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Dahlgren</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Norlund</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Holm</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Nordenram</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Lagerlof</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Soder</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Kallestal</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Mejare</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <etal/>
+                  <article-title>Professional fluoride varnish treatment for caries control: a systematic review of clinical trials</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2004</year>
+                  <volume>62</volume>
+                  <issue>3</issue>
+                  <fpage>170</fpage>
+                  <lpage>176</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016350410006392</pub-id>
+                  <pub-id pub-id-type="pmid">15370638</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B20">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Borutta</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Reuscher</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Hufnagl</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Mobius</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <article-title>[Caries prevention with fluoride varnishes among preschool children]</article-title>
+                  <source>Gesundheitswesen</source>
+                  <year>2006</year>
+                  <volume>68</volume>
+                  <issue>11</issue>
+                  <fpage>731</fpage>
+                  <lpage>734</lpage>
+                  <pub-id pub-id-type="doi">10.1055/s-2006-927247</pub-id>
+                  <pub-id pub-id-type="pmid">17199209</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B21">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Weintraub</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Ramos-Gomez</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Jue</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Shain</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Hoover</surname>
+                    <given-names>CI</given-names>
+                  </name>
+                  <name>
+                    <surname>Featherstone</surname>
+                    <given-names>JD</given-names>
+                  </name>
+                  <name>
+                    <surname>Gansky</surname>
+                    <given-names>SA</given-names>
+                  </name>
+                  <article-title>Fluoride varnish efficacy in preventing early childhood caries</article-title>
+                  <source>J Dent Res</source>
+                  <year>2006</year>
+                  <volume>85</volume>
+                  <issue>2</issue>
+                  <fpage>172</fpage>
+                  <lpage>176</lpage>
+                  <pub-id pub-id-type="doi">10.1177/154405910608500211</pub-id>
+                  <pub-id pub-id-type="pmid">16434737</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B22">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Marinho</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Higgins</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Sheiham</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Logan</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <article-title>Fluoride toothpastes for preventing dental caries in children and adolescents</article-title>
+                  <source>Cochrane Database of Systematic Reviews</source>
+                  <year>2003</year>
+                  <volume>1</volume>
+                  <publisher-name>Wiley</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B23">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Twetman</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Axelsson</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <name>
+                    <surname>Dahlgren</surname>
+                    <given-names>H</given-names>
+                  </name>
+                  <name>
+                    <surname>Holm</surname>
+                    <given-names>AK</given-names>
+                  </name>
+                  <name>
+                    <surname>Kallestal</surname>
+                    <given-names>C</given-names>
+                  </name>
+                  <name>
+                    <surname>Lagerlof</surname>
+                    <given-names>F</given-names>
+                  </name>
+                  <name>
+                    <surname>Lingstrom</surname>
+                    <given-names>P</given-names>
+                  </name>
+                  <name>
+                    <surname>Mejare</surname>
+                    <given-names>I</given-names>
+                  </name>
+                  <name>
+                    <surname>Nordenram</surname>
+                    <given-names>G</given-names>
+                  </name>
+                  <name>
+                    <surname>Norlund</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <etal/>
+                  <article-title>Caries-preventive effect of fluoride toothpaste: a systematic review</article-title>
+                  <source>Acta Odontol Scand</source>
+                  <year>2003</year>
+                  <volume>61</volume>
+                  <issue>6</issue>
+                  <fpage>347</fpage>
+                  <lpage>355</lpage>
+                  <pub-id pub-id-type="doi">10.1080/00016350310007590</pub-id>
+                  <pub-id pub-id-type="pmid">14960006</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B24">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>GM</given-names>
+                  </name>
+                  <name>
+                    <surname>Worthington</surname>
+                    <given-names>HV</given-names>
+                  </name>
+                  <name>
+                    <surname>Ellwood</surname>
+                    <given-names>RP</given-names>
+                  </name>
+                  <name>
+                    <surname>Bentley</surname>
+                    <given-names>EM</given-names>
+                  </name>
+                  <name>
+                    <surname>Blinkhorn</surname>
+                    <given-names>AS</given-names>
+                  </name>
+                  <name>
+                    <surname>Taylor</surname>
+                    <given-names>GO</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <article-title>A randomised controlled trial of the effectiveness of providing free fluoride toothpaste from the age of 12 months on reducing caries in 5-6 year old children</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2002</year>
+                  <volume>19</volume>
+                  <issue>3</issue>
+                  <fpage>131</fpage>
+                  <lpage>136</lpage>
+                  <pub-id pub-id-type="pmid">12269458</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B25">
+                <mixed-citation publication-type="book">
+                  <name>
+                    <surname>Marinho</surname>
+                    <given-names>V</given-names>
+                  </name>
+                  <name>
+                    <surname>Higgins</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <name>
+                    <surname>Sheiham</surname>
+                    <given-names>A</given-names>
+                  </name>
+                  <name>
+                    <surname>Logan</surname>
+                    <given-names>S</given-names>
+                  </name>
+                  <article-title>Combinations of topical fluoride (toothpastes, mouthrinses, gels, varnishes) versus single topical fluoride for preventing dental caries in children and adolescents</article-title>
+                  <source>Cochrane Database of Systematic Reviews</source>
+                  <year>2004</year>
+                  <volume>1</volume>
+                  <publisher-name>Wiley</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B26">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Tavener</surname>
+                    <given-names>JA</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>GM</given-names>
+                  </name>
+                  <name>
+                    <surname>Davies</surname>
+                    <given-names>RM</given-names>
+                  </name>
+                  <name>
+                    <surname>Ellwood</surname>
+                    <given-names>RP</given-names>
+                  </name>
+                  <article-title>The prevalence and severity of fluorosis and other developmental defects of enamel in children who received free fluoride toothpaste containing either 440 or 1450 ppm F from the age of 12 months</article-title>
+                  <source>Community Dent Health</source>
+                  <year>2004</year>
+                  <volume>21</volume>
+                  <issue>3</issue>
+                  <fpage>217</fpage>
+                  <lpage>223</lpage>
+                  <pub-id pub-id-type="pmid">15470832</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B27">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Levy</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Warren</surname>
+                    <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Broffitt</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Cavanaugh</surname>
+                    <given-names>J</given-names>
+                  </name>
+                  <article-title>Fluoride intake levels in relation to fluorosis development in permanent maxillary central incisors and first molars</article-title>
+                  <source>Caries Res</source>
+                  <year>2006</year>
+                  <volume>40</volume>
+                  <issue>6</issue>
+                  <fpage>494</fpage>
+                  <lpage>500</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000095648</pub-id>
+                  <pub-id pub-id-type="pmid">17063020</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B28">
+                <mixed-citation publication-type="journal">
+                  <name>
+                    <surname>Hong</surname>
+                    <given-names>L</given-names>
+                  </name>
+                  <name>
+                    <surname>Levy</surname>
+                    <given-names>SM</given-names>
+                  </name>
+                  <name>
+                    <surname>Broffitt</surname>
+                    <given-names>B</given-names>
+                  </name>
+                  <name>
+                    <surname>Warren</surname>
+                    <given-names>JJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Kanellis</surname>
+                    <given-names>MJ</given-names>
+                  </name>
+                  <name>
+                    <surname>Wefel</surname>
+                    <given-names>JS</given-names>
+                  </name>
+                  <name>
+                    <surname>Dawson</surname>
+                    <given-names>DV</given-names>
+                  </name>
+                  <article-title>Timing of fluoride intake in relation to development of fluorosis on maxillary central incisors</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2006</year>
+                  <volume>34</volume>
+                  <issue>4</issue>
+                  <fpage>299</fpage>
+                  <lpage>309</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1600-0528.2006.00281.x</pub-id>
+                  <pub-id pub-id-type="pmid">16856950</pub-id>
+                </mixed-citation>
+              </ref>
+              <ref id="B29">
+                <mixed-citation publication-type="book">
+                  <collab>Department of health and the British Association for the Study of Community Dentistry</collab>
+                  <source>Delivering better oral health: An evidence-based toolkit for prevention</source>
+                  <year>2007</year>
+                  <publisher-name>Gateway</publisher-name>
+                </mixed-citation>
+              </ref>
+              <ref id="B30">
+                <mixed-citation publication-type="other">
+                  <collab>House of Commons</collab>
+                  <article-title>The Medicines for Human Use (Clinical Trials) Regulations 2004</article-title>
+                  <year>2004</year>
+                  <ext-link ext-link-type="uri" xlink:href="http://www.legislation.gov.uk/uksi/2004/1031/contents/made">http://www.legislation.gov.uk/uksi/2004/1031/contents/made</ext-link>
+                  <comment>03.22.2010</comment>
+                </mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

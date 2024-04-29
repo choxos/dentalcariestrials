@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:35:00Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10909791" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10909791</identifier>
+        <datestamp>2024-03-05</datestamp>
+        <setSpec>cedr</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="cre2863" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Exp Dent Res</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Exp Dent Res</journal-id>
+              <journal-id journal-id-type="doi">10.1002/(ISSN)2057-4347</journal-id>
+              <journal-id journal-id-type="publisher-id">CRE2</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical and Experimental Dental Research</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">2057-4347</issn>
+              <publisher>
+                <publisher-name>John Wiley and Sons Inc.</publisher-name>
+                <publisher-loc>Hoboken</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10909791</article-id>
+              <article-id pub-id-type="pmcid">PMC10909791</article-id>
+              <article-id pub-id-type="pmc-uid">10909791</article-id>
+              <article-id pub-id-type="pmid">38433297</article-id>
+              <article-id pub-id-type="pmid">38433297</article-id>
+              <article-id pub-id-type="doi">10.1002/cre2.863</article-id>
+              <article-id pub-id-type="publisher-id">CRE2863</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Effectiveness of auditory distraction on the management of dental anxiety in patients undergoing tooth extraction at a tertiary care hospital in Islamabad</article-title>
+                <alt-title alt-title-type="left-running-head">QAZI <sc>et al.</sc>
+</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="cre2863-cr-0001" contrib-type="author">
+                  <name>
+                    <surname>Qazi</surname>
+                    <given-names>Sheze Haroon</given-names>
+                  </name>
+                  <xref rid="cre2863-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cre2863-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Masoud</surname>
+                    <given-names>Saba</given-names>
+                  </name>
+                  <xref rid="cre2863-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cre2863-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Tariq</surname>
+                    <given-names>Khadija</given-names>
+                  </name>
+                  <xref rid="cre2863-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cre2863-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Khan</surname>
+                    <given-names>Minahil</given-names>
+                  </name>
+                  <xref rid="cre2863-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cre2863-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Emrani</surname>
+                    <given-names>Reza</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-9464-1890</contrib-id>
+                  <xref rid="cre2863-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cre2863-cr-0006" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Ashraf</surname>
+                    <given-names>Javed</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1329-4661</contrib-id>
+                  <xref rid="cre2863-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="cre2863-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <xref rid="cre2863-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <address>
+                    <email>dr_javedansari110@yahoo.com</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <aff id="cre2863-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <institution>Islamabad Medical and Dental College</institution>
+                <city>Islamabad</city>
+                <country country="PK">Pakistan</country>
+              </aff>
+              <aff id="cre2863-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">School of Dentistry</named-content>
+                <institution>Qazvin University of Medical Science</institution>
+                <city>Qazvin</city>
+                <country country="IR">Iran</country>
+              </aff>
+              <aff id="cre2863-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Institute of Dentistry</named-content>
+                <institution>University of Eastern Finland</institution>
+                <city>Kuopio</city>
+                <country country="FI">Finland</country>
+              </aff>
+              <aff id="cre2863-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <institution>Health Services Academy</institution>
+                <city>Islamabad</city>
+                <country country="PK">Pakistan</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Javed Ashraf, Islamabad Medical and Dental College, Islamabad, Pakistan.<break/>
+Email: <email>dr_javedansari110@yahoo.com</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>03</day>
+                <month>3</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <month>4</month>
+                <year>2024</year>
+              </pub-date>
+              <volume>10</volume>
+              <issue seq="20">2</issue>
+              <issue-id pub-id-type="doi">10.1002/cre2.v10.2</issue-id>
+              <elocation-id>e863</elocation-id>
+              <history>
+                <date date-type="rev-recd">
+                  <day>18</day>
+                  <month>1</month>
+                  <year>2024</year>
+                </date>
+                <date date-type="received">
+                  <day>08</day>
+                  <month>8</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>04</day>
+                  <month>2</month>
+                  <year>2024</year>
+                </date>
+              </history>
+              <permissions>
+                <!--&#x000a9; 2024 The Authors. Clinical and Experimental Dental Research published by John Wiley & Sons Ltd.-->
+                <copyright-statement content-type="article-copyright">© 2024 The Authors. <italic toggle="yes">Clinical and Experimental Dental Research</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an open‐access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:CRE2-10-e863.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="cre2863-sec-0010">
+                  <title>Objectives</title>
+                  <p>The study aimed to assess the effectiveness of anxiety reduction protocol using auditory distraction in alleviating dental anxiety among patients undergoing tooth extraction.</p>
+                </sec>
+                <sec id="cre2863-sec-0020">
+                  <title>Materials and Methods</title>
+                  <p>A randomized controlled trial was conducted at the Oral Surgery Department at Islamabad Dental Hospital from July to December 2022, involving 50 patients scheduled for tooth extraction. Participants were randomly divided into two groups: an interventional group, exposed to auditory distraction, and a noninterventional group, without exposure to auditory distraction before the dental extraction. Dental anxiety was measured using the modified dental anxiety scale (MDAS) questionnaire, which scores anxiety levels on a range from 5 (not anxious) to 25 (extremely anxious). Anxiety levels were assessed in the waiting room and just before extraction, and the results were compared across both groups to evaluate the effectiveness of auditory distraction in reducing dental anxiety.</p>
+                </sec>
+                <sec id="cre2863-sec-0030">
+                  <title>Results</title>
+                  <p>The sample size of 50 was randomly and equally allocated to the interventional and noninterventional groups. The study population consisted of 28 (56%) female and 22 (44%) male participants. No significant difference was observed between the anxiety scores of interventional and noninterventional groups at baseline. A significant reduction in anxiety scores was observed in the intervention group during postintervention assessment, while no significant difference was seen in the noninterventional group's anxiety scores.</p>
+                </sec>
+                <sec id="cre2863-sec-0040">
+                  <title>Conclusions</title>
+                  <p>The study supports the efficacy of anxiety reduction protocol using auditory distraction as a practical tool for reducing dental anxiety among patients undergoing tooth extraction.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd id="cre2863-kwd-0001">dental anxiety</kwd>
+                <kwd id="cre2863-kwd-0002">randomized control trial</kwd>
+                <kwd id="cre2863-kwd-0003">tooth extraction</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>Self‐funded</funding-source>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="2"/>
+                <table-count count="3"/>
+                <page-count count="7"/>
+                <word-count count="4037"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>April 2024</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.8 mode:remove_FC converted:03.03.2024</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0023"><string-name><surname>Qazi</surname>, <given-names>S. H.</given-names></string-name>, <string-name><surname>Masoud</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Tariq</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Khan</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Emrani</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Ashraf</surname>, <given-names>J.</given-names></string-name> (<year>2024</year>). <article-title>Effectiveness of auditory distraction on the management of dental anxiety in patients undergoing tooth extraction at a tertiary care hospital in Islamabad</article-title>. <source>Clinical and Experimental Dental Research</source>; <volume>10</volume>, <elocation-id>e863</elocation-id>. <pub-id pub-id-type="doi">10.1002/cre2.863</pub-id>
+<pub-id pub-id-type="pmid">38433297</pub-id>
+</mixed-citation>
+              </p>
+            </notes>
+          </front>
+          <body>
+            <sec id="cre2863-sec-0050">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Dental fear and anxiety significantly contribute to the avoidance of dental care (Murad et al., <xref rid="cre2863-bib-0015" ref-type="bibr">2020</xref>). Anxiety, characterized as a sequence of behaviors, involves psychophysical activation in response to unpleasant stimuli (Aliabadi et al., <xref rid="cre2863-bib-0002" ref-type="bibr">2020</xref>). These stimuli can be either internal or external. Internal stimuli may be somatic and cognitive, whereby the patient is encouraged to think about something unrelated to the dental situation. Conversely, external stimuli comprise environmental factors that the patient experiences before, during, and after the procedure. The level of dental anxiety is associated with an increased perception of anticipated pain. However, this vicious cycle of pain and anxiety may be mitigated by providing patients with reassuring and informative communication (Perković et al., <xref rid="cre2863-bib-0017" ref-type="bibr">2014</xref>). Dental anxiety is most commonly associated with post‐traumatic treatment experiences, detrimentally affecting the oral health‐related quality of life for both children and adults (Xu &amp; Xia, <xref rid="cre2863-bib-0021" ref-type="bibr">2020</xref>). The prevalence of dental anxiety in children and adults ranges from 5.7% to 20.2% (Tiwari et al., <xref rid="cre2863-bib-0019" ref-type="bibr">2021</xref>). A study conducted among university students in Rawalpindi, Islamabad, and Multan in Pakistan revealed high to severe dental anxiety in 1.6% of males and 24% of females (Shaikh &amp; Kamal, <xref rid="cre2863-bib-0018" ref-type="bibr">2011</xref>). Females, naturally inclined to avoid perceived threats both socially and biologically, report higher and statistically significant dental anxiety scores. Additionally, their exposure to distinct environmental and genetic factors, compared to men, may contribute to more pronounced responses toward phobias (Oosterink et al., <xref rid="cre2863-bib-0016" ref-type="bibr">2009</xref>). Since anxiety can be triggered by the most incongruous situations, such as an encounter with the receptionist or the clinical ambiance, it is imperative to ensure that every aspect of the dental visit is optimized to alleviate dental anxiety (Appukuttan, <xref rid="cre2863-bib-0003" ref-type="bibr">2016</xref>).</p>
+              <p>Corah's dental anxiety scale, the modified dental anxiety scale (MDAS), and the dental fear survey are the most commonly utilized scales for assessing dental anxiety (Masoud et al., <xref rid="cre2863-bib-0014" ref-type="bibr">2022</xref>). Patients afflicted with dental anxiety tend to defer dental treatment and frequently exhibit nervous behaviors during dental visits, potentially straining the relationship between the dentist and the patient (Erten et al., <xref rid="cre2863-bib-0005" ref-type="bibr">2006</xref>).</p>
+              <p>Dental anxiety can be managed using psychotherapeutic and pharmacological interventions. Psychotherapeutic interventions encompass behavioral and cognitive therapies, while pharmacological management involves the use of sedation and anesthesia. It is speculated that stress reduction may be achieved through relaxation and reassurance (Yoo et al., <xref rid="cre2863-bib-0022" ref-type="bibr">2008</xref>).</p>
+              <p>As early as 1981, the impact of music as a form of distraction was investigated for its effects on pain among gynecologic/obstetric patients (Alhazmi et al., <xref rid="cre2863-bib-0001" ref-type="bibr">2022</xref>). However, currently, there is a gap in the systematic approach to managing dental anxiety utilizing auditory distraction and catering factors such as optimal timing and duration. This study aims to address the effectiveness of dental anxiety‐reducing protocol using auditory distraction specifically before tooth extraction thereby providing a simple technique for dental practitioners to incorporate into their practice and improve the patient's experience.</p>
+            </sec>
+            <sec sec-type="methods" id="cre2863-sec-0060">
+              <label>2</label>
+              <title>METHODOLOGY</title>
+              <p>A randomized control trial was conducted from July to December 2022 with 50 patients at the Oral and Maxillofacial Surgery (OMFS) Department of Islamabad Dental Hospital (IDH). The study received ethical approval from the Institutional Review Board of IDH (Ref# IMDC/DS/IRB/231 Dated 5th July 2022). Only the patients aged 15−59 years, presenting for simple extractions (non‐restorable nonmobile teeth), were considered for inclusion in this study. Wisdom tooth extractions of any kind were excluded from this study. The randomization process involved systematic random sampling–every second patient visiting the OMFS department for simple extraction was selected. These patients were then alternatively assigned to noninterventional and intervention groups. The recruitment of these patients was spread over the entire study period, from July to December 2022. This approach ensured a staggered but systematic enrollment of patients, aligning with the flow of regular patient visits to the department.</p>
+              <p>Inclusion criteria included those who gave written informed consent and were categorized as dentally anxious (as assessed through the MDAS questionnaire with a total score exceeding 5). Also, patients with a history of mental illness, known allergy to local anesthetic, scheduled for surgical extraction, or language barriers were excluded from the study. It was hypothesized that there would be a difference in the mean anxiety scores in the intervention group as compared to the noninterventional group. The above‐mentioned procedure is visually summarized as a flow chart in Figure <xref rid="cre2863-fig-0001" ref-type="fig">1</xref>.</p>
+              <fig position="float" fig-type="Figure" id="cre2863-fig-0001">
+                <label>Figure 1</label>
+                <caption>
+                  <p>Flowchart describing the study's protocol. *The interventional group refers to participants receiving a combined protocol of anxiety reduction and auditory distraction. MDAS, modified dental anxiety scale.</p>
+                </caption>
+                <graphic xlink:href="CRE2-10-e863-g001" position="anchor" id="jats-graphic-1"/>
+              </fig>
+              <p>The English version of the MDAS questionnaire (Humphris et al., <xref rid="cre2863-bib-0011" ref-type="bibr">1995</xref>), provided in Annexure 1, was translated into Urdu. Subsequent revisions were made to this translation, resulting in Cronbach's <italic toggle="yes">⍺</italic> value of 0.84. Section I of the MDAS questionnaire comprised questions on demographic variables such as age, gender, marital status, employment status, educational level, and past dental visits. Section II contained five questions about dental anxiety, scored on a Likert scale ranging from “not anxious (score 1),” “slightly anxious (score 2),” “fairly anxious (score 3),” “very anxious (score 4),” to “extremely anxious (score 5).” The total score, calculated as the sum of all five questions in Section II, provided a range of 5−25. Based on these total scores, categories were defined as “Not anxious (5),” “Mild anxiety (6−10),” “Moderate anxiety (11−14),” “High anxiety (15−18),” or “Extreme anxiety/dental phobia (19−25)”. After obtaining patient consent, the MDAS questionnaire was distributed in the waiting area. Patients were numbered and alternatively assigned to interventional and noninterventional groups.</p>
+              <p>The noninterventional group received no intervention, that is, auditory distraction, and the tooth extraction was performed routinely (anxiety reduction protocol steps 1−4) by the surgeon. For the interventional group, anxiety reduction protocol including audio distraction was given (steps 1−5), while the patient was in the dental chair immediately before tooth extraction. Patients from the interventional group were invited to select their preferred music composition or religious recitation and were provided with sanitized ear pods. The selected audio was played using a mobile phone for 5−10 min. To address potential confounders related to interoperator variability, all extractions were performed by the same senior postgraduate resident of the OMFS Department. The anxiety reduction protocol using audio distraction was provided by the primary researcher which included the following sequential steps:
+<list list-type="simple"><list-item><label>1)</label><p>Greeting the patient warmly on arrival.</p></list-item><list-item><label>2)</label><p>Carefully listening to their concerns.</p></list-item><list-item><label>3)</label><p>Verbal reassurance to the patient.</p></list-item><list-item><label>4)</label><p>Giving the patient a way to communicate (raise hand if in pain or discomfort).</p></list-item><list-item><label>5)</label><p>Audio distraction.</p></list-item></list>
+</p>
+              <p>In both the interventional and noninterventional groups, patients' levels of anxiety were initially assessed in the waiting room, followed by a second evaluation immediately before the extraction while the patient was seated in the dental chair. This protocol was predicated on the hypothesis that anxiety would either peak or remain constant at this juncture, and then decrease post‐extraction.</p>
+              <p>For assessing the normality of continuous variables, the Shapiro−Wilk test was utilized. Consequently, a nonparametric test, the Wilcoxon signed‐ranks test, was utilized to examine the change in questionnaire scores (mean anxiety scores). The Mann−Whitney <italic toggle="yes">U</italic> test was applied to evaluate the distribution of mean anxiety scores across the interventional and noninterventional groups. Multivariable analyses of variance were used to assess the impact of various predictor variables on the mean‐anxiety scores of both groups, aiming to identify potential factors that may contribute to anxiety related to dental procedures.</p>
+              <p>A checklist from the Critical appraisal skill program (CASP) was used to check the strengths and weaknesses of this study (CASP [internet], <xref rid="cre2863-bib-0004" ref-type="bibr">2023</xref>). The appraisal of the CASP list for this study reveals notable adherence to key research guidelines, in methodological rigor, and ensuring initial group equivalence. While there are areas for improvement, such as more detailed reporting on intervention effects and drop‐out rates, the study's foundational strengths offer a promising basis for future research advancements. This list is provided as Annexure 2.</p>
+              <p>The Statistical Package for Social Sciences (SPSS) version 22 was used for descriptive data analysis. Visualizations were made through Matplotlib and Seaborn packages of Python (version 3.11.5), whereas the flow chart was made through the Graphviz package of Python.</p>
+            </sec>
+            <sec sec-type="results" id="cre2863-sec-0070">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>The study sample comprised 50 participants, split evenly across interventional and noninterventional groups (<italic toggle="yes">n</italic> = 25 per group), with a gender distribution of 28 females (56%) and 22 males (44%) and a mean age of 32.80 (SD = 10.33) years. The study sample characteristics are presented in Table <xref rid="cre2863-tbl-0001" ref-type="table">1</xref>.</p>
+              <table-wrap position="float" id="cre2863-tbl-0001" content-type="Table">
+                <label>Table 1</label>
+                <caption>
+                  <p>Sample characteristics of interventional and noninterventional groups.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <thead valign="bottom">
+                    <tr valign="bottom" style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Variables</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Interventional group</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Control group</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">p</italic> Value</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Age,<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>(mean ± SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">33.28 (11.85)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">32.32 (8.77)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.861<xref rid="cre2863-tbl1-note-0002" ref-type="table-fn">b</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Total pre‐anxiety score,<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref> mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10.84 (3.47)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11.28 (3.40)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.653<xref rid="cre2863-tbl1-note-0003" ref-type="table-fn">c</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Total post‐anxiety score,<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref> mean (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8.96 (3.03)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11.12 (3.15)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.014<xref rid="cre2863-tbl1-note-0002" ref-type="table-fn">b</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Gender, <italic toggle="yes">n</italic> (%)<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.000<xref rid="cre2863-tbl1-note-0004" ref-type="table-fn">d</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Male</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11 (50)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11 (50)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Female</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (50)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14 (50)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Marital status, <italic toggle="yes">n</italic> (%)<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Married</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">17 (53)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (47)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.768<xref rid="cre2863-tbl1-note-0004" ref-type="table-fn">d</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unmarried</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Education, <italic toggle="yes">n</italic> (%)<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">25</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">22</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.235<xref rid="cre2863-tbl1-note-0005" ref-type="table-fn">e</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Employment status, <italic toggle="yes">n</italic> (%)<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.000<xref rid="cre2863-tbl1-note-0004" ref-type="table-fn">d</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Employed</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (50)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15 (50)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Unemployed</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 (50)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 (50)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Previous dental history, <italic toggle="yes">n</italic> (%)<xref rid="cre2863-tbl1-note-0001" ref-type="table-fn">a</xref>
+</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.000<xref rid="cre2863-tbl1-note-0004" ref-type="table-fn">d</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yes</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">13</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">No</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">11</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">12</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="cre2863-tbl1-note-0001">
+                    <label>
+                      <sup>a</sup>
+                    </label>
+                    <p>Mean ± SD for continuous variables, counts, and row‐wise proportions for categorical variables.</p>
+                  </fn>
+                  <fn id="cre2863-tbl1-note-0002">
+                    <label>
+                      <sup>b</sup>
+                    </label>
+                    <p><italic toggle="yes">p</italic> Value based on Mann−Whitney <italic toggle="yes">U</italic> test.</p>
+                  </fn>
+                  <fn id="cre2863-tbl1-note-0003">
+                    <label>
+                      <sup>c</sup>
+                    </label>
+                    <p><italic toggle="yes">p</italic> Value based on <italic toggle="yes">t</italic>‐test.</p>
+                  </fn>
+                  <fn id="cre2863-tbl1-note-0004">
+                    <label>
+                      <sup>d</sup>
+                    </label>
+                    <p><italic toggle="yes">p</italic> Value based on <italic toggle="yes">χ</italic>
+<sup>2</sup>.</p>
+                  </fn>
+                  <fn id="cre2863-tbl1-note-0005">
+                    <label>
+                      <sup>e</sup>
+                    </label>
+                    <p><italic toggle="yes">p</italic> Value based on fishers' exact.</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <p>The mean anxiety score for both interventional and noninterventional groups was measured at two points, that is, baseline (in the waiting room) and before extraction (on the dental unit). The two groups were comparable at the baseline and there existed no significant difference in their anxiety levels as shown by the Mann−Whitney test (<italic toggle="yes">p</italic> = 0.592). However, the two groups showed a significant difference between their scores just before the tooth extraction (<italic toggle="yes">p</italic> = 0.013) (Table <xref rid="cre2863-tbl-0002" ref-type="table">2</xref>). Following the application of auditory distraction in the intervention group, the mean anxiety score significantly decreased. Conversely, in the noninterventional group, no significant difference was observed between the dental anxiety scores assessed in the waiting room and just before the extraction (<italic toggle="yes">p</italic> &gt; 0.05) (Figure <xref rid="cre2863-fig-0002" ref-type="fig">2</xref>).</p>
+              <table-wrap position="float" id="cre2863-tbl-0002" content-type="Table">
+                <label>Table 2</label>
+                <caption>
+                  <p>Comparison of anxiety levels in the two groups at baseline and preprocedure.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <thead valign="bottom">
+                    <tr valign="bottom" style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Stage of observation</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Groups</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">
+                        <italic toggle="yes">N</italic>
+                      </th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Mean rank</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Range</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">p</italic> Value</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td rowspan="2" align="left" valign="top" colspan="1">Baseline (waiting room)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Intervention</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">24</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5−20</td>
+                      <td rowspan="2" align="char" valign="top" colspan="1">0.592</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Nonintervention</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">5−17</td>
+                    </tr>
+                    <tr>
+                      <td rowspan="2" align="left" valign="top" colspan="1">Preprocedure</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Intervention</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">20.42</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">6−19</td>
+                      <td rowspan="2" align="char" valign="top" colspan="1">0.013<xref rid="cre2863-tbl2-note-0001" ref-type="table-fn">a</xref>
+</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Nonintervention</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">25</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">30.58</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">6−18</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="cre2863-tbl2-note-0001">
+                    <label>
+                      <sup>a</sup>
+                    </label>
+                    <p>Significant <italic toggle="yes">p</italic>‐value according to Mann−Whitney test.</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <fig position="float" fig-type="Figure" id="cre2863-fig-0002">
+                <label>Figure 2</label>
+                <caption>
+                  <p>Comparison of mean anxiety scores in interventional and noninterventional groups. Error bars denote the standard deviation. *<italic toggle="yes">p</italic> &lt; 0.05. MDAS, modified dental anxiety scale.</p>
+                </caption>
+                <graphic xlink:href="CRE2-10-e863-g002" position="anchor" id="jats-graphic-3"/>
+              </fig>
+              <p>The multivariate analysis of variance model (Table <xref rid="cre2863-tbl-0003" ref-type="table">3</xref>) was utilized to investigate the effects of several predictors on two dependent variables, mean anxiety scores at baseline and just before extraction, in both interventional and noninterventional groups. The predictors included age, gender, marital status, education, employment status, dental history, and Intervention. The intervention variable had two categories: intervention and no intervention, with nonintervention being the reference category. According to this model, age, gender, marital status, education, employment status, and dental history were not significantly associated with the dependent variables (<italic toggle="yes">p</italic> &gt; 0.05). However, the intervention variable was significantly associated with the dependent variables (<italic toggle="yes">p</italic> &lt; 0.05). The rationale behind testing the relationship between categories of predictor variables and the mean anxiety scores was to identify potential factors that may contribute to mean anxiety scores related to dental procedures.</p>
+              <table-wrap position="float" id="cre2863-tbl-0003" content-type="Table">
+                <label>Table 3</label>
+                <caption>
+                  <p>Multivariate analysis of variance (MANOVA) based on pre and post‐anxiety scores.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="char" char="." span="1"/>
+                  <thead valign="bottom">
+                    <tr valign="bottom" style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Term/variable</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Wilks' lambda</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">F</italic> Value</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">p</italic> Value</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Intercept</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6929</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">9.0842</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0005</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Age</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9351</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.4236</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2525</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Gender<xref rid="cre2863-tbl3-note-0002" ref-type="table-fn">a</xref> (males)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9767</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4899</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6162</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Marital status<xref rid="cre2863-tbl3-note-0003" ref-type="table-fn">b</xref> (unmarried)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9999</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0016</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9984</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Education<xref rid="cre2863-tbl3-note-0004" ref-type="table-fn">c</xref> (educated)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9517</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.0393</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3628</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Employment status<xref rid="cre2863-tbl3-note-0005" ref-type="table-fn">d</xref> (unemployed)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9537</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9951</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3784</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Dental history<xref rid="cre2863-tbl3-note-0006" ref-type="table-fn">e</xref> (no dental history)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.9671</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6971</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5038</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Intervention<xref rid="cre2863-tbl3-note-0007" ref-type="table-fn">f</xref> (interventional group)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5864</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">14.4592</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0000</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="cre2863-tbl3-note-0001">
+                    <p><italic toggle="yes">Note</italic>: The degree of freedom for the denominator is 41 and for the numerator, it is 2.</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0002">
+                    <label>
+                      <sup>a</sup>
+                    </label>
+                    <p>Reference category is “females.”</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0003">
+                    <label>
+                      <sup>b</sup>
+                    </label>
+                    <p>Reference category is “married.”</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0004">
+                    <label>
+                      <sup>c</sup>
+                    </label>
+                    <p>Reference category is “not educated.”</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0005">
+                    <label>
+                      <sup>d</sup>
+                    </label>
+                    <p>Reference category is “employed.”</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0006">
+                    <label>
+                      <sup>e</sup>
+                    </label>
+                    <p>Reference category is “positive dental history.”</p>
+                  </fn>
+                  <fn id="cre2863-tbl3-note-0007">
+                    <label>
+                      <sup>f</sup>
+                    </label>
+                    <p>Reference category is the “noninterventional group.”</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <p>The comparison of mean anxiety scores across intervention and nonintervention categories of the intervention variable before and after the intervention provided insight into the baseline differences and the effects of the intervention on the mean anxiety scores. As shown in Figure <xref rid="cre2863-fig-0002" ref-type="fig">2</xref>, a statistically significant (<italic toggle="yes">p</italic> &lt; 0.05) reduction in the mean anxiety scores was observed in the intervention group following the application of auditory distraction.</p>
+            </sec>
+            <sec sec-type="discussion" id="cre2863-sec-0080">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>This study's findings demonstrate that auditory distraction effectively reduces dental anxiety in patients undergoing nonsurgical extractions. Also, this study reveals that gender, marital status, education, employment status, and dental history do not exhibit any significant associations with anxiety levels.</p>
+              <p>The results of this study align with a randomized controlled trial by Alhazmi et al., who compared both brief relaxation therapy and auditory distraction for the reduction of dental anxiety in patients undergoing tooth extraction. Although both techniques proved effective, the study found brief relaxation therapy to be superior to the auditory distraction technique. However, auditory distraction was a more applicable and manageable option for reducing dental anxiety in the current study setting, where cost‐effectiveness and timely completion of the protocol were critical due to substantial outpatient department turnover in the OMFS department and a shortage of clinicians. Brief relaxation therapy, on the other hand, requires trained personnel like physiotherapists and cannot be implemented without training, hence it was not prioritized.</p>
+              <p>The technique used in this study first established baseline anxiety levels in the waiting room and then measured them again just before extraction. While numerous previous studies have assessed anxiety scores post‐extraction rather than pre‐extraction, the researchers believe this approach produces subjective results; once the dental procedure is complete, anxiety levels understandably decrease (Gazal et al., <xref rid="cre2863-bib-0006" ref-type="bibr">2016</xref>; Lahmann et al., <xref rid="cre2863-bib-0013" ref-type="bibr">2008</xref>). Therefore, the current study assessed the effectiveness of the anxiety reduction protocol pretreatment rather than posttreatment.</p>
+              <p>The findings of this study are also supported by a systematic review by Hoffman et al. (<xref rid="cre2863-bib-0010" ref-type="bibr">2022</xref>), which assessed anxiety by measuring physiological parameters and concluded that music aids in distracting the patient and also suppresses the autonomic nervous system.</p>
+              <p>It is noteworthy that in the current study, the researchers allowed patients to use headphones and choose their preferred music. This approach mirrors Saravanan's demonstration that using headphones to listen to music during dental treatment allows patients to control the volume and mask surrounding noises from drilling (Wong et al., <xref rid="cre2863-bib-0020" ref-type="bibr">2018</xref>). These findings highlight the superior efficacy of headphones in alleviating dental anxiety. Additionally, the current study allowed patients to choose their own music, reaffirming the findings of another study that, irrespective of the type, listening to music significantly reduces dental anxiety (Gulnahar &amp; Kupeli, <xref rid="cre2863-bib-0007" ref-type="bibr">2020</xref>).</p>
+              <p>Numerous studies have established auditory distraction as an effective tool for reducing dental anxiety. Some studies have tested the effectiveness of both audio and audio‐visual distraction aids for managing pain and anxiety, while others assessed their effectiveness in specific clinical procedures like root canal treatment (Gurav et al., <xref rid="cre2863-bib-0008" ref-type="bibr">2022</xref>; Jethani et al., <xref rid="cre2863-bib-0012" ref-type="bibr">2019</xref>). The study firmly endorses the use of auditory distraction as an effective approach for reducing dental anxiety in patients undergoing nonsurgical extraction. It demonstrates the potential for this noninvasive, patient‐centered intervention to significantly decrease anxiety levels before dental procedures, thereby improving the overall patient experience. Prior studies have also suggested that when participants listened to music it proved to be an effective tool in reducing their physical and mental stress, as well as increasing their safety and pain inception (Hilliard, <xref rid="cre2863-bib-0009" ref-type="bibr">2005</xref>).</p>
+              <p>Auditory distraction, as implemented in this study, presents several notable advantages. It is a cost‐effective solution, especially pertinent in resource‐limited settings like Pakistan. Additionally, it can be easily integrated into existing dental care protocols without the need for specialized training, further emphasizing its practicability.</p>
+              <p>The insignificant impact of demographic and clinical characteristics on the outcomes of our study supports the broad applicability of auditory distraction across diverse patient populations, thus showing promise in its potential to universally improve dental care experiences.</p>
+              <p>While our findings are promising, further research involving a larger sample size is essential to comprehensively evaluate the efficacy and constraints of auditory distraction across diverse dental procedures. Additionally, investigating other noninvasive techniques for managing dental anxiety is recommended to broaden the array of tools available for anxiety mitigation in dental practices. Our study, however, is not without limitations. First, the small sample size may restrict the generalizability of our findings beyond the immediate study context. Second, the results do not support causal interpretations or implications.</p>
+            </sec>
+            <sec sec-type="conclusions" id="cre2863-sec-0090">
+              <label>5</label>
+              <title>CONCLUSION</title>
+              <p>Adoption of patient‐centered interventions such as auditory distraction can significantly contribute to reducing dental anxiety, thereby potentially improving oral health outcomes and overall patient satisfaction and compliance in dental care.</p>
+            </sec>
+            <sec id="cre2863-sec-0100">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p>Sheze Haroon Qazi and Saba Masoud conceptualized the research idea and prepared the initial draft of the article. Khadija Tariq and Minahil Khan were responsible for conducting the study under real clinical situations, under the guidance and supervision of Sheze Haroon Qazi and Saba Masoud. Reza Emrani played a crucial role in proofreading and reviewing the manuscript, contributing significantly to its finalization. Javed Ashraf was responsible for the visulaizations, statisitcal anlayses, finalization and submission of the manuscript. Additionally, Javed Ashraf supervised, managed and finalized the manuscript revisions and handled the resubmission process. Sheze Haroon Qazi and Saba Masoud reviewed and proofread the revised version of the manuscript, ensuring its readiness for publication.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="cre2863-sec-0120">
+              <title>CONFLICT OF INTEREST STATEMENT</title>
+              <p>The authors declare no conflict of interest.</p>
+            </sec>
+          </body>
+          <back>
+            <ack id="cre2863-sec-0110">
+              <title>ACKNOWLEDGMENTS</title>
+              <p>We gratefully acknowledge the support of the dental professionals, support staff, and patients at the Islamabad Dental Hospital in Islamabad for their participation in this study. This research was entirely self‐funded, with no external funding received for the conduct of the study. However, we extend our sincere appreciation and thankfulness to the University of Eastern Finland, Finland, for generously covering the article processing charges of this article.</p>
+            </ack>
+            <sec sec-type="data-availability" id="cre2863-sec-0140">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list content-type="cited-references" id="cre2863-bibl-0001">
+              <title>REFERENCES</title>
+              <ref id="cre2863-bib-0001">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0001"><string-name><surname>Alhazmi</surname>, <given-names>Y. A.</given-names></string-name>, <string-name><surname>Mobarki</surname>, <given-names>A. M.</given-names></string-name>, <string-name><surname>Hakami</surname>, <given-names>W. H.</given-names></string-name>, <string-name><surname>Akairi</surname>, <given-names>H. N.</given-names></string-name>, <string-name><surname>Altherwi</surname>, <given-names>Y. K.</given-names></string-name>, &amp; <string-name><surname>Quadri</surname>, <given-names>M. F. A.</given-names></string-name> (<year>2022</year>). <article-title>Effectiveness of auditory distraction and brief relaxation therapy in reducing anxiety in dental patients undergoing extraction: A randomized controlled trial</article-title>. <source>Applied Sciences</source>, <volume>12</volume>(<issue>2</issue>), <fpage>418</fpage>.</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0002">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0002"><string-name><surname>Aliabadi</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Tavanafar</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Ghorbani</surname>, <given-names>F.</given-names></string-name>, &amp; <string-name><surname>Karimpour</surname>, <given-names>H.</given-names></string-name> (<year>2020</year>). <article-title>Anxiety in patients undergoing surgical extraction of mandibular third molars</article-title>. <source>Journal of Oral Research and Review</source>, <volume>12</volume>, <fpage>82</fpage>–<lpage>86</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0003">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0003"><string-name><surname>Appukuttan</surname>, <given-names>D.</given-names></string-name> (<year>2016</year>). <article-title>Strategies to manage patients with dental anxiety and dental phobia: Literature review</article-title>. <source>Clinical, Cosmetic and Investigational Dentistry</source>, <volume>8</volume>, <fpage>35</fpage>–<lpage>50</lpage>. <pub-id pub-id-type="doi">10.2147/CCIDE.S63626</pub-id>
+<pub-id pub-id-type="pmid">27022303</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0004">
+                <mixed-citation publication-type="miscellaneous" id="cre2863-cit-0004"><collab collab-type="authors">CASP</collab>
+. (2023). CASP checklist; UK. <ext-link xlink:href="https://casp-uk.net/casp-tool" ext-link-type="uri">https://casp-uk.net/casp-tool</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0005">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0005"><string-name><surname>Erten</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Akarslan</surname>, <given-names>Z. Z.</given-names></string-name>, &amp; <string-name><surname>Bodrumlu</surname>, <given-names>E.</given-names></string-name> (<year>2006</year>). <article-title>Dental fear and anxiety levels of patients attending a dental clinic</article-title>. <source>Quintessence International (Berlin, Germany: 1985)</source>, <volume>37</volume>(<issue>4</issue>), <fpage>304</fpage>–<lpage>310</lpage>.<pub-id pub-id-type="pmid">16594362</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0006">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0006"><string-name><surname>Gazal</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Tola</surname>, <given-names>A. W.</given-names></string-name>, <string-name><surname>Fareed</surname>, <given-names>W. M.</given-names></string-name>, <string-name><surname>Alnazzawi</surname>, <given-names>A. A.</given-names></string-name>, &amp; <string-name><surname>Zafar</surname>, <given-names>M. S.</given-names></string-name> (<year>2016</year>). <article-title>A randomized control trial comparing the visual and verbal communication methods for reducing fear and anxiety during tooth extraction</article-title>. <source>The Saudi Dental Journal</source>, <volume>28</volume>, <fpage>80</fpage>–<lpage>85</lpage>.<pub-id pub-id-type="pmid">27486293</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0007">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0007"><string-name><surname>Gulnahar</surname>, <given-names>Y.</given-names></string-name>, &amp; <string-name><surname>Kupeli</surname>, <given-names>I.</given-names></string-name> (<year>2020</year>). <article-title>Effect of different kinds of music on anxiety during implant surgery in Turkey: Randomized controlled study</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>35</volume>(<issue>4</issue>), <fpage>762</fpage>–<lpage>766</lpage>.<pub-id pub-id-type="pmid">32724929</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0008">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0008"><string-name><surname>Gurav</surname>, <given-names>K. M.</given-names></string-name>, <string-name><surname>Kulkarni</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Shetty</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Vinay</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Borade</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Ghadge</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Bhor</surname>, <given-names>K.</given-names></string-name> (<year>2022</year>). <article-title>Effectiveness of audio and audio‐visual distraction aids for management of pain and anxiety in children and adults undergoing dental treatment: A systematic review and meta‐analysis</article-title>. <source>Journal of Clinical Pediatric Dentistry</source>, <volume>46</volume>(<issue>2</issue>), <fpage>86</fpage>–<lpage>106</lpage>.<pub-id pub-id-type="pmid">35533223</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0009">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0009"><string-name><surname>Hilliard</surname>, <given-names>R. E.</given-names></string-name> (<year>2005</year>). <article-title>Music therapy in hospice and palliative care a review of the empirical data</article-title>. <source>Evidence‐Based Complementary and Alternative Medicine</source>, <volume>2</volume>, <fpage>173</fpage>–<lpage>178</lpage>. <pub-id pub-id-type="doi">10.1093/ecam/neh076</pub-id>
+<pub-id pub-id-type="pmid">15937557</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0010">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0010"><string-name><surname>Hoffmann</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Erwood</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Ncomanzi</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Fischer</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>O'Brien</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Lee</surname>, <given-names>A.</given-names></string-name> (<year>2022</year>). <article-title>Management strategies for adult patients with dental anxiety in the dental clinic: A systematic review</article-title>. <source>Australian Dental Journal</source>, <volume>67</volume>(<issue>Suppl 1</issue>), <fpage>S3</fpage>–<lpage>S13</lpage>. <pub-id pub-id-type="doi">10.1111/adj.12926</pub-id>
+<pub-id pub-id-type="pmid">35735746</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0011">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0011"><string-name><surname>Humphris</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Morrison</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Lindsay</surname>, <given-names>S. J.</given-names></string-name> (<year>1995</year>). <article-title>The modified dental anxiety scale: Validation and United Kingdom norms</article-title>. <source>Community Dental Health</source>, <volume>12</volume>(<issue>3</issue>), <fpage>143</fpage>–<lpage>150</lpage>.<pub-id pub-id-type="pmid">7584581</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0012">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0012"><string-name><surname>Jethani</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Narayana</surname>, <given-names>I. H.</given-names></string-name>, <string-name><surname>Dinesh</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>Mathew</surname>, <given-names>S.</given-names></string-name> (<year>2019</year>). <article-title>Influence of music therapy on anxiety, pain perception, heart rate, and blood pressure of patients undergoing endodontic treatment: A randomized control trial</article-title>. <source>International Journal of Science and Research</source>, <volume>8</volume>(<issue>11</issue>).</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0013">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0013"><string-name><surname>Lahmann</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Schoen</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Henningsen</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Ronel</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Muehlbacher</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Loew</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Tritt</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Nickel</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Doering</surname>, <given-names>S.</given-names></string-name> (<year>2008</year>). <article-title>Brief relaxation versus music distraction in the treatment of dental anxiety</article-title>. <source>The Journal of the American Dental Association</source>, <volume>139</volume>, <fpage>317</fpage>–<lpage>324</lpage>.<pub-id pub-id-type="pmid">18310736</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0014">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0014"><string-name><surname>Masoud</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Qazi</surname>, <given-names>S. H.</given-names></string-name>, &amp; <string-name><surname>Mumtaz</surname>, <given-names>R.</given-names></string-name> (<year>2022</year>). <article-title>Assesment of dental anxiety inpatients visiting a teaching hospital in Islamabad</article-title>. <source>Pakistan Oral &amp; Dental Journal</source>, <volume>42</volume>(<issue>1</issue>), <fpage>39</fpage>–<lpage>43</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0015">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0015"><string-name><surname>Murad</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Ingle</surname>, <given-names>N.</given-names></string-name>, &amp; <string-name><surname>Assery</surname>, <given-names>M.</given-names></string-name> (<year>2020</year>). <article-title>Evaluating factors associated with fear and anxiety to dental treatment: A systematic review</article-title>. <source>Journal of Family Medicine and Primary Care</source>, <volume>9</volume>(<issue>9</issue>), <fpage>4530</fpage>–<lpage>4535</lpage>. <pub-id pub-id-type="doi">10.4103/jfmpc.jfmpc_607_20</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0016">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0016"><string-name><surname>Oosterink</surname>, <given-names>F. M. D.</given-names></string-name>, <string-name><surname>de Jongh</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Hoogstraten</surname>, <given-names>J.</given-names></string-name> (<year>2009</year>). <article-title>Prevalence of dental fear and phobia relative to other fear and phobia subtypes</article-title>. <source>European Journal of Oral Sciences</source>, <volume>117</volume>, <fpage>135</fpage>–<lpage>143</lpage>.<pub-id pub-id-type="pmid">19320722</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0017">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0017"><string-name><surname>Perković</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Perić</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Romić Knežević</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Jukić Krmek</surname>, <given-names>S.</given-names></string-name> (<year>2014</year>). <article-title>The level of anxiety and pain perception of endodontic patients</article-title>. <source>Acta Stomatologica Croatica</source>, <volume>48</volume>(<issue>4</issue>), <fpage>258</fpage>–<lpage>267</lpage>. <pub-id pub-id-type="doi">10.15644/asc47/4/3</pub-id>
+<pub-id pub-id-type="pmid">27688374</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0018">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0018"><string-name><surname>Shaikh</surname>, <given-names>M. A.</given-names></string-name>, &amp; <string-name><surname>Kamal</surname>, <given-names>A.</given-names></string-name> (<year>2011</year>). <article-title>Over dental anxiety problems among university students: Perspective from Pakistan</article-title>. <source>Journal of the College of Physicians and Surgeons‐Pakistan: JCPSP</source>, <volume>21</volume>(<issue>4</issue>), <fpage>237</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">21453623</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0019">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0019"><string-name><surname>Tiwari</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Kulkarni</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Agrawal</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Mali</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Kale</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Jaiswal</surname>, <given-names>N.</given-names></string-name> (<year>2021</year>). <article-title>Dental anxiety scales used in pediatric dentistry: A systematic review and meta‐analysis</article-title>. <source>The Journal of Contemporary Dental Practice</source>, <volume>22</volume>(<issue>11</issue>), <fpage>1338</fpage>–<lpage>1345</lpage>.<pub-id pub-id-type="pmid">35343462</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0020">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0020"><string-name><surname>Wong</surname>, <given-names>C. Y.</given-names></string-name>, <string-name><surname>Saravanan</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Musawi</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Gan</surname>, <given-names>S. W.</given-names></string-name> (<year>2018</year>). <article-title>Effects of a combination of non‐pharmaceutical psychological interventions on dental anxiety</article-title>. <source>Journal of Clinical and Translational Research</source>, <volume>3</volume>(<issue>3</issue>), <fpage>311</fpage>–<lpage>317</lpage>.<pub-id pub-id-type="pmid">30895272</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0021">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0021"><string-name><surname>Xu</surname>, <given-names>J.‐L.</given-names></string-name>, &amp; <string-name><surname>Xia</surname>, <given-names>R.</given-names></string-name> (<year>2020</year>). <article-title>Influence factors of dental anxiety in patients with impacted third molar extractions and its correlation with postoperative pain: A prospective study</article-title>. <source>Medicina oral, patologia oral y cirugiabucal</source>, <volume>25</volume>(<issue>6</issue>), <fpage>714</fpage>–<lpage>719</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cre2863-bib-0022">
+                <mixed-citation publication-type="journal" id="cre2863-cit-0022"><string-name><surname>Yoo</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Choi</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Sul</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Kim</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Mo</surname>, <given-names>D.</given-names></string-name> (<year>2008</year>). <article-title>Stress reduction protocol for proper local anesthesia of advanced infected teeth in medically compromised patients: Review of literature &amp; report of cases</article-title>. <source>Journal of Dental Anesthesia and Pain Medicine</source>, <volume>8</volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>9</lpage>.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

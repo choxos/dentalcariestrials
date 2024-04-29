@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:40:48Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9299917" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9299917</identifier>
+        <datestamp>2022-07-21</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="clr13881" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Implants Res</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Implants Res</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-0501</journal-id>
+              <journal-id journal-id-type="publisher-id">CLR</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Implants Research</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0905-7161</issn>
+              <issn pub-type="epub">1600-0501</issn>
+              <publisher>
+                <publisher-name>John Wiley and Sons Inc.</publisher-name>
+                <publisher-loc>Hoboken</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9299917</article-id>
+              <article-id pub-id-type="pmcid">PMC9299917</article-id>
+              <article-id pub-id-type="pmc-uid">9299917</article-id>
+              <article-id pub-id-type="pmid">34808006</article-id>
+              <article-id pub-id-type="pmid">34808006</article-id>
+              <article-id pub-id-type="doi">10.1111/clr.13881</article-id>
+              <article-id pub-id-type="publisher-id">CLR13881</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Erythritol air polishing in the surgical treatment of peri‐implantitis: A randomized controlled trial</article-title>
+                <alt-title alt-title-type="left-running-head">HENTENAAR et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="clr13881-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Hentenaar</surname>
+                    <given-names>Diederik F.M.</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7904-5548</contrib-id>
+                  <xref rid="clr13881-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <address>
+                    <email>d.f.m.hentenaar@umcg.nl</email>
+                  </address>
+                </contrib>
+                <contrib id="clr13881-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>De Waal</surname>
+                    <given-names>Yvonne C.M.</given-names>
+                  </name>
+                  <xref rid="clr13881-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13881-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Stewart</surname>
+                    <given-names>Roy E.</given-names>
+                  </name>
+                  <xref rid="clr13881-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13881-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Van Winkelhoff</surname>
+                    <given-names>Arie Jan</given-names>
+                  </name>
+                  <xref rid="clr13881-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13881-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Meijer</surname>
+                    <given-names>Henny J.A.</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1702-6031</contrib-id>
+                  <xref rid="clr13881-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="clr13881-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13881-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>Raghoebar</surname>
+                    <given-names>Gerry M.</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3578-7141</contrib-id>
+                  <xref rid="clr13881-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="clr13881-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral and Maxillofacial Surgery</named-content>
+                <institution>University of Groningen</institution>
+                <institution>University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="clr13881-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Center for Dentistry and Oral Hygiene</named-content>
+                <institution>University of Groningen</institution>
+                <institution>University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="clr13881-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Health Sciences, Community and Occupational Medicine</named-content>
+                <institution>University of Groningen</institution>
+                <institution>University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Diederik F.M. Hentenaar, Department of Oral and Maxillofacial Surgery, University of Groningen, University Medical Center Groningen, PO Box 30.001, 9700 RB Groningen, The Netherlands.<break/>
+Email: <email>d.f.m.hentenaar@umcg.nl</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>02</day>
+                <month>12</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>33</volume>
+              <issue seq="80">2</issue>
+              <issue-id pub-id-type="doi">10.1111/clr.v33.2</issue-id>
+              <fpage>184</fpage>
+              <lpage>196</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>03</day>
+                  <month>11</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="received">
+                  <day>22</day>
+                  <month>4</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>16</day>
+                  <month>11</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2022 John Wiley & Sons A/S-->
+                <copyright-statement content-type="article-copyright">© 2021 The Authors. <italic toggle="yes">Clinical Oral Implants Research</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:CLR-33-184.pdf"/>
+              <abstract id="clr13881-abs-0001">
+                <title>Abstract</title>
+                <sec id="clr13881-sec-0001">
+                  <title>Objectives</title>
+                  <p>To compare erythritol air polishing with implant surface cleansing using saline during the surgical treatment of peri‐implantitis.</p>
+                </sec>
+                <sec id="clr13881-sec-0002">
+                  <title>Material and Methods</title>
+                  <p>During a resective surgical intervention, implant surfaces were randomly treated with either air polishing (test group <italic toggle="yes">n</italic> = 26 patients/53 implants) or saline‐soaked cotton gauzes (control group <italic toggle="yes">n</italic> = 31 patients/ 40 implants). Primary outcome was change in mean bleeding on probing (BoP) from baseline to 12 months follow‐up. Secondary outcomes were changes in mean suppuration on probing (SoP), plaque score (Plq), probing pocket depth (PPD), marginal bone loss (MBL), periodontal full‐mouth scores (PFMS), and levels of 8 classical periodontal pathogens. Clinical and radiographical parameters were analyzed using multilevel regression analyses. Microbiological outcomes were analyzed using the Mann–Whitney U test.</p>
+                </sec>
+                <sec id="clr13881-sec-0003">
+                  <title>Results</title>
+                  <p>No differences between the test and control group were found for BoP over 12 months of follow‐up, nor for the secondary parameters Plq, PPD, and MBL. Between both groups, a significant difference was found for the levels of SoP (<italic toggle="yes">p </italic>=<italic toggle="yes"> 0</italic>.<italic toggle="yes">035</italic>). No significant effect on microbiological levels was found. A total number of 6 implants were lost in the test group and 10 in the control group. At 1‐year follow‐up, a successful treatment outcome (PPD&lt;5 mm, max 1 out of 6 sites BoP, no suppuration and no progressive bone loss &gt;0.5 mm) was achieved for a total of 18 implants (19.2%).</p>
+                </sec>
+                <sec id="clr13881-sec-0004">
+                  <title>Conclusions</title>
+                  <p>Erythritol air polishing as implant surface cleansing method was not more effective than saline during resective surgical treatment of peri‐implantitis in terms of clinical, radiographical, and microbiological parameters. Both therapies resulted in low treatment success.</p>
+                  <p>Trial registry: <ext-link xlink:href="https://www.trialregister.nl/" ext-link-type="uri">https://www.trialregister.nl/</ext-link> Identifier: NL8621.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd id="clr13881-kwd-0001">dental implant</kwd>
+                <kwd id="clr13881-kwd-0002">intervention study</kwd>
+                <kwd id="clr13881-kwd-0003">peri‐implantitis</kwd>
+                <kwd id="clr13881-kwd-0004">randomized controlled trial</kwd>
+                <kwd id="clr13881-kwd-0005">surgery</kwd>
+              </kwd-group>
+              <counts>
+                <fig-count count="3"/>
+                <table-count count="4"/>
+                <page-count count="13"/>
+                <word-count count="9627"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>February 2022</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:20.07.2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="clr13881-cit-1001"><string-name><surname>Hentenaar</surname>, <given-names>D. F. M.</given-names></string-name>, <string-name><surname>De Waal</surname>, <given-names>Y. C. M.</given-names></string-name>, <string-name><surname>Stewart</surname>, <given-names>R. E.</given-names></string-name>, <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, &amp; <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name> (<year>2022</year>). <article-title>Erythritol air polishing in the surgical treatment of peri‐implantitis: A randomized controlled trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>33</volume>, <fpage>184</fpage>–<lpage>196</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13881</pub-id>
+<pub-id pub-id-type="pmid">34808006</pub-id></mixed-citation>
+              </p>
+            </notes>
+          </front>
+          <body id="clr13881-body-0001">
+            <sec id="clr13881-sec-0005">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Implant surface decontamination and/or debridement is considered a critical component for the successful surgical treatment of peri‐implantitis (Sanz et al., <xref rid="clr13881-bib-0044" ref-type="bibr">2012</xref>). Over the last decade, various interventions (i.e., chemical, mechanical, or light‐mediated) have been studied to eliminate the biofilm and resolve inflammation (Garaicoa‐Pazmino et al., <xref rid="clr13881-bib-0013" ref-type="bibr">2019</xref>; Ramanauskaite et al., <xref rid="clr13881-bib-0041" ref-type="bibr">2020</xref>). However, no clinical, radiographical, and microbiological data favor any cleansing approach (Khoury et al., <xref rid="clr13881-bib-0021" ref-type="bibr">2019</xref>). To determine the superiority of a decontamination and/or debridement method, clinical studies are needed (Koo et al., <xref rid="clr13881-bib-0022" ref-type="bibr">2019</xref>).</p>
+              <p>In order to assess the influence of a debridement method, a randomized clinical trial (RCT) focusing on a single intervention, not using augmentative or adjunctive therapy, is recommended (Esposito et al., <xref rid="clr13881-bib-0012" ref-type="bibr">2012</xref>; Khan et al., <xref rid="clr13881-bib-0020" ref-type="bibr">2020</xref>). Thus far, only a limited number of studies evaluated their implant cleaning protocol in such a way. These studies mainly focused on the effects of chemical agents such as chlorhexidine and phosphoric acid (Hentenaar et al., <xref rid="clr13881-bib-0018" ref-type="bibr">2017</xref>; de Waal et al., <xref rid="clr13881-bib-0055" ref-type="bibr">2013</xref>, <xref rid="clr13881-bib-0056" ref-type="bibr">2015</xref>) or laser therapy (Papadopoulos et al., <xref rid="clr13881-bib-0037" ref-type="bibr">2015</xref>), but not on mechanical debridement methods. Although these studies showed significant reductions in implant surface microbial load, no significant clinical benefits of one method over another were found.</p>
+              <p>Since its introduction around 1945, the use of air polishing devices has recently gained popularity in the field of dentistry (Petersilka, <xref rid="clr13881-bib-0039" ref-type="bibr">2011</xref>). The cleaning potential of an air polisher is based on the kinetic energy of abrasive powder particles, mixed in a spray with water and compressed air. Positive results in terms of cleaning efficacy, surface change, and biocompatibility were found in <italic toggle="yes">in vitro</italic> studies, comparing glycine air polishing to other debridement methods (e.g., hand instrumentation and laser therapy) (Louropoulou et al., <xref rid="clr13881-bib-0025" ref-type="bibr">2014</xref>; Moharrami et al., <xref rid="clr13881-bib-0032" ref-type="bibr">2019</xref>). In addition, evaluation of different implant surface cleansing methods in an <italic toggle="yes">ex vivo</italic> study showed that air polishing was superior to chemical decontamination (Pranno et al., <xref rid="clr13881-bib-0040" ref-type="bibr">2020</xref>). However, limited clinical research on the use of air polishing as a single decontaminating method in treatment of peri‐implantitis has been performed thus far. Just recently, superior effects to plastic curettes (reduction in PPD) but equal to titanium brush or implantoplasty were described (Lasserre et al., <xref rid="clr13881-bib-0024" ref-type="bibr">2020</xref>; Toma et al., <xref rid="clr13881-bib-0051" ref-type="bibr">2019</xref>). These results, however, came from studies with small sample sizes, short follow‐up, and the use of a single air polishing powder (i.e., glycine).</p>
+              <p>A promising new low‐abrasive air polishing powder, that is, erythritol, has recently been introduced on the market. <italic toggle="yes">In vitro</italic> studies on erythritol have shown stronger antimicrobial and antibiofilm activity than glycine (Drago et al., <xref rid="clr13881-bib-0011" ref-type="bibr">2014</xref>) and inhibitory effects on <italic toggle="yes">Streptococcus gordonii</italic> and <italic toggle="yes">Porphyromonas gingivalis</italic> (Hashino et al., <xref rid="clr13881-bib-0016" ref-type="bibr">2013</xref>). In addition, erythritol suppresses biofilm regrowth and improves cell attachment, cell viability, and proliferation of osteoblasts (Drago et al., <xref rid="clr13881-bib-0010" ref-type="bibr">2017</xref>; Matthes et al., <xref rid="clr13881-bib-0029" ref-type="bibr">2017</xref>; Mensi et al., <xref rid="clr13881-bib-0030" ref-type="bibr">2018</xref>). Moreover, promising effects in terms of titanium cleaning efficacy were seen (Drago et al., <xref rid="clr13881-bib-0010" ref-type="bibr">2017</xref>; Tastepe et al., <xref rid="clr13881-bib-0050" ref-type="bibr">2018</xref>). When erythritol air polishing was compared with scaling and root planing in periodontal maintenance studies and in non‐surgical periodontitis treatment studies, comparable clinical and microbiological results were found (Hägi et al., <xref rid="clr13881-bib-0014" ref-type="bibr">2013</xref>; Jentsch et al., <xref rid="clr13881-bib-0019" ref-type="bibr">2020</xref>; Mensi et al., <xref rid="clr13881-bib-0031" ref-type="bibr">2021</xref>; Müller et al., <xref rid="clr13881-bib-0035" ref-type="bibr">2014</xref>; Park et al., <xref rid="clr13881-bib-0038" ref-type="bibr">2018</xref>). More recently, a study by Cosgarea et al. (<xref rid="clr13881-bib-0007" ref-type="bibr">2021</xref>) showed that erythritol air polishing during periodontal surgery may represent a valuable adjunct following calculus removal or as minimally invasive treatment for root surfaces without calculus. However, clinical studies on the effect of erythritol air polishing during the surgical treatment of peri‐implantitis are lacking.</p>
+              <p>The aim of the present randomized clinical trial was to evaluate the clinical, radiographical, and microbiological effect of erythritol air polishing as implant debridement method and compare this with saline‐soaked cotton gauzes as control intervention. Hence, the null hypothesis of erythritol air polishing being not better than saline‐soaked gauzes in terms of clinical, radiographical, and microbiological parameters was tested.</p>
+            </sec>
+            <sec sec-type="materials-and-methods" id="clr13881-sec-0006">
+              <label>2</label>
+              <title>MATERIALS AND METHODS</title>
+              <sec id="clr13881-sec-0007">
+                <label>2.1</label>
+                <title>Trial design</title>
+                <p>This two‐armed, investigator‐blind randomized controlled trial is the surgical part of a two‐staged peri‐implantitis therapy protocol. Prior to participation, all patients received a non‐surgical treatment (Hentenaar et al., <xref rid="clr13881-bib-0017" ref-type="bibr">2021</xref>). If signs of inflammation persisted 3 months after the non‐surgical intervention, a surgical treatment was rendered. The study was approved by the Medical Ethical Committee of the University Medical Center Groningen (METc, UMCG with study number 2016/356) and registered in the Dutch national trial register (<ext-link xlink:href="https://www.trialregister.nl/" ext-link-type="uri">https://www.trialregister.nl/</ext-link>) with number NL8621. The CONSORT (Consolidated Standards of Reporting Trials) guidelines for reporting a randomized controlled trial were followed (Schulz et al., <xref rid="clr13881-bib-0047" ref-type="bibr">2010</xref>).</p>
+              </sec>
+              <sec id="clr13881-sec-0008">
+                <label>2.2</label>
+                <title>Participants</title>
+                <sec id="clr13881-sec-0009">
+                  <label>2.2.1</label>
+                  <title>Eligibility criteria</title>
+                  <p>Between December 2016 and January 2019, 62 patients were screened for eligibility by one and the same researcher (D.H.). The last follow‐up visit took place in February 2020. Eligible participants had at least one dental implant with persisting signs of inflammation 3 months after the preceding non‐surgical intervention (probing pocket depth (PPD) ≥5 mm with concomitant bleeding and/or suppuration on probing (BoP/SoP) and progressive loss of marginal bone (MBL) ≥2 mm), when compared to the baseline radiograph (after placement of the definitive restoration) (de Waal et al., <xref rid="clr13881-bib-0055" ref-type="bibr">2013</xref>). All the patients’ eligible implants were included for clinical, radiographical, and microbiological assessment. A patient was excluded when there was a history of local head and neck radiotherapy, pregnancy and/or lactation, uncontrolled diabetes mellitus (HbA1c &gt; 7% or &gt;53 mmol/mol), use of antibiotics within 2 months before the baseline assessment, known allergy to chlorhexidine, long‐term use of anti‐inflammatory drugs, incapability of performing basal oral hygiene measures, implants with bone loss exceeding 2/3 of the length of the implant, implant mobility, chronic bronchitis, and/or asthma. Periodontal full‐mouth plaque and bleeding levels were required to be ≤20%. Before participation, oral and written information about the study was provided. All patients signed a written informed consent prior to enrollment.</p>
+                </sec>
+                <sec id="clr13881-sec-0010">
+                  <label>2.2.2</label>
+                  <title>Setting and location</title>
+                  <p>All patients were consecutively recruited from the patient population of the Center of Dentistry and Oral Hygiene and the Department of Oral and Maxillofacial Surgery of the University Medical Center Groningen in the Netherlands. This single‐center study was performed at the Department of Oral and Maxillofacial Surgery of the University Medical Center Groningen.</p>
+                </sec>
+              </sec>
+              <sec id="clr13881-sec-0011">
+                <label>2.3</label>
+                <title>Surgical intervention</title>
+                <p>Prior to the surgical intervention, all patients underwent a non‐surgical treatment in which they received extensive oral hygiene instructions, periodontal cleaning, and a single mechanical peri‐implant supra‐ and submucosal debridement with either air polishing or piezoelectric ultrasonic scaling. Screw‐retained implant suprastructures were removed before surgery if reasonably possible. Surgery was performed by two experienced implant clinicians within the group of authors (G.R. and Y.d.W.). The surgical resective procedure was performed under local anesthesia. After the incision, one or more millimeters under the level of the marginal gingiva in order to remove the inflamed soft tissue collar and create pocket reduction, a full‐thickness flap was elevated at the buccal and lingual aspect of the affected implants. Subsequently, granulation tissue was removed using hand instruments (Hu‐Friedy<sup>®</sup>, Chicago, IL, USA). Calculus, if present, was removed carefully with a scaler tip, and mechanical debridement of the peri‐implant surface followed. According to the randomization, patients were assigned either to the test group or to the control group. In the test group, the implant surface was treated with air polishing (Airflow<sup>®</sup>, using the Airflow Master Piezon<sup>®</sup> device, EMS, Nyon, Switzerland) with erythritol‐based powder containing 0.3% chlorhexidine (14 μm, PLUS Powder, EMS). In the control group, the implant surface was mechanically cleaned with saline‐soaked cotton gauzes. In both groups, therapy was applied until the implant surface was assessed as visually clean by the surgeon followed by local application of abundant amounts of sterile saline. The angulation under which the air powder spray was applied and the working distance of the air polisher were factors that were not standardized in this study, as both factors varied according to the area being cleaned. The bone was recontoured on indication. After debridement, the gingival flap was repositioned and closed with single interrupted sutures in a slightly apical position after which suprastructures were reconnected. Patients were instructed to use an antiseptic mouthwash (0.2% chlorhexidine, Orasol<sup>®</sup>, ICM Pharma Pte. Ltd., Singapore) for 2 weeks after surgery, two times daily. Two weeks after surgery, sutures were removed and patients were instructed to perform adequate self‐performed peri‐implant oral hygiene measures (i.e., at least twice daily use of electric toothbrush and use of interdental brushes).</p>
+              </sec>
+              <sec id="clr13881-sec-0012">
+                <label>2.4</label>
+                <title>Assessments</title>
+                <sec id="clr13881-sec-0013">
+                  <label>2.4.1</label>
+                  <title>Clinical assessment</title>
+                  <p>Peri‐implant assessment took place at baseline and 3, 6, 9, and 12 months after intervention. Additional full‐mouth periodontal charts were made at baseline and 12 months. The clinical parameters were assessed by one and the same experienced examiner (D.H.) who was blinded for group allocation. At 6 sites per tooth and implant (mesiobuccal, buccal, distobuccal, mesiolingual, lingual, and distolingual) BoP, visible presence of plaque and/or plaque on probing (Plq), and SoP were binomially assessed (1 = present or 0 = not present) using a Hu‐Friedy PCPUNC156 periodontal probe and Shepherd's Hook Explorer EXS23. Probing pocket depths were scored in absolute values to the nearest millimeter. A partial vinyl polysiloxane (VPS) impression (EXABITE™ II NDS, GC America Inc., Alsip, Illinois, US) was made of the suprastructure and buccally trimmed to be used as fixed reference point to assess the marginal peri‐implant mucosa level. The distance from the mid‐buccal marginal mucosa to the margin of the VPS mold was assessed using a periodontal probe at baseline and 12 months after surgery to calculate the recession. The top of the suprastructure was taken as a fixed reference point in case of an overdenture attachment system. In addition, a periodontal probe was used to assess the mid‐buccal width of keratinized mucosa. Mid‐buccal keratinized mucosa (KM) levels were assessed at baseline and 12 months. During surgery, the peri‐implant bone defect was measured at four sites around the implant (mesial, distal, buccal, and palatinal) taking the implant‐abutment platform as reference and classified according to the bone defect morphology classification by Schwarz et al., <xref rid="clr13881-bib-0049" ref-type="bibr">2007</xref>.</p>
+                </sec>
+                <sec id="clr13881-sec-0014">
+                  <label>2.4.2</label>
+                  <title>Radiographical assessment</title>
+                  <p>Radiographs were taken at baseline and 3, 6, and 12 months after treatment (Planmeca Intra X‐ray unit; Planmeca, Helsinki, Finland). To standardize the peri‐apical radiographs and to assure perpendicularity (<italic toggle="yes">i</italic>.<italic toggle="yes">e</italic>., positioning of the film parallel to the long axis of the implant), an individualized X‐ray holder and paralleling technique were used. Panoramic images were taken if peri‐apical radiographs were painful for the patient (<italic toggle="yes">e</italic>.<italic toggle="yes">g</italic>., painful to the floor of the mouth), or if no position was possible in which reproducible images could be made. Peri‐implant bone loss was measured using the DICOM software (DicomWorks 1.5). Calibration of each radiograph took place on a 3‐point reference scale using the known implant length and/or diameter. Bone level differences were calculated for the mesial and distal site of the implant. The outer points of the implant connection plateau were taken as reference to which the initial bone level was present (in bone level implants). In the presence of a smooth transgingival segment of the implant (1‐stage implant systems, that is, tissue level implants), measurement corrections were made. In order to calculate the inter‐observer and intra‐observer agreement, radiographic images of ten randomly selected implants were examined twice by the same researcher (D.H.) and once by another researcher (H.M.), both of whom were blinded regarding group allocation. High intraclass correlation (0.98) was found after which D.H. measured all the X‐ray images.</p>
+                </sec>
+                <sec id="clr13881-sec-0015">
+                  <label>2.4.3</label>
+                  <title>Microbiological assessment</title>
+                  <p>Microbiological samples from the peri‐implant sulcus were obtained before and 12 months after surgical therapy using 4 sterile paper points. Supragingival plaque was mechanically removed before sampling. Samples were taken from four sites around the implant (mesiobuccal, distobuccal, mesiolingual, and distolingual). If a patient had more than one implant, sampling was divided over the implants, taking the deepest pocket per implant. The samples collected from each patient were pooled in an empty vial. In dentate patients, bacterial samples were also taken from the periodontal sites with the deepest probing pocket depth in each quadrant. If no deepened pockets were present, samples were taken from the mesiobuccal pockets of the first molars. Outcome variables were the presence and numbers of the following periodontal marker species: <italic toggle="yes">Aggregatibacter actinomycetemcomitans</italic> (Aa), <italic toggle="yes">Porphyromonas gingivalis</italic> (Pg), <italic toggle="yes">Prevotella intermedia</italic> (Pi), <italic toggle="yes">Tannerella forsythia</italic> (Tf), <italic toggle="yes">Fusobacterium nucleatum</italic> (Fn), <italic toggle="yes">Parvimonas micra</italic> (Pm), <italic toggle="yes">Treponema denticola</italic> (Td), and <italic toggle="yes">Filifactor alocis</italic> (Fa). Microbial samples were sent to Lab<italic toggle="yes">Oral</italic> Diagnostics (Houten, the Netherlands) and analyzed using real‐time PCR (quantitative polymerase chain reaction—qPCR).</p>
+                </sec>
+              </sec>
+              <sec id="clr13881-sec-0016">
+                <label>2.5</label>
+                <title>Outcomes</title>
+                <sec id="clr13881-sec-0017">
+                  <label>2.5.1</label>
+                  <title>Primary outcome</title>
+                  <p>The change in the mean of 6 peri‐implant sites (%) showing BoP was defined as the primary outcome.</p>
+                </sec>
+                <sec id="clr13881-sec-0018">
+                  <label>2.5.2</label>
+                  <title>Secondary outcomes</title>
+                  <p>Peri‐implant parameters SoP (%), Plq (%), and PPD (mm) and full‐mouth periodontal parameters BoP (%), SoP (%), Plq (%), and PPD (mm) were defined as secondary clinical outcomes. The change in mean of 6 sites per implant and tooth was calculated. Mean marginal bone loss (mm) and the presence and levels of 8 classical periodontal bacterial species were other secondary outcomes.</p>
+                </sec>
+                <sec id="clr13881-sec-0019">
+                  <label>2.5.3</label>
+                  <title>Success criteria</title>
+                  <p>The surgical implant therapy was considered successful at the 12‐month evaluation when implant sites demonstrated:
+<list list-type="simple" id="clr13881-list-0001"><list-item><label>‐</label><p>PPD &lt;5 mm</p></list-item><list-item><label>‐</label><p>Max 1 out 6 sites BoP</p></list-item><list-item><label>‐</label><p>No suppuration on probing</p></list-item><list-item><label>‐</label><p>No progressive radiographic bone loss ≥0.5mm, compared with baseline study radiographs</p></list-item></list>
+</p>
+                </sec>
+              </sec>
+              <sec id="clr13881-sec-0020">
+                <label>2.6</label>
+                <title>Sample size calculation</title>
+                <p>The sample size calculation for the present study was based on the total number of patients required for the two‐staged treatment trial design (<italic toggle="yes">i</italic>.<italic toggle="yes">e</italic>., surgical therapy following non‐surgical therapy in case of persisting peri‐implantitis). A calculation was performed in such a way that a sufficient amount of patients from the non‐surgical phase would be available for the surgical phase, taking into account a three‐level mixed model structure. Additionally, the total number of patients was estimated from a sample size and power calculation for a three‐level mixed model structure, with implants (level 1) nested in patients (level 2), which are analyzed over time (level 3). Literature on sample size and a power calculation of multilevel analyses has shown that at least 50 patients should be included for there to be a relevant statistic difference (Maas &amp; Hox, <xref rid="clr13881-bib-0026" ref-type="bibr">2005</xref>). Scherbaum and Ferreter (<xref rid="clr13881-bib-0046" ref-type="bibr">2009</xref>) pointed out the relationship of different levels in accordance with an adequate sample size and power (Scherbaum &amp; Ferreter, <xref rid="clr13881-bib-0046" ref-type="bibr">2009</xref>). Translation of this relationship to our research protocol means a sample size (amount of patients) in combination with implants nested in patients. With a mean group size of 2 infected implants per patient and a minimum amount of 50 patients, it was estimated to detect a medium effect size with 80% power at a significance level of α=0.05. Since our study focused on clinical relevant effects, small effect sizes were less important and detection of medium effect sizes was supposed to be sufficient for our study. According to the non‐surgical peri‐implantitis literature at the time of the study design, we estimated a 20% success rate for our non‐surgical patient treatment phase (Muthukuru et al., <xref rid="clr13881-bib-0036" ref-type="bibr">2012</xref>). Therefore, it was assumed that 80% of the patients would need surgical follow‐up. To compensate for patient withdrawal and losses to follow‐up (10%), a sample size of 80 patients was used at baseline. This was an intentional slight overestimation in order to assure enough available participants for the surgical phase of our trial design.</p>
+              </sec>
+              <sec id="clr13881-sec-0021">
+                <label>2.7</label>
+                <title>Randomization</title>
+                <p>Patients were randomly assigned to one of the two groups (test and control) following stratified randomization, taking into account the preceding non‐surgically performed treatment (air polishing/ultrasonic). Predefined generated notes with either “air polishing” or “conventional” were equally divided over coded (AA, AB, etc.), identically sealed envelopes. On the day of the intervention, an operator assistant opened a coded envelop to decide which therapy to apply. Accordingly, all included implants per patients were treated with the randomized therapy. The code was written down. and a decoding list saying which code belongs to which procedure was kept sealed until data analysis. This way the investigator performing the clinical assessments and data analysis (DH), which was not present at the surgical procedure, did not know which therapy was applied.</p>
+              </sec>
+              <sec id="clr13881-sec-0022">
+                <label>2.8</label>
+                <title>Statistical analysis</title>
+                <p>To analyze the difference in clinical and radiographical effects between both treatments, generalized linear mixed models (GLMMs) were used (IBM SPSS Statistical software, version 23.0. for Windows, Armonk, NY: IBM Corp). A three‐level structure was chosen with patient, implant, and time as level 1, 2, and 3, respectively. The patient was considered unit of analysis, whereas the implant unit of observation. First, the clinical and radiographical outcomes were analyzed while controlling for the corresponding baseline parameters BoP, SoP, Plq, PPD, and MBL (<italic toggle="yes">i</italic>.<italic toggle="yes">e</italic>., crude analysis). Then, the primary and secondary outcomes were analyzed while controlling for the baseline values and confounding effects (<italic toggle="yes">i</italic>.<italic toggle="yes">e</italic>., adjusted analysis). The following a priori defined confounders were used in the adjusted mixed model: history of periodontitis (dichotome), smoking, implant surface modification (nominal), mean periodontal plaque level at T12, and mean marginal bone loss at baseline (linear). For skewed data (SoP and Plq), a gamma distribution was used. Within‐group differences of the peri‐implant clinical parameters (BoP, SoP, Plq, PPD, and MBL) were also analyzed using GLMM, while taking the multilevel structure into account. Differences in full‐mouth periodontal outcomes and mid‐buccal recession between groups were analyzed using an independent samples t‐test. A paired samples t‐test was applied to analyze differences in overall mean full‐mouth periodontal outcomes before and 12 months after therapy. The log‐transformed mean peri‐implant and periodontal microbiological outcomes were analyzed at T12 using a Mann–Whitney U test for microbiological between‐group differences. A Wilcoxon signed‐rank test was used for within‐group differences. The data collected at baseline, 3, 6, 9, and 12 months are presented with descriptive statistics (see Table <xref rid="clr13881-tbl-0001" ref-type="table">1</xref>).</p>
+                <table-wrap position="float" id="clr13881-tbl-0001" content-type="TABLE">
+                  <label>TABLE 1</label>
+                  <caption>
+                    <p>Descriptive statistics of clinical and radiographical outcomes test and control group</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <thead valign="top">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/>
+                        <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/>
+                        <th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Test</th>
+                        <th align="left" colspan="6" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Control</th>
+                      </tr>
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1"><italic toggle="yes">N</italic> = 58 patients/94 implants</th>
+                        <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Non‐surgical phase</th>
+                        <th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Surgical follow‐up</th>
+                        <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Non‐surgical phase</th>
+                        <th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Surgical follow‐up</th>
+                      </tr>
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="top" rowspan="1" colspan="1"/>
+                        <th align="left" valign="top" rowspan="1" colspan="1">Outcomes</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">Tpre (27/54)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">Tpost/T0<xref rid="clr13881-note-0001" ref-type="table-fn"><sup>a</sup></xref> (27/54)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T3 (25/52)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T6 (23/44)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T9 (23/49)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T12 (22/47)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">Tpre (31/40)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">Tpost/T0<xref rid="clr13881-note-0001" ref-type="table-fn"><sup>a</sup></xref> (31/40)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T3 (31/40)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T6 (30/39)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T9 (25/32)</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">T12 (23/30)</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="2" colspan="1">Mean BoP (%)<xref rid="clr13881-note-0002" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                        <td align="left" rowspan="1" colspan="1">Site level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">59.6 (31.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">52.2 (30.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">40.0 (28.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">33.4 (25.1)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">31.5 (24.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">34.0 (25.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">59.0 (26.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">58.3 (30.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">42.4 (26.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">41.0 (27.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">39.6 (27.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">44.4 (26.7)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Implant level (n)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">92.6 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">90.7 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">83.3 (52)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">79.5 (44)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">77.5 (49)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">80.1 (47)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">97.5 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">95.0 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">90.0 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">87.2 (39)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">90.6 (32)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">86.6 (30)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2" colspan="1">Mean SoP (%)<xref rid="clr13881-note-0002" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                        <td align="left" rowspan="1" colspan="1">Site level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">15.7 (20.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">17.3 (22.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">6.7 (15.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">5.7 (16.1)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">7.8 (17.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">7.1 (15.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">16.7 (20.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">15.0 (21.6)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">8.0 (18.5)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">15.0 (27.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">10.9 (19.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">11.1 (19.8)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Implant level (n)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">51.9 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">51.9 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">19.2 (52)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">13.6 (44)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">18.4 (49)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">21.2 (47)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">65 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">50.0 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">27.5 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">30.8 (39)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">28.1 (32)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">30.0 (30)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="2" colspan="1">Mean Plaq (%)<xref rid="clr13881-note-0002" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                        <td align="left" rowspan="1" colspan="1">Site level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">21.9 (34.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">16.1 (34.6)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">18.0 (21.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">8.1 (12.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">19.1 (25.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">22.3 (37.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">18.3 (24.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">8.8 (16.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">20.5 (28.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">10.3 (14.6)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">11.1 (15.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">11.7 (14.6)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Implant level (n)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">37.0 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">22.2 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">57.7 (54)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">38.6 (44)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">57.1 (49)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">38.3 (47)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">47.5 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">30.0 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">55.0 (40)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">43.6 (39)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">46.9 (32)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">46.7 (30)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">PPD (mm)<xref rid="clr13881-note-0002" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                        <td align="left" rowspan="1" colspan="1">Mean (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">5.1 (1.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.9 (1.6)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.4 (1.1)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (1.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.4 (0.9)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.3 (0.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.7 (1.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.6 (1.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (1.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.7 (1.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (1.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (1.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">MBL (mm)<xref rid="clr13881-note-0003" ref-type="table-fn"><sup>c</sup></xref>
+</td>
+                        <td align="left" rowspan="1" colspan="1">Mean (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.4 (1.9)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.3 (1.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.5 (1.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.3 (1.6)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">4.5 (1.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (1.6)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.7 (1.7)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.9 (1.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.7 (1.7)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.8 (2.0)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Full‐mouth mean BoP (%)</td>
+                        <td align="left" rowspan="1" colspan="1">Patient level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">10.6 (9.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">10.0 (7.3)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">14.8 (8.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">13.0 (12.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">8.9 (6.9)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">11.3 (9.2)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Full‐mouth mean SoP (%)</td>
+                        <td align="left" rowspan="1" colspan="1">Patient level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">0.0 (0.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">0.0 (0.0)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">0.7 (2.8)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">3.5 (0.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">0.0 (0.0)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">0.0 (0.0)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Full‐mouth mean Plaq (%)</td>
+                        <td align="left" rowspan="1" colspan="1">Patient level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">24.9 (20.9)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">19.9 (16.9)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">15.1 (14.4)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">27.7 (13.0)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">22.1(14.5)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">20.0 (10.8)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Full‐mouth mean PPD (mm)</td>
+                        <td align="left" rowspan="1" colspan="1">Patient level (SD)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.1 (0.3)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.0 (0.6)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.1 (0.23)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.0 (0.2)</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.1 (0.3)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="." rowspan="1" colspan="1">NA</td>
+                        <td align="char" char="(" rowspan="1" colspan="1">2.2 (0.2)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="clr13881-ntgp-0001">
+                    <fn id="clr13881-note-0001">
+                      <label>
+                        <sup>a</sup>
+                      </label>
+                      <p>Outcome at 3 months after non‐surgical treatment is baseline outcome for surgical treatment.</p>
+                    </fn>
+                    <fn id="clr13881-note-0002">
+                      <label>
+                        <sup>b</sup>
+                      </label>
+                      <p>Measured on a 6‐point scale.</p>
+                    </fn>
+                    <fn id="clr13881-note-0003">
+                      <label>
+                        <sup>c</sup>
+                      </label>
+                      <p>Measured at the mesial and distale site.</p>
+                    </fn>
+                  </table-wrap-foot>
+                  <permissions>
+                    <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                  </permissions>
+                </table-wrap>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="clr13881-sec-0023">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>The flow of patients throughout the study is depicted in Figure <xref rid="clr13881-fig-0001" ref-type="fig">1</xref>. A total of 62 patients were screened for eligibility. Four patients declined to participate after which 58 patients (mean age 58.9 ± 11.7, male <italic toggle="yes">N</italic> = 25, female <italic toggle="yes">N</italic> = 33) were randomized over the test and control group. Between baseline and 12‐month follow‐up, 22% of the patients and 18% of the implants (5 patients (7 implants) in the test group and 8 patients (10 implants) in the control group) discontinued the study, all due to implant removal because of persisting peri‐implantitis. In total, 27 patients (<italic toggle="yes">n</italic> = 54 implants) in the test group and 31 patients (<italic toggle="yes">n</italic> = 40 implants) in the control group were available for analysis.</p>
+              <fig position="float" fig-type="FIGURE" id="clr13881-fig-0001">
+                <label>FIGURE 1</label>
+                <caption>
+                  <p>Consort flow diagram</p>
+                </caption>
+                <graphic xlink:href="CLR-33-184-g001" position="anchor" id="jats-graphic-1"/>
+              </fig>
+              <p>The overall baseline patient and implant characteristics are shown in Table <xref rid="clr13881-tbl-0002" ref-type="table">2</xref>. The clinical and radiographical peri‐implant outcomes and periodontal full‐mouth scores are shown in Table <xref rid="clr13881-tbl-0001" ref-type="table">1</xref>. In Table <xref rid="clr13881-tbl-0003" ref-type="table">3</xref>, the unstandardized β coefficient and significance levels for the mean difference in BoP, SoP, Plq, PPD, and MBL between the control and test group during follow‐up are presented. The distribution of sites with BoP in implants with PPD &lt;5 mm, without suppuration and without progressive bone loss &gt;0.5 mm is shown in Table <xref rid="clr13881-tbl-0004" ref-type="table">4</xref>. The prevalence of patients positive for the selected marker species for peri‐implant and periodontal samples (in partial edentulous patients) is presented in Figures <xref rid="clr13881-fig-0002" ref-type="fig">2</xref> and <xref rid="clr13881-fig-0003" ref-type="fig">3</xref>. Both treatments went uneventful; no cases of emphysema after air polishing therapy were reported.</p>
+              <table-wrap position="float" id="clr13881-tbl-0002" content-type="TABLE">
+                <label>TABLE 2</label>
+                <caption>
+                  <p>Baseline patient and implant characteristics.</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead valign="top">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" colspan="2" valign="top" rowspan="1"/>
+                      <th align="left" valign="top" rowspan="1" colspan="1">Test</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1">Control</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" colspan="4" rowspan="1">Patient characteristics</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Total number of patients</td>
+                      <td align="char" char="." rowspan="1" colspan="1">27</td>
+                      <td align="char" char="." rowspan="1" colspan="1">31</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Age [years; mean (SD)]</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">59.6 (13.6)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">59.3 (10.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Gender; F (female)/M (male)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">12/15</td>
+                      <td align="char" char="." rowspan="1" colspan="1">13/18</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Smoking; n subjects (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Current</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">5 (18.5)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">8 (25.8)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Never</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">14 (51.9)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">20 (64.5)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Former</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">8 (29.6)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">3 (9.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">History of periodontitis; n subjects (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Yes</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">9 (33.3)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">12 (38.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">No</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">18 (66.7)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">19 (61.3)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Diabetes; n subjects (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Yes (but controlled; HbA1c &lt; 7% or &lt;53 mmol/mol)</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">1 (3.7)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">1 (3.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">No</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">26 (96.3)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">30 (96.8)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Dental status, n patients (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Fully edentulous</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">7 (25.9)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (19.4)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Partially edentulous</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">20 (74.1)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">25 (80.6)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Implant characteristics</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Total number of implants</td>
+                      <td align="char" char="." rowspan="1" colspan="1">80</td>
+                      <td align="char" char="." rowspan="1" colspan="1">83</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Total number of implants presenting peri‐implantitis (range)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">54 (1–6)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">40 (1–3)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Time in function [years; mean (SD)]</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">8.9 (5.8)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">8.9 (6.1)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Implant type; n implants (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Nobel Biocare</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">21</td>
+                      <td align="char" char="." rowspan="1" colspan="1">17</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Straumann</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">22</td>
+                      <td align="char" char="." rowspan="1" colspan="1">14</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Biomet 3i</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">7</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Astra Tech</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">0</td>
+                      <td align="char" char="." rowspan="1" colspan="1">3</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Other (Camlog, MegaGen, Simpler, IMZ, Dentsply Friadent, Smeden‐Martina, Trinon Q)</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">4</td>
+                      <td align="char" char="." rowspan="1" colspan="1">6</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Implant surface</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">SLA +SLAactive</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">22</td>
+                      <td align="char" char="." rowspan="1" colspan="1">17</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">TiUnite</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">21</td>
+                      <td align="char" char="." rowspan="1" colspan="1">12</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Other(Osseotite, Osseospeed, Xspeed, machined/turned, plasma sprayed HA)</italic>
+                      </td>
+                      <td align="char" char="." rowspan="1" colspan="1">11</td>
+                      <td align="char" char="." rowspan="1" colspan="1">11</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Type of suprastructure; n implants (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Single crown</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">14 (25.9)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">28 (70.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Fixed partial denture (FPD)</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">18 (33.3)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (5.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Overdenture</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">22 (40.7)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">10 (25.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Screw‐ or cement‐retained restoration; n implants (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Screwed</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">38 (70.4)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">28 (70.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Cemented</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">16 (29.6)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">12 (30.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Implants placed in maxilla or mandible; n implants (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Maxilla</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">36 (66.7)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">20 (50.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Mandible</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">18 (33.3)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">20 (50.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="2" rowspan="1">Implants placed anterior posterior; n implants (%)</td>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="left" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Anterior (central incisor to cuspid)</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">22 (40.7)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">16 (40.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" style="padding-left:10%" colspan="2" rowspan="1">
+                        <italic toggle="yes">Posterior (premolar/molar)</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">32 (59.3)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">24 (60.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="4" rowspan="1">Bone defect configuration and grade (according Schwarz et al., <xref rid="clr13881-bib-0049" ref-type="bibr">2007</xref> and modified by Monje et al., <xref rid="clr13881-bib-0034" ref-type="bibr">2019</xref>b)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="4" rowspan="1">
+                        <italic toggle="yes">Configuration</italic>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">
+                        <italic toggle="yes">1a</italic>
+                      </td>
+                      <td align="left" rowspan="1" colspan="1">buccal dehiscence</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (3.7%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">4 (10.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">
+                        <italic toggle="yes">1b</italic>
+                      </td>
+                      <td align="left" rowspan="1" colspan="1">2/3 wall defect</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">9 (16.6%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">12 (30.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">
+                        <italic toggle="yes">1c</italic>
+                      </td>
+                      <td align="left" rowspan="1" colspan="1">Circumferential</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">3 (5.5%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (5.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">2</td>
+                      <td align="left" rowspan="1" colspan="1">horizontal/supracrestal</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">8 (14.8%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (15.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">3a</td>
+                      <td align="left" rowspan="1" colspan="1">horizontal/supracrestal +buccal dehiscence</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">5 (9.3%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">4 (10.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">
+                        <italic toggle="yes">3b</italic>
+                      </td>
+                      <td align="left" rowspan="1" colspan="1">horizontal/supracrestal +2/3 wall defect</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">24 (44.4%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">10 (25.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">3c</td>
+                      <td align="left" rowspan="1" colspan="1">horizontal/supracrestal +circumferential</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">3 (5.5%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (5.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="4" rowspan="1">
+                        <italic toggle="yes">Grade</italic>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">A</td>
+                      <td align="left" rowspan="1" colspan="1">slight 3–4 mm/&lt;25% of the implant length</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">11 (20.4%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">15 (37.5%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">B</td>
+                      <td align="left" rowspan="1" colspan="1">moderate 4–5 mm/25–50% of the implant length</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">21 (38.9%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">19 (47.5%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">C</td>
+                      <td align="left" rowspan="1" colspan="1">advanced &gt;6 mm/&gt;50% of the implant length</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">22 (40.7%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (15.0%)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <table-wrap position="float" id="clr13881-tbl-0003" content-type="TABLE">
+                <label>TABLE 3</label>
+                <caption>
+                  <p>Generalized linear mixed model outcomes for mean difference in BoP, SoP, Plq, PPD, and MBL between test and control group at T12</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead valign="top">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/>
+                      <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Crude analysis<xref rid="clr13881-note-0006" ref-type="table-fn"><sup>c</sup></xref>
+</th>
+                      <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/>
+                      <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Adjusted analysis<xref rid="clr13881-note-0007" ref-type="table-fn"><sup>d</sup></xref>
+</th>
+                      <th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="top" rowspan="1" colspan="1">Outcome</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1">β (95% CI)</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐value</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1">β (95% CI)</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐value</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Mean BoP<xref rid="clr13881-note-0004" ref-type="table-fn"><sup>a</sup></xref>
+</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.034 (−0.009 to 0.077)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.120</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.037 (−0.016 to 0.089)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.170</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Mean SoP<xref rid="clr13881-note-0005" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.157 (−0.000 to 0.314)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.051</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.211 (0.017 to 0.406)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">
+                        <italic toggle="yes">0.035</italic>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Mean Plq<xref rid="clr13881-note-0005" ref-type="table-fn"><sup>b</sup></xref>
+</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">−0.169 (−0.319 to −0.019)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">
+                        <italic toggle="yes">0.027</italic>
+                      </td>
+                      <td align="char" char="(" rowspan="1" colspan="1">−0.002 (−0.163 to 0.159)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.979</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">Mean PPD<xref rid="clr13881-note-0004" ref-type="table-fn"><sup>a</sup></xref>
+</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.083 (−0.018 to 0.184)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.108</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0.052 (−0.075 to 0.178)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.423</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">MBL<xref rid="clr13881-note-0004" ref-type="table-fn"><sup>a</sup></xref>
+</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">−0.019 (−0.063 to 0.025)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.405</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">−0.030 (−0.098 to 0.037)</td>
+                      <td align="char" char="." rowspan="1" colspan="1">0.377</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="clr13881-ntgp-0002">
+                  <fn id="clr13881-note-0004">
+                    <label>
+                      <sup>a</sup>
+                    </label>
+                    <p>Normal distributed data analyzed with linear model distribution.</p>
+                  </fn>
+                  <fn id="clr13881-note-0005">
+                    <label>
+                      <sup>b</sup>
+                    </label>
+                    <p>Non‐normal distributed data analyzed with gamma distribution.</p>
+                  </fn>
+                  <fn id="clr13881-note-0006">
+                    <label>
+                      <sup>c</sup>
+                    </label>
+                    <p>Adjusted for baseline value and time.</p>
+                  </fn>
+                  <fn id="clr13881-note-0007">
+                    <label>
+                      <sup>d</sup>
+                    </label>
+                    <p>Adjusted for baseline value, time, smokin.g, history of periodontitis, mean periodontal full‐mouth plaque score at T12, mean marginal bone loss at T0, and implant surface.</p>
+                  </fn>
+                </table-wrap-foot>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <table-wrap position="float" id="clr13881-tbl-0004" content-type="TABLE">
+                <label>TABLE 4</label>
+                <caption>
+                  <p>Distribution of sites with BoP in implants with PPD &lt; 5 mm, without suppuration and progressive bone loss &gt; 0.5 mm</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <col style="border-right:solid 1px #000000" span="1"/>
+                  <thead valign="top">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="top" rowspan="1" colspan="1">Sites with BoP</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">N</italic> (% of all included implants)</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1">Air polishing</th>
+                      <th align="left" valign="top" rowspan="1" colspan="1">Hand instrumentation</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">0 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">9 (9.6%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (25.0%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">3 (18.8%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">1 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">9 (9.6%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">7 (29.2%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (12.5%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">2 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">9 (9.6%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (25.0%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">3 (18.8%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">3 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (6.4%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (8.3%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">4 (25.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">4 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">6 (6.4%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">2 (8.3%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">4 (25.0%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">5 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">1 (1.1%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">1 (4.2%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0 (0.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1">6 out of 6</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0 (0.0%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0 (0.0%)</td>
+                      <td align="char" char="(" rowspan="1" colspan="1">0 (0.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"/>
+                      <td align="char" char="." rowspan="1" colspan="1">40/94</td>
+                      <td align="char" char="." rowspan="1" colspan="1">24/40</td>
+                      <td align="char" char="." rowspan="1" colspan="1">16/40</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <permissions>
+                  <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                </permissions>
+              </table-wrap>
+              <fig position="float" fig-type="FIGURE" id="clr13881-fig-0002">
+                <label>FIGURE 2</label>
+                <caption>
+                  <p>Percentage of patients (%) with positive peri‐implant samples in test and control group for the presence of <italic toggle="yes">Aggregatibacter actinomycetemcomitans (</italic>Aa<italic toggle="yes">)</italic>, <italic toggle="yes">Porphyromonas gingivalis</italic> (Pg<italic toggle="yes">)</italic>, <italic toggle="yes">Prevotella intermedia</italic> (Pi), <italic toggle="yes">Tannerella forsythia</italic> (Tf), <italic toggle="yes">Fusobacterium nucleatum</italic> (Fn), <italic toggle="yes">Parvimonas micra</italic> (Pm), <italic toggle="yes">Treponema denticola</italic> (Td), and <italic toggle="yes">Filifactor alocis</italic> (Fa) before non‐surgical intervention (Tpre), 3 months after the non‐surgical intervention/before the surgical intervention (Tpost/ T0) and 12 months after the surgical intervention (T12)</p>
+                </caption>
+                <graphic xlink:href="CLR-33-184-g003" position="anchor" id="jats-graphic-3"/>
+              </fig>
+              <fig position="float" fig-type="FIGURE" id="clr13881-fig-0003">
+                <label>FIGURE 3</label>
+                <caption>
+                  <p>Percentage of patients (%) with positive periodontal samples in test and control group for the presence of <italic toggle="yes">Aggregatibacter actinomycetemcomitans (</italic>Aa<italic toggle="yes">)</italic>, <italic toggle="yes">Porphyromonas gingivalis</italic> (Pg<italic toggle="yes">)</italic>, <italic toggle="yes">Prevotella intermedia</italic> (Pi), <italic toggle="yes">Tannerella forsythia</italic> (Tf), <italic toggle="yes">Fusobacterium nucleatum</italic> (Fn), <italic toggle="yes">Parvimonas micra</italic> (Pm), <italic toggle="yes">Treponema denticola</italic> (Td), and <italic toggle="yes">Filifactor alocis</italic> (Fa) before non‐surgical intervention (Tpre), 3 months after the non‐surgical intervention/before the surgical intervention (Tpost/ T0), and 12 months after the surgical intervention (T12)</p>
+                </caption>
+                <graphic xlink:href="CLR-33-184-g002" position="anchor" id="jats-graphic-5"/>
+              </fig>
+              <sec id="clr13881-sec-0024">
+                <label>3.1</label>
+                <title>Primary outcome</title>
+                <p>No statistical significant difference was found between the test and control group over 12‐month time for mean BoP, neither in the crude nor in the adjusted analysis (Table <xref rid="clr13881-tbl-0003" ref-type="table">3</xref>). Within both groups, a significant reduction in mean BoP was seen between baseline and 12‐month follow‐up (test group: <italic toggle="yes">p</italic> &lt; 0.001 and control group: <italic toggle="yes">p</italic> = 0.042) (Table <xref rid="clr13881-tbl-0001" ref-type="table">1</xref>).</p>
+              </sec>
+              <sec id="clr13881-sec-0025">
+                <label>3.2</label>
+                <title>Secondary outcomes</title>
+                <sec id="clr13881-sec-0026">
+                  <label>3.2.1</label>
+                  <title>Clinical and radiographical outcome</title>
+                  <p>No significant difference in PPD or MBL, neither in the crude nor in the adjusted analysis, between both groups was found over 12 months’ time, see Table <xref rid="clr13881-tbl-0003" ref-type="table">3</xref>. Between both groups, a significant difference was found for the secondary clinical parameter SoP (test 7.1% ± 15.4 versus control 11.1% ± 19.8, β coefficient 0.211(0.017 to 0.406), <italic toggle="yes">p </italic>=<italic toggle="yes"> 0</italic>.<italic toggle="yes">035</italic>) when taking into account the a priori defined confounders (adjusted analysis) (Table <xref rid="clr13881-tbl-0003" ref-type="table">3</xref>). In addition, a significant difference was found for mean levels of Plq (<italic toggle="yes">p </italic>=<italic toggle="yes"> 0</italic>.<italic toggle="yes">027</italic>) while controlling for the baseline value and time (crude analysis). However, when all the predefined confounders were applied in the adjusted model, the difference disappeared (<italic toggle="yes">p</italic> = 0.979). Full‐mouth periodontal plaque scores significantly reduced in the test group between baseline and 12 months follow‐up (<italic toggle="yes">p</italic> = 0.023) (see Table <xref rid="clr13881-tbl-0001" ref-type="table">1</xref>). Mid‐buccal recession assessment showed a mean of 1.24 mm and 0.76 mm at 3 months and 0.97 mm and 0.65 mm at 12 months, in the test group and control group, respectively. Buccal keratinized mucosa levels at baseline were 3.37 mm (±2.1) and 2.64 mm (±2.1) in the test group and control group, respectively, and 1.96 (±2.0) and 1.88 (±1.6) in the test and control group, respectively, at 12 months.</p>
+                </sec>
+                <sec id="clr13881-sec-0027">
+                  <label>3.2.2</label>
+                  <title>Microbiological outcome</title>
+                  <p>Samples of forty‐four patients were available for analysis at 12 months after treatment (21 test group and 23 control group). No significant differences between both groups for mean peri‐implant log‐transformed bacterial counts were found for any of the bacterial marker species at 12‐month evaluation (Mann–Whitney U test <italic toggle="yes">p</italic> &gt; 0.05) (see Figure <xref rid="clr13881-fig-0002" ref-type="fig">2</xref>). Within‐group analysis revealed no significant changes after therapy (Wilcoxon test <italic toggle="yes">p</italic> &gt; 0.05). The majority of samples from the natural dentition showed no difference in mean counts 12 months after therapy in both groups (see Figure <xref rid="clr13881-fig-0003" ref-type="fig">3</xref>). However, a significant difference in levels of <italic toggle="yes">Pi</italic>, <italic toggle="yes">Td</italic>, and <italic toggle="yes">Fa</italic> was seen for the control group.</p>
+                </sec>
+                <sec id="clr13881-sec-0028">
+                  <label>3.2.3</label>
+                  <title>Treatment success</title>
+                  <p>According to the success criteria applied, a total of 18 implants (19.1%) showed a successful treatment outcome at 12 months after surgery. Success was achieved for 13 implants (32.5%) in the test group and 5 implants (12.5%) in the control group. The overall survival rate (i.e., the presence of patients/implants at T12, no explanation) was 81.9% and 74.0% at implant level and at patient level, respectively.</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="clr13881-sec-0029">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>To the best of our knowledge, this is the first study that compared the use of erythritol powder air polishing with saline‐soaked gauzes as implant surface debridement methods during a resective surgical treatment of peri‐implantitis. The results showed no significant clinical differences between both groups in terms of our primary outcome BoP and secondary outcomes PPD, Plq, and marginal bone loss, up to 1 year after therapy. Neither microbiological differences nor differences in full‐mouth clinical parameters were found between the groups. Only levels of SoP differed after 12 months follow‐up. Hence, our null hypothesis of erythritol air polishing being not better than saline‐soaked gauze as cleansing method in terms of clinical, radiographical, and microbiological effects could be adopted.</p>
+              <p>Comparable clinical studies using erythritol air polishing as implant surface decontamination method were not found in the literature. However, studies that evaluated the use of air polishing as single decontaminating method in a resective peri‐implantitis treatment approach, as such, recently appeared in the literature (Lasserre et al., <xref rid="clr13881-bib-0024" ref-type="bibr">2020</xref>; Toma et al., <xref rid="clr13881-bib-0051" ref-type="bibr">2019</xref>). Both previous studies evaluated the use of glycine powder and applied this through a handpiece with plastic (subgingival) nozzle insert. After 6 months follow‐up, it was concluded that glycine air polishing and the use of a titanium brush both were more effective than plastic curettes (Toma et al., <xref rid="clr13881-bib-0051" ref-type="bibr">2019</xref>) and glycine air polishing was as effective as implantoplasty (Lasserre et al., <xref rid="clr13881-bib-0024" ref-type="bibr">2020</xref>). As compared to the present study, glycine air polishing did not appear significantly more effective than control therapies in terms of BoP reduction. Neither for the secondary parameter “presence of plaque” differences were found, which also seems to corroborate our findings. Regarding PPD reduction, the study by Lasserre et al. (<xref rid="clr13881-bib-0024" ref-type="bibr">2020</xref>) showed no difference in PPD reduction between both groups. A significant result was, however, found (mean ± 2.2 mm vs ±1.7 mm) in study by Toma et al. (<xref rid="clr13881-bib-0051" ref-type="bibr">2019</xref>) favoring the use of air polishing. Whether these differences with the present study could be explained by the use of a different powder, different handpiece insert or shorter length of follow‐up remains to be found. For levels of SoP, of which no data were found in the studies by Toma et al. (<xref rid="clr13881-bib-0051" ref-type="bibr">2019</xref>), no difference between both groups was found in the study by Lasserre et al. (<xref rid="clr13881-bib-0024" ref-type="bibr">2020</xref>). Since the present study found a significant difference between both groups, the literature seems inconclusive thus far with regard to SoP. Why air polishing more than saline‐soaked gauzes caused this reduction remains unclear. To better understand the role of suppuration in peri‐implant health, future studies should include this parameter more often. Considering that stable marginal bone levels and comparable (low) success rates were found (at implant level; 29%, 26%, respectively), this might suggest that mechanical cleaning with air polishing in a resective surgical approach is able to stop progression of bone loss. As shown in the present study, possibly up to 1 year after therapy. On the contrary, the sensitivity of BoP in the present study seemed quite low to predict further bone loss. It could, therefore, be questioned whether the total absence of BoP as part of the success criteria used in previous studies is not too strict. In order to truly evaluate the influence of BoP on therapy success on the long term, future studies should consider to present a more detailed overview of BoP levels (at implant level). Furthermore, the absence of relevant changes in radiographic marginal bone levels between the 3‐month intervals suggests that future studies should extend this radiographic evaluation interval to justify a balanced risk (radiation exposure) to benefit ratio.</p>
+              <p>Only recently, a similar comparison of decontamination methods was evaluated in an in vitro setting by the group of Amate‐Fernández et al. (<xref rid="clr13881-bib-0001" ref-type="bibr">2021</xref>). It was shown that erythritol had the same antibiofilm and antibacterial capacity on a 14‐day grown multi‐species biofilm as mechanical removal with saline‐soaked gauzes which might be an explanatory basis of the clinical findings in the present study. Translation of these preclinical findings to a clinical situation should, however, be done with utmost care, considering that <italic toggle="yes">in vitro</italic> studies using specimens and biofilm contaminants may not simulate actual clinical situations. Patient characteristics, the presence of suprastructures, and anatomical limitations of the oral cavity (e.g., the tongue) are confounders in a clinical setting which could overshadow possible beneficial in vitro effects. Hence, this might also explain why the favorable <italic toggle="yes">in vitro</italic> effects of erythritol/chlorhexidine powder, in terms of bacterial growth suppression (e.g., <italic toggle="yes">P</italic>. <italic toggle="yes">gingivalis</italic> and <italic toggle="yes">S</italic>. <italic toggle="yes">gordonii</italic>) (Söderling et al., <xref rid="clr13881-bib-0057" ref-type="bibr">2010</xref>; Hashino et al., <xref rid="clr13881-bib-0016" ref-type="bibr">2013</xref>) and prevention of bacterial regrowth (Amate‐Fernández et al., <xref rid="clr13881-bib-0001" ref-type="bibr">2021</xref>; Drago et al., <xref rid="clr13881-bib-0010" ref-type="bibr">2017</xref>), could not be clinically underlined by the present study. Namely, microbiologically, erythritol air polishing did not lead to significantly lower bacterial counts 12 months after therapy. One could, however, advocate that earlier sampling should have been performed to find a related effect; however, the present findings indicate that even though there might be a beneficial effect on bacterial suppression/regrowth (on the short term) it does not lead to a clinically relevant effect. The exact mechanism underlying the antibiofilm activity of erythritol remains poorly understood.</p>
+              <p>Up to date, it remains unknown which powder is favorable in terms of cleaning efficacy, surface change, and the ability to restore the biocompatibility. A myriad of <italic toggle="yes">in vitro</italic> studies evaluating different powders (e.g., sodium bicarbonate, glycine, erythritol, calcium carbonate, calcium phosphate, hydroxyl apatite, tricalcium phosphate, etc.) having different sizes, forms, and hardness, used with different devices (in different settings) in custom‐made defect models with different morphologies have emerged in the recent literature (Moharrami et al., <xref rid="clr13881-bib-0032" ref-type="bibr">2019</xref>). Both larger particles (i.e., sodium bicarbonate; 40–60 μm) and smaller particles (i.e., erythritol; 14 μm and glycine; 25 μm) have shown to exert beneficial effects in <italic toggle="yes">in vitro</italic> studies. Where larger particles may seem to provide a greater cleaning capacity, they do cause more alterations of the implant surface (crater‐like defects on smooth surfaces, rounding or removal of sharp edges on rough surface). Although smaller particles on the contrary only cause almost no observable change of the implant topography at SEM analysis, they might have a reduced capacity to remove implant contaminants (Matsubara et al., <xref rid="clr13881-bib-0028" ref-type="bibr">2020</xref>). However, these smaller particles are more likely to reach areas in the rough implant surface inaccessible by larger particles. Hence, to which extent these different effects impact on peri‐implant health recovery remains to be found. In addition to powder difference, implant thread geometry and apically facing thread parts were found to impact the air polishing decontaminating efficacy (Sanz‐Martín et al., <xref rid="clr13881-bib-0045" ref-type="bibr">2021</xref>). The most effective biofilm removal could be achieved in implants having low thread pitch and low thread depth values and on the non‐apical facing parts. Also, implant defect morphology might be an important factor contributing to a successful outcome (Tuchscheerer et al., <xref rid="clr13881-bib-0054" ref-type="bibr">2021</xref>). The group by Tuchscheerer et al. showed that although glycine air polishing was significantly more efficient in a surgical simulated setting than in a non‐surgical setting, in none of the bone defects an entirely clean surface could be achieved. Significant difference appeared between bone defects of 30° (8.26 ± 1.02% color remnant) and 60° (5.02 ± 0.84% color remnant) which might suggest that less wide (intraosseous) bone defects might leave more biofilm remnants as trigger for peri‐implant inflammation.</p>
+              <p>Taken together, a positive influence of erythritol air polishing on the reduction in inflammatory parameters could be expected on the short term (up to 1 year). As single decontaminating approach, it does, however, not seem to improve the clinical outcome more than saline‐soaked gauzes. Therefore, saline rinsing still might be regarded as the gold standard for implant surface decontamination. Hence, when not already present in a daily practice, it seems questionable if one should invest in an expensive mechanical treatment method/device. Nevertheless, the use of an air polisher could be regarded the most easy to handle device when trying to decontaminate the implant surface in a surgical approach and thus advocated when present. Moreover, RCTs evaluating the use of erythritol air polishing in combination with chemical decontamination are needed.</p>
+              <p>The present study has some limitations. First, optimal accessibility of the peri‐implant bone defect might not have been reached in all cases considering that cemented restorations were not removed prior to the surgical intervention. Hence, the implant surface might have been insufficiently cleaned.</p>
+              <p>Second, irrespective of the bone defect morphology, a resective approach was chosen with the aim to evaluate the single influence of mechanical implant surface debridement. In some cases (i.e., 3/4 wall or circumferentially bone defect), a regenerative approach could have been a more successful therapy. However, at the start of this study, research data comparing the outcomes of resective and regenerative approaches in a randomized clinical trial were scarce and did not (and still do not) per se favor a regenerative approach (Tomasi et al., <xref rid="clr13881-bib-0053" ref-type="bibr">2019</xref>).</p>
+              <p>Third, recent microbiological research using metagenomic techniques has revealed a microbiological profile of peri‐implantitis which appears more diverse than previously thought (Charalampakis &amp; Belibasakis, <xref rid="clr13881-bib-0005" ref-type="bibr">2015</xref>). Therefore, other microorganisms which we did not target with the qPCR technique in our study might be important in the etiology and disease progression of peri‐implantitis.</p>
+              <p>At last, considering the low number of cases showing therapy success, a subanalysis on confounding factors (e.g., implant surface, implant position, buccal keratinized gingiva, type of suprastructure, history of periodontitis, and smoking) appeared not feasible.</p>
+              <p>To conclude, within the limitations of the present study, cleansing of the implant surface using erythritol air polishing seems as effective as the use of saline‐soaked cotton gauzes in terms of clinical, radiographical, and microbiological effect during the surgical resective treatment of peri‐implantitis. The overall treatment success of air polishing as single debridement method in a resective surgical approach, however, remains low. To improve the treatment success and prevent disease recurrence on the short term, studies evaluating new potential (combination of) strategies are needed.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="clr13881-sec-0031">
+              <title>Conflict of interest</title>
+              <p>All authors declare no conflict of interest. The study was self‐funded by the authors and their institution.</p>
+            </sec>
+            <sec id="clr13881-sec-0032">
+              <title>AUTHOR CONTRIBUTION</title>
+              <p><bold>Diederik Hentenaar:</bold> Conceptualization (equal); Data curation (lead); Formal analysis (equal); Investigation (equal); Methodology (equal); Project administration (lead); Writing – original draft (lead). <bold>Yvonne Catharina Maria De Waal:</bold> Conceptualization (equal); Investigation (equal); Writing – original draft (supporting). <bold>Roy Stewart:</bold> Data curation (equal); Methodology (equal). <bold>Arie Jan van Winkelhoff:</bold> Conceptualization (equal); Supervision (equal); Writing – original draft (supporting). <bold>Henny J.A. JA Meijer:</bold> Conceptualization (equal); Supervision (equal); Writing – original draft (supporting). <bold>Gerry M Raghoebar:</bold> Conceptualization (equal); Investigation (equal); Supervision (equal); Writing – original draft (supporting).</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supporting information</title>
+              <supplementary-material id="clr13881-sup-0001" position="float" content-type="local-data">
+                <caption>
+                  <p>Supplementary Material</p>
+                </caption>
+                <media xlink:href="CLR-33-184-s001.doc">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack id="clr13881-sec-0030">
+              <title>ACKNOWLEDGMENTS</title>
+              <p>The authors would like to thank Electro Medical Systems (EMS) for lending us the Air‐Flow Master Piezon<sup>®</sup>.</p>
+            </ack>
+            <sec sec-type="data-availability" id="clr13881-sec-0034">
+              <title>Data Availability Statement</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list content-type="cited-references" id="clr13881-bibl-0001">
+              <title>REFERENCES</title>
+              <ref id="clr13881-bib-0001">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0001"><string-name><surname>Amate‐Fernández</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Figueiredo</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Blanc</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Àlvarez</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>León</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Valmaseda‐Castellón</surname>, <given-names>E.</given-names></string-name> (<year>2021</year>). <article-title>Erythritol‐enriched powder and oral biofilm regrowth on dental implants: an in vitro study</article-title>. <source>Medicina Oral, Patologia Oral Y Cirugia Bucal</source>, <volume>26</volume>, <fpage>e602</fpage>–<lpage>e610</lpage>. <pub-id pub-id-type="doi">10.4317/medoral.24622</pub-id>
+<pub-id pub-id-type="pmid">33772566</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0005">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0005"><string-name><surname>Charalampakis</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Belibasakis</surname>, <given-names>G. N.</given-names></string-name> (<year>2015</year>). <article-title>Microbiome of peri‐implant infections: Lessons from conventional, molecular and metagenomic analyses</article-title>. <source>Virulence</source>, <volume>6</volume>, <fpage>183</fpage>–<lpage>187</lpage>. <pub-id pub-id-type="doi">10.4161/21505594.2014.980661</pub-id>
+<pub-id pub-id-type="pmid">25654499</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0007">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0007"><string-name><surname>Cosgarea</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Jepsen</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Fimmers</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Bodea</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Eick</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name> (<year>2021</year>). <article-title>Clinical outcomes following periodontal surgery and root surface decontamination by erythritol‐based air polishing. A randomized, controlled, clinical pilot study</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>, <fpage>627</fpage>–<lpage>635</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03533-9</pub-id>
+<pub-id pub-id-type="pmid">32839833</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0010">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0010"><string-name><surname>Drago</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Bortolin</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Taschieri</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>De Vecchi</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Agrappi</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Del Fabbro</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Francetti</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Mattina</surname>, <given-names>R.</given-names></string-name> (<year>2017</year>). <article-title>Erythritol/chlorhexidine combination reduces microbial biofilm and prevents its formation on titanium surfaces in vitro</article-title>. <source>Journal of Oral Pathology &amp; Medicine</source>, <volume>46</volume>, <fpage>625</fpage>–<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1111/jop.12536</pub-id>
+<pub-id pub-id-type="pmid">27935124</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0011">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0011"><string-name><surname>Drago</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Del Fabbro</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bortolin</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Vassena</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>De Vecchi</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>Taschieri</surname>, <given-names>S.</given-names></string-name> (<year>2014</year>). <article-title>Biofilm removal and antimicrobial activity of two different air polishing powders: An in vitro study</article-title>. <source>Journal of Periodontology</source>, <volume>85</volume>, <fpage>e363</fpage>–<lpage>e369</lpage>. <pub-id pub-id-type="doi">10.1902/jop.2014.140134</pub-id>
+<pub-id pub-id-type="pmid">25060742</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0012">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0012"><string-name><surname>Esposito</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Grusovin</surname>, <given-names>M. G.</given-names></string-name>, &amp; <string-name><surname>Worthington</surname>, <given-names>H. V.</given-names></string-name> (<year>2012</year>). <article-title>Treatment of peri‐implantitis: What interventions are effective? A cochrane systematic review</article-title>. <source>European Journal of Oral Implantology</source>, <volume>5</volume>, <fpage>S21</fpage>–<lpage>S41</lpage>.<pub-id pub-id-type="pmid">22834392</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0013">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0013"><string-name><surname>Garaicoa‐Pazmino</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Sinjab</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name> (<year>2019</year>). <article-title>Current protocols for the treatment of peri‐implantitis</article-title>. <source>Current Oral Health Reports</source>, <volume>6</volume>, <fpage>209</fpage>–<lpage>217</lpage>. <pub-id pub-id-type="doi">10.1007/s40496-019-00227-4</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0014">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0014"><string-name><surname>Hägi</surname>, <given-names>T. T.</given-names></string-name>, <string-name><surname>Hofmänner</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Salvi</surname>, <given-names>G. E.</given-names></string-name>, <string-name><surname>Ramseier</surname>, <given-names>C. A.</given-names></string-name>, &amp; <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name> (<year>2013</year>). <article-title>Clinical outcomes following subgingival application of a novel erythritol powder by means of air polishing in supportive periodontal therapy: A randomized, controlled clinical study</article-title>. <source>Quintessence International</source>, <volume>44</volume>, <fpage>753</fpage>–<lpage>761</lpage>. <pub-id pub-id-type="doi">10.3290/j.qi.a30606</pub-id>
+<pub-id pub-id-type="pmid">24078975</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0016">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0016"><string-name><surname>Hashino</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Kuboniwa</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Alghamdi</surname>, <given-names>S. A.</given-names></string-name>, <string-name><surname>Yamaguchi</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Yamamoto</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Cho</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Amano</surname>, <given-names>A.</given-names></string-name> (<year>2013</year>). <article-title>Erythritol alters microstructure and metabolomic profiles of biofilm composed of Streptococcus gordonii and Porphyromonas gingivalis</article-title>. <source>Molecular Oral Microbiology</source>, <volume>28</volume>, <fpage>435</fpage>–<lpage>451</lpage>. <pub-id pub-id-type="doi">10.1111/omi.12037</pub-id>
+<pub-id pub-id-type="pmid">23890177</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0017">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0017"><string-name><surname>Hentenaar</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>De Waal</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Stewart</surname>, <given-names>R. E.</given-names></string-name>, <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name> (<year>2021</year>). <article-title>Erythritol airpolishing in the non‐surgical treatment of peri‐implantitis: A randomized controlled trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>, <fpage>840</fpage>–<lpage>852</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13757</pub-id>
+<pub-id pub-id-type="pmid">33844373</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0018">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0018"><string-name><surname>Hentenaar</surname>, <given-names>D. F. M.</given-names></string-name>, <string-name><surname>De Waal</surname>, <given-names>Y. C. M.</given-names></string-name>, <string-name><surname>Strooker</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name>, &amp; <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name> (<year>2017</year>). <article-title>Implant decontamination with phosphoric acid during surgical peri‐implantitis treatment: A RCT</article-title>. <source>International Journal of Implant Dentistry</source>, <volume>3</volume>, <fpage>33</fpage>–<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1186/s40729-017-0091-5</pub-id>
+<pub-id pub-id-type="pmid">28718012</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0019">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0019"><string-name><surname>Jentsch</surname>, <given-names>H. F. R.</given-names></string-name>, <string-name><surname>Flechsig</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Kette</surname>, <given-names>B.</given-names></string-name>, &amp; <string-name><surname>Eick</surname>, <given-names>S.</given-names></string-name> (<year>2020</year>). <article-title>Adjunctive air‐polishing with erythritol in nonsurgical periodontal therapy: a randomized clinical trial</article-title>. <source>BMC Oral Health</source>, <volume>20</volume>, <fpage>364</fpage>. <pub-id pub-id-type="doi">10.1186/s12903-020-01363-5</pub-id>
+<pub-id pub-id-type="pmid">33372602</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0020">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0020"><string-name><surname>Khan</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Goyal</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Currell</surname>, <given-names>S. D.</given-names></string-name>, &amp; <string-name><surname>Sharma</surname>, <given-names>D.</given-names></string-name> (<year>2020</year>). <article-title>Management of peri‐implantitis lesions without the use of systemic antibiotics: A systematic review</article-title>. <source>Dentistry Journal</source>, <volume>8</volume>, <fpage>106</fpage>. <pub-id pub-id-type="doi">10.3390/dj8030106</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0021">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0021"><string-name><surname>Khoury</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Keeve</surname>, <given-names>P. L.</given-names></string-name>, <string-name><surname>Ramanauskaite</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Koo</surname>, <given-names>K. T.</given-names></string-name>, <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Romanos</surname>, <given-names>G.</given-names></string-name> (<year>2019</year>). <article-title>Surgical treatment of peri‐implantitis ‐ Consensus report of working group 4</article-title>. <source>International Dental Journal</source>, <volume>69</volume>, <fpage>18</fpage>–<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1111/idj.12505</pub-id>
+<pub-id pub-id-type="pmid">31478576</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0022">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0022"><string-name><surname>Koo</surname>, <given-names>K. T.</given-names></string-name>, <string-name><surname>Khoury</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Keeve</surname>, <given-names>P. L.</given-names></string-name>, <string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Ramanauskaite</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Romanos</surname>, <given-names>G.</given-names></string-name> (<year>2019</year>). <article-title>Implant surface decontamination by surgical treatment of periimplantitis: A literature review</article-title>. <source>Implant Dentistry</source>, <volume>28</volume>, <fpage>173</fpage>–<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1097/ID.0000000000000840</pub-id>
+<pub-id pub-id-type="pmid">30767944</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0024">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0024"><string-name><surname>Lasserre</surname>, <given-names>J. F.</given-names></string-name>, <string-name><surname>Brecx</surname>, <given-names>M. C.</given-names></string-name>, &amp; <string-name><surname>Toma</surname>, <given-names>S.</given-names></string-name> (<year>2020</year>). <article-title>Implantoplasty versus glycine air abrasion for the surgical treatment of peri‐implantitis: A randomized clinical trial</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>35</volume>, <fpage>197</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.11607/jomi.6677</pub-id>
+<pub-id pub-id-type="pmid">31923303</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0025">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0025"><string-name><surname>Louropoulou</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Slot</surname>, <given-names>D. E.</given-names></string-name>, &amp; <string-name><surname>Van der Weijden</surname>, <given-names>F.</given-names></string-name> (<year>2014</year>). <article-title>The effects of mechanical instruments on contaminated titanium dental implant surfaces: A systematic review</article-title>. <source>Clinical Oral Implants Research</source>, <volume>25</volume>(<issue>10</issue>), <fpage>1149</fpage>–<lpage>1160</lpage>. <pub-id pub-id-type="doi">10.1111/clr.12224</pub-id>
+<pub-id pub-id-type="pmid">23834327</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0026">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0026"><string-name><surname>Maas</surname>, <given-names>C. J. M.</given-names></string-name>, &amp; <string-name><surname>Hox</surname>, <given-names>J. J.</given-names></string-name> (<year>2005</year>). <article-title>Sufficient sample sizes for multilevel modeling</article-title>. <source>Methodology: European Journal of Research Methods for the Behavioral and Social Sciences</source>, <volume>1</volume>, <fpage>86</fpage>–<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1027/1614-2241.1.3.86</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0028">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0028"><string-name><surname>Matsubara</surname>, <given-names>V. H.</given-names></string-name>, <string-name><surname>Leong</surname>, <given-names>B. W.</given-names></string-name>, <string-name><surname>Leong</surname>, <given-names>M. J. L.</given-names></string-name>, <string-name><surname>Lawrence</surname>, <given-names>Z.</given-names></string-name>, <string-name><surname>Becker</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Quaranta</surname>, <given-names>A.</given-names></string-name> (<year>2020</year>). <article-title>Cleaning potential of different air abrasive powders and their impact on implant surface roughness</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>22</volume>, <fpage>96</fpage>–<lpage>104</lpage>. <pub-id pub-id-type="doi">10.1111/cid.12875</pub-id>
+<pub-id pub-id-type="pmid">31837107</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0029">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0029"><string-name><surname>Matthes</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Duske</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Kebede</surname>, <given-names>T. G.</given-names></string-name>, <string-name><surname>Pink</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>von Schlüter</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Woedtke</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Weltmann</surname>, <given-names>K. D.</given-names></string-name>, <string-name><surname>Kocher</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Jablonowski</surname>, <given-names>L.</given-names></string-name> (<year>2017</year>). <article-title>Osteoblast growth, after cleaning of biofilm‐covered titanium discs with air polishing and cold plasma</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>44</volume>, <fpage>672</fpage>–<lpage>680</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12720</pub-id>
+<pub-id pub-id-type="pmid">28303583</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0030">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0030"><string-name><surname>Mensi</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Cochis</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Sordillo</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Uberti</surname>, <given-names>F.</given-names></string-name>, &amp; <string-name><surname>Rimondini</surname>, <given-names>L.</given-names></string-name> (<year>2018</year>). <article-title>Biofilm removal and bacterial re‐colonization inhibition of a novel erythritol/chlorhexidine air polishing powder on titanium disks</article-title>. <source>Materials</source>, <volume>11</volume>, <fpage>1510</fpage>. <pub-id pub-id-type="doi">10.3390/ma11091510</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0031">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0031"><string-name><surname>Mensi</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Scotti</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Sordillo</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Calza</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Guarnelli</surname>, <given-names>M. E.</given-names></string-name>, <string-name><surname>Fabbri</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Farina</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Trombelli</surname>, <given-names>L.</given-names></string-name> (<year>2021</year>). <article-title>Efficacy of the additional use of subgingival air polishing with erythritol powder in the treatment of periodontitis patients: A randomized controlled clinical trial</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>, <fpage>729</fpage>–<lpage>736</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03648-z</pub-id>
+<pub-id pub-id-type="pmid">33404760</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0032">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0032"><string-name><surname>Moharrami</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Perrotti</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Iaculli</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Love</surname>, <given-names>R. M.</given-names></string-name>, &amp; <string-name><surname>Quaranta</surname>, <given-names>A.</given-names></string-name> (<year>2019</year>). <article-title>Effects of air abrasive decontamination on titanium surfaces: A systematic review of in vitro studies</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>21</volume>, <fpage>398</fpage>–<lpage>421</lpage>. <pub-id pub-id-type="doi">10.1111/cid.12747</pub-id>
+<pub-id pub-id-type="pmid">30838790</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0034">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0034"><string-name><surname>Monje</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Pons</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Insua</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Nart</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H. L.</given-names></string-name>, &amp; <string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name> (<year>2019</year>). <article-title>Morphology and severity of peri‐implantitis bone defects</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>21</volume>, <fpage>635</fpage>–<lpage>643</lpage>. <pub-id pub-id-type="doi">10.1111/cid.12791</pub-id>
+<pub-id pub-id-type="pmid">31087457</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0035">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0035"><string-name><surname>Müller</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Moëne</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Cancela</surname>, <given-names>J. A.</given-names></string-name>, &amp; <string-name><surname>Mombelli</surname>, <given-names>A.</given-names></string-name> (<year>2014</year>). <article-title>Subgingival air‐polishing with erythritol during periodontal maintenance: Randomized clinical trial of twelve months</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>41</volume>, <fpage>883</fpage>–<lpage>889</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12289</pub-id>
+<pub-id pub-id-type="pmid">25041441</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0036">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0036"><string-name><surname>Muthukuru</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Zainvi</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Esplugues</surname>, <given-names>E. O.</given-names></string-name>, &amp; <string-name><surname>Flemmig</surname>, <given-names>T. F.</given-names></string-name> (<year>2012</year>). <article-title>Non‐surgical therapy for the management of peri‐implantitis: A systematic review</article-title>. <source>Clinical Oral Implants Research</source>, <volume>23</volume>, <fpage>77</fpage>–<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2012.02542.x</pub-id>
+<pub-id pub-id-type="pmid">23062131</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0037">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0037"><string-name><surname>Papadopoulos</surname>, <given-names>C. A.</given-names></string-name>, <string-name><surname>Vouros</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Menexes</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Konstantinidis</surname>, <given-names>A.</given-names></string-name> (<year>2015</year>). <article-title>The utilization of a diode laser in the surgical treatment of peri‐implantitis. A randomized clinical trial</article-title>. <source>Clinical Oral Investigations</source>, <volume>19</volume>, <fpage>1851</fpage>–<lpage>1860</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-014-1397-9</pub-id>
+<pub-id pub-id-type="pmid">25623382</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0038">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0038"><string-name><surname>Park</surname>, <given-names>E. J.</given-names></string-name>, <string-name><surname>Kwon</surname>, <given-names>E. Y.</given-names></string-name>, <string-name><surname>Kim</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Lee</surname>, <given-names>J. Y.</given-names></string-name>, <string-name><surname>Choi</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Joo</surname>, <given-names>J. Y.</given-names></string-name> (<year>2018</year>). <article-title>Clinical and microbiological effects of the supplementary use of an erythritol powder air polishing device in non‐surgical periodontal therapy: A randomized clinical trial</article-title>. <source>Journal of Periodontal &amp; Implant Science</source>, <volume>48</volume>, <fpage>295</fpage>–<lpage>304</lpage>. <pub-id pub-id-type="doi">10.5051/jpis.2018.48.5.295</pub-id>
+<pub-id pub-id-type="pmid">30405937</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0039">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0039"><string-name><surname>Petersilka</surname>, <given-names>G. J.</given-names></string-name> (<year>2011</year>). <article-title>Subgingival air polishing in the treatment of periodontal biofilm infections</article-title>. <source>Periodontology</source>, <volume>2000</volume>(<issue>55</issue>), <fpage>124</fpage>–<lpage>142</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0757.2010.00342.x</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0040">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0040"><string-name><surname>Pranno</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Cristalli</surname>, <given-names>M. P.</given-names></string-name>, <string-name><surname>Mengoni</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Sauzullo</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Annibali</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Polimeni</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>La Monaca</surname>, <given-names>G.</given-names></string-name> (<year>2021</year>). <article-title>Comparison of the effects of air‐powder abrasion, chemical decontamination, or their combination in open‐flap surface decontamination of implants failed for peri‐implantitis: an ex vivo study</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>(<issue>5</issue>), <fpage>2667</fpage>–<lpage>2676</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03578-w</pub-id>
+<pub-id pub-id-type="pmid">32975703</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0041">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0041"><string-name><surname>Ramanauskaite</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Obreja</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name> (<year>2020</year>). <article-title>Surgical management of peri‐implantitis</article-title>. <source>Current Oral Health Reports</source>, <volume>7</volume>, <fpage>283</fpage>–<lpage>303</lpage>. <pub-id pub-id-type="doi">10.1007/s40496-020-00278-y</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0044">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0044"><string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Chapple</surname>, <given-names>I. L.</given-names></string-name>; Working Group 4 of the VIII European Workshop on Periodontology (<year>2012</year>). <article-title>Clinical Research on Peri‐Implant Diseases: Consensus Report of Working Group 4</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>39</volume>, <fpage>202</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01837.x</pub-id>
+<pub-id pub-id-type="pmid">22533957</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0045">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0045"><string-name><surname>Sanz‐Martín</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Paeng</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Park</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Cha</surname>, <given-names>J. K.</given-names></string-name>, <string-name><surname>Jung</surname>, <given-names>U. W.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2021</year>). <article-title>Significance of implant design on the efficacy of different peri‐implantitis decontamination protocols</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>, <fpage>3589</fpage>–<lpage>3597</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03681-y</pub-id>
+<pub-id pub-id-type="pmid">33170374</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0046">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0046"><string-name><surname>Scherbaum</surname>, <given-names>C. A.</given-names></string-name>, &amp; <string-name><surname>Ferreter</surname>, <given-names>J. M.</given-names></string-name> (<year>2009</year>). <article-title>Estimating statistical power and required sample sizes for organizational research using multilevel modeling</article-title>. <source>Organizational Research Methods</source>, <volume>12</volume>, <fpage>347</fpage>–<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1177/1094428107308906</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0047">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0047"><string-name><surname>Schulz</surname>, <given-names>K. F.</given-names></string-name>, <string-name><surname>Altman</surname>, <given-names>D. G.</given-names></string-name>, &amp; <string-name><surname>Moher</surname>, <given-names>D.</given-names></string-name> (<year>2010</year>). <article-title>CONSORT 2010 statement: Updated guidelines for reporting parallel group randomized trials</article-title>. <source>Annals of Internal Medicine</source>, <volume>152</volume>, <fpage>726</fpage>–<lpage>732</lpage>.<pub-id pub-id-type="pmid">20335313</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0049">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0049"><string-name><surname>Schwarz</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Herten</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Sager</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bieling</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Sculean</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Becker</surname>, <given-names>J.</given-names></string-name> (<year>2007</year>). <article-title>Comparison of naturally occurring and ligature‐induced peri‐implantitis bone defects in humans and dogs."</article-title>. <source>Clinical Oral Implants Research</source>, <volume>18</volume>, <fpage>161</fpage>–<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2006.01320.x</pub-id>
+<pub-id pub-id-type="pmid">17348880</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0057">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0057"><string-name><surname>Söderling</surname>, <given-names>E. M.</given-names></string-name>, &amp; <string-name><surname>Hietala‐Lenkkeri</surname>, <given-names>A. M.</given-names></string-name> (<year>2010</year>). <article-title>Xylitol and erythritol decrease adherence of polysaccharide‐producing oral streptococci</article-title>. <source>Current microbiology</source>, <volume>60</volume>, <fpage>25</fpage>–<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1007/s00284-009-9496-6</pub-id>
+<pub-id pub-id-type="pmid">19777305</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0050">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0050"><string-name><surname>Tastepe</surname>, <given-names>C. S.</given-names></string-name>, <string-name><surname>Lin</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Donnet</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Doulabi</surname>, <given-names>B. Z.</given-names></string-name>, <string-name><surname>Wismeijer</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Liu</surname>, <given-names>Y.</given-names></string-name> (<year>2018</year>). <article-title>Re‐establishment of biocompatibility of the in vitro contaminated titanium surface using osteoconductive powders with air‐abrasive treatment</article-title>. <source>The Journal of Oral Implantology</source>, <volume>44</volume>, <fpage>94</fpage>–<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1563/aaid-joi-D-17-00128</pub-id>
+<pub-id pub-id-type="pmid">29303415</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0051">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0051"><string-name><surname>Toma</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Brecx</surname>, <given-names>M. C.</given-names></string-name>, &amp; <string-name><surname>Lasserre</surname>, <given-names>J. F.</given-names></string-name> (<year>2019</year>). <article-title>Clinical evaluation of three surgical modalities in the treatment of peri‐implantitis: A randomized controlled clinical trial</article-title>. <source>Journal of Clinical Medicine</source>, <volume>8</volume>, <fpage>966</fpage>. <pub-id pub-id-type="doi">10.3390/jcm8070966</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0053">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0053"><string-name><surname>Tomasi</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Regidor</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Ortiz‐Vigón</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Derks</surname>, <given-names>J.</given-names></string-name> (<year>2019</year>). <article-title>Efficacy of reconstructive surgical therapy at peri‐implantitis‐related bone defects. A systematic review and meta‐analysis</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>46</volume>, <fpage>340</fpage>–<lpage>356</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13070</pub-id>
+<pub-id pub-id-type="pmid">30667523</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0054">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0054"><string-name><surname>Tuchscheerer</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Eickholz</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Dannewitz</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Ratka</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Zuhr</surname>, <given-names>O.</given-names></string-name>, &amp; <string-name><surname>Petsos</surname>, <given-names>H.</given-names></string-name> (<year>2021</year>). <article-title>In vitro surgical and non‐surgical air‐polishing efficacy for implant surface decontamination in three different defect configurations</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>, <fpage>1743</fpage>–<lpage>1754</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03476-1</pub-id>
+<pub-id pub-id-type="pmid">32813077</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0055">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0055"><string-name><surname>de Waal</surname>, <given-names>Y. C.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Huddleston Slater</surname>, <given-names>J. J.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Winkel</surname>, <given-names>E. G.</given-names></string-name>, &amp; <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name> (<year>2013</year>). <article-title>Implant decontamination during surgical peri‐implantitis treatment: A randomized, double‐blind, placebo‐controlled trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>40</volume>, <fpage>186</fpage>–<lpage>195</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12034</pub-id>
+<pub-id pub-id-type="pmid">23211012</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13881-bib-0056">
+                <mixed-citation publication-type="journal" id="clr13881-cit-0056"><string-name><surname>de Waal</surname>, <given-names>Y. C.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Winkel</surname>, <given-names>E. G.</given-names></string-name>, &amp; <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name> (<year>2015</year>). <article-title>Implant decontamination with 2% chlorhexidine during surgical peri‐implantitis treatment: A randomized, double‐blind, controlled trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>26</volume>, <fpage>1015</fpage>–<lpage>1023</lpage>. <pub-id pub-id-type="doi">10.1111/clr.12419</pub-id>
+<pub-id pub-id-type="pmid">24861411</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

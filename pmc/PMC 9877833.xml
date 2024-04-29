@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:39:58Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9877833" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9877833</identifier>
+        <datestamp>2023-01-26</datestamp>
+        <setSpec>pheblackwell</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="jcpe13746" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-051X</journal-id>
+              <journal-id journal-id-type="publisher-id">JCPE</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Clinical Periodontology</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0303-6979</issn>
+              <issn pub-type="epub">1600-051X</issn>
+              <publisher>
+                <publisher-name>Blackwell Publishing Ltd</publisher-name>
+                <publisher-loc>Oxford, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9877833</article-id>
+              <article-id pub-id-type="pmcid">PMC9877833</article-id>
+              <article-id pub-id-type="pmc-uid">9877833</article-id>
+              <article-id pub-id-type="pmid">36345827</article-id>
+              <article-id pub-id-type="pmid">36345827</article-id>
+              <article-id pub-id-type="doi">10.1111/jcpe.13746</article-id>
+              <article-id pub-id-type="publisher-id">JCPE13746</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Randomized clinical trial to assess the impact of oral intervention with cetylpyridinium chloride to reduce salivary <styled-content style="fixed-case" toggle="no">SARS‐CoV‐2</styled-content> viral load</article-title>
+                <alt-title alt-title-type="left-running-head">Tarragó‐Gil et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="jcpe13746-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Tarragó‐Gil</surname>
+                    <given-names>Rosa</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <address>
+                    <email>rmtarrago@salud.aragon.es</email>
+                  </address>
+                </contrib>
+                <contrib id="jcpe13746-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Gil‐Mosteo</surname>
+                    <given-names>María José</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Aza‐Pascual‐Salcedo</surname>
+                    <given-names>Mercedes</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Alvarez</surname>
+                    <given-names>María Jesús Lallana</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Ainaga</surname>
+                    <given-names>Raquel Refusta</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>Gimeno</surname>
+                    <given-names>Natalia Lázaro</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0007" contrib-type="author">
+                  <name>
+                    <surname>Viñuales</surname>
+                    <given-names>Roberto Fuentes</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0008" contrib-type="author">
+                  <name>
+                    <surname>Fernández</surname>
+                    <given-names>Yolanda Millán</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0009" contrib-type="author">
+                  <name>
+                    <surname>Marco</surname>
+                    <given-names>Jesica Montero</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0010" contrib-type="author">
+                  <name>
+                    <surname>Bolsa</surname>
+                    <given-names>Elena Altarribas</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0011" contrib-type="author">
+                  <name>
+                    <surname>Sancho</surname>
+                    <given-names>Jessica Bueno</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0012" contrib-type="author">
+                  <name>
+                    <surname>Cajo</surname>
+                    <given-names>Sonia Algarate</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0013" contrib-type="author">
+                  <name>
+                    <surname>Perez‐Zsolt</surname>
+                    <given-names>Daniel</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0007" ref-type="aff">
+                    <sup>7</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0014" contrib-type="author">
+                  <name>
+                    <surname>Raïch‐Regué</surname>
+                    <given-names>Dàlia</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0007" ref-type="aff">
+                    <sup>7</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0015" contrib-type="author">
+                  <name>
+                    <surname>Muñoz‐Basagoiti</surname>
+                    <given-names>Jordana</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0007" ref-type="aff">
+                    <sup>7</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0016" contrib-type="author">
+                  <name>
+                    <surname>Izquierdo‐Useros</surname>
+                    <given-names>Nuria</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0007" ref-type="aff">
+                    <sup>7</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0008" ref-type="aff">
+                    <sup>8</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0017" contrib-type="author">
+                  <name>
+                    <surname>Pociello</surname>
+                    <given-names>Vanessa Blanc</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0009" ref-type="aff">
+                    <sup>9</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0018" contrib-type="author">
+                  <name>
+                    <surname>León</surname>
+                    <given-names>Rubén</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0009" ref-type="aff">
+                    <sup>9</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13746-cr-0019" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Peris</surname>
+                    <given-names>Diana Serrano</given-names>
+                  </name>
+                  <xref rid="jcpe13746-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13746-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <address>
+                    <email>dserrano@salud.aragon.es</email>
+                  </address>
+                </contrib>
+              </contrib-group>
+              <aff id="jcpe13746-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Seminario Primary Care Health Centre</named-content>
+                <institution>Aragon Health Service</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <institution>Institute of Health Research of Aragón (IIS Aragón)</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Zaragoza III Primary Care Health Direction</named-content>
+                <institution>Aragon Health Service</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <named-content content-type="organisation-division">San José Primary Care Health Centre</named-content>
+                <institution>Aragon Health Service</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0005">
+                <label>
+                  <sup>5</sup>
+                </label>
+                <named-content content-type="organisation-division">Sagasta Primary Care Health Centre</named-content>
+                <institution>Aragon Health Service</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0006">
+                <label>
+                  <sup>6</sup>
+                </label>
+                <institution>Lozano Blesa University Clinic Hospital</institution>
+                <city>Zaragoza</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0007">
+                <label>
+                  <sup>7</sup>
+                </label>
+                <institution>IrsiCaixa AIDS Research Institute</institution>
+                <city>Badalona</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0008">
+                <label>
+                  <sup>8</sup>
+                </label>
+                <institution>Germans Trias i Pujol Research Institute (IGTP)</institution>
+                <city>Badalona</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="jcpe13746-aff-0009">
+                <label>
+                  <sup>9</sup>
+                </label>
+                <institution>Dentaid Research Center</institution>
+                <city>Cerdanyola del Vallès</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Rosa Tarragó‐Gil, Seminario Primary Care Health Centre, Aragon Health Service, C\ Condes de Aragón, no 30, 50009 Zaragoza, Spain.<break/>
+Email: <email>rmtarrago@salud.aragon.es</email>
+<break/>
+Diana Serrano Peris, Zaragoza III Primary Care Health Direction, Aragon Health Service, C\ Condes de Aragón, no 30, 50009 Zaragoza, Spain.<break/>
+Email: <email>dserrano@salud.aragon.es</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>28</day>
+                <month>11</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>28</day>
+                <month>11</month>
+                <year>2022</year>
+              </pub-date>
+              <!--PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>.-->
+              <elocation-id>10.1111/jcpe.13746</elocation-id>
+              <history>
+                <date date-type="rev-recd">
+                  <day>25</day>
+                  <month>10</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>03</day>
+                  <month>4</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>03</day>
+                  <month>11</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2022 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Clinical Periodontology</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:JCPE-9999-0.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="jcpe13746-sec-0001">
+                  <title>Aim</title>
+                  <p>Aerosols released from the oral cavity help spread the SARS‐CoV‐2 virus. The use of a mouthwash formulated with an antiviral agent could reduce the viral load in saliva, helping to lower the spread of the virus. The aim of this study was to assess the efficacy of a mouthwash with 0.07% cetylpyridinium chloride (CPC) to reduce the viral load in the saliva of Coronavirus disease 2019 (COVID‐19) patients.</p>
+                </sec>
+                <sec id="jcpe13746-sec-0002">
+                  <title>Materials and Methods</title>
+                  <p>In this multi‐centre, single‐blind, randomized, parallel group clinical trial, 80 COVID‐19 patients were enrolled and randomized to two groups, namely test (<italic toggle="no">n</italic> = 40) and placebo (<italic toggle="no">n</italic> = 40). Saliva samples were collected at baseline and 2 h after rinsing. The samples were analysed by reverse transcription‐quantitative polymerase chain reaction (RT‐qPCR) and an enzyme‐linked immunosorbent assay test specific for the nucleocapsid (N) protein of SARS‐CoV‐2.</p>
+                </sec>
+                <sec id="jcpe13746-sec-0003">
+                  <title>Results</title>
+                  <p>With RT‐qPCR, no significant differences were observed between the placebo group and the test group. However, 2 h after a single rinse, N protein concentration in saliva was significantly higher in the test group, indicating an increase in lysed virus.</p>
+                </sec>
+                <sec id="jcpe13746-sec-0004">
+                  <title>Conclusions</title>
+                  <p>The use of 0.07% CPC mouthwash induced a significant increase in N protein detection in the saliva of COVID‐19 patients. Lysis of the virus in the mouth could help reduce the transmission of SARS‐CoV‐2. However, more studies are required to prove this.</p>
+                </sec>
+              </abstract>
+              <kwd-group kwd-group-type="author-generated">
+                <kwd id="jcpe13746-kwd-0001">cetylpyridinium chloride</kwd>
+                <kwd id="jcpe13746-kwd-0002">COVID‐19</kwd>
+                <kwd id="jcpe13746-kwd-0003">ELISA</kwd>
+                <kwd id="jcpe13746-kwd-0004">mouthwash</kwd>
+                <kwd id="jcpe13746-kwd-0005">SARS‐CoV‐2</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>Dentaid S.L</funding-source>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="1"/>
+                <table-count count="3"/>
+                <page-count count="7"/>
+                <word-count count="6598"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>edited-state</meta-name>
+                  <meta-value>corrected-proof</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.4 mode:remove_FC converted:26.01.2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="self-citation" id="jcpe13746-cit-9001"><string-name><surname>Tarragó‐Gil</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Gil‐Mosteo</surname>, <given-names>M. J.</given-names></string-name>, <string-name><surname>Aza‐Pascual‐Salcedo</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Alvarez</surname>, <given-names>M. J. L.</given-names></string-name>, <string-name><surname>Ainaga</surname>, <given-names>R. R.</given-names></string-name>, <string-name><surname>Gimeno</surname>, <given-names>N. L.</given-names></string-name>, <string-name><surname>Viñuales</surname>, <given-names>R. F.</given-names></string-name>, <string-name><surname>Fernández</surname>, <given-names>Y. M.</given-names></string-name>, <string-name><surname>Marco</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Bolsa</surname>, <given-names>E. A.</given-names></string-name>, <string-name><surname>Sancho</surname>, <given-names>J. B.</given-names></string-name>, <string-name><surname>Cajo</surname>, <given-names>S. A.</given-names></string-name>, <string-name><surname>Perez‐Zsolt</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Raïch‐Regué</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Muñoz‐Basagoiti</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Izquierdo‐Useros</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Pociello</surname>, <given-names>V. B.</given-names></string-name>, <string-name><surname>León</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Peris</surname>, <given-names>D. S.</given-names></string-name> (<year>2022</year>). <article-title>Randomized clinical trial to assess the impact of oral intervention with cetylpyridinium chloride to reduce salivary <styled-content style="fixed-case" toggle="no">SARS‐CoV‐2</styled-content> viral load</article-title>. <source>Journal of Clinical Periodontology</source>, <fpage>1</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13746</pub-id>
+</mixed-citation>
+              </p>
+              <fn-group>
+                <fn id="jcpe13746-note-1002">
+                  <p><bold>Funding information</bold> Dentaid S.L</p>
+                </fn>
+              </fn-group>
+            </notes>
+          </front>
+          <body id="jcpe13746-body-0001">
+            <p>
+              <boxed-text position="anchor" content-type="box" id="jcpe13746-blkfxd-0001">
+                <caption>
+                  <title>Clinical Relevance</title>
+                </caption>
+                <p><italic toggle="yes">Scientific rationale for study</italic>: The oral cavity is one of the main entry routes for SARS‐CoV‐2 and represents a key site for replication and increase in viral load before colonization of the lower airways. This study evaluated the efficacy of cetylpyridinium chloride (CPC) mouthwashes in viral reduction in the mouth of COVID‐19 positive patients.</p>
+                <p><italic toggle="yes">Principal findings</italic>: This study demonstrated SARS‐CoV‐2 lysis in the saliva of COVID‐19 patients 2 h after the administration of a single dose of CPC mouthwash.</p>
+                <p><italic toggle="yes">Practical implications</italic>: This study highlights the importance of rinsing with CPC during dental procedures as a protective measure for professionals and patients and presents an additional strategy of protection for the general population.</p>
+              </boxed-text>
+            </p>
+            <sec id="jcpe13746-sec-0007">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>The World Health Organization (WHO) has declared the outbreak of Coronavirus disease 2019 (COVID‐19), caused by the SARS‐CoV‐2 virus, to be a public health emergency of international concern. Most people affected by this disease have mild symptoms associated with the upper‐middle respiratory tract. However, a significant number of individuals experience more severe symptoms associated with the lower respiratory tract, including severe pneumonia with symptoms of hypoxia, acute respiratory distress syndrome, and death. In both cases, the upper respiratory tract plays a fundamental role, as it is the route of entry and initial replication of the virus and the area from which it spreads to the different areas of the body, without forgetting that it constitutes the main source of spread of SARS‐CoV‐2, prompting person‐to‐person transmission (Madas et al., <xref rid="jcpe13746-bib-0014" ref-type="bibr">2020</xref>; Coleman et al., <xref rid="jcpe13746-bib-0005" ref-type="bibr">2021</xref>; Wang et al., <xref rid="jcpe13746-bib-0025" ref-type="bibr">2021</xref>). For these reasons, the role the oral cavity plays in SARS‐CoV‐2 infection has been studied. Two fundamental factors for SARS‐CoV‐2 infection are the host proteins ACE‐2 and TMPRSS2; the tissues that harbour these proteins would more likely be infected. Xu, Li, et al. (<xref rid="jcpe13746-bib-0029" ref-type="bibr">2020</xref>) and Xu, Zhong, et al. (<xref rid="jcpe13746-bib-0028" ref-type="bibr">2020</xref>) showed that the levels of ACE‐2 expression in the tissues of the oral cavity are elevated, being higher in the lingual region. Moreover, analysis of the co‐expression of <italic toggle="yes">ACE‐2</italic> and <italic toggle="yes">TMPRSS2</italic> together via in situ hybridization studies has shown that SARS‐CoV‐2 has strong tropism for most oral tissues, especially acini and ducts of the minor salivary glands, which could act as true reservoirs of the virus; this explains the contamination of and high viral load in saliva in the vast majority of infected individuals. In their study, Huang et al. (<xref rid="jcpe13746-bib-0011" ref-type="bibr">2021</xref>) considered the possibility that the mouth may be more important than the nose at the time of infection.</p>
+              <p>Like all coronaviruses, SARS‐CoV‐2 has a lipid envelope. This membrane contains three structural proteins, namely the spike (S), membrane (M), and envelope (E), which fulfil the fundamental functions for entry of the virus into the cell, for its morphogenesis, and assembly of the viral particle (Hartenian et al., <xref rid="jcpe13746-bib-0009" ref-type="bibr">2020</xref>; Satarker &amp; Nampoothiri, <xref rid="jcpe13746-bib-0021" ref-type="bibr">2020</xref>).</p>
+              <p>SARS‐CoV‐2 vaccines are among the main measures to mitigate this pandemic. Designed with different strategies, most of them are directed against the protein S of the virus. Although they reduce the probability of hospitalization and death from COVID‐19, this strategy is not totally effective since it does not prevent contagion, its effectiveness decreases over time, and there are considerable concerns regarding its efficacy against future variants of the virus (Bian et al., <xref rid="jcpe13746-bib-0002" ref-type="bibr">2021</xref>; Tartof et al., <xref rid="jcpe13746-bib-0024" ref-type="bibr">2021</xref>). For these reasons, possible measures that reduce the viral load in the oral cavity could help reduce viral transmission (Burton et al., <xref rid="jcpe13746-bib-0003" ref-type="bibr">2020</xref>; Herrera et al., <xref rid="jcpe13746-bib-0010" ref-type="bibr">2020</xref>; O'Donnell et al., <xref rid="jcpe13746-bib-0018" ref-type="bibr">2020</xref>). One of the molecules that has the greatest evidence of antiviral activity, and which is found in mouthwashes, is cetylpyridinium chloride (CPC; Popkin et al., <xref rid="jcpe13746-bib-0019" ref-type="bibr">2017</xref>; Shen et al., <xref rid="jcpe13746-bib-0023" ref-type="bibr">2019</xref>). In addition, several in vitro studies have shown that this molecule has strong anti‐SARS‐CoV‐2 activity (Komine et al., <xref rid="jcpe13746-bib-0013" ref-type="bibr">2021</xref>; Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>).</p>
+              <p>As described previously, the aim of this study was to determine the effect of CPC on SARS‐CoV‐2 viral load in the saliva of COVID‐19 patients.</p>
+            </sec>
+            <sec sec-type="materials-and-methods" id="jcpe13746-sec-0008">
+              <label>2</label>
+              <title>MATERIALS AND METHODS</title>
+              <sec id="jcpe13746-sec-0009">
+                <label>2.1</label>
+                <title>Study design</title>
+                <p>This study was designed as a multi‐centre, randomized, evaluator‐masked, placebo‐controlled, single dose, two‐arm, parallel‐group clinical trial. Approval of the study was granted by the Clinical Research Ethics Committee of Aragon (CEICA), under Protocol Code CPC01‐C.I. EC20/0092. The trial was registered on the <ext-link xlink:href="http://clinicaltrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> platform under reference no. NCT04820803.</p>
+              </sec>
+              <sec id="jcpe13746-sec-0010">
+                <label>2.2</label>
+                <title>Patient cohort and sample size calculation</title>
+                <p>All individuals who presented mild and medium symptoms of COVID‐19 with fewer than 3 days of evolution and tested positive to an antigen test (Panbio COVID‐19 Ag Rapid Test Device, Abbot Laboratory) were invited to participate in the study. Individuals who were asymptomatic or with more than 3 days of COVID‐19 symptoms were excluded. Patients with physical or cognitive problems unable to conduct the mouthwashing technique, pregnant and nursing women, or individuals requiring hospitalization were also excluded. Patients with hyposialia, those who used toothpastes containing CPC, those who had an allergy to the mouthwashes, or those who had used mouthwashes in the last few months were also not included. All patients signed an informed consent form before being enrolled in the study.</p>
+                <p>As no preliminary data were found at study initiation on the effect of mouthrinses on COVID‐19 patients, a standardized effect size was used for power analysis. We aimed to detect a large, clinically relevant effect size with a Cohen's <italic toggle="yes">d</italic> of 0.8. A power analysis using the two‐tailed student's <italic toggle="yes">t</italic>‐test, Bonferroni corrected, with an <italic toggle="yes">α</italic> of .05, a power of 0.8, and a possible loss ratio of 20% was performed. From this analysis, it was found that 40 patients in each group would be required (Cohen, <xref rid="jcpe13746-bib-0004" ref-type="bibr">1988</xref>).</p>
+              </sec>
+              <sec id="jcpe13746-sec-0011">
+                <label>2.3</label>
+                <title>Randomization and masking</title>
+                <p>Assignment of the products to the subjects was carried out following the order established in a random sequence generated through EXCEL software (Microsoft Corporation) by a DENTAID Research Center investigator. This investigator was not involved in the recruitment of patients, in the clinical procedures, or in the evaluation of the response variable. Each patient was assigned a number (1 or 2) corresponding to each of the study groups (placebo group or test group).</p>
+                <p>The assignment sequence was enclosed in opaque envelopes marked with the number of each patient. These envelopes were opened only after the screening and inclusion of each patient in the study, after collecting the first saliva sample and just before rinsing. A second replica of the entire pack of randomization envelopes was sent to the Principal Investigator for safekeeping. These envelopes were to be opened only if any of the patients presented an adverse event over the duration of the study in order to know the product supplied.</p>
+              </sec>
+              <sec id="jcpe13746-sec-0012">
+                <label>2.4</label>
+                <title>Execution of the study</title>
+                <p>Two non‐stimulated saliva samples were taken from each patient. The first saliva sample (baseline) was taken at the primary healthcare centre under the supervision of the dental hygienist or nurse. All the selected patients had not eaten, drunk, or performed any oral hygiene procedure at least 1 h before the collection of the baseline sample. Then, and also at the primary healthcare centre, patients performed a 1‐min rinse with 15 ml of a mouthwash containing 0.07% CPC (Vitis CPC Protect, Dentaid SL) or with a placebo mouthwash not containing CPC but with the same colour as the test product. All patients received verbal and written instructions to perform self‐collection of the second saliva sample at home, 2 h after rinsing. In addition, patients were asked to refrain from eating food or performing any oral hygiene procedure between the rinse and the second saliva sample collection.</p>
+                <p>All saliva samples, duly labelled, were kept at 4°C and transferred in biological containers to the Microbiology Laboratory at the Lozano Blesa Clinical University Hospital (Zaragoza, Spain).</p>
+              </sec>
+              <sec id="jcpe13746-sec-0013">
+                <label>2.5</label>
+                <title>Study outcome</title>
+                <p>The primary endpoint of this study was the variation of the viral load, detected by means of reverse transcription‐quantitative polymerase chain reaction (RT‐qPCR) in the saliva of COVID‐19 patients, after having rinsed with a mouthwash containing 0.07% CPC or with the placebo. Cycle threshold (Ct) values were used to reflect SARS‐CoV‐2 viral load (Wyllie et al., <xref rid="jcpe13746-bib-0027" ref-type="bibr">2020</xref>).</p>
+                <p>The secondary endpoint used was the concentration of the N protein (nucleocapsid protein of the SARS‐CoV‐2 virus) in the saliva of COVID‐19 patients before and after using the mouthwash or the placebo. CPC inactivates SARS‐CoV‐2 by degrading its membrane (Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>; Bañó‐Polo et al., <xref rid="jcpe13746-bib-0001" ref-type="bibr">2022</xref>) and exposing the nucleocapsid of the virus, which allows the said protein to be detected by specific antibodies present in an enzyme‐linked immunosorbent assay (ELISA) kit. The increase in the colorimetric signal compared to baseline reflects the increase in the N protein and would indicate that the viral envelope has been degraded (Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>).</p>
+              </sec>
+              <sec id="jcpe13746-sec-0014">
+                <label>2.6</label>
+                <title><styled-content style="fixed-case" toggle="no">RT‐qPCR</styled-content> for <styled-content style="fixed-case" toggle="no">SARS‐CoV</styled-content>‐2 viral load determination</title>
+                <p>The saliva samples were transferred to the Microbiology Laboratory at the Lozano Blesa Clinical University Hospital (Zaragoza, Spain) for the RT‐qPCR analysis (VIASURE SARS‐CoV‐2 Real Time PCR Detection Kit, CerTest Biotec SL, Spain), using the DTlite Real‐Time PCR instrument (England, 2020). The targets of this test are ORF1ab and N genes of the SARS‐CoV‐2 virus. Nucleic acid was extracted with the automated magLEAD 12GC system with MagDEA Dx SV (Precision System Science Co., Japan). Fifty microlitres of the eluate was obtained from 200 μl of the original sample, following the manufacturer's protocol. The samples obtained were processed at the same time and by two calibrated researchers to avoid factors that could alter the Ct value.</p>
+              </sec>
+              <sec id="jcpe13746-sec-0015">
+                <label>2.7</label>
+                <title><styled-content style="fixed-case" toggle="no">ELISA</styled-content> assay for determination of N protein concentration</title>
+                <p>The samples were processed with the ELISA technique at the Centre for Bioimaging and Comparative Medicine of the Hospital Germans Trials i Pujol de Badalona (Barcelona, Spain). The biological biosafety committee of the Germans Trias i Pujol Research Institute and the CEICA approved the execution of experiments at the BSL3 laboratory of the Centre for Bioimaging and Comparative Medicine. Saliva samples were centrifuged at 10,000<italic toggle="yes">g</italic> for 5 min, and 100–200 μl of the supernatants was added to a SARS‐CoV‐2 nucleocapsid protein high‐sensitivity quantitative ELISA system (ImmunoDiagnostics). ELISA was performed according to the manufacturer's protocol replacing the assay buffer of the kit, which contains the lytic agent, to lyse viral membranes for phosphate‐buffer saline (PBS) containing 0.1% of bovine serum albumin (BSA). The samples from each individual were always assayed in the same ELISA plate.</p>
+              </sec>
+              <sec id="jcpe13746-sec-0016">
+                <label>2.8</label>
+                <title>Statistical analysis</title>
+                <p>Qualitative variables are shown with the distribution of frequencies of each category. For quantitative variables, we explored whether they followed normal distribution with a Shapiro–Wilk test, and central tendency indicators (mean and median) and dispersion indicators (standard deviation and interquartile range) are provided.</p>
+                <p>For the analytical phase, the association between factors and the group was studied by means of hypothesis testing, comparing proportions when they both were qualitative (chi‐square, Fisher's exact test), and comparing the means when one of them was quantitative (Student's <italic toggle="yes">t</italic>‐test if distribution was normal; otherwise, Mann–Whitney–Wilcoxon test). To study the association between before and after treatment, tests for paired testing were applied (Student's <italic toggle="yes">t</italic>‐test if distribution was normal; otherwise, Wilcoxon test). Effect size was calculated with Cohen's <italic toggle="yes">d</italic> statistic in each group (placebo and test) (Cohen, <xref rid="jcpe13746-bib-0004" ref-type="bibr">1988</xref>). A <italic toggle="yes">p</italic>‐value of &lt;.05 was established as the significance level, and the tests were conducted as two‐tailed. The entire statistical analysis was conducted with the Jamovi program (version 1.8) (The Jamovi Project, 2021).</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="jcpe13746-sec-0017">
+              <label>3</label>
+              <title>RESULTS</title>
+              <sec id="jcpe13746-sec-0018">
+                <label>3.1</label>
+                <title>Patients and recruitment</title>
+                <p>Patient recruitment was carried out between the months of February and April 2021 at the Seminario, San José, and Sagasta Primary Healthcare Centers in Zaragoza, Spain. A total of 80 patients were selected (40 for the placebo group and 40 for the test group). The patients included both men (60%) and women with a mean age of 48.6 years, the youngest being 18 and the oldest 80 (Table <xref rid="jcpe13746-tbl-0001" ref-type="table">1</xref>). No significant differences in the distribution of demographic variables were observed between the patients of the placebo group and those of the test group (Age, <italic toggle="yes">p</italic> = .83; gender, <italic toggle="yes">p</italic> = 1.0).</p>
+                <table-wrap position="float" id="jcpe13746-tbl-0001" content-type="TABLE">
+                  <label>TABLE 1</label>
+                  <caption>
+                    <p>Characteristics of the patient population</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col align="left" span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <thead valign="bottom">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Group</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">
+                          <italic toggle="yes">n</italic>
+                        </th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Gender (female/male)</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Age (years) (mean [SD])</th>
+                      </tr>
+                    </thead>
+                    <tbody valign="top">
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Test</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">16/24</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">48.2 (14.1)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Placebo</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">40</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">16/24</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">49.1 (19.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐Value</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1"/>
+                        <td align="left" valign="top" rowspan="1" colspan="1">1.0</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">0.83</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </sec>
+              <sec id="jcpe13746-sec-0019">
+                <label>3.2</label>
+                <title><styled-content style="fixed-case" toggle="no">RT‐qPCR</styled-content> for <styled-content style="fixed-case" toggle="no">SARS‐CoV</styled-content>‐2 viral load determination</title>
+                <p>The range of Ct values obtained was 13.7–35.3, with a mean of 22.69 ± 4.46 for ORF1ab and 25.87 ± 3.56 for the N protein.</p>
+                <p>The means of the Ct values for both groups—placebo and test—are described in Table <xref rid="jcpe13746-tbl-0002" ref-type="table">2</xref>. At baseline, the Ct values obtained for both target sequences used in RT‐qPCR did not present statistically significant differences when comparing the placebo group and the test group (<italic toggle="yes">p</italic> = .477 and .140, respectively) (Table <xref rid="jcpe13746-tbl-0002" ref-type="table">2</xref>). This indicates that, in terms of this variable, there were no deviations in the random formation of the groups. Similarly, 2 h after mouthwash use, no significant differences in Ct levels were observed between ORF1ab (<italic toggle="yes">p</italic> = .871) and the N gene (<italic toggle="yes">p</italic> = .961) compared to baseline in the two patient groups Table <xref rid="jcpe13746-tbl-0002" ref-type="table">2</xref>.</p>
+                <table-wrap position="float" id="jcpe13746-tbl-0002" content-type="TABLE">
+                  <label>TABLE 2</label>
+                  <caption>
+                    <p>Mean and standard deviation (SD) of pre‐ and post‐rinse cycle threshold (Ct) values in the placebo group and the test group</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <col align="left" span="1"/>
+                    <thead valign="bottom">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th rowspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1"/>
+                        <th rowspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1"/>
+                        <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Placebo (<italic toggle="yes">n</italic> = 40)</th>
+                        <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Test (<italic toggle="yes">n</italic> = 39)<xref rid="jcpe13746-note-0001" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Placebo vs. test</th>
+                      </tr>
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Mean</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Mean</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">SD</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">p‐</italic>value</th>
+                      </tr>
+                    </thead>
+                    <tbody valign="top">
+                      <tr>
+                        <td rowspan="2" align="left" valign="top" colspan="1">ORF1ab</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Baseline</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">22.82</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">5.04</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">22.56</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.85</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">.477</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">2 h</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">22.71</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">5.08</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">22.59</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.19</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">.669</td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" align="left" valign="top" rowspan="1">Baseline vs. 2 h</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1"><italic toggle="yes">p</italic> = .861</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1"><italic toggle="yes">p</italic> = .994</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      </tr>
+                      <tr>
+                        <td rowspan="2" align="left" valign="top" colspan="1">N gene</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Baseline</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">26.45</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.44</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">25.27</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.63</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">.140</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">2 h</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">26.22</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.37</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">25.30</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">3.00</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1">.204</td>
+                      </tr>
+                      <tr>
+                        <td colspan="2" align="left" valign="top" rowspan="1">Baseline vs. 2 h</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1"><italic toggle="yes">p</italic> = .871</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1"><italic toggle="yes">p</italic> = .961</td>
+                        <td align="left" valign="top" rowspan="1" colspan="1"/>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="jcpe13746-ntgp-0001">
+                    <fn id="jcpe13746-note-0001">
+                      <label>
+                        <sup>a</sup>
+                      </label>
+                      <p>One of the patients did not return a conclusive result in reverse transcription‐quantitative polymerase chain reaction test.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+              <sec id="jcpe13746-sec-0020">
+                <label>3.3</label>
+                <title>ELISA test for determination of protein N concentration</title>
+                <p>N protein concentrations in patient samples were determined by the ELISA test. The values at baseline and 2 h after rinsing are shown in Figure <xref rid="jcpe13746-fig-0001" ref-type="fig">1</xref>. Since the distribution of the data was not normal, non‐parametric tests were used (Mann–Whitney–Wilcoxon and Wilcoxon). The medians and IQRs are shown in Table <xref rid="jcpe13746-tbl-0003" ref-type="table">3</xref>. No significant differences between the placebo group and the test group were observed at baseline (<italic toggle="yes">p</italic> = .39). After rinsing, the placebo group presented an increase in protein N concentration (<italic toggle="yes">p</italic> = .04). Likewise, the increase in protein concentration in the test group was significantly higher than baseline (<italic toggle="yes">p</italic> = .003). The protein N concentration 2 h after rinsing was significantly higher in the test group than in the placebo group (<italic toggle="yes">p</italic> = .038). The estimation of the effect size, according to Cohen's recommendations, indicates that the effect size in the placebo group was medium (Cohen's <italic toggle="yes">d</italic> = 0.5). However, we point out that in the test group the effect of rinsing on protein concentration was large (Cohen's <italic toggle="yes">d</italic> = 0.7).</p>
+                <fig position="float" fig-type="FIGURE" id="jcpe13746-fig-0001">
+                  <label>FIGURE 1</label>
+                  <caption>
+                    <p>Box plot representation of the concentration of the N protein of the nucleocapsid in the saliva of the patients before and after rinsing with the placebo or the cetylpyridinium chloride mouthwash. Protein concentration is represented in pg/ml. [Colour figure can be viewed at <ext-link xlink:href="http://wileyonlinelibrary.com" ext-link-type="uri">wileyonlinelibrary.com</ext-link>]</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-9999-0-g001" position="anchor" id="jats-graphic-1"/>
+                </fig>
+                <table-wrap position="float" id="jcpe13746-tbl-0003" content-type="TABLE">
+                  <label>TABLE 3</label>
+                  <caption>
+                    <p>Median and interquartile range (IQR) of nucleocapsid protein concentration in saliva pre and post treatment</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col align="left" span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <col align="char" char="." span="1"/>
+                    <thead valign="bottom">
+                      <tr>
+                        <th rowspan="2" align="left" valign="bottom" colspan="1"/>
+                        <th align="left" style="border-right:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Placebo group</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">n</italic> = 40</th>
+                        <th align="left" style="border-right:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Test group</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1"><italic toggle="yes">n</italic> = 39<xref rid="jcpe13746-note-0003" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                        <th rowspan="2" align="left" valign="bottom" colspan="1"><italic toggle="yes">p‐</italic>value<xref rid="jcpe13746-note-0004" ref-type="table-fn"><sup>b</sup></xref></th>
+                      </tr>
+                      <tr>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Median</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">IQ</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Median</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">IQ</th>
+                      </tr>
+                    </thead>
+                    <tbody valign="top">
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Baseline</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">27.95</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">87.76</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">70.46</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">146.99</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">.394</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">2 h</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">87.76</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">156.02</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">143.50</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">326.25</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">.038</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Baseline vs. 2 h<xref rid="jcpe13746-note-0005" ref-type="table-fn"><sup>c</sup></xref>
+</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1">0.012</td>
+                        <td colspan="2" align="left" valign="top" rowspan="1">0.0034</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1"/>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="jcpe13746-ntgp-0002">
+                    <fn id="jcpe13746-note-0002">
+                      <p><italic toggle="yes">Note</italic>: Protein concentration in in pg/ml.</p>
+                    </fn>
+                    <fn id="jcpe13746-note-0003">
+                      <label>
+                        <sup>a</sup>
+                      </label>
+                      <p>One of the patients did not give enough saliva for enzyme‐linked immunosorbent assay test.</p>
+                    </fn>
+                    <fn id="jcpe13746-note-0004">
+                      <label>
+                        <sup>b</sup>
+                      </label>
+                      <p>Mann–Whitney–Wilcoxon.</p>
+                    </fn>
+                    <fn id="jcpe13746-note-0005">
+                      <label>
+                        <sup>c</sup>
+                      </label>
+                      <p>Wilcoxon.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="jcpe13746-sec-0021">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>This single‐blind, randomized controlled trial demonstrated that 2 h after rinsing for 1 min with a mouthwash containing CPC the detection of the N protein of the SARS‐CoV‐2 virus increased considerably in the saliva of patients diagnosed with COVID‐19 (<italic toggle="yes">p</italic> = .003). In addition, this increase was significantly higher in the test group than in the placebo group (<italic toggle="yes">p</italic> = .038). The mechanism by which CPC inactivates the enveloped viruses, including SARS‐CoV‐2, is through the disruption of the lipid membrane that covers these viruses (Popkin et al., <xref rid="jcpe13746-bib-0019" ref-type="bibr">2017</xref>; Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>; Bañó‐Polo et al., <xref rid="jcpe13746-bib-0001" ref-type="bibr">2022</xref>). Muñoz‐Basagoiti et al. demonstrated in vitro that, once the lipid membrane is degraded by the action of CPC, the viral capsid, mainly consisting of the N protein, is exposed and can be detected by specific antibodies using the ELISA test. The authors associated the increase in the N protein with a decrease in the infectivity of the virus (Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>).</p>
+              <p>In the present study, the real‐time RT‐qPCR technique did not allow us to observe significant differences between the viral load of patients who used the placebo mouthwash and those who used the mouthwash with 0.07% CPC. This finding is contradictory because different in vitro studies have shown a potent antiviral activity of CPC against SARS‐CoV‐2 and other enveloped viruses. Popkin et al. showed that low concentrations of CPC (IC<sub>50</sub> = 6 μg/ml) could inactivate different strains of the influenza virus. In addition, a spray formulated with this antiseptic decreased the morbidity and mortality in mice infected with a modified strain of influenza A virus subtype H1N1 (Popkin et al., <xref rid="jcpe13746-bib-0019" ref-type="bibr">2017</xref>). Moreover, Shen et al. (<xref rid="jcpe13746-bib-0023" ref-type="bibr">2019</xref>) reported a potent inhibitory effect on three coronaviruses that infect humans. Recently, low concentrations of CPC (IC<sub>50</sub> = 0.62 ± 0.05 μM) were shown, by culture, to inhibit the cytopathogenic effect caused by SARS‐CoV‐2 in Caco‐2 cells (Ellinger et al., <xref rid="jcpe13746-bib-0007" ref-type="bibr">2021</xref>). The latest studies published show, using cell cultures, how some mouthwashes formulated with this molecule inhibit the infectivity of this coronavirus by four or more orders of magnitude (Meyers et al., <xref rid="jcpe13746-bib-0015" ref-type="bibr">2021</xref>; Muñoz‐Basagoiti et al., <xref rid="jcpe13746-bib-0017" ref-type="bibr">2021</xref>).</p>
+              <p>Ct values have been used during the current pandemic as an indirect measurement of viral load. However, by using RT‐qPCR, important biological aspects of coronaviruses were not assessed, possibly resulting in (i) an overestimation of the viral load, (ii) the detection of false negatives, and (iii) not being able to distinguish between viable and non‐viable viral particles (Michalakis et al., <xref rid="jcpe13746-bib-0016" ref-type="bibr">2021</xref>; Shah et al., <xref rid="jcpe13746-bib-0022" ref-type="bibr">2021</xref>). This would explain why in this study the RT‐qPCR technique did not differentiate between the placebo group and the test group, which was also observed in the clinical study by Ferrer et al. (<xref rid="jcpe13746-bib-0030" ref-type="bibr">2021</xref>). The detection of RNA from non‐viable viral particles by RT‐qPCR is supported by studies in which patient faecal and nasopharyngeal samples continue to test positive for this virus more than 40 days after symptom resolution (Ikegami et al., <xref rid="jcpe13746-bib-0012" ref-type="bibr">2020</xref>; Xu, Li, et al., <xref rid="jcpe13746-bib-0029" ref-type="bibr">2020</xref>; Xu, Zhong, et al., <xref rid="jcpe13746-bib-0028" ref-type="bibr">2020</xref>).</p>
+              <p>The use of the ELISA technique in the present study allowed us to observe a significant effect of CPC on the virus present in the oral cavity. However, the values of the N protein obtained showed a large dispersion with a high variation in the inter‐individual response. This could be explained by the different physiological conditions of the patients at the time the samples were taken. In addition, an increase was observed in the detection of the N protein in the saliva of the placebo group (compared to baseline). The flushing and shear forces during rinsing probably helped in releasing the virus from the oral mucosa and other tissues, also affecting the integrity of the viral envelope (Prada‐López et al., <xref rid="jcpe13746-bib-0020" ref-type="bibr">2015</xref>). It should be noted that both the substantial inter‐individual variation and the increase in viral load in the placebo group were also reported by Ferrer et al. (<xref rid="jcpe13746-bib-0030" ref-type="bibr">2021</xref>).</p>
+              <p>This clinical study has some limitations. First of all, at the time of study initiation there was no information regarding similar studies, and therefore we were guided by the epidemiological results obtained by RT‐qPCR, and we used the Cohen recommendations to estimate the sample size (Cohen, <xref rid="jcpe13746-bib-0004" ref-type="bibr">1988</xref>). However, in the end, we were able to observe significant differences only through the ELISA test and, according to our results, it would probably have been necessary to include a larger number of patients to use a test that requires greater standardization. Second, performing the RT‐qPCR and the ELISA test prevented us from having the amount of saliva necessary to try to demonstrate the effect of the mouthwash on the viral load by means of culture. In this regard, it should be noted that to carry out infectivity studies, viral loads of greater than 10<sup>6</sup> copies/ml are required (Wölfel et al., <xref rid="jcpe13746-bib-0026" ref-type="bibr">2020</xref>); therefore, considering the Ct values of the baseline samples, it is likely that viral culture would not have been obtained in several of the samples. According to the results obtained by ELISA, it is likely that this would also have occurred in the test group after rinsing (Gottsauner et al., <xref rid="jcpe13746-bib-0008" ref-type="bibr">2020</xref>). Lastly, post‐rinse saliva samples were not taken under professional supervision. All patients in this study had moderate or mild symptoms and did not require hospitalization. Therefore, owing to clinical, ethical, and space‐related considerations, it was not possible to keep patients waiting for 2 h in the healthcare centre for the second sample collection. The high risk of transmission and the cost of the home visit were also factors to consider. Therefore, the investigators provided in‐depth training, verbal and written, so that the patients could collect the samples themselves. In relation to this, it should be noted that there have been studies where the saliva samples were collected by the patients themselves and were used reliably (Wyllie et al., <xref rid="jcpe13746-bib-0027" ref-type="bibr">2020</xref>); however, in our case, we could not rule out errors or deviations having occurred in this stage.</p>
+              <p>During the current pandemic, health ministries, government agencies, and the scientific community in different countries developed a set of clinical practice guidelines for the safe performance of dental care. Because of the great production of aerosols caused by dental instruments, most of these guidelines recommend the use of mouthwashes prior to patient care (Deana et al., <xref rid="jcpe13746-bib-0006" ref-type="bibr">2021</xref>). Various clinical studies have been designed to demonstrate the potential of mouthwashes to lower the viral load in the saliva of patients suffering from COVID‐19 (Burton et al., <xref rid="jcpe13746-bib-0003" ref-type="bibr">2020</xref>). Our results confirm that a 1‐min oral rinse with a 0.07% CPC mouthwash reduces infectious viruses in saliva for at least 2 h. This could be an additional preventive measure that, added to the use of a mask and social distancing, could help lower the spread of SARS‐CoV‐2. Large‐scale, well‐designed randomized controlled trials are needed to confirm the effect of CPC on the spread of SARS‐CoV‐2.</p>
+            </sec>
+            <sec id="jcpe13746-sec-0022">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p>Rosa Tarragó‐Gil contributed to the conception and design of the study and to the acquisition and interpretation of the data, and drafted and critically reviewed the manuscript. María José Gil‐Mosteo contributed to the design of the study and to the data acquisition and critically reviewed the manuscript. Mercedes Aza‐Pascual‐Salcedo, Diana Serrano Peris, and María Jesús Lallana Alvarez contributed to the conception and design of the study and to the interpretation of the data and drafted and critically reviewed the study. Raquel Refusta Ainaga, Roberto Fuentes Viñuales, Natalia Lázaro Gimeno, and Yolanda Millán Fernández contributed to the data acquisition and critically revised the manuscript. Elena Altarribas Bolsa and Jesica Montero Marco contributed to the design and critically reviewed the manuscript. Jessica Bueno Sancho, Sonia Algarate Cajo, Daniel Perez‐Zsolt, Dàlia Raïch‐Regué, Jordana Muñoz‐Basagoiti, and Nuria Izquierdo‐Useros contributed to the data analysis and critically reviewed the study. Vanessa Blanc Pociello contributed to the design of the study and critically reviewed the study. Rubén León contributed by critically reviewing the data and composing the manuscript. All authors gave their final approval and take responsibility for all aspects of the work.</p>
+            </sec>
+            <sec id="jcpe13746-sec-0023">
+              <title>FUNDING INFORMATION</title>
+              <p>This research was funded by Dentaid SL.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="jcpe13746-sec-0024">
+              <title>CONFLICT OF INTEREST</title>
+              <p>The authors declare the following possible conflicts of interest with respect to the research, authorship, and/or publication of this article: Rosa Tarragó‐Gil, María José Gil‐Mosteo, Mercedes Aza‐Pascual‐Salcedo, Diana Serrano‐Peris, María Jesús Lallana‐Álvarez, Raquel Refusta Ainaga, Roberto Fuentes Viñuales, Elena Altarribas Bolsa, Jesica Montero Marco, and Jessica Bueno Sancho report having received institutional grants from Dentaid. The authors declare that no other competing financial interests exist. Vanessa Blanc Pociello and Rubén León are researchers working for the Dentaid Research Center. The authors declare that there are no other competing interests. Not related to the submitted work, Nuria Izquierdo‐Useros reports having received institutional grants from Grifols, Pharma Mar, Hipra, Dentaid, and Palobiofarma. The authors have no other competing financial interests to declare.</p>
+            </sec>
+          </body>
+          <back>
+            <sec sec-type="data-availability" id="jcpe13746-sec-0026">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list id="jcpe13746-bibl-0001" content-type="cited-references">
+              <title>REFERENCES</title>
+              <ref id="jcpe13746-bib-0001">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0001"><string-name><surname>Bañó‐Polo</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Martínez‐Gil</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Sánchez Del Pino</surname>, <given-names>M. M.</given-names></string-name>, <string-name><surname>Massoli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Mingarro</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Léon</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Garcia‐Murria</surname>, <given-names>M. J.</given-names></string-name> (<year>2022</year>). <article-title>Cetylpyridinium chloride promotes disaggregation of SARS‐CoV‐2 virus‐like particles</article-title>. <source>Journal of Oral Microbiology</source>, <volume>14</volume>(<issue>1</issue>), <elocation-id>2030094</elocation-id>. <pub-id pub-id-type="doi">10.1080/20002297.2022.2030094</pub-id>
+<pub-id pub-id-type="pmid">35087641</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0002">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0002"><string-name><surname>Bian</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Gao</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>He</surname>, <given-names>Q.</given-names></string-name>, <string-name><surname>Mao</surname>, <given-names>Q.</given-names></string-name>, <string-name><surname>Xu</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Liang</surname>, <given-names>Z.</given-names></string-name> (<year>2021</year>). <article-title>Effects of SARS‐CoV‐2 variants on vaccine efficacy and response strategies</article-title>. <source>Expert Review of Vaccines</source>, <volume>20</volume>(<issue>4</issue>), <fpage>365</fpage>–<lpage>373</lpage>. <pub-id pub-id-type="doi">10.1080/14760584.2021.1903879</pub-id>
+<pub-id pub-id-type="pmid">33851875</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0003">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0003"><string-name><surname>Burton</surname>, <given-names>M. J.</given-names></string-name>, <string-name><surname>Clarkson</surname>, <given-names>J. E.</given-names></string-name>, <string-name><surname>Goulao</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Glenny</surname>, <given-names>A. M.</given-names></string-name>, <string-name><surname>McBain</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Schilder</surname>, <given-names>A. G.</given-names></string-name>, <string-name><surname>Webster</surname>, <given-names>K. E.</given-names></string-name>, &amp; <string-name><surname>Worthington</surname>, <given-names>H. V.</given-names></string-name> (<year>2020</year>). <article-title>Antimicrobial mouthwashes (gargling) and nasal sprays administered to patients with suspected or confirmed COVID‐19 infection to improve patient outcomes and to protect healthcare workers treating them</article-title>. <source>The Cochrane Database of Systematic Reviews</source>, <volume>9</volume>(<issue>9</issue>), <elocation-id>CD013627</elocation-id>. <pub-id pub-id-type="doi">10.1002/14651858.CD013627.pub2</pub-id>
+<pub-id pub-id-type="pmid">32936948</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0004">
+                <mixed-citation publication-type="book" id="jcpe13746-cit-0004"><string-name><surname>Cohen</surname>, <given-names>J.</given-names></string-name> (<year>1988</year>). <source>Statistical power analysis for the behavioral sciences</source> (<edition>Second ed.</edition>). <publisher-name>Lawrence Erlbaum Associates</publisher-name>.</mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0005">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0005"><string-name><surname>Coleman</surname>, <given-names>K. K.</given-names></string-name>, <string-name><surname>Tay</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Sen Tan</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Ong</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Son</surname>, <given-names>T. T.</given-names></string-name>, <string-name><surname>Koh</surname>, <given-names>M. H.</given-names></string-name>, <string-name><surname>Chin</surname>, <given-names>Y. Q.</given-names></string-name>, <string-name><surname>Nasir</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Mak</surname>, <given-names>T. M.</given-names></string-name>, <string-name><surname>Chu</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Milton</surname>, <given-names>D. K.</given-names></string-name>, <string-name><surname>Chow</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Tambyah</surname>, <given-names>P. A.</given-names></string-name>, <string-name><surname>Chen</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Wai</surname>, <given-names>T. K.</given-names></string-name> (<year>2021</year>). <article-title>Viral load of SARS‐CoV‐2 in respiratory aerosols emitted by COVID‐19 patients while breathing, talking, and singing</article-title>. <source>Clinical Infectious Diseases</source>, <volume>74</volume>, <fpage>1722</fpage>–<lpage>1728</lpage>. <pub-id pub-id-type="doi">10.1093/cid/ciab691</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0006">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0006"><string-name><surname>Deana</surname>, <given-names>N. F.</given-names></string-name>, <string-name><surname>Seiffert</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Aravena‐Rivas</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Alonso‐Coello</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Muñoz‐Millán</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Espinoza‐Espinoza</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Pineda</surname>, <given-names>P.</given-names></string-name>, &amp; <string-name><surname>Zaror</surname>, <given-names>C.</given-names></string-name> (<year>2021</year>). <article-title>Recommendations for safe dental care: A systematic review of clinical practice guidelines in the first year of the COVID‐19 pandemic</article-title>. <source>International Journal of Environmental Research and Public Health</source>, <volume>18</volume>(<issue>19</issue>), <elocation-id>10059</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijerph181910059</pub-id>
+<pub-id pub-id-type="pmid">34639363</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0007">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0007"><string-name><surname>Ellinger</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Bojkova</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Zaliani</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Cinatl</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Claussen</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Westhaus</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Keminer</surname>, <given-names>O.</given-names></string-name>, <string-name><surname>Reinshagen</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Kuzikov</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Wolf</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Geisslinger</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Gribbon</surname>, <given-names>P.</given-names></string-name>, &amp; <string-name><surname>Ciesek</surname>, <given-names>S.</given-names></string-name> (<year>2021</year>). <article-title>A SARS‐CoV‐2 cytopathicity dataset generated by high‐content screening of a large drug repurposing collection</article-title>. <source>Scientific data</source>, <volume>8</volume>(<issue>1</issue>), <fpage>70</fpage>. <pub-id pub-id-type="doi">10.1038/s41597-021-00848-4</pub-id>
+<pub-id pub-id-type="pmid">33637768</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0030">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0030"><string-name><surname>Ferrer</surname>, <given-names>M. D.</given-names></string-name>, <string-name><surname>Barrueco</surname>, <given-names>Á. S.</given-names></string-name>, <string-name><surname>Martinez‐Beneyto</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Mateos‐Moreno</surname>, <given-names>M. V.</given-names></string-name>, <string-name><surname>Ausina‐Márquez</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>García‐Vázquez</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Puche‐Torres</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Giner</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>González</surname>, <given-names>A. C.</given-names></string-name>, <string-name><surname>Coello</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Rueda</surname>, <given-names>I. A.</given-names></string-name>, <string-name><surname>Aubá</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Español</surname>, <given-names>C. C.</given-names></string-name>, <string-name><surname>Velasco</surname>, <given-names>A. L.</given-names></string-name>, <string-name><surname>Abad</surname>, <given-names>D. S.</given-names></string-name>, <string-name><surname>García‐Esteban</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Artacho</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>López‐Labrador</surname>, <given-names>X.</given-names></string-name>, &amp; <string-name><surname>Mira</surname>, <given-names>A.</given-names></string-name> (<year>2021</year>). <article-title>Clinical evaluation of antiseptic mouth rinses to reduce salivary load of SARS‐CoV‐2</article-title>. <source>Scientific reports</source>, <volume>11</volume>(<issue>1</issue>), <elocation-id>24392</elocation-id>. <pub-id pub-id-type="doi">10.1038/s41598-021-03461-y</pub-id>
+<pub-id pub-id-type="pmid">34937855</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0008">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0008"><string-name><surname>Gottsauner</surname>, <given-names>M. J.</given-names></string-name>, <string-name><surname>Michaelides</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Schmidt</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Scholz</surname>, <given-names>K. J.</given-names></string-name>, <string-name><surname>Buchalla</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Widbiller</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Hitzenbichler</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Ettl</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Reichert</surname>, <given-names>T. E.</given-names></string-name>, <string-name><surname>Bohr</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Vielsmeier</surname>, <given-names>V.</given-names></string-name>, &amp; <string-name><surname>Cieplik</surname>, <given-names>F.</given-names></string-name> (<year>2020</year>). <article-title>A prospective clinical pilot study on the effects of a hydrogen peroxide mouthrinse on the intraoral viral load of SARS‐CoV‐2</article-title>. <source>Clinical Oral Investigations</source>, <volume>24</volume>(<issue>10</issue>), <fpage>3707</fpage>–<lpage>3713</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03549-1</pub-id>
+<pub-id pub-id-type="pmid">32876748</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0009">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0009"><string-name><surname>Hartenian</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Nandakumar</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Lari</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Ly</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Tucker</surname>, <given-names>J. M.</given-names></string-name>, &amp; <string-name><surname>Glaunsinger</surname>, <given-names>B. A.</given-names></string-name> (<year>2020</year>). <article-title>The molecular virology of coronaviruses</article-title>. <source>The Journal of Biological Chemistry</source>, <volume>295</volume>(<issue>37</issue>), <fpage>12910</fpage>–<lpage>12934</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.REV120.013930</pub-id>
+<pub-id pub-id-type="pmid">32661197</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0010">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0010"><string-name><surname>Herrera</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Serrano</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Roldán</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name> (<year>2020</year>). <article-title>Is the oral cavity relevant in SARS‐CoV‐2 pandemic?</article-title>
+<source>Clinical Oral Investigations</source>, <volume>24</volume>(<issue>8</issue>), <fpage>2925</fpage>–<lpage>2930</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-020-03413-2</pub-id>
+<pub-id pub-id-type="pmid">32577830</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0011">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0011"><string-name><surname>Huang</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Pérez</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Kato</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Mikami</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Okuda</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Gilmore</surname>, <given-names>R. C.</given-names></string-name>, <string-name><surname>Conde</surname>, <given-names>C. D.</given-names></string-name>, <string-name><surname>Gasmi</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Stein</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Beach</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Pelayo</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Maldonado</surname>, <given-names>J. O.</given-names></string-name>, <string-name><surname>Lafont</surname>, <given-names>B. A.</given-names></string-name>, <string-name><surname>Jang</surname>, <given-names>S. I.</given-names></string-name>, <string-name><surname>Nasir</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Padilla</surname>, <given-names>R. J.</given-names></string-name>, <string-name><surname>Murrah</surname>, <given-names>V. A.</given-names></string-name>, <string-name><surname>Maile</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Lovell</surname>, <given-names>W.</given-names></string-name>, … <string-name><surname>Byrd</surname>, <given-names>K. M.</given-names></string-name> (<year>2021</year>). <article-title>SARS‐CoV‐2 infection of the oral cavity and saliva</article-title>. <source>Nature Medicine</source>, <volume>27</volume>(<issue>5</issue>), <fpage>892</fpage>–<lpage>903</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-021-01296-8</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0012">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0012"><string-name><surname>Ikegami</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Benirschke</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Flanagan</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Tanna</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Klein</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Elue</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Debosz</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Mallek</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wright</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Guariglia</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Kang</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Gniadek</surname>, <given-names>T. J.</given-names></string-name> (<year>2020</year>). <article-title>Persistence of SARS‐CoV‐2 nasopharyngeal swab PCR positivity in COVID‐19 convalescent plasma donors</article-title>. <source>Transfusion</source>, <volume>60</volume>(<issue>12</issue>), <fpage>2962</fpage>–<lpage>2968</lpage>. <pub-id pub-id-type="doi">10.1111/trf.16015</pub-id>
+<pub-id pub-id-type="pmid">32840002</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0013">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0013"><string-name><surname>Komine</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Yamaguchi</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Okamoto</surname>, <given-names>N.</given-names></string-name>, &amp; <string-name><surname>Yamamoto</surname>, <given-names>K.</given-names></string-name> (<year>2021</year>). <article-title>Virucidal activity of oral care products against SARS‐CoV‐2 in vitro</article-title>. <source>Journal of Oral and Maxillofacial Surgery, Medicine, and Pathology</source>, <volume>33</volume>(<issue>4</issue>), <fpage>475</fpage>–<lpage>477</lpage>. <pub-id pub-id-type="doi">10.1016/j.ajoms.2021.02.002</pub-id>
+<pub-id pub-id-type="pmid">33643836</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0014">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0014"><string-name><surname>Madas</surname>, <given-names>B. G.</given-names></string-name>, <string-name><surname>Füri</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Farkas</surname>, <given-names>Á.</given-names></string-name>, <string-name><surname>Nagy</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Czitrovszky</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Balásházy</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Schay</surname>, <given-names>G. G.</given-names></string-name>, &amp; <string-name><surname>Horváth</surname>, <given-names>A.</given-names></string-name> (<year>2020</year>). <article-title>Deposition distribution of the new coronavirus (SARS‐CoV‐2) in the human airways upon exposure to cough‐generated droplets and aerosol particles</article-title>. <source>Scientific Reports</source>, <volume>10</volume>(<issue>1</issue>), <elocation-id>22430</elocation-id>. <pub-id pub-id-type="doi">10.1038/s41598-020-79985-6</pub-id>
+<pub-id pub-id-type="pmid">33384436</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0015">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0015"><string-name><surname>Meyers</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Robison</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Milici</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Alam</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Quillen</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Goldenberg</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Kass</surname>, <given-names>R.</given-names></string-name> (<year>2021</year>). <article-title>Lowering the transmission and spread of human coronavirus</article-title>. <source>Journal of Medical Virology</source>, <volume>93</volume>(<issue>3</issue>), <fpage>1605</fpage>–<lpage>1612</lpage>. <pub-id pub-id-type="doi">10.1002/jmv.26514</pub-id>
+<pub-id pub-id-type="pmid">32940907</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0016">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0016"><string-name><surname>Michalakis</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Sofonea</surname>, <given-names>M. T.</given-names></string-name>, <string-name><surname>Alizon</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Bravo</surname>, <given-names>I. G.</given-names></string-name> (<year>2021</year>). <article-title>SARS‐CoV‐2 viral RNA levels are not ‘viral load’</article-title>. <source>Trends in Microbiology</source>, <volume>29</volume>(<issue>11</issue>), <fpage>970</fpage>–<lpage>972</lpage>. <pub-id pub-id-type="doi">10.1016/j.tim.2021.08.008</pub-id>
+<pub-id pub-id-type="pmid">34535373</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0017">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0017"><string-name><surname>Muñoz‐Basagoiti</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Perez‐Zsolt</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>León</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Blanc</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Raïch‐Regué</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Cano‐Sarabia</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Trinité</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Pradenas</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Blanco</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Gispert</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Clotet</surname>, <given-names>B.</given-names></string-name>, &amp; <string-name><surname>Izquierdo‐Useros</surname>, <given-names>N.</given-names></string-name> (<year>2021</year>). <article-title>Mouthwashes with CPC reduce the infectivity of SARS‐CoV‐2 variants in vitro</article-title>. <source>Journal of Dental Research</source>, <volume>100</volume>(<issue>11</issue>), <fpage>1265</fpage>–<lpage>1272</lpage>. <pub-id pub-id-type="doi">10.1177/00220345211029269</pub-id>
+<pub-id pub-id-type="pmid">34282982</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0018">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0018"><string-name><surname>O'Donnell</surname>, <given-names>V. B.</given-names></string-name>, <string-name><surname>Thomas</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Stanton</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Maillard</surname>, <given-names>J. Y.</given-names></string-name>, <string-name><surname>Murphy</surname>, <given-names>R. C.</given-names></string-name>, <string-name><surname>Jones</surname>, <given-names>S. A.</given-names></string-name>, <string-name><surname>Humphreys</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Wakelam</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fegan</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Wise</surname>, <given-names>M. P.</given-names></string-name>, <string-name><surname>Bosch</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Sattar</surname>, <given-names>S. A.</given-names></string-name> (<year>2020</year>). <article-title>Potential role of oral rinses targeting the viral lipid envelope in SARS‐CoV‐2 infection</article-title>. <source>Function</source>, <volume>1</volume>(<issue>1</issue>), <elocation-id>zqaa002</elocation-id>. <pub-id pub-id-type="doi">10.1093/function/zqaa002</pub-id>
+<pub-id pub-id-type="pmid">33215159</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0019">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0019"><string-name><surname>Popkin</surname>, <given-names>D. L.</given-names></string-name>, <string-name><surname>Zilka</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Dimaano</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fujioka</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Rackley</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Salata</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Griffith</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Mukherjee</surname>, <given-names>P. K.</given-names></string-name>, <string-name><surname>Ghannoum</surname>, <given-names>M. A.</given-names></string-name>, &amp; <string-name><surname>Esper</surname>, <given-names>F.</given-names></string-name> (<year>2017</year>). <article-title>Cetylpyridinium chloride (CPC) exhibits potent, rapid activity against influenza viruses <italic toggle="yes">in vitro</italic> and in vivo</article-title>. <source>Pathogens &amp; immunity</source>, <volume>2</volume>(<issue>2</issue>), <fpage>252</fpage>–<lpage>269</lpage>. <pub-id pub-id-type="doi">10.20411/pai.v2i2.200</pub-id>
+<pub-id pub-id-type="pmid">28936484</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0020">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0020"><string-name><surname>Prada‐López</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Quintas</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Casares‐De‐Cal</surname>, <given-names>M. A.</given-names></string-name>, <string-name><surname>Suárez‐Quintanilla</surname>, <given-names>J. A.</given-names></string-name>, <string-name><surname>Suárez‐Quintanilla</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Tomás</surname>, <given-names>I.</given-names></string-name> (<year>2015</year>). <article-title>Ex vivo vs. in vivo antibacterial activity of two antiseptics on oral biofilm</article-title>. <source>Frontiers in Microbiology</source>, <volume>6</volume>, <elocation-id>655</elocation-id>. <pub-id pub-id-type="doi">10.3389/fmicb.2015.00655</pub-id>
+<pub-id pub-id-type="pmid">26191050</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0021">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0021"><string-name><surname>Satarker</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Nampoothiri</surname>, <given-names>M.</given-names></string-name> (<year>2020</year>). <article-title>Structural proteins in severe acute respiratory syndrome Coronavirus‐2</article-title>. <source>Archives of Medical Research</source>, <volume>51</volume>(<issue>6</issue>), <fpage>482</fpage>–<lpage>491</lpage>. <pub-id pub-id-type="doi">10.1016/j.arcmed.2020.05.012</pub-id>
+<pub-id pub-id-type="pmid">32493627</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0022">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0022"><string-name><surname>Shah</surname>, <given-names>S. R.</given-names></string-name>, <string-name><surname>Kane</surname>, <given-names>S. R.</given-names></string-name>, <string-name><surname>Elsheikh</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Alfaro</surname>, <given-names>T. M.</given-names></string-name> (<year>2021</year>). <article-title>Development of a rapid viability RT‐PCR (RV‐RT‐PCR) method to detect infectious SARS‐CoV‐2 from swabs</article-title>. <source>Journal of Virological Methods</source>, <volume>297</volume>, <elocation-id>114251</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.jviromet.2021.114251</pub-id>
+<pub-id pub-id-type="pmid">34380012</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0023">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0023"><string-name><surname>Shen</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Niu</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Huang</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Zhu</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Deng</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Ye</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Cen</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Tan</surname>, <given-names>W.</given-names></string-name> (<year>2019</year>). <article-title>High‐throughput screening and identification of potent broad‐Spectrum inhibitors of coronaviruses</article-title>. <source>Journal of Virology</source>, <volume>93</volume>(<issue>12</issue>), <fpage>e00023</fpage>–<lpage>e00019</lpage>. <pub-id pub-id-type="doi">10.1128/JVI.00023-19</pub-id>
+<pub-id pub-id-type="pmid">30918074</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0024">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0024"><string-name><surname>Tartof</surname>, <given-names>S. Y.</given-names></string-name>, <string-name><surname>Slezak</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Fischer</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Hong</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Ackerson</surname>, <given-names>B. K.</given-names></string-name>, <string-name><surname>Ranasinghe</surname>, <given-names>O. N.</given-names></string-name>, <string-name><surname>Frankland</surname>, <given-names>T. B.</given-names></string-name>, <string-name><surname>Ogun</surname>, <given-names>O. A.</given-names></string-name>, <string-name><surname>Zamparo</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Gray</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Valluri</surname>, <given-names>S. R.</given-names></string-name>, <string-name><surname>Pan</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Angulo</surname>, <given-names>F. J.</given-names></string-name>, <string-name><surname>Jodar</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>McLaughlin</surname>, <given-names>J. M.</given-names></string-name> (<year>2021</year>). <article-title>Effectiveness of mRNA BNT162b2 COVID‐19 vaccine up to 6 months in a large integrated health system in the USA: A retrospective cohort study</article-title>. <source>Lancet</source>, <volume>398</volume>(<issue>10309</issue>), <fpage>1407</fpage>–<lpage>1416</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(21)02183-8</pub-id>
+<pub-id pub-id-type="pmid">34619098</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0025">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0025"><string-name><surname>Wang</surname>, <given-names>C. C.</given-names></string-name>, <string-name><surname>Prather</surname>, <given-names>K. A.</given-names></string-name>, <string-name><surname>Sznitman</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Jimenez</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Lakdawala</surname>, <given-names>S. S.</given-names></string-name>, <string-name><surname>Tufekci</surname>, <given-names>Z.</given-names></string-name>, &amp; <string-name><surname>Marr</surname>, <given-names>L. C.</given-names></string-name> (<year>2021</year>). <article-title>Airborne transmission of respiratory viruses</article-title>. <source>Science</source>, <volume>373</volume>(<issue>6558</issue>), <elocation-id>eabd9149</elocation-id>. <pub-id pub-id-type="doi">10.1126/science.abd9149</pub-id>
+<pub-id pub-id-type="pmid">34446582</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0026">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0026"><string-name><surname>Wölfel</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Corman</surname>, <given-names>V. M.</given-names></string-name>, <string-name><surname>Guggemos</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Seilmaier</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Zange</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Müller</surname>, <given-names>M. A.</given-names></string-name>, <string-name><surname>Niemeyer</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Jones</surname>, <given-names>T. C.</given-names></string-name>, <string-name><surname>Vollmar</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Rothe</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Hoelscher</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Bleicker</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Brünink</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Schneider</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Ehmann</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Zwirglmaier</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Drosten</surname>, <given-names>C.</given-names></string-name>, &amp; <string-name><surname>Wendtner</surname>, <given-names>C.</given-names></string-name> (<year>2020</year>). <article-title>Virological assessment of hospitalized patients with COVID‐2019</article-title>. <source>Nature</source>, <volume>581</volume>(<issue>7809</issue>), <fpage>465</fpage>–<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1038/s41586-020-2196-x</pub-id>
+<pub-id pub-id-type="pmid">32235945</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0027">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0027"><string-name><surname>Wyllie</surname>, <given-names>A. L.</given-names></string-name>, <string-name><surname>Fournier</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Casanovas‐Massana</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Campbell</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Tokuyama</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Vijayakumar</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Warren</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Geng</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Muenker</surname>, <given-names>M. C.</given-names></string-name>, <string-name><surname>Moore</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Vogels</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Petrone</surname>, <given-names>M. E.</given-names></string-name>, <string-name><surname>Ott</surname>, <given-names>I. M.</given-names></string-name>, <string-name><surname>Lu</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Venkataraman</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Lu‐Culligan</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Klein</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Earnest</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Simonov</surname>, <given-names>M.</given-names></string-name>, … <string-name><surname>Ko</surname>, <given-names>A. I.</given-names></string-name> (<year>2020</year>). <article-title>Saliva or nasopharyngeal swab specimens for detection of SARS‐CoV‐2</article-title>. <source>The New England Journal of Medicine</source>, <volume>383</volume>(<issue>13</issue>), <fpage>1283</fpage>–<lpage>1286</lpage>. <pub-id pub-id-type="doi">10.1056/NEJMc2016359</pub-id>
+<pub-id pub-id-type="pmid">32857487</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0028">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0028"><string-name><surname>Xu</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Zhong</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Deng</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Peng</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Dan</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Zeng</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Chen</surname>, <given-names>Q.</given-names></string-name> (<year>2020</year>). <article-title>High expression of ACE2 receptor of 2019‐nCoV on the epithelial cells of oral mucosa</article-title>. <source>International Journal of Oral Science</source>, <volume>12</volume>(<issue>1</issue>), <fpage>8</fpage>. <pub-id pub-id-type="doi">10.1038/s41368-020-0074-x</pub-id>
+<pub-id pub-id-type="pmid">32094336</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13746-bib-0029">
+                <mixed-citation publication-type="journal" id="jcpe13746-cit-0029"><string-name><surname>Xu</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Li</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Zhu</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Liang</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Fang</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Gong</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Guo</surname>, <given-names>Q.</given-names></string-name>, <string-name><surname>Sun</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Zhao</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Shen</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Liu</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Xia</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Tang</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Zhang</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>Gong</surname>, <given-names>S.</given-names></string-name> (<year>2020</year>). <article-title>Characteristics of pediatric SARS‐CoV‐2 infection and potential evidence for persistent fecal viral shedding</article-title>. <source>Nature Medicine</source>, <volume>26</volume>(<issue>4</issue>), <fpage>502</fpage>–<lpage>505</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-020-0817-4</pub-id>
+</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

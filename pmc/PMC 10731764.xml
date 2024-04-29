@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:36:27Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10731764" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10731764</identifier>
+        <datestamp>2023-12-20</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10731764</article-id>
+              <article-id pub-id-type="pmcid">PMC10731764</article-id>
+              <article-id pub-id-type="pmc-uid">10731764</article-id>
+              <article-id pub-id-type="pmid">38114967</article-id>
+              <article-id pub-id-type="pmid">38114967</article-id>
+              <article-id pub-id-type="publisher-id">3372</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-023-03372-6</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Postoperative pain of single-visit endodontic treatment with gutta-percha versus MTA filling: a randomized superiority trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Khabiri</surname>
+                    <given-names>Masoud</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Kamgar</surname>
+                    <given-names>Sahel</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Iranmanesh</surname>
+                    <given-names>Pedram</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Khademi</surname>
+                    <given-names>Abbasali</given-names>
+                  </name>
+                  <address>
+                    <email>a_khademi@dnt.mui.ac.ir</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Torabinejad</surname>
+                    <given-names>Mahmoud</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.411757.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 1755 5416</institution-id><institution>Department of Endodontics, Faculty of Dentistry, Isfahan (Khorasgan) Branch, </institution><institution>Islamic Azad University, </institution></institution-wrap>Isfahan, Iran </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.411757.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 1755 5416</institution-id><institution>Department of Endodontics, Isfahan (Khorasgan) Branch, </institution><institution>Islamic Azad University, </institution></institution-wrap>Isfahan, Iran </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04waqzz56</institution-id><institution-id institution-id-type="GRID">grid.411036.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 1498 685X</institution-id><institution>Department of Endodontics, Dental Research Center, Dental Research Institute, School of Dentistry, </institution><institution>Isfahan University of Medical Sciences, </institution></institution-wrap>Isfahan, Iran </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04bj28v14</institution-id><institution-id institution-id-type="GRID">grid.43582.38</institution-id><institution-id institution-id-type="ISNI">0000 0000 9852 649X</institution-id><institution>School of Dentistry, </institution><institution>Loma Linda University, </institution></institution-wrap>Loma Linda, CA USA </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04waqzz56</institution-id><institution-id institution-id-type="GRID">grid.411036.1</institution-id><institution-id institution-id-type="ISNI">0000 0001 1498 685X</institution-id><institution>School of Dentistry, </institution><institution>Isfahan University of Medical Sciences, </institution></institution-wrap>Hezar-Jerib Ave, Isfahan, 81746-73461 Iran </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>19</day>
+                <month>12</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>19</day>
+                <month>12</month>
+                <year>2023</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2023</year>
+              </pub-date>
+              <volume>23</volume>
+              <elocation-id>1026</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>18</day>
+                  <month>4</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>30</day>
+                  <month>8</month>
+                  <year>2023</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2023</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">Postoperative pain has remained a challenge for clinicians. This randomized superiority trial compared the levels of postoperative pain following the use of gutta-percha (GP) and sealer or mineral trioxide aggregate (MTA) as root canal filling materials in teeth with asymptomatic apical periodontitis.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">A total of 119 patients were initially evaluated in this two-arm, parallel-group, single-blind, superiority randomized trial. The inclusion criteria were participants aged 18–65 years with single-canal premolars diagnosed with asymptomatic apical periodontitis. The participants were finally divided into two groups using the permuted block randomization method. In the GP group (N = 46), the cleaned and shaped root canals were filled with gutta-percha and AH Plus sealer, while in the MTA group (N = 48), the cleaned and shaped root canals were filled with an MTA apical filling and a coronal gutta-percha and sealer. Patient pain level was measured 6, 12, 24, 48, and 72 h postoperatively using a 10-point visual analog scale (VAS). The data were analyzed by the chi-square, independent t, Friedman, and Mann-Whitney U tests.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">The mean of VAS scores decreased significantly over time in both groups (P &lt; 0.001). The mean VAS scores were significantly lower in the MTA filling group than in the other group (P &lt; 0.05). Female patients reported higher VAS scores at 6- and 12-hour periods in both groups (P &lt; 0.05).</p>
+                </sec>
+                <sec>
+                  <title>Conclusion</title>
+                  <p id="Par4">MTA as a root canal filling material might be a valuable option for clinicians due to its low postoperative pain.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par5">The trial protocol was registered at the Registry of Clinical Trials (IRCT20191104045331N1).</p>
+                </sec>
+                <sec>
+                  <title>Supplementary Information</title>
+                  <p>The online version contains supplementary material available at 10.1186/s12903-023-03372-6.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Asymptomatic apical periodontitis</kwd>
+                <kwd>Gutta-percha</kwd>
+                <kwd>Mineral trioxide aggregate</kwd>
+                <kwd>Pain</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution-wrap>
+                      <institution-id institution-id-type="FundRef">http://dx.doi.org/10.13039/501100002660</institution-id>
+                      <institution>Islamic Azad University</institution>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>95899100014</award-id>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par6">Postoperative pain following root canal treatment has remained a challenge for dental clinicians [<xref ref-type="bibr" rid="CR1">1</xref>]. The frequency of patients suffering postoperative pain following root canal treatment ranges from 3 to 58% [<xref ref-type="bibr" rid="CR2">2</xref>]. Postoperative pain is caused by inflammation of periapical tissues in response to debris, bacteria [<xref ref-type="bibr" rid="CR3">3</xref>], and dental materials [<xref ref-type="bibr" rid="CR4">4</xref>]. During the inflammation, several immune mediators such as prostaglandins, histamine, Hageman factor, clotting cascade, fibrinolytic system, and complement system are involved and cause swelling and pain [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+              <p id="Par7">After the chemo-mechanical debridement of the root canal, the root canal filling materials are used to seal the disinfected canal. Ideally, root canal filling materials should be easy to handle, nonirritating for periapical tissues, radiopaque, bacteriostatic, and should not shrink after application [<xref ref-type="bibr" rid="CR6">6</xref>]. Gutta-percha (GP) and sealer, which have been extensively used for years and demonstrated most characteristics of an ideal material for root canal filling material [<xref ref-type="bibr" rid="CR7">7</xref>]. However, their disadvantages include the inability to bond to dentinal walls [<xref ref-type="bibr" rid="CR7">7</xref>], the inability to reinforce the tooth structure [<xref ref-type="bibr" rid="CR8">8</xref>], and not being entirely removed in retreatment cases [<xref ref-type="bibr" rid="CR9">9</xref>]. Furthermore, all commonly used sealers show some degree of toxicity, which decreases over time [<xref ref-type="bibr" rid="CR10">10</xref>]. To address these drawbacks, novel materials such as calcium silicate-based cement have been introduced.</p>
+              <p id="Par8">Bioceramics are biocompatible and bioactive materials that possess optimal dimensional stability, antibacterial activity [<xref ref-type="bibr" rid="CR11">11</xref>], and slight expansion and provide proper seal [<xref ref-type="bibr" rid="CR12">12</xref>]. These materials release calcium hydroxide, induce hard tissue formation [<xref ref-type="bibr" rid="CR13">13</xref>], are currently commercially available, and may enhance endodontic treatments [<xref ref-type="bibr" rid="CR14">14</xref>]. Mineral Trioxide Aggregate (MTA) is the most well-known bioceramic material that has most of the aforementioned essential properties [<xref ref-type="bibr" rid="CR13">13</xref>] and has been used in endodontic procedures such as root canal filling material [<xref ref-type="bibr" rid="CR15">15</xref>–<xref ref-type="bibr" rid="CR18">18</xref>] and sealer [<xref ref-type="bibr" rid="CR19">19</xref>] with desirable clinical outcomes [<xref ref-type="bibr" rid="CR20">20</xref>].</p>
+              <p id="Par9">To the best of our knowledge, there is no research evaluating the role of root canal filling materials on endodontic postoperative pain. Although some animal models indicated that the MTA induces some analgesic effects and reduces nerve activity [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR22">22</xref>], there is no clinical study in this regard. The purpose of this randomized superiority trial was to compare the levels of postoperative pain following the use of GP and sealer, or MTA as root canal filling materials in teeth with asymptomatic apical periodontitis. The alternative hypothesis was that postoperative pain would be lower in the single-visit endodontic treatment with GP than with MTA plug in participants with asymptomatic apical periodontitis.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <p id="Par10">The present randomized superiority trial was registered in the Registry of Clinical Trials (IRCT20191104045331N1) on 27/10/2020, available at <ext-link ext-link-type="uri" xlink:href="https://www.irct.ir/trial/46195">https://www.irct.ir/trial/46195</ext-link>. The ethics committee of The Azad University - Isfahan (Khorasgan) Branch, approved the study (IR.IAU.KHUISF.REC.1398.075), and all of the participants in this trial signed informed consent forms. All methods were performed in accordance with the declaration of Helsinki. The present trial was reported using the <italic>CONSORT 2010 checklist</italic>.</p>
+              <p id="Par11">The trial patients were selected from those referred to the Endodontics Department of the School of Dentistry. The inclusion criteria consisted of participants aged 18–65 years that had restorable single-canal maxillary or mandibular premolar teeth with asymptomatic apical periodontitis (no sensitivity to percussion or palpation) and necrotic pulp confirmed using ENDO-FROST spray cold (Coltène-Whaledent, Langenau, Germany) and periapical radiography (periapical index of 3, 4, or 5) without any preoperative pain. The exclusion criteria included retreatment cases, teeth with a periapical index of 1 or 2, and patients taking an analgesic during the past 12 h.</p>
+              <p id="Par12">Initially, a total of 119 participants that required endodontic treatment were included in this randomized, single-blind, two-arm parallel, superiority trial. With a 2-sided alpha risk of 0.05, a sample size of 44 subjects in each group is a prerequisite to distinguish a significant difference of 0.5 (20%) in VAS score with a power of 80 [<xref ref-type="bibr" rid="CR23">23</xref>]. To compensate for any causes of attrition such as loss during follow-up, the sample size was increased by 15%. Consequently, a sample size of 50 was scheduled for each group. At the beginning of the study, based on our inclusion and exclusion criteria, 100 eligible patients were selected and randomly allocated to either the GP group (N = 50) or the MTA group (N = 50) using the permuted block randomization method (block size of 4). To conceal the allocations, the sequentially numbered cards were given to participants via opaque, sealed envelopes by a person not involved in the randomization process (AK). A senior investigator was responsible for recruitment and randomization (MK).</p>
+              <p id="Par13">In each group, after the administration of an inferior alveolar nerve block using Lidocaine HCl 2% with Epinephrine 1:100000 (DarouPakhsh, Tehran, Iran), each tooth was isolated using a rubber dam (Sanctuary, Perak, Malaysia), and the access cavity was prepared. If the pulp was diagnosed with partial necrosis, the participant was excluded and replaced. Following coronal flaring by a #SX ProTaper Universal (Dentsply Sirona, Ballaigues, Switzerland), a Root ZX Apex Locator (Morita, Tokyo, Japan) was used to determine the working length (indicator reach 0.5 according to manual), which was confirmed by digital radiography (0.5 mm short of the radiographic apex). After the negotiation of canals with K-file #15 and 20 (Mani, Tochigi, Japan), canals were prepared by #S1, S2, F1, F2, and F3 ProTaper Universal rotary files using the crown-down technique. So, the apical preparation size for each group was 0.30 mm. Apical patency was maintained by using a K-file #10. Sodium hypochlorite 2.5% (Cerkamed, Stalowa Wola, Poland) was used for irrigation, and sterile saline (DarouPakhsh, Tehran, Iran) was used as the final irrigating solution using a 27-gauge side-vented needle (Ultradent, South Jordan, UT) which was placed in the apical third of the canal during irrigation (total quantity of 6 mL of sodium hypochlorite and 30 mL of sterile saline was used) [<xref ref-type="bibr" rid="CR24">24</xref>]. The canals were then dried with paper points (Diadent, Chungcheongbuk-do, Korea). Following root canal preparation, the root of each group was filled with either GP or MTA.</p>
+              <p id="Par14">In the GP group, after checking the master apical cone with a digital periapical radiograph (Vatech, Gyeonggi-do, Korea), the root canals were filled with GP (Meta Biomed, Chungcheongbuk-do, Korea) and AH-26 sealer (Dentsply, Tulsa Dental, Tulsa, OK) using the traditional lateral compaction technique. Sealer was prepared with AH Plus Jet mixing syringe (Dentsply DeTrey, Konstanz, German) and placed on canal orifices with intra-oral tips (Dentsply DeTrey, Konstanz, German). Applying the Master-Point Technique, the wall of the canal was wet gently by counterclockwise rotation of the point.</p>
+              <p id="Par15">In the MTA group, the root canals were filled with an MTA apical filling followed by a coronal GP and sealer filling. ProRoot MTA powder (Dentsply Tulsa Dental, Tulsa, OK) was mixed with the liquid at a 3:1 ratio according to the manufacturer’s instructions. An MTA filling with 3–5 mm thickness was placed using a Map system (Produits Dentaires SA, Vevey, Switzerland) and packed using a plugger (Dentsply, Maillefer, Switzerland). After confirming the quality and length of MTA filling by radiographic, the remaining root canal was filled with GP and AH-26 sealer using the lateral compaction technique.</p>
+              <p id="Par16">At the end of the session, temporary restoration (Coltosol F, Altstatten, Switzerland) was applied and the final radiograph was obtained for each group; if the final root canal filling lengths exceeded the working length, the participant was excluded and replaced. Finally, the patients were referred to the Restorative Department for placement of the final restoration. The entire procedure was performed in a single-visit by a 5-year experienced practitioner (S.G) using 3.5x magnification. During each procedure, the participants were blinded to the obturation method. The flowchart of the experimental procedure is presented in Additional file 1: Figure <xref rid="MOESM1" ref-type="media">S1</xref>.</p>
+              <p id="Par17">To assess the severity of postoperative pain, the participants were instructed to rate their pain level 6, 12, 24, 48, and 72 h after treatment using a questionnaire containing a 10-point Visual Analog Scale (VAS). The questionnaires were then collected after three days by an investigator (S.G). The VAS was classified using the following scale [<xref ref-type="bibr" rid="CR25">25</xref>]: no pain (0); mild pain (1–3); moderate pain (4–6), and severe pain (7–10). Patients also received a rescue bag containing 10 tablets of Ibuprofen 400 mg (DarouPakhsh, Tehran, Iran) with instructions in case of severe pain. Any adverse effect was also evaluated after the follow-up period.</p>
+              <p id="Par18">The data were fed into IBM SPSS Statistics, Version 20.0 (Armonk, NY: IBM Corp.). The independent t-test and chi-square test were used to compare the difference between the two groups in terms of age, gender, and tooth location. The Friedman test was used to compare pain intensity over time. The Mann-Whitney U test was run to compare pain levels between the groups, genders, and tooth locations. The significance level was set at 0.05.</p>
+            </sec>
+            <sec id="Sec3" sec-type="results">
+              <title>Results</title>
+              <p id="Par19">One participant was excluded from the GP group for not returning the required datasheet within the 3-day follow-up period. Two participants in the MTA group and three participants in the GP group were also excluded because they did not follow the study instructions. Thus, the data were collected from a total of 94 patients, 46 in the GP group and 48 in the MTA group (Fig. <xref rid="Fig1" ref-type="fig">1</xref>).</p>
+              <p id="Par20">
+                <fig id="Fig1">
+                  <label>Fig. 1</label>
+                  <caption>
+                    <p>CONSORT 2010 Flow Diagram</p>
+                  </caption>
+                  <graphic xlink:href="12903_2023_3372_Fig1_HTML" id="d32e372"/>
+                </fig>
+              </p>
+              <p id="Par21">The demographic and clinical characteristics of the two groups were not significantly different in the initial stage of the trial (Table <xref rid="Tab1" ref-type="table">1</xref>). The pain level distribution based on the groups is shown in Additional file 1: Table <xref rid="MOESM1" ref-type="media">S1</xref>. Maximum pain intensity was noted after 6 h, which decreased significantly over time in both groups (P &lt; 0.001, Friedman test). The mean VSA scores were significantly lower in the MTA filling group than in the GP group samples filled with GP and sealer at all-time points (P &lt; 0.05, Mann-Whitney U test) (Table <xref rid="Tab2" ref-type="table">2</xref>).</p>
+              <p id="Par22">
+                <table-wrap id="Tab1">
+                  <label>Table 1</label>
+                  <caption>
+                    <p>Baseline demographic and clinical features of both groups</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left"/>
+                        <th align="left">Gutta-percha<break/>n = 50</th>
+                        <th align="left">MTA<break/>n = 50</th>
+                        <th align="left">P-value</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left">
+                          <bold>Age</bold>
+                          <bold>(years)</bold>
+                        </td>
+                        <td align="left"/>
+                        <td align="left"/>
+                        <td align="left">P &gt; 0.05<sup>1</sup></td>
+                      </tr>
+                      <tr>
+                        <td align="left">Mean (SD)</td>
+                        <td align="left">37.30 (12.28)</td>
+                        <td align="left">37.42 (11.12)</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">Range</td>
+                        <td align="left">18–58</td>
+                        <td align="left">18–58</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Gender [n (%)]</bold>
+                        </td>
+                        <td align="left"/>
+                        <td align="left"/>
+                        <td align="left">P &gt; 0.05<sup>2</sup></td>
+                      </tr>
+                      <tr>
+                        <td align="left">Female</td>
+                        <td align="left">37 (74)</td>
+                        <td align="left">33 (66)</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">Male</td>
+                        <td align="left">13 (26)</td>
+                        <td align="left">17 (34)</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>Jaw of premolar [n (%)]</bold>
+                        </td>
+                        <td align="left"/>
+                        <td align="left"/>
+                        <td align="left">P &gt; 0.05<sup>2</sup></td>
+                      </tr>
+                      <tr>
+                        <td align="left">Maxilla</td>
+                        <td align="left">33 (66)</td>
+                        <td align="left">32 (64)</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">Mandible</td>
+                        <td align="left">17 (34)</td>
+                        <td align="left">18 (36)</td>
+                        <td align="left"/>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>SD: Standard deviation; <sup>1</sup>t-test, <sup>2</sup>Chi-square</p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </p>
+              <p id="Par23">
+                <table-wrap id="Tab2">
+                  <label>Table 2</label>
+                  <caption>
+                    <p>Mean (SD) of pain intensity at different time points for both groups</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <thead>
+                      <tr>
+                        <th align="left">Time point</th>
+                        <th align="left">Gutta-percha</th>
+                        <th align="left">MTA</th>
+                        <th align="left">P-value<sup>1</sup></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left"/>
+                        <td align="left">Mean (SD)</td>
+                        <td align="left">Mean (SD)</td>
+                        <td align="left"/>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>6 h</bold>
+                        </td>
+                        <td align="left">2.74 (2.93)</td>
+                        <td align="left">1.04 (2.43)</td>
+                        <td char="." align="char">&lt; 0.001</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>12 h</bold>
+                        </td>
+                        <td align="left">2.30 (2.89)</td>
+                        <td align="left">0.84 (2.42)</td>
+                        <td char="." align="char">&lt; 0.001</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>24 h</bold>
+                        </td>
+                        <td align="left">1.86 (2.76)</td>
+                        <td align="left">0.58 (2.04)</td>
+                        <td char="." align="char">&lt; 0.001</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>48 h</bold>
+                        </td>
+                        <td align="left">1.68 (2.74)</td>
+                        <td align="left">0.40 (1.65)</td>
+                        <td char="." align="char">0.002</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>72 h</bold>
+                        </td>
+                        <td align="left">1.44 (2.60)</td>
+                        <td align="left">0.38 (1.65)</td>
+                        <td char="." align="char">0.005</td>
+                      </tr>
+                      <tr>
+                        <td align="left">
+                          <bold>P-value</bold>
+                          <sup>
+                            <bold>2</bold>
+                          </sup>
+                        </td>
+                        <td align="left">&lt; 0.001</td>
+                        <td align="left">&lt; 0.001</td>
+                        <td align="left"/>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot>
+                    <p>SD: Standard deviation; <sup>1</sup>Mann–Whitney U test; <sup>2</sup>Friedman test</p>
+                  </table-wrap-foot>
+                </table-wrap>
+              </p>
+              <p id="Par24">In terms of gender, the female patients reported higher VAS scores in both groups after 6 and 12 h (P &lt; 0.05, Mann-Whitney U test), but not at other time intervals. Splitting the groups by tooth location resulted in no significant difference between the maxillary and mandibular teeth in both groups (P &gt; 0.05, Mann-Whitney U test).</p>
+              <p id="Par25">Additionally, three participants experienced swelling; 2 in the MTA filling group and 1 in the GP and sealer group, which were pharmacologically managed. One case also showed discoloration in the MTA group.</p>
+            </sec>
+            <sec id="Sec4" sec-type="discussion">
+              <title>Discussion</title>
+              <p id="Par26">Several factors, including the presence of preoperative pain and periapical lesions, a need for retreatment [<xref ref-type="bibr" rid="CR26">26</xref>], irrigation solution, instrumentation techniques, and obturation methods and materials have been implicated in the level of postoperative endodontic pain [<xref ref-type="bibr" rid="CR27">27</xref>]. The present trial demonstrated that the use of MTA followed by a coronal seal with GP as a root canal filling materials resulted in significantly less pain than the use of GP and sealer. Postoperative pain was evaluated for a short term since the pain rate and intensity have been shown to reach a maximum level a few days after the operation and lessen noticeably to a minimal level [<xref ref-type="bibr" rid="CR28">28</xref>]. It has also been shown that premedication can decrease postoperative endodontic pain [<xref ref-type="bibr" rid="CR29">29</xref>], so the participants who took medicine were not selected. Furthermore, a single-visit endodontic treatment was used to limit the effect of other variables, particularly the effect of intracanal medicaments and coronal leakage on postoperative pain [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+              <p id="Par27">The exact mechanism for lower pain in the MTA group is unknown; however, it may be attributed to the biocompatibility, sealing ability, hard tissue formation, and analgesic effect of the MTA. MTA is considered a non-mutagenic and non-neurotoxic compound without any side effects on microcirculation [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR31">31</xref>]. Several investigations have shown that MTA induces anti-inflammatory effects, moderates the signaling molecules and cytokine output, and regulates cell attachment, proliferation, and differentiation, particularly in hard tissue-related cells [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR33">33</xref>].</p>
+              <p id="Par28">MTA creates a bond with dentin via the induction of an interfacial layer, which enhances the push-out bond strength, bacterial-tight seal, and marginal adaptation and prevents fluid leakage [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR31">31</xref>]. The release of calcium ions either induces hydroxyapatite or carbonates apatite over the entire surface and provides a biological seal. However, this is a long-term benefit of bioactivity [<xref ref-type="bibr" rid="CR33">33</xref>]. It also has some antibacterial properties, particularly against facultative anaerobe bacteria, which is attributed to the alkalinizing activity and calcium hydroxide release [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR34">34</xref>].</p>
+              <p id="Par29">Bioceramic materials such as MTA also induce some analgesic effects and reduce nerve activity [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. An animal model showed that MTA injection did not excite the nociceptor action and had some analgesic effects similar to ketoprofen [<xref ref-type="bibr" rid="CR4">4</xref>]. Electrophysiological evidence demonstrates the suppressive effects of MTA on the F1 neurons of suboesophageal ganglion by reducing the duration and intensity of the action potential and heightening the hyperpolarization amplitude [<xref ref-type="bibr" rid="CR21">21</xref>]. This analgesic effect has been attributed to the outward flow of potassium ions in the cell membrane [<xref ref-type="bibr" rid="CR21">21</xref>]. An in vitro study also revealed that the newly mixed and set form of some bioceramics did not activate the nociceptors and decreased the basal level of CGRP when exposed to the trigeminal sensory neurons directly [<xref ref-type="bibr" rid="CR22">22</xref>]. Yet, there is no literature on humans to support a hypothesis that MTA offers analgesia, and future studies are required.</p>
+              <p id="Par30">On the other hand, zinc washout, non-polymerized cytotoxic materials, and the substances released from the epoxy resin sealer might also cause pain [<xref ref-type="bibr" rid="CR35">35</xref>]. A higher accumulation of inflammatory cells was shown to occur adjacent to AH Plus rather than MTA [<xref ref-type="bibr" rid="CR36">36</xref>], and a fresh mix of AH Plus upregulated CGRP in trigeminal sensory neurons [<xref ref-type="bibr" rid="CR37">37</xref>]. A clinical study revealed that analgesic intake was higher in the AH Plus group than in the iRoot SP sealer group [<xref ref-type="bibr" rid="CR38">38</xref>]. A randomized clinical trial also concluded that a proper root canal instrumentation technique had a more critical effect on postoperative endodontic pain than the type of sealer. Notably, all evaluated sealers were calcium silicate-based cement [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+              <p id="Par31">The present trial revealed that the pain level after root canal treatment was significantly higher in females 6 and 12 h after the procedure. Some studies have shown that women are more prone to experience pain [<xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR40">40</xref>], while other studies have not reported similar results [<xref ref-type="bibr" rid="CR41">41</xref>]. However, the different eligibility criteria of the aforementioned studies and the different psychological and physiological responses to pain between genders should also be considered [<xref ref-type="bibr" rid="CR40">40</xref>]. Differences in the reproductive organs, unstable hormonal levels, and higher psychosomatic diseases can lead to higher postoperative pain in females [<xref ref-type="bibr" rid="CR42">42</xref>].</p>
+              <p id="Par32">The pain level was similar for the maxillary and mandibular teeth in the present study. Some studies [<xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>] have reported no significant differences, while some others have reported a higher pain level in the mandibular teeth [<xref ref-type="bibr" rid="CR27">27</xref>]. More important than tooth location is the type of tooth, as molar teeth are associated with a higher incidence of postoperative pain. It is believed that the higher complexity of root canal anatomy and more root canals may contribute to the higher incidence of pain in multi-rooted teeth [<xref ref-type="bibr" rid="CR42">42</xref>]. Our study evaluated the level of pain in teeth with a single canal. Multiple canals are more prone to false-positive outcomes when sensibility tests are applied, due to more possibility of partial pulp necrosis, so the single-canal teeth were considered to eliminate the chance of misdiagnosis [<xref ref-type="bibr" rid="CR45">45</xref>]. Future studies should examine the effect of other bio-ceramic as root canal filling materials on multi-rooted teeth.</p>
+              <p id="Par33">A randomized controlled trial [<xref ref-type="bibr" rid="CR15">15</xref>] has indicated that the success rate of MTA as a root canal filling material is comparable with that of GP. Several case reports describe the successful treatment of primary [<xref ref-type="bibr" rid="CR46">46</xref>] and permanent teeth under different clinical situations particularly for challenging ones with using MTA as a root canal filling material [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>]. In addition, MTA as an endodontic sealer showed comparable outcomes to Tubliseal and AH Plus in a clinical study [<xref ref-type="bibr" rid="CR19">19</xref>]. Hence, owing to comparable success rate, side effects (swelling), and lower postoperative pain, MTA can be a valuable option for clinicians.</p>
+              <p id="Par34">Yet, drawbacks such as poor handling characteristics, difficult retrieval, discoloration, and low push-out and shear bond strength should be considered [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR31">31</xref>]. Studies show that MTA has a higher tendency to discolor over time compared to other new bioceramics due to the presence of bismuth oxide and contamination with blood during the setting process [<xref ref-type="bibr" rid="CR47">47</xref>–<xref ref-type="bibr" rid="CR49">49</xref>]. It is recommended to avoid filling the coronal portion of the root canal with MTA and placing it in a dry root canal to prevent discoloration. Furthermore, the new bioceramics such as TotalFill and Biodentine exhibit higher push-out bond strength to dentin compared to MTA. This makes them valuable alternatives, particularly for use in the coronal region [<xref ref-type="bibr" rid="CR50">50</xref>]. Finally, new bioceramics such as Biodentine, TotalFill, and PCM have been suggested as suitable alternatives, which allow the accomplishment of restorative procedures immediately after their placement [<xref ref-type="bibr" rid="CR51">51</xref>], and their shear bond strength can be improved by using an additional hydrophobic bonding layer [<xref ref-type="bibr" rid="CR52">52</xref>]. Accordingly, the potential of the new generation of bioceramics as a viable alternative should be evaluated.</p>
+              <p id="Par35">To the best of our knowledge, the present investigation is the first clinical trial evaluating the pain caused by the MTA filling. However, it is important to interpret the results with caution as the study was conducted in an optimal clinical setting and individual cases may differ, particularly in terms of pulpal and periapical conditions. It is recommended that future clinical studies examine the use of a new generation of bioceramics as root canal filling materials on multi-rooted teeth in other clinical situations, such as vital pulp therapy. Additionally, further biological studies are suggested to better understand the effect of bioceramics on the mechanism of pain.</p>
+            </sec>
+            <sec id="Sec5" sec-type="conclusion">
+              <title>Conclusions</title>
+              <p id="Par36">Considering the lower postoperative pain of MTA as root canal filling materials it may be a valuable option for clinicians. However, the exact mechanism for lower pain levels remains unknown and further research are required.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <sec id="Sec6">
+                <title>Electronic supplementary material</title>
+                <p>Below is the link to the electronic supplementary material.</p>
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM1">
+                    <media xlink:href="12903_2023_3372_MOESM1_ESM.docx">
+                      <caption>
+                        <p>Supplementary Material 1</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+                <p>
+                  <supplementary-material content-type="local-data" id="MOESM2">
+                    <media xlink:href="12903_2023_3372_MOESM2_ESM.docx">
+                      <caption>
+                        <p>Supplementary Material 2</p>
+                      </caption>
+                    </media>
+                  </supplementary-material>
+                </p>
+              </sec>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Author contributions</title>
+              <p>M.K., A.K., and M.T. contributed to the conception and design of the work, and revising of the work. P.I. and S.K. contributed to the acquisition, analysis, and interpretation of data and drafting of the work. All authors have viewed and approved the submitted work and have agreed to be personally accountable for the submitted work.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>This study was taken from a postgraduate thesis and was financially supported by The Azad University, Isfahan (Khorasgan) Branch (#95899100014).</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Data Availability</title>
+              <p>The data of this study are available from Azad University, but restrictions apply to the availability of these data due to ethical considerations. However, data are available from the corresponding authors upon reasonable request and with permission of The Azad University.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par37">The authors declare no competing interests.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par38">The present randomized superiority trial was registered in the Registry of Clinical Trials (IRCT20191104045331N1). In addition, the ethics committee of The Azad University - Isfahan (Khorasgan) Branch, approved the study (IR.IAU.KHUISF.REC.1398.075), and all of the participants in this trial signed informed consent forms. All methods were carried out in accordance with the declaration of Helsinki.</p>
+              </notes>
+              <notes id="FPar3">
+                <title>Consent for publication</title>
+                <p id="Par39">Not applicable.</p>
+              </notes>
+            </notes>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>GP</term>
+                  <def>
+                    <p>Gutta-percha</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MTA</term>
+                  <def>
+                    <p>Mineral trioxide aggregate</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SD</term>
+                  <def>
+                    <p>Standard deviation</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>VSA</term>
+                  <def>
+                    <p>Visual Analog Scale</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Marshall</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Consideration of steroids for endodontic pain</article-title>
+                  <source>Endod Top</source>
+                  <year>2002</year>
+                  <volume>3</volume>
+                  <fpage>41</fpage>
+                  <lpage>51</lpage>
+                  <pub-id pub-id-type="doi">10.1034/j.1601-1546.2002.30105.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sathorn</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Parashos</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Messer</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The prevalence of postoperative pain and flare-up in single- and multiple-visit endodontic treatment: a systematic review</article-title>
+                  <source>Int Endod J</source>
+                  <year>2008</year>
+                  <volume>41</volume>
+                  <fpage>91</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2007.01316.x</pub-id>
+                  <?supplied-pmid 17956561?>
+                  <pub-id pub-id-type="pmid">17956561</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Siqueira</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Microbial causes of endodontic flare-ups</article-title>
+                  <source>Int Endod J</source>
+                  <year>2003</year>
+                  <volume>36</volume>
+                  <fpage>453</fpage>
+                  <lpage>63</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2591.2003.00671.x</pub-id>
+                  <?supplied-pmid 12823700?>
+                  <pub-id pub-id-type="pmid">12823700</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abbasipour</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Bakhtiar</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Vatanpour</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Khalilkhani</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Torabzadeh</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Janahmadi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A comparative study on anti-hyperalgesia effect of MTA and Ketoprofen in inflammatory pain</article-title>
+                  <source>Iran Endod J</source>
+                  <year>2009</year>
+                  <volume>4</volume>
+                  <fpage>81</fpage>
+                  <lpage>6</lpage>
+                  <?supplied-pmid 24003326?>
+                  <pub-id pub-id-type="pmid">24003326</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Seltzer</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pain in endodontics</article-title>
+                  <source>J Endod</source>
+                  <year>2004</year>
+                  <volume>30</volume>
+                  <fpage>501</fpage>
+                  <lpage>3</lpage>
+                  <pub-id pub-id-type="doi">10.1097/00004770-200407000-00010</pub-id>
+                  <?supplied-pmid 15220646?>
+                  <pub-id pub-id-type="pmid">15220646</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>ØRstavik</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Materials used for root canal obturation: technical, biological and clinical testing</article-title>
+                  <source>Endod Top</source>
+                  <year>2005</year>
+                  <volume>12</volume>
+                  <fpage>25</fpage>
+                  <lpage>38</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1601-1546.2005.00197.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Vishwanath</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Rao</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Gutta-percha in endodontics - a comprehensive review of material science</article-title>
+                  <source>J Conserv Dent</source>
+                  <year>2019</year>
+                  <volume>22</volume>
+                  <fpage>216</fpage>
+                  <pub-id pub-id-type="doi">10.4103/JCD.JCD_420_18</pub-id>
+                  <?supplied-pmid 31367101?>
+                  <pub-id pub-id-type="pmid">31367101</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Patil</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Banga</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Pawar</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Pimple</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Ganeshan</surname>
+                      <given-names>R</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of root canal obturation using gutta-percha with three different sealers on root reinforcement of endodontically treated teeth. An in vitro comparative study of mandibular incisors</article-title>
+                  <source>J Conserv Dent</source>
+                  <year>2017</year>
+                  <volume>20</volume>
+                  <fpage>241</fpage>
+                  <lpage>4</lpage>
+                  <pub-id pub-id-type="doi">10.4103/JCD.JCD_233_16</pub-id>
+                  <?supplied-pmid 29259360?>
+                  <pub-id pub-id-type="pmid">29259360</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Barletta</surname>
+                      <given-names>FB</given-names>
+                    </name>
+                    <name>
+                      <surname>Rahde</surname>
+                      <given-names>NDM</given-names>
+                    </name>
+                    <name>
+                      <surname>Limongi</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Moura</surname>
+                      <given-names>AAM</given-names>
+                    </name>
+                    <name>
+                      <surname>Zanesco</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Mazocatto</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>In vitro comparative analysis of 2 mechanical techniques for removing gutta-percha during retreatment</article-title>
+                  <source>J Can Dent Assoc (Tor)</source>
+                  <year>2007</year>
+                  <volume>73</volume>
+                  <fpage>65</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Kaur</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Shah</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Logani</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Mishra</surname>
+                      <given-names>N</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Biotoxicity of commonly used root canal sealers: a meta-analysis</article-title>
+                  <source>J Conservative Dentistry</source>
+                  <year>2015</year>
+                  <volume>18</volume>
+                  <fpage>83</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.4103/0972-0707.153054</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Surya Raghavendra</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Jadhav</surname>
+                      <given-names>GR</given-names>
+                    </name>
+                    <name>
+                      <surname>Gathani</surname>
+                      <given-names>KM</given-names>
+                    </name>
+                    <name>
+                      <surname>Kotadia</surname>
+                      <given-names>P</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Bioceramics in endodontics – a review</article-title>
+                  <source>J Istanbul Univ Fac Dent</source>
+                  <year>2017</year>
+                  <volume>51</volume>
+                  <issue>3 Suppl 1</issue>
+                  <fpage>128</fpage>
+                  <lpage>S137</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Storm</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Eichmiller</surname>
+                      <given-names>FC</given-names>
+                    </name>
+                    <name>
+                      <surname>Tordik</surname>
+                      <given-names>PA</given-names>
+                    </name>
+                    <name>
+                      <surname>Goodell</surname>
+                      <given-names>GG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Setting expansion of Gray and White Mineral Trioxide Aggregate and Portland Cement</article-title>
+                  <source>J Endod</source>
+                  <year>2008</year>
+                  <volume>34</volume>
+                  <fpage>80</fpage>
+                  <lpage>2</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2007.10.006</pub-id>
+                  <?supplied-pmid 18155499?>
+                  <pub-id pub-id-type="pmid">18155499</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jitaru</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Hodisan</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Timis</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Lucian</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Bud</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The use of bioceramics in endodontics - literature review</article-title>
+                  <source>Clujul Med</source>
+                  <year>2016</year>
+                  <volume>89</volume>
+                  <fpage>470</fpage>
+                  <lpage>3</lpage>
+                  <?supplied-pmid 27857514?>
+                  <pub-id pub-id-type="pmid">27857514</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Guven</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Tuna</surname>
+                      <given-names>EB</given-names>
+                    </name>
+                    <name>
+                      <surname>Dincol</surname>
+                      <given-names>ME</given-names>
+                    </name>
+                    <name>
+                      <surname>Aktoren</surname>
+                      <given-names>O</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>X-ray diffraction analysis of MTA-plus, MTA-angelus and diaroot bioaggregate</article-title>
+                  <source>Eur J Dent</source>
+                  <year>2014</year>
+                  <volume>8</volume>
+                  <fpage>211</fpage>
+                  <lpage>5</lpage>
+                  <pub-id pub-id-type="doi">10.4103/2278-344X.130603</pub-id>
+                  <?supplied-pmid 24966772?>
+                  <pub-id pub-id-type="pmid">24966772</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Alsulaimani</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Single-visit endodontic treatment of mature teeth with chronic apical abscesses using mineral trioxide aggregate cement: a randomized clinical trial</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2016</year>
+                  <volume>16</volume>
+                  <fpage>1</fpage>
+                  <lpage>10</lpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-016-0276-y</pub-id>
+                  <pub-id pub-id-type="pmid">26745890</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Terauchi</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Torabinejad</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wong</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Bogen</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Effect of Mineral Trioxide Aggregate Obturation levels on the Outcome of Endodontic Retreatment: an observational study</article-title>
+                  <source>J Endod</source>
+                  <year>2023</year>
+                  <volume>49</volume>
+                  <fpage>664</fpage>
+                  <lpage>74</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2023.04.004</pub-id>
+                  <?supplied-pmid 37085142?>
+                  <pub-id pub-id-type="pmid">37085142</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bogen</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuttler</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mineral Trioxide Aggregate Obturation: A Review and Case Series</article-title>
+                  <source>J Endod</source>
+                  <year>2009</year>
+                  <volume>35</volume>
+                  <fpage>777</fpage>
+                  <lpage>90</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2009.03.006</pub-id>
+                  <?supplied-pmid 19482173?>
+                  <pub-id pub-id-type="pmid">19482173</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paul</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Mazumdar</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Vyavahare</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Baranwal</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Healing of the periapical lesion in posterior teeth with mineral trioxide aggregate using orthograde technique - two case reports</article-title>
+                  <source>Contemp Clin Dent</source>
+                  <year>2012</year>
+                  <volume>3</volume>
+                  <fpage>264</fpage>
+                  <pub-id pub-id-type="doi">10.4103/0976-237X.101111</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thakur</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Emil</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Paulaian</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of mineral trioxide aggregate as root canal sealer: a clinical study</article-title>
+                  <source>J Conserv Dent</source>
+                  <year>2013</year>
+                  <volume>16</volume>
+                  <fpage>494</fpage>
+                  <lpage>8</lpage>
+                  <pub-id pub-id-type="doi">10.4103/0972-0707.120944</pub-id>
+                  <?supplied-pmid 24347880?>
+                  <pub-id pub-id-type="pmid">24347880</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Torabinejad</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Parirokh</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Dummer</surname>
+                      <given-names>PMH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mineral trioxide aggregate and other bioactive endodontic cements: an updated overview - part II: other clinical applications and complications</article-title>
+                  <source>Int Endod J</source>
+                  <year>2018</year>
+                  <volume>51</volume>
+                  <fpage>284</fpage>
+                  <lpage>317</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.12843</pub-id>
+                  <?supplied-pmid 28846134?>
+                  <pub-id pub-id-type="pmid">28846134</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abbasipour</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Akheshteh</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Rastqar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Khalilkhani</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Asgary</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Janahmadi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparing the effects of mineral trioxide aggregate and calcium enriched mixture on neuronal cells using an electrophysiological approach</article-title>
+                  <source>Iran Endod J</source>
+                  <year>2012</year>
+                  <volume>7</volume>
+                  <fpage>79</fpage>
+                  <lpage>87</lpage>
+                  <?supplied-pmid 23056124?>
+                  <pub-id pub-id-type="pmid">23056124</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ruparel</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ruparel</surname>
+                      <given-names>SB</given-names>
+                    </name>
+                    <name>
+                      <surname>Chen</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ishikawa</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Diogenes</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Direct effect of endodontic sealers on trigeminal neuronal activity</article-title>
+                  <source>J Endod</source>
+                  <year>2014</year>
+                  <volume>40</volume>
+                  <fpage>683</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2014.01.030</pub-id>
+                  <?supplied-pmid 24767564?>
+                  <pub-id pub-id-type="pmid">24767564</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mostafa</surname>
+                      <given-names>MEHAA</given-names>
+                    </name>
+                    <name>
+                      <surname>El-Shrief</surname>
+                      <given-names>YAI</given-names>
+                    </name>
+                    <name>
+                      <surname>Anous</surname>
+                      <given-names>WIO</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassan</surname>
+                      <given-names>MW</given-names>
+                    </name>
+                    <name>
+                      <surname>Salamah</surname>
+                      <given-names>FTA</given-names>
+                    </name>
+                    <name>
+                      <surname>El Boghdadi</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Postoperative pain following endodontic irrigation using 1.3% versus 5.25% sodium hypochlorite in mandibular molars with necrotic pulps: a randomized double-blind clinical trial</article-title>
+                  <source>Int Endod J</source>
+                  <year>2020</year>
+                  <volume>53</volume>
+                  <fpage>154</fpage>
+                  <lpage>66</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.13222</pub-id>
+                  <?supplied-pmid 31563148?>
+                  <pub-id pub-id-type="pmid">31563148</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Van Der Sluis</surname>
+                      <given-names>LWM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gambarini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Wu</surname>
+                      <given-names>MK</given-names>
+                    </name>
+                    <name>
+                      <surname>Wesselink</surname>
+                      <given-names>PR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The influence of volume, type of irrigant and flushing method on removing artificially placed dentine debris from the apical root canal during passive ultrasonic irrigation</article-title>
+                  <source>Int Endod J</source>
+                  <year>2006</year>
+                  <volume>39</volume>
+                  <fpage>472</fpage>
+                  <lpage>6</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2006.01108.x</pub-id>
+                  <?supplied-pmid 16674742?>
+                  <pub-id pub-id-type="pmid">16674742</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mehrvarzfar</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Abbott</surname>
+                      <given-names>PV</given-names>
+                    </name>
+                    <name>
+                      <surname>Saghiri</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                    <name>
+                      <surname>Delvarani</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Asgar</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Lotfi</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Effects of three oral analgesics on postoperative pain following root canal preparation: a controlled clinical trial</article-title>
+                  <source>Int Endod J</source>
+                  <year>2012</year>
+                  <volume>45</volume>
+                  <fpage>76</fpage>
+                  <lpage>82</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2011.01950.x</pub-id>
+                  <?supplied-pmid 21902704?>
+                  <pub-id pub-id-type="pmid">21902704</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mattscheck</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Law</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Noblett</surname>
+                      <given-names>WC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Retreatment versus initial root canal treatment: factors affecting posttreatment pain</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2001</year>
+                  <volume>92</volume>
+                  <fpage>321</fpage>
+                  <lpage>4</lpage>
+                  <pub-id pub-id-type="doi">10.1067/moe.2001.115135</pub-id>
+                  <?supplied-pmid 11552152?>
+                  <pub-id pub-id-type="pmid">11552152</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nagendrababu</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Gutmann</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors associated with postobturation pain following single-visit nonsurgical root canal treatment: a systematic review</article-title>
+                  <source>Quintessence Int</source>
+                  <year>2017</year>
+                  <volume>48</volume>
+                  <fpage>193</fpage>
+                  <lpage>208</lpage>
+                  <?supplied-pmid 27669726?>
+                  <pub-id pub-id-type="pmid">27669726</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pak</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>SN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pain prevalence and severity before, during, and after root canal treatment: a systematic review</article-title>
+                  <source>J Endod</source>
+                  <year>2011</year>
+                  <volume>37</volume>
+                  <fpage>429</fpage>
+                  <lpage>38</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2010.12.016</pub-id>
+                  <?supplied-pmid 21419285?>
+                  <pub-id pub-id-type="pmid">21419285</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nagendrababu</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Pulikkotil</surname>
+                      <given-names>SJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Jinatongthai</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Veettil</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Teerawattanapong</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Gutmann</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Efficacy and safety of oral Premedication on Pain after Nonsurgical Root Canal treatment: a systematic review and network Meta-analysis of Randomized controlled trials</article-title>
+                  <source>J Endod</source>
+                  <year>2019</year>
+                  <volume>45</volume>
+                  <fpage>364</fpage>
+                  <lpage>71</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2018.10.016</pub-id>
+                  <?supplied-pmid 30737050?>
+                  <pub-id pub-id-type="pmid">30737050</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ehrmann</surname>
+                      <given-names>EH</given-names>
+                    </name>
+                    <name>
+                      <surname>Messer</surname>
+                      <given-names>HH</given-names>
+                    </name>
+                    <name>
+                      <surname>Adams</surname>
+                      <given-names>GG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The relationship of intracanal medicaments to postoperative pain in endodontics</article-title>
+                  <source>Int Endod J</source>
+                  <year>2003</year>
+                  <volume>36</volume>
+                  <fpage>868</fpage>
+                  <lpage>75</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2003.00735.x</pub-id>
+                  <?supplied-pmid 14641427?>
+                  <pub-id pub-id-type="pmid">14641427</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dawood</surname>
+                      <given-names>AE</given-names>
+                    </name>
+                    <name>
+                      <surname>Parashos</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Wong</surname>
+                      <given-names>RHK</given-names>
+                    </name>
+                    <name>
+                      <surname>Reynolds</surname>
+                      <given-names>EC</given-names>
+                    </name>
+                    <name>
+                      <surname>Manton</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Calcium silicate-based cements: composition, properties, and clinical applications</article-title>
+                  <source>J Investig Clin Dent</source>
+                  <year>2017</year>
+                  <volume>8</volume>
+                  <fpage>e12195</fpage>
+                  <pub-id pub-id-type="doi">10.1111/jicd.12195</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Reyes-Carmona</surname>
+                      <given-names>JF</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>ARS</given-names>
+                    </name>
+                    <name>
+                      <surname>Figueiredo</surname>
+                      <given-names>CP</given-names>
+                    </name>
+                    <name>
+                      <surname>Felippe</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Felippe</surname>
+                      <given-names>WT</given-names>
+                    </name>
+                    <name>
+                      <surname>Cordeiro</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>In vivo host interactions with mineral trioxide aggregate and calcium hydroxide: inflammatory molecular signaling assessment</article-title>
+                  <source>J Endod</source>
+                  <year>2011</year>
+                  <volume>37</volume>
+                  <fpage>1225</fpage>
+                  <lpage>35</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2011.05.031</pub-id>
+                  <?supplied-pmid 21846538?>
+                  <pub-id pub-id-type="pmid">21846538</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Staffoli</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Plotino</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Torrijos</surname>
+                      <given-names>BGN</given-names>
+                    </name>
+                    <name>
+                      <surname>Grande</surname>
+                      <given-names>NM</given-names>
+                    </name>
+                    <name>
+                      <surname>Bossù</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gambarini</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Regenerative endodontic procedures using contemporary endodontic materials</article-title>
+                  <source>Mater (Basel)</source>
+                  <year>2019</year>
+                  <volume>16</volume>
+                  <fpage>908</fpage>
+                  <pub-id pub-id-type="doi">10.3390/ma12060908</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Prati</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Gandolfi</surname>
+                      <given-names>MG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Calcium silicate bioactive cements: biological perspectives and clinical applications</article-title>
+                  <source>Dent Mater</source>
+                  <year>2015</year>
+                  <volume>31</volume>
+                  <fpage>351</fpage>
+                  <lpage>70</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.dental.2015.01.004</pub-id>
+                  <?supplied-pmid 25662204?>
+                  <pub-id pub-id-type="pmid">25662204</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Graunaite</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Skucaite</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Lodiene</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Agentiene</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Machiulskiene</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of Resin-based and Bioceramic Root Canal Sealers on Postoperative Pain: a Split-mouth randomized controlled trial</article-title>
+                  <source>J Endod</source>
+                  <year>2018</year>
+                  <volume>44</volume>
+                  <fpage>689</fpage>
+                  <lpage>93</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2018.02.010</pub-id>
+                  <?supplied-pmid 29571915?>
+                  <pub-id pub-id-type="pmid">29571915</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>W</given-names>
+                    </name>
+                    <name>
+                      <surname>Peng</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Tissue reactions after subcutaneous and intraosseous implantation of iRoot SP, MTA and AH Plus</article-title>
+                  <source>Dent Mater J</source>
+                  <year>2015</year>
+                  <volume>34</volume>
+                  <fpage>774</fpage>
+                  <lpage>80</lpage>
+                  <pub-id pub-id-type="doi">10.4012/dmj.2014-271</pub-id>
+                  <?supplied-pmid 26632225?>
+                  <pub-id pub-id-type="pmid">26632225</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ruparel</surname>
+                      <given-names>NB</given-names>
+                    </name>
+                    <name>
+                      <surname>Teixeira</surname>
+                      <given-names>FB</given-names>
+                    </name>
+                    <name>
+                      <surname>Ferraz</surname>
+                      <given-names>CCR</given-names>
+                    </name>
+                    <name>
+                      <surname>Diogenes</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Direct effect of intracanal medicaments on survival of stem cells of the apical papilla</article-title>
+                  <source>J Endod</source>
+                  <year>2012</year>
+                  <volume>38</volume>
+                  <fpage>1372</fpage>
+                  <lpage>5</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2012.06.018</pub-id>
+                  <?supplied-pmid 22980180?>
+                  <pub-id pub-id-type="pmid">22980180</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Atav Ates</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Dumani</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Yoldas</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Unal</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Post-obturation pain following the use of carrier-based system with AH Plus or iRoot SP sealers: a randomized controlled clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2019</year>
+                  <volume>23</volume>
+                  <fpage>3053</fpage>
+                  <lpage>61</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-018-2721-6</pub-id>
+                  <?supplied-pmid 30397735?>
+                  <pub-id pub-id-type="pmid">30397735</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nabi</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Farooq</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Purra</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ahmed</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of various sealers on postoperative pain in single-visit endodontics: a randomized clinical study</article-title>
+                  <source>Indian J Dent Sci</source>
+                  <year>2019</year>
+                  <volume>11</volume>
+                  <fpage>99</fpage>
+                  <pub-id pub-id-type="doi">10.4103/IJDS.IJDS_81_18</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Alí</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Olivieri</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                    <name>
+                      <surname>Duran-Sindreu</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Abella</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Roig</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>García-Font</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of preoperative pain intensity on postoperative pain after root canal treatment: a prospective clinical study</article-title>
+                  <source>J Dent</source>
+                  <year>2016</year>
+                  <volume>45</volume>
+                  <fpage>39</fpage>
+                  <lpage>42</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jdent.2015.12.002</pub-id>
+                  <?supplied-pmid 26678517?>
+                  <pub-id pub-id-type="pmid">26678517</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shoaib</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Farraj</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Al, Alenazi</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Hussain</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Therapy</surname>
+                      <given-names>NA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of Pain after receiving Root Canal treatment: a cross-sectional study</article-title>
+                  <source>J Appl Dent Med Sci</source>
+                  <year>2019</year>
+                  <volume>6</volume>
+                  <fpage>7</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>YL</given-names>
+                    </name>
+                    <name>
+                      <surname>Glennon</surname>
+                      <given-names>JP</given-names>
+                    </name>
+                    <name>
+                      <surname>Setchell</surname>
+                      <given-names>DJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Gulabivala</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of and factors affecting post-obturation pain in patients undergoing root canal treatment</article-title>
+                  <source>Int Endod J</source>
+                  <year>2004</year>
+                  <volume>37</volume>
+                  <fpage>381</fpage>
+                  <lpage>91</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2004.00820.x</pub-id>
+                  <?supplied-pmid 15186245?>
+                  <pub-id pub-id-type="pmid">15186245</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Azim</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Azim</surname>
+                      <given-names>KA</given-names>
+                    </name>
+                    <name>
+                      <surname>Abbott</surname>
+                      <given-names>PV</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of inter-appointment endodontic flare-ups and host-related factors</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <fpage>889</fpage>
+                  <lpage>94</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-016-1839-7</pub-id>
+                  <?supplied-pmid 27179654?>
+                  <pub-id pub-id-type="pmid">27179654</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Polycarpou</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>YL</given-names>
+                    </name>
+                    <name>
+                      <surname>Canavan</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Moles</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                    <name>
+                      <surname>Gulabivala</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence of persistent pain after endodontic treatment and factors affecting its occurrence in cases with complete radiographic healing</article-title>
+                  <source>Int Endod J</source>
+                  <year>2005</year>
+                  <volume>38</volume>
+                  <fpage>169</fpage>
+                  <lpage>78</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1365-2591.2004.00923.x</pub-id>
+                  <?supplied-pmid 15743420?>
+                  <pub-id pub-id-type="pmid">15743420</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Jespersen</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Hellstein</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Williamson</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Johnson</surname>
+                      <given-names>WT</given-names>
+                    </name>
+                    <name>
+                      <surname>Qian</surname>
+                      <given-names>F</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of Dental Pulp sensibility tests in a clinical setting</article-title>
+                  <source>J Endod</source>
+                  <year>2014</year>
+                  <volume>40</volume>
+                  <fpage>351</fpage>
+                  <lpage>4</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2013.11.009</pub-id>
+                  <?supplied-pmid 24565651?>
+                  <pub-id pub-id-type="pmid">24565651</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>O’Sullivan</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Hartwell</surname>
+                      <given-names>GR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Obturation of a retained primary mandibular second molar using mineral trioxide aggregate: a case report</article-title>
+                  <source>J Endod</source>
+                  <year>2001</year>
+                  <volume>27</volume>
+                  <fpage>703</fpage>
+                  <lpage>5</lpage>
+                  <pub-id pub-id-type="doi">10.1097/00004770-200111000-00013</pub-id>
+                  <?supplied-pmid 11716086?>
+                  <pub-id pub-id-type="pmid">11716086</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ramos</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Palma</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Nascimento</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Caramelo</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Messias</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Vinagre</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>1-year in Vitro evaluation of tooth Discoloration Induced by 2 calcium silicate–based cements</article-title>
+                  <source>J Endod</source>
+                  <year>2016</year>
+                  <volume>42</volume>
+                  <fpage>1403</fpage>
+                  <lpage>7</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2016.06.012</pub-id>
+                  <?supplied-pmid 27497511?>
+                  <pub-id pub-id-type="pmid">27497511</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <mixed-citation publication-type="other">Palma PJ, Marques JA, Falacho RI, Correia E, Vinagre A, Santos JM et al. Six-Month Color Stability Assessment of Two Calcium Silicate-Based Cements Used in Regenerative Endodontic Procedures. J Funct Biomater 2019, Vol 10, Page 14. 2019;10:14.</mixed-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Palma</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Falacho</surname>
+                      <given-names>RI</given-names>
+                    </name>
+                    <name>
+                      <surname>Sequeira</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Diogo</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Tooth discoloration after regenerative endodontic procedures with Calcium Silicate-Based Cements—An Ex vivo study</article-title>
+                  <source>Appl Sci 2020</source>
+                  <year>2020</year>
+                  <volume>10</volume>
+                  <fpage>5793</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <mixed-citation publication-type="other">Paulo CR, Marques JA, Sequeira DB, Diogo P, Paiva R, Palma PJ et al. Influence of blood contamination on push-out bond strength of three calcium silicate-based materials to root dentin. Appl Sci. 2021;11.</mixed-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Palma</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Antunes</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Falacho</surname>
+                      <given-names>RI</given-names>
+                    </name>
+                    <name>
+                      <surname>Sequeira</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Roseiro</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Effect of restorative timing on shear bond strength of composite resin/calcium silicate–based cements adhesive interfaces</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2021</year>
+                  <volume>25</volume>
+                  <fpage>3131</fpage>
+                  <lpage>9</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-020-03640-7</pub-id>
+                  <?supplied-pmid 33047203?>
+                  <pub-id pub-id-type="pmid">33047203</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <mixed-citation publication-type="other">Xavier MT, Costa AL, Caramelo FJ, Palma PJ, Ramos JC. Evaluation of the interfaces between restorative and regenerative biomaterials used in vital pulp therapy. Mater (Basel). 2021;14.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

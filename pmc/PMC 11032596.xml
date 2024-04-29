@@ -1,0 +1,2054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:35:23Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:11032596" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:11032596</identifier>
+        <datestamp>2024-04-21</datestamp>
+        <setSpec>bmcorhl</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">BMC Oral Health</journal-id>
+              <journal-id journal-id-type="iso-abbrev">BMC Oral Health</journal-id>
+              <journal-title-group>
+                <journal-title>BMC Oral Health</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1472-6831</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC11032596</article-id>
+              <article-id pub-id-type="pmcid">PMC11032596</article-id>
+              <article-id pub-id-type="pmc-uid">11032596</article-id>
+              <article-id pub-id-type="pmid">38643087</article-id>
+              <article-id pub-id-type="pmid">38643087</article-id>
+              <article-id pub-id-type="publisher-id">4225</article-id>
+              <article-id pub-id-type="doi">10.1186/s12903-024-04225-6</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Postoperative pain after single-visit root canal treatments in necrotic teeth comparing instruments’ kinematics and apical instrumentation limits – a prospective randomized multicenter clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Machado</surname>
+                    <given-names>Ricardo</given-names>
+                  </name>
+                  <address>
+                    <email>ricardo-machado@ouhsc.edu</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Moreira</surname>
+                    <given-names>Guilherme</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Comparin</surname>
+                    <given-names>Daniel</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Barroso</surname>
+                    <given-names>Arthur Pimentel</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Nascimento</surname>
+                    <given-names>Jaqueline</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ferraz</surname>
+                    <given-names>Caio Cézar Randi</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ignácio</surname>
+                    <given-names>Sérgio Aparecido</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff6">6</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>da Fonseca Roberti Garcia</surname>
+                    <given-names>Lucas</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff7">7</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Amaral</surname>
+                    <given-names>Rodrigo Rodrigues</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff8">8</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Shadid</surname>
+                    <given-names>David</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>da Silva Neto</surname>
+                    <given-names>Ulisses Xavier</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02aqsxs83</institution-id><institution-id institution-id-type="GRID">grid.266900.b</institution-id><institution-id institution-id-type="ISNI">0000 0004 0447 0018</institution-id><institution>College of Dentistry, Department of Restorative Sciences, </institution><institution>Division of Endodontics, Health Sciences Center, University of Oklahoma - COD/OUHSC, </institution></institution-wrap>Oklahoma City, Oklahoma USA </aff>
+                <aff id="Aff2"><label>2</label>Clinical Practice Limited to Endodontics, Francisco Beltrão, Paraná Brazil </aff>
+                <aff id="Aff3"><label>3</label>Clinical Practice Limited to Endodontics, Cunha Porã and Francisco Beltrão, Paraná, Brazil </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04wffgt70</institution-id><institution-id institution-id-type="GRID">grid.411087.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 0723 2494</institution-id><institution>Piracicaba Dental School, Department of Restorative Dentistry, </institution><institution>Division of Endodontics, State University of Campinas – FOP/UNICAMP, </institution></institution-wrap>Piracicaba, São Paulo Brazil </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02x1vjk79</institution-id><institution-id institution-id-type="GRID">grid.412522.2</institution-id><institution-id institution-id-type="ISNI">0000 0000 8601 0541</institution-id><institution>School of Dentistry, Department of Endodontics, </institution><institution>Pontifical Catholic University of Paraná – PUC/PR, </institution></institution-wrap>Curitiba, Paraná Brazil </aff>
+                <aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02x1vjk79</institution-id><institution-id institution-id-type="GRID">grid.412522.2</institution-id><institution-id institution-id-type="ISNI">0000 0000 8601 0541</institution-id><institution>School of Dentistry, Department of Statistics, </institution><institution>Pontifical Catholic University of Paraná – PUC/PR, </institution></institution-wrap>Curitiba, Paraná Brazil </aff>
+                <aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/041akq887</institution-id><institution-id institution-id-type="GRID">grid.411237.2</institution-id><institution-id institution-id-type="ISNI">0000 0001 2188 7235</institution-id><institution>Department of Dentistry, </institution><institution>Division of Endodontics, Federal University of Santa Catarina – UFSC, </institution></institution-wrap>Florianópolis, Santa Catarina Brazil </aff>
+                <aff id="Aff8"><label>8</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04gsp2c11</institution-id><institution-id institution-id-type="GRID">grid.1011.1</institution-id><institution-id institution-id-type="ISNI">0000 0004 0474 1797</institution-id><institution>College of Medicine and Dentistry, </institution><institution>James Cook University – JCU, Smithfield, </institution></institution-wrap>Cairns, Australia </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>20</day>
+                <month>4</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>20</day>
+                <month>4</month>
+                <year>2024</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2024</year>
+              </pub-date>
+              <volume>24</volume>
+              <elocation-id>481</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>28</day>
+                  <month>12</month>
+                  <year>2023</year>
+                </date>
+                <date date-type="accepted">
+                  <day>4</day>
+                  <month>4</month>
+                  <year>2024</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2024</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Objectives</title>
+                  <p id="Par1">This prospective randomized multicenter clinical trial (PRMCT) investigated postoperative pain after single-visit root canal treatments in teeth affected by pulp necrosis (PN), and asymptomatic apical periodontitis (AAP) (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas) comparing different instruments' kinematics and apical instrumentation limits.</p>
+                </sec>
+                <sec>
+                  <title>Methods</title>
+                  <p id="Par2">Before chemomechanical preparation, 240 patients/teeth were randomly distributed into four groups (<italic>n</italic> = 60) according to the instruments' kinematics (rotary or reciprocating) and apical instrumentation limits (with or without intentional foraminal enlargement [IFE]). After that, specimens were submitted to the same irrigation and obturation techniques, and the patients were referred to undergo the definitive restorations. No medication was prescribed, but the patients were instructed to take either paracetamol (750 mg every 6 h for three days) or ibuprofen (600 mg every 6 h for three days) in pain cases. Postoperative pain incidence and levels were assessed at 24-, 48-, and 72 h following treatment completion according to a verbal rating scale (VRS) following a score. The Kolmogorov–Smirnov test was applied to assess the normality of the data. Mann–Whitney U, Chi-square, Friedman's ANOVA, and Friedman's multiple 2 to 2 comparison tests were employed to identify potential significant statistical differences among the variables in the study groups (<italic>P</italic> &lt; .05).</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p id="Par3">Significant statistical differences were only observed among the groups considering tooth, periradicular status, and the occurrence of overfilling (sealer extrusion) (<italic>P</italic> &lt; 0.00). Patients with teeth instrumented through rotary kinematics and without IFE experienced lower rates of postoperative pain; however, this difference was relevant only at 24 h (<italic>P</italic> &lt; 0.05).</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p id="Par4">Postoperative pain was lower after using a rotary file system (Profile 04) inserted up to the apical constriction (AC). However, this finding was just statistically meaningful at 24 h.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par5">This PRMCT was approved by the Human Research Ethics Committee of the Paranaense University – UNIPAR, Francisco Beltrão, PR, Brazil (CAAE. 46,774,621.6.0000.0109) on 02/09/2021. It was registered at The Brazilian Registry of Clinical Trials – ReBEC (RBR-3r967t) on 01/06/2023, was performed according to the Principles of the Helsinki Declaration and is reported following the Consolidated Standards of Reporting Trials Statement.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Apical instrumentation limit</kwd>
+                <kwd>Asymptomatic apical periodontitis</kwd>
+                <kwd>Root canal treatment</kwd>
+                <kwd>Instruments' kinematics</kwd>
+                <kwd>Intentional foraminal enlargement</kwd>
+                <kwd>Postoperative pain</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group>
+                  <funding-source>
+                    <institution>IMPORTANT INFORMATION: We would like to clarify that we did not receive any finantial support to conduct the present research. Therefore, we cannot pay for the fee generally charged by the BMC Oral Health. However, we are counting on your support and understanding.</institution>
+                  </funding-source>
+                </award-group>
+              </funding-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© BioMed Central Ltd., part of Springer Nature 2024</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par6">Root canal treatment is based on cleaning, shaping, and filling the root canal system (RCS) to maintain or restore the health of periapical tissues [<xref ref-type="bibr" rid="CR1">1</xref>]. Chemomechanical preparation [<xref ref-type="bibr" rid="CR2">2</xref>], and intracanal dressing [<xref ref-type="bibr" rid="CR3">3</xref>] (when used) are the main responsible for the disinfection process; nevertheless, the complete eradication of endodontic infection is unfeasible due to the following primary and synergic factors: i) the anatomical complexity of the RCS [<xref ref-type="bibr" rid="CR4">4</xref>], and; ii) the virulence and resistance of endodontic pathogens, mainly when they are organized in biofilms [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+              <p id="Par7">Efficient biomechanical preparation is only achieved by determining a correct apical limit, defined as the distance between two opposite external and internal points/surfaces. While the external point is located on the coronary surface, the internal point corresponds to the greatest depth reached by the endodontic files used during the root canal shaping [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>].</p>
+              <p id="Par8">Among the main factors associated with the endodontic prognosis, determining apical instrumentation limits close to the cement-dentin-canal junction plays a role in obtaining favorable outcomes [<xref ref-type="bibr" rid="CR7">7</xref>–<xref ref-type="bibr" rid="CR12">12</xref>]. Therefore, despite different philosophical trends [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR14">14</xref>], scientific evidence recommends the working length be set at 0.5–1.0 mm from the major apical foramina, i.e., at the apical constriction (AC). This recommendation is based on sound wound healing principles – the severance of the tissue in that area will create the smallest possible wound – the less tissue to heal, the better the cure [<xref ref-type="bibr" rid="CR7">7</xref>].</p>
+              <p id="Par9">However, microbiological analyses performed through molecular methods have revealed the existence of bacterial biofilms in the apical foramen (AF) [<xref ref-type="bibr" rid="CR5">5</xref>], which represents the main reason for investigating the effects of intentional foraminal enlargement (IFE) on the prognosis of endodontic therapy [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+              <p id="Par10">IFE consists of widening the AF using an endodontic file larger than the anatomic constriction at the foramen level or beyond [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>]. IFE aims to reduce bacterial content by eliminating contaminated cementum and dentin through the mechanical widening of the AF [<xref ref-type="bibr" rid="CR14">14</xref>]. This approach has been investigated in past studies, which signaled the possibility of a greater bacterial reduction in the foraminal region, potentially associated with improved endodontic prognosis. The available clinical evidence reports a success rate of up to 96% using this approach [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. Nonetheless, IFE may result in a more significant amount of debris being extruded [<xref ref-type="bibr" rid="CR20">20</xref>] – an undesirable event potentially associated with postoperative pain from the induction of a local inflammatory process influenced by several factors, such as irrigation solutions or techniques [<xref ref-type="bibr" rid="CR21">21</xref>], instrument's kinematics [<xref ref-type="bibr" rid="CR22">22</xref>], as well as apical instrumentation limits [<xref ref-type="bibr" rid="CR23">23</xref>].</p>
+              <p id="Par11">To date, no study has been performed to investigate the incidence and levels of postoperative pain after single-visit root canal treatments in teeth affected by pulp necrosis (PN), and asymptomatic apical periodontitis (AAP) (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas) comparing different instruments' kinematics (rotary or reciprocating) and apical instrumentation limits (with or without IFE). Accordingly, this prospective randomized multicenter clinical trial (PRMCT) was planned to investigate these factors. The null hypothesis established was that the instruments' kinematics and apical instrumentation limits would not affect the level and frequency of postoperative pain after single-visit root canal treatments in teeth with the clinical features described above.</p>
+            </sec>
+            <sec id="Sec2">
+              <title>Methods</title>
+              <p id="Par12">This PRMCT was approved by the Human Research Ethics Committee of the Paranaense University – UNIPAR, Francisco Beltrão, PR, Brazil (CAAE. 46,774,621.6.0000.0109) on 02/09/2021. It was registered at The Brazilian Registry of Clinical Trials – ReBEC (RBR-3r967t) on 01/06/2023, was performed according to the Principles of the Helsinki Declaration [<xref ref-type="bibr" rid="CR24">24</xref>], and is reported following the Consolidated Standards of Reporting Trials Statement [<xref ref-type="bibr" rid="CR25">25</xref>]. The patients received information about postoperative care, clinical and radiographic exams, and alternative treatment options. All of them (or caregivers for those under 18) were given details about the study and treatment protocol, and informed consent was obtained. Consent for publication was not applicable to this research.</p>
+              <sec id="Sec3">
+                <title>Sample size calculation</title>
+                <p id="Par13">The sample size for this research was determined after a pilot study, in which less than 5% of patients reported significant postoperative pain (acute, severe, or moderate) after the treatment. Considering a confidence level of 95% and a maximum margin of error of 5.5%, the proportion-sampling method determined a sample size of 240 patients/teeth (60 per group) [<xref ref-type="bibr" rid="CR26">26</xref>].</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Case selection</title>
+                <p id="Par14">This PRMCT was conducted on individuals aged 14 to 86 (mean ± SD = 40.39 ± 6.35) between July 2022 and July 2023. The adopted inclusion criteria were teeth affected by pulp necrosis, and AAP (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas), physiological periodontal probing depth (≤ 3 mm), previously submitted to the endodontic access, and subsequently referred for root canal treatment. As all teeth had been previously open, the diagnosis of PN was based on the following criteria/information/signs: i) all the referral letters provided by the indicators showed this diagnosis (PN); ii) some teeth presented chronic apical periodontitis visible radiographically; iii) all teeth presented negative responses to the cold (EndoIce, Coltene/Whaledent Inc., Cuyahoga Falls, Ohio, United States) and electric pulp tests (Diagnostic Unit, Sybron Endo, Orange, United States of America), and; iv) all treated teeth present complete absence of bleeding during the treatment. Exclusion criteria concerning personal, behavioral, emotional, and systemic conditions of the patients were: recent use of anti-inflammatories, analgesics, or antibiotics; presence of trismus and systemic diseases; intolerance to the use of non-steroidal anti-inflammatory drugs; lack of cooperation, and pregnancy. Exclusion criteria considering odontogenic factors were: teeth affected by root resorptions, associated with sinus tracts, presenting periodontal compromise (probing depth &gt; 3 mm), previously traumatized, incorrectly positioned (malocclusion), and under occlusal trauma [<xref ref-type="bibr" rid="CR26">26</xref>]. Each patient had only one tooth included in the study. Four experienced endodontists performed the treatments in specialized clinics following a previously written descriptive protocol for each study group [<xref ref-type="bibr" rid="CR27">27</xref>].</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Randomization, allocation concealment of the instrumentation systems, and pretreatment instructions</title>
+                <p id="Par15">The randomization process was done using a table created by the Sealed Envelope™ software (<ext-link ext-link-type="uri" xlink:href="http://www.sealedenvelope.com">www.sealedenvelope.com</ext-link> – Exmouth House, London, UK). The task was carried out by an investigator not involved in the present research. A list of 240 numbers was prepared and distributed into three blocks (80 per group). First, each number corresponding to a study group was placed in a numbered, opaque, and sealed envelope. When a patient was deemed eligible, the envelope was opened before the root canal treatment to determine the necessary clinical procedures. This way, the four clinicians performed 15 root canal treatments that composed the specimens of each study group (n. 60), totaling 240 patients/teeth (total sample). Based on the previously stated inclusion and exclusion criteria, Fig. <xref rid="Fig1" ref-type="fig">1</xref> exposes the study flow chart.<fig id="Fig1"><label>Fig. 1</label><caption><p>Study flowchart</p></caption><graphic xlink:href="12903_2024_4225_Fig1_HTML" id="MO1"/></fig></p>
+              </sec>
+              <sec id="Sec6">
+                <title>Treatment protocol</title>
+                <p id="Par16">Following clinical and radiographic examinations of each patient, the tooth was anesthetized using 2% mepivacaine with epinephrine 1:100.000 (Mepiadre; DFL Indústria e Comércio S.A., Rio de Janeiro, RJ, Brazil). After placing and disinfecting the rubber dam, the temporary restoration was removed using nos. 1014 or 1016 HL burs (KG Sorensen, Barueri, SP, Brazil). After reaching the pulp chamber, 5 mL of 2.5% sodium hypochlorite (NaOCl) (Fórmula &amp; Ação, São Paulo, SP, Brazil) was used for irrigation by using a NaviTip 31 G needle (Ultradent, South Jordan, UT, United States of America). Initial exploration of the root canal was performed with no. 10 or 15 K-FlexoFiles (Dentsply-Maillefer, Ballaigues, Switzerland). The cervical and middle thirds were prepared with Gates-Glidden drills (Dentsply-Maillefer) activated by an endodontic electric motor (X-Smart Plus, Dentsply-Maillefer) at 800 rpm. Before the chemomechanical preparation, anatomical diameters of the AF and AC were identified through K-FlexoFiles in ascending order to plan and establish similar apical preparation sizes regardless of the study groups (Tables <xref rid="Tab1" ref-type="table">1</xref> and <xref rid="Tab2" ref-type="table">2</xref>).
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Study groups</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Group</th><th align="left">Protocols</th></tr></thead><tbody><tr><td align="left">I</td><td align="left">Chemomechanical preparation with a rotary motion by using Profile 04 system files (Dentsply-Maillefer) driven by the X-Smart Plus electric motor (Dentsply-Maillefer) at 300 rpm with a torque setting of 2 N.cm, with a slow in-and-out pecking motion that did not exceed 3–4 mm in amplitude, according to the crown-down philosophy without IFE, i.e., the apical limit was established around the AC (-0.5 mm from the AF identified by the apex locator<sup>a</sup> as 0.0 mm). A 2.5 mL aliquot of 2.5% NaOCl was used as an irrigating solution at each file use or change, applied with a NaviTip 31 G needle (Ultradent) up to 5 mm short of the AF. The same amount of NaOCl was used for each canal (40 mL)</td></tr><tr><td align="left">II</td><td align="left">The exact specifications described for Group I, but with IFE, i.e., the apical limit was established at 0.5 mm beyond the AF (identified by the apex locator<sup>a</sup> as 0.0 mm)</td></tr><tr><td align="left">III</td><td align="left">Chemomechanical preparation with a reciprocating motion by using Reciproc system files (VDW) driven by the X-Smart Plus electric motor (Dentsply-Maillefer), with a slow in-and-out pecking motion that did not exceed 3–4 mm in amplitude without IFE, i.e., the apical limit was established around the AC (-0.5 mm from the AF identified by the apex locator<sup>a</sup> as 0.0 mm). A 2.5 mL aliquot of 2.5% NaOCl was used as an irrigating solution at each file use or change, applied with a NaviTip 31 G needle (Ultradent) up to 5 mm short of the AF. The same amount of NaOCl was used for each canal (40 mL)</td></tr><tr><td align="left">IV</td><td align="left">The exact specifications described for Group III, but with IFE, i.e., the apical limit was established at 0.5 mm beyond the AF (identified by the apex locator<sup>a</sup> as 0.0 mm)</td></tr></tbody></table><table-wrap-foot><p><sup><italic>a</italic></sup><italic>Root ZX (J Morita, Tokyo, Japan)</italic></p></table-wrap-foot></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>The chemomechanical preparation planning for the study groups</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left"><bold>Group I</bold></th><th align="left" colspan="2"><bold>Group II</bold></th><th align="left"><bold>Group III</bold></th><th align="left" colspan="2"><bold>Group IV</bold></th></tr></thead><tbody><tr><td align="left"><bold>Approximate size of the AC/AF before the chemomechanical preparation (corresponding to the manual FlexoFile number)</bold></td><td align="left"><p><bold>The final file used around the AC</bold></p><p><bold>(-0.5 mm from the AF) (tip/taper)</bold></p></td><td align="left"><p><bold>The final file used at 0.5 mm beyond</bold></p><p><bold>the AF (tip/taper)</bold></p></td><td align="left"><bold>Approximate size of AC after the chemomechanical preparation</bold></td><td align="left"><p><bold>The final file used around the AC</bold></p><p><bold>(-0.5 mm from the AF) (tip/taper)</bold></p></td><td align="left"><p><bold>The final file used at 0.5 mm beyond</bold></p><p><bold>the AF (tip/taper)</bold></p></td><td align="left"><bold>Approximate size of AC after the chemomechanical preparation</bold></td></tr><tr><td align="left">10/12</td><td align="left">25/04</td><td align="left">25/04</td><td align="left">29</td><td align="left">25/08</td><td align="left">25/08</td><td align="left">33</td></tr><tr><td align="left">15/17</td><td align="left">40/04</td><td align="left">40/04</td><td align="left">44</td><td align="left">40/06</td><td align="left">40/06</td><td align="left">46</td></tr><tr><td align="left">20/22</td><td align="left">40/04</td><td align="left">40/04</td><td align="left">44</td><td align="left">40/06</td><td align="left">40/06</td><td align="left">46</td></tr><tr><td align="left">25/27</td><td align="left">50/04</td><td align="left">50/04</td><td align="left">54</td><td align="left">50/05</td><td align="left">50/05</td><td align="left">55</td></tr><tr><td align="left">30/32</td><td align="left">50/04</td><td align="left">50/04</td><td align="left">54</td><td align="left">50/05</td><td align="left">50/05</td><td align="left">55</td></tr></tbody></table></table-wrap></p>
+                <p id="Par17">After chemomechanical preparation, the root canals were irrigated with 3 mL of 17% EDTA (Fórmula &amp; Ação) for 3 min, followed by a final rinse with 5 mL of saline solution by using a NaviTip 31 G needle (Ultradent), inserted up to 5 mm from the AF, and dried with absorbent paper points (Dentsply-Maillefer).</p>
+                <p id="Par18">For the root canal filling, the main gutta-percha cone corresponding to the master apical file was calibrated and stabilized at the AC and 1.5 mm from the AF for G1 and G3 and G2 and G4, respectively. This strategy was based on the greater possibility of gutta-percha extravasation to the periradicular tissues, considering the IFE had been carried out in teeth from G2 and G4.</p>
+                <p id="Par19">After confirming the radiographic obturation limit, the main gutta-percha cone was coated with a zinc oxide-based sealer (Endofill, Dentsply Indústria e Comércio Ltda., Pirassununga, SP, Brazil), inserted into the root canal, and submitted to the thermocompaction process (Tagger's hybrid technique). After cleaning the pulp chamber, the following steps were conducted: i) provisional restoration of endodontic access with a temporary restorative material (Cavitec, Caitech, São José dos Pinhais, PR, Brazil); ii) occlusal adjustment (wholly taken out of occlusion); iii) final periapical radiography, and iv) referral of patients to perform definitive restoration. No medication was prescribed; however, the patients were instructed to take either 750 mg of paracetamol or 600 mg of ibuprofen every 6 h for three days in pain cases [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Analysis of postoperative pain</title>
+                <p id="Par20">A dental assistant not involved in the treatment procedures contacted each patient by phone 24-, 48-, and 72 h post-treatment to assess their pain, which was classified according to a verbal rating scale (VRS) following a score (Table <xref rid="Tab3" ref-type="table">3</xref>) [<xref ref-type="bibr" rid="CR29">29</xref>]. The collected information was entered into a spreadsheet.
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>The scoring system based on a verbal rating scale used in the study</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Score</th><th align="left">Pain</th><th align="left">Features</th></tr></thead><tbody><tr><td align="left">0</td><td align="left">No pain</td><td align="left">No discomfort or pain</td></tr><tr><td align="left">1</td><td align="left">Slight pain</td><td align="left">The patient could be distracted from feeling pain, and no analgesia was required</td></tr><tr><td align="left">2</td><td align="left">Moderate pain</td><td align="left">The patient felt moderate pain even while concentrating on some other activity, and an analgesic was required</td></tr><tr><td align="left">3</td><td align="left">Severe pain</td><td align="left">The patient could no longer perform any activity and needed to lie down and rest (analgesics had little or no effect on pain relief)</td></tr></tbody></table></table-wrap></p>
+              </sec>
+              <sec id="Sec8">
+                <title>Statistical analysis</title>
+                <p id="Par21">The Statistical Package for the Social Sciences Version 25.0 (SPSS Inc, Chicago, IL, United States of America) was used for the statistical analysis. The Kolmogorov–Smirnov test was applied to assess the normality of the data. Mann–Whitney U, Chi-square, Friedman's ANOVA, and Friedman's multiple 2 to 2 comparison tests were employed to identify potential significant statistical differences among the variables in the study groups (<italic>P</italic> &lt; 0.05) [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+              </sec>
+            </sec>
+            <sec id="Sec9">
+              <title>Results</title>
+              <p id="Par22">Clinical and demographic data from the patients/teeth that constituted the sample of the current PRMCT and their respective statistical analyses are exposed in Table <xref rid="Tab4" ref-type="table">4</xref>. Significative statistical differences among the groups were only observed considering tooth, periradicular status, and the incidence of overfilling (sealer extrusion) (<italic>P</italic> &lt; 0.00). Of 60 teeth of G3, 27 (45%) were first mandibular molars; meanwhile, in G1, G2, and G4, only 7 (11.7%), 8 (13.3%), and 5 (8.3%) first mandibular molars were present, respectively. Concerning periradicular status, in G1, 44 (73.3%) teeth showed AAP (with apical radiolucent areas). In G2, G3, and G4, 12 (20%), 40 (66.7%), and 27 (45%) teeth presented the same diagnosis in that order. Sealer extrusion (overfilling) happened in only 3 (5%) teeth from G1. In G2, G3, and G4, this event did occur in 24 (40%), 14 (23.3%), and 26 (43.3%) teeth, respectively.
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>Demographic and clinical data evaluated in the study considering the groups</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left" colspan="6"><bold>Groups</bold></th></tr><tr><th align="left"><bold>Variable</bold></th><th align="left"><bold>I (n. 60)</bold></th><th align="left"><bold>II (n. 60)</bold></th><th align="left"><bold>III (n. 60)</bold></th><th align="left"><bold>IV (n. 60)</bold></th><th align="left"><bold>Total (n. 240)</bold></th><th align="left"><bold><italic>P</italic></bold><bold> value</bold></th></tr></thead><tbody><tr><td align="left"><bold>Age (mean ± standard deviation)</bold></td><td align="left">40.6 ± 18.29<sup>a</sup></td><td align="left">38.48 ± 16.49<sup>a</sup></td><td align="left">41.37 ± 15.30<sup>a</sup></td><td align="left">41.10 ± 15.4<sup>a</sup></td><td align="left">40.39 ± 16.35<sup>a</sup></td><td align="left" rowspan="4">0.76</td></tr><tr><td align="left">  &lt; 30 years-old (n. / % considering the age / % considering the group)</td><td align="left">22 / 27.8% / 36.7%<sup>a</sup></td><td align="left">20 / 25.3% / 33.3%<sup>a</sup></td><td align="left">16 / 20.3% / 26.7%<sup>a</sup></td><td align="left">21 / 26.6% / 35%<sup>a</sup></td><td align="left">79 / 100% / 32.9%<sup>a</sup></td></tr><tr><td align="left">  ≥ 30 and ≤ 50 years-old (n. / % considering the age / % considering the group)</td><td align="left">22 / 25% / 36.7%<sup>a</sup></td><td align="left">22 / 25% / 36.7%<sup>a</sup></td><td align="left">28 / 31.8% / 46.7%<sup>a</sup></td><td align="left">16 / 18.2% / 26.7%<sup>a</sup></td><td align="left">88 / 100% / 36.7%<sup>a</sup></td></tr><tr><td align="left">  ≥ 50 years-old (n. / % considering the age / % considering the group)</td><td align="left">16 / 21.9% / 26.7%<sup>a</sup></td><td align="left">18 / 24.7% / 30%<sup>a</sup></td><td align="left">16 / 21.9% / 26.7%<sup>a</sup></td><td align="left">23 / 31.5% / 38.3%<sup>a</sup></td><td align="left">73 / 100% / 30.4%<sup>a</sup></td></tr><tr><td align="left"> Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td><td align="left"/></tr><tr><td align="left"><bold>Gender</bold></td><td align="left" colspan="6"/></tr><tr><td align="left"> Male (n. / % considering the gender / % considering the group)</td><td align="left">27 / 26.7% / 45%<sup>a</sup></td><td align="left">28 / 27.7% / 46.7%<sup>a</sup></td><td align="left">22 / 21.8% / 36.7%<sup>a</sup></td><td align="left">24 / 23.8% / 40%<sup>a</sup></td><td align="left">101 / 100% / 42.1%<sup>a</sup></td><td align="left" rowspan="2">0.66</td></tr><tr><td align="left"> Female (n. / % considering the gender / % considering the group)</td><td align="left">33 / 23.7% / 55%<sup>a</sup></td><td align="left">32 / 23% / 53.3%<sup>a</sup></td><td align="left">38 / 27.3% / 63.3%<sup>a</sup></td><td align="left">36 / 25.9% / 60%<sup>a</sup></td><td align="left">139 / 100% / 57.9%<sup>a</sup></td></tr><tr><td align="left"> Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%<sup>a</sup></td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td><td align="left"/></tr><tr><td align="left" colspan="7"><bold>Teeth</bold></td></tr><tr><td align="left"> Lower canine (n. / % considering the tooth / % considering the group)</td><td align="left">1 / 14.3% / 1.7%ª</td><td align="left">0 / 0% / 0%ª</td><td align="left">2 / 28.6% / 3.3%ª</td><td align="left">4 / 57.1% / 6.7%ª</td><td align="left">7 / 100% / 2.9%</td><td align="left" rowspan="14"><bold> &lt; 0.00</bold></td></tr><tr><td align="left"> Upper canine (n. / % considering the tooth / % considering the group)</td><td align="left">5 / 45.5% / 8.3%ª</td><td align="left">3 / 27.3% / 5%ª</td><td align="left">2 / 18.2% / 3.3%ª</td><td align="left">1 / 9.1% / 1.7%ª</td><td align="left">11 / 100% / 4.6%</td></tr><tr><td align="left"> Lower central incisor (n. / % considering the tooth / % considering the group)</td><td align="left">2 / 25% / 3.3%ª</td><td align="left">4 / 50% / 6.7%ª</td><td align="left">0 / 0% / 0%ª</td><td align="left">2 / 25% / 3.3%ª</td><td align="left">8 / 100% / 3.3%</td></tr><tr><td align="left"> Upper central incisor (n. / % considering the tooth / % considering the group)</td><td align="left">6 / 35.3% / 10%ª</td><td align="left">7 / 41.2% / 11.7%ª</td><td align="left">1 / 5.9% / 1.7%ª</td><td align="left">3 / 17.6% / 5%ª</td><td align="left">17 / 100% / 7.1%</td></tr><tr><td align="left"> Lower lateral incisor (n. / % considering the tooth / % considering the group)</td><td align="left">1 / 12.5% / 1.7%ª</td><td align="left">1 / 12.5% / 1.7%ª</td><td align="left">4 / 50% / 6.7%ª</td><td align="left">2 / 25% / 3.3%ª</td><td align="left">8 / 100% / 3.3%</td></tr><tr><td align="left"> Upper lateral incisor (n. / % considering the tooth / % considering the group)</td><td align="left">6 / 66.7% / 10%ª</td><td align="left">1 / 11.1% / 1.7%ª</td><td align="left">1 / 11.1% / 1.7%ª</td><td align="left">1 / 11.1% / 1.7%ª</td><td align="left">9 / 100% / 3.8%</td></tr><tr><td align="left"><bold>Mandibular first molar (n. / % considering the tooth / % considering the group)</bold></td><td align="left">7 / 14.9% / 11.7%ª</td><td align="left">8 / 17% / 13.3%ª</td><td align="left"><bold>27 / 57.4% / 45%</bold><sup><bold>b</bold></sup></td><td align="left">5 / 10.6% / 8.3%ª</td><td align="left">47 / 100% / 19.6%</td></tr><tr><td align="left"> Maxillary first molar (n. / % considering the tooth / % considering the group)</td><td align="left">11 / 40.7% / 18.3%ª</td><td align="left">5 / 18.5% / 8.3%ª</td><td align="left">5 / 18.5% / 8.3%ª</td><td align="left">6 / 22.2% / 10%ª</td><td align="left">27 / 100% / 11.3%</td></tr><tr><td align="left"> Mandibular first premolar (n. / % considering the tooth / % considering the group)</td><td align="left">2 / 12.5% / 3.3%ª</td><td align="left">2 / 12.5% / 3.3%ª</td><td align="left">2 / 12.5% / 3.3%ª</td><td align="left">10 / 62.5% / 16.7%ª</td><td align="left">16 / 100% / 6.7%</td></tr><tr><td align="left"> Maxillary first premolar (n. / % considering the tooth / % considering the group)</td><td align="left">1 / 5.9% / 1.7%ª</td><td align="left">6 / 35.3% / 10.0%ª</td><td align="left">7 / 41.2% / 11.7%ª</td><td align="left">3 / 17.6% / 5.0%ª</td><td align="left">17 / 100% / 7.1%</td></tr><tr><td align="left"> Lower second molar (n. / % considering the tooth / % considering the group)</td><td align="left">6 / 42.9% / 10%ª</td><td align="left">1 / 7.1% / 1.7%ª</td><td align="left">4 / 28.6% / 6.7%ª</td><td align="left">3 / 21.4% / 5%ª</td><td align="left">14 / 100% / 5.8%</td></tr><tr><td align="left"> Maxillary second molar (n. / % considering the tooth / % considering the group)</td><td align="left">4 / 30.8% / 6.7%ª</td><td align="left">4 / 30.8% / 6.7%ª</td><td align="left">1 / 7.7% / 1.7%ª</td><td align="left">4 / 30.8% / 6.7%ª</td><td align="left">13 / 100% / 5.4%</td></tr><tr><td align="left"><bold>Lower second premolar (n. / % considering the tooth / % considering the group)</bold></td><td align="left">5 / 19.2% / 8.3%<sup>a.b</sup></td><td align="left">7 / 26.9% / 11.7%<sup>a.b</sup></td><td align="left"><bold>1 / 3.8% / 1.7%</bold><sup><bold>b</bold></sup></td><td align="left">13 / 50% / 21.7%<sup>a</sup></td><td align="left">26 / 100% / 10.8%</td></tr><tr><td align="left"> Maxillary second premolar (n. / % considering the tooth / % considering the group)</td><td align="left">3 / 15% / 5%<sup>a</sup></td><td align="left">11 / 55% / 18.3%<sup>a</sup></td><td align="left">3 / 15% / 5%<sup>a</sup></td><td align="left">3 / 15% / 5%<sup>a</sup></td><td align="left">20 / 100% / 8.3%</td></tr><tr><td align="left"> Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td><td align="left"/></tr><tr><td align="left" colspan="7"><bold>Periradicular status</bold></td></tr><tr><td align="left"> AAP with apical radiolucent areas  (n. / % of this periradicular status considering each tooth / % of this periradicular status considering the group</td><td align="left"><bold>44 / 35.8% / 73.3%ª</bold></td><td align="left">12 / 9.8% / 20%<sup>b</sup></td><td align="left">40 / 32.5% / 66.7%<sup>a.c</sup></td><td align="left">27 / 22% / 45%<sup>c</sup></td><td align="left">123 / 100% / 51.3%</td><td align="left" rowspan="2"><bold> &lt; 0.00</bold></td></tr><tr><td align="left"> AAP with normal periradicular tissues (without apical radiolucent areas)  (n. / % of this periradicular status considering each tooth / % of this periradicular status considering the group</td><td align="left"><bold>16 / 13.7% / 26.7%ª</bold></td><td align="left">48 / 41% / 80%<sup>b</sup></td><td align="left">20 / 17.1% / 33.3%<sup>a.c</sup></td><td align="left">33 / 28.2% / 55.0%<sup>c</sup></td><td align="left">117 / 100% / 48.8%</td></tr><tr><td align="left"> Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td><td align="left"/></tr><tr><td align="left" colspan="7"><bold>Overfilling/sealer extrusion</bold></td></tr><tr><td align="left"> Yes (n. / % of overfilling/sealer extrusion considering all the teeth / % of overfilling/sealer extrusion considering the group)</td><td align="left"><bold>3 / 4.5% / 5%</bold><sup><bold>a</bold></sup></td><td align="left">24 / 35.8% / 40%<sup>b</sup></td><td align="left">14 / 20.9% / 23.3%<sup>b</sup></td><td align="left">26 / 38.8% / 43.3%<sup>b</sup></td><td align="left">67 / 100% / 27.9%</td><td align="left" rowspan="2"><bold> &lt; 0.00</bold></td></tr><tr><td align="left"> No (n. / % of overfilling/sealer extrusion considering all the teeth / % of overfilling/sealer extrusion considering the group)</td><td align="left"><bold>57 / 32.9% / 95%ª</bold></td><td align="left">36 / 20.8% / 60%<sup>b</sup></td><td align="left">46 / 26.6% / 76.7%<sup>b</sup></td><td align="left">34 / 19.7% / 56.7%<sup>b</sup></td><td align="left">173 / 100% / 72.1%</td></tr><tr><td align="left"> Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td><td align="left"/></tr></tbody></table><table-wrap-foot><p><italic>- The p-value (P</italic> &lt; <italic>0.05) provided by the Chi-Square Test indicates dependence between the two variables</italic></p><p><italic>- Different letters in the columns indicate a statistically significant difference between the columns for each category proved by the p-value</italic> &lt; <italic>0.05) provided by the Z test of differences between two proportions with Bonferroni correction</italic></p></table-wrap-foot></table-wrap></p>
+              <p id="Par23">All patients (<italic>n</italic> = 240) could be evaluated during the three time frames (24-, 48-, and 72 h). Considering the incidence and degree of postoperative pain, G1 presented the lower levels; however, this difference was just observed at 24 h (<italic>P</italic> &lt; 0.05). No significant differences were observed among the groups at 48 and 72 h (<italic>P</italic> ˃ 0.05) (Table <xref rid="Tab5" ref-type="table">5</xref>).
+<table-wrap id="Tab5"><label>Table 5</label><caption><p>Pain levels considering the groups and time frames</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" colspan="2"/><th align="left" colspan="4"><bold>Groups</bold></th><th align="left"/><th align="left"/></tr><tr><th align="left"><bold>Time</bold></th><th align="left"><bold>Pain level</bold></th><th align="left"><bold>I</bold></th><th align="left"><bold>II</bold></th><th align="left"><bold>III</bold></th><th align="left"><bold>IV</bold></th><th align="left"><bold>Total</bold></th><th align="left"><bold><italic>P</italic></bold><bold> value</bold></th></tr></thead><tbody><tr><td align="left" rowspan="5"><bold>24 h</bold></td><td align="left">None (n. / % according to the pain score / % regarding the group)</td><td align="left">52 / 31%/ 86.7%<sup>a</sup></td><td align="left">43 / 25.6% / 71.7%<sup>a.b</sup></td><td align="left">38 / 22.6% / 63.3%<sup>b</sup></td><td align="left">35 / 20.8% / 58.3%<sup>b</sup></td><td align="left">168 / 100% / 70%</td><td align="left" rowspan="5">0.02</td></tr><tr><td align="left">Mild (n. / % according to pain score / % regarding group)</td><td align="left">7/ 15.6% / 11.7%ª</td><td align="left">8 / 17.8% / 13.3%ª</td><td align="left">14 / 31.1% / 23.3%ª</td><td align="left">16 / 35.6% / 26.7%ª</td><td align="left">45 / 100% / 18.8%</td></tr><tr><td align="left">Moderate (n. / % according to the pain score / % regarding the group)</td><td align="left">1/ 5.3% / 1.7%ª</td><td align="left">7 / 36.8% / 11.7%ª</td><td align="left">5 / 26.3% / 8.3%ª</td><td align="left">6 / 31.6% / 10%ª</td><td align="left">19 / 100% / 7.9%</td></tr><tr><td align="left">Acute/Severe (n. / % according to the pain score / % regarding the group)</td><td align="left">0 / 0% / 0%ª</td><td align="left">2 / 25% / 3.3%ª</td><td align="left">3 / 37.5% / 5.0%ª</td><td align="left">3 / 37.5% / 5%ª</td><td align="left">8 / 100% / 3.3%</td></tr><tr><td align="left">Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td></tr><tr><td align="left" rowspan="5"><bold>48 h</bold></td><td align="left">None (n. / % according to the pain score / % regarding the group)</td><td align="left">55 / 27.2% / 91.7%ª</td><td align="left">46 / 22.8% / 76.7%ª</td><td align="left">51 / 25.2% / 85%ª</td><td align="left">50 / 24.8% / 83.3%ª</td><td align="left">202 / 100% / 84.2%</td><td align="left" rowspan="5">0.49</td></tr><tr><td align="left">Mild (n. / % according to pain score / % regarding the group)</td><td align="left">5 / 20% / 8.3%ª</td><td align="left">9 / 36% / 15%ª</td><td align="left">5 / 20% / 8.3%ª</td><td align="left">6 / 24% / 10%ª</td><td align="left">25 / 100% / 10.4%</td></tr><tr><td align="left">Moderate (n. / % according to the pain score / % regarding the group)</td><td align="left">0 / 0% / 0%ª</td><td align="left">4 / 36.4% / 6.7%ª</td><td align="left">4 / 36.4% / 6.7%ª</td><td align="left">3 / 27.3% / 5%ª</td><td align="left">11 / 100% / 4.6%</td></tr><tr><td align="left">Acute/Severe (n. / % according to the pain score / % regarding the group)</td><td align="left">0 / 0% / 0%ª</td><td align="left">1 / 50% / 1.7%ª</td><td align="left">0 / 0% / 0%ª</td><td align="left">1 / 50% / 1.7%ª</td><td align="left">2 / 100% / 0.8%</td></tr><tr><td align="left">Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td></tr><tr><td align="left" rowspan="5"><bold>72 h</bold></td><td align="left">None (n. / % according to the pain score / % regarding the group)</td><td align="left">57 / 26.3% / 95%ª</td><td align="left">53 / 24.4% / 88.3%ª</td><td align="left">55 / 25.3% / 91.7%ª</td><td align="left">52 / 24% / 86.7%ª</td><td align="left">217 / 100% / 90.4%</td><td align="left" rowspan="5">0.27</td></tr><tr><td align="left">Mild (n. / % according to pain score / % regarding group)</td><td align="left">3 / 20% / 5%ª</td><td align="left">3 / 20% / 5%ª</td><td align="left">2 / 13.3% / 3.3%ª</td><td align="left">7 / 46.7% / 11.7%ª</td><td align="left">15 / 100% / 6.3%</td></tr><tr><td align="left">Moderate (n. / % according to the pain score / % regarding the group)</td><td align="left">0 / 0% / 0%ª</td><td align="left">3 / 42.9% / 5%ª</td><td align="left">3 / 42.9% / 5%ª</td><td align="left">1 / 14.3% / 1.7%ª</td><td align="left">7 / 100% / 2.9%</td></tr><tr><td align="left">Acute/Severe (n. / % according to the pain score / % regarding the group)</td><td align="left">0 / 0% / 0%ª</td><td align="left">1 / 100% / 1.7%ª</td><td align="left">0 / 0% / 0.0%ª</td><td align="left">0 / 0% / 0%ª</td><td align="left">1 / 100% / 0.4%</td></tr><tr><td align="left">Total</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">60 / 25% / 100%</td><td align="left">240 / 100% / 100%</td></tr></tbody></table><table-wrap-foot><p>- The <italic>p</italic>-value (<italic>P</italic> &lt; 0.05) provided by the Chi-Square Test indicates dependence between the two variables</p><p>- Different letters in the columns indicate a statistically significant difference between the columns for each category proved by the <italic>p</italic>-value &lt; 0.05) provided by the Z test of differences between two proportions with Bonferroni correction</p></table-wrap-foot></table-wrap></p>
+            </sec>
+            <sec id="Sec10">
+              <title>Discussion</title>
+              <p id="Par24">It has been suggested that the physical trauma caused by using fine instruments to unblock the AF during chemomechanical preparation (apical patency) would not be enough to drive or increase postoperative pain [<xref ref-type="bibr" rid="CR31">31</xref>]. On the other hand, the procedure cannot effectively provide the disinfection of the AF or in its vicinity [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR26">26</xref>], thus arousing a great interest of researchers about IFE. However, IFE may predispose to postoperative pain due to a virtually more significant apical extrusion of debris [<xref ref-type="bibr" rid="CR20">20</xref>]. Since postoperative pain is a multifactorial event, this PRMCT was sought to investigate the levels and incidence of postoperative pain after single-visit root canal treatments performed in teeth affected by PN, and AAP (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas), comparing different instruments' kinematics (rotary or reciprocating) and apical instrumentation limits (with or without IFE). The null hypothesis was rejected because statistically significant differences were identified among the groups, whereas G1 presented lower pain levels 24 h after the treatments were concluded.</p>
+              <p id="Par25">The study of the frequency and severity of postoperative pain after root canal treatment can be challenging due to the complexity of the matter [<xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR33">33</xref>], so thorough methodological planning is crucial. After establishing the variables and hypothesis to be investigated and the number of treated patients needed to provide reliable results after performing the current PRMCT, it was concluded that it would be essential to identify the profile of patients of professionals responsible for carrying out the treatments. These professionals unanimously stated that most patients referred by their indicators presented teeth previously submitted to the endodontic access. Therefore, adopting this inclusion criterion would drastically optimize the time required to complete the investigation. Furthermore, including specimens previously submitted or not to endodontic access would represent a significant methodological bias since the coronary opening itself represents an important step towards reducing the bacterial load present in the RCS due to the removal of the pulp tissue from the pulp chamber, which is normally widely infected and, therefore, could strongly influence in the occurrence and intensity of postoperative pain. Accordingly, only patients with teeth previously submitted to endodontic access constituted the sample. With the same objective of controlling the occurrence of biases, only symptom-free patients were included to ensure accurate results, as preoperative pain has been found to predict postoperative pain [<xref ref-type="bibr" rid="CR34">34</xref>]. Therefore, previous research has reported that multiple- and single-visit root canal treatments have shown similar incidences and levels of postoperative pain [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>] and healing of periapical tissues [<xref ref-type="bibr" rid="CR36">36</xref>]. Nonetheless, in the present investigation, the treatments were carried out in a single session to reduce the number of clinical procedures and variables, such as intracanal dressing, which could compromise the analysis and reliability of the results [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR37">37</xref>].</p>
+              <p id="Par26">Various methods have been used to mensurate pain following root canal treatment, such as visual analog scales (VAS) [<xref ref-type="bibr" rid="CR28">28</xref>, <xref ref-type="bibr" rid="CR38">38</xref>], (VRS) [<xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR40">40</xref>], or both [<xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR42">42</xref>]. Regardless of the method, it is essential to have an effective manner to ensure the patients can fully comprehend the questions and that the researchers can easily interpret the responses obtained [<xref ref-type="bibr" rid="CR43">43</xref>]. A scoring system was used in this study to categorize the pain that patients experienced, based on a VRS, as follows: no pain, slight pain, moderate pain, and severe pain. The patients understood the categories, and this strategy is highly consolidated in the scientific literature [<xref ref-type="bibr" rid="CR39">39</xref>, <xref ref-type="bibr" rid="CR40">40</xref>].</p>
+              <p id="Par27">Overall, the postoperative pain scores were low, with only one patient from G2 (1.7%) reporting acute/severe pain 72 h after the treatment. Machado et al. [<xref ref-type="bibr" rid="CR26">26</xref>] observed similar results using the same instrumentation system used herein for G2 (Profile 04) to conduct large intentional foraminal enlargement (LIFE) during chemomechanical preparation. The same root canal filling protocol was carried out compared to the current research, and only one patient (1.66%) reported acute/severe pain 72 h after the treatment. No patient has reported severe pain after 72 h in G3 and G4. According to Cruz Junior et al. [<xref ref-type="bibr" rid="CR28">28</xref>], to ensure thorough disinfection of the apical third while minimizing the risk of debris being extruded with a reciprocating system (Reciproc), it is essential to use plenty of irrigation and perform frequent recapitulation of the root canal preparation. The same care was established during the treatments performed in this research to avoid an equivalent adverse event. This and the following clinical and therapeutic strategies likely were the main ones responsible for the general low occurrence and intensity of postoperative pain observed in this PRMCT: i) only teeth with PN were included in the sample; ii) all teeth were submitted to occlusal adjustment at the end of the root canal treatment, and; iii) regarding the irrigation protocol, the amount of irrigating solution used was considerable, and the tip of the irrigation needle was inserted into the canal only to a safe depth (-5 mm from the AF) to prevent the extravasation of the irrigation solutions to the periapical tissues [<xref ref-type="bibr" rid="CR39">39</xref>], and; iv) experienced operators were responsible by conducting the treatments [<xref ref-type="bibr" rid="CR28">28</xref>].</p>
+              <p id="Par28">Moderate pain was reported by 8, 4, and 3 patients and by 11, 7, and 4 patients after 24-, 48-, and 72 h for rotary (G1 and G2) and reciprocating (G3 and G4) groups, respectively. Therefore, there was a trend for decreasing postoperative pain over time. However, paired analyses showed a statistically significant difference only between 24 and 72 h for the groups submitted to the rotary (G1 and G2) and reciprocating (G3 and G4) kinematics. These findings are consistent with those obtained by a prospective, randomized, double-blinded clinical trial performed by Shokraneh et al. [<xref ref-type="bibr" rid="CR44">44</xref>] and a systematic review and meta-analysis conducted by Pak and White [<xref ref-type="bibr" rid="CR45">45</xref>].</p>
+              <p id="Par29">Nonetheless, Yaylali et al. [<xref ref-type="bibr" rid="CR37">37</xref>] noted increased pain in teeth that underwent IFE 48 h after the treatment. This conflicting outcome could be due to the variations in the methodological designs between the studies. In the study by Yaylali et al. [<xref ref-type="bibr" rid="CR37">37</xref>], root canal treatment was only performed on molars with PN and AAP. Chemomechanical preparation was conducted using the ProTaper Next system (Dentsply-Maillefer) after establishing the working length (WL) at the AF or 1 mm short from this measurement. In addition, the irrigation protocol consisted of a 2.5% NaOCl solution using a Max-I-Probe needle up to 2 mm from the WL, and a VAS was used to address the prevalence and levels of postoperative pain. The authors did not mention the estimated size of the AF. In the present PRMCT, anterior and posterior teeth diagnosed with PN, and AAP (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas) were treated; nonetheless, before the chemomechanical preparation, anatomical diameters of the AF and AC were identified with the aim of planning and establishing similar apical preparation sizes regardless of the study group. Therefore, the chemomechanical preparation was conducted with 2.5% NaOCl employing a NaviTip needle inserted up to 5 mm short of the AF. Afterward, postoperative pain was assessed using a VRS.</p>
+              <p id="Par30">Based on the methodological design established to carry out this investigation, there were no significant statistical differences considering the instrumentation’s kinematics evaluated. These findings contrast with the study performed by Nekoofar et al. [<xref ref-type="bibr" rid="CR46">46</xref>], which showed a lower difference in postoperative pain levels between patients treated with a rotary system (ProTaper Universal) and those treated with a reciprocating system (WaveOne). This disparity might be explained by relevant methodological differences observed in the study by Nekoofar et al. [<xref ref-type="bibr" rid="CR46">46</xref>] and the current PRMCT, respectively, such as the diagnosis (irreversible pulpitis <italic>versus</italic> PN), irrigating solution (chlorhexidine <italic>versus</italic> NaOCl), systems used during chemomechanical preparation (ProTaper Universal/WaveOne <italic>versus</italic> Profile 04/Reciproc), apical instrumentation limits (0.5 mm short from the AF <italic>versus</italic> 0.5 mm short or beyond this point), the use of intracanal dressing (with <italic>versus</italic> without), the sealer and filling technique (AH 26/lateral compaction <italic>versus</italic> Endofill/Tagger's hybrid technique), and the methods used for the analysis of the postoperative pain (numerical rating scale <italic>versus</italic> VRS).</p>
+              <p id="Par31">About the limitations of the present study, although PRMCTs are placed at the top of the “hierarchical scientific pyramid” used to classify different types of research according to the scientific power based on their methodological planning and design, some of the features of PRMCTs may lead to biased results. In the current study, significant statistical differences among the groups were only observed considering tooth, periradicular status, and the incidence of overfilling (sealer extrusion). From 60 teeth comprising each group's sample, in G3, 27 (45%) were mandibular first molars. In G1, G2, and G4, only 7 (11.7%), 8 (13.3%), and 5 (8.3%) mandibular first molars were present, respectively. Therefore, considering the anatomical complexity that may have influenced these results is a reasonable hypothesis. Concerning periradicular status, in G1, 44 (73.3%) teeth showed AAP (with apical radiolucent areas). In G2, G3, and G4, 12 (20%), 40 (66.7%), and 27 (45%) teeth presented the same diagnosis in that order. Since the presence of a periapical lesion represents the chronicity of an inflammatory process, the more significant number of teeth with AAP (with apical radiolucent areas) in G1 may have contributed to the lower incidence and levels of postoperative pain observed in this group. Sealer extrusion (overfilling) happened in only 3 (5%) teeth from G1. In G2, G3, and G4, this event did occur in 24 (40%), 14 (23.3%), and 26 (43.3%) teeth, respectively. Considering that higher rates of postoperative pain have already been associated with the use and extravasation of zinc oxide and eugenol-based sealers [<xref ref-type="bibr" rid="CR47">47</xref>], the lower incidence of this event in the teeth of G1 may also have contributed to the lower incidence and levels of postoperative observed in this group.</p>
+              <p id="Par32">Still about the limitations of the current scientific investigation, someone could say that it did not only compare two but three parameters capable of influencing the postoperative pain after endodontic treatments performed in teeth with PN, and AAP (with apical radiolucent areas) or normal periradicular tissues (without apical radiolucent areas) (kinematics, apical limit, and number of files used during the chemomechanical preparation). Thus, the latter factor could also have influenced the results presented herein. However, some reflections based on the results of well-planned previous research are essential. Silva et al. [<xref ref-type="bibr" rid="CR48">48</xref>] investigated the amount of apically extruded debris produced by two full rotary systems (ProTaper Universal and ProTaper Next) compared to two single file reciprocating systems (WaveOne and Reciproc) after large apical preparations by using sixty mandibular premolars with a single canal, randomly assigned into four groups (n. 15). The ProTaper Universal system was associated with significantly more debris than the others (<italic>P</italic> &lt; 0.05). No significant differences were found between ProTaper Next, WaveOne, and Reciproc systems (<italic>P</italic> &gt; 0.05). De-Deus et al. [<xref ref-type="bibr" rid="CR49">49</xref>] conducted a study to evaluate the amount of dentin debris quantitatively extruded from the apical foramen by comparing the full sequence of the ProTaper Universal system with the single-file ProTaper F2 used in reciprocating kinematics. Thirty mesial roots of lower molars were selected, and different instrumentation techniques resulted in 3 groups (n. 10 each). In G1, a crown-down hand-file technique was used, and in G2, a full sequence of the ProTaper Universal system was used. In G3, the ProTaper F2 file was used in a reciprocating motion. The apical preparation was equivalent to a 25 ISO size file. No significant difference was found in the amount of debris extruded between the full sequence of the ProTaper Universal system and the single-file ProTaper (F2) used in reciprocating kinematics (<italic>P</italic> &gt; 0.05). In contrast, the hand instrumentation group extruded significantly more debris than both NiTi groups (<italic>P</italic> &lt; 0.05). A prospective, parallel, randomized clinical trial conducted by Saber et al. [<xref ref-type="bibr" rid="CR50">50</xref>], aimed to assess the effect of instrumentation kinematics (reciprocation [Wave One Gold] or continuous rotation [One Shape]) on bacterial reduction, postoperative pain, and incidence of flare-ups after root canal treatment of single-rooted mandibular premolars with AAP. Sixty-six patients were included in the study and were randomly allocated into two groups (n. 33) according to the studied systems. Under complete asepsis, bacterial samples were taken before (S1) and after (S2) a standard cleaning and shaping protocol. The bacterial reduction was evaluated using the culture technique and quantitative real-time polymerase chain reaction (qPCR) analysis. Postoperative pain was assessed using a VAS after 24-, 48-, and 72 h following treatment, while flare-ups were recorded and analyzed as a dichotomic variable (yes/no). The comparison between culture and qPCR methods showed that qPCR analysis demonstrated significantly higher pre-instrumentation baseline bacterial count (<italic>P</italic> &lt; 0.05). The percentage of bacterial reduction, detected by either method, significantly decreased after instrumentation using both rotation and reciprocation kinematics (<italic>P</italic> &lt; 0.05). However, the difference between the Wave One Gold and One Shape files was statistically non-significant (<italic>P</italic> &gt; 0.05). The intra-group comparisons showed a significant reduction in postoperative pain with time (<italic>P</italic> &lt; 0.05) for both groups. However, the inter-group comparison demonstrated that the difference in postoperative pain after the use of both systems was statistically non-significant (<italic>P</italic> &gt; 0.05). The same occurred with the incidence of flare-ups (<italic>P</italic> = 1).</p>
+              <p id="Par33">There is common sense that associates the extrusion of debris with postoperative pain in necrotic teeth, and IFE could contribute to that. However, Machado et al. [<xref ref-type="bibr" rid="CR51">51</xref>] conducted a systematic review and meta-analysis to assess whether IFE was responsible for extruding more debris from extracted human teeth with fully formed apexes. Following the recommendations of Preferred Reporting Items for Systematic Review and Meta-Analysis – PRISMA, electronic and manual searches were performed to identify studies that evaluated the extrusion of debris, comparing different apical limits of instrumentation (with/without IFE). The quality of the studies selected was evaluated, and statistical analysis was conducted. Just three papers could be used to perform the meta-analysis. The heterogeneity was high, and the general risk of bias was moderate. However, there was no statistically significant difference in the extrusion of debris in teeth either submitted or not submitted to IFE.</p>
+              <p id="Par34">Despite the <italic>status quo</italic> established around the subject, a careful and critical analysis is needed to analyze the association between the extrusion of debris and postoperative pain in Endodontics. Different instruments, kinematics, materials, substances, techniques, and apical limits should be studied. However, following Elmsallati et al. [<xref ref-type="bibr" rid="CR52">52</xref>], besides the quantity of debris, the type and virulence of bacteria bound to debris and the resistance of host tissue are essential factors to be considered in this context. Therefore, the understanding that postoperative pain after endodontic procedures is a complex and extrinsic multifactorial phenomenon must be considered in future studies.</p>
+            </sec>
+            <sec id="Sec11">
+              <title>Conclusion</title>
+              <p id="Par35">According to the main findings of this PRMCT, postoperative pain was lower when the chemomechanical preparation was carried out using a rotary file system (Profile 04) inserted up to the AC. However, this finding was just statistically relevant at 24 h (<italic>P</italic> &lt; 0.05). No significant differences were observed among the groups at 48 and 72 h.</p>
+            </sec>
+          </body>
+          <back>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>Not applicable.</p>
+              <sec id="FPar1">
+                <title>Informed consent</title>
+                <p id="Par36">The patients received information about postoperative care, clinical and radiographic exams, and alternative treatment options. All of them (or caregivers for those under 18) were given details about the study and treatment protocol, and informed consent was obtained.</p>
+              </sec>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>R.M: conceptualization; data curation; investigation; methodology; resources; software; validation; visualization; writing—original draft. G.M: data curation; investigation; methodology; resources; software. D.C: data curation; investigation; methodology; resources; software. A.P.B: writing—original draft. J.N: writing—writing—original draft. C.C.R.F: formal analysis; visualization; writing—review and editing. S.A.I: formal analysis; investigation; methodology; software; validation, visualization. L.F.R.G: formal analysis; visualization; writing—review and editing. R.R.A: formal analysis; visualization; writing—review and editing. D. S: formal analysis; visualization; writing—review and editing. U.X.S.N: formal analysis; project administration; supervision; validation; visualization; writing—review and editing.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>The authors declare that no financial support has been received for this study.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The datasets used and/or analyzed during the current study are available from the corresponding author upon reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar2">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par37">This PRMCT was approved by the Human Research Ethics Committee of the Paranaense University – UNIPAR, Francisco Beltrão, PR, Brazil (CAAE. 46774621.6.0000.0109) on 02/09/2021. It was registered at The Brazilian Registry of Clinical Trials – ReBEC (RBR-3r967t) on 01/06/2023, was performed according to the principles of the Helsinki Declaration [<xref ref-type="bibr" rid="CR24">24</xref>] and is reported following the Consolidated Standards of Reporting Trials Statement [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+              </notes>
+              <notes id="FPar3">
+                <title>Consent for publication</title>
+                <p id="Par38">Not applicable.</p>
+              </notes>
+              <notes id="FPar4" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par39">The authors declare no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gulabivala</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Ng</surname>
+                      <given-names>YL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors that affect the outcomes of root canal treatment and retreatment-A reframing of the principles</article-title>
+                  <source>Int Endod J</source>
+                  <year>2023</year>
+                  <volume>56</volume>
+                  <issue>Suppl 2</issue>
+                  <fpage>82</fpage>
+                  <lpage>115</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.13897</pub-id>
+                  <?supplied-pmid 36710532?>
+                  <pub-id pub-id-type="pmid">36710532</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <mixed-citation publication-type="other">Burklein S, Arias A: Effectiveness of root canal instrumentation for the treatment of apical periodontitis: A systematic review and meta-analysis. Int Endod J 2022.</mixed-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ordinola-Zapata</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Noblett</surname>
+                      <given-names>WC</given-names>
+                    </name>
+                    <name>
+                      <surname>Perez-Ron</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ye</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Vera</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Present status and future directions of intracanal medicaments</article-title>
+                  <source>Int Endod J</source>
+                  <year>2022</year>
+                  <volume>55 Suppl 3</volume>
+                  <issue>Suppl 3</issue>
+                  <fpage>613</fpage>
+                  <lpage>636</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.13731</pub-id>
+                  <?supplied-pmid 35322427?>
+                  <pub-id pub-id-type="pmid">35322427</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Martins</surname>
+                      <given-names>JNR</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Silva</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Carames</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Versiani</surname>
+                      <given-names>MA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalence Studies on Root Canal Anatomy Using Cone-beam Computed Tomographic Imaging: A Systematic Review</article-title>
+                  <source>J Endod</source>
+                  <year>2019</year>
+                  <volume>45</volume>
+                  <issue>4</issue>
+                  <fpage>372</fpage>
+                  <lpage>386e374</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2018.12.016</pub-id>
+                  <?supplied-pmid 30833097?>
+                  <pub-id pub-id-type="pmid">30833097</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Siqueira</surname>
+                      <given-names>JF</given-names>
+                      <suffix>Jr</suffix>
+                    </name>
+                    <name>
+                      <surname>Rocas</surname>
+                      <given-names>IN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Present status and future directions: Microbiology of endodontic infections</article-title>
+                  <source>Int Endod J</source>
+                  <year>2022</year>
+                  <volume>55</volume>
+                  <issue>Suppl 3</issue>
+                  <fpage>512</fpage>
+                  <lpage>530</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.13677</pub-id>
+                  <?supplied-pmid 34958494?>
+                  <pub-id pub-id-type="pmid">34958494</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ricucci</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Apical limit of root canal instrumentation and obturation, part 1 Literature review</article-title>
+                  <source>Int Endod J</source>
+                  <year>1998</year>
+                  <volume>31</volume>
+                  <issue>6</issue>
+                  <fpage>384</fpage>
+                  <lpage>393</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2591.1998.00184.x</pub-id>
+                  <?supplied-pmid 15551606?>
+                  <pub-id pub-id-type="pmid">15551606</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ricucci</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Langeland</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Apical limit of root canal instrumentation and obturation, part 2 A histological study</article-title>
+                  <source>Int Endod J</source>
+                  <year>1998</year>
+                  <volume>31</volume>
+                  <issue>6</issue>
+                  <fpage>394</fpage>
+                  <lpage>409</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2591.1998.00183.x</pub-id>
+                  <?supplied-pmid 15551607?>
+                  <pub-id pub-id-type="pmid">15551607</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Dadresanfar</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Rotstein</surname>
+                      <given-names>I</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Outcome of Endodontic Treatment: The Most Cited Publications</article-title>
+                  <source>J Endod</source>
+                  <year>2021</year>
+                  <volume>47</volume>
+                  <issue>12</issue>
+                  <fpage>1865</fpage>
+                  <lpage>1874</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2021.09.007</pub-id>
+                  <?supplied-pmid 34562500?>
+                  <pub-id pub-id-type="pmid">34562500</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Seltzer</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bender</surname>
+                      <given-names>IB</given-names>
+                    </name>
+                    <name>
+                      <surname>Turkenkopf</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors Affecting Successful Repair after Root Canal Therapy</article-title>
+                  <source>J Am Dent Assoc</source>
+                  <year>1963</year>
+                  <volume>67</volume>
+                  <fpage>651</fpage>
+                  <lpage>662</lpage>
+                  <pub-id pub-id-type="doi">10.14219/jada.archive.1963.0349</pub-id>
+                  <?supplied-pmid 14054365?>
+                  <pub-id pub-id-type="pmid">14054365</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sjogren</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Figdor</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Persson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Sundqvist</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of infection at the time of root filling on the outcome of endodontic treatment of teeth with apical periodontitis</article-title>
+                  <source>Int Endod J</source>
+                  <year>1997</year>
+                  <volume>30</volume>
+                  <issue>5</issue>
+                  <fpage>297</fpage>
+                  <lpage>306</lpage>
+                  <pub-id pub-id-type="doi">10.1046/j.1365-2591.1997.00092.x</pub-id>
+                  <?supplied-pmid 9477818?>
+                  <pub-id pub-id-type="pmid">9477818</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sjogren</surname>
+                      <given-names>U</given-names>
+                    </name>
+                    <name>
+                      <surname>Hagglund</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Sundqvist</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Wing</surname>
+                      <given-names>K</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors affecting the long-term results of endodontic treatment</article-title>
+                  <source>J Endod</source>
+                  <year>1990</year>
+                  <volume>16</volume>
+                  <issue>10</issue>
+                  <fpage>498</fpage>
+                  <lpage>504</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0099-2399(07)80180-4</pub-id>
+                  <?supplied-pmid 2084204?>
+                  <pub-id pub-id-type="pmid">2084204</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Swartz</surname>
+                      <given-names>DB</given-names>
+                    </name>
+                    <name>
+                      <surname>Skidmore</surname>
+                      <given-names>AE</given-names>
+                    </name>
+                    <name>
+                      <surname>Griffin</surname>
+                      <given-names>JA</given-names>
+                      <suffix>Jr</suffix>
+                    </name>
+                  </person-group>
+                  <article-title>Twenty years of endodontic success and failure</article-title>
+                  <source>J Endod</source>
+                  <year>1983</year>
+                  <volume>9</volume>
+                  <issue>5</issue>
+                  <fpage>198</fpage>
+                  <lpage>202</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0099-2399(83)80092-2</pub-id>
+                  <?supplied-pmid 6574207?>
+                  <pub-id pub-id-type="pmid">6574207</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Borlina</surname>
+                      <given-names>SC</given-names>
+                    </name>
+                    <name>
+                      <surname>de Souza</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Holland</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Murata</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                    <name>
+                      <surname>Gomes-Filho</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                    <name>
+                      <surname>Dezan Junior</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Marion</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Neto Ddos</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of apical foramen widening and sealer on the healing of chronic periapical lesions induced in dogs' teeth</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2010</year>
+                  <volume>109</volume>
+                  <issue>6</issue>
+                  <fpage>932</fpage>
+                  <lpage>940</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.tripleo.2010.01.028</pub-id>
+                  <?supplied-pmid 20451847?>
+                  <pub-id pub-id-type="pmid">20451847</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>de Souza Filho</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Benatti</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>de Almeida</surname>
+                      <given-names>OP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of the enlargement of the apical foramen in periapical repair of contaminated teeth of dog</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol</source>
+                  <year>1987</year>
+                  <volume>64</volume>
+                  <issue>4</issue>
+                  <fpage>480</fpage>
+                  <lpage>484</lpage>
+                  <pub-id pub-id-type="doi">10.1016/0030-4220(87)90157-5</pub-id>
+                  <?supplied-pmid 3477772?>
+                  <pub-id pub-id-type="pmid">3477772</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brandao</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>de Figueiredo</surname>
+                      <given-names>JAP</given-names>
+                    </name>
+                    <name>
+                      <surname>Morgental</surname>
+                      <given-names>RD</given-names>
+                    </name>
+                    <name>
+                      <surname>Scarparo</surname>
+                      <given-names>RK</given-names>
+                    </name>
+                    <name>
+                      <surname>Hartmann</surname>
+                      <given-names>RC</given-names>
+                    </name>
+                    <name>
+                      <surname>Waltrick</surname>
+                      <given-names>SBG</given-names>
+                    </name>
+                    <name>
+                      <surname>Souza</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Influence of foraminal enlargement on the healing of periapical lesions in rat molars</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2019</year>
+                  <volume>23</volume>
+                  <issue>4</issue>
+                  <fpage>1985</fpage>
+                  <lpage>1991</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-018-2628-2</pub-id>
+                  <?supplied-pmid 30386994?>
+                  <pub-id pub-id-type="pmid">30386994</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abada</surname>
+                      <given-names>HM</given-names>
+                    </name>
+                    <name>
+                      <surname>Hashem</surname>
+                      <given-names>AAR</given-names>
+                    </name>
+                    <name>
+                      <surname>Abu-Seida</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Nagy</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of changing apical foramen diameter on regenerative potential of mature teeth with necrotic pulp and apical periodontitis</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2022</year>
+                  <volume>26</volume>
+                  <issue>2</issue>
+                  <fpage>1843</fpage>
+                  <lpage>1853</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-021-04159-1</pub-id>
+                  <?supplied-pmid 34480644?>
+                  <pub-id pub-id-type="pmid">34480644</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Benatti</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Valdrighi</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Biral</surname>
+                      <given-names>RR</given-names>
+                    </name>
+                    <name>
+                      <surname>Pupo</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A histological study of the effect of diameter enlargement of the apical portion of the root canal</article-title>
+                  <source>J Endod</source>
+                  <year>1985</year>
+                  <volume>11</volume>
+                  <issue>10</issue>
+                  <fpage>428</fpage>
+                  <lpage>434</lpage>
+                  <pub-id pub-id-type="doi">10.1016/S0099-2399(85)80080-7</pub-id>
+                  <?supplied-pmid 3865987?>
+                  <pub-id pub-id-type="pmid">3865987</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <mixed-citation publication-type="other">Bourreau MLSF, M. R. S, Mota MJ. B. B., Zaia AA, de Lima CO, Prado M, Soares AJ. Evaluation of single visit endodontic treatment and non-surgical retreatment with foraminal enlargment of teeth with apical periodontitis. Rev Bras Odontol 2020, 77.</mixed-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Eyuboglu</surname>
+                      <given-names>TF</given-names>
+                    </name>
+                    <name>
+                      <surname>Olcay</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Erkan</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Ozcan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Radiographic and Clinical Findings of Single-Visit Root Canal Treatments with Apical Enlargement in Necrotic Teeth: A Retrospective Cohort Study</article-title>
+                  <source>Biomed Res Int</source>
+                  <year>2020</year>
+                  <volume>2020</volume>
+                  <fpage>7912638</fpage>
+                  <pub-id pub-id-type="doi">10.1155/2020/7912638</pub-id>
+                  <?supplied-pmid 33062699?>
+                  <pub-id pub-id-type="pmid">33062699</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tinaz</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Alacam</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Uzun</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Maden</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Kayaoglu</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The effect of disruption of apical constriction on periapical extrusion</article-title>
+                  <source>J Endod</source>
+                  <year>2005</year>
+                  <volume>31</volume>
+                  <issue>7</issue>
+                  <fpage>533</fpage>
+                  <lpage>535</lpage>
+                  <pub-id pub-id-type="doi">10.1097/01.don.0000152294.35507.35</pub-id>
+                  <?supplied-pmid 15980716?>
+                  <pub-id pub-id-type="pmid">15980716</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Adam</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Wootton</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Conventional vs ultrasonic irrigation - which leads to less post-operative pain?</article-title>
+                  <source>Evid Based Dent</source>
+                  <year>2022</year>
+                  <volume>23</volume>
+                  <issue>2</issue>
+                  <fpage>50</fpage>
+                  <lpage>51</lpage>
+                  <pub-id pub-id-type="doi">10.1038/s41432-022-0274-7</pub-id>
+                  <?supplied-pmid 35750723?>
+                  <pub-id pub-id-type="pmid">35750723</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Martins</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>De Souza Batista</surname>
+                      <given-names>VE</given-names>
+                    </name>
+                    <name>
+                      <surname>Andolfatto Souza</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Andrada</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <name>
+                      <surname>Mori</surname>
+                      <given-names>GG</given-names>
+                    </name>
+                    <name>
+                      <surname>Gomes Filho</surname>
+                      <given-names>JE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Reciprocating kinematics leads to lower incidences of postoperative pain than rotary kinematics after endodontic treatment: A systematic review and meta-analysis of randomized controlled trial</article-title>
+                  <source>J Conserv Dent</source>
+                  <year>2019</year>
+                  <volume>22</volume>
+                  <issue>4</issue>
+                  <fpage>320</fpage>
+                  <lpage>331</lpage>
+                  <pub-id pub-id-type="doi">10.4103/JCD.JCD_439_18</pub-id>
+                  <?supplied-pmid 31802813?>
+                  <pub-id pub-id-type="pmid">31802813</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Borges Silva</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Guimaraes</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kuchler</surname>
+                      <given-names>EC</given-names>
+                    </name>
+                    <name>
+                      <surname>Antunes</surname>
+                      <given-names>LAA</given-names>
+                    </name>
+                    <name>
+                      <surname>Antunes</surname>
+                      <given-names>LS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of Effect of Foraminal Enlargement of Necrotic Teeth on Postoperative Symptoms: A Systematic Review and Meta-analysis</article-title>
+                  <source>J Endod</source>
+                  <year>2017</year>
+                  <volume>43</volume>
+                  <issue>12</issue>
+                  <fpage>1969</fpage>
+                  <lpage>1977</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2017.07.014</pub-id>
+                  <?supplied-pmid 29033088?>
+                  <pub-id pub-id-type="pmid">29033088</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <mixed-citation publication-type="other">General Assembly of the World Medical A: World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. J Am Coll Dent 2014, 81(3):14-18.</mixed-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moher</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Hopewell</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Schulz</surname>
+                      <given-names>KF</given-names>
+                    </name>
+                    <name>
+                      <surname>Montori</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Gotzsche</surname>
+                      <given-names>PC</given-names>
+                    </name>
+                    <name>
+                      <surname>Devereaux</surname>
+                      <given-names>PJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Elbourne</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Egger</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Altman</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Consolidated Standards of Reporting Trials G: CONSORT 2010 Explanation and Elaboration: Updated guidelines for reporting parallel group randomised trials</article-title>
+                  <source>J Clin Epidemiol</source>
+                  <year>2010</year>
+                  <volume>63</volume>
+                  <issue>8</issue>
+                  <fpage>e1</fpage>
+                  <lpage>37</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jclinepi.2010.03.004</pub-id>
+                  <?supplied-pmid 20346624?>
+                  <pub-id pub-id-type="pmid">20346624</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Comparin</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Ignacio</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>da Silva Neto</surname>
+                      <given-names>UX</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Postoperative pain after endodontic treatment of necrotic teeth with large intentional foraminal enlargement</article-title>
+                  <source>Restor Dent Endod</source>
+                  <year>2021</year>
+                  <volume>46</volume>
+                  <issue>3</issue>
+                  <fpage>e31</fpage>
+                  <pub-id pub-id-type="doi">10.5395/rde.2021.46.e31</pub-id>
+                  <?supplied-pmid 34513637?>
+                  <pub-id pub-id-type="pmid">34513637</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Xavier</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Zuolo</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Nevares</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Kherlakian</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Velozo</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>de Albuquerque</surname>
+                      <given-names>D</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Postoperative Pain after Use of the WaveOne Gold and XP-endo Shaper Systems: A Randomized Clinical Trial</article-title>
+                  <source>J Endod</source>
+                  <year>2021</year>
+                  <volume>47</volume>
+                  <issue>10</issue>
+                  <fpage>1550</fpage>
+                  <lpage>1556</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2021.06.013</pub-id>
+                  <?supplied-pmid 34171356?>
+                  <pub-id pub-id-type="pmid">34171356</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cruz Junior</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Coelho</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Kato</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                    <name>
+                      <surname>Vivacqua-Gomes</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Fontana</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                    <name>
+                      <surname>Rocha</surname>
+                      <given-names>DG</given-names>
+                    </name>
+                    <name>
+                      <surname>da Silveira Bueno</surname>
+                      <given-names>CE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Effect of Foraminal Enlargement of Necrotic Teeth with the Reciproc System on Postoperative Pain: A Prospective and Randomized Clinical Trial</article-title>
+                  <source>J Endod</source>
+                  <year>2016</year>
+                  <volume>42</volume>
+                  <issue>1</issue>
+                  <fpage>8</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2015.09.018</pub-id>
+                  <?supplied-pmid 26549220?>
+                  <pub-id pub-id-type="pmid">26549220</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pasqualini</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>Mollo</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Scotti</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Cantatore</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Castellucci</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Migliaretti</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Berutti</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Postoperative pain after manual and mechanical glide path: a randomized clinical trial</article-title>
+                  <source>J Endod</source>
+                  <year>2012</year>
+                  <volume>38</volume>
+                  <issue>1</issue>
+                  <fpage>32</fpage>
+                  <lpage>36</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2011.09.017</pub-id>
+                  <?supplied-pmid 22152616?>
+                  <pub-id pub-id-type="pmid">22152616</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pagano</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Gauvreau</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Mattie</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <source>Principles of biostatistics</source>
+                  <year>2022</year>
+                  <publisher-loc>Third edition. edn. Boca Raton</publisher-loc>
+                  <publisher-name>CRC Press</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Abdulrab</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodrigues</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Al-Maweri</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Halboub</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Alqutaibi</surname>
+                      <given-names>AY</given-names>
+                    </name>
+                    <name>
+                      <surname>Alhadainy</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of Apical Patency on Postoperative Pain: A Meta-analysis</article-title>
+                  <source>J Endod</source>
+                  <year>2018</year>
+                  <volume>44</volume>
+                  <issue>10</issue>
+                  <fpage>1467</fpage>
+                  <lpage>1473</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2018.07.011</pub-id>
+                  <?supplied-pmid 30170845?>
+                  <pub-id pub-id-type="pmid">30170845</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sun</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Sun</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Tan</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hu</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Gao</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Song</surname>
+                      <given-names>J</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pain after root canal treatment with different instruments: A systematic review and meta-analysis</article-title>
+                  <source>Oral Dis</source>
+                  <year>2018</year>
+                  <volume>24</volume>
+                  <issue>6</issue>
+                  <fpage>908</fpage>
+                  <lpage>919</lpage>
+                  <pub-id pub-id-type="doi">10.1111/odi.12854</pub-id>
+                  <?supplied-pmid 29516592?>
+                  <pub-id pub-id-type="pmid">29516592</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nagendrababu</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Gutmann</surname>
+                      <given-names>JL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Factors associated with postobturation pain following single-visit nonsurgical root canal treatment: A systematic review</article-title>
+                  <source>Quintessence Int</source>
+                  <year>2017</year>
+                  <volume>48</volume>
+                  <issue>3</issue>
+                  <fpage>193</fpage>
+                  <lpage>208</lpage>
+                  <?supplied-pmid 27669726?>
+                  <pub-id pub-id-type="pmid">27669726</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Riaz</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Maxood</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Abdullah</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Saba</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Din</surname>
+                      <given-names>SU</given-names>
+                    </name>
+                    <name>
+                      <surname>Zahid</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of frequency of post-obturation pain of single versus multiple visit root canal treatment of necrotic teeth with infected root canals. A Randomized Controlled Trial</article-title>
+                  <source>J Pak Med Assoc</source>
+                  <year>2018</year>
+                  <volume>68</volume>
+                  <issue>10</issue>
+                  <fpage>1429</fpage>
+                  <lpage>1433</lpage>
+                  <?supplied-pmid 30317336?>
+                  <pub-id pub-id-type="pmid">30317336</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wong</surname>
+                      <given-names>AW</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Li</surname>
+                      <given-names>SK</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhu</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Chu</surname>
+                      <given-names>CH</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Incidence of post-obturation pain after single-visit versus multiple-visit non-surgical endodontic treatments</article-title>
+                  <source>BMC Oral Health</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <fpage>96</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12903-015-0082-y</pub-id>
+                  <?supplied-pmid 26272704?>
+                  <pub-id pub-id-type="pmid">26272704</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paredes-Vieyra</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Enriquez</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Success rate of single- versus two-visit root canal treatment of teeth with apical periodontitis: a randomized controlled trial</article-title>
+                  <source>J Endod</source>
+                  <year>2012</year>
+                  <volume>38</volume>
+                  <issue>9</issue>
+                  <fpage>1164</fpage>
+                  <lpage>1169</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2012.05.021</pub-id>
+                  <?supplied-pmid 22892729?>
+                  <pub-id pub-id-type="pmid">22892729</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yaylali</surname>
+                      <given-names>IE</given-names>
+                    </name>
+                    <name>
+                      <surname>Teke</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Tunca</surname>
+                      <given-names>YM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Effect of Foraminal Enlargement of Necrotic Teeth with a Continuous Rotary System on Postoperative Pain: A Randomized Controlled Trial</article-title>
+                  <source>J Endod</source>
+                  <year>2017</year>
+                  <volume>43</volume>
+                  <issue>3</issue>
+                  <fpage>359</fpage>
+                  <lpage>363</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2016.11.009</pub-id>
+                  <?supplied-pmid 28231975?>
+                  <pub-id pub-id-type="pmid">28231975</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Graunaite</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Skucaite</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Lodiene</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Agentiene</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Machiulskiene</surname>
+                      <given-names>V</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of Resin-based and Bioceramic Root Canal Sealers on Postoperative Pain: A Split-mouth Randomized Controlled Trial</article-title>
+                  <source>J Endod</source>
+                  <year>2018</year>
+                  <volume>44</volume>
+                  <issue>5</issue>
+                  <fpage>689</fpage>
+                  <lpage>693</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2018.02.010</pub-id>
+                  <?supplied-pmid 29571915?>
+                  <pub-id pub-id-type="pmid">29571915</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Relvas</surname>
+                      <given-names>JB</given-names>
+                    </name>
+                    <name>
+                      <surname>Bastos</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Marques</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Garrido</surname>
+                      <given-names>AD</given-names>
+                    </name>
+                    <name>
+                      <surname>Sponchiado</surname>
+                      <given-names>EC</given-names>
+                      <suffix>Jr</suffix>
+                    </name>
+                  </person-group>
+                  <article-title>Assessment of postoperative pain after reciprocating or rotary NiTi instrumentation of root canals: a randomized, controlled clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2016</year>
+                  <volume>20</volume>
+                  <issue>8</issue>
+                  <fpage>1987</fpage>
+                  <lpage>1993</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-015-1692-0</pub-id>
+                  <?supplied-pmid 26685850?>
+                  <pub-id pub-id-type="pmid">26685850</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cicek</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Kocak</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Kocak</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Saglam</surname>
+                      <given-names>BC</given-names>
+                    </name>
+                    <name>
+                      <surname>Turker</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Postoperative pain intensity after using different instrumentation techniques: a randomized clinical study</article-title>
+                  <source>J Appl Oral Sci</source>
+                  <year>2017</year>
+                  <volume>25</volume>
+                  <issue>1</issue>
+                  <fpage>20</fpage>
+                  <lpage>26</lpage>
+                  <pub-id pub-id-type="doi">10.1590/1678-77572016-0138</pub-id>
+                  <?supplied-pmid 28198972?>
+                  <pub-id pub-id-type="pmid">28198972</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Farzaneh</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Parirokh</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Nakhaee</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Abbott</surname>
+                      <given-names>PV</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Effect of two different concentrations of sodium hypochlorite on postoperative pain following single-visit root canal treatment: a triple-blind randomized clinical trial</article-title>
+                  <source>Int Endod J</source>
+                  <year>2018</year>
+                  <volume>51</volume>
+                  <issue>Suppl 1</issue>
+                  <fpage>e2</fpage>
+                  <lpage>e11</lpage>
+                  <?supplied-pmid 28134983?>
+                  <pub-id pub-id-type="pmid">28134983</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Attar</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Bowles</surname>
+                      <given-names>WR</given-names>
+                    </name>
+                    <name>
+                      <surname>Baisden</surname>
+                      <given-names>MK</given-names>
+                    </name>
+                    <name>
+                      <surname>Hodges</surname>
+                      <given-names>JS</given-names>
+                    </name>
+                    <name>
+                      <surname>McClanahan</surname>
+                      <given-names>SB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Evaluation of pretreatment analgesia and endodontic treatment for postoperative endodontic pain</article-title>
+                  <source>J Endod</source>
+                  <year>2008</year>
+                  <volume>34</volume>
+                  <issue>6</issue>
+                  <fpage>652</fpage>
+                  <lpage>655</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2008.02.017</pub-id>
+                  <?supplied-pmid 18498882?>
+                  <pub-id pub-id-type="pmid">18498882</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arias</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Azabal</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Hidalgo</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>de la Macorra</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Relationship between postendodontic pain, tooth diagnostic factors, and apical patency</article-title>
+                  <source>J Endod</source>
+                  <year>2009</year>
+                  <volume>35</volume>
+                  <issue>2</issue>
+                  <fpage>189</fpage>
+                  <lpage>192</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2008.11.014</pub-id>
+                  <?supplied-pmid 19166770?>
+                  <pub-id pub-id-type="pmid">19166770</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Shokraneh</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Ajami</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Farhadi</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Hosseini</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Rohani</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Postoperative endodontic pain of three different instrumentation techniques in asymptomatic necrotic mandibular molars with periapical lesion: a prospective, randomized, double-blind clinical trial</article-title>
+                  <source>Clin Oral Investig</source>
+                  <year>2017</year>
+                  <volume>21</volume>
+                  <issue>1</issue>
+                  <fpage>413</fpage>
+                  <lpage>418</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s00784-016-1807-2</pub-id>
+                  <?supplied-pmid 27041109?>
+                  <pub-id pub-id-type="pmid">27041109</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Pak</surname>
+                      <given-names>JG</given-names>
+                    </name>
+                    <name>
+                      <surname>White</surname>
+                      <given-names>SN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Pain prevalence and severity before, during, and after root canal treatment: a systematic review</article-title>
+                  <source>J Endod</source>
+                  <year>2011</year>
+                  <volume>37</volume>
+                  <issue>4</issue>
+                  <fpage>429</fpage>
+                  <lpage>438</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2010.12.016</pub-id>
+                  <?supplied-pmid 21419285?>
+                  <pub-id pub-id-type="pmid">21419285</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Nekoofar</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Sheykhrezae</surname>
+                      <given-names>MS</given-names>
+                    </name>
+                    <name>
+                      <surname>Meraji</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Jamee</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Shirvani</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Jamee</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Dummer</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of the effect of root canal preparation by using WaveOne and ProTaper on postoperative pain: a randomized clinical trial</article-title>
+                  <source>J Endod</source>
+                  <year>2015</year>
+                  <volume>41</volume>
+                  <issue>5</issue>
+                  <fpage>575</fpage>
+                  <lpage>578</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.joen.2014.12.026</pub-id>
+                  <?supplied-pmid 25720984?>
+                  <pub-id pub-id-type="pmid">25720984</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Khandelwal</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Jose</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Teja</surname>
+                      <given-names>KV</given-names>
+                    </name>
+                    <name>
+                      <surname>Palanivelu</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparative evaluation of postoperative pain and periapical healing after root canal treatment using three different base endodontic sealers - A randomized control clinical trial</article-title>
+                  <source>J Clin Exp Dent</source>
+                  <year>2022</year>
+                  <volume>14</volume>
+                  <issue>2</issue>
+                  <fpage>e144</fpage>
+                  <lpage>e152</lpage>
+                  <?supplied-pmid 35173897?>
+                  <pub-id pub-id-type="pmid">35173897</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Silva</surname>
+                      <given-names>EJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Carapia</surname>
+                      <given-names>MF</given-names>
+                    </name>
+                    <name>
+                      <surname>Lopes</surname>
+                      <given-names>RM</given-names>
+                    </name>
+                    <name>
+                      <surname>Belladonna</surname>
+                      <given-names>FG</given-names>
+                    </name>
+                    <name>
+                      <surname>Senna</surname>
+                      <given-names>PM</given-names>
+                    </name>
+                    <name>
+                      <surname>Souza</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>De-Deus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Comparison of apically extruded debris after large apical preparations by full-sequence rotary and single-file reciprocating systems</article-title>
+                  <source>Int Endod J</source>
+                  <year>2016</year>
+                  <volume>49</volume>
+                  <issue>7</issue>
+                  <fpage>700</fpage>
+                  <lpage>705</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.12503</pub-id>
+                  <?supplied-pmid 26174577?>
+                  <pub-id pub-id-type="pmid">26174577</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>De-Deus</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Brandao</surname>
+                      <given-names>MC</given-names>
+                    </name>
+                    <name>
+                      <surname>Barino</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Di Giorgi</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Fidel</surname>
+                      <given-names>RA</given-names>
+                    </name>
+                    <name>
+                      <surname>Luna</surname>
+                      <given-names>AS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessment of apically extruded debris produced by the single-file ProTaper F2 technique under reciprocating movement</article-title>
+                  <source>Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>
+                  <year>2010</year>
+                  <volume>110</volume>
+                  <issue>3</issue>
+                  <fpage>390</fpage>
+                  <lpage>394</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.tripleo.2010.04.020</pub-id>
+                  <?supplied-pmid 20727500?>
+                  <pub-id pub-id-type="pmid">20727500</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Saber</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Alfadag</surname>
+                      <given-names>AMA</given-names>
+                    </name>
+                    <name>
+                      <surname>Nawar</surname>
+                      <given-names>NN</given-names>
+                    </name>
+                    <name>
+                      <surname>Plotino</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Hassanien</surname>
+                      <given-names>EE</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Instrumentation kinematics does not affect bacterial reduction, post-operative pain, and flare-ups: A randomized clinical trial</article-title>
+                  <source>Int Endod J</source>
+                  <year>2022</year>
+                  <volume>55</volume>
+                  <issue>5</issue>
+                  <fpage>405</fpage>
+                  <lpage>415</lpage>
+                  <pub-id pub-id-type="doi">10.1111/iej.13695</pub-id>
+                  <?supplied-pmid 35100456?>
+                  <pub-id pub-id-type="pmid">35100456</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Machado</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Vigarani</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Macoppi</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Pawar</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Glaci Reinke</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Kovalik Goncalves</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Extrusion of debris with and without intentional foraminal enlargement - A systematic review and meta-analysis</article-title>
+                  <source>Aust Endod J</source>
+                  <year>2021</year>
+                  <volume>47</volume>
+                  <issue>3</issue>
+                  <fpage>741</fpage>
+                  <lpage>748</lpage>
+                  <pub-id pub-id-type="doi">10.1111/aej.12539</pub-id>
+                  <?supplied-pmid 34146366?>
+                  <pub-id pub-id-type="pmid">34146366</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Elmsallati</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Wadachi</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Suda</surname>
+                      <given-names>H</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Extrusion of debris after use of rotary nickel-titanium files with different pitch: a pilot study</article-title>
+                  <source>Aust Endod J</source>
+                  <year>2009</year>
+                  <volume>35</volume>
+                  <issue>2</issue>
+                  <fpage>65</fpage>
+                  <lpage>69</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1747-4477.2008.00128.x</pub-id>
+                  <?supplied-pmid 19703077?>
+                  <pub-id pub-id-type="pmid">19703077</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

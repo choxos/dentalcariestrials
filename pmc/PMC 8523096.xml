@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:41:00Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8523096" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8523096</identifier>
+        <datestamp>2021-10-22</datestamp>
+        <setSpec>jaos</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Appl Oral Sci</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Appl Oral Sci</journal-id>
+              <journal-id journal-id-type="publisher-id">jaos</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Applied Oral Science</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1678-7757</issn>
+              <issn pub-type="epub">1678-7765</issn>
+              <publisher>
+                <publisher-name>Faculdade De Odontologia De Bauru - USP</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8523096</article-id>
+              <article-id pub-id-type="pmcid">PMC8523096</article-id>
+              <article-id pub-id-type="pmc-uid">8523096</article-id>
+              <article-id pub-id-type="pmid">34614118</article-id>
+              <article-id pub-id-type="pmid">34614118</article-id>
+              <article-id pub-id-type="other">00445</article-id>
+              <article-id pub-id-type="doi">10.1590/1678-7757-2020-0794</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Triple-blinded randomized clinical trial comparing efficacy and tooth sensitivity of in-office and at-home bleaching techniques</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7326-4697</contrib-id>
+                  <name>
+                    <surname>DONASSOLLO</surname>
+                    <given-names>Sandrina Henn</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff1">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1110-9584</contrib-id>
+                  <name>
+                    <surname>DONASSOLLO</surname>
+                    <given-names>Tiago Aurélio</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff2">
+                    <sup>2</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9575-7158</contrib-id>
+                  <name>
+                    <surname>COSER</surname>
+                    <given-names>Sumaia</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff2">
+                    <sup>2</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1344-479X</contrib-id>
+                  <name>
+                    <surname>WILDE</surname>
+                    <given-names>Sabrina</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff2">
+                    <sup>2</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6387-7892</contrib-id>
+                  <name>
+                    <surname>UEHARA</surname>
+                    <given-names>Juliana Lays Stolfo</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff2">
+                    <sup>2</sup>
+                  </xref>
+                  <xref ref-type="aff" rid="aff3"/>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3695-0361</contrib-id>
+                  <name>
+                    <surname>CHISINI</surname>
+                    <given-names>Luiz Alexandre</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff4">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1797-3541</contrib-id>
+                  <name>
+                    <surname>CORREA</surname>
+                    <given-names>Marcos Britto</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff5">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2543-6201</contrib-id>
+                  <name>
+                    <surname>CENCI</surname>
+                    <given-names>Maximiliano Sérgio</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff5">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2276-491X</contrib-id>
+                  <name>
+                    <surname>DEMARCO</surname>
+                    <given-names>Flávio Fernando</given-names>
+                  </name>
+                  <xref ref-type="aff" rid="aff5">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="aff1">
+                <label>1</label>
+                <institution content-type="orgname">Universidade Federal de Pelotas</institution>
+                <institution content-type="orgdiv1">Programa de Pós-Graduação em Odontologia</institution>
+                <addr-line>
+                  <named-content content-type="state">Rio Grande do Sul</named-content>
+                  <named-content content-type="city">Pelotas</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Federal de Pelotas, Programa de Pós-Graduação em Odontologia, Rio Grande do Sul, Pelotas, Brasil.</institution>
+              </aff>
+              <aff id="aff2">
+                <label>2</label>
+                <institution content-type="orgname">Faculdade Especializada na Área da Saúde do Rio Grande do Sul</institution>
+                <institution content-type="original">Faculdade Especializada na Área da Saúde do Rio Grande do Sul,</institution>
+              </aff>
+              <aff id="aff3">
+                <institution content-type="orgname">Faculdade de Odontologia</institution>
+                <addr-line>
+                  <named-content content-type="state">Rio Grande do Sul</named-content>
+                  <named-content content-type="city">Passo Fundo</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Faculdade de Odontologia, Rio Grande do Sul, Passo Fundo, Brasil.</institution>
+              </aff>
+              <aff id="aff4">
+                <label>3</label>
+                <institution content-type="orgname">Universidade do Vale de Taquari</institution>
+                <addr-line>
+                  <named-content content-type="city">Lajeado</named-content>
+                  <named-content content-type="state">Rio Grande do Sul</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade do Vale de Taquari – UNIVATES, Lajeado, Rio Grande do Sul, Brasil.</institution>
+              </aff>
+              <aff id="aff5">
+                <label>4</label>
+                <institution content-type="orgname">Universidade Federal de Pelotas</institution>
+                <addr-line>
+                  <named-content content-type="state">Rio Grande do Sul</named-content>
+                  <named-content content-type="city">Pelotas</named-content>
+                </addr-line>
+                <country country="BR">Brasil</country>
+                <institution content-type="original">Universidade Federal de Pelotas, Rio Grande do Sul, Passo Fundo, Pelotas, Brasil.</institution>
+              </aff>
+              <author-notes>
+                <corresp id="c01"> Corresponding address: Flávio Fernando Demarco R. Gonçalves Chaves 457 - Pelotas - 96015-560 - RS - Brazil. Phone: 32256741 ext. 134 e-mail: <email>ffdemarco@gmail.com</email></corresp>
+                <fn fn-type="COI-statement">
+                  <p>Conflict of interest</p>
+                  <p>The authors declared no conflict of interest.</p>
+                </fn>
+                <fn fn-type="con">
+                  <p>Authors’ contributions</p>
+                  <p><bold>Donassollo, Sandrina Henn:</bold> Conceptualization (Equal); Data curation (Equal); Formal analysis (Equal); Resources (Equal); Software (Equal); Supervision (Equal). <bold>Donassolo, Tiago:</bold> Conceptualization (Equal); Data curation (Equal); Formal analysis (Equal); Resources (Equal); Software (Equal); Supervision (Equal). <bold>Coser, Sumaia:</bold> Conceptualization (Equal); Data curation (Equal). <bold>Wilder, Sabrina:</bold> Conceptualization (Equal); Data curation (Equal); Methodology (Equal). <bold>Uehara, Julia:</bold> Conceptualization (Equal); Data curation (Equal). <bold>Chisini, Luiz Alexandre:</bold> Formal analysis (Equal); Writing-review &amp; editing (Equal). <bold>Correa, Marcos Britto:</bold> Conceptualization (Equal); Resources (Equal); Writing-review &amp; editing (Equal). <bold>Cenci, Maximiliano Sérgio:</bold> Methodology (Equal); Supervision (Equal); Writing-original draft (Equal). <bold>Demarco, Flavio Fernando:</bold> Conceptualization (Equal); Methodology (Equal); Resources (Equal); Writing-original draft (Equal); Writing-review &amp; editing (Equal).</p>
+                </fn>
+              </author-notes>
+              <pub-date date-type="pub" publication-format="electronic">
+                <day>1</day>
+                <month>10</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date date-type="collection" publication-format="electronic">
+                <year>2021</year>
+              </pub-date>
+              <volume>29</volume>
+              <elocation-id>e20200794</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>30</day>
+                  <month>9</month>
+                  <year>2020</year>
+                </date>
+                <date date-type="rev-recd">
+                  <day>20</day>
+                  <month>5</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>29</day>
+                  <month>6</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p> This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. </license-p>
+                </license>
+              </permissions>
+              <abstract>
+                <title>Abstract</title>
+                <sec>
+                  <title>Objective</title>
+                  <p> Our study aims to compare the efficacy and tooth sensitivity following in-office (35% hydrogen peroxide) or at-home (10% carbamide peroxide) bleaching treatments both preceded by 2% potassium nitrate (2%KF) desensitizing gel.</p>
+                </sec>
+                <sec>
+                  <title>Methodology</title>
+                  <p> 130 volunteers were randomly allocated to a) in-office bleaching and a placebo at-home protocol; or b) in-office placebo and at-home bleaching treatment. 2% KF was applied for 10 min before both treatments.</p>
+                </sec>
+                <sec>
+                  <title>Objective</title>
+                  <p> color evaluation was performed (spectrophotometer CIEL*a*b* system and CIEDE2000) to calculate the color change (ΔE00). Subjective evaluation was performed using the VITA classical shade guide followed by shade variation (ΔSGU) at the beginning and end of bleaching treatment and 2 weeks post-bleaching. Tooth sensitivity was daily recorded using a Likert scale varying from 1 (no sensitivity) to 5 (severe sensitivity). Analysis was carried out using non-parametric tests.</p>
+                </sec>
+                <sec>
+                  <title>Results</title>
+                  <p> Regarding the color change, at-home bleaching resulted in significant color improvement compared to in-office treatment for the parameters Δb* (p=0.003) and Δa* (p=0.014). Two weeks post-bleaching, the at-home treatment resulted in significant color improvement compared to in-office treatment for the parameters Δb* (p=0.037) and ΔE00 (p=0.033). No differences were observed in either ΔSGU parameters. Concerning sensitivity, patients treated with in-office bleaching reported more tooth sensitivity than the at-home group only on the first day after bleaching started, without significant differences in the other periods evaluated (p&gt;0.05).</p>
+                </sec>
+                <sec>
+                  <title>Conclusions</title>
+                  <p> At-home and in-office bleaching, preceded by a desensitizing agent, were effective for vital teeth bleaching and 10% carbamide peroxide produced a higher whitening effect than 35% hydrogen peroxide in the short time evaluation. Tooth sensitivity rates were similar for the two techniques tested.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd>Clinical trial</kwd>
+                <kwd>Tooth bleaching</kwd>
+                <kwd>Hydrogen peroxide</kwd>
+                <kwd>Carbamide peroxide</kwd>
+                <kwd>Color</kwd>
+              </kwd-group>
+              <counts>
+                <fig-count count="1"/>
+                <table-count count="5"/>
+                <equation-count count="0"/>
+                <ref-count count="47"/>
+              </counts>
+            </article-meta>
+          </front>
+          <body>
+            <sec sec-type="intro">
+              <title>Introduction</title>
+              <p>Tooth bleaching is the most common esthetic treatment requested by individuals.<sup><xref rid="B1" ref-type="bibr">1</xref>,<xref rid="B2" ref-type="bibr">2</xref></sup> Many techniques and products are available for tooth bleaching, but at-home bleaching using low concentration gel (10% carbamide peroxide - CP) in a custom tray is still considered the gold-standard treatment for tooth discoloration in vital teeth.<sup><xref rid="B3" ref-type="bibr">3</xref>,<xref rid="B4" ref-type="bibr">4</xref></sup> This treatment has been effective in producing whiter teeth – lasting up to 2 years without color reversal<sup><xref rid="B6" ref-type="bibr">6</xref></sup> – with none or mild transient tooth sensitivity and it is well accepted by patients.<sup><xref rid="B4" ref-type="bibr">4</xref>,<xref rid="B5" ref-type="bibr">5</xref></sup> Some patients, however, present difficulties in adaptation to at-home protocol, since they prefer not to use a bleaching tray or are not willing to wait 2-3 weeks to see the results, wanting a faster bleaching effect. In these cases, in-office bleaching could be an alternative.<sup><xref rid="B7" ref-type="bibr">7</xref></sup></p>
+              <p>In-office tooth bleaching is performed using high concentration agents (usually 35% hydrogen peroxide – HP), and it is considered safe, efficient and could provide a faster result compared to at-home treatment.<sup><xref rid="B8" ref-type="bibr">8</xref></sup> However, higher levels of tooth sensitivity have been related to in-office bleaching.<sup><xref rid="B9" ref-type="bibr">9</xref>,<xref rid="B10" ref-type="bibr">10</xref></sup> The comparison of at-home and in-office techniques showed similar results, for up to 2 years, concerning bleaching effectiveness, but in-office technique produced higher sensitivity in the initial periods.<sup><xref rid="B11" ref-type="bibr">11</xref></sup> Desensitizing agents have been recommended to avoid tooth sensitivity during the bleaching procedures, with potassium nitrate being one of these agents.<sup><xref rid="B12" ref-type="bibr">12</xref></sup> A meta-analysis has reported that both potassium nitrate and sodium fluoride were effective in reducing tooth sensitivity,<sup><xref rid="B13" ref-type="bibr">13</xref></sup> despite the contradictory results observed in recent studies.<sup><xref rid="B12" ref-type="bibr">12</xref>,<xref rid="B14" ref-type="bibr">14</xref>,<xref rid="B15" ref-type="bibr">15</xref></sup></p>
+              <p>Randomized clinical trials have compared the in-office and at-home dental bleaching, mainly with single and double-blind designs.<sup><xref rid="B6" ref-type="bibr">6</xref>,<xref rid="B11" ref-type="bibr">11</xref>,<xref rid="B16" ref-type="bibr">16</xref>-<xref rid="B18" ref-type="bibr">18</xref></sup> Studies with triple-blind randomized design have, in general, only evaluated one technique (either at-home or in-office)<sup><xref rid="B19" ref-type="bibr">19</xref>,<xref rid="B20" ref-type="bibr">20</xref></sup> due to the participants’ blinding difficulties. Therefore, there is no known triple-blind randomized clinical trial comparing different techniques of bleaching (at-home or in-office tooth bleaching) preceded by the use of potassium nitrate.</p>
+              <p>Our study aims was to compare the efficacy (color change) and adverse effect (tooth sensitivity) produced by in-office and at-home bleaching treatments preceded by 2% potassium nitrate (2%KF) desensitizing gel. The hypothesis is that both bleaching treatments would produce similar results concerning efficacy, and in-office bleaching would cause higher sensitivity.</p>
+            </sec>
+            <sec sec-type="methods">
+              <title>Methodology</title>
+              <sec>
+                <title>Trial design</title>
+                <p>This study was a randomized, triple-blind, clinical trial with an equal allocation rate to receive either one of two treatments, following the guidelines published by Consolidated Standards of Reporting Trials-CONSORT,<sup><xref rid="B21" ref-type="bibr">21</xref></sup> and approved from the Ethics Research Committee of the University of Cruz Alta, under number 462.122. The study was conducted for Faculdade Especializada na Área da Saúde do Rio Grande do Sul, a medium-sized city on Passo Fundo, and all subjects signed an informed consent form.</p>
+              </sec>
+              <sec>
+                <title>Training of examiner</title>
+                <p>Objective and subjective methods were used to evaluate tooth color. One examiner was trained<sup><xref rid="B22" ref-type="bibr">22</xref></sup> on shade determination of anterior teeth in 10 subjects using a digital spectrophotometer (Vita Easyshade, Germany) and Vita shade guide units (SGU) (VITA classical A1-D4<sup>®</sup> shade guide, Vita Zahnfabrik). Subjective evaluation was initially performed followed by the objective evaluation, which was made in the middle third of the upper two central incisors, three times. For this, a custom tray was made with an orifice to standardize the location of the color measuring.</p>
+              </sec>
+              <sec>
+                <title>Tooth shade measurement</title>
+                <p>The primary outcome of this study is color change. Thus, the tooth color coordinates, based on the CIE<italic>L* a* b*</italic> system, were objectively measured using a pre-calibrated digital spectrophotometer (Vita Easyshade; Vita Zahnfabrik). At each evaluation period, the shade of the upper two central incisors was measured three times, with the active point of the instrument at the place determined by custom tray (middle third).<sup><xref rid="B22" ref-type="bibr">22</xref>,<xref rid="B23" ref-type="bibr">23</xref></sup> The spectrophotometer automatically averaged the parameters evaluated, L*, a* and b*. The L* represents the lightness. The a* value is a measure of redness (positive a*) or greenness (negative a*). The b* value is a measure of yellowness (positive b*) or blueness (negative b*). The average value was estimated and recorded. The color difference (ΔE<sup>00</sup>) between any 2 measurements was estimated using the CIEDE2000 metric: <inline-formula><mml:math id="m1"><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>E</mml:mi></mml:mrow><mml:mrow><mml:mn>00</mml:mn></mml:mrow></mml:msup><mml:mo>=</mml:mo><mml:mrow><mml:mo>[</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>l</mml:mi></mml:mrow><mml:mrow><mml:mi>′</mml:mi></mml:mrow></mml:msup><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>L</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>′</mml:mi></mml:mrow></mml:msup><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:mo/></mml:mrow><mml:mo/></mml:mrow><mml:msup><mml:mrow><mml:mo/><mml:msup><mml:mrow><mml:mo/><mml:msub><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>H</mml:mi></mml:mrow><mml:mrow><mml:mi>′</mml:mi></mml:mrow></mml:msup><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>H</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>H</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mrow><mml:mi>R</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>T</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>C</mml:mi></mml:mrow><mml:mrow><mml:mi>′</mml:mi></mml:mrow></mml:msup><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>c</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>C</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:msup><mml:mrow><mml:mi>H</mml:mi></mml:mrow><mml:mrow><mml:mi>′</mml:mi></mml:mrow></mml:msup><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:msub><mml:mrow><mml:mi>K</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>H</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mi>S</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mi>H</mml:mi></mml:mrow></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mrow><mml:mo>/</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:math></inline-formula>, in which ∆L′, ∆C′, and ∆H′ are the differences in lightness, chroma, and hue for a pair of samples. R<sub>T</sub> is the rotation function that accounts for the interaction between chroma and hue differences in the blue region. S<sub>L</sub>, S<sub>C</sub>, and S<sub>H</sub> are weighting functions used to adjust the l ΔE<sup>00</sup> for variation in perceived magnitude, with variation in the location of the color coordinate and differences between the two color readings; and k<sub>L</sub>, k<sub>C</sub>, and k<sub>H</sub> are the correction terms for the experimental conditions. ΔE<sup>00</sup> ≥ 1.8 is the acceptable color difference threshold for the CIEDE2000 method.<sup><xref rid="B24" ref-type="bibr">24</xref></sup> The subjective evaluation was performed using the VITA classical shade guide (VITA classical A1-D4<sup>®</sup> shade guide, Vita Zahnfabrik), under the same conditions used for the objective evaluation. A single examiner performed all shade evaluations. The shade difference was estimated for the same tooth before (S1) and after (S2) the bleaching protocols ( <inline-formula><mml:math id="m2"><mml:mi>Δ</mml:mi><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mi>S</mml:mi><mml:mn>2</mml:mn><mml:mo>−</mml:mo><mml:mi>S</mml:mi><mml:mn>1</mml:mn></mml:math></inline-formula> ). The 16 shade tabs were, in order of lightness, numbered from 1 (highest value, B1) to 16 (lowest value, C4), as follow: B1=1, A1=2, B2=3, D2=4, A2=5, C1=6, C2=7, D4=8, A3=9, D3=10, B3=11, A3.5=12, B4=13, C3=14, A4=15, and C4=16.<sup><xref rid="B22" ref-type="bibr">22</xref>,<xref rid="B25" ref-type="bibr">25</xref></sup></p>
+                <p>The differences between the groups were analyzed using the differences in color (ΔE<sup>00</sup>),<sup><xref rid="B25" ref-type="bibr">25</xref></sup> lightness (ΔL*), chroma (Δa*), and value (Δb*) as well as those in the Vita shade guide units (ΔSGU) considering two periods: a) final – baseline and b) 2 weeks post-treatment – baseline.</p>
+              </sec>
+              <sec>
+                <title>Sample size</title>
+                <p>Sample size was estimated based on a previous study<sup><xref rid="B11" ref-type="bibr">11</xref></sup> that showed that one week after treatment, the change in tooth color shade from baseline was on average 6.27 with a standard deviation (SD) of 1.5 for at-home bleaching, whereas this change was 5.62 with an SD of 0.9 for the in-office bleaching technique. Considering 80% power and 5% significance level, 108 patients would be required. Another 20% were added to the sample to account for possible losses and refusals, obtaining a total of 130 patients. The individuals were invited to participate in our study by banners fixed both in local colleges and in college’s websites.</p>
+              </sec>
+              <sec>
+                <title>Eligibility criteria</title>
+                <p>The subjects included in this clinical trial were at least 18 years old and have good oral and general health. Furthermore, volunteers needed to have central incisors without restorations on the labial surfaces and to be shade B2 or darker, according to a value-oriented shade guide, and they should have never undergone tooth bleaching. Participants were excluded from this study if they were smokers, were using braces, had undergone tooth-whitening procedures, were pregnant or lactating, had labial surface restoration on the central incisors, had severe internal tooth discoloration (such as pulpless teeth, fluorosis, and tetracycline stains), presented tooth sensitivity and abrasion, erosion and/or abfraction and recession. Participants’ age varied from 18 to 40 years old, with a mean age of 23.2 (±5.8).</p>
+              </sec>
+              <sec>
+                <title>Randomization and blinding</title>
+                <p>The 130 participants were randomly allocated into two groups (n=65) according to the bleaching techniques (in-office and at-home) (<xref ref-type="fig" rid="f01">Figure 1</xref>). For this purpose, the two groups were identified with two different colors: in-office with yellow and at-home with green. A person not involved in the research protocol performed the randomized process using 130 brown envelopes, 65 of which contained yellow paper and the other 65, green paper. The participants took one envelope, and the person not involved revealed the allocation for the other person. Neither the participant nor the operator and examiner knew the meaning of the colors, being blinded to the protocol.</p>
+                <p>
+                  <fig id="f01" orientation="portrait" position="float">
+                    <label>Figure 1</label>
+                    <caption>
+                      <title>Flow-chart of the trial</title>
+                    </caption>
+                    <graphic xlink:href="1678-7757-jaos-29-e20200794-gf01"/>
+                  </fig>
+                </p>
+              </sec>
+              <sec>
+                <title>Groups and placebo</title>
+                <p>The yellow group received the in-office treatment with 35% hydrogen peroxide gel (Whiteness HP Blue, FGM Dental Products, Brazil) and underwent a placebo at-home treatment using custom-made trays, but using a product similar to at-home gel, formulated without any bleaching agent.</p>
+                <p>The green group received a placebo in-office treatment with a similar product to active in-office treatment, but without bleaching agent. This group underwent the at-home treatment with 10% carbamide peroxide (Whiteness Perfect, FGM Dental Products, Brazil).</p>
+                <p>To produce the placebos, the manufacturer (FGM Dental Products, Brazil) provided the tubes without a bleaching gel agent. The placebo was a water-based gel produced in a Drugstore, with the same color and viscosity as the original gel. The placebo gel was inserted into the tubes. A person not involved in the study carried out the manipulation and identification.</p>
+                <p>The chemical characteristics and manufacturers of tested agents are shown in <xref rid="t1" ref-type="table">Table 1</xref>.</p>
+                <p>
+                  <table-wrap id="t1" orientation="portrait" position="float">
+                    <label>Table 1</label>
+                    <caption>
+                      <title>Bleaching agents tested, their chemical characteristics and manufacturers</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th rowspan="1" colspan="1">Group</th>
+                          <th rowspan="1" colspan="1">Bleaching agent</th>
+                          <th rowspan="1" colspan="1">Chemical characteristics</th>
+                          <th rowspan="1" colspan="1">Manufacturers</th>
+                          <th rowspan="1" colspan="1">Application technique</th>
+                        </tr>
+                        <tr>
+                          <th colspan="5" rowspan="1">
+                            <hr/>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">At-home</td>
+                          <td align="center" rowspan="1" colspan="1">White Perfect</td>
+                          <td align="center" rowspan="1" colspan="1">10% Carbamide Peroxide Potassium nitrate Sodium fluoride</td>
+                          <td align="center" rowspan="1" colspan="1">FGM</td>
+                          <td align="center" rowspan="1" colspan="1">2 hours per day for 14 days</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">In-office</td>
+                          <td align="center" rowspan="1" colspan="1">White HP Blue</td>
+                          <td align="center" rowspan="1" colspan="1">35% Hydrogen Peroxide Thickeners Violet Pigment Neutralizing agents Calcium Gluconate Glycol Deionized Water</td>
+                          <td align="center" rowspan="1" colspan="1">FGM</td>
+                          <td align="center" rowspan="1" colspan="1">one application of 40min for week 2 weeks</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">Placebo At-home</td>
+                          <td rowspan="1" colspan="1"> </td>
+                          <td align="center" rowspan="1" colspan="1">Carbopol<sup>®</sup> 940 (10g) Distilled water (11g) AMP 95 (1g)</td>
+                          <td align="center" rowspan="1" colspan="1">Drugstore</td>
+                          <td align="center" rowspan="1" colspan="1">2 hours per day for 14 days</td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">Placebo In-office</td>
+                          <td rowspan="1" colspan="1"> </td>
+                          <td align="center" rowspan="1" colspan="1">Carbopol<sup>®</sup> 940 (10g) Distilled water (11g) AMP 95 (1g) Violet Pigment (0,5g)</td>
+                          <td align="center" rowspan="1" colspan="1">Drugstore</td>
+                          <td align="center" rowspan="1" colspan="1">one application of 40min for week 2 weeks</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN1">
+                        <p>Potassium nitrate desensitizing gel (Desensibilize KF2%, FGM, Brazil) was applied for 10 minutes on the labial surface for both groups in the first section</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec>
+                <title>Bleaching procedure</title>
+                <p>For all participants, an alginate impression of each subject’s maxillary arch was prepared and filled with dental stone. The custom tray was produced using a 1-mm soft vinyl material. The excess of labial and lingual surfaces was cut 1 mm from the gingival junction. After that, all volunteers received prophylaxis in all teeth.</p>
+                <p>After the color evaluation, the lips, cheeks, and tongue were isolated using a lip retractor (Arcflex, FGM, Brazil). The gingival tissue was isolated using a light-cured resin dam (Top Dam, FGM, Brazil), and the potassium nitrate desensitizing gel (Desensibilize KF2%, FGM, Brazil) was applied for 10 minutes on the labial surface for both groups in the first clinical session. The subject from the yellow group received in-office bleaching with 35% hydrogen peroxide. The bleaching gel was applied to the labial surfaces of teeth for 40 minutes. The bleaching agent was moved every 5 minutes. The in-office bleaching treatment was applied twice, with an interval of seven days. In the first session, the participants received the instructions and started the placebo at-home bleaching (2 hours/day for 2 weeks).</p>
+                <p>Subjects from the green group received the potassium nitrate desensitizing gel, a placebo in-office bleaching (one application of 40min a week, for 2 weeks). In the at-home bleaching treatment, a custom tray was used, containing 10% carbamide peroxide gel (Whiteness Perfect, FGM, Brazil). All subjects were instructed to wear the tray with the bleaching agent for at least 2 hours/day. After that, subjects were instructed to remove the tray, wash it and brush their teeth with toothpaste. The treatment was conducted for 2 weeks. The color evaluation was carried out at the beginning of treatment (baseline), in the end of bleaching treatment (final), and 2 weeks post-bleaching.</p>
+              </sec>
+              <sec>
+                <title>Tooth sensitivity data</title>
+                <p>Tooth sensitivity is the secondary outcome of the study. Besides the bleaching, participants were asked to record, daily, their tooth sensitivity, according to a 5-point Likert scale with the following criteria: 1= none, 2= mild, 3= moderate, 4= considerable, and 5= severe.<sup><xref rid="B26" ref-type="bibr">26</xref></sup></p>
+              </sec>
+              <sec>
+                <title>Statistical analysis</title>
+                <p>Statistical Analysis was performed using Stata 14.0 (StataCorp, College Station, Texas, US.). Prior to tests, data were checked for normality. The normal distribution of data was not observed and a non-parametrical analysis was performed. Friedman test followed by post hoc Tukey test was used to analyze differences within treatment groups between different points of follow-up. Differences between groups were assessed using Mann Whitney test. Differences were considered statistically significant when p&lt;0.05.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results">
+              <title>Results</title>
+              <p>One hundred and thirty subjects have completed the study, with 65 volunteers allocated to each group. There were no dropouts during the evaluation process. Seventy-four (56.9%) patients were females. At baseline, treatment groups presented a similar proportion according to age, gender, profession, and education level (<xref rid="t2" ref-type="table">Table 2</xref>).</p>
+              <p>
+                <table-wrap id="t2" orientation="portrait" position="float">
+                  <label>Table 2</label>
+                  <caption>
+                    <title>Demographic characteristics according to the different treatment groups</title>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <colgroup span="1">
+                      <col span="1"/>
+                      <col span="1"/>
+                      <col span="1"/>
+                      <col span="1"/>
+                    </colgroup>
+                    <thead>
+                      <tr>
+                        <th rowspan="1" colspan="1">Variables</th>
+                        <th rowspan="1" colspan="1">Categories</th>
+                        <th rowspan="1" colspan="1">In-office</th>
+                        <th rowspan="1" colspan="1">At-home</th>
+                      </tr>
+                      <tr>
+                        <th colspan="4" rowspan="1">
+                          <hr/>
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td rowspan="2" colspan="1">Gender</td>
+                        <td rowspan="1" colspan="1">Male</td>
+                        <td align="center" rowspan="1" colspan="1">32 (49%)</td>
+                        <td align="center" rowspan="1" colspan="1">24 (37%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">Female</td>
+                        <td align="center" rowspan="1" colspan="1">33 (51%)</td>
+                        <td align="center" rowspan="1" colspan="1">41 (63%)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" rowspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="5" colspan="1">Age (years)</td>
+                        <td rowspan="1" colspan="1">≤ 20</td>
+                        <td align="center" rowspan="1" colspan="1">27 (41.6%)</td>
+                        <td align="center" rowspan="1" colspan="1">22 (33.8%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">21-22</td>
+                        <td align="center" rowspan="1" colspan="1">7 (10.8%)</td>
+                        <td align="center" rowspan="1" colspan="1">12 (18.4%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">23-24</td>
+                        <td align="center" rowspan="1" colspan="1">12 (18.4%)</td>
+                        <td align="center" rowspan="1" colspan="1">9 (13.9%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">25-26</td>
+                        <td align="center" rowspan="1" colspan="1">6 (9.2%)</td>
+                        <td align="center" rowspan="1" colspan="1">7 (10.8%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">≥27</td>
+                        <td align="center" rowspan="1" colspan="1">13 (20%)</td>
+                        <td align="center" rowspan="1" colspan="1">15 (23.1%)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" rowspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="3" colspan="1">Education level</td>
+                        <td rowspan="1" colspan="1">Middle and high school</td>
+                        <td align="center" rowspan="1" colspan="1">23 (35.4%)</td>
+                        <td align="center" rowspan="1" colspan="1">22 (33.8%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">Complete college</td>
+                        <td align="center" rowspan="1" colspan="1">10 (15.4%)</td>
+                        <td align="center" rowspan="1" colspan="1">16 (24.6%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">Incomplete college</td>
+                        <td align="center" rowspan="1" colspan="1">32 (49.2%)</td>
+                        <td align="center" rowspan="1" colspan="1">27 (41.6%)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" rowspan="1">
+                          <hr/>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td rowspan="3" colspan="1">Profession</td>
+                        <td rowspan="1" colspan="1">Student</td>
+                        <td align="center" rowspan="1" colspan="1">35 (53.8%)</td>
+                        <td align="center" rowspan="1" colspan="1">34 (52.3%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">Liberal professions</td>
+                        <td align="center" rowspan="1" colspan="1">23 (35.5%)</td>
+                        <td align="center" rowspan="1" colspan="1">24 (36.9%)</td>
+                      </tr>
+                      <tr>
+                        <td rowspan="1" colspan="1">Public server</td>
+                        <td align="center" rowspan="1" colspan="1">7 (10.7%)</td>
+                        <td align="center" rowspan="1" colspan="1">7 (10.8%)</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </table-wrap>
+              </p>
+              <sec>
+                <title>Color change</title>
+                <p>Results of the study for L*(lightness), a* (redness), and b*(yellowness), for group treated with 10% carbamide peroxide (at-home) and 35% hydrogen peroxide (in-office) are shown in <inline-supplementary-material mime-subtype="pdf" mimetype="application" xlink:href="1678-7757-jaos-29-e20200794-supp01.pdf" id="d31e938" content-type="local-data">supplementary table S1 and S2</inline-supplementary-material>, respectively. The median values (SD) for ΔL*, Δa*, Δb*, ΔE<sup>00</sup>and ΔSGU from the at-home and in-office groups are shown in <xref rid="t3" ref-type="table">Table 3</xref>.</p>
+                <p>
+                  <table-wrap id="t3" orientation="portrait" position="float">
+                    <label>Table 3</label>
+                    <caption>
+                      <title>Comparison of in-office and at-home bleaching by different color coordinates of CIEL*a*b* system, ΔE00 and ΔSGU</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th rowspan="1" colspan="1">Tooth color parameters</th>
+                          <th rowspan="1" colspan="1">Evaluation period</th>
+                          <th rowspan="1" colspan="1">In-office bleaching</th>
+                          <th rowspan="1" colspan="1">At-home bleaching</th>
+                          <th rowspan="1" colspan="1">P value</th>
+                        </tr>
+                        <tr>
+                          <th colspan="5" rowspan="1">
+                            <hr/>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td rowspan="2" colspan="1">ΔL</td>
+                          <td rowspan="1" colspan="1">Final</td>
+                          <td align="center" rowspan="1" colspan="1">1.73 (3.29)</td>
+                          <td align="center" rowspan="1" colspan="1">0.79 (3.99)</td>
+                          <td align="center" rowspan="1" colspan="1">0,159</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">2 weeks-post bleaching</td>
+                          <td align="center" rowspan="1" colspan="1">-0.14 (6.50)</td>
+                          <td align="center" rowspan="1" colspan="1">0.91 (5.36)</td>
+                          <td align="center" rowspan="1" colspan="1">0,173</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="2" colspan="1">Δa</td>
+                          <td rowspan="1" colspan="1">Final</td>
+                          <td align="center" rowspan="1" colspan="1">0.33 (1.54)</td>
+                          <td align="center" rowspan="1" colspan="1">-0.09 (1.42)</td>
+                          <td align="center" rowspan="1" colspan="1">
+                            <bold>0.014*</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">2 weeks-post bleaching</td>
+                          <td align="center" rowspan="1" colspan="1">-0.13 (1.67)</td>
+                          <td align="center" rowspan="1" colspan="1">-0.13 (1.25)</td>
+                          <td align="center" rowspan="1" colspan="1">0,176</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="2" colspan="1">Δb</td>
+                          <td rowspan="1" colspan="1">Final</td>
+                          <td align="center" rowspan="1" colspan="1">-2.16 (2.68)</td>
+                          <td align="center" rowspan="1" colspan="1">-3.55 (5.89)</td>
+                          <td align="center" rowspan="1" colspan="1">
+                            <bold>0.003*</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">2 weeks-post bleaching</td>
+                          <td align="center" rowspan="1" colspan="1">-2.99 (2.59)</td>
+                          <td align="center" rowspan="1" colspan="1">-4.25 (4.19)</td>
+                          <td align="center" rowspan="1" colspan="1">
+                            <bold>0.037*</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td rowspan="2" colspan="1">ΔE00</td>
+                          <td rowspan="1" colspan="1">Final</td>
+                          <td align="center" rowspan="1" colspan="1">4.03 (1.77)</td>
+                          <td align="center" rowspan="1" colspan="1">4.33 (2.35)</td>
+                          <td align="center" rowspan="1" colspan="1">0,083</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">2 weeks-post bleaching</td>
+                          <td align="center" rowspan="1" colspan="1">4.01 (1.02)</td>
+                          <td align="center" rowspan="1" colspan="1">4.27 (1.59)</td>
+                          <td align="center" rowspan="1" colspan="1">
+                            <bold>0,033</bold>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td rowspan="2" colspan="1">ΔSGU</td>
+                          <td rowspan="1" colspan="1">Final</td>
+                          <td align="center" rowspan="1" colspan="1">-3.00 (2.18)</td>
+                          <td align="center" rowspan="1" colspan="1">-3.5 (2.27)</td>
+                          <td align="center" rowspan="1" colspan="1">0,669</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">2 week-post bleaching</td>
+                          <td align="center" rowspan="1" colspan="1">-3.00 (2.17)</td>
+                          <td align="center" rowspan="1" colspan="1">-4.00 (2.29)</td>
+                          <td align="center" rowspan="1" colspan="1">0,445</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN2">
+                        <p>* Differences were considered statistically significant when p&lt;0.05. Mann Whitney test was applied for statistical comparison.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+              </sec>
+              <sec>
+                <title>Final stage of treatment</title>
+                <p>No significant difference was observed for ΔL* (=0.159), ΔE<sup>00</sup> (p=0.083), and ΔSGU (p=0.669) between groups at the end of treatment. At-home bleaching resulted in significant color improvement compared to in-office treatment for the parameters Δb* (p=0.003) and Δa* (p=0.014).</p>
+              </sec>
+              <sec>
+                <title>2 weeks post-bleaching</title>
+                <p>No significant difference between in-office and at-home bleaching was observed for ΔL* (p=0.173), Δa* (0.176) and ΔSGU (p=0.445) parameters, 2 weeks post-bleaching period. At-home bleaching resulted in significant color improvement compared to in-office treatment for the parameters Δb* (p=0.037) and ΔE<sup>00</sup> (p=0.033).</p>
+              </sec>
+              <sec>
+                <title>Tooth sensitivity</title>
+                <p><xref rid="t4" ref-type="table">Table 4</xref> shows the comparison between tooth sensitivity for the two groups. More sensitivity was reported by the in-office group, when compared with at-home bleaching, only on the first day of evaluation (p&lt;0.05). In the other periods evaluated, no significant differences were observed between groups (p&gt;0.05). A significant decrease in sensitivity was detected in both groups, after the bleaching completion.</p>
+                <p>
+                  <table-wrap id="t4" orientation="portrait" position="float">
+                    <label>Table 4</label>
+                    <caption>
+                      <title>Means (SD) values for weekly tooth sensitivity and degrees of tooth sensitivity reported by volunteers in different treatment groups</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th rowspan="1" colspan="1">Treatment</th>
+                          <th rowspan="1" colspan="1">First day</th>
+                          <th rowspan="1" colspan="1">1 week</th>
+                          <th rowspan="1" colspan="1">2 weeks</th>
+                          <th rowspan="1" colspan="1">1 week post-bleaching</th>
+                          <th rowspan="1" colspan="1">2 weeks post-bleaching</th>
+                        </tr>
+                        <tr>
+                          <th colspan="6" rowspan="1">
+                            <hr/>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">In-office</td>
+                          <td align="center" rowspan="1" colspan="1">1.57 (0.84)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.24 (0.36)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.31 (0.43)<sup>Aa</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.07 (0.27)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.00 (0.00)<sup>Ab</sup></td>
+                        </tr>
+                        <tr>
+                          <td align="center" rowspan="1" colspan="1">At-home</td>
+                          <td align="center" rowspan="1" colspan="1">1.20 (0.51)<sup>Ba</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.37 (0.53)<sup>Ab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.31 (0.54)<sup>Aab</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.02 (0.13)<sup>Aac</sup></td>
+                          <td align="center" rowspan="1" colspan="1">1.02 (0.13)<sup>Aac</sup></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <table-wrap-foot>
+                      <fn id="TFN3">
+                        <p>* Different uppercase letters indicate differences between groups in each time of evaluation. **Different lowercase letters indicate differences between different periods of evaluation within each treatment group.</p>
+                      </fn>
+                    </table-wrap-foot>
+                  </table-wrap>
+                </p>
+                <p><xref rid="t5" ref-type="table">Table 5</xref> shows the description of the type of sensitivity observed for both groups. Most of the sensitivity observed was classified as mild and occurred during bleaching treatment (1 and 2 weeks). One and 2 weeks post-bleaching, the participants reported practically no sensitivity. During bleaching procedures, few subjects reported moderate and sporadic cases of severe discomfort, but no individual requested the desensitizing agent to use during the treatment.</p>
+                <p>
+                  <table-wrap id="t5" orientation="portrait" position="float">
+                    <label>Table 5</label>
+                    <caption>
+                      <title>Degrees of tooth sensitivity reported by volunteers in different treatment groups</title>
+                    </caption>
+                    <table frame="hsides" rules="groups">
+                      <colgroup span="1">
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                        <col span="1"/>
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th rowspan="1" colspan="1">Degree</th>
+                          <th align="left" style="font-weight:normal" rowspan="1" colspan="1"> </th>
+                          <th rowspan="1" colspan="1">First day</th>
+                          <th rowspan="1" colspan="1">1 week</th>
+                          <th rowspan="1" colspan="1">2 weeks</th>
+                          <th rowspan="1" colspan="1">1 week post-bleaching</th>
+                          <th rowspan="1" colspan="1">2 weeks post-bleaching</th>
+                        </tr>
+                        <tr>
+                          <th colspan="7" rowspan="1">
+                            <hr/>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td rowspan="5" colspan="1">At-home</td>
+                          <td rowspan="1" colspan="1">None</td>
+                          <td align="center" rowspan="1" colspan="1">55 (84.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">31 (47.7%)</td>
+                          <td align="center" rowspan="1" colspan="1">38 (58.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">62 (95.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">63 (96.9%)</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Mild</td>
+                          <td align="center" rowspan="1" colspan="1">7 (10.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">23 (35.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">19 (29.2%)</td>
+                          <td align="center" rowspan="1" colspan="1">3 (4.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">2 (3.1%)</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Moderate</td>
+                          <td align="center" rowspan="1" colspan="1">3 (4.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">5 (7.7%)</td>
+                          <td align="center" rowspan="1" colspan="1">7 (10.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Considerable</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">5 (7.7%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Severe</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">1 (1.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">1 (1.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td colspan="7" rowspan="1">
+                            <hr/>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td rowspan="5" colspan="1">In-office</td>
+                          <td rowspan="1" colspan="1">None</td>
+                          <td align="center" rowspan="1" colspan="1">41 (63.1%)</td>
+                          <td align="center" rowspan="1" colspan="1">34 (52.3%)</td>
+                          <td align="center" rowspan="1" colspan="1">34 (51.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">60 (92.3%)</td>
+                          <td align="center" rowspan="1" colspan="1">65 (100%)</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Mild</td>
+                          <td align="center" rowspan="1" colspan="1">13 (20%)</td>
+                          <td align="center" rowspan="1" colspan="1">21 (32.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">21 (31.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">3 (4.6%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Moderate</td>
+                          <td align="center" rowspan="1" colspan="1">10 (15.4%)</td>
+                          <td align="center" rowspan="1" colspan="1">09 (13.8%)</td>
+                          <td align="center" rowspan="1" colspan="1">6 (10%)</td>
+                          <td align="center" rowspan="1" colspan="1">2 (3.1%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Considerable</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">4 (7.2%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                        <tr>
+                          <td rowspan="1" colspan="1">Severe</td>
+                          <td align="center" rowspan="1" colspan="1">1 (1.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">1 (1.5%)</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                          <td align="center" rowspan="1" colspan="1">-</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </table-wrap>
+                </p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion">
+              <title>Discussion</title>
+              <p>The hypothesis tested in the study was rejected, since at-home bleaching showed a slightly better result than in-office bleaching protocol. Both treatments were effective to make teeth whiter, but more color improvement was observed for 10% carbamide peroxide in most of the parameters evaluated in the short period of follow-up. Even though these results were statistically significant, considering the small difference between the 2-weeks post bleaching techniques, the better performance observed for the at-home bleaching could not be clinically observed. Thus, these results should be interpreted carefully. More sensitivity was reported for in-office treatment, but only on the first day of bleaching therapy. Another study comparing these two bleaching protocols found that both were effective in whitening the teeth, but the authors observed that in-office bleaching was associated with higher tooth sensitivity.<sup><xref rid="B11" ref-type="bibr">11</xref></sup> Also comparing in-office (35 and 38% HP) with at-home (10 and 20% CP), Basting, et al.<sup><xref rid="B10" ref-type="bibr">10</xref></sup> (2012) observed that all protocols were effective to bleach teeth, without differences regarding final color shade. A recent systematic review and meta-analysis comparing at-home and in-office techniques – including 12 studies for qualitative evaluation and 8 studies for quantitative analysis – was not able to show any significant difference between the two techniques regarding the effectiveness in improving the color and the sensitivity produced. The authors attributed the lack of differences due to the high variability in the protocols used to carry out bleaching in both techniques.<sup><xref rid="B27" ref-type="bibr">27</xref></sup></p>
+              <p>The efficacy of bleaching agents relies on the release of free oxygen, which could break down the pigments present in the tooth structure producing a whitening effect.<sup><xref rid="B6" ref-type="bibr">6</xref></sup> To explain the better result observed for at-home bleaching, we could hypothesize that, despite the lower concentration of bleaching agent compared to 35% hydrogen peroxide, using 10% carbamide peroxide in the custom tray allows the product to be in constant contact with the tooth surface. Some studies have reported that a more concentrated agent used for in-office bleaching would produce a faster bleaching effect, which was not observed in our study. In the present study, we used in-office bleaching without a light source to increase the whitening effect. The results from different systematic reviews and meta-analyses have not shown any significant effect when using a light unit to improve the bleaching effect for a high concentration of hydrogen peroxide.<sup><xref rid="B28" ref-type="bibr">28</xref>-<xref rid="B30" ref-type="bibr">30</xref></sup> Also, a recent network meta-analysis included 18 studies in the quantitative synthesis and observed no superior effect of in-office bleaching with the use of any light activation.<sup><xref rid="B31" ref-type="bibr">31</xref></sup> Our study contemplates only the first two weeks after bleaching treatment; the patients are to be followed aiming to observe possible differences between treatments in a long term. A longer follow-up is needed to determine the durability of the treatment and the potential for color reversal.<sup><xref rid="B6" ref-type="bibr">6</xref></sup></p>
+              <p>Color evaluation in this study was performed with subjective and objective methods. The subjective assessment is important for color research and can be characterized by perceptibility and acceptability thresholds. While the subjective visual scale is the system most commonly employed by clinicians to reproduce specific shades, this technique still presents a challenge for clinical Dentistry<sup><xref rid="B23" ref-type="bibr">23</xref></sup> and can be influenced by evaluators’ characteristics (gender, eye fatigue, and experience).<sup><xref rid="B32" ref-type="bibr">32</xref></sup> To avoid possible imprecisions, we also perform the analysis with a digital spectrophotometer using the CIEDE2000 system.<sup><xref rid="B33" ref-type="bibr">33</xref>-<xref rid="B36" ref-type="bibr">36</xref></sup> The spectrophotometer data from both groups were able to show differences in almost all parameters after bleaching. Parameter of ΔE<sup>00</sup>, 2 weeks post-bleaching, presents slightly color improvement in at-home bleaching. Clinically relevant bleaching effect can improve the Oral Health-Related Quality of Life in individuals with dark teeth that underwent bleaching treatments.<sup><xref rid="B16" ref-type="bibr">16</xref></sup> A multicentric study observed that 50% of perceptibility and acceptability thresholds of color change in CIEDE2000 was 0.81 (95% CI 0.34 – 1.28) and 1.77 (95% CI 1.23 – 2.37), respectively.<sup><xref rid="B36" ref-type="bibr">36</xref></sup> In our study, both bleaching treatments presented color change values in CIEDE2000 parameters higher than the aforementioned values. However, the differences between the treatments have remained below these limits, meaning that both treatments showed perceived changes but perhaps the change between treatments was so subtle that it could not be clinically perceived.</p>
+              <p>The most common adverse effect in vital bleaching reported by patients is tooth sensitivity.<sup><xref rid="B13" ref-type="bibr">13</xref></sup> This sensitivity has been related to the increased porosity produced by bleaching agents, which allow the penetration of ions and liquid changes into the dentinal tubules that could cause sensitivity.<sup><xref rid="B37" ref-type="bibr">37</xref></sup> Additionally, it was hypothesized recently that a chemo-sensitive ion channel-TRPA1 could be sensible to a variety of oxidizer compounds including hydrogen peroxide. The activation of intradental nerve activity via TRPA1 could be the mechanism of pain decurrent of bleaching treatment.<sup><xref rid="B38" ref-type="bibr">38</xref></sup> Even though there is a high prevalence of sensitivity after bleaching treatment, the degree of sensitivity has mostly been reported to be mild.<sup><xref rid="B39" ref-type="bibr">39</xref></sup> Indeed, in our study, the prevalence of sensitivity in both groups had the peak around the first week during bleaching treatment, when almost 50% in each group had experienced pain, mostly of mild and transitory intensity, as previously reported.<sup><xref rid="B11" ref-type="bibr">11</xref></sup> Some clinical trials have found no difference in tooth sensitivity with the use of potassium nitrate as a desensitizing agent.<sup><xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B19" ref-type="bibr">19</xref></sup> Although, Martini, et al.<sup><xref rid="B15" ref-type="bibr">15</xref></sup> (2020) observed that 2% potassium nitrate was able to reduce the sensitivity when applied before, or both before and after the bleaching, the topical application of 10% potassium nitrate before in-office bleaching did not reduce neither the risk nor the intensity of tooth sensitivity in a randomized clinical trial.<sup><xref rid="B12" ref-type="bibr">12</xref></sup> Other randomized clinical trials have observed that desensitizing agents could reduce sensibility,<sup><xref rid="B40" ref-type="bibr">40</xref>,<xref rid="B41" ref-type="bibr">41</xref></sup> since a meta-analysis detected significant results in favor of the use of potassium nitrate.<sup><xref rid="B13" ref-type="bibr">13</xref></sup> In our study, the direct effect of potassium nitrate was not evaluated. Differences in tooth sensitivity are possibly linked to the bleaching technique itself, since both bleaching techniques were preceded by desensitizing agent application.</p>
+              <p>In a double-blind randomized clinical trial, subjects treated with in-office bleaching reported a higher intensity of tooth sensitivity than those individuals who underwent at-home bleaching treatment.<sup><xref rid="B11" ref-type="bibr">11</xref></sup> In our study, the only noticeable difference between the two protocols was in the first day of treatment, when patients from in-office bleaching reported a significantly higher mean of pain. Such finding agrees with previous studies, in which tooth sensitivity due to bleaching usually occurred within the first 24 hours.<sup><xref rid="B39" ref-type="bibr">39</xref>,<xref rid="B42" ref-type="bibr">42</xref>,<xref rid="B43" ref-type="bibr">43</xref></sup> We argue that the higher concentration level of peroxide causes more porosity – at least in the first few hours – consequently provoking some discomfort. However, no significant difference was observed between treatments after these initial results. The discomfort was reduced over time and sensitivity almost disappeared with the cessation of bleaching treatments. We emphasize that, in our study, patients that reported a more severe degree of discomfort during treatment did not request treatment for their discomfort, nor did they request interruption of treatment.</p>
+              <p>Randomized clinical trials are the best study design to show the efficacy of treatments, especially when they follow specific guidelines.<sup><xref rid="B44" ref-type="bibr">44</xref></sup> We have followed the guidelines for an RCT and the study was reported using the Consort recommendations. Additionally, the study has an adequate sample size, the randomization was carried out to guarantee the similarity between groups before treatment starting and the blinding process was able to avoid that volunteers, operators, and evaluators could be informed about the treatments, which is important to prevent bias. Some limitations, however, need to be cited. First, tooth sensitivity was a secondary outcome and there was no group without the application of the desensitizing agent before the bleaching treatments. Therefore, the direct influence of the desensitizing agent on tooth sensitivity was not evaluated. Second, the subjects were from a private university, with a higher socioeconomic status compared to the general population, which limits the external validity of our study. However, tooth bleaching is one of the most required procedures in private dental offices, which are usually attended by individuals with higher socioeconomic levels. Therefore, our results could be in line with the potential results observed in these private practices. We also observed small differences concerning color parameters between the two techniques. We could not, however, ensure that patients with at-home bleaching have higher levels of satisfaction, since our study did not evaluate this parameter. Moreover, our results cannot be extrapolated over long periods, since the participants were only followed for two weeks post-bleaching.</p>
+              <p>Our randomized clinical trial was able to show that both bleaching treatments, preceded by the use of 2% potassium nitrate, had efficacy to bleach teeth with minimum adverse effects. At-home bleaching protocol produced slightly better results than in-office treatment according to Δa*and Δb* parameters. At-home bleaching uses less aggressive agents and usually presents a lower cost than in-office treatment<sup><xref rid="B45" ref-type="bibr">45</xref>,<xref rid="B46" ref-type="bibr">46</xref>,<xref rid="B47" ref-type="bibr">47</xref></sup>. When used as recommended by the professional<sup><xref rid="B45" ref-type="bibr">45</xref>,<xref rid="B47" ref-type="bibr">47</xref></sup>, this treatment seems to be the first-choice therapy to treat discolored vital teeth. Indeed, when evaluating the preferences of Brazilian dentists for vital tooth bleaching,<sup><xref rid="B45" ref-type="bibr">45</xref></sup> at-home bleaching was preferred over in-office therapies and 10% CP was the most selected agent.</p>
+            </sec>
+            <sec sec-type="conclusions">
+              <title>Conclusions</title>
+              <p>The results of our study suggested that both techniques – at-home and in-office bleaching, following the use of 2% potassium nitrate – were effective for vital teeth bleaching. However, the 10% carbamide peroxide produced a better whitening effect than the 35% hydrogen peroxide in the short term evaluation. The tooth sensitivity rates were low and similar for the two techniques tested.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplementary tables</title>
+              <supplementary-material content-type="local-data" id="SD1">
+                <media mimetype="application" mime-subtype="pdf" xlink:href="1678-7757-jaos-29-e20200794-supp01.pdf" orientation="portrait" id="d31e1519" position="anchor"/>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <title>Acknowledgments</title>
+              <p>The authors would like to thank FGM Dental Products for the donation of the products used in the research.</p>
+            </ack>
+            <fn-group>
+              <fn fn-type="other">
+                <p>Ethical approval</p>
+                <p>All procedures performed in this study were in accordance with the ethical standards of the national research committee (RESOLUTION No. 466) and had the approval of local Ethic Committee.</p>
+              </fn>
+              <fn fn-type="other">
+                <p>Informed consent</p>
+                <p>All participants this study signed an informed consent form.</p>
+              </fn>
+            </fn-group>
+            <ref-list>
+              <title>References</title>
+              <ref id="B1">
+                <label>1</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1529">1 - Chisini LA, Cademartori MG, Collares K, Pires ALC, Azevedo MS, Correa MB, et al. Desire of university students for esthetic treatment and tooth bleaching: a cross-sectional study. Braz J Oral Sci. 2019;18e191648. doi: 10.20396/bjos.v18i0.8657267</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1530">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Chisini</surname>
+                        <given-names>LA</given-names>
+                      </name>
+                      <name>
+                        <surname>Cademartori</surname>
+                        <given-names>MG</given-names>
+                      </name>
+                      <name>
+                        <surname>Collares</surname>
+                        <given-names>K</given-names>
+                      </name>
+                      <name>
+                        <surname>Pires</surname>
+                        <given-names>ALC</given-names>
+                      </name>
+                      <name>
+                        <surname>Azevedo</surname>
+                        <given-names>MS</given-names>
+                      </name>
+                      <name>
+                        <surname>Correa</surname>
+                        <given-names>MB</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Desire of university students for esthetic treatment and tooth bleaching: a cross-sectional study</article-title>
+                    <source>Braz J Oral Sci</source>
+                    <year>2019</year>
+                    <volume>18</volume>
+                    <elocation-id>e191648</elocation-id>
+                    <pub-id pub-id-type="doi">10.20396/bjos.v18i0.8657267</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B2">
+                <label>2</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1570">2 - Silva FB, Chisini LA, Demarco FF, Horta BL, Correa MB. Desire for tooth bleaching and treatment performed in Brazilian adults: findings from a birth cohort. Braz Oral Res. 2018;32e12. doi: 10.1590/1807-3107bor-2018.vol32.0012</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1571">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Silva</surname>
+                        <given-names>FB</given-names>
+                      </name>
+                      <name>
+                        <surname>Chisini</surname>
+                        <given-names>LA</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Horta</surname>
+                        <given-names>BL</given-names>
+                      </name>
+                      <name>
+                        <surname>Correa</surname>
+                        <given-names>MB</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Desire for tooth bleaching and treatment performed in Brazilian adults: findings from a birth cohort</article-title>
+                    <source>Braz Oral Res</source>
+                    <year>2018</year>
+                    <volume>32</volume>
+                    <elocation-id>e12</elocation-id>
+                    <pub-id pub-id-type="doi">10.1590/1807-3107bor-2018.vol32.0012</pub-id>
+                    <pub-id pub-id-type="pmid">29538477</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B3">
+                <label>3</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1604">3 - Hasson H, Ismail AI, Neiva G. Home-based chemically-induced whitening of teeth in adults. Cochrane Database Syst Rev. 2006;(4):CD006202. 10.1002/14651858.CD006202</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1605">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Hasson</surname>
+                        <given-names>H</given-names>
+                      </name>
+                      <name>
+                        <surname>Ismail</surname>
+                        <given-names>AI</given-names>
+                      </name>
+                      <name>
+                        <surname>Neiva</surname>
+                        <given-names>G</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Home-based chemically-induced whitening of teeth in adults</article-title>
+                    <source>Cochrane Database Syst Rev</source>
+                    <year>2006</year>
+                    <issue>4</issue>
+                    <elocation-id>CD006202</elocation-id>
+                    <pub-id pub-id-type="doi">10.1002/14651858.CD006202</pub-id>
+                    <pub-id pub-id-type="pmid">17054282</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B4">
+                <label>4</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1630">4 - Meireles SS, Heckmann SS, Leida FL, Santos IS, Della Bona A, Demarco FF. Efficacy and safety of 10% and 16% carbamide peroxide tooth-whitening gels: a randomized clinical trial. Oper Dent. 2008;33(6):606-12. doi: 10.2341/07-150</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1631">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Heckmann</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Leida</surname>
+                        <given-names>FL</given-names>
+                      </name>
+                      <name>
+                        <surname>Santos</surname>
+                        <given-names>IS</given-names>
+                      </name>
+                      <name>
+                        <surname>Della Bona</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Efficacy and safety of 10% and 16% carbamide peroxide tooth-whitening gels: a randomized clinical trial</article-title>
+                    <source>Oper Dent</source>
+                    <year>2008</year>
+                    <volume>33</volume>
+                    <issue>6</issue>
+                    <fpage>606</fpage>
+                    <lpage>612</lpage>
+                    <pub-id pub-id-type="doi">10.2341/07-150</pub-id>
+                    <pub-id pub-id-type="pmid">19051852</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B5">
+                <label>5</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1671">5 - Darriba IL, Cabirta Melón P, García Sartal A, Ríos Sousa I, de la Peña VA. Influence of treatment duration on the efficacy of at-home bleaching with daytime application: a randomized clinical trial. Clin Oral Investig. 2019;23(8):3229-37. doi: 10.1007/s00784-018-2744-z</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1672">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Darriba</surname>
+                        <given-names>IL</given-names>
+                      </name>
+                      <name>
+                        <surname>Cabirta Melón</surname>
+                        <given-names>P</given-names>
+                      </name>
+                      <name>
+                        <surname>García Sartal</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Ríos Sousa</surname>
+                        <given-names>I</given-names>
+                      </name>
+                      <name>
+                        <surname>de la Peña</surname>
+                        <given-names>VA</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Influence of treatment duration on the efficacy of at-home bleaching with daytime application: a randomized clinical trial</article-title>
+                    <source>Clin Oral Investig</source>
+                    <year>2019</year>
+                    <volume>23</volume>
+                    <issue>8</issue>
+                    <fpage>3229</fpage>
+                    <lpage>3237</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00784-018-2744-z</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B6">
+                <label>6</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1707">6 - Meireles SS, Santos IS, Bona AD, Demarco FF. A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up. J Dent. 2010;38(12):956-63. doi: 10.1016/j.jdent.2010.08.003</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1708">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Santos</surname>
+                        <given-names>IS</given-names>
+                      </name>
+                      <name>
+                        <surname>Bona</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>A double-blind randomized clinical trial of two carbamide peroxide tooth bleaching agents: 2-year follow-up</article-title>
+                    <source>J Dent</source>
+                    <year>2010</year>
+                    <volume>38</volume>
+                    <issue>12</issue>
+                    <fpage>956</fpage>
+                    <lpage>963</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2010.08.003</pub-id>
+                    <pub-id pub-id-type="pmid">20709137</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B7">
+                <label>7</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1739">7 - Reis A, Kossatz S, Martins GC, Loguercio AD. Efficacy of and effect on tooth sensitivity of in-office bleaching gel concentrations: a randomized clinical trial. Oper Dent. 2013;38(4):386-93. doi: 10.2341/12-140-C</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1740">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Kossatz</surname>
+                        <given-names>S</given-names>
+                      </name>
+                      <name>
+                        <surname>Martins</surname>
+                        <given-names>GC</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Efficacy of and effect on tooth sensitivity of in-office bleaching gel concentrations: a randomized clinical trial</article-title>
+                    <source>Oper Dent</source>
+                    <year>2013</year>
+                    <volume>38</volume>
+                    <issue>4</issue>
+                    <fpage>386</fpage>
+                    <lpage>393</lpage>
+                    <pub-id pub-id-type="doi">10.2341/12-140-C</pub-id>
+                    <pub-id pub-id-type="pmid">23327226</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B8">
+                <label>8</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1771">8 - Giachetti L, Bertini F, Bambi C, Nieri M, Scaminaci Russo D. A randomized clinical trial comparing at-home and in-office tooth whitening techniques: a nine-month follow-up. J Am Dent Assoc. 2010;141(11):1357-64. doi: 10.14219/jada.archive.2010.0081</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1772">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Giachetti</surname>
+                        <given-names>L</given-names>
+                      </name>
+                      <name>
+                        <surname>Bertini</surname>
+                        <given-names>F</given-names>
+                      </name>
+                      <name>
+                        <surname>Bambi</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Nieri</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <name>
+                        <surname>Scaminaci Russo</surname>
+                        <given-names>D</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>A randomized clinical trial comparing at-home and in-office tooth whitening techniques: a nine-month follow-up</article-title>
+                    <source>J Am Dent Assoc</source>
+                    <year>2010</year>
+                    <volume>141</volume>
+                    <issue>11</issue>
+                    <fpage>1357</fpage>
+                    <lpage>1364</lpage>
+                    <pub-id pub-id-type="doi">10.14219/jada.archive.2010.0081</pub-id>
+                    <pub-id pub-id-type="pmid">21037194</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B9">
+                <label>9</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1807">9 - Bonafe E, Bacovis CL, Iensen S, Loguercio AD, Reis A, Kossatz S. Tooth sensitivity and efficacy of in-office bleaching in restored teeth. J Dent. 2013;41(4):363-9. doi: 10.1016/j.jdent.2013.01.007</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1808">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Bonafe</surname>
+                        <given-names>E</given-names>
+                      </name>
+                      <name>
+                        <surname>Bacovis</surname>
+                        <given-names>CL</given-names>
+                      </name>
+                      <name>
+                        <surname>Iensen</surname>
+                        <given-names>S</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Kossatz</surname>
+                        <given-names>S</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Tooth sensitivity and efficacy of in-office bleaching in restored teeth</article-title>
+                    <source>J Dent</source>
+                    <year>2013</year>
+                    <volume>41</volume>
+                    <issue>4</issue>
+                    <fpage>363</fpage>
+                    <lpage>369</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2013.01.007</pub-id>
+                    <pub-id pub-id-type="pmid">23357647</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B10">
+                <label>10</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1848">10 - Basting RT, Amaral FL, Franca FM, Florio FM. Clinical comparative study of the effectiveness of and tooth sensitivity to 10% and 20% carbamide peroxide home-use and 35% and 38% hydrogen peroxide in-office bleaching materials containing desensitizing agents. Oper Dent. 2012;37(5):464-73. doi: 10.2341/11-337-C</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1849">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Basting</surname>
+                        <given-names>RT</given-names>
+                      </name>
+                      <name>
+                        <surname>Amaral</surname>
+                        <given-names>FL</given-names>
+                      </name>
+                      <name>
+                        <surname>Franca</surname>
+                        <given-names>FM</given-names>
+                      </name>
+                      <name>
+                        <surname>Florio</surname>
+                        <given-names>FM</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Clinical comparative study of the effectiveness of and tooth sensitivity to 10% and 20% carbamide peroxide home-use and 35% and 38% hydrogen peroxide in-office bleaching materials containing desensitizing agents</article-title>
+                    <source>Oper Dent</source>
+                    <year>2012</year>
+                    <volume>37</volume>
+                    <issue>5</issue>
+                    <fpage>464</fpage>
+                    <lpage>473</lpage>
+                    <pub-id pub-id-type="doi">10.2341/11-337-C</pub-id>
+                    <pub-id pub-id-type="pmid">22616927</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B11">
+                <label>11</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1881">11 - Tay LY, Kose C, Herrera DR, Reis A, Loguercio AD. Long-term efficacy of in-office and at-home bleaching: a 2-year double-blind randomized clinical trial. Am J Dent. 2012;25(4):199-204.</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1882">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Tay</surname>
+                        <given-names>LY</given-names>
+                      </name>
+                      <name>
+                        <surname>Kose</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Herrera</surname>
+                        <given-names>DR</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Long-term efficacy of in-office and at-home bleaching: a 2-year double-blind randomized clinical trial</article-title>
+                    <source>Am J Dent</source>
+                    <year>2012</year>
+                    <volume>25</volume>
+                    <issue>4</issue>
+                    <fpage>199</fpage>
+                    <lpage>204</lpage>
+                    <pub-id pub-id-type="pmid">23082382</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B12">
+                <label>12</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1915">12 - Rezende M, Silva KL, Miguel TC, Farago PV, Loguercio AD, Martins LD, et al. Prior application of 10% potassium nitrate to reduce postbleaching sensitivity: a randomized triple-blind clinical trial. J Evid Based Dent Pract. 2020;20(2):101406. doi: 10.1016/j.jebdp.2020.101406</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1916">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Rezende</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <name>
+                        <surname>Silva</surname>
+                        <given-names>KL</given-names>
+                      </name>
+                      <name>
+                        <surname>Miguel</surname>
+                        <given-names>TC</given-names>
+                      </name>
+                      <name>
+                        <surname>Farago</surname>
+                        <given-names>PV</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Martins</surname>
+                        <given-names>LD</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Prior application of 10% potassium nitrate to reduce postbleaching sensitivity: a randomized triple-blind clinical trial</article-title>
+                    <source>J Evid Based Dent Pract</source>
+                    <year>2020</year>
+                    <volume>20</volume>
+                    <issue>2</issue>
+                    <size units="pages">101406</size>
+                    <pub-id pub-id-type="doi">10.1016/j.jebdp.2020.10140</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B13">
+                <label>13</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1958">13 - Wang Y, Gao J, Jiang T, Liang S, Zhou Y, Matis BA. Evaluation of the efficacy of potassium nitrate and sodium fluoride as desensitizing agents during tooth bleaching treatment-A systematic review and meta-analysis. J Dent. 2015;43(8):913-23. doi: 10.1016/j.jdent.2015.03.015</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e1959">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Wang</surname>
+                        <given-names>Y</given-names>
+                      </name>
+                      <name>
+                        <surname>Gao</surname>
+                        <given-names>J</given-names>
+                      </name>
+                      <name>
+                        <surname>Jiang</surname>
+                        <given-names>T</given-names>
+                      </name>
+                      <name>
+                        <surname>Liang</surname>
+                        <given-names>S</given-names>
+                      </name>
+                      <name>
+                        <surname>Zhou</surname>
+                        <given-names>Y</given-names>
+                      </name>
+                      <name>
+                        <surname>Matis</surname>
+                        <given-names>BA</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Evaluation of the efficacy of potassium nitrate and sodium fluoride as desensitizing agents during tooth bleaching treatment-A systematic review and meta-analysis</article-title>
+                    <source>J Dent</source>
+                    <year>2015</year>
+                    <volume>43</volume>
+                    <issue>8</issue>
+                    <fpage>913</fpage>
+                    <lpage>923</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2015.03.015</pub-id>
+                    <pub-id pub-id-type="pmid">25913140</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B14">
+                <label>14</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e1999">14 - Costacurta AO, Kunz P, Silva RC, Wambier LM, Cunha LF, Correr GM, et al. Does the addition of potassium nitrate to carbamide peroxide gel reduce sensitivity during at-home bleaching? Aust Dent J. 2020;65(1):70-82. doi: 10.1111/adj.12739</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2000">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Costacurta</surname>
+                        <given-names>AO</given-names>
+                      </name>
+                      <name>
+                        <surname>Kunz</surname>
+                        <given-names>P</given-names>
+                      </name>
+                      <name>
+                        <surname>Silva</surname>
+                        <given-names>RC</given-names>
+                      </name>
+                      <name>
+                        <surname>Wambier</surname>
+                        <given-names>LM</given-names>
+                      </name>
+                      <name>
+                        <surname>Cunha</surname>
+                        <given-names>LF</given-names>
+                      </name>
+                      <name>
+                        <surname>Correr</surname>
+                        <given-names>GM</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Does the addition of potassium nitrate to carbamide peroxide gel reduce sensitivity during at-home bleaching?</article-title>
+                    <source>Aust Dent J</source>
+                    <year>2020</year>
+                    <volume>65</volume>
+                    <issue>1</issue>
+                    <fpage>70</fpage>
+                    <lpage>82</lpage>
+                    <pub-id pub-id-type="doi">10.1111/adj.12739</pub-id>
+                    <pub-id pub-id-type="pmid">31765021</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B15">
+                <label>15</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2042">15 - Martini EC, Parreiras SO, Szesz AL, Coppla FM, Loguercio AD, Reis A. Bleaching-induced tooth sensitivity with application of a desensitizing gel before and after in-office bleaching: a triple-blind randomized clinical trial. Clin Oral Investig. 2020;24(1):385-94. doi: 10.1007/s00784-019-02942-9</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2043">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Martini</surname>
+                        <given-names>EC</given-names>
+                      </name>
+                      <name>
+                        <surname>Parreiras</surname>
+                        <given-names>SO</given-names>
+                      </name>
+                      <name>
+                        <surname>Szesz</surname>
+                        <given-names>AL</given-names>
+                      </name>
+                      <name>
+                        <surname>Coppla</surname>
+                        <given-names>FM</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Bleaching-induced tooth sensitivity with application of a desensitizing gel before and after in-office bleaching: a triple-blind randomized clinical trial</article-title>
+                    <source>Clin Oral Investig</source>
+                    <year>2020</year>
+                    <volume>24</volume>
+                    <issue>1</issue>
+                    <fpage>385</fpage>
+                    <lpage>394</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00784-019-02942-9</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B16">
+                <label>16</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2083">16 - Meireles SS, Goettems ML, Dantas RV, Bona AD, Santos IS, Demarco FF. Changes in oral health related quality of life after dental bleaching in a double-blind randomized clinical trial. J Dent. 2014;42(2):114-21. doi: 10.1016/j.jdent.2013.11.022</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2084">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Goettems</surname>
+                        <given-names>ML</given-names>
+                      </name>
+                      <name>
+                        <surname>Dantas</surname>
+                        <given-names>RV</given-names>
+                      </name>
+                      <name>
+                        <surname>Bona</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Santos</surname>
+                        <given-names>IS</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Changes in oral health related quality of life after dental bleaching in a double-blind randomized clinical trial</article-title>
+                    <source>J Dent</source>
+                    <year>2014</year>
+                    <volume>42</volume>
+                    <issue>2</issue>
+                    <fpage>114</fpage>
+                    <lpage>121</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2013.11.022</pub-id>
+                    <pub-id pub-id-type="pmid">24316342</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B17">
+                <label>17</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2124">17 - Rodrigues JL, Rocha PS, Pardim SL, Machado AC, Faria ES, Seraidarian PI. Association between in-office and at-home tooth bleaching: a single blind randomized clinical trial. Braz Dent J. 2018;29(2):133-9. doi: 10.1590/0103-6440201801726</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2125">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Rodrigues</surname>
+                        <given-names>JL</given-names>
+                      </name>
+                      <name>
+                        <surname>Rocha</surname>
+                        <given-names>PS</given-names>
+                      </name>
+                      <name>
+                        <surname>Pardim</surname>
+                        <given-names>SL</given-names>
+                      </name>
+                      <name>
+                        <surname>Machado</surname>
+                        <given-names>AC</given-names>
+                      </name>
+                      <name>
+                        <surname>Faria</surname>
+                        <given-names>ES</given-names>
+                      </name>
+                      <name>
+                        <surname>Seraidarian</surname>
+                        <given-names>PI</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Association between in-office and at-home tooth bleaching: a single blind randomized clinical trial</article-title>
+                    <source>Braz Dent J</source>
+                    <year>2018</year>
+                    <volume>29</volume>
+                    <issue>2</issue>
+                    <fpage>133</fpage>
+                    <lpage>139</lpage>
+                    <pub-id pub-id-type="doi">10.1590/0103-6440201801726</pub-id>
+                    <pub-id pub-id-type="pmid">29898058</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B18">
+                <label>18</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2165">18 - Knezović Zlatarić D, Žagar M, Illeš D. A clinical study assessing the short-term efficacy of combined in-office/at-home whitening treatment. J Esthet Restor Dent. 2019;31(2):140-6. doi: 10.1111/jerd.12467</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2166">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Knezović Zlatarić</surname>
+                        <given-names>D</given-names>
+                      </name>
+                      <name>
+                        <surname>Žagar</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <name>
+                        <surname>Illeš</surname>
+                        <given-names>D</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>A clinical study assessing the short-term efficacy of combined in-office/at-home whitening treatment</article-title>
+                    <source>J Esthet Restor Dent</source>
+                    <year>2019</year>
+                    <volume>31</volume>
+                    <issue>2</issue>
+                    <fpage>140</fpage>
+                    <lpage>146</lpage>
+                    <pub-id pub-id-type="doi">10.1111/jerd.12467</pub-id>
+                    <pub-id pub-id-type="pmid">30859741</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B19">
+                <label>19</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2193">19 - Maran BM, Vochikovski L, Andrade Hortkoff DR, Stanislawczuk R, Loguercio AD, Reis A. Tooth sensitivity with a desensitizing-containing at-home bleaching gel-a randomized triple-blind clinical trial. J Dent. 2018;72:64-70. doi: 10.1016/j.jdent.2018.03.006</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2194">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Maran</surname>
+                        <given-names>BM</given-names>
+                      </name>
+                      <name>
+                        <surname>Vochikovski</surname>
+                        <given-names>L</given-names>
+                      </name>
+                      <name>
+                        <surname>Andrade Hortkoff</surname>
+                        <given-names>DR</given-names>
+                      </name>
+                      <name>
+                        <surname>Stanislawczuk</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Tooth sensitivity with a desensitizing-containing at-home bleaching gel-a randomized triple-blind clinical trial</article-title>
+                    <source>J Dent</source>
+                    <year>2018</year>
+                    <volume>72</volume>
+                    <fpage>64</fpage>
+                    <lpage>70</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2018.03.006</pub-id>
+                    <pub-id pub-id-type="pmid">29551346</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B20">
+                <label>20</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2233">20 - Chemin K, Rezende M, Loguercio AD, Reis A, Kossatz S. Effectiveness of and dental sensitivity to at-home bleaching with 4% and 10% hydrogen peroxide: a randomized, triple-blind clinical trial. Oper Dent. 2018;43(3):232-40. doi: 10.2341/16-260-C</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2234">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Chemin</surname>
+                        <given-names>K</given-names>
+                      </name>
+                      <name>
+                        <surname>Rezende</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Kossatz</surname>
+                        <given-names>S</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Effectiveness of and dental sensitivity to at-home bleaching with 4% and 10% hydrogen peroxide: a randomized, triple-blind clinical trial</article-title>
+                    <source>Oper Dent</source>
+                    <year>2018</year>
+                    <volume>43</volume>
+                    <issue>3</issue>
+                    <fpage>232</fpage>
+                    <lpage>240</lpage>
+                    <pub-id pub-id-type="doi">10.2341/16-260-C</pub-id>
+                    <pub-id pub-id-type="pmid">29676979</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B21">
+                <label>21</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2269">21 - Schulz KF, Altman DG, Moher D, Group C. CONSORT 2010 Statement: updated guidelines for reporting parallel group randomized trials. Open Med. 2010;4(1):e60-8.</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2270">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Schulz</surname>
+                        <given-names>KF</given-names>
+                      </name>
+                      <name>
+                        <surname>Altman</surname>
+                        <given-names>DG</given-names>
+                      </name>
+                      <name>
+                        <surname>Moher</surname>
+                        <given-names>D</given-names>
+                      </name>
+                      <collab>Group C</collab>
+                    </person-group>
+                    <article-title>CONSORT 2010 Statement: updated guidelines for reporting parallel group randomized trials</article-title>
+                    <source>Open Med</source>
+                    <year>2010</year>
+                    <volume>4</volume>
+                    <issue>1</issue>
+                    <elocation-id>e60-8</elocation-id>
+                    <pub-id pub-id-type="pmid">21686296</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B22">
+                <label>22</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2297">22 - Meireles SS, Demarco FF, Santos IS, Dumith SC, Bona AD. Validation and reliability of visual assessment with a shade guide for tooth-color classification. Oper Dent. 2008;33(2):121-6. doi: 10.2341/07-71</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2298">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Santos</surname>
+                        <given-names>IS</given-names>
+                      </name>
+                      <name>
+                        <surname>Dumith</surname>
+                        <given-names>SC</given-names>
+                      </name>
+                      <name>
+                        <surname>Bona</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Validation and reliability of visual assessment with a shade guide for tooth-color classification</article-title>
+                    <source>Oper Dent</source>
+                    <year>2008</year>
+                    <volume>33</volume>
+                    <issue>2</issue>
+                    <fpage>121</fpage>
+                    <lpage>126</lpage>
+                    <pub-id pub-id-type="doi">10.2341/07-71</pub-id>
+                    <pub-id pub-id-type="pmid">18435184</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B23">
+                <label>23</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2333">23 - Chu SJ, Trushkowsky RD, Paravina RD. Dental color matching instruments and systems. Review of clinical and research aspects. J Dent. 2010;38 Suppl 2:e2-16. doi: 10.1016/j.jdent.2010.07.001</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2334">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Chu</surname>
+                        <given-names>SJ</given-names>
+                      </name>
+                      <name>
+                        <surname>Trushkowsky</surname>
+                        <given-names>RD</given-names>
+                      </name>
+                      <name>
+                        <surname>Paravina</surname>
+                        <given-names>RD</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Dental color matching instruments and systems. Review of clinical and research aspects</article-title>
+                    <source>J Dent</source>
+                    <year>2010</year>
+                    <volume>38</volume>
+                    <issue>Suppl 2</issue>
+                    <elocation-id>e2-16</elocation-id>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2010.07.001</pub-id>
+                    <pub-id pub-id-type="pmid">20621154</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B24">
+                <label>24</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2360">24 - Sharma G, Wu W, Dalal E. The CIEDE2000 color-diﬀerence formula: implementation notes, supplementary test data, and mathematical observations. Color Res Appl. 2005;30(1):21-30. doi: 10.1002/col.20070</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2361">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Sharma</surname>
+                        <given-names>G</given-names>
+                      </name>
+                      <name>
+                        <surname>Wu</surname>
+                        <given-names>W</given-names>
+                      </name>
+                      <name>
+                        <surname>Dalal</surname>
+                        <given-names>E</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>The CIEDE2000 color-diﬀerence formula: implementation notes, supplementary test data, and mathematical observations</article-title>
+                    <source>Color Res Appl</source>
+                    <year>2005</year>
+                    <volume>30</volume>
+                    <issue>1</issue>
+                    <fpage>21</fpage>
+                    <lpage>30</lpage>
+                    <pub-id pub-id-type="doi">10.1002/col.20070</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B25">
+                <label>25</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2388">25 - Chisini LA, Conde MC, Meireles SS, Dantas RV, Sarmento HR, Della Bona A, et al. Effect of temperature and storage time on dental bleaching effectiveness. J Esthet Restor Dent. 2019;31(1):93-7. doi: 10.1111/jerd.12439</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2389">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Chisini</surname>
+                        <given-names>LA</given-names>
+                      </name>
+                      <name>
+                        <surname>Conde</surname>
+                        <given-names>MC</given-names>
+                      </name>
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Dantas</surname>
+                        <given-names>RV</given-names>
+                      </name>
+                      <name>
+                        <surname>Sarmento</surname>
+                        <given-names>HR</given-names>
+                      </name>
+                      <name>
+                        <surname>Della Bona</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Effect of temperature and storage time on dental bleaching effectiveness</article-title>
+                    <source>J Esthet Restor Dent</source>
+                    <year>2019</year>
+                    <volume>31</volume>
+                    <issue>1</issue>
+                    <fpage>93</fpage>
+                    <lpage>97</lpage>
+                    <pub-id pub-id-type="doi">10.1111/jerd.12439</pub-id>
+                    <pub-id pub-id-type="pmid">30379397</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B26">
+                <label>26</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2431">26 - Ghalili KM, Khawaled K, Rozen D, Afsahi V. Clinical study of the safety and effectiveness of a novel over-the-counter bleaching tray system. Clin Cosmet Investig Dent. 2014;6:15-9. doi: 10.2147/CCIDE.S59292</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2432">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Ghalili</surname>
+                        <given-names>KM</given-names>
+                      </name>
+                      <name>
+                        <surname>Khawaled</surname>
+                        <given-names>K</given-names>
+                      </name>
+                      <name>
+                        <surname>Rozen</surname>
+                        <given-names>D</given-names>
+                      </name>
+                      <name>
+                        <surname>Afsahi</surname>
+                        <given-names>V</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Clinical study of the safety and effectiveness of a novel over-the-counter bleaching tray system</article-title>
+                    <source>Clin Cosmet Investig Dent</source>
+                    <year>2014</year>
+                    <volume>6</volume>
+                    <fpage>15</fpage>
+                    <lpage>19</lpage>
+                    <pub-id pub-id-type="doi">10.2147/CCIDE.S59292</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B27">
+                <label>27</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2462">27 - Geus JL, Wambier LM, Kossatz S, Loguercio AD, Reis A. At-home vs in-office bleaching: a systematic review and meta-analysis. Oper Dent. 2016;41(4):341-56. doi: 10.2341/15-287-LIT</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2463">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Geus</surname>
+                        <given-names>JL</given-names>
+                      </name>
+                      <name>
+                        <surname>Wambier</surname>
+                        <given-names>LM</given-names>
+                      </name>
+                      <name>
+                        <surname>Kossatz</surname>
+                        <given-names>S</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>At-home vs in-office bleaching: a systematic review and meta-analysis</article-title>
+                    <source>Oper Dent</source>
+                    <year>2016</year>
+                    <volume>41</volume>
+                    <issue>4</issue>
+                    <fpage>341</fpage>
+                    <lpage>356</lpage>
+                    <pub-id pub-id-type="doi">10.2341/15-287-LIT</pub-id>
+                    <pub-id pub-id-type="pmid">27045285</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B28">
+                <label>28</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2498">28 - He LB, Shao MY, Tan K, Xu X, Li JY. The effects of light on bleaching and tooth sensitivity during in-office vital bleaching: a systematic review and meta-analysis. J Dent. 2012;40(8):644-53. doi: 10.1016/j.jdent.2012.04.010</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2499">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>He</surname>
+                        <given-names>LB</given-names>
+                      </name>
+                      <name>
+                        <surname>Shao</surname>
+                        <given-names>MY</given-names>
+                      </name>
+                      <name>
+                        <surname>Tan</surname>
+                        <given-names>K</given-names>
+                      </name>
+                      <name>
+                        <surname>Xu</surname>
+                        <given-names>X</given-names>
+                      </name>
+                      <name>
+                        <surname>Li</surname>
+                        <given-names>JY</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>The effects of light on bleaching and tooth sensitivity during in-office vital bleaching: a systematic review and meta-analysis</article-title>
+                    <source>J Dent</source>
+                    <year>2012</year>
+                    <volume>40</volume>
+                    <issue>8</issue>
+                    <fpage>644</fpage>
+                    <lpage>653</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2012.04.010</pub-id>
+                    <pub-id pub-id-type="pmid">22525016</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B29">
+                <label>29</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2534">29 - Maran BM, Burey A, Matos TP, Loguercio AD, Reis A. In-office dental bleaching with light vs. without light: a systematic review and meta-analysis. J Dent. 2018;70:1-13. doi: 10.1016/j.jdent.2017.11.007</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2535">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Maran</surname>
+                        <given-names>BM</given-names>
+                      </name>
+                      <name>
+                        <surname>Burey</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Matos</surname>
+                        <given-names>TP</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>In-office dental bleaching with light vs. without light: a systematic review and meta-analysis</article-title>
+                    <source>J Dent</source>
+                    <year>2018</year>
+                    <volume>70</volume>
+                    <fpage>1</fpage>
+                    <lpage>13</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2017.11.007</pub-id>
+                    <pub-id pub-id-type="pmid">29289725</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B30">
+                <label>30</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2569">30 - Souto Maior JR, Moraes S, Lemos C, Vasconcelos BD, Montes M, Pellizzer EP. Effectiveness of light sources on in-office dental bleaching: a systematic review and meta-analyses. Oper Dent. 2019;44(3):E105-E17. doi: 10.2341/17-280-L</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2570">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Souto Maior</surname>
+                        <given-names>JR</given-names>
+                      </name>
+                      <name>
+                        <surname>Moraes</surname>
+                        <given-names>S</given-names>
+                      </name>
+                      <name>
+                        <surname>Lemos</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Vasconcelos</surname>
+                        <given-names>BD</given-names>
+                      </name>
+                      <name>
+                        <surname>Montes</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <name>
+                        <surname>Pellizzer</surname>
+                        <given-names>EP</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Effectiveness of light sources on in-office dental bleaching: a systematic review and meta-analyses</article-title>
+                    <source>Oper Dent</source>
+                    <year>2019</year>
+                    <volume>44</volume>
+                    <issue>3</issue>
+                    <fpage>E105</fpage>
+                    <lpage>EE17</lpage>
+                    <pub-id pub-id-type="doi">10.2341/17-280-L</pub-id>
+                    <pub-id pub-id-type="pmid">29893625</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B31">
+                <label>31</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2610">31 - Maran BM, Ziegelmann PK, Burey A, Matos TP, Loguercio AD, Reis A. Different light-activation systems associated with dental bleaching: a systematic review and a network meta-analysis. Clin Oral Investig. 2019;23(4):1499-512. doi: 10.1007/s00784-019-02835-x</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2611">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Maran</surname>
+                        <given-names>BM</given-names>
+                      </name>
+                      <name>
+                        <surname>Ziegelmann</surname>
+                        <given-names>PK</given-names>
+                      </name>
+                      <name>
+                        <surname>Burey</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Matos</surname>
+                        <given-names>TP</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Different light-activation systems associated with dental bleaching: a systematic review and a network meta-analysis</article-title>
+                    <source>Clin Oral Investig</source>
+                    <year>2019</year>
+                    <volume>23</volume>
+                    <issue>4</issue>
+                    <fpage>1499</fpage>
+                    <lpage>1512</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s00784-019-02835-x</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B32">
+                <label>32</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2651">32 - Haddad HJ, Jakstat HA, Arnetzl G, Borbely J, Vichi A, Dumfahrt H, et al. Does gender and experience influence shade matching quality? J Dent. 2009;37 Suppl 1:e40-4. doi: 10.1016/j.jdent.2009.05.012</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2652">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Haddad</surname>
+                        <given-names>HJ</given-names>
+                      </name>
+                      <name>
+                        <surname>Jakstat</surname>
+                        <given-names>HA</given-names>
+                      </name>
+                      <name>
+                        <surname>Arnetzl</surname>
+                        <given-names>G</given-names>
+                      </name>
+                      <name>
+                        <surname>Borbely</surname>
+                        <given-names>J</given-names>
+                      </name>
+                      <name>
+                        <surname>Vichi</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Dumfahrt</surname>
+                        <given-names>H</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Does gender and experience influence shade matching quality?</article-title>
+                    <source>J Dent</source>
+                    <year>2009</year>
+                    <volume>37</volume>
+                    <issue>Suppl 1</issue>
+                    <fpage>e40</fpage>
+                    <lpage>e44</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2009.05.012</pub-id>
+                    <pub-id pub-id-type="pmid">19520478</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B33">
+                <label>33</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2695">33 - Pecho OE, Ghinea R, Alessandretti R, Perez MM, Della Bona A. Visual and instrumental shade matching using CIELAB and CIEDE2000 color difference formulas. Dent Mater. 2016;32(1):82-92. doi: 10.1016/j.dental.2015.10.015</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2696">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Pecho</surname>
+                        <given-names>OE</given-names>
+                      </name>
+                      <name>
+                        <surname>Ghinea</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Alessandretti</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Perez</surname>
+                        <given-names>MM</given-names>
+                      </name>
+                      <name>
+                        <surname>Della Bona</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Visual and instrumental shade matching using CIELAB and CIEDE2000 color difference formulas</article-title>
+                    <source>Dent Mater</source>
+                    <year>2016</year>
+                    <volume>32</volume>
+                    <issue>1</issue>
+                    <fpage>82</fpage>
+                    <lpage>92</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.dental.2015.10.015</pub-id>
+                    <pub-id pub-id-type="pmid">26631341</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B34">
+                <label>34</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2731">34 - Ghinea R, Perez MM, Herrera LJ, Rivas MJ, Yebra A, Paravina RD. Color difference thresholds in dental ceramics. J Dent. 2010;38 Suppl 2:e57-64. doi: 10.1016/j.jdent.2010.07.008</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2732">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Ghinea</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Perez</surname>
+                        <given-names>MM</given-names>
+                      </name>
+                      <name>
+                        <surname>Herrera</surname>
+                        <given-names>LJ</given-names>
+                      </name>
+                      <name>
+                        <surname>Rivas</surname>
+                        <given-names>MJ</given-names>
+                      </name>
+                      <name>
+                        <surname>Yebra</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Paravina</surname>
+                        <given-names>RD</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Color difference thresholds in dental ceramics</article-title>
+                    <source>J Dent</source>
+                    <year>2010</year>
+                    <volume>38</volume>
+                    <issue>Suppl 2</issue>
+                    <fpage>e57</fpage>
+                    <lpage>e64</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2010.07.008</pub-id>
+                    <pub-id pub-id-type="pmid">20670670</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B35">
+                <label>35</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2772">35 - Pecho OE, Ghinea R, Ionescu AM, Cardona JL, Paravina RD, Perez MM. Color and translucency of zirconia ceramics, human dentine and bovine dentine. J Dent. 2012;40 Suppl 2:e34-40. doi: 10.1016/j.jdent.2012.08.018</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2773">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Pecho</surname>
+                        <given-names>OE</given-names>
+                      </name>
+                      <name>
+                        <surname>Ghinea</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Ionescu</surname>
+                        <given-names>AM</given-names>
+                      </name>
+                      <name>
+                        <surname>Cardona</surname>
+                        <given-names>JL</given-names>
+                      </name>
+                      <name>
+                        <surname>Paravina</surname>
+                        <given-names>RD</given-names>
+                      </name>
+                      <name>
+                        <surname>Perez</surname>
+                        <given-names>MM</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Color and translucency of zirconia ceramics, human dentine and bovine dentine</article-title>
+                    <source>J Dent</source>
+                    <year>2012</year>
+                    <volume>40</volume>
+                    <issue>Suppl 2</issue>
+                    <fpage>e34</fpage>
+                    <lpage>e40</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2012.08.018</pub-id>
+                    <pub-id pub-id-type="pmid">22960460</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B36">
+                <label>36</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2813">36 - Paravina RD, Ghinea R, Herrera LJ, Bona AD, Igiel C, Linninger M, et al. Color difference thresholds in dentistry. J Esthet Restor Dent. 2015;27 Suppl 1:S1-9. doi: 10.1111/jerd.12149</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2814">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Paravina</surname>
+                        <given-names>RD</given-names>
+                      </name>
+                      <name>
+                        <surname>Ghinea</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Herrera</surname>
+                        <given-names>LJ</given-names>
+                      </name>
+                      <name>
+                        <surname>Bona</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Igiel</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Linninger</surname>
+                        <given-names>M</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Color difference thresholds in dentistry</article-title>
+                    <source>J Esthet Restor Dent</source>
+                    <year>2015</year>
+                    <volume>27</volume>
+                    <issue>Suppl 1</issue>
+                    <fpage>S1</fpage>
+                    <lpage>S9</lpage>
+                    <pub-id pub-id-type="doi">10.1111/jerd.12149</pub-id>
+                    <pub-id pub-id-type="pmid">25886208</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B37">
+                <label>37</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2856">37 - Demarco FF, Meireles SS, Sarmento HR, Dantas RV, Botero T, Tarquinio SB. Erosion and abrasion on dental structures undergoing at-home bleaching. Clin Cosmet Investig Dent. 2011;3:45-52. doi: 10.2147/CCIDEN.S15943</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2857">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Meireles</surname>
+                        <given-names>SS</given-names>
+                      </name>
+                      <name>
+                        <surname>Sarmento</surname>
+                        <given-names>HR</given-names>
+                      </name>
+                      <name>
+                        <surname>Dantas</surname>
+                        <given-names>RV</given-names>
+                      </name>
+                      <name>
+                        <surname>Botero</surname>
+                        <given-names>T</given-names>
+                      </name>
+                      <name>
+                        <surname>Tarquinio</surname>
+                        <given-names>SB</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Erosion and abrasion on dental structures undergoing at-home bleaching</article-title>
+                    <source>Clin Cosmet Investig Dent</source>
+                    <year>2011</year>
+                    <volume>3</volume>
+                    <fpage>45</fpage>
+                    <lpage>52</lpage>
+                    <pub-id pub-id-type="doi">10.2147/CCIDEN.S15943</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B38">
+                <label>38</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2896">38 - Markowitz K. Pretty painful: why does tooth bleaching hurt? Med Hypotheses. 2010;74(5):835-40. doi: 10.1016/j.mehy.2009.11.044</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2897">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Markowitz</surname>
+                        <given-names>K</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Pretty painful: why does tooth bleaching hurt?</article-title>
+                    <source>Med Hypotheses</source>
+                    <year>2010</year>
+                    <volume>74</volume>
+                    <issue>5</issue>
+                    <fpage>835</fpage>
+                    <lpage>840</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.mehy.2009.11.044</pub-id>
+                    <pub-id pub-id-type="pmid">20045265</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B39">
+                <label>39</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2916">39 - Tay LY, Kose C, Loguercio AD, Reis A. Assessing the effect of a desensitizing agent used before in-office tooth bleaching. J Am Dent Assoc. 2009;140(10):1245-51. doi: 10.14219/jada.archive.2009.0047</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2917">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Tay</surname>
+                        <given-names>LY</given-names>
+                      </name>
+                      <name>
+                        <surname>Kose</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Assessing the effect of a desensitizing agent used before in-office tooth bleaching</article-title>
+                    <source>J Am Dent Assoc</source>
+                    <year>2009</year>
+                    <volume>140</volume>
+                    <issue>10</issue>
+                    <fpage>1245</fpage>
+                    <lpage>1251</lpage>
+                    <pub-id pub-id-type="doi">10.14219/jada.archive.2009.0047</pub-id>
+                    <pub-id pub-id-type="pmid">19797554</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B40">
+                <label>40</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2948">40 - Martins LM, Lima ES, Sutil E, Silva LM, Silva J, Reis A, et al. Clinical effects of desensitizing prefilled disposable trays in in-office bleaching: a randomized single-blind clinical trial. Oper Dent. 2020;45(1):E1-E10. doi: 10.2341/18-149-C</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2949">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Martins</surname>
+                        <given-names>LM</given-names>
+                      </name>
+                      <name>
+                        <surname>Lima</surname>
+                        <given-names>ES</given-names>
+                      </name>
+                      <name>
+                        <surname>Sutil</surname>
+                        <given-names>E</given-names>
+                      </name>
+                      <name>
+                        <surname>Silva</surname>
+                        <given-names>LM</given-names>
+                      </name>
+                      <name>
+                        <surname>Silva</surname>
+                        <given-names>J</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Clinical effects of desensitizing prefilled disposable trays in in-office bleaching: a randomized single-blind clinical trial</article-title>
+                    <source>Oper Dent</source>
+                    <year>2020</year>
+                    <volume>45</volume>
+                    <issue>1</issue>
+                    <fpage>E1</fpage>
+                    <lpage>E10</lpage>
+                    <pub-id pub-id-type="doi">10.2341/18-149-C</pub-id>
+                    <pub-id pub-id-type="pmid">31891544</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B41">
+                <label>41</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e2991">41 - Maran BM, Vochikovski L, Hortkoff DR, Stanislawczuk R, Loguercio AD, Reis A. Bleaching sensitivity with a desensitizing in-office bleaching gel: a randomized double-blind clinical trial. Quintessence Int. 2020;51(10):788-97. doi: 10.3290/j.qi.a45173</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e2992">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Maran</surname>
+                        <given-names>BM</given-names>
+                      </name>
+                      <name>
+                        <surname>Vochikovski</surname>
+                        <given-names>L</given-names>
+                      </name>
+                      <name>
+                        <surname>Hortkoff</surname>
+                        <given-names>DR</given-names>
+                      </name>
+                      <name>
+                        <surname>Stanislawczuk</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Loguercio</surname>
+                        <given-names>AD</given-names>
+                      </name>
+                      <name>
+                        <surname>Reis</surname>
+                        <given-names>A</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Bleaching sensitivity with a desensitizing in-office bleaching gel: a randomized double-blind clinical trial</article-title>
+                    <source>Quintessence Int</source>
+                    <year>2020</year>
+                    <volume>51</volume>
+                    <issue>10</issue>
+                    <fpage>788</fpage>
+                    <lpage>797</lpage>
+                    <pub-id pub-id-type="doi">10.3290/j.qi.a45173</pub-id>
+                    <pub-id pub-id-type="pmid">32901243</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B42">
+                <label>42</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3032">42 - Bernardon JK, Sartori N, Ballarin A, Perdigao J, Lopes GC, Baratieri LN. Clinical performance of vital bleaching techniques. Oper Dent. 2010;35(1):3-10. doi: 10.2341/09-008CR</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3033">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Bernardon</surname>
+                        <given-names>JK</given-names>
+                      </name>
+                      <name>
+                        <surname>Sartori</surname>
+                        <given-names>N</given-names>
+                      </name>
+                      <name>
+                        <surname>Ballarin</surname>
+                        <given-names>A</given-names>
+                      </name>
+                      <name>
+                        <surname>Perdigao</surname>
+                        <given-names>J</given-names>
+                      </name>
+                      <name>
+                        <surname>Lopes</surname>
+                        <given-names>GC</given-names>
+                      </name>
+                      <name>
+                        <surname>Baratieri</surname>
+                        <given-names>LN</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Clinical performance of vital bleaching techniques</article-title>
+                    <source>Oper Dent</source>
+                    <year>2010</year>
+                    <volume>35</volume>
+                    <issue>1</issue>
+                    <fpage>3</fpage>
+                    <lpage>10</lpage>
+                    <pub-id pub-id-type="doi">10.2341/09-008CR</pub-id>
+                    <pub-id pub-id-type="pmid">20166405</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B43">
+                <label>43</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3073">43 - Charakorn P, Cabanilla LL, Wagner WC, Foong WC, Shaheen J, Pregitzer R, et al. The effect of preoperative ibuprofen on tooth sensitivity caused by in-office bleaching. Oper Dent. 2009;34(2):131-5. doi: 10.2341/08-33</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3074">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Charakorn</surname>
+                        <given-names>P</given-names>
+                      </name>
+                      <name>
+                        <surname>Cabanilla</surname>
+                        <given-names>LL</given-names>
+                      </name>
+                      <name>
+                        <surname>Wagner</surname>
+                        <given-names>WC</given-names>
+                      </name>
+                      <name>
+                        <surname>Foong</surname>
+                        <given-names>WC</given-names>
+                      </name>
+                      <name>
+                        <surname>Shaheen</surname>
+                        <given-names>J</given-names>
+                      </name>
+                      <name>
+                        <surname>Pregitzer</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>The effect of preoperative ibuprofen on tooth sensitivity caused by in-office bleaching</article-title>
+                    <source>Oper Dent</source>
+                    <year>2009</year>
+                    <volume>34</volume>
+                    <issue>2</issue>
+                    <fpage>131</fpage>
+                    <lpage>135</lpage>
+                    <pub-id pub-id-type="doi">10.2341/08-33</pub-id>
+                    <pub-id pub-id-type="pmid">19363967</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B44">
+                <label>44</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3117">44 - Sarkis-Onofre R, Cenci MS, Demarco FF, Lynch CD, Fleming PS, Pereira-Cenci T, et al. Use of guidelines to improve the quality and transparency of reporting oral health research. J Dent. 2015;43(4):397-404. doi: 10.1016/j.jdent.2015.01.006</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3118">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Sarkis-Onofre</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Cenci</surname>
+                        <given-names>MS</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Lynch</surname>
+                        <given-names>CD</given-names>
+                      </name>
+                      <name>
+                        <surname>Fleming</surname>
+                        <given-names>PS</given-names>
+                      </name>
+                      <name>
+                        <surname>Pereira-Cenci</surname>
+                        <given-names>T</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Use of guidelines to improve the quality and transparency of reporting oral health research</article-title>
+                    <source>J Dent</source>
+                    <year>2015</year>
+                    <volume>43</volume>
+                    <issue>4</issue>
+                    <fpage>397</fpage>
+                    <lpage>404</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.jdent.2015.01.006</pub-id>
+                    <pub-id pub-id-type="pmid">25676182</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B45">
+                <label>45</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3160">45 - Demarco FF, Conde MC, Ely C, Torre EN, Costa JR, Fernandez MR, et al. Preferences on vital and nonvital tooth bleaching: a survey among dentists from a city of southern Brazil. Braz Dent J. 2013;24(5):527-31. doi: 10.1590/0103-6440201302152</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3161">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Conde</surname>
+                        <given-names>MC</given-names>
+                      </name>
+                      <name>
+                        <surname>Ely</surname>
+                        <given-names>C</given-names>
+                      </name>
+                      <name>
+                        <surname>Torre</surname>
+                        <given-names>EN</given-names>
+                      </name>
+                      <name>
+                        <surname>Costa</surname>
+                        <given-names>JR</given-names>
+                      </name>
+                      <name>
+                        <surname>Fernandez</surname>
+                        <given-names>MR</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Preferences on vital and nonvital tooth bleaching: a survey among dentists from a city of southern Brazil</article-title>
+                    <source>Braz Dent J</source>
+                    <year>2013</year>
+                    <volume>24</volume>
+                    <issue>5</issue>
+                    <fpage>527</fpage>
+                    <lpage>531</lpage>
+                    <pub-id pub-id-type="doi">10.1590/0103-6440201302152</pub-id>
+                    <pub-id pub-id-type="pmid">24474298</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B46">
+                <label>46</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3203">46 - Santos LG, Chisini LA, Springmann CG, Souza BD, Pappen FG, Demarco FF, et al. Alternative to avoid tooth discoloration after regenerative endodontic procedure: A systematic review. Braz Dent J. 2018;29(5):409-418. doi: 10.1590/0103-6440201802132</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3204">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Santos</surname>
+                        <given-names>LG</given-names>
+                      </name>
+                      <name>
+                        <surname>Chisini</surname>
+                        <given-names>LA</given-names>
+                      </name>
+                      <name>
+                        <surname>Springmann</surname>
+                        <given-names>CG</given-names>
+                      </name>
+                      <name>
+                        <surname>Souza</surname>
+                        <given-names>BD</given-names>
+                      </name>
+                      <name>
+                        <surname>Pappen</surname>
+                        <given-names>FG</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <etal>et al</etal>
+                    </person-group>
+                    <article-title>Alternative to avoid tooth discoloration after regenerative endodontic procedure: A systematic review</article-title>
+                    <source>Braz Dent J</source>
+                    <year>2018</year>
+                    <volume>29</volume>
+                    <issue>5</issue>
+                    <fpage>409</fpage>
+                    <lpage>418</lpage>
+                    <pub-id pub-id-type="doi">10.1590/0103-6440201802132</pub-id>
+                    <pub-id pub-id-type="pmid">30517438</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+              <ref id="B47">
+                <label>47</label>
+                <citation-alternatives>
+                  <mixed-citation publication-type="other" id="d31e3246">47 - Colón VE, Márquez MO, Carrillo-Cotto R, Demarco FF, Chisini LA. Dentist’s preferences on vital and nonvital tooth bleaching: fndings from a Guatemalan survey. Braz J Oral Sci. 2021;28e211711:1-10. doi: 10.20396/bjos.v20i0.8661711</mixed-citation>
+                  <element-citation publication-type="journal" id="d31e3247">
+                    <person-group person-group-type="author">
+                      <name>
+                        <surname>Colón</surname>
+                        <given-names>VE</given-names>
+                      </name>
+                      <name>
+                        <surname>Márquez</surname>
+                        <given-names>MO</given-names>
+                      </name>
+                      <name>
+                        <surname>Carrillo-Cotto</surname>
+                        <given-names>R</given-names>
+                      </name>
+                      <name>
+                        <surname>Demarco</surname>
+                        <given-names>FF</given-names>
+                      </name>
+                      <name>
+                        <surname>Chisini</surname>
+                        <given-names>LA</given-names>
+                      </name>
+                    </person-group>
+                    <article-title>Dentist’s preferences on vital and nonvital tooth bleaching: fndings from a Guatemalan survey</article-title>
+                    <source>Braz J Oral Sci</source>
+                    <year>2021</year>
+                    <volume>28</volume>
+                    <elocation-id>e211711</elocation-id>
+                    <comment>1-10</comment>
+                    <pub-id pub-id-type="doi">10.20396/bjos.v20i0.8661711</pub-id>
+                  </element-citation>
+                </citation-alternatives>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

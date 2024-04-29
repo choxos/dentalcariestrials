@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:39:27Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9651530" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9651530</identifier>
+        <datestamp>2022-11-18</datestamp>
+        <setSpec>tropmed</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Am J Trop Med Hyg</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Am J Trop Med Hyg</journal-id>
+              <journal-id journal-id-type="publisher-id">tpmd</journal-id>
+              <journal-id journal-id-type="hwp">tropmed</journal-id>
+              <journal-title-group>
+                <journal-title>The American Journal of Tropical Medicine and Hygiene</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0002-9637</issn>
+              <issn pub-type="epub">1476-1645</issn>
+              <publisher>
+                <publisher-name>The American Society of Tropical Medicine and Hygiene</publisher-name>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9651530</article-id>
+              <article-id pub-id-type="pmcid">PMC9651530</article-id>
+              <article-id pub-id-type="pmc-uid">9651530</article-id>
+              <article-id pub-id-type="pmid">36067985</article-id>
+              <article-id pub-id-type="pmid">36067985</article-id>
+              <article-id pub-id-type="publisher-id">tpmd220248</article-id>
+              <article-id pub-id-type="doi">10.4269/ajtmh.22-0248</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Research Article</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Long-Term Effects of a Randomized Maternal Education Trial in Rural Uganda: Implications for Child Oral Health</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Engh</surname>
+                    <given-names>Marit S.</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Muhoozi</surname>
+                    <given-names>Grace K. M.</given-names>
+                  </name>
+                  <xref rid="aff2" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Ngari</surname>
+                    <given-names>Moses</given-names>
+                  </name>
+                  <xref rid="aff3" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Skaare</surname>
+                    <given-names>Anne B.</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Westerberg</surname>
+                    <given-names>Ane C.</given-names>
+                  </name>
+                  <xref rid="aff4" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <xref rid="aff5" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Iversen</surname>
+                    <given-names>Per Ole</given-names>
+                  </name>
+                  <xref rid="aff6" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                  <xref rid="aff7" ref-type="aff">
+                    <sup>7</sup>
+                  </xref>
+                  <xref rid="aff8" ref-type="aff">
+                    <sup>8</sup>
+                  </xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Brusevold</surname>
+                    <given-names>Ingvild J.</given-names>
+                  </name>
+                  <xref rid="aff1" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="cor1" ref-type="corresp">*</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Atukunda</surname>
+                    <given-names>Prudence</given-names>
+                  </name>
+                  <xref rid="aff6" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <aff id="aff1"><label><sup>1</sup></label>Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway;</aff>
+                <aff id="aff2"><label><sup>2</sup></label>Department of Human Nutrition and Home Economics, Kyambogo University, Kampala, Uganda;</aff>
+                <aff id="aff3"><label><sup>3</sup></label>The Childhood Acute Illness &amp; Nutrition Network (CHAIN), Nairobi, Kenya; KEMRI/Wellcome Trust Research Programme, Kilifi, Kenya;</aff>
+                <aff id="aff4"><label><sup>4</sup></label>School of Health Sciences, Kristiania University College, Oslo, Norway;</aff>
+                <aff id="aff5"><label><sup>5</sup></label>Division of Obstetrics and Gynecology, Oslo University Hospital, Oslo, Norway;</aff>
+                <aff id="aff6"><label><sup>6</sup></label>Department of Nutrition, Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway;</aff>
+                <aff id="aff7"><label><sup>7</sup></label>Department of Haematology, Oslo University Hospital, Oslo, Norway;</aff>
+                <aff id="aff8"><label><sup>8</sup></label>Division of Human Nutrition, Stellenbosch University, Tygerberg, South Africa</aff>
+              </contrib-group>
+              <author-notes>
+                <corresp id="cor1"><label>*</label>Address correspondence to Ingvild J. Brusevold, Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway, P.O. Box 1109 Blindern, 0317 Oslo, Norway. E-mail: <email>i.j.brusevold@odont.uio.no</email></corresp>
+                <fn id="fn1" fn-type="financial-disclosure">
+                  <p>Financial support: This project was partly funded by the Throne Holst Foundation and the Centre for Global Health at the University of Oslo’s Research ExceLlence and Innovation in Global HealTh (RELIGHT) programme.</p>
+                </fn>
+                <fn id="fn2" fn-type="present-address">
+                  <p>Authors’ addresses: Marit S. Engh, Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway, E-mail: <email>m.s.engh@odont.uio.no</email>. Grace K. M. Muhoozi, Department of Family Life and Consumer Studies, Kyambogo University, Kampala, Uganda, E-mail: <email>gmuhoozi15@gmail.com</email>. Moses Ngari, The Childhood Acute Illness &amp; Nutrition Network (CHAIN), Nairobi, Kenya, and KEMRI/Wellcome Trust Research Programme, Kilifi, Kenya, E-mail: <email>mngari@kemri-wellcome.org</email>. Anne B. Skaare, Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway, E-mail: <email>anne.skaare@odont.uio.no</email>. Ane C. Westerberg, Institute of Health Sciences, Kristiania University Collage, Oslo, Norway, and Department of Obstetrics, Division of Obstetrics and Gynecology, Oslo University Hospital Rikshospitalet, Oslo, Norway, E-mail: <email>anewes@ous-hf.no</email>. Per Ole Iversen, Department of Nutition, Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway, Department of Haematology, Oslo University Hospital, Oslo, Norway, and Division of Human Nutrition, Stellenbosch University, Tygerberg, South Africa, E-mail: <email>p.o.iversen@medisin.uio.no</email>. Ingvild J. Brusevold, Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway, E-mail: <email>i.j.brusevold@odont.uio.no</email>. Prudence Atukunda, Department of Nutrition, Institute of Basic Medical Sciences, University of Oslo, Oslo, Norway, E-mail: <email>prudence.atukundanutrimind@gmail.com</email>.</p>
+                </fn>
+              </author-notes>
+              <pub-date pub-type="ppub">
+                <month>10</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="epub">
+                <day>06</day>
+                <month>9</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>06</day>
+                <month>9</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>107</volume>
+              <issue>4</issue>
+              <fpage>939</fpage>
+              <lpage>947</lpage>
+              <history>
+                <date date-type="received">
+                  <day>06</day>
+                  <month>4</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>04</day>
+                  <month>6</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The author(s)</copyright-statement>
+                <copyright-year>2022</copyright-year>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an open-access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC-BY) License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+                </license>
+              </permissions>
+              <self-uri xlink:title="pdf" xlink:href="ajtmh.22-0248.pdf"/>
+              <abstract>
+                <title>ABSTRACT.</title>
+                <p>The aim was to examine oral health among 5–6-year-old children whose mothers participated in a 6 months’ cluster-randomized education trial in rural Uganda starting when their children were 6–8 months old. The education focused on nutrition, oral hygiene, and child stimulation. In the current follow-up study, 357/511 (70%) children from the original trial were available for data collection (200 in the intervention and 157 in the control group). Molar caries was assessed on intraoral photographs. Children and/or caregivers answered a WHO health questionnaire for collection of oral data. Dental practices were compared between the intervention and control group using multilevel mixed effect logistic regression accounting for clustering. The children in the intervention group had less caries compared with the control group: 41% versus 60% (odds ratio [OR] 0.46; 95% confidence intervals [CI] 0.24–0.86, <italic>P</italic> = 0.02). The use of toothbrush to clean teeth was more frequent in the intervention than in the control group: 66% versus 38% (OR 3.39; 95% CI 1.54–7.45, <italic>P</italic> = 0.003), as was high teeth-cleaning frequency: 74% versus 62% (OR 1.72; 95% CI 1.09–2.69, <italic>P</italic> = 0.02). Self-reported problems such as toothache (10% versus 19%), difficulty biting (12% versus 24%) and chewing food (8.5% versus 18%) were significantly less frequent among children in the intervention compared with the control group. No significant differences were found in dietary habits. Our data shows that an educational intervention adjusted to a low-resource setting, provided in infancy, resulted in improved oral hygiene and reduced development of dental caries among children aged 5–6 years.</p>
+              </abstract>
+              <counts>
+                <page-count count="9"/>
+              </counts>
+            </article-meta>
+            <notes notes-type="disclaimer">
+              <p>
+                <named-content content-type="print-only">Note: Supplemental appendices appear at <ext-link xlink:href="http://www.ajtmh.org" ext-link-type="uri">www.ajtmh.org</ext-link>.</named-content>
+              </p>
+            </notes>
+          </front>
+          <body>
+            <sec sec-type="intro" id="s1">
+              <title>INTRODUCTION</title>
+              <p>Despite improvements in the oral health of populations globally, oral diseases remain a major health problem with negative impact on the affected individual, their families, and the society.<xref rid="b1" ref-type="bibr"><sup>1</sup></xref><xref rid="b2" ref-type="bibr"/><sup>–</sup><xref rid="b3" ref-type="bibr"><sup>3</sup></xref> By definition of the World Dental Federation and later adopted by the World Health Organization (WHO): “Oral health is multi-faceted and includes the ability to speak, smile, smell, taste, touch, chew, swallow and convey a range of emotions through facial expressions with confidence and without pain, discomfort and disease of the craniofacial complex (head, face, and oral cavity).”<xref rid="b4" ref-type="bibr"><sup>4</sup></xref></p>
+              <p>According to WHO, 3.5 billion people worldwide suffer from oral diseases, untreated dental caries being the most common.<xref rid="b5" ref-type="bibr"><sup>5</sup></xref> In 2017, more than 530 million children had untreated caries in deciduous teeth,<xref rid="b5" ref-type="bibr"><sup>5</sup></xref> indicating a lack of oral disease prevention and insufficient care for children worldwide, particularly among the poor and vulnerable groups.<xref rid="b6" ref-type="bibr"><sup>6</sup></xref><sup>,</sup><xref rid="b7" ref-type="bibr"><sup>7</sup></xref> In high-income countries (HIC), caries prevalence was very high until the 1970s when fluoride products were introduced and caries prevalence declined.<xref rid="b8" ref-type="bibr"><sup>8</sup></xref><sup>,</sup><xref rid="b9" ref-type="bibr"><sup>9</sup></xref> However, in most African countries dental caries was less common in the 1970s than today.<xref rid="b10" ref-type="bibr"><sup>10</sup></xref><sup>,</sup><xref rid="b11" ref-type="bibr"><sup>11</sup></xref> In many low- and middle-income countries (LMICs), sugar consumption has increased while dental hygiene and fluoride products are not commonly available; therefore, the risk and burden of caries has increased the in last 50 years.<xref rid="b10" ref-type="bibr"><sup>10</sup></xref> In Africa, dental treatment is not accessible or affordable for a large proportion of the population.<xref rid="b10" ref-type="bibr"><sup>10</sup></xref> In line with this, the global burden of disease for dental caries remains high and unchanged in the last three decades,<xref rid="b2" ref-type="bibr"><sup>2</sup></xref> with a high proportion of unmet dental treatment needs.<xref rid="b5" ref-type="bibr"><sup>5</sup></xref><sup>,</sup><xref rid="b6" ref-type="bibr"><sup>6</sup></xref></p>
+              <p>Improvement on oral health will contribute toward SDG3 (UN’s Sustainable development goals: promoting good health and well-being) and poor oral health has been acknowledged as a major health problem by WHO.<xref rid="b12" ref-type="bibr"><sup>12</sup></xref> In 2021, The World Health Assembly approved a historic resolution on oral health, acknowledging the common risk factors, most importantly diet and hygiene, to other noncommunicable diseases such as cardiovascular diseases, diabetes, cancers, pneumonia, obesity, and premature birth.<xref rid="b13" ref-type="bibr"><sup>13</sup></xref> It was an important milestone in getting oral health integrated in overall health. The resolution calls for effective programs of preventive approaches from all member states to tackle oral diseases and other noncommunicable diseases with similar risk factors.<xref rid="b14" ref-type="bibr"><sup>14</sup></xref> Many countries do not have accessible preventive programs for children.</p>
+              <p>Dental caries is the destruction of dental hard tissues by acidic products formed by bacteria in dental biofilm.<xref rid="b15" ref-type="bibr"><sup>15</sup></xref><sup>,</sup><xref rid="b16" ref-type="bibr"><sup>16</sup></xref> The disease has a multifactorial etiology and is largely preventable. It is widely accepted that a diet high in sugar<xref rid="b17" ref-type="bibr"><sup>17</sup></xref> and poor oral hygiene are factors that contribute to the development of the disease. On the other hand, topical use of fluoride increases the tooth’s resistance against bacterial acids by lowering the critical pH at which the dental enamel hydroxyapatite starts to dissolve. Therefore, regular mechanical removal of the dental biofilm with, for example, a toothbrush and fluoridated toothpaste and reduction in sugar intake is essential in the prevention of the disease.<xref rid="b16" ref-type="bibr"><sup>16</sup></xref></p>
+              <p>Traditional oral health practices are common in many LMICs, including Uganda. For example, the removal of primary canine tooth buds in infants may cause severe illness or even death,<xref rid="b10" ref-type="bibr"><sup>10</sup></xref><sup>,</sup><xref rid="b18" ref-type="bibr"><sup>18</sup></xref><sup>,</sup><xref rid="b19" ref-type="bibr"><sup>19</sup></xref> and is a form of infant oral mutilation.<xref rid="b20" ref-type="bibr"><sup>20</sup></xref> The long-term impacts on the dentition are damage to the underlying permanent tooth bud or adjacent permanent tooth, resulting in dental abnormalities, tooth loss, and dental eruption complications.<xref rid="b18" ref-type="bibr"><sup>18</sup></xref><sup>,</sup><xref rid="b21" ref-type="bibr"><sup>21</sup></xref> The tooth bud believed to cause problems is known by different names depending on the region and language spoken including <italic>false teeth</italic>, <italic>killer teeth</italic>, <italic>nylon teeth,</italic> and <italic>worm/maggot teeth</italic>.<xref rid="b21" ref-type="bibr"><sup>21</sup></xref>
+<italic>Ebiino</italic> is the term used in several districts of Southwestern Uganda.<xref rid="b20" ref-type="bibr"><sup>20</sup></xref></p>
+              <p>Recent data from cross-sectional studies have revealed high prevalence of caries among Ugandan children and a need for better treatment options to avoid future dental complications.<xref rid="b22" ref-type="bibr"><sup>22</sup></xref><sup>,</sup><xref rid="b23" ref-type="bibr"><sup>23</sup></xref> Since oral diseases are mostly behavior- and lifestyle-related, simple and inexpensive interventions could be an efficient way to improve children’s oral health in low-resource settings such as rural Uganda.<xref rid="b24" ref-type="bibr"><sup>24</sup></xref> The “Child Nutrition and Development Study” (CHNUDEV) was a randomized controlled trial (RCT) conducted in Southwestern Uganda in 2013–2014.<xref rid="b25" ref-type="bibr"><sup>25</sup></xref> The main aim of that RCT was to study the effect on growth among children aged 20–24 months of a maternal education intervention focusing on nutrition, oral health, hygiene, and child stimulation.<xref rid="b26" ref-type="bibr"><sup>26</sup></xref> In a follow-up study of the children at age 36 months, we found that the intervention markedly 1) improved teeth-cleaning, 2) reduced the occurrence of caries, and 3) reduced removal of false teeth (<italic>ebiino</italic>).<xref rid="b27" ref-type="bibr"><sup>27</sup></xref> The aim of the current follow-up study was to determine whether these positive outcomes on oral health were sustained in the primary molars that erupted after the intervention, assessed when the children started at school, that is, when they were 5–6 years old. This provided a unique opportunity to perform a long-term follow-up of a maternal education trial, which is rare in LMICs in general, in particular in Sub-Saharan Africa.</p>
+            </sec>
+            <sec sec-type="materials|methods" id="s2">
+              <title>MATERIALS AND METHODS</title>
+              <sec>
+                <title>Overview of the original RCT.</title>
+                <p>Details of the original cluster-RCT are available in the Supplemental material (<ext-link xlink:href="/view/journals/tpmd/107/4/article-p939.xml?tab_body=supplementary-materials" ext-link-type="uri">Supplemental Appendix S1</ext-link>) and elsewhere.<xref rid="b26" ref-type="bibr"><sup>26</sup></xref><sup>,</sup><xref rid="b27" ref-type="bibr"><sup>27</sup></xref> The primary outcome was linear growth while development outcomes and oral (dental) health were secondary outcomes. Briefly, proportionate sampling was used to select subcounties (clusters) in two districts of Southwestern Uganda (six in Kabale district and four in Kisoro district). All villages in each subcounty (intervention or control) were listed alphabetically and computer-generated random numbers by the study statistician were then used to obtain the villages, and finally complete enumeration was used to obtain participating households. Intervention villages did not share common geographical boundaries with control villages to prevent “contamination” of intervention-contents between the two study groups. Exclusion criteria were congenital malformations or physical handicap among children that would influence food intake, growth, and mental or brain illness as evidenced by mother or health worker.</p>
+              </sec>
+              <sec>
+                <title>Contents of the maternal education intervention.</title>
+                <p>The maternal education intervention emphasized nutrition, oral health, hygiene, and child stimulation as described in the Supplemental material (<ext-link xlink:href="/view/journals/tpmd/107/4/article-p939.xml?tab_body=supplementary-materials" ext-link-type="uri">Supplemental Appendix S1</ext-link>) and as previously detailed.<xref rid="b26" ref-type="bibr"><sup>26</sup></xref> The intervention was implemented when children were 6–8 months old and lasted 6 months. Each group (<italic>N</italic> = 8–12) of mothers received three main education sessions (with a nutrition education team) followed by monthly village meetings. Thereafter, booster sessions were provided every third month until the age of 36 months (<ext-link xlink:href="/view/journals/tpmd/107/4/article-p939.xml?tab_body=supplementary-materials" ext-link-type="uri">Supplemental Appendix S1</ext-link>). The oral hygiene education took place when the children were 12–16 months. The intervention group received routine healthcare and the education intervention while the control group received only routine healthcare. Our strategy with the intervention was to promote behavior change through providing information and prompt practice (demonstrations).</p>
+              </sec>
+              <sec>
+                <title>Collection of oral data.</title>
+                <p>Oral data was initially collected when the children were 20–24 months, and at 36 months.<xref rid="b26" ref-type="bibr"><sup>26</sup></xref><sup>,</sup><xref rid="b27" ref-type="bibr"><sup>27</sup></xref> In the current follow-study among the children aged 5–6 years, we used an oral health questionnaire for collection of data, and close-up intraoral photographs were taken of the children’s posterior teeth to appraise the occurrence of dental caries.</p>
+                <sec>
+                  <title>Oral health questionnaire.</title>
+                  <p>The WHO—oral health questionnaire, children’s version was used to collect data.<xref rid="b28" ref-type="bibr"><sup>28</sup></xref> Unfamiliar food on the questionnaire were replaced with the common cariogenic foods in the area, for example, Brushera with sugar and sugar canes. Two research assistants who spoke the local language fluently, performed the face-to-face interviews with each child and their primary caregiver and filled in the questionnaire. Details of the questions can be found in the Supplemental material (<ext-link xlink:href="/view/journals/tpmd/107/4/article-p939.xml?tab_body=supplementary-materials" ext-link-type="uri">Supplemental Appendix S2</ext-link>).</p>
+                </sec>
+                <sec>
+                  <title>Intraoral photographs.</title>
+                  <p>The research assistants, trained to take photos, took four close-up intraoral photographs of the maxillary and mandibular lateral segments of each child, using a digital camera (Canon EOS 60D, Canon INC., Japan) fitted with a macrolens (Canon Macro Lens EF 100 mm 1:2,8 USM, Japan) and a ring flash (Canon Ring Lite MR-14EX, Japan). Intraoral mirrors were used in the upper jaw. The photographs were later evaluated by three experienced pediatric dentists (MSE, IJB, and ABS) to determine the occurrence of dental caries on first and second primary molar, and first permanent molar if erupted. Dental caries was recorded using the WHO definition of caries,<xref rid="b29" ref-type="bibr"><sup>29</sup></xref> and unmistakable cavities progressing into the dentin were registered as caries. The early stages of dentin caries are not possible to identify on intraoral photographs and without a clear cavity the tooth was registered as sound. We distinguished between “less severe cavitation” and “severe decay.” “Less severe cavitation” was used when we found a well-defined cavity affecting one tooth surface. “Severe decay” described teeth with more than one surface with caries including severely damaged teeth, teeth with only root left and missing primary teeth assumed extracted due to caries. In the analysis, we collapsed this variable into “sound/less severe decay” versus “severe decay.” Since the first permanent molars usually erupt at age 6–7 years, a missing first permanent molar was registered as unerupted because of young age.</p>
+                  <p>Signs of possible removed <italic>ebiino</italic> were recorded if the photographs, by chance, showed canine area. The clinical signs after the procedure were missing primary canine, hypoplastic primary canines, and enamel opacity (localized developmental defect) involving the buccal surface or incisal edge of a primary canine, in addition to absence or dental anomalies in adjacent teeth.</p>
+                  <p>The close-up intraoral photographs were of uneven quality and pictures of some of the children were missing. When the photo had poor quality, food leftovers or plaque covered the tooth surfaces, the tooth was registered as “unreadable.”</p>
+                  <p>All the evaluations/scorings were done blinded to study group allocation. The examiners’ evaluations were calibrated by discussion and assessments. The photographs of 52 children were evaluated twice, and intraexaminer agreement was excellent (Cohen’s unweighted kappa value was 0.88).<xref rid="b30" ref-type="bibr"><sup>30</sup></xref></p>
+                </sec>
+              </sec>
+              <sec>
+                <title>Ethical approvals.</title>
+                <p>The study was reviewed by the Makerere University School of Public Health, Higher Degrees Research and Ethics Committee, and was approved by the Uganda National Council for Science and Technology (No. HS 1809), after being reviewed by The AIDS Support Organisation Research Ethics Committee (No. TASOREC/06/15-UG-REC-009). The Norwegian Regional Committee for Medical and Health Research Ethics also approved the study (No. 2013/1833). The consent form was translated into the local language, and all participants gave written or thumb-printed, informed consent. The original RCT was registered at ClinicalTrials.gov (#NCT02098031).</p>
+              </sec>
+              <sec>
+                <title>Statistical methods.</title>
+                <p>Data analyses followed intention-to-treat, where all children with data were included and reported in line with the CONSORT guidelines.<xref rid="b31" ref-type="bibr"><sup>31</sup></xref> In the current follow-up study, with a reported occurrence of dental caries in primary molars at 60% among the control group, a total sample size of 350 children (175 in each arm) was adequate to detect a reduction in dental caries by at least 50% (odds ratio [OR] of 0.5) with a power of 80%, a design factor of 1.5 (calculated using intracluster correlation coefficient of 0.01 in the original RCT) and a two-tailed alpha of 0.05.</p>
+                <p>All continuous variables were summarized as either means (standard deviation [SD]) or median (interquartile range [IQR]) depending on the underlying distribution. All categorical variables are reported as frequency and their proportions. All comparisons performed were cluster-adjusted to account for the study design of the original RCT. All the 357 children included in the study had complete data on all variables of interest. The few missing responses (&lt; 3%) on self-reported problems related to status of the teeth and oral hygiene, were assumed not to be missing at random and coded as “do not know/unknown”. These are included in the analyses as separate categories. To compare dental practices grouped as binary between the intervention and control group, multilevel mixed effect logistic regression models with unstructured variance-covariance structure and cluster as a random effect component were used. Cluster adjusted odds ratios (aOR) and their 95% confidence intervals (CI) were reported as measure of effect. Statistical significance was set at <italic>P</italic> &lt; 0.05. Statistical analyses were performed using Stata version 17.0 (StataCorp, College Station, TX).</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="s3">
+              <title>RESULTS</title>
+              <p>In the current follow-up study, we managed to include 357 (70%) of the 511 children in the original RCT; 157 (63%) and 200 (76%) randomized to the control and intervention group, respectively. At baseline (start of RCT), their mean (SD) age was 7.4 (1.0) and 7.4 (0.9) months among children randomized to control and intervention group, respectively. The maternal median (IQR)] age in this follow-up cohort was 27 (22–30) and 25 (21–30) years at baseline among the control and intervention group, respectively. At the same time, the household median (IQR) poverty score was 49 (40–56) and 49 (40–57) among control and intervention group, respectively. The distribution of baseline characteristics were well balanced between the two study groups in the current follow-up study and did not differ significantly from those collected for the original RCT (<xref rid="t1" ref-type="table">Table 1</xref>).<xref rid="b26" ref-type="bibr"><sup>26</sup></xref> From start of the RCT until the current follow-up study we have not experienced any intervention-related harm in any of the two study groups.</p>
+              <table-wrap position="float" id="t1">
+                <label>Table 1</label>
+                <caption>
+                  <p>Study population characteristics at baseline of the original randomized controlled trial</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="center" rowspan="1" colspan="1"/>
+                      <th align="center" colspan="2" rowspan="1">Original study (<italic>N</italic> = 511)</th>
+                      <th align="center" colspan="2" rowspan="1">Current study (<italic>N</italic> = 357)</th>
+                    </tr>
+                    <tr>
+                      <th align="center" rowspan="1" colspan="1"/>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 248)</th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 263)</th>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 157)</th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 200)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Children characteristics</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Gender-male</td>
+                      <td align="center" rowspan="1" colspan="1">123 (50)</td>
+                      <td align="center" rowspan="1" colspan="1">139 (53)</td>
+                      <td align="center" rowspan="1" colspan="1">76 (48)</td>
+                      <td align="center" rowspan="1" colspan="1">106 (53)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Mean (SD) age (months)</td>
+                      <td align="center" rowspan="1" colspan="1">7.3 ± 0.9</td>
+                      <td align="center" rowspan="1" colspan="1">7.4 ± 0.8</td>
+                      <td align="center" rowspan="1" colspan="1">7.4 ± 1.0</td>
+                      <td align="center" rowspan="1" colspan="1">7.4 ± 0.9</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Underweight</td>
+                      <td align="center" rowspan="1" colspan="1">36 (15)</td>
+                      <td align="center" rowspan="1" colspan="1">25 (9.5)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (11)</td>
+                      <td align="center" rowspan="1" colspan="1">16 (8.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Wasting</td>
+                      <td align="center" rowspan="1" colspan="1">12 (4.8)</td>
+                      <td align="center" rowspan="1" colspan="1">12 (4.6)</td>
+                      <td align="center" rowspan="1" colspan="1">5 (3.2)</td>
+                      <td align="center" rowspan="1" colspan="1">8 (4.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Stunting</td>
+                      <td align="center" rowspan="1" colspan="1">70 (28)</td>
+                      <td align="center" rowspan="1" colspan="1">55 (21)</td>
+                      <td align="center" rowspan="1" colspan="1">41 (26)</td>
+                      <td align="center" rowspan="1" colspan="1">34 (17)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Exclusive breastfeeding for 6 months</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">178 (72)</td>
+                      <td align="center" rowspan="1" colspan="1">184 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">111 (71)</td>
+                      <td align="center" rowspan="1" colspan="1">136 (68)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">70 (28)</td>
+                      <td align="center" rowspan="1" colspan="1">79 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">46 (29)</td>
+                      <td align="center" rowspan="1" colspan="1">64 (32)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Breastfeeding frequency</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> ≥ 8 times/day</td>
+                      <td align="center" rowspan="1" colspan="1">171 (69)</td>
+                      <td align="center" rowspan="1" colspan="1">170 (65)</td>
+                      <td align="center" rowspan="1" colspan="1">110 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">130 (65)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> &lt; 8 times/day</td>
+                      <td align="center" rowspan="1" colspan="1">77 (31)</td>
+                      <td align="center" rowspan="1" colspan="1">93 (35)</td>
+                      <td align="center" rowspan="1" colspan="1">47 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">70 (35)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Illness at recruitment</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">71 (29)</td>
+                      <td align="center" rowspan="1" colspan="1">94 (36)</td>
+                      <td align="center" rowspan="1" colspan="1">52 (33)</td>
+                      <td align="center" rowspan="1" colspan="1">68 (34)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">177 (71)</td>
+                      <td align="center" rowspan="1" colspan="1">169 (64)</td>
+                      <td align="center" rowspan="1" colspan="1">105 (67)</td>
+                      <td align="center" rowspan="1" colspan="1">132 (66)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Maternal characteristics</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Median (IQR) maternal age (years)<xref rid="t1fn2" ref-type="table-fn">*</xref></td>
+                      <td align="center" rowspan="1" colspan="1">26 (22 − 30)</td>
+                      <td align="center" rowspan="1" colspan="1">25 (21 − 30)</td>
+                      <td align="center" rowspan="1" colspan="1">27 (22 − 30)</td>
+                      <td align="center" rowspan="1" colspan="1">25 (21 − 30)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Level of education</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> None/primary</td>
+                      <td align="center" rowspan="1" colspan="1">166 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">173 (66)</td>
+                      <td align="center" rowspan="1" colspan="1">108 (69)</td>
+                      <td align="center" rowspan="1" colspan="1">132 (66)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Lower secondary</td>
+                      <td align="center" rowspan="1" colspan="1">62 (25)</td>
+                      <td align="center" rowspan="1" colspan="1">64 (24)</td>
+                      <td align="center" rowspan="1" colspan="1">39 (25)</td>
+                      <td align="center" rowspan="1" colspan="1">51 (26)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Tertiary</td>
+                      <td align="center" rowspan="1" colspan="1">20 (8.1)</td>
+                      <td align="center" rowspan="1" colspan="1">26 (9.9)</td>
+                      <td align="center" rowspan="1" colspan="1">10 (6.6)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (7.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Number of biological children</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> &lt; 5</td>
+                      <td align="center" rowspan="1" colspan="1">184 (74)</td>
+                      <td align="center" rowspan="1" colspan="1">187 (71)</td>
+                      <td align="center" rowspan="1" colspan="1">113 (72)</td>
+                      <td align="center" rowspan="1" colspan="1">138 (69)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> ≥ 5</td>
+                      <td align="center" rowspan="1" colspan="1">64 (26)</td>
+                      <td align="center" rowspan="1" colspan="1">76 (29)</td>
+                      <td align="center" rowspan="1" colspan="1">44 (28)</td>
+                      <td align="center" rowspan="1" colspan="1">62 (31)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Household-level characteristics</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Median (IQR) household head age (years)</td>
+                      <td align="center" rowspan="1" colspan="1">30 (25 − 38)</td>
+                      <td align="center" rowspan="1" colspan="1">30 (25 − 36)</td>
+                      <td align="center" rowspan="1" colspan="1">30 (25 − 38)</td>
+                      <td align="center" rowspan="1" colspan="1">30 (25 − 35)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Level of education</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> None/primary</td>
+                      <td align="center" rowspan="1" colspan="1">138 (56)</td>
+                      <td align="center" rowspan="1" colspan="1">138 (52)</td>
+                      <td align="center" rowspan="1" colspan="1">93 (59)</td>
+                      <td align="center" rowspan="1" colspan="1">115 (58)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Lower secondary</td>
+                      <td align="center" rowspan="1" colspan="1">80 (32)</td>
+                      <td align="center" rowspan="1" colspan="1">78 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">47 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">56 (28)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Tertiary</td>
+                      <td align="center" rowspan="1" colspan="1">30 (12)</td>
+                      <td align="center" rowspan="1" colspan="1">47 (18)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (11)</td>
+                      <td align="center" rowspan="1" colspan="1">29 (14)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Household size</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> 3–5</td>
+                      <td align="center" rowspan="1" colspan="1">139 (56)</td>
+                      <td align="center" rowspan="1" colspan="1">150 (57)</td>
+                      <td align="center" rowspan="1" colspan="1">85 (54)</td>
+                      <td align="center" rowspan="1" colspan="1">116 (58)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> 6–10</td>
+                      <td align="center" rowspan="1" colspan="1">109 (44)</td>
+                      <td align="center" rowspan="1" colspan="1">113 (43)</td>
+                      <td align="center" rowspan="1" colspan="1">72 (46)</td>
+                      <td align="center" rowspan="1" colspan="1">84 (42)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Median (IQR) poverty score</td>
+                      <td align="center" rowspan="1" colspan="1">49 (39 − 57)</td>
+                      <td align="center" rowspan="1" colspan="1">49 (40 − 57)</td>
+                      <td align="center" rowspan="1" colspan="1">49 (40 − 56)</td>
+                      <td align="center" rowspan="1" colspan="1">49 (40 − 57)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="t1fn1">
+                    <p>Values are <italic>N</italic> (%) unless otherwise stated.</p>
+                  </fn>
+                  <fn id="t1fn2">
+                    <label>*</label>
+                    <p>Seven missing records (four in intervention and three in control group). There were no differences (<italic>P</italic> &lt; 0.05) in any of the characteristics between the two study groups, neither for the original randomized controlled trial cohort nor for the follow-up cohort. Underweight was defined as weight-for-age <italic>z</italic>-score &lt; −2 standard deviations (SD) below the median of the WHO child growth standard; wasting as weight-for-height <italic>z</italic>-score &lt; −2 SD; and stunting as height-for-age <italic>z</italic>-score &lt; −2 SD. IQR = interquartile range.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p><xref rid="t2" ref-type="table">Table 2</xref> shows that the occurrence of caries in primary molars was markedly lower among children in the intervention group, 72 (41%) compared with 90 (60%) among the controls: OR 0.46 (95% CI 0.24–0.86, <italic>P</italic> = 0.02). However, the intervention had only a borderline protective effect against the severity of caries: OR 0.49 (95% CI 0.21–1.11, <italic>P</italic> = 0.09). The data on the number of teeth with decay, possible removed <italic>ebiino</italic>, self-reported dental health, and previous visit to dentist in last year, were not significantly different between the children in the two study groups (<xref rid="t2" ref-type="table">Table 2</xref>). Examples of photographs showing how caries and possible <italic>ebiino</italic> removal were scored, are shown in <xref rid="f1" ref-type="fig">Figure 1</xref>. Twenty-six children visited a dentist in the previous year. Reported good gum health was significantly higher among children randomized to intervention compared with those in control group (<xref rid="t2" ref-type="table">Table 2</xref>).</p>
+              <table-wrap position="float" id="t2">
+                <label>Table 2</label>
+                <caption>
+                  <p>Oral health status</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="center" rowspan="1" colspan="1"/>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 157)<xref rid="t2fn3" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 200)<xref rid="t2fn3" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)<xref rid="t2fn4" ref-type="table-fn">†</xref></th>
+                      <th align="center" rowspan="1" colspan="1"><italic>P</italic> value<xref rid="t2fn4" ref-type="table-fn">†</xref></th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>Dental status based on intraoral photographs</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Occurrence of caries</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">61 (40)</td>
+                      <td align="center" rowspan="1" colspan="1">104 (59)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">90 (60)</td>
+                      <td align="center" rowspan="1" colspan="1">72 (41)</td>
+                      <td align="center" rowspan="1" colspan="1">0.46 (0.24–0.86)</td>
+                      <td align="center" rowspan="1" colspan="1">0.02</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Severity of caries</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Sound/less severe</td>
+                      <td align="center" rowspan="1" colspan="1">110 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">164 (82)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Severe decay</td>
+                      <td align="center" rowspan="1" colspan="1">47 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">36 (18)</td>
+                      <td align="center" rowspan="1" colspan="1">0.46 (0.21–1.11)</td>
+                      <td align="center" rowspan="1" colspan="1">0.09</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Number of teeth with caries</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> &lt; 4 teeth</td>
+                      <td align="center" rowspan="1" colspan="1">121 (80)</td>
+                      <td align="center" rowspan="1" colspan="1">159 (90)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> ≥ 4 teeth</td>
+                      <td align="center" rowspan="1" colspan="1">30 (20)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (9.7)</td>
+                      <td align="center" rowspan="1" colspan="1">0.30 (0.07–1.34)</td>
+                      <td align="center" rowspan="1" colspan="1">0.12</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Possible removed <italic>ebiino</italic></td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">119 (79)</td>
+                      <td align="center" rowspan="1" colspan="1">158 (90)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">32 (21)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (9.7)</td>
+                      <td align="center" rowspan="1" colspan="1">0.73 (0.05–9.77)</td>
+                      <td align="center" rowspan="1" colspan="1">0.81</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>Self-reported oral health status</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Dental health</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Poor</td>
+                      <td align="center" rowspan="1" colspan="1">87 (55)</td>
+                      <td align="center" rowspan="1" colspan="1">191 (46)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Good</td>
+                      <td align="center" rowspan="1" colspan="1">70 (45)</td>
+                      <td align="center" rowspan="1" colspan="1">109 (54)</td>
+                      <td align="center" rowspan="1" colspan="1">1.49 (0.97–2.27)</td>
+                      <td align="center" rowspan="1" colspan="1">0.06</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Gum health</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Poor</td>
+                      <td align="center" rowspan="1" colspan="1">60 (38)</td>
+                      <td align="center" rowspan="1" colspan="1">47 (24)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Good</td>
+                      <td align="center" rowspan="1" colspan="1">97 (62)</td>
+                      <td align="center" rowspan="1" colspan="1">153 (77)</td>
+                      <td align="center" rowspan="1" colspan="1">2.06 (1.12–3.78)</td>
+                      <td align="center" rowspan="1" colspan="1">0.02</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>Dental care</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Previous visit to dentist in last year</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">141 (90)</td>
+                      <td align="center" rowspan="1" colspan="1">184 (92)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1"/>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">16 (10)</td>
+                      <td align="center" rowspan="1" colspan="1">16 (8.1)</td>
+                      <td align="center" rowspan="1" colspan="1">0.68 (0.19–2.44)</td>
+                      <td align="center" rowspan="1" colspan="1">0.56</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="t2fn3">
+                    <label>*</label>
+                    <p>Values are <italic>N</italic> (%).</p>
+                  </fn>
+                  <fn id="t2fn4">
+                    <label>†</label>
+                    <p>The cluster-adjusted odds ratios and <italic>P</italic> values are from multilevel logistic regression models with the cluster as random intercept.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <fig position="float" id="f1">
+                <label>Figure 1.</label>
+                <caption>
+                  <p>Examples of the different tooth scoring categories. (<bold>A,B</bold>) Sound teeth. Brown stain is discolored biofilm, and not caries. (<bold>C,D</bold>) Less severe caries in primary molars marked with black arrows. (<bold>E,F</bold>) Severe caries in teeth marked with red arrows, and less severe caries in teeth marked with black arrow. g, h: Signs of probable <italic>ebiino</italic> removal marked with white arrows: Missing primary canine (<bold>G</bold>); malformed, hypoplastic primary canine (<bold>H</bold>).</p>
+                </caption>
+                <graphic xlink:href="ajtmh.22-0248f1" position="float"/>
+              </fig>
+              <p>Reported “high frequency” of teeth-cleaning was more common among children in the intervention group (<italic>N</italic> = 147, 74%) compared with controls (<italic>N</italic> = 97, 62%); OR 1.72 (95% CI 1.09–2.69, <italic>P</italic> = 0.02), as was the use of toothbrush (<xref rid="t3" ref-type="table">Table 3</xref>). However, the frequency of other oral hygiene practices was not significantly different between the two study groups (<xref rid="t3" ref-type="table">Table 3</xref>). The frequency of tooth ache was less common (<italic>N</italic> = 20, 10%) among children randomized to intervention group compared with control group (<italic>N</italic> = 29, 19%), OR 0.48 (95% CI 0.23–0.98, <italic>P</italic> = 0.04). Other self-reported problems with dental health are shown in <xref rid="t4" ref-type="table">Table 4</xref>. We found no significant differences in eating and drinking practices between the two study groups (<xref rid="t5" ref-type="table">Table 5</xref>).</p>
+              <table-wrap position="float" id="t3">
+                <label>Table 3</label>
+                <caption>
+                  <p>Oral hygiene practices as reported by the mothers/caregivers</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="center" rowspan="1" colspan="1"/>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 157)<xref rid="t3fn5" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 200)<xref rid="t3fn5" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)<xref rid="t3fn6" ref-type="table-fn">†</xref></th>
+                      <th align="center" rowspan="1" colspan="1"><italic>P</italic> value<xref rid="t3fn6" ref-type="table-fn">†</xref></th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>Do you use any of the following to clean teeth or gum?</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Toothbrush</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">98 (62)</td>
+                      <td align="center" rowspan="1" colspan="1">69 (34)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">59 (38)</td>
+                      <td align="center" rowspan="1" colspan="1">131 (66)</td>
+                      <td align="center" rowspan="1" colspan="1">3.39 (1.54–7.45)</td>
+                      <td align="center" rowspan="1" colspan="1">0.003</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Wooden toothpicks</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">138 (88)</td>
+                      <td align="center" rowspan="1" colspan="1">186 (93)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">19 (12)</td>
+                      <td align="center" rowspan="1" colspan="1">14 (7.0)</td>
+                      <td align="center" rowspan="1" colspan="1">0.41 (0.09–1.87)</td>
+                      <td align="center" rowspan="1" colspan="1">0.25</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Plastic toothpicks</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">155 (99)</td>
+                      <td align="center" rowspan="1" colspan="1">198 (99)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">2 (1.3)</td>
+                      <td align="center" rowspan="1" colspan="1">2 (1.0)</td>
+                      <td align="center" rowspan="1" colspan="1">0.77 (0.09–6.67)</td>
+                      <td align="center" rowspan="1" colspan="1">0.81</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Thread floss</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">156 (99)</td>
+                      <td align="center" rowspan="1" colspan="1">199 (99)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">1 (0.6)</td>
+                      <td align="center" rowspan="1" colspan="1">1 (0.5)</td>
+                      <td align="center" rowspan="1" colspan="1">0.78 (0.05–12.6)</td>
+                      <td align="center" rowspan="1" colspan="1">0.86</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Charcoal</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">143 (91)</td>
+                      <td align="center" rowspan="1" colspan="1">184 (92)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">14 (8.9)</td>
+                      <td align="center" rowspan="1" colspan="1">16 (8.0)</td>
+                      <td align="center" rowspan="1" colspan="1">0.89 (0.42–1.88)</td>
+                      <td align="center" rowspan="1" colspan="1">0.76</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Chew stick</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">116 (74)</td>
+                      <td align="center" rowspan="1" colspan="1">168 (84)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">41 (26)</td>
+                      <td align="center" rowspan="1" colspan="1">32 (16)</td>
+                      <td align="center" rowspan="1" colspan="1">0.51 (0.23–1.12)</td>
+                      <td align="center" rowspan="1" colspan="1">0.09</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Toothpaste</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">107 (68)</td>
+                      <td align="center" rowspan="1" colspan="1">139 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">50 (32)</td>
+                      <td align="center" rowspan="1" colspan="1">61 (30)</td>
+                      <td align="center" rowspan="1" colspan="1">0.97 (0.48–1.94)</td>
+                      <td align="center" rowspan="1" colspan="1">0.92</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Toothpaste with fluoride</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">98 (62)</td>
+                      <td align="center" rowspan="1" colspan="1">139 (70)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">35 (22)</td>
+                      <td align="center" rowspan="1" colspan="1">46 (23)</td>
+                      <td align="center" rowspan="1" colspan="1">0.93 (0.54–1.58)</td>
+                      <td align="center" rowspan="1" colspan="1">0.78</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Don’t know</td>
+                      <td align="center" rowspan="1" colspan="1">24 (15)</td>
+                      <td align="center" rowspan="1" colspan="1">15 (7.5)</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>How often do you clean your teeth?</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Teeth-cleaning frequency</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency (≤ 0–3 times/month)</td>
+                      <td align="center" rowspan="1" colspan="1">60 (38)</td>
+                      <td align="center" rowspan="1" colspan="1">53 (27)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency (≥ 2–6 times/week)</td>
+                      <td align="center" rowspan="1" colspan="1">97 (62)</td>
+                      <td align="center" rowspan="1" colspan="1">147 (74)</td>
+                      <td align="center" rowspan="1" colspan="1">1.72 (1.09–2.69)</td>
+                      <td align="center" rowspan="1" colspan="1">0.02</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="t3fn5">
+                    <label>*</label>
+                    <p>Values are n (%).</p>
+                  </fn>
+                  <fn id="t3fn6">
+                    <label>†</label>
+                    <p>The cluster-adjusted odds ratios and <italic>P</italic> values are from multilevel logistic regression models with the cluster as random intercept.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <table-wrap position="float" id="t4">
+                <label>Table 4</label>
+                <caption>
+                  <p>Self-reported problems related to the status of the teeth</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left" rowspan="1" colspan="1"/>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 157)<xref rid="t4fn7" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 200)<xref rid="t4fn7" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)<xref rid="t4fn8" ref-type="table-fn">†</xref></th>
+                      <th align="center" rowspan="1" colspan="1"><italic>P</italic> value<xref rid="t4fn8" ref-type="table-fn">†</xref></th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>How often during the past 12 months did you have toothache or feel discomfort due to your teeth?</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Frequency of tooth ache</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Irregular</td>
+                      <td align="center" rowspan="1" colspan="1">125 (81)</td>
+                      <td align="center" rowspan="1" colspan="1">179 (90)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Frequent</td>
+                      <td align="center" rowspan="1" colspan="1">29 (19)</td>
+                      <td align="center" rowspan="1" colspan="1">20 (10)</td>
+                      <td align="center" rowspan="1" colspan="1">0.48 (0.23–0.98)</td>
+                      <td align="center" rowspan="1" colspan="1">0.04</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>Have you experienced any of the following problems in the past year?</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">I have difficulty biting hard foods</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">118 (75)</td>
+                      <td align="center" rowspan="1" colspan="1">176 (88)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">38 (24)</td>
+                      <td align="center" rowspan="1" colspan="1">23 (12)</td>
+                      <td align="center" rowspan="1" colspan="1">0.40 (0.21–0.77)</td>
+                      <td align="center" rowspan="1" colspan="1">0.006</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Don’t know</td>
+                      <td align="center" rowspan="1" colspan="1">01 (0.6)</td>
+                      <td align="center" rowspan="1" colspan="1">1 (0.5)</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">I have difficulty in chewing</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">127 (81)</td>
+                      <td align="center" rowspan="1" colspan="1">182 (91)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">29 (18)</td>
+                      <td align="center" rowspan="1" colspan="1">17 (8.5)</td>
+                      <td align="center" rowspan="1" colspan="1">0.41 (0.22–0.78)</td>
+                      <td align="center" rowspan="1" colspan="1">0.006</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Don’t know</td>
+                      <td align="center" rowspan="1" colspan="1">1 (0.6)</td>
+                      <td align="center" rowspan="1" colspan="1">0</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">I missed school due to toothache for whole days</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> No</td>
+                      <td align="center" rowspan="1" colspan="1">149 (95)</td>
+                      <td align="center" rowspan="1" colspan="1">188 (94)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Yes</td>
+                      <td align="center" rowspan="1" colspan="1">8 (5.1)</td>
+                      <td align="center" rowspan="1" colspan="1">10 (5.0)</td>
+                      <td align="center" rowspan="1" colspan="1">0.99 (0.38–2.57)</td>
+                      <td align="center" rowspan="1" colspan="1">0.98</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Don’t know</td>
+                      <td align="center" rowspan="1" colspan="1">0</td>
+                      <td align="center" rowspan="1" colspan="1">2 (1.0)</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="t4fn7">
+                    <label>*</label>
+                    <p>Values are <italic>N</italic> (%).</p>
+                  </fn>
+                  <fn id="t4fn8">
+                    <label>†</label>
+                    <p>The cluster-adjusted odds ratios and <italic>P</italic> values are from multilevel logistic regression models with the cluster as random intercept.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <table-wrap position="float" id="t5">
+                <label>Table 5</label>
+                <caption>
+                  <p>Dietary habits</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <thead>
+                    <tr>
+                      <th align="left" rowspan="1" colspan="1"/>
+                      <th align="center" rowspan="1" colspan="1">Control (<italic>N</italic> = 157)<xref rid="t5fn9" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Intervention (<italic>N</italic> = 200)<xref rid="t5fn9" ref-type="table-fn">*</xref></th>
+                      <th align="center" rowspan="1" colspan="1">Odds ratio (95% CI)<xref rid="t5fn10" ref-type="table-fn">†</xref></th>
+                      <th align="center" rowspan="1" colspan="1"><italic>P</italic> value<xref rid="t5fn10" ref-type="table-fn">†</xref></th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">
+                        <bold>How frequent do you eat or drink the following? (≤ once/week = Low; &gt; once/week = High frequency)</bold>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Fresh fruit</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">95 (61)</td>
+                      <td align="center" rowspan="1" colspan="1">99 (50)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">62 (39)</td>
+                      <td align="center" rowspan="1" colspan="1">100 (50)</td>
+                      <td align="center" rowspan="1" colspan="1">1.56 (0.86–2.83)</td>
+                      <td align="center" rowspan="1" colspan="1">0.15</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Biscuits, cakes, cream, and sweet pies</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">133 (85)</td>
+                      <td align="center" rowspan="1" colspan="1">155 (77)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">24 (15)</td>
+                      <td align="center" rowspan="1" colspan="1">45 (23)</td>
+                      <td align="center" rowspan="1" colspan="1">1.63 (0.76–3.50)</td>
+                      <td align="center" rowspan="1" colspan="1">0.21</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Lemonade, Coca cola, and other soft drinks</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">144 (92)</td>
+                      <td align="center" rowspan="1" colspan="1">187 (94)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">13 (8.3)</td>
+                      <td align="center" rowspan="1" colspan="1">13 (6.5)</td>
+                      <td align="center" rowspan="1" colspan="1">0.77 (0.35–1.71)</td>
+                      <td align="center" rowspan="1" colspan="1">0.52</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Jam and honey</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">149 (95)</td>
+                      <td align="center" rowspan="1" colspan="1">189 (95)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">8 (5.1)</td>
+                      <td align="center" rowspan="1" colspan="1">10 (5.0)</td>
+                      <td align="center" rowspan="1" colspan="1">0.98 (0.38–2.56)</td>
+                      <td align="center" rowspan="1" colspan="1">0.98</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Chewing gum with sugar</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">151 (96)</td>
+                      <td align="center" rowspan="1" colspan="1">190 (95)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">6 (3.8)</td>
+                      <td align="center" rowspan="1" colspan="1">10 (5.0)</td>
+                      <td align="center" rowspan="1" colspan="1">1.32 (0.47–3.73)</td>
+                      <td align="center" rowspan="1" colspan="1">0.59</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Sweets or candy</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">136 (87)</td>
+                      <td align="center" rowspan="1" colspan="1">176 (88)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">21 (13)</td>
+                      <td align="center" rowspan="1" colspan="1">24 (12)</td>
+                      <td align="center" rowspan="1" colspan="1">0.88 (0.42–1.81)</td>
+                      <td align="center" rowspan="1" colspan="1">0.72</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Milk with sugar</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">147 (94)</td>
+                      <td align="center" rowspan="1" colspan="1">174 (87)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">10 (6.4)</td>
+                      <td align="center" rowspan="1" colspan="1">26 (13)</td>
+                      <td align="center" rowspan="1" colspan="1">2.17 (0.46–10.2)</td>
+                      <td align="center" rowspan="1" colspan="1">0.33</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Tea with sugar</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">134 (85)</td>
+                      <td align="center" rowspan="1" colspan="1">166 (83)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">23 (15)</td>
+                      <td align="center" rowspan="1" colspan="1">34 (17)</td>
+                      <td align="center" rowspan="1" colspan="1">1.21 (0.55–2.65)</td>
+                      <td align="center" rowspan="1" colspan="1">0.64</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Coffee with sugar</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">154 (98)</td>
+                      <td align="center" rowspan="1" colspan="1">198 (99)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">3 (1.9)</td>
+                      <td align="center" rowspan="1" colspan="1">1 (0.5)</td>
+                      <td align="center" rowspan="1" colspan="1">0.26 (0.03–2.52)</td>
+                      <td align="center" rowspan="1" colspan="1">0.24</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Bushera with sugar</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">107 (68)</td>
+                      <td align="center" rowspan="1" colspan="1">129 (65)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">50 (32)</td>
+                      <td align="center" rowspan="1" colspan="1">70 (35)</td>
+                      <td align="center" rowspan="1" colspan="1">1.19 (0.44–3.25)</td>
+                      <td align="center" rowspan="1" colspan="1">0.73</td>
+                    </tr>
+                    <tr>
+                      <td align="left" colspan="5" rowspan="1">Sugarcane</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> Low frequency</td>
+                      <td align="center" rowspan="1" colspan="1">107 (68)</td>
+                      <td align="center" rowspan="1" colspan="1">147 (74)</td>
+                      <td align="center" rowspan="1" colspan="1">Reference</td>
+                      <td align="center" rowspan="1" colspan="1">–</td>
+                    </tr>
+                    <tr>
+                      <td align="left" rowspan="1" colspan="1"> High frequency</td>
+                      <td align="center" rowspan="1" colspan="1">50 (32)</td>
+                      <td align="center" rowspan="1" colspan="1">52 (26)</td>
+                      <td align="center" rowspan="1" colspan="1">0.80 (0.20–3.11)</td>
+                      <td align="center" rowspan="1" colspan="1">0.75</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot>
+                  <fn id="t5fn9">
+                    <label>*</label>
+                    <p>Values are <italic>N</italic> (%).</p>
+                  </fn>
+                  <fn id="t5fn10">
+                    <label>†</label>
+                    <p>The cluster-adjusted odds ratios and <italic>P</italic> values are from multilevel logistic regression models with the cluster as random intercept.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+            </sec>
+            <sec sec-type="discussion" id="s4">
+              <title>DISCUSSION</title>
+              <p>This study demonstrates a significant effect on oral health of 5–6-year-old children after an education intervention including focus on oral health given to mothers when their children were aged 6–8 months. Less caries was first demonstrated in primary incisors when these children were 3 years old<xref rid="b27" ref-type="bibr"><sup>27</sup></xref> and has then persisted without any further intervention. Notably, in the current follow-up study, the intervention group experienced less caries in primary molars, less pain, and less difficulty chewing and eating compared with children in the control group.</p>
+              <p>Previous studies from rural communities in Uganda reported caries prevalence ranging from 34.5% in the age group 5–6 years<xref rid="b32" ref-type="bibr"><sup>32</sup></xref> to 49.2% in the age group 5–7 years<xref rid="b33" ref-type="bibr"><sup>33</sup></xref> and 65% in 5-years old.<xref rid="b34" ref-type="bibr"><sup>34</sup></xref> The prevalence of dental caries varies across rural and urban areas,<xref rid="b35" ref-type="bibr"><sup>35</sup></xref> and also within areas with either naturally low- or high-levels of fluoride in the drinking water. We found that more children in the intervention group (66%) reported using toothbrush to clean their teeth, compared with children in the control group (38%). The use of chewing sticks were equally frequent in both study groups. Chewing sticks, made from local trees or shrubs, offer a natural alternative to toothbrushes, with low cost and availability in LMICs,<xref rid="b50" ref-type="bibr"><sup>50</sup></xref> and it is frequently used in Uganda.<xref rid="b33" ref-type="bibr"><sup>33</sup></xref><sup>,</sup><xref rid="b35" ref-type="bibr"><sup>35</sup></xref></p>
+              <p>The significantly higher frequency of teeth-cleaning and use of toothbrush in the intervention group is most likely the major reason for the improved oral health that we found in the intervention compared with the control group. Daily mechanical removal of tooth biofilm together with fluoride toothpaste is an important and efficient way to prevent dental caries.<xref rid="b36" ref-type="bibr"><sup>36</sup></xref></p>
+              <p>Our results showed that only a minority of the children had visited a dentist in the past 12 months, and many of them never had a dental visit. These findings are consistent with findings from other studies showing that the majority of the population in rural areas of Uganda do not have access to oral healthcare services, and most dental decay remains untreated.<xref rid="b22" ref-type="bibr"><sup>22</sup></xref><sup>,</sup><xref rid="b33" ref-type="bibr"><sup>33</sup></xref></p>
+              <p>In many rural areas of Uganda, toothpaste is not easily accessible because many poor families cannot afford it, a fact that might explain the very low frequency of use of fluoridated toothpaste in both study groups.</p>
+              <p>The benefits of fluoride in caries prevention are generally accepted worldwide.<xref rid="b16" ref-type="bibr"><sup>16</sup></xref> In some parts of Africa, fluoride occurs naturally in drinking water.<xref rid="b37" ref-type="bibr"><sup>37</sup></xref> The water fluoride concentration in the present study area was measured when the children were 36 months, and the mean concentration was below the levels of caries preventive effect (&lt; 0.7 ppm).<xref rid="b27" ref-type="bibr"><sup>27</sup></xref> On the other hand, drinking water with more than 1.5 ppm of fluoride can give rise to tooth development disturbance like dental fluorosis. The enamel defects can differ in intensity from mild to severe according to the Thylstrup and Fejerskov index.<xref rid="b38" ref-type="bibr"><sup>38</sup></xref> We found enamel defects in the permanent first molar consistent with mild dental fluorosis in 11 children in two villages; thus, dental fluorosis seemed not to be a big problem. Dental fluorosis is very rare in deciduous teeth and most of the studied children had primary teeth only. When fluoridated toothpaste is unavailable, fluoridation of public water supplies can be a cheap and efficient strategy to obtain optimal levels of caries prevention in the community.<xref rid="b10" ref-type="bibr"><sup>10</sup></xref><sup>,</sup><xref rid="b39" ref-type="bibr"><sup>39</sup></xref><sup>,</sup><xref rid="b40" ref-type="bibr"><sup>40</sup></xref></p>
+              <p>There is a clear association between caries and the consumption of sugar.<xref rid="b41" ref-type="bibr"><sup>41</sup></xref> However, we found no significant difference between the two study groups regarding dietary intakes. More than half of the children in both groups reported high intake of food and drinks containing sugar. Lifestyle changes like diet improvement is challenging, especially in poor populations with limited access to information on diet and its effect on health.</p>
+              <p>The registration of signs of removed <italic>ebiino</italic> (“false teeth”) was based on the photographs that by chance included the primary canine region and the results cannot be interpreted as prevalence of removed <italic>ebiino</italic>, but we registered possible signs of removed tooth buds in 13.7% of the children. The most common sign was missing primary canines in the lower jaw. However, at follow-up, when the children were 36 months old, a significantly reduced occurrence of removed tooth buds was reported in the intervention group compared with the control group (8.9% versus 24.7%).<xref rid="b27" ref-type="bibr"><sup>27</sup></xref> Few studies have reported on the prevalence of removal of primary tooth buds in rural Uganda. Nuwaha et.al found that 58.6% households in the Bushenyi district, Uganda reported that at least one child younger than 5-year-old had suffered from this practice.<xref rid="b42" ref-type="bibr"><sup>42</sup></xref> In 2016, Musinguzi et al. found that the prevalence of missing teeth due to removal of <italic>ebiino</italic> was 8.1% in rural Uganda.<xref rid="b43" ref-type="bibr"><sup>43</sup></xref> The practice is often performed when the child is 5–7 months old.<xref rid="b19" ref-type="bibr"><sup>19</sup></xref><sup>,</sup><xref rid="b44" ref-type="bibr"><sup>44</sup></xref> At this age, the gum swelling is most evident and infants are most likely to suffer from common childhood illness (fever, diarrhea, and vomiting). Therefore, infant illnesses can easily be attributed to teething. We found no significant difference between the two study groups regarding signs of removed <italic>ebiino</italic>. This is probably because oral health information was not included in this study before the children were 12–16 months; consequently, many children had already been subjected to the procedure.</p>
+              <p>Many countries have introduced school-based programs, usually involving tooth brushing with fluoride-containing toothpaste, to improve oral health in children.<xref rid="b45" ref-type="bibr"><sup>45</sup></xref> Such programs are effective, but the prevention should start as soon as the first teeth erupt to prevent caries in the deciduous teeth. Children with caries experience in the primary dentition are more likely to develop dental caries in their permanent dentition.<xref rid="b46" ref-type="bibr"><sup>46</sup></xref> Since parents/caregivers have great influence on what their children eat and drink from early age, and whether they clean their teeth, educating them, such as in our RCT, seems to be a feasible and a cost-effective way to improve oral health in early childhood.<xref rid="b47" ref-type="bibr"><sup>47</sup></xref></p>
+              <p>The robust randomized design and the long follow-up time constitute the major strengths of this study, and is the first of its kind testing the effect of an early education intervention on oral health among children living in rural Uganda and probably in Sub-Saharan Africa. Although the total follow up-rate was acceptable (70%), the specific follow-up rates for the two study groups differed somewhat (63%-control and 76%-intervention), which may have impacted on the results. A further limitation is the indirect identification of caries using photographs and the collection of self-reported data that can be prone to bias. Our findings are, therefore, not readily comparable to other studies as the registration of dental caries was based on photographs covering primary maxillary and mandibular molars and permanent first molar if present. Since no clinical or radiographic examination was performed and only obvious cavitated lesion into the dentin seen on the photographs were registered as caries, the occurrence of caries may have been underdiagnosed. The challenge is to find an easy and cheap intervention that gives a large effect, especially in countries with limited economic and personnel resources.<xref rid="b48" ref-type="bibr"><sup>48</sup></xref><sup>,</sup><xref rid="b49" ref-type="bibr"><sup>49</sup></xref> Our results shows that the maternal education intervention was effective in caries prevention.</p>
+            </sec>
+            <sec sec-type="conclusions" id="s5">
+              <title>CONCLUSION</title>
+              <p>This study shows that dental caries and false teeth removal continue to burden children in rural areas of Uganda. Notwithstanding the limitations of this study, we conclude that maternal education intervention delivered by health personnel in early childhood managed to improve oral hygiene and give a long-term improvement of oral health. Educational interventions to parents and/or caregivers with emphasis on nutrition and oral hygiene may provide a feasible strategy to decrease progression of childhood caries and improve oral health in LMICs.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supplemental files</title>
+              <supplementary-material id="SD1" position="float" content-type="local-data">
+                <p>
+                  <ext-link xlink:href="/content/journals/10.4269/ajtmh.22-0248#supplementary_data" ext-link-type="uri">Supplemental materials</ext-link>
+                </p>
+                <media xlink:href="tpmd220248.SD1.pdf" id="S1" position="anchor"/>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack>
+              <title>ACKNOWLEDGMENTS</title>
+              <p>We thank the households who took part in the study and the field workers for their dedicated work.</p>
+            </ack>
+            <ref-list>
+              <title>REFERENCES</title>
+              <ref id="b1">
+                <label>1.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Peres</surname><given-names>MA</given-names></name>
+<etal/>
+<year>2019</year>. 
+<article-title>Oral diseases: a global public health challenge</article-title>. <source>Lancet</source>
+<volume>394</volume>: <fpage>249</fpage>–<lpage>260</lpage>.<pub-id pub-id-type="pmid">31327369</pub-id></mixed-citation>
+              </ref>
+              <ref id="b2">
+                <label>2.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Wen</surname><given-names>PYF</given-names></name>
+<name><surname>Chen</surname><given-names>MX</given-names></name>
+<name><surname>Zhong</surname><given-names>YJ</given-names></name>
+<name><surname>Dong</surname><given-names>QQ</given-names></name>
+<name><surname>Wong</surname><given-names>HM</given-names></name>
+, <year>2021</year>. 
+<article-title>Global burden and inequality of dental caries, 1990 to 2019</article-title>. <source>J Dent Res</source>
+<volume>101</volume>: <fpage>392</fpage>–<lpage>399</lpage>.<pub-id pub-id-type="pmid">34852668</pub-id></mixed-citation>
+              </ref>
+              <ref id="b3">
+                <label>3.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Sheiham</surname><given-names>A</given-names></name>
+, <year>2006</year>. 
+<article-title>Dental caries affects body weight, growth and quality of life in pre-school children</article-title>. <source>Br Dent J</source>
+<volume>201</volume>: <fpage>625</fpage>–<lpage>626</lpage>.<pub-id pub-id-type="pmid">17128231</pub-id></mixed-citation>
+              </ref>
+              <ref id="b4">
+                <label>4.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Glick</surname><given-names>M</given-names></name>
+<name><surname>Williams</surname><given-names>DM</given-names></name>
+<name><surname>Kleinman</surname><given-names>DV</given-names></name>
+<name><surname>Vujicic</surname><given-names>M</given-names></name>
+<name><surname>Watt</surname><given-names>RG</given-names></name>
+<name><surname>Weyant</surname><given-names>RJ</given-names></name>
+, <year>2016</year>. 
+<article-title>A new definition for oral health developed by the FDI World Dental Federation opens the door to a universal definition of oral health</article-title>. <source>J Am Dent Assoc</source>
+<volume>147</volume>: <fpage>915</fpage>–<lpage>917</lpage>.<pub-id pub-id-type="pmid">27886668</pub-id></mixed-citation>
+              </ref>
+              <ref id="b5">
+                <label>5.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Bernabe</surname><given-names>E</given-names></name>
+<etal/>
+<year>2020</year>. 
+<article-title>Global, regional, and national levels and trends in burden of oral conditions from 1990 to 2017: a systematic analysis for the global burden of disease 2017 study</article-title>. <source>J Dent Res</source>
+<volume>99</volume>: <fpage>362</fpage>–<lpage>373</lpage>.<pub-id pub-id-type="pmid">32122215</pub-id></mixed-citation>
+              </ref>
+              <ref id="b6">
+                <label>6.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Watt</surname><given-names>RG</given-names></name>
+<etal/>
+<year>2019</year>. 
+<article-title>Ending the neglect of global oral health: time for radical action</article-title>. <source>Lancet</source>
+<volume>394</volume>: <fpage>261</fpage>–<lpage>272</lpage>.<pub-id pub-id-type="pmid">31327370</pub-id></mixed-citation>
+              </ref>
+              <ref id="b7">
+                <label>7.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Pitts</surname><given-names>N</given-names></name>
+<name><surname>Amaechi</surname><given-names>B</given-names></name>
+<name><surname>Niederman</surname><given-names>R</given-names></name>
+<name><surname>Acevedo</surname><given-names>AM</given-names></name>
+<name><surname>Vianna</surname><given-names>R</given-names></name>
+<name><surname>Ganss</surname><given-names>C</given-names></name>
+<name><surname>Ismail</surname><given-names>A</given-names></name>
+<name><surname>Honkala</surname><given-names>E</given-names></name>
+, <year>2011</year>. 
+<article-title>Global oral health inequalities: dental caries task group–research agenda</article-title>. <source>Adv Dent Res</source>
+<volume>23</volume>: <fpage>211</fpage>–<lpage>220</lpage>.<pub-id pub-id-type="pmid">21490233</pub-id></mixed-citation>
+              </ref>
+              <ref id="b8">
+                <label>8.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Skudutyte-Rysstad</surname><given-names>R</given-names></name>
+<name><surname>Eriksen</surname><given-names>HM</given-names></name>
+, <year>2007</year>. 
+<article-title>Changes in caries experience among 35-year-old Oslo citizens, 1973–2003</article-title>. <source>Acta Odontol Scand</source>
+<volume>65</volume>: <fpage>72</fpage>–<lpage>77</lpage>.<pub-id pub-id-type="pmid">17453424</pub-id></mixed-citation>
+              </ref>
+              <ref id="b9">
+                <label>9.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Marthaler</surname><given-names>TM</given-names></name>
+, <year>2004</year>. 
+<article-title>Changes in dental caries 1953–2003</article-title>. <source>Caries Res</source>
+<volume>38</volume>: <fpage>173</fpage>–<lpage>181</lpage>.<pub-id pub-id-type="pmid">15153686</pub-id></mixed-citation>
+              </ref>
+              <ref id="b10">
+                <label>10.</label>
+                <mixed-citation publication-type="other"> <collab>World Health Organization</collab>
+, <year>2016</year>. <source>Promoting Oral Health in Africa: Prevention and Control of Oral Diseases and Noma as Part of Essential Noncommunicable Disease Interventions.</source> Available at: <ext-link xlink:href="https://apps.who.int/iris/bitstream/handle/10665/205886/9789290232971.pdf" ext-link-type="uri">https://apps.who.int/iris/bitstream/handle/10665/205886/9789290232971.pdf</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b11">
+                <label>11.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Kimmie-Dhansay</surname><given-names>F</given-names></name>
+<name><surname>Barrie</surname><given-names>R</given-names></name>
+<name><surname>Naidoo</surname><given-names>S</given-names></name>
+<name><surname>Roberts</surname><given-names>T</given-names></name>
+, <year>2022</year>. 
+<article-title>Prevalence of early childhood caries in South Africa: a systematic review</article-title>. <source>BMC Oral Health</source>
+<volume>22</volume>: <fpage>32</fpage>.<pub-id pub-id-type="pmid">35135513</pub-id></mixed-citation>
+              </ref>
+              <ref id="b12">
+                <label>12.</label>
+                <mixed-citation publication-type="other"> <collab>United Nations 2022, Substainable Development Goals</collab>
+, (SDGs). Available at: <ext-link xlink:href="https://sdgs.un.org/goals" ext-link-type="uri">https://sdgs.un.org/goals</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b13">
+                <label>13.</label>
+                <mixed-citation publication-type="other"> <collab>World Health Organization</collab>
+, <year>2021</year>
+<italic>.</italic>
+<source>Consolidated Report by the Director-General: Seventy-Fourth World Health Assembly.</source> Available at: <ext-link xlink:href="https://www.who.int/news/item/27-05-2021-update-from-the-seventy-fourth-world-health-assembly-27-may-2021" ext-link-type="uri">https://www.who.int/news/item/27-05-2021-update-from-the-seventy-fourth-world-health-assembly-27-may-2021</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b14">
+                <label>14.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Sheiham</surname><given-names>A</given-names></name>
+<name><surname>Watt</surname><given-names>RG</given-names></name>
+, <year>2000</year>. 
+<article-title>The common risk factor approach: a rational basis for promoting oral health</article-title>. <source>Community Dent Oral Epidemiol</source>
+<volume>28</volume>: <fpage>399</fpage>–<lpage>406</lpage>.<pub-id pub-id-type="pmid">11106011</pub-id></mixed-citation>
+              </ref>
+              <ref id="b15">
+                <label>15.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Fejerskov</surname><given-names>O</given-names></name>
+, <year>1997</year>. 
+<article-title>Concepts of dental caries and their consequences for understanding the disease</article-title>. <source>Community Dent Oral Epidemiol</source>
+<volume>25</volume>: <fpage>5</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="pmid">9088687</pub-id></mixed-citation>
+              </ref>
+              <ref id="b16">
+                <label>16.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Pitts</surname><given-names>NB</given-names></name>
+<name><surname>Zero</surname><given-names>DT</given-names></name>
+<name><surname>Marsh</surname><given-names>PD</given-names></name>
+<name><surname>Ekstrand</surname><given-names>K</given-names></name>
+<name><surname>Weintraub</surname><given-names>JA</given-names></name>
+<name><surname>Ramos-Gomez</surname><given-names>F</given-names></name>
+<name><surname>Tagami</surname><given-names>J</given-names></name>
+<name><surname>Twetman</surname><given-names>S</given-names></name>
+<name><surname>Tsakos</surname><given-names>G</given-names></name>
+<name><surname>Ismail</surname><given-names>A</given-names></name>
+, <year>2017</year>. 
+<article-title>Dental caries</article-title>. <source>Nat Rev Dis Primers</source>
+<volume>3</volume>: <fpage>17030</fpage>.<pub-id pub-id-type="pmid">28540937</pub-id></mixed-citation>
+              </ref>
+              <ref id="b17">
+                <label>17.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Sheiham</surname><given-names>A</given-names></name>
+<name><surname>James</surname><given-names>WP</given-names></name>
+, <year>2015</year>. 
+<article-title>Diet and dental caries: the pivotal role of free sugars reemphasized</article-title>. <source>J Dent Res</source>
+<volume>94</volume>: <fpage>1341</fpage>–<lpage>1347</lpage>.<pub-id pub-id-type="pmid">26261186</pub-id></mixed-citation>
+              </ref>
+              <ref id="b18">
+                <label>18.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Pindborg</surname><given-names>JJ</given-names></name>
+, <year>1969</year>. 
+<article-title>Dental mutilation and associated abnormalities in Uganda</article-title>. <source>Am J Phys Anthropol</source>
+<volume>31</volume>: <fpage>383</fpage>–<lpage>389</lpage>.<pub-id pub-id-type="pmid">5370955</pub-id></mixed-citation>
+              </ref>
+              <ref id="b19">
+                <label>19.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Accorsi</surname><given-names>S</given-names></name>
+<name><surname>Fabiani</surname><given-names>M</given-names></name>
+<name><surname>Ferrarese</surname><given-names>N</given-names></name>
+<name><surname>Iriso</surname><given-names>R</given-names></name>
+<name><surname>Lukwiya</surname><given-names>M</given-names></name>
+<name><surname>Declich</surname><given-names>S</given-names></name>
+, <year>2003</year>. 
+<article-title>The burden of traditional practices, ebino and tea-tea, on child health in northern Uganda</article-title>. <source>Soc Sci Med</source>
+<volume>57</volume>: <fpage>2183</fpage>–<lpage>2191</lpage>.<pub-id pub-id-type="pmid">14512248</pub-id></mixed-citation>
+              </ref>
+              <ref id="b20">
+                <label>20.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Wandera</surname><given-names>MN</given-names></name>
+<name><surname>Kasumba</surname><given-names>B</given-names></name>
+, <year>2017</year>. 
+<article-title>“Ebinyo”—the practice of infant oral mutilation in Uganda</article-title>. <source>Front Public Health</source>
+<volume>5</volume>: <fpage>167</fpage>.<pub-id pub-id-type="pmid">28770190</pub-id></mixed-citation>
+              </ref>
+              <ref id="b21">
+                <label>21.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Barzangi</surname><given-names>J</given-names></name>
+<name><surname>Unell</surname><given-names>L</given-names></name>
+<name><surname>Söderfeldt</surname><given-names>B</given-names></name>
+<name><surname>Arnrup</surname><given-names>K</given-names></name>
+, <year>2014</year>. 
+<article-title>Infant dental enucleation: a literature review on a traditional remedial practice in East Africa</article-title>. <source>Acta Odontol Scand</source>
+<volume>72</volume>: <fpage>168</fpage>–<lpage>178</lpage>.<pub-id pub-id-type="pmid">23865550</pub-id></mixed-citation>
+              </ref>
+              <ref id="b22">
+                <label>22.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Musinguzi</surname><given-names>N</given-names></name>
+<name><surname>Kemoli</surname><given-names>A</given-names></name>
+<name><surname>Okullo</surname><given-names>I</given-names></name>
+, <year>2019</year>. 
+<article-title>Prevalence and treatment needs for early childhood caries among 3–5-year-old children from a rural community in Uganda</article-title>. <source>Front Public Health</source>
+<volume>7</volume>: <fpage>259</fpage>.<pub-id pub-id-type="pmid">31620416</pub-id></mixed-citation>
+              </ref>
+              <ref id="b23">
+                <label>23.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Rubin</surname><given-names>PF</given-names></name>
+<name><surname>Winocur</surname><given-names>E</given-names></name>
+<name><surname>Erez</surname><given-names>A</given-names></name>
+<name><surname>Birenboim-Wilensky</surname><given-names>R</given-names></name>
+<name><surname>Peretz</surname><given-names>B</given-names></name>
+, <year>2016</year>. 
+<article-title>Dental treatment needs among children and adolescents residing in an Ugandan orphanage</article-title>. <source>J Clin Pediatr Dent</source>
+<volume>40</volume>: <fpage>486</fpage>–<lpage>489</lpage>.<pub-id pub-id-type="pmid">27805890</pub-id></mixed-citation>
+              </ref>
+              <ref id="b24">
+                <label>24.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Mohebbi</surname><given-names>SZ</given-names></name>
+<name><surname>Virtanen</surname><given-names>JI</given-names></name>
+<name><surname>Vahid-Golpayegani</surname><given-names>M</given-names></name>
+<name><surname>Vehkalahti</surname><given-names>MM</given-names></name>
+, <year>2009</year>. 
+<article-title>A cluster randomised trial of effectiveness of educational intervention in primary health care on early childhood caries</article-title>. <source>Caries Res</source>
+<volume>43</volume>: <fpage>110</fpage>–<lpage>118</lpage>.<pub-id pub-id-type="pmid">19321988</pub-id></mixed-citation>
+              </ref>
+              <ref id="b25">
+                <label>25.</label>
+                <mixed-citation publication-type="other"> <collab>Institute of Basic Medical Sciences</collab>
+, <year>2015</year>. <italic>The Child Nutrition and Development Study (CHNUDEV)</italic>. Available at: <ext-link xlink:href="https://www.med.uio.no/imb/english/research/projects/chnudev-study/" ext-link-type="uri">https://www.med.uio.no/imb/english/research/projects/chnudev-study/</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b26">
+                <label>26.</label>
+                <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muhoozi</surname><given-names>GKM</given-names></name><name><surname>Atukunda</surname><given-names>P</given-names></name><name><surname>Diep</surname><given-names>LM</given-names></name><name><surname>Mwadime</surname><given-names>R</given-names></name><name><surname>Kaaya</surname><given-names>AN</given-names></name><name><surname>Skaare</surname><given-names>AB</given-names></name><name><surname>Willumsen</surname><given-names>T</given-names></name><name><surname>Westerberg</surname><given-names>AC</given-names></name><name><surname>Iversen</surname><given-names>PO</given-names></name></person-group>, <year>2018</year>. 
+<article-title>Nutrition, hygiene, and stimulation education to improve growth, cognitive, language, and motor development among infants in Uganda: A cluster‐randomized trial</article-title>. <source>Matern Child Nutr</source><volume>14</volume>: <fpage>e12527</fpage>.<pub-id pub-id-type="pmid">28925580</pub-id></mixed-citation>
+              </ref>
+              <ref id="b27">
+                <label>27.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Muhoozi</surname><given-names>GKM</given-names></name>
+<name><surname>Atukunda</surname><given-names>P</given-names></name>
+<name><surname>Skaare</surname><given-names>AB</given-names></name>
+<name><surname>Willumsen</surname><given-names>T</given-names></name>
+<name><surname>Diep</surname><given-names>LM</given-names></name>
+<name><surname>Westerberg</surname><given-names>AC</given-names></name>
+<name><surname>Iversen</surname><given-names>PO</given-names></name>
+, <year>2018</year>. 
+<article-title>Effects of nutrition and hygiene education on oral health and growth among toddlers in rural Uganda: follow‐up of a cluster‐randomised controlled trial</article-title>. <source>Trop Med Int Health</source>
+<volume>23</volume>: <fpage>391</fpage>–<lpage>404</lpage>.<pub-id pub-id-type="pmid">29381827</pub-id></mixed-citation>
+              </ref>
+              <ref id="b28">
+                <label>28.</label>
+                <mixed-citation publication-type="other"> <collab>World Health Organization, Oral Health Questionnaire for Children.</collab>
+Available at: <ext-link xlink:href="https://www.who.int/publications/i/item/9789241548649" ext-link-type="uri">https://www.who.int/publications/i/item/9789241548649</ext-link> p.85. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b29">
+                <label>29.</label>
+                <mixed-citation publication-type="other"> <collab>World Health Organization</collab>
+, <year>2013</year>. <italic>Oral Health Surveys: Basic Methods</italic>, 5th edition. Available at: <ext-link xlink:href="https://www.who.int/publications/i/item/9789241548649" ext-link-type="uri">https://www.who.int/publications/i/item/9789241548649</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b30">
+                <label>30.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Viera</surname><given-names>AJ</given-names></name>
+<name><surname>Garrett</surname><given-names>JM</given-names></name>
+, <year>2005</year>. 
+<article-title>Understanding interobserver agreement: the kappa statistic</article-title>. <source>Fam Med</source>
+<volume>37</volume>: <fpage>360</fpage>–<lpage>363</lpage>.<pub-id pub-id-type="pmid">15883903</pub-id></mixed-citation>
+              </ref>
+              <ref id="b31">
+                <label>31.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Schulz</surname><given-names>KF</given-names></name>
+<name><surname>Altman</surname><given-names>DG</given-names></name>
+<name><surname>Moher</surname><given-names>D</given-names></name>
+, <year>2010</year>. 
+<article-title>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials</article-title>. <source>PLOS Med</source>
+<volume>7</volume>: <fpage>e1000251</fpage>.<pub-id pub-id-type="pmid">20352064</pub-id></mixed-citation>
+              </ref>
+              <ref id="b32">
+                <label>32.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Batwala</surname><given-names>V</given-names></name>
+<name><surname>Mulogo</surname><given-names>EM</given-names></name>
+<name><surname>Arubaku</surname><given-names>W</given-names></name>
+, <year>2007</year>. 
+<article-title>Oral health status of school children in Mbarara, Uganda</article-title>. <source>Afr Health Sci</source>
+<volume>7</volume>: <fpage>233</fpage>–<lpage>238</lpage>.<pub-id pub-id-type="pmid">21499489</pub-id></mixed-citation>
+              </ref>
+              <ref id="b33">
+                <label>33.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Nalweyiso</surname><given-names>N</given-names></name>
+<name><surname>Busingye</surname><given-names>J</given-names></name>
+<name><surname>Whitworth</surname><given-names>J</given-names></name>
+<name><surname>Robinson</surname><given-names>PG</given-names></name>
+, <year>2004</year>. 
+<article-title>Dental treatment needs of children in a rural subcounty of Uganda</article-title>. <source>Int J Paediatr Dent</source>
+<volume>14</volume>: <fpage>27</fpage>–<lpage>33</lpage>.<pub-id pub-id-type="pmid">14706025</pub-id></mixed-citation>
+              </ref>
+              <ref id="b34">
+                <label>34.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Kiwanuka</surname><given-names>SN</given-names></name>
+<name><surname>Astrøm</surname><given-names>AN</given-names></name>
+<name><surname>Trovik</surname><given-names>TA</given-names></name>
+, <year>2004</year>. 
+<article-title>Dental caries experience and its relationship to social and behavioural factors among 3–5-year-old children in Uganda</article-title>. <source>Int J Paediatr Dent</source>
+<volume>14</volume>: <fpage>336</fpage>–<lpage>346</lpage>.<pub-id pub-id-type="pmid">15330999</pub-id></mixed-citation>
+              </ref>
+              <ref id="b35">
+                <label>35.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Kutesa</surname><given-names>A</given-names></name>
+<name><surname>Kasangaki</surname><given-names>A</given-names></name>
+<name><surname>Nkamba</surname><given-names>M</given-names></name>
+<name><surname>Muwazi</surname><given-names>L</given-names></name>
+<name><surname>Okullo</surname><given-names>I</given-names></name>
+<name><surname>Rwenyonyi</surname><given-names>CM</given-names></name>
+, <year>2015</year>. 
+<article-title>Prevalence and factors associated with dental caries among children and adults in selected districts in Uganda</article-title>. <source>Afr Health Sci</source>
+<volume>15</volume>: <fpage>1302</fpage>–<lpage>1307</lpage>.<pub-id pub-id-type="pmid">26958035</pub-id></mixed-citation>
+              </ref>
+              <ref id="b36">
+                <label>36.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Walsh</surname><given-names>T</given-names></name>
+<name><surname>Worthington</surname><given-names>HV</given-names></name>
+<name><surname>Glenny</surname><given-names>AM</given-names></name>
+<name><surname>Marinho</surname><given-names>VC</given-names></name>
+<name><surname>Jeroncic</surname><given-names>A</given-names></name>
+, <year>2019</year>. 
+<article-title>Fluoride toothpastes of different concentrations for preventing dental caries</article-title>. <source>Cochrane Database Syst Rev</source>
+<volume>3</volume>: <fpage>Cd007868</fpage>.<pub-id pub-id-type="pmid">30829399</pub-id></mixed-citation>
+              </ref>
+              <ref id="b37">
+                <label>37.</label>
+                <mixed-citation publication-type="other"> 
+<name><surname>Kimambo</surname><given-names>VBP</given-names></name>
+<name><surname>Mtalo</surname><given-names>F</given-names></name>
+<name><surname>Mtamba</surname><given-names>J</given-names></name>
+<name><surname>Ahmad</surname><given-names>A</given-names></name>
+, <year>2019</year>. <source>Fluoride Occurrence in Groundwater Systems at Global Scale and Status of Defluoridation—State of the Art.</source> Available at: <ext-link xlink:href="https://reader.elsevier.com/reader/sd/pii/S2352801X18301887?token=DE3DE2826E056B20D8E122EA2642D4D114CBD308D0E5D443F0372512D8F01056CF4A5C6AB154A8D5B88F7429994309E7&amp;originRegion=eu-west-1&amp;originCreation=20220321140146" ext-link-type="uri">https://reader.elsevier.com/reader/sd/pii/S2352801X18301887?token=DE3DE2826E056B20D8E122EA2642D4D114CBD308D0E5D443F0372512D8F01056CF4A5C6AB154A8D5B88F7429994309E7&amp;originRegion=eu-west-1&amp;originCreation=20220321140146</ext-link>. Accessed 2022.</mixed-citation>
+              </ref>
+              <ref id="b38">
+                <label>38.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Thylstrup</surname><given-names>A</given-names></name>
+<name><surname>Fejerskov</surname><given-names>O</given-names></name>
+, <year>1978</year>. 
+<article-title>Clinical appearance of dental fluorosis in permanent teeth in relation to histologic changes</article-title>. <source>Community Dent Oral Epidemiol</source>
+<volume>6</volume>: <fpage>315</fpage>–<lpage>328</lpage>.<pub-id pub-id-type="pmid">282114</pub-id></mixed-citation>
+              </ref>
+              <ref id="b39">
+                <label>39.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Yeung</surname><given-names>CA</given-names></name>
+, <year>2008</year>. 
+<article-title>A systematic review of the efficacy and safety of fluoridation</article-title>. <source>Evid Based Dent</source>
+<volume>9</volume>: <fpage>39</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">18584000</pub-id></mixed-citation>
+              </ref>
+              <ref id="b40">
+                <label>40.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Toumba</surname><given-names>KJ</given-names></name>
+<name><surname>Twetman</surname><given-names>S</given-names></name>
+<name><surname>Splieth</surname><given-names>C</given-names></name>
+<name><surname>Parnell</surname><given-names>C</given-names></name>
+<name><surname>van Loveren</surname><given-names>C</given-names></name>
+<name><surname>Lygidakis</surname><given-names>N</given-names></name>
+, <year>2019</year>. 
+<article-title>Guidelines on the use of fluoride for caries prevention in children: an updated EAPD policy document</article-title>. <source>Eur Arch Paediatr Dent</source>
+<volume>20</volume>: <fpage>507</fpage>–<lpage>516</lpage>.<pub-id pub-id-type="pmid">31631242</pub-id></mixed-citation>
+              </ref>
+              <ref id="b41">
+                <label>41.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Zero</surname><given-names>DT</given-names></name>
+, <year>2004</year>. 
+<article-title>Sugars—the arch criminal?</article-title>
+<source>Caries Res</source>
+<volume>38</volume>: <fpage>277</fpage>–<lpage>285</lpage>.<pub-id pub-id-type="pmid">15153701</pub-id></mixed-citation>
+              </ref>
+              <ref id="b42">
+                <label>42.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Nuwaha</surname><given-names>F</given-names></name>
+<name><surname>Okware</surname><given-names>J</given-names></name>
+<name><surname>Hanningtone</surname><given-names>T</given-names></name>
+<name><surname>Charles</surname><given-names>M</given-names></name>
+, <year>2007</year>. 
+<article-title>False teeth “Ebiino” and Millet disease “Oburo” in Bushenyi district of Uganda</article-title>. <source>Afr Health Sci</source>
+<volume>7</volume>: <fpage>25</fpage>–<lpage>32</lpage>.<pub-id pub-id-type="pmid">17604522</pub-id></mixed-citation>
+              </ref>
+              <ref id="b43">
+                <label>43.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Musinguzi</surname><given-names>N</given-names></name>
+<name><surname>Kemoli</surname><given-names>A</given-names></name>
+<name><surname>Okullo</surname><given-names>I</given-names></name>
+, <year>2019</year>. 
+<article-title>Prevalence and dental effects of infant oral mutilation or Ebiino among 3–5 year-old children from a rural district in Uganda</article-title>. <source>BMC Oral Health</source>
+<volume>19</volume>: <fpage>204</fpage>.<pub-id pub-id-type="pmid">31477127</pub-id></mixed-citation>
+              </ref>
+              <ref id="b44">
+                <label>44.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Iriso</surname><given-names>R</given-names></name>
+<name><surname>Accorsi</surname><given-names>S</given-names></name>
+<name><surname>Akena</surname><given-names>S</given-names></name>
+<name><surname>Amone</surname><given-names>J</given-names></name>
+<name><surname>Fabiani</surname><given-names>M</given-names></name>
+<name><surname>Ferrarese</surname><given-names>N</given-names></name>
+<name><surname>Lukwiya</surname><given-names>M</given-names></name>
+<name><surname>Rosolen</surname><given-names>T</given-names></name>
+<name><surname>Declich</surname><given-names>S</given-names></name>
+, <year>2000</year>. 
+<article-title>“Killer” canines: the morbidity and mortality of ebino in northern Uganda</article-title>. <source>Trop Med Int Health</source>
+<volume>5</volume>: <fpage>706</fpage>–<lpage>710</lpage>.<pub-id pub-id-type="pmid">11044265</pub-id></mixed-citation>
+              </ref>
+              <ref id="b45">
+                <label>45.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Jürgensen</surname><given-names>N</given-names></name>
+<name><surname>Petersen</surname><given-names>PE</given-names></name>
+, <year>2013</year>. 
+<article-title>Promoting oral health of children through schools—results from a WHO global survey 2012</article-title>. <source>Community Dent Health</source>
+<volume>30</volume>: <fpage>204</fpage>–<lpage>218</lpage>.<pub-id pub-id-type="pmid">24575523</pub-id></mixed-citation>
+              </ref>
+              <ref id="b46">
+                <label>46.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Li</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>W</given-names></name>
+, <year>2002</year>. 
+<article-title>Predicting caries in permanent teeth from caries in primary teeth: an eight-year cohort study</article-title>. <source>J Dent Res</source>
+<volume>81</volume>: <fpage>561</fpage>–<lpage>566</lpage>.<pub-id pub-id-type="pmid">12147748</pub-id></mixed-citation>
+              </ref>
+              <ref id="b47">
+                <label>47.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Henry</surname><given-names>JA</given-names></name>
+<name><surname>Muthu</surname><given-names>MS</given-names></name>
+<name><surname>Swaminathan</surname><given-names>K</given-names></name>
+<name><surname>Kirubakaran</surname><given-names>R</given-names></name>
+, <year>2017</year>. 
+<article-title>Do oral health educational programmes for expectant mothers prevent early childhood caries?—Systematic review</article-title>. <source>Oral Health Prev Dent</source>
+<volume>15</volume>: <fpage>215</fpage>–<lpage>221</lpage>.<pub-id pub-id-type="pmid">28674702</pub-id></mixed-citation>
+              </ref>
+              <ref id="b48">
+                <label>48.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Fraihat</surname><given-names>N</given-names></name>
+<name><surname>Madae’en</surname><given-names>S</given-names></name>
+<name><surname>Bencze</surname><given-names>Z</given-names></name>
+<name><surname>Herczeg</surname><given-names>A</given-names></name>
+<name><surname>Varga</surname><given-names>O</given-names></name>
+, <year>2019</year>. 
+<article-title>Clinical effectiveness and cost-effectiveness of oral-health promotion in dental caries prevention among children: Systematic review and meta-analysis</article-title>. <source>Int J Environ Res Public Health</source>
+<volume>16</volume>: <fpage>2668</fpage>.</mixed-citation>
+              </ref>
+              <ref id="b49">
+                <label>49.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Kay</surname><given-names>E</given-names></name>
+<name><surname>Locker</surname><given-names>D</given-names></name>
+, <year>1998</year>. 
+<article-title>A systematic review of the effectiveness of health promotion aimed at improving oral health</article-title>. <source>Community Dent Health</source>
+<volume>15</volume>: <fpage>132</fpage>–<lpage>144</lpage>.<pub-id pub-id-type="pmid">10645682</pub-id></mixed-citation>
+              </ref>
+              <ref id="b50">
+                <label>50.</label>
+                <mixed-citation publication-type="journal"> 
+<name><surname>Wu</surname><given-names>CD</given-names></name>
+<name><surname>Darout</surname><given-names>IA</given-names></name>
+<name><surname>Skaug</surname><given-names>N</given-names></name>
+, <year>2001</year>. 
+<article-title>Chewing sticks: timeless natural toothbrushes for oral cleansing</article-title>. <source>J Periodontal Res</source>
+<volume>36</volume>: <fpage>275</fpage>–<lpage>284</lpage>.<pub-id pub-id-type="pmid">11585114</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

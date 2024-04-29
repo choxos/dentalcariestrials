@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:40:15Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:9313845" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:9313845</identifier>
+        <datestamp>2022-07-30</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="clr13912" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Oral Implants Res</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Oral Implants Res</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-0501</journal-id>
+              <journal-id journal-id-type="publisher-id">CLR</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Oral Implants Research</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0905-7161</issn>
+              <issn pub-type="epub">1600-0501</issn>
+              <publisher>
+                <publisher-name>John Wiley and Sons Inc.</publisher-name>
+                <publisher-loc>Hoboken</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC9313845</article-id>
+              <article-id pub-id-type="pmcid">PMC9313845</article-id>
+              <article-id pub-id-type="pmc-uid">9313845</article-id>
+              <article-id pub-id-type="pmid">35224778</article-id>
+              <article-id pub-id-type="pmid">35224778</article-id>
+              <article-id pub-id-type="doi">10.1111/clr.13912</article-id>
+              <article-id pub-id-type="publisher-id">CLR13912</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Maxillary sinus floor augmentation comparing bovine versus porcine bone xenografts mixed with autogenous bone graft. A split‐mouth randomized controlled trial</article-title>
+                <alt-title alt-title-type="left-running-head">GALINDO‐MORENO et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="clr13912-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Galindo‐Moreno</surname>
+                    <given-names>Pablo</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6614-6470</contrib-id>
+                  <xref rid="clr13912-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <address>
+                    <email>pgalindo@ugr.es</email>
+                  </address>
+                </contrib>
+                <contrib id="clr13912-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Abril‐García</surname>
+                    <given-names>Dario</given-names>
+                  </name>
+                  <xref rid="clr13912-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13912-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Carrillo‐Galvez</surname>
+                    <given-names>Ana Belen</given-names>
+                  </name>
+                  <xref rid="clr13912-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13912-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Zurita</surname>
+                    <given-names>Federico</given-names>
+                  </name>
+                  <xref rid="clr13912-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13912-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Martín‐Morales</surname>
+                    <given-names>Natividad</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3540-1085</contrib-id>
+                  <xref rid="clr13912-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="clr13912-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13912-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>O’Valle</surname>
+                    <given-names>Francisco</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9207-2287</contrib-id>
+                  <xref rid="clr13912-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <xref rid="clr13912-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="clr13912-cr-0007" contrib-type="author">
+                  <name>
+                    <surname>Padial‐Molina</surname>
+                    <given-names>Miguel</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6222-1341</contrib-id>
+                  <xref rid="clr13912-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="clr13912-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral Surgery and Implant Dentistry, School of Dentistry</named-content>
+                <institution>University of Granada</institution>
+                <city>Granada</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="clr13912-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Genetics, School of Sciences</named-content>
+                <institution>University of Granada</institution>
+                <city>Granada</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="clr13912-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Pathology, School of Medicine</named-content>
+                <institution>University of Granada</institution>
+                <city>Granada</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <aff id="clr13912-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <named-content content-type="organisation-division">Institute of Biopathology and Regenerative Medicine (IBIMER, CIBM), and Institute of Biosanitary (ibs‐Granada)</named-content>
+                <institution>University of Granada</institution>
+                <city>Granada</city>
+                <country country="ES">Spain</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Pablo Galindo‐Moreno, Department of Oral Surgery and Implant Dentistry, School of Dentistry, University of Granada, Campus Universitario de Cartuja, s/n, 18071, Granada, Spain.<break/>
+Email: <email>pgalindo@ugr.es</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>03</day>
+                <month>3</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>5</month>
+                <year>2022</year>
+              </pub-date>
+              <volume>33</volume>
+              <issue seq="80">5</issue>
+              <issue-id pub-id-type="doi">10.1111/clr.v33.5</issue-id>
+              <fpage>524</fpage>
+              <lpage>536</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>29</day>
+                  <month>1</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>03</day>
+                  <month>10</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>16</day>
+                  <month>2</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2022 John Wiley & Sons A/S-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Clinical Oral Implants Research</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:CLR-33-524.pdf"/>
+              <abstract id="clr13912-abs-0001">
+                <title>Abstract</title>
+                <sec id="clr13912-sec-0001">
+                  <title>Aim</title>
+                  <p>To compare the effectiveness of two xenografts for maxillary sinus floor augmentation in terms of clinical, radiographical, histologic, and molecular outcomes.</p>
+                </sec>
+                <sec id="clr13912-sec-0002">
+                  <title>Materials and methods</title>
+                  <p>A split‐mouth randomized clinical trial was conducted at the University of Granada. Ten consecutive patients in need of bilateral two‐staged maxillary sinus floor augmentation were included. Each patient received both biomaterials (porcine bone mineral and anorganic bovine bone), which were randomly assigned for bilateral sinus augmentation. The maxillary autogenous bone scraped from the sinus access window was mixed with each xenograft at a 20:80 ratio. After a healing period of 6 months, bone biopsies were collected with a trephine during the implant placement in the regenerated area. Histologic, histomorphometrical, immunohistochemical, and molecular outcomes were analyzed. Clinical and radiographical data throughout the treatment phases were also evaluated.</p>
+                </sec>
+                <sec id="clr13912-sec-0003">
+                  <title>Results</title>
+                  <p>The resulting anatomic features were similar between both groups. After six months of graft consolidation, the graft resorption rates were similar between both biomaterials. The histologic, histomorphometrical, and immunohistochemical results showed no statistical differences between groups.</p>
+                </sec>
+                <sec id="clr13912-sec-0004">
+                  <title>Conclusion</title>
+                  <p>Anorganic bovine bone and porcine bone mineral combined with maxillary autogenous cortical bone show similar biologic and radiologic features in terms of biomaterial resorption, osteoconduction, and osteogenesis when used for maxillary sinus floor augmentation.</p>
+                </sec>
+              </abstract>
+              <kwd-group>
+                <kwd id="clr13912-kwd-0001">anorganic bovine bone</kwd>
+                <kwd id="clr13912-kwd-0002">bone biomaterial</kwd>
+                <kwd id="clr13912-kwd-0003">implant dentistry</kwd>
+                <kwd id="clr13912-kwd-0004">maxillary sinus augmentation</kwd>
+                <kwd id="clr13912-kwd-0005">porcine bone mineral</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>Junta de Andalucía
+</institution>
+                      <institution-id institution-id-type="doi">10.13039/501100011011</institution-id>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>CTS‐1028</award-id>
+                  <award-id>CTS‐138</award-id>
+                </award-group>
+                <award-group id="funding-0002">
+                  <funding-source>Dentsply Sirona Implants</funding-source>
+                  <award-id>I‐BI‐17‐026</award-id>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="5"/>
+                <table-count count="2"/>
+                <page-count count="13"/>
+                <word-count count="8262"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>May 2022</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.7 mode:remove_FC converted:25.07.2022</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="clr13912-cit-1001"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Abril‐García</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Carrillo‐Galvez</surname>, <given-names>A. B.</given-names></string-name>, <string-name><surname>Zurita</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Martín‐Morales</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name>, &amp; <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name> (<year>2022</year>). <article-title>Maxillary sinus floor augmentation comparing bovine versus porcine bone xenografts mixed with autogenous bone graft. A split‐mouth randomized controlled trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>33</volume>, <fpage>524</fpage>–<lpage>536</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13912</pub-id>
+<pub-id pub-id-type="pmid">35224778</pub-id></mixed-citation>
+              </p>
+              <fn-group id="clr13912-ntgp-0001">
+                <fn fn-type="funding" id="clr13912-note-0001">
+                  <p>
+                    <bold>Funding information</bold>
+                  </p>
+                  <p>This investigation was conducted under an Investigator‐Initiated Study partially funded by Dentsply Sirona Implants (Mölndal, Sweden) through a research transfer agreement with the Technology Transfer Office of the University of Granada (number I‐BI‐17‐026) and the Research Cathedra “Dentsply Sirona—UGR” agreed between Dentsply Sirona Iberia S.A.U. and the University of Granada. The authors are also supported by funding from Research Groups #CTS‐138 and #CTS‐1028 (Junta de Andalucía, Spain)</p>
+                </fn>
+              </fn-group>
+            </notes>
+          </front>
+          <body id="clr13912-body-0001">
+            <sec id="clr13912-sec-0005">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>For surgery, autogenous bone is considered the gold standard for bone regeneration. Autogenous bone is unique due to its osteogenic, osteoconductive, and osteoinductive properties. However, it has disadvantages including high resorption rate, associated morbidity, and the need for second donor sites. This drives researchers to search for bone substitutes that overcome these problems. In this context, xenografts are among the most relevant candidates. In fact, a specific commercial xenograft derived from bovine bone, Bio‐Oss® (Geistlich Pharma AG, Wolhusen, Switzerland) (ABB), is the most studied and scientifically documented biomaterial for bone regeneration currently available. Therefore, it is frequently compared to potential alternatives (Galindo‐Moreno et al., <xref rid="clr13912-bib-0007" ref-type="bibr">2018</xref>, <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>).</p>
+              <p>Hundreds of in vitro, in vivo preclinical and clinical studies endorse the usage of ABB (Lundgren et al., <xref rid="clr13912-bib-0022" ref-type="bibr">2017</xref>). A wide variety of methods have been applied to validate the use of ABB in humans, mainly morphological techniques. Immunohistochemical analyses have also detected important properties of ABB due to its wettability. For example, our group has demonstrated that proteins such as osteopontin (Galindo‐Moreno et al., <xref rid="clr13912-bib-0010" ref-type="bibr">2015</xref>), and BMP‐4 (Torrecillas‐Martínez et al., <xref rid="clr13912-bib-0034" ref-type="bibr">2016</xref>) are adsorbed by ABB during the osteogenesis process. Moreover, this biomaterial is highly osteoconductive, enabling cells to attach to its surface, both for bone apposition and reabsorption (Galindo‐Moreno et al., <xref rid="clr13912-bib-0009" ref-type="bibr">2013</xref>) as well as cellular and vascular colonization (Galindo‐Moreno et al., <xref rid="clr13912-bib-0013" ref-type="bibr">2010</xref>, <xref rid="clr13912-bib-0008" ref-type="bibr">2014</xref>). ABB is also able to maintain the space and structural stability during long periods of time precisely because of its slow resorption rate and similar compression and elastic modulus to the trabecular native bone (Nomura et al., <xref rid="clr13912-bib-0024" ref-type="bibr">2005</xref>).</p>
+              <p>Unlike the aforementioned ABB commercial product and similar xenografts, reports about the biologic and biomechanical properties of porcine‐derived xenografts are much less abundant. Their use in humans is even scarcer. One such recently marketed product is Symbios® Xenograft granules (Dentsply Sirona Implants, Mölndal, Sweden). There are previous studies on porcine‐derived bone for sinus augmentation (Cassetta et al., <xref rid="clr13912-bib-0005" ref-type="bibr">2015</xref>; Lee et al., <xref rid="clr13912-bib-0019" ref-type="bibr">2017</xref>; Orsini et al., <xref rid="clr13912-bib-0026" ref-type="bibr">2006</xref>; Scarano et al., <xref rid="clr13912-bib-0031" ref-type="bibr">2011</xref>). However, it is known that the differences in manufacturing processes of biomaterials can lead to different biologic responses (Monje et al., <xref rid="clr13912-bib-0023" ref-type="bibr">2017</xref>). This is due to possible modifications in the physicochemical characteristics of the biomaterial's surface. Marketing and commercial information about Symbios® Xenograft granules assure that it supports vascularization, allows bone ingrowth, offers more spaces for bone apposition, facilitates cell adhesion, and aids remodeling of the healing bone, offering a statistically significant higher volume fill capacity than Bio‐Oss® in animal models (Li et al., <xref rid="clr13912-bib-0021" ref-type="bibr">2014</xref>). Regardless, some studies have highlighted that apart from minor differences, the physicochemical properties of porcine‐derived bone are quite similar to those of anorganic bovine bone (Lee et al., <xref rid="clr13912-bib-0020" ref-type="bibr">2017</xref>). However, to our knowledge, no clinical studies on any biologic aspects in response to the usage of Symbios® Xenograft granules have been published.</p>
+              <p>The aim of the current study was to compare two bone xenografts for maxillary sinus floor augmentation in terms of clinical and radiographical success, as well as histologic structure and molecular activity. The initial hypothesis was that both materials (anorganic bovine bone and porcine bone mineral) are equally useful for sinus floor augmentation in terms of clinical and radiographical variables and that both offer adequate histologic outcomes according to the molecular processes taking place.</p>
+            </sec>
+            <sec sec-type="materials-and-methods" id="clr13912-sec-0006">
+              <label>2</label>
+              <title>MATERIAL AND METHODS</title>
+              <sec id="clr13912-sec-0007">
+                <label>2.1</label>
+                <title>Study design and primary locations</title>
+                <p>To answer our main objective, a randomized clinical trial with a split‐mouth design was conducted following the recommendations by the CONSORT guidelines. The protocol was reviewed and approved by the Ethics Committee for Human Research of the University of Granada, Spain (480/CEIH/2018). In addition, the protocol was registered in clinicaltrials.gov (number NCT03797963). All patients signed an informed consent describing the aims and procedures related to the study.</p>
+              </sec>
+              <sec id="clr13912-sec-0008">
+                <label>2.2</label>
+                <title>Settings and locations</title>
+                <p>The clinical aspects of the study were conducted at the Research Clinics of the School of Dentistry, University of Granada. Examinations of the biopsies and molecular analyses were performed at the Department of Pathology (School of Medicine, University of Granada) and the Laboratory of Oral Health and Regeneration (Center for Biomedical Research, University of Granada), respectively.</p>
+              </sec>
+              <sec id="clr13912-sec-0009">
+                <label>2.3</label>
+                <title>Participants</title>
+                <p>As inclusion criteria for the study, patients who were referred to receive implants in the maxillary posterior area were screened for inclusion in the study. Patients were finally included if they were also in need of two stages bilateral sinus floor augmentations. This was determined to be the case if the patient had &lt;5mm of residual bone height and either full maxillary edentulism or if the edentulism was classified as Kennedy class I to be restored with dental implants. Exclusion criteria, that none of the patients who met the initial requirements presented, were refusal to participate, prior medical condition causing complications in bone metabolism (such as bisphosphonate), or heavy smoking (more than 10 cigarettes per day). History of periodontal disease as the cause for tooth extraction was not considered as an exclusion criteria.</p>
+              </sec>
+              <sec id="clr13912-sec-0010">
+                <label>2.4</label>
+                <title>Interventions</title>
+                <p>The surgical protocol, both for the augmentation of the sinus floor and for implant placement, followed the same procedures used by our group in a number of similar studies (Galindo‐Moreno et al., <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>). In brief, a bone scraper (Safescraper®, Meta, Reggio Emilia, Italy) was used to collect the bone covering the sinus in its lateral aspect. The autologous cortical bone (ACB) was set aside to be mixed with the graft to be placed in the sinus cavity. Once the Schneiderian membrane was exposed, it was carefully elevated with the appropriate curettes. One of the sinuses was grafted with the ACB previously collected and mixed in an approximately 20:80 volume ratio with the anorganic bovine bone (ABB) xenograft (Bio‐Oss® Spongiosa, 250 to 1000 µm particle size, Geistlich Pharma AG, Wolhusen, Switzerland) (ACB+ABB group). The contralateral side was grafted with a mix composed of ACB and porcine bovine mineral xenograft (Symbios® Xenograft granules 0.25–1.0 mm, Dentsply Sirona Implants, Mölndal, Sweden), also in an approximately 20:80 volume ratio (ACB+PBM group). The ratio in both mixes was based on previous studies (Galindo‐Moreno et al., <xref rid="clr13912-bib-0011" ref-type="bibr">2011</xref>; Hallman et al., <xref rid="clr13912-bib-0015" ref-type="bibr">2001</xref>, <xref rid="clr13912-bib-0016" ref-type="bibr">2002</xref>, <xref rid="clr13912-bib-0017" ref-type="bibr">2005</xref>). In each patient, similar volumes of graft were used in both sinuses. Immediately after placing the graft, a resorbable membrane (Symbios® Collagen Membrane SR, Dentsply Sirona Implants) was used to cover the sinus window. Finally, the area was sutured with 3/0 surgical silk (Laboratorio Aragó, Barcelona, Spain). Post‐operative care for each patient included antibiotics (amoxicillin 1 g every 8 h during 7 days) and pain killers (ibuprofen 600 mg every 8 h during 4 days and metamizole 575 mg every 8 h on demand). Sutures were removed after 7 days.</p>
+                <p>Six months later, dental implants were placed. To drill the implant bed, before using the implant system drills (AstraTech Implant System EV, Dentsply Sirona Implants), 3.5 × 22 mm trephines (Salvin Dental Specialties, Inc., Charlotte, NC, USA) were used to collect bone biopsies. The biopsies, one for each technique, were immediately immersed in either a 10% formalin solution for histologic, histomorphometric, and immunohistochemical evaluations or Trizol™ for messenger RNA (mRNA) analyses. When possible, a third biopsy was obtained and preserved in 2.5% glutaraldehyde solution for transmission electron microscopy (TEM).</p>
+                <p>All maxillary sinus floor augmentation surgeries and implant placements were conducted by the same surgeon (P.G.‐M.).</p>
+              </sec>
+              <sec id="clr13912-sec-0011">
+                <label>2.5</label>
+                <title>Outcomes measures</title>
+                <p>The primary outcome measure of the current study was radiographic bone height gained 6 months after the maxillary sinus floor augmentation procedure. To achieve this, CBCTs from the area before the maxillary sinus floor augmentation procedure, immediately after and 6 months later were obtained. Although the protocol originally registered at clinicaltrials.gov intended to remeasure the CBCTs at 12 and 18 months after the grafting procedures, the COVID‐19 pandemic interrupted most of those follow‐ups. Thus, they were not registered for the purpose of the study.</p>
+                <sec id="clr13912-sec-0012">
+                  <label>2.5.1</label>
+                  <title>Clinical data</title>
+                  <p>The following clinical data were recorded: age, gender, systemic diseases, medications, tobacco, and alcohol consumption, history of periodontal disease, type of edentulism (total or partial), three measures of the height of each surgical window along with the anteroposterior width, and the volume of the grafted material.</p>
+                </sec>
+                <sec id="clr13912-sec-0013">
+                  <label>2.5.2</label>
+                  <title>Radiographic analysis</title>
+                  <p>In order to evaluate the primary outcome measure of the study, the height of the residual alveolar crest (RAC), and the final height 6 months after grafting (FH) were analyzed with the DICOM files handling software package (Romexis, Planmeca, v.5.2.1. Hoffman Estates, IL, USA). The height gain (HG) was calculated by subtracting RAC from FH. In addition, the initial height of the graft (IHG) was measured immediately after grafting. Finally, by subtracting HG from IHG, the vertical resorption of the graft was also calculated. All these measurements were taken in 3 positions along the mesio‐distal extension of the grafted area using anatomic landmarks as references. For the volumetric bone assessment, first, the greyscale value and the region of interest in 2D sagittal sections were standardized between both datasets. Then, manual segmentation was used to define the volume of interest (VOI) (grafted area) using reproducible landmarks (Saito et al., <xref rid="clr13912-bib-0029" ref-type="bibr">2021</xref>) (Figure <xref rid="clr13912-sup-0001" ref-type="supplementary-material">S1</xref>).</p>
+                  <p>Additionally, the buccolingual width of the sinus at 5, 10, and 15 mm from the sinus floor was also evaluated in the center of the grafted area.</p>
+                  <p>These measurements were taken by an experienced surgeon (M.P.‐M.) assisted by a collaborator.</p>
+                </sec>
+                <sec id="clr13912-sec-0014">
+                  <label>2.5.3</label>
+                  <title>Histopathological analysis</title>
+                  <p>Conventional morphology was evaluated following methods similar to others previously published by our group (Galindo‐Moreno et al., <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>). To summarize, the biopsies were transferred to 70% ethanol 48 h after collection from the 10% formalin buffered solution where they were fixed. When all the samples were collected, they were simultaneously processed. They were decalcified (24 h at 37°C in Decalcifier I® [Surgipath Europe Ltd., Peterborough, United Kingdom]), dehydrated in ethanol, embedded in paraffin, sectioned, and collected in glass slides. Immediately before each staining, the sections were deparaffinized in xylol and re‐hydrated. Hematoxylin‐eosin and Masson's trichrome stains were performed.</p>
+                  <p>In order to study the sections, they were viewed under a BX42 light microscope (Olympus Optical Company, Ltd., Tokyo, Japan) with 40× objective. The number of relevant cells per mm<sup>2</sup> were quantified. The quantity of mineralized and non‐mineralized tissue, remnant particles of biomaterial, and inflammatory infiltrate were first assessed on a semiquantitative scale (0–3). In addition, images were captured of the stained sections following Masson's trichrome method using a CD70 camera (Olympus Optical Company, Ltd.). The areas and percentages of mineralized and non‐mineralized tissue, as well as the remaining particles of the graft, were semi‐automatically quantified on 10× images using the ImageJ software from the National Institutes of Health (<ext-link xlink:href="http://imagej.nih.gov/ij/" ext-link-type="uri">http://imagej.nih.gov/ij/</ext-link>). The areas of interest were established through the polyline function of the program. The results were expressed as percentages of mineralized bone, non‐mineralized tissue, and remaining biomaterial in pristine bone and graft areas normalized according to the total area of the biopsy. An experienced researcher conducted these evaluations (N.M.‐M.).</p>
+                </sec>
+                <sec id="clr13912-sec-0015">
+                  <label>2.5.4</label>
+                  <title>Immunohistochemical analysis</title>
+                  <p>A group of sections was stained using immunohistochemical techniques in order to visualize the expression, location, and number of positive cells per mm<sup>2</sup> for CD44 (osteocytes), CD56 (osteoblasts), TRAP (osteoclasts), Musashi‐1 (mesenchymal stromal cells), CD45 (all leukocytes), CD68 (monocytes/macrophages) and CD34 (endothelial cells around vessels). Additionally, osteopontin was detected as a marker of osteoconduction. Briefly, after deparaffinizing and rehydrating the slides, they were treated in a pre‐treatment thermal PT module (Thermo Fisher Scientific Inc., Waltham, MA, USA) with a 1mM EDTA buffer (pH 8) for 20 min at 95°C. Then, primary antibodies were applied at a pre‐determined concentration for 1 h at room temperature. The staining was then visualized in an automatic immunostainer (Autostainer480S, Thermo Fisher Scientific Inc.) using a peroxidase‐conjugated micropolymer and diaminobenzidine. All antibodies were purchased from Vitro‐Master Diagnóstica (Granada, Spain) and used following the manufacturer instructions.</p>
+                </sec>
+                <sec id="clr13912-sec-0016">
+                  <label>2.5.5</label>
+                  <title>Transmission electron microscopy analysis (TEM)</title>
+                  <p>For TEM evaluation, the graft biopsies were fixed in 2.5% glutaraldehyde solution followed by a decalcification process as described above and later post‐fixed in 1% OsO4 at 4°C for 2 h before washing and dehydrating in acetone. Then, the biopsies were embedded in EPON and semithin sections were obtained. These sections were stained with a toluidine blue solution before ultrathin sections were obtained (~70 nm‐thick) from a Reichert Jung Ultracut ultramicrotome (Leica, Wetzlar, Germany). The ultrathin sections were then stained again with lead citrate and uranyl acetate and analyzed in a Zeiss Libra 120 TEM (Carl Zeiss AG, Oberkochen, Germany).</p>
+                </sec>
+                <sec id="clr13912-sec-0017">
+                  <label>2.5.6</label>
+                  <title>mRNA analysis</title>
+                  <p>The mRNA of the biopsies kept in Trizol™ reagent at −80°C. In order to process the samples, they were first homogenized in a tissue blender. Then, total RNA was extracted following the conventional protocol provided by the manufacturer (Trizol™ Plus RNA Purification kit, Invitrogen, Grand Island, NY) and quantified in a Nanodrop instrument. Thirty µl of cDNA with 1 µg of RNA were generated with the PrimeScript RT Master Mix (Takara Bio Europe, Saint‐Germain‐en‐Laye, France) and a conventional cycle. A quantitative real‐time PCR was done with the SYBR Premix Ex Taq II (Takara Bio Inc.) and 2 µl of each sample per replicate (total of 2 replicates per sample). The primers for RT‐PCR of each gene have been published previously (Galindo‐Moreno et al., <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>). Finally, the 2<sup>−ddCt</sup> method was used to calculate the gene expression levels relative to glyceraldehyde‐3‐phosphate dehydrogenase (GAPDH). As a control, data were normalized to the expression of each gene in the ACB+ABB side within each patient. A co‐author with extensive experience in the field evaluated these data (F.Z.).</p>
+                </sec>
+              </sec>
+              <sec id="clr13912-sec-0018">
+                <label>2.6</label>
+                <title>Sample size</title>
+                <p>A power calculation based on the primary outcome (difference in final bone height 6 months after using either bovine or porcine‐derived bone graft) was conducted using data from a similar study by Lee, Shin, et al. (<xref rid="clr13912-bib-0019" ref-type="bibr">2017</xref>) and the G*Power 3.1.9 software for MacOS. They found a final bone height of 15.02 (2.17) and 13.26 (1.89) for bovine and porcine grafts, respectively. Thus, an effect size of 0.637 was calculated. Then, setting the <italic toggle="yes">α</italic> error probability at .05, and power (1−<italic toggle="yes">β</italic> error probability) at 0.80, indicated that a sample size of 18 was needed. Accordingly, a sample of 10 patients for a total of 20 grafted sinuses (10 with each biomaterial) was used in the current study. Furthermore, this sample size is common in split‐mouth designs of maxillary sinus floor augmentation.</p>
+              </sec>
+              <sec id="clr13912-sec-0019">
+                <label>2.7</label>
+                <title>Randomization</title>
+                <p>For each patient, the first sinus to be treated and the material to be used were randomized using a randomization website (<ext-link xlink:href="http://www.randomization.com" ext-link-type="uri">http://www.randomization.com</ext-link>). The treatment sequence was generated and kept concealed by a clinic assistant not participating in the study.</p>
+              </sec>
+              <sec id="clr13912-sec-0020">
+                <label>2.8</label>
+                <title>Blinding</title>
+                <p>The surgeon had no knowledge of the graft sequence until applying the biomaterial. The other researchers involved in evaluating the samples and radiographs and the patients were blind to the graft assignment.</p>
+              </sec>
+              <sec id="clr13912-sec-0021">
+                <label>2.9</label>
+                <title>Statistical analysis</title>
+                <p>GraphPad Prism 7.0a and Microsoft Excel 16.16.27 for Mac OS X were used for the analyses and graphical representation. Categorical data are presented as percentages (frequency). Continuous variables are presented as mean (standard deviation). A non‐parametric Wilcoxon matched‐pairs signed‐rank test was used to evaluate differences between groups. Values of p below 0.05 were considered statistically significant.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="clr13912-sec-0022">
+              <label>3</label>
+              <title>RESULTS</title>
+              <sec id="clr13912-sec-0023">
+                <label>3.1</label>
+                <title>Clinical variables</title>
+                <p>The current study, conducted between January 2019 and March 2021, included a total of 10 patients, five men and five women. The average age of the patients was 56 years, the youngest and oldest being 36 and 73, respectively. Seven patients had partial edentulism as their natural anterior teeth were present. Most of them had suffered from severe (6) or moderate (3) periodontitis. No major systemic diseases were present in any of the patients. Regarding alcohol and tobacco consumption, six patients did not consume alcohol or tobacco. In terms of distribution of graft type, ACB+PBM was used in six right sinuses. The sizes of the windows to access the sinus cavity were not different between groups either, neither in height nor width, as shown in Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S1</xref>.</p>
+                <p>Healing was uneventful in all cases with no adverse events.</p>
+              </sec>
+              <sec id="clr13912-sec-0024">
+                <label>3.2</label>
+                <title>Radiologic results</title>
+                <p>All radiographic measurements are summarized in Figure <xref rid="clr13912-fig-0001" ref-type="fig">1</xref> and Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S1</xref>.</p>
+                <fig position="float" fig-type="FIGURE" id="clr13912-fig-0001">
+                  <label>FIGURE 1</label>
+                  <caption>
+                    <p>(a) Initial (semi‐transparent lines), post‐operative (dotted lines), and final (hard lines) heights of the crestal bone at the mesial, central, and distal sites of the graft. (b) Vertical graft resorption of the graft for either group. Note that this measure was calculated by subtracting the height at the 6 months follow‐up to the post‐operative height. (c) Crestal bone height gain, calculated by subtracting the height of the initial residual alveolar crest to the final height. (d) Bucco‐lingual sinus width at 5, 10, and 15 mm from the sinus floor. (e) Post‐operative (semi‐transparent colors), and final (solid colors) volumes of the areas grafted with ACB+ABB (orange) and ACB+PBM (green). (f) Volume of graft resorption after 6 months of healing. In all cases, orange is used for ACB+ABB, and green is used for ACB+PBM</p>
+                  </caption>
+                  <graphic xlink:href="CLR-33-524-g001" position="anchor" id="jats-graphic-1"/>
+                </fig>
+                <p>No differences in terms of radiographic outcomes were detected when comparing both graft types, neither for the main outcome measure nor any other (Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S1</xref>). The average residual alveolar crest was below 5 mm on average in all measure locations, particularly lower in the center, as expected. Also as expected, the graft was higher in the center, reaching measures of around 15 mm immediately after the grafting procedure. Because of this, the final height and height gain were also higher in the center although the maximum resorption of the graft also occurred in this position. No differences were detected between biomaterials, neither in terms of initial or final graft volume measurements nor in terms of level of resorption.</p>
+                <p>The size of the sinus cavity in terms of bucco‐lingual distance was not different between groups at any of the 3 different heights measured.</p>
+              </sec>
+              <sec id="clr13912-sec-0025">
+                <label>3.3</label>
+                <title>mRNA results</title>
+                <p>The expression of the different genes studied at the mRNA level was, overall, higher in the ACB+PBM group. However, the statistical comparison did not show any significant differences between groups for any of the genes except for ALP (1.00 (0.19) vs. 2.13 (1.60), ACB+ABB vs. ACB+PBM, respectively; <italic toggle="yes">p</italic> = .011, Wilcoxon matched‐pairs signed‐rank test) (Figure <xref rid="clr13912-sup-0002" ref-type="supplementary-material">S2</xref> and Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S2</xref>).</p>
+              </sec>
+              <sec id="clr13912-sec-0026">
+                <label>3.4</label>
+                <title>Histopathological results</title>
+                <p>The percentages of trabecular mineralized and non‐mineralized tissue as well as the remnant biomaterial detected on the biopsies from each group are presented in Table <xref rid="clr13912-tbl-0001" ref-type="table">1</xref>. Both pristine and grafted areas show similar characteristics in the two groups with no statistically significant differences for any of the tissue compartments (Figure <xref rid="clr13912-fig-0002" ref-type="fig">2</xref>). New trabecular bone formation in apposition to the particles of both biomaterials was observed in the grafted areas of the biopsies (Figures <xref rid="clr13912-fig-0003" ref-type="fig">3</xref> and <xref rid="clr13912-fig-0004" ref-type="fig">4</xref>). The non‐mineralized tissue presented a similar proportion of mesenchymal stromal cells and inflammatory infiltrate in biopsies from both biomaterials (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>). The number of osteoid lines were statistically higher in areas grafted with ACB+ABB compared to the pristine bone of those biopsies (1.56 (2.01) in pristine bone vs. 5.89 (4.54) in the ACB+ABB grafted area; <italic toggle="yes">p</italic> = .031, Wilcoxon matched‐pairs signed‐rank test) (Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S3</xref>). In addition, the areas grafted with ACB+ABB showed more osteoid lines than those grafted with ACB+PBM (5.89 (4.54) vs. 2.50 (2.62), respectively; <italic toggle="yes">p</italic>=0.031, Wilcoxon matched‐pairs signed‐rank test) (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>). If the total bone core is considered, no differences between ACB+ABB and ACB+PBM were found for any of the variables, except for the osteoid lines, that were higher in the ACB+ABB group.</p>
+                <table-wrap position="float" id="clr13912-tbl-0001" content-type="TABLE">
+                  <label>TABLE 1</label>
+                  <caption>
+                    <p>Percentual area of the different tissue compartments</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <thead valign="bottom">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" rowspan="2" valign="bottom" colspan="1">Tissue compartment</th>
+                        <th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Group</th>
+                        <th align="left" rowspan="2" valign="bottom" colspan="1"><italic toggle="yes">p</italic>‐value<xref rid="clr13912-note-0004" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                      </tr>
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">ACB+ABB</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">ACB+PBM</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" colspan="4" rowspan="1">Pristine bone</td>
+                      </tr>
+                      <tr>
+                        <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mineralized tissue (%)</td>
+                        <td align="left" rowspan="1" colspan="1">47.85 (18.41)</td>
+                        <td align="left" rowspan="1" colspan="1">48.56 (16.72)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.945</td>
+                      </tr>
+                      <tr>
+                        <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non‐mineralized tissue (%)</td>
+                        <td align="left" rowspan="1" colspan="1">52.15 (18.40)</td>
+                        <td align="left" rowspan="1" colspan="1">51.44 (16.72)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.945</td>
+                      </tr>
+                      <tr>
+                        <td align="left" colspan="4" rowspan="1">Grafted area</td>
+                      </tr>
+                      <tr>
+                        <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mineralized tissue (%)</td>
+                        <td align="left" rowspan="1" colspan="1">29.24 (10.82)</td>
+                        <td align="left" rowspan="1" colspan="1">32.51 (14.76)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.570</td>
+                      </tr>
+                      <tr>
+                        <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Non‐mineralized tissue (%)</td>
+                        <td align="left" rowspan="1" colspan="1">39.76 (16.10)</td>
+                        <td align="left" rowspan="1" colspan="1">36.28 (13.43)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.652</td>
+                      </tr>
+                      <tr>
+                        <td align="left" style="padding-left:10%" rowspan="1" colspan="1">Remnant biomaterial (%)</td>
+                        <td align="left" rowspan="1" colspan="1">31.00 (17.29)</td>
+                        <td align="left" rowspan="1" colspan="1">31.21 (19.61)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">&gt;.999</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="clr13912-ntgp-0002">
+                    <title>Note</title>
+                    <fn id="clr13912-note-0002">
+                      <p>Data expressed as mean (SD).</p>
+                    </fn>
+                    <fn id="clr13912-note-0003">
+                      <p>Abbreviations: ABB, anorganic bovine bone; ACB, autogenous cortical bone; PBM, porcine bone mineral.</p>
+                    </fn>
+                    <fn id="clr13912-note-0004">
+                      <label>
+                        <sup>a</sup>
+                      </label>
+                      <p>Wilcoxon matched‐pairs signed‐rank test.</p>
+                    </fn>
+                  </table-wrap-foot>
+                  <permissions>
+                    <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                  </permissions>
+                </table-wrap>
+                <fig position="float" fig-type="FIGURE" id="clr13912-fig-0002">
+                  <label>FIGURE 2</label>
+                  <caption>
+                    <p>Representative panoramic microphotograph of biopsies from the (a) ACB+PBM and the (b) ACB+ABB groups including pristine bone and grafted areas. Masson trichrome staining. Bar scale: 100 μm</p>
+                  </caption>
+                  <graphic xlink:href="CLR-33-524-g003" position="anchor" id="jats-graphic-3"/>
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="clr13912-fig-0003">
+                  <label>FIGURE 3</label>
+                  <caption>
+                    <p>Grafted area with active osteogenesis as determined by the presence of osteoblastic (*) and osteoid lines (**) in (a) ACB+ABB and (b) ACB+PBM groups. Masson trichrome staining. Original magnification 20×; bar scale: 100 μm. ABB, anorganic bovine bone; MT, mineralized tissue; nMT, non‐mineralized tissue; PBM, porcine bone mineral</p>
+                  </caption>
+                  <graphic xlink:href="CLR-33-524-g002" position="anchor" id="jats-graphic-5"/>
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="clr13912-fig-0004">
+                  <label>FIGURE 4</label>
+                  <caption>
+                    <p>Transmission electron microscopy images showing close connection between porcine bone mineral (PBM) (a) and anorganic bovine bone (ABB) (b) particles and newly mineralized tissue (MT). Colonization by cells in PBM (c) and ABB (d) particles can also be observed (white arrows). Bar scale: 1 and 5 μm</p>
+                  </caption>
+                  <graphic xlink:href="CLR-33-524-g005" position="anchor" id="jats-graphic-7"/>
+                </fig>
+                <table-wrap position="float" id="clr13912-tbl-0002" content-type="TABLE">
+                  <label>TABLE 2</label>
+                  <caption>
+                    <p>Between group comparison of number of positively stain cells, vessels, and osteoid lines per mm<sup>2</sup>
+</p>
+                  </caption>
+                  <table frame="hsides" rules="groups">
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <col style="border-right:solid 1px #000000" span="1"/>
+                    <thead valign="top">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" rowspan="2" valign="top" colspan="1"/>
+                        <th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Pristine bone</th>
+                        <th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Grafted area</th>
+                        <th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Total bone core</th>
+                      </tr>
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+ABB</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+PBM</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐value<xref rid="clr13912-note-0007" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+ABB</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+PBM</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐value<xref rid="clr13912-note-0007" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+ABB</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1">ACB+PBM</th>
+                        <th align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic>‐value<xref rid="clr13912-note-0007" ref-type="table-fn"><sup>a</sup></xref>
+</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">CD44 (osteocytes)</td>
+                        <td align="left" rowspan="1" colspan="1">154.43 (73.08)</td>
+                        <td align="left" rowspan="1" colspan="1">125.16 (34.33)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.712</td>
+                        <td align="left" rowspan="1" colspan="1">151.27 (47.20)</td>
+                        <td align="left" rowspan="1" colspan="1">113.87 (41.70)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.<italic toggle="yes">031</italic>
+</td>
+                        <td align="left" rowspan="1" colspan="1">149.36 (53.66)</td>
+                        <td align="left" rowspan="1" colspan="1">119.52 (19.23)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.106</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">CD56 (osteoblasts)</td>
+                        <td align="left" rowspan="1" colspan="1">37.63 (35.29)</td>
+                        <td align="left" rowspan="1" colspan="1">39.35 (38.88)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.676</td>
+                        <td align="left" rowspan="1" colspan="1">64.51 (47.98)</td>
+                        <td align="left" rowspan="1" colspan="1">51.93 (48.26)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.797</td>
+                        <td align="left" rowspan="1" colspan="1">48.38 (34.24)</td>
+                        <td align="left" rowspan="1" colspan="1">45.64 (30.60)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.734</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">TRAP (osteoclasts)</td>
+                        <td align="left" rowspan="1" colspan="1">0.00 (0.00)</td>
+                        <td align="left" rowspan="1" colspan="1">4.61 (12.19)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">&gt;.999</td>
+                        <td align="left" rowspan="1" colspan="1">101.93 (108.07)</td>
+                        <td align="left" rowspan="1" colspan="1">55.55 (43.60)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.813</td>
+                        <td align="left" rowspan="1" colspan="1">36.41 (50.64)</td>
+                        <td align="left" rowspan="1" colspan="1">30.97 (26.64)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.938</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">MSI1 (mesenchymal stromal cells)</td>
+                        <td align="left" rowspan="1" colspan="1">35.49 (60.39)</td>
+                        <td align="left" rowspan="1" colspan="1">56.82 (84.08)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.844</td>
+                        <td align="left" rowspan="1" colspan="1">127.01 (137.67)</td>
+                        <td align="left" rowspan="1" colspan="1">163.86 (140.32)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.813</td>
+                        <td align="left" rowspan="1" colspan="1">78.39 (104.68)</td>
+                        <td align="left" rowspan="1" colspan="1">107.49 (100.91)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.570</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">CD45 (all leukocytes)</td>
+                        <td align="left" rowspan="1" colspan="1">62.01 (57.72)</td>
+                        <td align="left" rowspan="1" colspan="1">53.22 (74.78)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.563</td>
+                        <td align="left" rowspan="1" colspan="1">96.77 (103.44)</td>
+                        <td align="left" rowspan="1" colspan="1">27.02 (44.46)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.<italic toggle="yes">047</italic>
+</td>
+                        <td align="left" rowspan="1" colspan="1">71.45 (68.12)</td>
+                        <td align="left" rowspan="1" colspan="1">33.22 (35.68)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.109</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">CD68 (monocytes)</td>
+                        <td align="left" rowspan="1" colspan="1">61.32 (88.08)</td>
+                        <td align="left" rowspan="1" colspan="1">40.32 (44.23)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.688</td>
+                        <td align="left" rowspan="1" colspan="1">143.80 (120.96)</td>
+                        <td align="left" rowspan="1" colspan="1">179.93 (99.67)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.734</td>
+                        <td align="left" rowspan="1" colspan="1">101.59 (67.14)</td>
+                        <td align="left" rowspan="1" colspan="1">123.55 (93.64)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.770</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">CD34 (endothelial cells, vessels)</td>
+                        <td align="left" rowspan="1" colspan="1">52.14 (38.23)</td>
+                        <td align="left" rowspan="1" colspan="1">34.68 (22.20)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.813</td>
+                        <td align="left" rowspan="1" colspan="1">44.24 (24.54)</td>
+                        <td align="left" rowspan="1" colspan="1">23.30 (20.19)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.<italic toggle="yes">031</italic>
+</td>
+                        <td align="left" rowspan="1" colspan="1">52.24 (38.98)</td>
+                        <td align="left" rowspan="1" colspan="1">25.48 (20.26)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.098</td>
+                      </tr>
+                      <tr>
+                        <td align="left" rowspan="1" colspan="1">Osteoid lines</td>
+                        <td align="left" rowspan="1" colspan="1">1.56 (2.01)</td>
+                        <td align="left" rowspan="1" colspan="1">1.11 (1.36)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">&gt;.999</td>
+                        <td align="left" rowspan="1" colspan="1">5.89 (4.54)</td>
+                        <td align="left" rowspan="1" colspan="1">2.50 (2.62)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.<italic toggle="yes">031</italic>
+</td>
+                        <td align="left" rowspan="1" colspan="1">3.90 (2.89)</td>
+                        <td align="left" rowspan="1" colspan="1">1.75 (1.75)</td>
+                        <td align="char" char="." rowspan="1" colspan="1">.<italic toggle="yes">043</italic>
+</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="clr13912-ntgp-0003">
+                    <title>Note</title>
+                    <fn id="clr13912-note-0005">
+                      <p>Data expressed as mean (SD).</p>
+                    </fn>
+                    <fn id="clr13912-note-0006">
+                      <p>Abbreviations: ABB, anorganic bovine bone; ACB, autogenous cortical bone; PBM, porcine bone mineral.</p>
+                    </fn>
+                    <fn id="clr13912-note-0007">
+                      <label>
+                        <sup>a</sup>
+                      </label>
+                      <p>Wilcoxon matched‐pairs signed‐rank test (italics indicate statistically significant differences).</p>
+                    </fn>
+                  </table-wrap-foot>
+                  <permissions>
+                    <copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder>
+                  </permissions>
+                </table-wrap>
+              </sec>
+              <sec id="clr13912-sec-0027">
+                <label>3.5</label>
+                <title>Immunohistochemical results</title>
+                <p>The comparisons and number of cells per square millimeter and the different leukocyte subsets detected by immunohistochemistry are shown in Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>, Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S3</xref> and Figure <xref rid="clr13912-fig-0005" ref-type="fig">5</xref>. Comparing the pristine bone to the grafted areas (Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S3</xref>), a higher number of mesenchymal stromal cells (MSI1 positive) were observed in the areas grafted with ACB+PBM: 56.92 (84.08) vs. 163.86 (140.32); pristine vs. grafted areas; <italic toggle="yes">p</italic> = .008, Wilcoxon matched‐pairs signed‐rank test. More monocytes/macrophages (CD68 positive) were also detected in grafted areas of the same group (ACB+PBM): 40.32 (44.23) vs. 179.93 (99.67); pristine vs. grafted areas; <italic toggle="yes">p</italic> = .031, Wilcoxon matched‐pairs signed‐rank test.</p>
+                <fig position="float" fig-type="FIGURE" id="clr13912-fig-0005">
+                  <label>FIGURE 5</label>
+                  <caption>
+                    <p>Similar immunohistochemical expression (in brown) of different markers in the grafted areas of a, c, e, g, and i) ACB+ABB and b, d, f, h, and j) ACB+PBM groups. (a,b) Osteopontin; (c,d) Musashi‐1; (e,f) CD68 (monocytes/macrophages/osteoclasts‐like cells); (g,h) TRAP (osteoclasts‐like cells); (i,j) CD34 (endothelial cells). Micropolymer conjugated with peroxidase staining method. Original magnification 20×; bar scale: 100 μm. ABB, anorganic bovine bone; MT, mineralized tissue; nMT, non‐mineralized tissue; PBM, porcine bone mineral</p>
+                  </caption>
+                  <graphic xlink:href="CLR-33-524-g004" position="anchor" id="jats-graphic-9"/>
+                </fig>
+                <p>The number of osteocytes (CD44 positive), leukocytes (CD45 positive) and vessels (endothelial cells, CD34 positive) were statistically significant more abundant in areas grafted with ACB+ABB compared to those grafted with ACB+PBM (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>): CD44: 151.27 (47.20) vs. 113.87 (41.70), ACB+ABB vs. ACB+PBM, <italic toggle="yes">p</italic> = .031, Wilcoxon matched‐pairs signed‐rank test; CD45: 96.77 (103.44) vs. 27.02 (44.46), ACB+ABB vs. ACB+PBM, <italic toggle="yes">p</italic> = .047, Wilcoxon matched‐pairs signed‐rank test; CD34: 44.24 (24.54) vs. 23.30 (20.19), ACB+ABB vs. ACB+PBM, <italic toggle="yes">p</italic> = 0.031, Wilcoxon matched‐pairs signed‐rank test.</p>
+                <p>No statistically significant differences were observed in the number of any other cell type nor location.</p>
+              </sec>
+              <sec id="clr13912-sec-0028">
+                <label>3.6</label>
+                <title>TEM results</title>
+                <p>A firm union between newly formed trabeculae and biomaterial particles could be observed around both ABB and PBM biomaterials. The presence of cell colonization in the pores of the biomaterial and neo‐colonization of old osteons was also detected (Figure <xref rid="clr13912-fig-0004" ref-type="fig">4</xref>).</p>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="clr13912-sec-0029">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>The aim of the present study was to validate the clinical, radiologic, histomorphometric, immunohistochemical, and molecular behavior of a porcine‐derived bone biomaterial in comparison with anorganic bovine bone used as bone graft biomaterial in humans. To our knowledge, this is the first clinical study offering the complete dataset on Symbios® Xenograft granules. The main finding of this study is that there are no major differences between the two biomaterials under study for any of the variables evaluated. From a clinical viewpoint, radiographic outcomes are likely the most important for implant placement after the augmentation of the maxillary sinus floor. That is the reason they were used as primary outcomes in the current study. However, the evaluation of the biologic basis for those results is necessary to understand the precise biologic events induced by biomaterials.</p>
+              <p>It is important to note that both anatomic variables of the maxillary sinuses (Avila et al., <xref rid="clr13912-bib-0001" ref-type="bibr">2010</xref>) as well as the size of the lateral access window play an important role in the histologic maturation of the grafted area (Avila‐Ortiz, Wang, et al., <xref rid="clr13912-bib-0003" ref-type="bibr">2012</xref>). Because of that, these anatomic and surgical parameters have to be controlled in order to analyze their influence on the final results. If different amounts of materials are used because of the clinical needs, different results could be obtained. However, because this would be determined only by the clinical needs, the amount of material and sinus dimensions have to be evaluated for research purposes. In the current investigation, the bucco‐lingual dimensions of the maxillary sinus at three different heights from the sinus floor (5, 10 and 15 mm) and the size of the surgical window were not statistically different between groups (Figure <xref rid="clr13912-fig-0001" ref-type="fig">1</xref> and Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S1</xref>). Moreover, the histomorphometric analysis of the remnant alveolar crestal bone also showed the similarity of both groups (Table <xref rid="clr13912-tbl-0001" ref-type="table">1</xref>). In any case, the remnant alveolar crestal bone has been shown to have limited influence on the final maturation of graft (Avila‐Ortiz, Neiva, et al., <xref rid="clr13912-bib-0002" ref-type="bibr">2012</xref>). These results are, overall, similar to those presented in the literature using the same types of biomaterials (Lee, Shin, et al., <xref rid="clr13912-bib-0019" ref-type="bibr">2017</xref>).</p>
+              <p>The histomorphometrical analysis of the ACB+PBM group showed a mean area of new mineralized tissue of 32.51 (14.76) %, non‐mineralized tissue of 36.28 (13.43) % and remnant biomaterial of 31.21 (19.61) %. Overall, these results are similar to those previously reported with other porcine‐derived biomaterials. In this sense, a similar comparative study with a sample size of eight using The Graft™ (Purgo Biologics, Seoul, Korea) reported 29.77 ± 9.38% of new mineralized tissue, 54.99 ± 12.00% of non‐mineralized tissue and 15.24 ± 9.11% of remnant biomaterial particles after six months of healing (Lee, Shin, et al., <xref rid="clr13912-bib-0019" ref-type="bibr">2017</xref>). Also, Cassetta and coworkers, using a de‐antigenated collagenated porcine substitute (OsteoBiol, Gen‐Os, Tecnoss, Giaveno, Italy), reported 21.6 ± 3.4% of newly mineralized tissue, 56.1 ± 3.2% of marrow spaces and 22.3 ± 3.5% of remnant biomaterial. Their study included only two patients that were evaluated after two months of graft maturation (Cassetta et al., <xref rid="clr13912-bib-0005" ref-type="bibr">2015</xref>). In a previous manuscript, Scarano and coworkers, using a cortical porcine bone, Apatos® (Tecnoss, Turin, Italy), reported newly formed bone area of 28.2 ± 2.1%, 36.8 ± 1.9% of non‐mineralized tissue and 37.3 ± 3.1%. of residual graft material after only 4 months of healing; these proportions changed to 31.4 ± 2.6% of newly formed bone, 34.3 ± 3.1% of connective tissue and 37.6 ± 2.2% of remnant biomaterial after 6 months of healing (Scarano et al., <xref rid="clr13912-bib-0031" ref-type="bibr">2011</xref>). Finally, Orsini and coworkers, also using the same graft as Scarano and coworkers, Apatos®, in 10 patients, found 36 ± 2.8% of new mineralized tissue, 38 ± 1.6% of non‐mineralized tissue and 31 ± 1.6% of residual porcine biomaterial after five months of healing (Orsini et al., <xref rid="clr13912-bib-0026" ref-type="bibr">2006</xref>). In light of the results, Symbios® Xenograft granules not only show similar histomorphometric data in terms of new mineralized tissue compared to the standard comparator (anorganic bovine bone), but also when compared to other porcine‐derived bone biomaterials available on the market. There are other previously published manuscripts that also report on porcine‐derived bone grafts in maxillary sinus. However, they have been retracted; thus, for obvious reasons, they must not be mentioned. There are also other studies with porcine‐derived bone used for alveolar regeneration that are not used as references here either. The reason is that it is well‐known that the histomorphometric results of a grafted area are highly dependent on anatomic location, for functional and genetic reasons.</p>
+              <p>The amount and density of mineralized tissue obtained after placing a bone graft has classically been the primary endpoint when evaluating the outcomes of a bone biomaterial. This evaluation has been done either radiographically, clinically or histomorphometrically. Having said that, the analysis of the non‐mineralized compartment present in the bone tissue is of vital importance to determine key biologic aspects such as the presence of undifferentiated cells, mechanisms of response to the biomaterial and, ultimately, repair and integration. Few manuscripts in the literature have been focused on cellularity, microvascular density or protein expression. In the current study, the various immunohistochemical analyses did not find major statistical differences in areas grafted with ACB+ABB compared to those grafted with ACB+PBM (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>), except for the number of leukocytes, osteocytes and vessels: they were higher in the ACB+ABB group. These results are similar to those reported by our group in previous manuscripts using anorganic bovine bone or other biomaterials as part of the graft composite (Galindo‐Moreno et al., <xref rid="clr13912-bib-0007" ref-type="bibr">2018</xref>, <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>; O’Valle et al., <xref rid="clr13912-bib-0025" ref-type="bibr">2018</xref>).</p>
+              <p>Some differences could also be observed when the cellularity is compared between the grafted area and the native remnant bone (Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S3</xref>). Although, in general, the number of cells was always higher in the grafted portion of the biopsies, osteoclasts’ precursors, monocytes, and mesenchymal stromal cells showed statistical differences in these two regions in areas grafted with ACB+PBM. This is a quite expectable result because the pristine bone areas are not under active remodeling in contrast with the grafted areas during the time frame of the healing process under evaluation. However, when the cellularity of the native remnant bone areas is compared between groups (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>), no differences were observed, as could also be expected. Even more, if the total bone core is considered, no differences between ACB+ABB and ACB+PBM were found for any of the variables. This confirms that the bone supporting the future implant is overall similar regardless of the biomaterials under evaluation.</p>
+              <p>Mesenchymal stromal cells are crucial to understanding graft maturation. As previously defined by our team, Musashi‐1 is a marker to analyze bone healing and osteogenic differentiation both in vitro (Padial‐Molina et al., <xref rid="clr13912-bib-0028" ref-type="bibr">2019</xref>) and in vivo (Padial‐Molina et al., <xref rid="clr13912-bib-0027" ref-type="bibr">2021</xref>). In this study, grafted areas with any of the biomaterials showed three to four times more Musashi‐1 positive cells than pristine bone areas (Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S3</xref>), which in fact were significantly different in the ACB+PBM group. There was no difference in the number of Musashi‐1 positive cells when comparing between groups (Table <xref rid="clr13912-tbl-0002" ref-type="table">2</xref>). All of this confirms the importance of this marker in bone tissue repair and cell response to bone regeneration biomaterials.</p>
+              <p>The establishment of a microvascular network in the non‐mineralized tissue is an essential step in bone tissue repair (Khosravi et al., <xref rid="clr13912-bib-0018" ref-type="bibr">2018</xref>). These microvessels will condition the typology and characteristics of the newly formed bone (Stegen &amp; Carmeliet, <xref rid="clr13912-bib-0032" ref-type="bibr">2020</xref>). Boëck‐Neto and coworkers compared the microvascular density in the new formed bone in maxillary sinus augmentation after using different biomaterials through the detection of the vascular endothelial growth factor (VEGF) (Boeck‐Neto et al., <xref rid="clr13912-bib-0004" ref-type="bibr">2009</xref>). Tetè and coworkers, using VEGF immunohistochemical expression, reported a significantly lower expression of VEGF in samples obtained from sinuses grafted with porcine‐derived bone (Gen‐Os, Tecnoss, Turin, Italy) than those grafted with equine‐derived bone. Nonetheless, no numerical data is presented in their manuscript, so no comparison can be made (Tetè et al., <xref rid="clr13912-bib-0033" ref-type="bibr">2014</xref>). In contrast, our group has used the expression of CD34+ in many studies for the determination of microvascular density. Since our initial comparison of maxillary sinus floor augmentation with Bio‐Oss® with posterior pristine maxillary bone in 2011 (Galindo‐Moreno et al., <xref rid="clr13912-bib-0011" ref-type="bibr">2011</xref>), our group reports this histologic variable when using different biomaterials for grafting the sinus and with other surgical techniques. In the current manuscript, the microvascular density in the ACB+ABB group was lower than the reported data using this combination of biomaterials in previous studies (Galindo‐Moreno et al., <xref rid="clr13912-bib-0013" ref-type="bibr">2010</xref>, <xref rid="clr13912-bib-0012" ref-type="bibr">2012</xref>, <xref rid="clr13912-bib-0007" ref-type="bibr">2018</xref>, <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>). The number of vessels in the ACB+PBM grafted sinuses was even lower.</p>
+              <p>One of the aims of the present study was to analyze the expression of some genes involved in the bone formation and homeostasis; particularly those related to the pathway of osteo‐differentiation of mesenchymal stromal cells. Similar to previous studies (Caubet et al., <xref rid="clr13912-bib-0006" ref-type="bibr">2015</xref>; Galindo‐Moreno et al., <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>), almost no statistical differences were found between groups. In the present study, alkaline phosphatase (ALP) gene expression was the only significant difference, being higher in the ACB+PBM group than in the ACB+ABB group (<italic toggle="yes">p</italic> &lt; .011, Table <xref rid="clr13912-sup-0003" ref-type="supplementary-material">S2</xref>). Alkaline phosphatase expression is related to the new osteoid line mineralization (Vimalraj, <xref rid="clr13912-bib-0035" ref-type="bibr">2020</xref>). In the present study, as expected, grafted areas with either biomaterial showed higher numbers of osteoid lines compared to pristine bone. Nevertheless, after six months of healing, areas grafted with ACB+ABB showed significantly more osteoid lines than areas grafted with ACB+PBM (<italic toggle="yes">p</italic> &lt; .031). This difference could be related to the higher ALP gene expression in the ACB+PBM graft composite. ALP expression is regulated not only by the WNT signaling cascade, but also by the BMP/RUNX2/Osterix network (Salazar et al., <xref rid="clr13912-bib-0030" ref-type="bibr">2016</xref>). Although, in our study there were no statistical differences, RUNX2 and Osterix expression were increased in the ACB+PBM group. Nonetheless, these results must be interpreted with caution.</p>
+              <p>This study has some limitations. The clinical variables have to be controlled as much as possible because they can play a role in the graft maturation. In fact, no differences were found in any clinical, radiologic or histologic variable between both study groups. These similar results have various explanations, such as a small sample size, with 10 cases per group, or an excessive graft maturation time period (6 months). However, the sample size and the time of maturation are justified and common in the literature. In fact, both variables are enough to detect differences if they exist, as we have also demonstrated recently (Galindo‐Moreno et al., <xref rid="clr13912-bib-0014" ref-type="bibr">2020</xref>). That is the reason to conclude that the porcine‐derived bone biomaterial used in the current study (Symbios® Xenograft granules) shows similar features and induces similar responses compared to the most scientifically documented biomaterial used in humans for bone regeneration in the maxillofacial area (Bio‐Oss® Spongiosa).</p>
+            </sec>
+            <sec sec-type="conclusions" id="clr13912-sec-0030">
+              <label>5</label>
+              <title>CONCLUSIONS</title>
+              <p>Bovine bone or porcine bone mineral combined with maxillary autogenous cortical bone show similar biologic, clinical, and radiologic features in terms of biomaterial resorption, osteoconduction, and osteogenesis.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="clr13912-sec-0032">
+              <title>CONFLICT OF INTEREST</title>
+              <p>Pablo Galindo‐Moreno is a frequent speaker for Dentsply Sirona Implants at different events. Regardless, the authors declare no conflict of interest, either directly or indirectly, in any of the products listed in the manuscript.</p>
+            </sec>
+            <sec id="clr13912-sec-0033">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p><bold>Pablo Galindo‐Moreno:</bold> Conceptualization (equal); Funding acquisition (equal); Investigation (lead); Methodology (equal); Project administration (equal); Resources (lead); Supervision (equal); Writing – original draft (lead); Writing – review &amp; editing (equal). <bold>Dario Abril‐Garcia:</bold> Investigation (equal); Visualization (equal); Writing – review &amp; editing (equal). <bold>Ana Belen Carrillo‐Galvez:</bold> Investigation (equal); Visualization (equal); Writing – review &amp; editing (equal). <bold>Federico Zurita:</bold> Investigation (equal); Writing – review &amp; editing (equal). <bold>Natividad Martin‐Morales:</bold> Investigation (equal); Visualization (equal); Writing – review &amp; editing (equal). <bold>Francisco O´Valle:</bold> Data curation (equal); Formal analysis (equal); Methodology (equal); Resources (equal); Writing – review &amp; editing (equal). <bold>Miguel Padial‐Molina:</bold> Conceptualization (equal); Funding acquisition (equal); Investigation (supporting); Methodology (equal); Project administration (lead); Resources (equal); Validation (lead); Writing – original draft (equal); Writing – review &amp; editing (equal).</p>
+            </sec>
+            <sec id="clr13912-sec-0034">
+              <title>ETHICAL ASPECTS</title>
+              <p>All procedures performed in studies involving data from human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. This clinical study was reviewed and approved by the Ethics Committee for Human Research of the University of Granada, Spain (480/CEIH/2018). The protocol was then registered at clinicaltrials.gov and assigned the number NCT03797963.</p>
+            </sec>
+            <sec sec-type="supplementary-material">
+              <title>Supporting information</title>
+              <supplementary-material id="clr13912-sup-0001" position="float" content-type="local-data">
+                <caption>
+                  <p>Fig S1</p>
+                </caption>
+                <media xlink:href="CLR-33-524-s003.tif">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material id="clr13912-sup-0002" position="float" content-type="local-data">
+                <caption>
+                  <p>Fig S2</p>
+                </caption>
+                <media xlink:href="CLR-33-524-s002.pdf">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material id="clr13912-sup-0003" position="float" content-type="local-data">
+                <caption>
+                  <p>Table S1‐S3</p>
+                </caption>
+                <media xlink:href="CLR-33-524-s001.docx">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+              <supplementary-material id="clr13912-sup-0004" position="float" content-type="local-data">
+                <caption>
+                  <p>Supplementary Material</p>
+                </caption>
+                <media xlink:href="CLR-33-524-s004.doc">
+                  <caption>
+                    <p>Click here for additional data file.</p>
+                  </caption>
+                </media>
+              </supplementary-material>
+            </sec>
+          </body>
+          <back>
+            <ack id="clr13912-sec-0031">
+              <title>ACKNOWLEDGMENT</title>
+              <p>The authors are grateful to Justin G. Davis for assistance with the English translation and to Emilio Couso‐Queiruga for assistance with the volumetric radiographic analyses.</p>
+            </ack>
+            <sec sec-type="data-availability" id="clr13912-sec-0036">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list content-type="cited-references" id="clr13912-bibl-0001">
+              <title>REFERENCES</title>
+              <ref id="clr13912-bib-0001">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0001"><string-name><surname>Avila</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H. L.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Misch</surname>, <given-names>C. E.</given-names></string-name>, <string-name><surname>Bagramian</surname>, <given-names>R. A.</given-names></string-name>, <string-name><surname>Rudek</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Benavides</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Moreno‐Riestra</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Braun</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Neiva</surname>, <given-names>R.</given-names></string-name> (<year>2010</year>). <article-title>The influence of the bucco‐palatal distance on sinus augmentation outcomes</article-title>. <source>Journal of Periodontology</source>, <volume>81</volume>, <fpage>1041</fpage>–<lpage>1050</lpage>.<pub-id pub-id-type="pmid">20450402</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0002">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0002"><string-name><surname>Avila‐Ortiz</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Neiva</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Rudek</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Benavides</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name> (<year>2012</year>). <article-title>Analysis of the influence of residual alveolar bone height on sinus augmentation outcomes</article-title>. <source>Clinical Oral Implants Research</source>, <volume>23</volume>, <fpage>1082</fpage>–<lpage>1088</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2011.02270.x</pub-id>
+<pub-id pub-id-type="pmid">22092705</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0003">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0003"><string-name><surname>Avila‐Ortiz</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Misch</surname>, <given-names>C. E.</given-names></string-name>, <string-name><surname>Rudek</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Neiva</surname>, <given-names>R.</given-names></string-name> (<year>2012</year>). <article-title>Influence of lateral window dimensions on vital bone formation following maxillary sinus augmentation</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>27</volume>, <fpage>1230</fpage>–<lpage>1238</lpage>.<pub-id pub-id-type="pmid">23057039</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0004">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0004"><string-name><surname>Boeck‐Neto</surname>, <given-names>R. J.</given-names></string-name>, <string-name><surname>Artese</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Piattelli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Shibli</surname>, <given-names>J. A.</given-names></string-name>, <string-name><surname>Perrotti</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Piccirilli</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Marcantonio</surname>, <given-names>E.</given-names>, <suffix>Jr</suffix></string-name>. (<year>2009</year>). <article-title>VEGF and MVD expression in sinus augmentation with autologous bone and several graft materials</article-title>. <source>Oral Diseases</source>, <volume>15</volume>, <fpage>148</fpage>–<lpage>154</lpage>. <pub-id pub-id-type="doi">10.1111/j.1601-0825.2008.01502.x</pub-id>
+<pub-id pub-id-type="pmid">19036054</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0005">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0005"><string-name><surname>Cassetta</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Perrotti</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Calasso</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Piattelli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Sinjari</surname>, <given-names>B.</given-names></string-name>, &amp; <string-name><surname>Iezzi</surname>, <given-names>G.</given-names></string-name> (<year>2015</year>). <article-title>Bone formation in sinus augmentation procedures using autologous bone, porcine bone, and a 50: 50 mixture: A human clinical and histological evaluation at 2 months</article-title>. <source>Clinical Oral Implants Research</source>, <volume>26</volume>, <fpage>1180</fpage>–<lpage>1184</lpage>. <pub-id pub-id-type="doi">10.1111/clr.12423</pub-id>
+<pub-id pub-id-type="pmid">24861978</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0006">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0006"><string-name><surname>Caubet</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Ramis</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Ramos‐Murguialday</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Morey</surname>, <given-names>M. A.</given-names></string-name>, <string-name><surname>Monjo</surname>, <given-names>M.</given-names></string-name> (<year>2015</year>). <article-title>Gene expression and morphometric parameters of human bone biopsies after maxillary sinus floor elevation with autologous bone combined with Bio‐Oss®or BoneCeramic®</article-title>. <source>Clinical Oral Implants Research</source>, <volume>26</volume>(<issue>6</issue>), <fpage>727</fpage>–<lpage>735</lpage>. <pub-id pub-id-type="doi">10.1111/clr.12380</pub-id>
+<pub-id pub-id-type="pmid">24684367</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0007">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0007"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>de Buitrago</surname>, <given-names>J. G.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fernández‐Barbero</surname>, <given-names>J. E.</given-names></string-name>, <string-name><surname>Ata‐Ali</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2018</year>). <article-title>Histopathological comparison of healing after maxillary sinus augmentation using xenograft mixed with autogenous bone versus allograft mixed with autogenous bone</article-title>. <source>Clinical Oral Implants Research</source>, <volume>29</volume>, <fpage>192</fpage>–<lpage>201</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13098</pub-id>
+<pub-id pub-id-type="pmid">29071736</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0008">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0008"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Hernández‐Cortés</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Aneiros‐Fernández</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Camara</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Mesa</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Wallace</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2014</year>). <article-title>Morphological evidences of Bio‐Oss® colonization by CD44‐positive cells</article-title>. <source>Clinical Oral Implants Research</source>, <volume>25</volume>, <fpage>366</fpage>–<lpage>371</lpage>.<pub-id pub-id-type="pmid">23356496</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0009">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0009"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Hernández‐Cortés</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Mesa</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Carranza</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Juodzbalys</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Aguilar</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2013</year>). <article-title>Slow resorption of anorganic bovine bone by osteoclasts in maxillary sinus augmentation</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>15</volume>, <fpage>858</fpage>–<lpage>866</lpage>. <pub-id pub-id-type="doi">10.1111/j.1708-8208.2012.00445.x</pub-id>
+<pub-id pub-id-type="pmid">22376122</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0010">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0010"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Hernandez‐Cortes</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Vizoso</surname>, <given-names>M. L.</given-names></string-name>, <string-name><surname>Crespo‐Lora</surname>, <given-names>V.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2015</year>). <article-title>Immunohistochemical osteopontin expression in bone xenograft in clinical series of maxillary sinus lift</article-title>. <source>Journal of Oral Science &amp; Rehabilitation</source>, <volume>1</volume>, <fpage>42</fpage>–<lpage>50</lpage>.</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0011">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0011"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Moreno‐Riestra</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Avila</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Paya</surname>, <given-names>J. A.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2011</year>). <article-title>Effect of anorganic bovine bone to autogenous cortical bone ratio upon bone remodeling patterns following maxillary sinus augmentation</article-title>. <source>Clinical Oral Implants Research</source>, <volume>22</volume>, <fpage>857</fpage>–<lpage>864</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2010.02073.x</pub-id>
+<pub-id pub-id-type="pmid">21244500</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0012">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0012"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Moreno‐Riestra</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Ávila‐Ortiz</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Gallas‐Torreira</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Sánchez‐Fernández</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Mesa</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2012</year>). <article-title>Predictive factors for maxillary sinus augmentation outcomes: A case series analysis</article-title>. <source>Implant Dentistry</source>, <volume>21</volume>, <fpage>433</fpage>–<lpage>440</lpage>. <pub-id pub-id-type="doi">10.1097/ID.0b013e3182691959</pub-id>
+<pub-id pub-id-type="pmid">22968572</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0013">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0013"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fernández‐Barbero</surname>, <given-names>J. E.</given-names></string-name>, <string-name><surname>Mesa</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Rodríguez‐Martínez</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2010</year>). <article-title>Optimal microvessel density from composite graft of autogenous maxillary cortical bone and anorganic bovine bone in sinus augmentation: Influence of clinical variables</article-title>. <source>Clinical Oral Implants Research</source>, <volume>21</volume>, <fpage>221</fpage>–<lpage>227</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2009.01827.x</pub-id>
+<pub-id pub-id-type="pmid">20070755</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0014">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0014"><string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Lopez‐Chaichio</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Gutiérrez‐Garrido</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Martín‐Morales</surname>, <given-names>N.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2020</year>). <article-title>Algae‐derived hydroxyapatite behavior as bone biomaterial in comparison with anorganic bovine bone: A split‐mouth clinical, radiological, and histologic randomized study in humans</article-title>. <source>Clinical Oral Implants Research</source>, <volume>31</volume>, <fpage>536</fpage>–<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13590</pub-id>
+<pub-id pub-id-type="pmid">32072685</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0015">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0015"><string-name><surname>Hallman</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Lundgren</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Sennerby</surname>, <given-names>L.</given-names></string-name> (<year>2001</year>). <article-title>Histologic analysis of clinical biopsies taken 6 months and 3 years after maxillary sinus floor augmentation with 80% bovine hydroxyapatite and 20% autogenous bone mixed with fibrin glue</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>3</volume>, <fpage>87</fpage>–<lpage>96</lpage>. <pub-id pub-id-type="doi">10.1111/j.1708-8208.2001.tb00236.x</pub-id>
+<pub-id pub-id-type="pmid">11472655</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0016">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0016"><string-name><surname>Hallman</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Sennerby</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Lundgren</surname>, <given-names>S.</given-names></string-name> (<year>2002</year>). <article-title>A clinical and histologic evaluation of implant integration in the posterior maxilla after sinus floor augmentation with autogenous bone, bovine hydroxyapatite, or a 20:80 mixture</article-title>. <source>International Journal of Oral and Maxillofacial Implants</source>, <volume>17</volume>(<issue>5</issue>), <fpage>635</fpage>–<lpage>643</lpage>.<pub-id pub-id-type="pmid">12381063</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0017">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0017"><string-name><surname>Hallman</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Sennerby</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Zetterqvist</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Lundgren</surname>, <given-names>S.</given-names></string-name> (<year>2005</year>). <article-title>A 3‐year prospective follow‐up study of implant‐supported fixed prostheses in patients subjected to maxillary sinus floor augmentation with a 80:20 mixture of deproteinized bovine bone and autogenous bone: Clinical, radiographic and resonance frequency analysis</article-title>. <source>International Journal of Oral and Maxillofacial Surgery</source>, <volume>34</volume>, <fpage>273</fpage>–<lpage>280</lpage>. <pub-id pub-id-type="doi">10.1016/j.ijom.2004.09.009</pub-id>
+<pub-id pub-id-type="pmid">15741036</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0018">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0018"><string-name><surname>Khosravi</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Maeda</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>DaCosta</surname>, <given-names>R. S.</given-names></string-name>, &amp; <string-name><surname>Davies</surname>, <given-names>J. E.</given-names></string-name> (<year>2018</year>). <article-title>Nanosurfaces modulate the mechanism of peri‐implant endosseous healing by regulating neovascular morphogenesis</article-title>. <source>Communications Biology</source>, <volume>1</volume>, <fpage>72</fpage>. <pub-id pub-id-type="doi">10.1038/s42003-018-0074-y</pub-id>
+<pub-id pub-id-type="pmid">30271953</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0019">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0019"><string-name><surname>Lee</surname>, <given-names>J.‐S.</given-names></string-name>, <string-name><surname>Shin</surname>, <given-names>H.‐K.</given-names></string-name>, <string-name><surname>Yun</surname>, <given-names>J.‐H.</given-names></string-name>, &amp; <string-name><surname>Cho</surname>, <given-names>K.‐S.</given-names></string-name> (<year>2017</year>). <article-title>Randomized clinical trial of maxillary sinus grafting using deproteinized porcine and bovine bone mineral</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>19</volume>, <fpage>140</fpage>–<lpage>150</lpage>. <pub-id pub-id-type="doi">10.1111/cid.12430</pub-id>
+<pub-id pub-id-type="pmid">27324175</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0020">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0020"><string-name><surname>Lee</surname>, <given-names>J. H.</given-names></string-name>, <string-name><surname>Yi</surname>, <given-names>G. S.</given-names></string-name>, <string-name><surname>Lee</surname>, <given-names>J. W.</given-names></string-name>, &amp; <string-name><surname>Kim</surname>, <given-names>D. J.</given-names></string-name> (<year>2017</year>). <article-title>Physicochemical characterization of porcine bone‐derived grafting material and comparison with bovine xenografts for dental applications</article-title>. <source>Journal of Periodontal &amp; Implant Science</source>, <volume>47</volume>, <fpage>388</fpage>–<lpage>401</lpage>. <pub-id pub-id-type="doi">10.5051/jpis.2017.47.6.388</pub-id>
+<pub-id pub-id-type="pmid">29333325</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0021">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0021"><string-name><surname>Li</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Chen</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Yuen</surname>, <given-names>D.</given-names></string-name> (<year>2014</year>). <article-title>Isolation and characterization of a porous carbonate apatite from porcine cancellous bone</article-title>. <source>Journal of Science, Technology, Innovation</source>, <volume>1</volume>, <fpage>13</fpage>.</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0022">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0022"><string-name><surname>Lundgren</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Cricchio</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Hallman</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Jungner</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Rasmusson</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Sennerby</surname>, <given-names>L.</given-names></string-name> (<year>2017</year>). <article-title>Sinus floor elevation procedures to enable implant placement and integration: Techniques, biological aspects and clinical outcomes</article-title>. <source>Periodontology</source>, <volume>73</volume>, <fpage>103</fpage>–<lpage>120</lpage>. <pub-id pub-id-type="doi">10.1111/prd.12165</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0023">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0023"><string-name><surname>Monje</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Monje‐Gil</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Ortega‐Oller</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Mesa</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>H.‐L.</given-names></string-name>, &amp; <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name> (<year>2017</year>). <article-title>Cellular, vascular, and histomorphometric outcomes of solvent‐dehydrated vs freeze‐dried allogeneic graft for maxillary sinus augmentation: A randomized case series</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>32</volume>, <fpage>121</fpage>–<lpage>127</lpage>. <pub-id pub-id-type="doi">10.11607/jomi.4801</pub-id>
+<pub-id pub-id-type="pmid">27529782</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0024">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0024"><string-name><surname>Nomura</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Katz</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Powers</surname>, <given-names>M. P.</given-names></string-name>, &amp; <string-name><surname>Saito</surname>, <given-names>C.</given-names></string-name> (<year>2005</year>). <article-title>Evaluation of the micromechanical elastic properties of potential bone‐grafting materials</article-title>. <source>Journal of Biomedical Materials Research Part B: Applied Biomaterials</source>, <volume>73</volume>, <fpage>29</fpage>–<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1002/jbm.b.30201</pub-id>
+<pub-id pub-id-type="pmid">15672390</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0025">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0025"><string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>de Buitrago</surname>, <given-names>J. G.</given-names></string-name>, <string-name><surname>Hernández‐Cortés</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Crespo‐Lora</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Cobo</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Aguilar</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name> (<year>2018</year>). <article-title>Increased expression of musashi‐1 evidences mesenchymal repair in maxillary sinus floor elevation</article-title>. <source>Scientific Reports</source>, <volume>8</volume>, <elocation-id>12243</elocation-id>. <pub-id pub-id-type="doi">10.1038/s41598-018-29908-3</pub-id>
+<pub-id pub-id-type="pmid">30116022</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0026">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0026"><string-name><surname>Orsini</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Scarano</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Piattelli</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Piccirilli</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Caputi</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Piattelli</surname>, <given-names>A.</given-names></string-name> (<year>2006</year>). <article-title>Histologic and ultrastructural analysis of regenerated bone in maxillary sinus augmentation using a porcine bone‐derived biomaterial</article-title>. <source>Journal of Periodontology</source>, <volume>77</volume>, <fpage>1984</fpage>–<lpage>1990</lpage>. <pub-id pub-id-type="doi">10.1902/jop.2006.060181</pub-id>
+<pub-id pub-id-type="pmid">17209782</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0027">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0027"><string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Crespo‐Lora</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Candido‐Corral</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Martin‐Morales</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Abril‐Garcia</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Hernandez‐Cortes</surname>, <given-names>P.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2021</year>). <article-title>Expression of musashi‐1 increases in bone healing</article-title>. <source>International Journal of Molecular Sciences</source>, <volume>22</volume>, <elocation-id>3395</elocation-id>. <pub-id pub-id-type="doi">10.3390/ijms22073395</pub-id>
+<pub-id pub-id-type="pmid">33810326</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0028">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0028"><string-name><surname>Padial‐Molina</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>de Buitrago</surname>, <given-names>J. G.</given-names></string-name>, <string-name><surname>Sainz‐Urruela</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Abril‐Garcia</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Anderson</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name> (<year>2019</year>). <article-title>Expression of musashi‐1 during osteogenic differentiation of oral MSC: An in vitro study</article-title>. <source>International Journal of Molecular Sciences</source>, <volume>20</volume>(<issue>9</issue>), <fpage>2171</fpage>. <pub-id pub-id-type="doi">10.3390/ijms20092171</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0029">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0029"><string-name><surname>Saito</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Couso‐Queiruga</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Shiau</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Stuhr</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Prasad</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Allareddy</surname>, <given-names>T. V.</given-names></string-name>, <string-name><surname>Reynolds</surname>, <given-names>M. A.</given-names></string-name>, &amp; <string-name><surname>Avila‐Ortiz</surname>, <given-names>G.</given-names></string-name> (<year>2021</year>). <article-title>Evaluation of poly lactic‐co‐glycolic acid‐coated β‐tricalcium phosphate for alveolar ridge preservation: A multicenter randomized controlled trial</article-title>. <source>Journal of Periodontology</source>, <volume>92</volume>, <fpage>524</fpage>–<lpage>535</lpage>. <pub-id pub-id-type="doi">10.1002/JPER.20-0360</pub-id>
+<pub-id pub-id-type="pmid">32996128</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0030">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0030"><string-name><surname>Salazar</surname>, <given-names>V. S.</given-names></string-name>, <string-name><surname>Gamer</surname>, <given-names>L. W.</given-names></string-name>, &amp; <string-name><surname>Rosen</surname>, <given-names>V.</given-names></string-name> (<year>2016</year>). <article-title>BMP signalling in skeletal development, disease and repair</article-title>. <source>Nature Reviews Endocrinology</source>, <volume>12</volume>, <fpage>203</fpage>–<lpage>221</lpage>.</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0031">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0031"><string-name><surname>Scarano</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Piattelli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Perrotti</surname>, <given-names>V.</given-names></string-name>, <string-name><surname>Manzon</surname>, <given-names>L.</given-names></string-name>, &amp; <string-name><surname>Iezzi</surname>, <given-names>G.</given-names></string-name> (<year>2011</year>). <article-title>Maxillary sinus augmentation in humans using cortical porcine bone: A histological and histomorphometrical evaluation after 4 and 6 months</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>13</volume>, <fpage>13</fpage>–<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1111/j.1708-8208.2009.00176.x</pub-id>
+<pub-id pub-id-type="pmid">19438954</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0032">
+                <mixed-citation publication-type="book" id="clr13912-cit-0032"><string-name><surname>Stegen</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Carmeliet</surname>, <given-names>G.</given-names></string-name> (<year>2020</year>). <part-title>Chapter 46 ‐ Vascular endothelial growth factor and bone–vascular interactions</part-title>. In <person-group person-group-type="editor"><string-name><given-names>J. P.</given-names><surname>Bilezikian</surname></string-name></person-group>, <person-group person-group-type="editor"><string-name><given-names>T. J.</given-names><surname>Martin</surname></string-name></person-group>, <person-group person-group-type="editor"><string-name><given-names>T. L.</given-names><surname>Clemens</surname></string-name></person-group> &amp; <person-group person-group-type="editor"><string-name><given-names>C. J.</given-names><surname>Rosen</surname></string-name></person-group> (Eds.), <source>Principles of bone biology (Fourth Edition)</source> (pp. <fpage>1141</fpage>–<lpage>1152</lpage>). <publisher-name>Academic Press</publisher-name>. <pub-id pub-id-type="doi">10.1016/B978-0-12-814841-9.00046-4</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0033">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0033"><string-name><surname>Tetè</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Zizzari</surname>, <given-names>V. L.</given-names></string-name>, <string-name><surname>Vinci</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Zara</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Di Tore</surname>, <given-names>U.</given-names></string-name>, <string-name><surname>Manica</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Cataldi</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Mortellaro</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Piattelli</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Gherlone</surname>, <given-names>E.</given-names></string-name> (<year>2014</year>). <article-title>Equine and porcine bone substitutes in maxillary sinus augmentation: A histological and immunohistochemical analysis of VEGF expression</article-title>. <source>The Journal of Craniofacial Surgery</source>, <volume>25</volume>, <fpage>835</fpage>–<lpage>839</lpage>. <pub-id pub-id-type="doi">10.1097/SCS.0000000000000679</pub-id>
+<pub-id pub-id-type="pmid">24820710</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0034">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0034"><string-name><surname>Torrecillas‐Martínez</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Galindo‐Moreno</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Ávila‐Ortiz</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Ortega‐Oller</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Monje</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Hernández‐Cortés</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Aguilar</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>O’Valle</surname>, <given-names>F.</given-names></string-name> (<year>2016</year>). <article-title>Significance of the immunohistochemical expression of bone morphogenetic protein‐4 in bone maturation after maxillary sinus grafting in humans</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>18</volume>, <fpage>717</fpage>–<lpage>724</lpage>. <pub-id pub-id-type="doi">10.1111/cid.12354</pub-id>
+<pub-id pub-id-type="pmid">25965275</pub-id></mixed-citation>
+              </ref>
+              <ref id="clr13912-bib-0035">
+                <mixed-citation publication-type="journal" id="clr13912-cit-0035"><string-name><surname>Vimalraj</surname>, <given-names>S.</given-names></string-name> (<year>2020</year>). <article-title>Alkaline phosphatase: Structure, expression and its function in bone mineralization</article-title>. <source>Gene</source>, <volume>754</volume>, <elocation-id>144855</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.gene.2020.144855</pub-id>
+<pub-id pub-id-type="pmid">32522695</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

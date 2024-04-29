@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:40:03Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10091759" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10091759</identifier>
+        <datestamp>2023-04-13</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="jcpe13726" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-051X</journal-id>
+              <journal-id journal-id-type="publisher-id">JCPE</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Clinical Periodontology</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0303-6979</issn>
+              <issn pub-type="epub">1600-051X</issn>
+              <publisher>
+                <publisher-name>Blackwell Publishing Ltd</publisher-name>
+                <publisher-loc>Oxford, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10091759</article-id>
+              <article-id pub-id-type="pmcid">PMC10091759</article-id>
+              <article-id pub-id-type="pmc-uid">10091759</article-id>
+              <article-id pub-id-type="pmid">36122912</article-id>
+              <article-id pub-id-type="pmid">36122912</article-id>
+              <article-id pub-id-type="doi">10.1111/jcpe.13726</article-id>
+              <article-id pub-id-type="publisher-id">JCPE13726</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Therapy</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Maxillary overdentures supported by four or six implants in the anterior region: 10‐year randomized controlled trial results</article-title>
+                <alt-title alt-title-type="left-running-head">Slot et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="jcpe13726-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Slot</surname>
+                    <given-names>Wim</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8318-4113</contrib-id>
+                  <xref rid="jcpe13726-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <address>
+                    <email>j.w.a.slot@umcg.nl</email>
+                  </address>
+                </contrib>
+                <contrib id="jcpe13726-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Raghoebar</surname>
+                    <given-names>Gerry M.</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3578-7141</contrib-id>
+                  <xref rid="jcpe13726-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13726-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Cune</surname>
+                    <given-names>Marco S.</given-names>
+                  </name>
+                  <xref rid="jcpe13726-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <xref rid="jcpe13726-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <xref rid="jcpe13726-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13726-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Vissink</surname>
+                    <given-names>Arjan</given-names>
+                  </name>
+                  <xref rid="jcpe13726-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13726-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Meijer</surname>
+                    <given-names>Henny J. A.</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1702-6031</contrib-id>
+                  <xref rid="jcpe13726-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13726-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="jcpe13726-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Dental School, Department of Implant Dentistry</named-content>
+                <institution>University of Groningen, University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="jcpe13726-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral and Maxillofacial Surgery</named-content>
+                <institution>University of Groningen, University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="jcpe13726-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Dental School, Department of Restorative Dentistry and Biomaterials</named-content>
+                <institution>University of Groningen, University Medical Center Groningen</institution>
+                <city>Groningen</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="jcpe13726-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral and Maxillofacial Surgery, Prosthodontics and Special Dental Care</named-content>
+                <institution>University Medical Center Utrecht</institution>
+                <city>Utrecht</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <aff id="jcpe13726-aff-0005">
+                <label>
+                  <sup>5</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral and Maxillofacial Surgery, Prosthodontics and Special Dental Care</named-content>
+                <institution>St. Antonius Hospital</institution>
+                <city>Nieuwegein</city>
+                <country country="NL">The Netherlands</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Wim Slot, Dental School, Department of Implant Dentistry, University Medical Center Groningen, PO Box 196, NL‐9700 AD, Groningen, The Netherlands.<break/>
+Email: <email>j.w.a.slot@umcg.nl</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>07</day>
+                <month>10</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>1</month>
+                <year>2023</year>
+              </pub-date>
+              <volume>50</volume>
+              <issue seq="50">1</issue>
+              <issue-id pub-id-type="doi">10.1111/jcpe.v50.1</issue-id>
+              <fpage>36</fpage>
+              <lpage>44</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>26</day>
+                  <month>8</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>16</day>
+                  <month>6</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>15</day>
+                  <month>9</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2023 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Clinical Periodontology</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:JCPE-50-36.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="jcpe13726-sec-0001">
+                  <title>Aim</title>
+                  <p>To evaluate bar‐supported maxillary implant overdenture treatment when supported by either four or six implants after 10 years.</p>
+                </sec>
+                <sec id="jcpe13726-sec-0002">
+                  <title>Materials and Methods</title>
+                  <p>Edentulous subjects with maxillary denture complaints and ample bone volume to facilitate implants in the anterior region of the maxilla were planned for implant overdenture treatment, randomized to receive either four implants (<italic toggle="no">n</italic> = 25) or six implants (<italic toggle="no">n</italic> = 25) and subsequently evaluated after 10 years of function. Outcome variables included peri‐implant bone‐level changes, implant and overdenture survival, complications, presence of plaque, calculus and bleeding, degree of peri‐implant inflammation, probing depth and patient satisfaction. Differences between the groups and between evaluation periods were tested with a Student's <italic toggle="no">t</italic>‐test.</p>
+                </sec>
+                <sec id="jcpe13726-sec-0003">
+                  <title>Results</title>
+                  <p>Fourteen patients with totally 72 implants were lost to follow‐up. Two patients from the six‐implant group experienced implant loss (four implants), resulting in 96.1% implant survival in this group versus 100% survival in the four‐implant group. Clinical, radiographical and patient‐reported outcome measures did not differ statistically significant between the two groups. Patients from both groups were generally quite satisfied with the result after 10 years.</p>
+                </sec>
+                <sec id="jcpe13726-sec-0004">
+                  <title>Conclusions</title>
+                  <p>Similar and favourable outcomes are seen in bar‐supported maxillary overdentures on either four or six anteriorly placed implants after a 10‐year evaluation period.</p>
+                </sec>
+              </abstract>
+              <kwd-group kwd-group-type="author-generated">
+                <kwd id="jcpe13726-kwd-0001">dental implants</kwd>
+                <kwd id="jcpe13726-kwd-0002">edentulous</kwd>
+                <kwd id="jcpe13726-kwd-0003">maxilla</kwd>
+                <kwd id="jcpe13726-kwd-0004">overdenture</kwd>
+                <kwd id="jcpe13726-kwd-0005">randomized controlled clinical trial</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>Astra Tech AB</funding-source>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="2"/>
+                <table-count count="5"/>
+                <page-count count="9"/>
+                <word-count count="6484"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>January 2023</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:12.04.2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-9001"><string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Cune</surname>, <given-names>M. S.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2023</year>). <article-title>Maxillary overdentures supported by four or six implants in the anterior region: 10‐year randomized controlled trial results</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>50</volume>(<issue>1</issue>), <fpage>36</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13726</pub-id>
+<pub-id pub-id-type="pmid">36122912</pub-id></mixed-citation>
+              </p>
+              <fn-group>
+                <fn id="jcpe13726-note-1002">
+                  <p><bold>Funding information</bold> Astra Tech AB</p>
+                </fn>
+              </fn-group>
+            </notes>
+          </front>
+          <body id="jcpe13726-body-0001">
+            <p>
+              <boxed-text position="anchor" content-type="box" id="jcpe13726-blkfxd-0001">
+                <caption>
+                  <title>Clinical Relevance</title>
+                </caption>
+                <p><italic toggle="yes">Scientific rationale for study</italic>: Implants can support a maxillary denture in order to improve retention and stability. Long‐term controlled trials on the outcome of bar‐supported maxillary overdenture treatment focussing on the optimal number of implants required are missing.</p>
+                <p><italic toggle="yes">Principal findings</italic>: Implant and overdenture survival, peri‐implant soft tissue health, marginal bone‐level changes and patient‐reported outcomes between maxillary dentures supported by four or six implants in the anterior region after 10 years of function were favourable and similar.</p>
+                <p><italic toggle="yes">Practical implications</italic>: In edentulous patients, four implants to retain a bar‐supported maxillary overdenture are a viable treatment option when there is ample bone volume in the anterior maxilla to facilitate implant placement.</p>
+              </boxed-text>
+            </p>
+            <sec id="jcpe13726-sec-0007">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Patients with persistent complaints, with respect to their conventional maxillary denture, benefit considerably from implant support in terms of denture satisfaction and overall quality of life and high implant survival rates are reported (Slot et al., <xref rid="jcpe13726-bib-0031" ref-type="bibr">2010</xref>, Raghoebar et al., <xref rid="jcpe13726-bib-0025" ref-type="bibr">2014</xref>; Boven et al., <xref rid="jcpe13726-bib-0003" ref-type="bibr">2015</xref>; Slot et al., <xref rid="jcpe13726-bib-0029" ref-type="bibr">2016</xref>; Di Francesco et al., <xref rid="jcpe13726-bib-0006" ref-type="bibr">2021</xref>; Fonteyne et al., <xref rid="jcpe13726-bib-0011" ref-type="bibr">2021</xref>). Implant position, the number of implants and bone volume are factors that influence the success of both the implants and maxillary overdenture (Esposito et al., <xref rid="jcpe13726-bib-0009" ref-type="bibr">1998</xref>).</p>
+              <p>Although two and four unsplinted implants, placed in the cuspid and molar region, to support a maxillary overdenture result in similar clinical outcomes in a crossover clinical trial, patients preferred four implants (Kappel et al., <xref rid="jcpe13726-bib-0013" ref-type="bibr">2021</xref>). At least four implants are advised in a systematic review, with implants as well anteriorly and posteriorly (Messias et al., <xref rid="jcpe13726-bib-0023" ref-type="bibr">2021</xref>), although short‐term results from a prospective study indicate that results with four unsplinted implants, placed in the cuspid and molar region, were less favourable (Bouhy et al., <xref rid="jcpe13726-bib-0002" ref-type="bibr">2020</xref>). Patients from a clinical trial, with al implants placed in the anterior position, by Boven et al. (<xref rid="jcpe13726-bib-0004" ref-type="bibr">2020</xref>), also experienced more marginal bone loss around four unsplinted compared with splinted implants after 1 year. By contrast, others did not see a clear benefit in splinting the implants, placed in various positions, in maxillary overdenture treatment (Ma et al., <xref rid="jcpe13726-bib-0019" ref-type="bibr">2016</xref>; Leão et al., <xref rid="jcpe13726-bib-0016" ref-type="bibr">2018</xref>; Di Francesco et al., <xref rid="jcpe13726-bib-0007" ref-type="bibr">2019</xref>).</p>
+              <p>Comparison between four‐ and six‐splinted implants to support a maxillary overdenture indicates that after a short‐ and medium‐term follow‐up period, these treatment modalities are similar and favourable (Slot et al., <xref rid="jcpe13726-bib-0031" ref-type="bibr">2010</xref>, <xref rid="jcpe13726-bib-0029" ref-type="bibr">2016</xref>; Di Francesco et al., <xref rid="jcpe13726-bib-0006" ref-type="bibr">2021</xref>). Ferrigno et al. (<xref rid="jcpe13726-bib-0010" ref-type="bibr">2002</xref>) demonstrated in a prospective case series that a 10‐year cumulative implant survival rate was 94.4% for four to six implants and a bar‐supported overdenture. Sanna et al. (<xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>) showed in their retrospective analysis a cumulative survival rate of 99.3%, for both four‐ and six‐splinted implants supporting an overdenture after 10 years in function. Visser et al. (<xref rid="jcpe13726-bib-0036" ref-type="bibr">2009</xref>) performed a retrospective analysis and reported an actual survival rate of 86.1% for six implants with a milled bar and overdenture after 10 years in function. However, studies reporting long‐term results from randomized clinical trials have not been reported. In addition, there are no treatment guidelines for preferred implant positions in the edentulous maxilla. If ample bone volume is available, placing implants in the anterior region is likely to be advantageous. In the more posterior maxillary regions, pre‐implant, substantial bone augmentation (i.e., sinus floor elevation surgery) may often be necessary to facilitate implant placement. This could be prevented when placing implants in the anterior region, subsequently reducing morbidity, treatment time and costs as potential benefits (Kalk et al., <xref rid="jcpe13726-bib-0012" ref-type="bibr">1996</xref>). In some studies on maxillary implant‐supported overdentures, the implants were placed posteriorly following a sinus floor elevation procedure (Visser et al., <xref rid="jcpe13726-bib-0036" ref-type="bibr">2009</xref>), whereas in other studies the implants had been placed more anteriorly (Ferrigno et al., <xref rid="jcpe13726-bib-0010" ref-type="bibr">2002</xref>; Sanna et al., <xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>). Hence, there is considerable heterogeneity with respect to patient and treatment variables within studies reporting on maxillary overdentures in general and four versus six implants in particular, with a lack of high‐quality long‐term data.</p>
+              <p>The aim of the present study was to compare, in a randomized controlled trial, 10‐year results of bar‐supported maxillary implant‐supported overdentures on four and six anteriorly placed implants in terms of radiographic changes, survival, clinical outcomes, complications and patient satisfaction.</p>
+            </sec>
+            <sec id="jcpe13726-sec-0008">
+              <label>2</label>
+              <title>MATERIALS AND METHODS</title>
+              <p>Between January 2006 and December 2009, a total of 50 consecutive patients fulfilling the inclusion criteria were registered. This study has been set up as a randomized clinical trial with two treatment arms of 25 subjects each, to receive either four or six implants in the anterior region of the maxilla and a bar‐supported overdenture. Outcome parameters were assessed at 1, 5 and 10 years and compared both longitudinally and between the treatment groups at any given time point (Figure <xref rid="jcpe13726-fig-0001" ref-type="fig">1</xref>).</p>
+              <fig position="float" fig-type="FIGURE" id="jcpe13726-fig-0001">
+                <label>FIGURE 1</label>
+                <caption>
+                  <p>Flow diagram of the study</p>
+                </caption>
+                <graphic xlink:href="JCPE-50-36-g002" position="anchor" id="jats-graphic-1"/>
+              </fig>
+              <sec id="jcpe13726-sec-0009">
+                <label>2.1</label>
+                <title>Patient selection</title>
+                <p>Edentulous subjects were enrolled in the study if they met the following inclusion criteria:<list list-type="bullet" id="jcpe13726-list-0001"><list-item id="jcpe13726-li-0001"><p>persistent complaints regarding their maxillary denture;</p></list-item><list-item id="jcpe13726-li-0002"><p>ample bone volume to facilitate implants in the anterior region of the maxilla;</p></list-item><list-item id="jcpe13726-li-0003"><p>sufficient interocclusal space to allow for a bar‐supported overdenture.</p></list-item></list>
+</p>
+                <p>Detailed descriptions of the surgical and prosthetic treatment procedure and outcome parameters have been reported previously (Slot et al., <xref rid="jcpe13726-bib-0032" ref-type="bibr">2013</xref>, <xref rid="jcpe13726-bib-0029" ref-type="bibr">2016</xref>), and are briefly presented below.</p>
+                <p>The present study was not considered to be clinical research with test subjects, as meant in the Medical Research Involving Human Subjects Act (WMO) (METc communication M18.224571). The study was registered in the trial register (<ext-link xlink:href="http://www.trialregister.nl" ext-link-type="uri">www.trialregister.nl</ext-link>: NTR_NL9729) and conducted in accordance with the 2008 revised requirements of the Helsinki Declaration of 1975 and the CONSORT Guidelines.</p>
+              </sec>
+              <sec id="jcpe13726-sec-0010">
+                <label>2.2</label>
+                <title>Treatment procedure</title>
+                <sec id="jcpe13726-sec-0011">
+                  <label>2.2.1</label>
+                  <title>Surgical procedures</title>
+                  <p>Four or six dental implants were inserted in the maxillary anterior region (OsseoSpeed™ 4.0S dental implants, Astra Tech AB, Mölndal, Sweden). Small bony defects were covered with autologous bone from the maxillary tuberosity and organic bovine bone (Bio‐Oss®, Geistlich Pharma AG, Wolhusen, Switzerland) and subsequently covered with a resorbable membrane (Bio‐Gide®, Geistlich Pharma AG, Wolhusen, Switzerland). The implants were uncovered after a 3‐month osseointegration period and healing abutments (Uni Healing Abutments, Astra Tech AB, Mölndal, Sweden) were placed.</p>
+                </sec>
+                <sec id="jcpe13726-sec-0012">
+                  <label>2.2.2</label>
+                  <title>Prosthetic procedure</title>
+                  <p>The superstructure consisted of a milled titanium bar with distal extensions, screw‐retained to abutments and an overdenture with a built‐in cobalt chromium reinforcement structure and gold retentive clips attached to it (Slot et al., <xref rid="jcpe13726-bib-0030" ref-type="bibr">2012</xref>). The overdentures were designed to cover the alveolar process fully, but with limited palatal coverage. All patients were also edentulous in the mandible and received a four‐implant mandibular overdenture. Each patient was instructed in hygiene procedures for the dentures and the bars (Figure <xref rid="jcpe13726-fig-0002" ref-type="fig">2</xref>).</p>
+                  <fig position="float" fig-type="FIGURE" id="jcpe13726-fig-0002">
+                    <label>FIGURE 2</label>
+                    <caption>
+                      <p>Ten‐year panoramic radiograph of a patient with four implants connected with a bar in the maxillary anterior region</p>
+                    </caption>
+                    <graphic xlink:href="JCPE-50-36-g001" position="anchor" id="jats-graphic-3"/>
+                  </fig>
+                </sec>
+              </sec>
+              <sec id="jcpe13726-sec-0013">
+                <label>2.3</label>
+                <title>Outcome measures</title>
+                <p>Primary and secondary outcomes were collected at the placement of the overdenture, and 1, 5 and 10 years after loading. Patients' satisfaction was also scored before treatment. Next to this, the patients were seen for routine check‐up visits at every year during the 10‐years follow‐up. Soft tissues and the superstructure were evaluated. If plaque and/or calculus were present at an evaluation period, cleaning was performed with additional hygiene reinstructions.</p>
+                <sec id="jcpe13726-sec-0014">
+                  <label>2.3.1</label>
+                  <title>Marginal bone‐level alterations</title>
+                  <p>The primary outcome measure was marginal bone‐level alteration as observed on intra‐oral periapical radiographs (Meijndert et al., <xref rid="jcpe13726-bib-0022" ref-type="bibr">2004</xref>) and analysed using dedicated computer software (DICOM Networks, developed at the department of Biomedical Engineering, University Medical Center Groningen, the Netherlands). Data collection and analysis of the radiographs were done by the same observer. The known implant dimension was used as a reference to transform the linear measurements into millimetre. Reference line for bone‐level evaluation was the outer border of the neck of the implant. Mesial and distal bone changes in this region were considered as radiographic bone height change and were defined as the difference in bone height between the photograph taken at overdenture placement and photographs taken at follow‐up appointments. The worst score per implant was used in the data analysis. Reproducibility of the specific analysis method was evaluated by Telleman et al. (<xref rid="jcpe13726-bib-0034" ref-type="bibr">2013</xref>). The intra‐class correlation coefficient for average measures was 0.867 for the radiographic inter‐observer agreement (Cronbach's <italic toggle="yes">α</italic> = .867), which can be interpreted as almost perfect agreement.</p>
+                  <p>Secondary outcome measures were as follows:<list list-type="bullet" id="jcpe13726-list-0002"><list-item id="jcpe13726-li-0004"><p>implant survival;</p></list-item><list-item id="jcpe13726-li-0005"><p>overdenture survival;</p></list-item><list-item id="jcpe13726-li-0006"><p>complications;</p></list-item><list-item id="jcpe13726-li-0007"><p>clinical parameters consisting of the presence of plaque and bleeding, scored according to the Mombelli et al. (<xref rid="jcpe13726-bib-0024" ref-type="bibr">1987</xref>) indices, presence of calculus, degree of peri‐implant inflammation according to the modified Löe and Silness index (Löe &amp; Silness, <xref rid="jcpe13726-bib-0018" ref-type="bibr">1963</xref>) and probing depth.</p></list-item></list>
+</p>
+                  <p>Peri‐implant mucositis and peri‐implantitis were calculated at a patient level, according to the consensus reached at the VI and VII European Workshop on Periodontology (Lindhe &amp; Meyle, <xref rid="jcpe13726-bib-0017" ref-type="bibr">2008</xref>; Lang &amp; Berglundh, <xref rid="jcpe13726-bib-0015" ref-type="bibr">2011</xref>) and reconfirmed at the VIII European Workshop on Periodontology (Sanz &amp; Chapple, <xref rid="jcpe13726-bib-0028" ref-type="bibr">2012</xref>), namely:<list list-type="bullet" id="jcpe13726-list-0003"><list-item id="jcpe13726-li-0008"><p>peri‐implant mucositis (radiographic bone loss &lt;2 mm): BoP+ and/or suppuration; and</p></list-item><list-item id="jcpe13726-li-0009"><p>peri‐implantitis: BoP+ and/or suppuration in combination with a marginal bone loss ≥2 mm.</p></list-item></list>
+</p>
+                </sec>
+                <sec id="jcpe13726-sec-0015">
+                  <label>2.3.2</label>
+                  <title>Patient‐reported outcomes</title>
+                  <p>Patient‐reported outcomes regarding the overdenture were assessed using a validated questionnaire aimed at patient satisfaction (Vervoorn et al., <xref rid="jcpe13726-bib-0035" ref-type="bibr">1988</xref>) and a “chewing ability” questionnaire (Stellingsma et al., <xref rid="jcpe13726-bib-0033" ref-type="bibr">2005</xref>), as well as the patient's overall satisfaction with the denture, expressed on a 10‐point rating scale.</p>
+                </sec>
+              </sec>
+              <sec id="jcpe13726-sec-0016">
+                <label>2.4</label>
+                <title>Statistical analysis</title>
+                <p>The sample size was calculated using the program G*power version 2 (Erdfelder et al., <xref rid="jcpe13726-bib-0008" ref-type="bibr">1996</xref>). A difference of at least 0.4 mm in bone height (measured on standardized radiographs, with a standard deviation [SD] of 0.5 mm) between the four implants group and six implants group after 12 months was expected to differentiate between the two groups, based on the findings of a study on maxillary implant‐supported overdentures (Raghoebar et al., <xref rid="jcpe13726-bib-0026" ref-type="bibr">2003</xref>). A <italic toggle="yes">t</italic>‐test given <italic toggle="yes">α</italic> = .05 with a power 80% combined with the expected effect size for two independent means gives a sample size of 21 persons in each group. To deal with withdrawal of individuals in the study, the number of participants was determined to be 25 persons per group. The data were analysed using the Statistical Package for Social sciences (version 22.0; SPSS Inc., IBM Corporation, Chicago, IL). The data were normally distributed. The differences between the groups were tested with an independent Student's <italic toggle="yes">t</italic>‐test and the differences between the evaluation periods were tested with a paired Student's <italic toggle="yes">t</italic>‐test.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="jcpe13726-sec-0017">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>Characteristics of the subjects in both treatment arms are listed in Table <xref rid="jcpe13726-tbl-0001" ref-type="table">1</xref>.</p>
+              <table-wrap position="float" id="jcpe13726-tbl-0001" content-type="TABLE">
+                <label>TABLE 1</label>
+                <caption>
+                  <p>Baseline characteristics (at overdenture placement) of the groups with four implants (four‐implant group) or six implants (six‐implant group)</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Group</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four‐implant group (<italic toggle="yes">n</italic> = 25)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six‐implant group (<italic toggle="yes">n</italic> = 25)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean age in years (standard deviation [SD], range)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">59.7 (8.0, 46–80)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">57.4 (8.7, 39–71)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Gender (number male/female)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15/10</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8/17</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean upper jaw edentulous period in years (SD, range)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">12.6 (11.7, 1–40)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">15.8 (14.4, 1–45)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Number of maxillary dentures (SD, range)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2.5 (1.6, 1–8)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">2.7 (1.7, 1–8)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Age of present maxillary denture (SD, range)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3.4 (2.5, 1–10)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3.7 (3.0, 1–10)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Implant dehiscence or fenestration (patients/implants)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">14/32</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">13/33</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Sinus floor elevation surgery (patients/sinuses)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0/0</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">9/18</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean plaque index (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.2 (0.5)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean calculus index (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.0 (0.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.0 (0.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean gingival index (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.0 (0.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean bleeding index (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0.2 (0.4)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean probing depth in mm (SD)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">4.3 (1.0)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">3.4<xref rid="jcpe13726-note-0002" ref-type="table-fn"><sup>a</sup></xref> (0.9)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="jcpe13726-ntgp-0001">
+                  <fn id="jcpe13726-note-0001">
+                    <p><italic toggle="yes">Note</italic>: Differences between the study groups were tested with the independent Student's <italic toggle="yes">t</italic>‐test (<italic toggle="yes">p</italic> &lt; .05).</p>
+                  </fn>
+                  <fn id="jcpe13726-note-0002">
+                    <label>
+                      <sup>a</sup>
+                    </label>
+                    <p>Significance between groups.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>Seven patients passed away during the observation period (four and three patients from the four‐ and six‐implant group respectively). Severe illness prevented six patients from attending the 10‐year evaluation (two from the four‐implant group and four from the six‐implant group). One patient from the six‐implant group moved without leaving a forwarding address. Hence, data of 36 patients could be analysed after a decade (Figure <xref rid="jcpe13726-fig-0001" ref-type="fig">1</xref>). The mean peri‐implant bone loss between baseline and the 10‐year follow‐up was 0.41 ± 0.37 mm in the four‐implant group and 0.70 ± 1.07 mm in the six‐implant group (<italic toggle="yes">p</italic> = .274, Table <xref rid="jcpe13726-tbl-0002" ref-type="table">2</xref>). Mean peri‐implant bone‐level change between 5 and 10 years in the four‐implant group was +0.11 mm (SD: 0.30) and in the six‐implant group −0.16 mm (SD: 0.83) without a significant difference between the groups (<italic toggle="yes">p</italic> = .073).</p>
+              <table-wrap position="float" id="jcpe13726-tbl-0002" content-type="TABLE">
+                <label>TABLE 2</label>
+                <caption>
+                  <p>Mean values and standard deviations (SDs) of the marginal bone loss in mm, and frequency distribution of the bone loss 5 and 10 years after overdenture placement in the four‐ and six‐implant groups</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Bone loss</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">5 years</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">10 years</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four‐implant group (<italic toggle="yes">n</italic> = 96)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six‐implant group (<italic toggle="yes">n</italic> = 131)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four‐implant group (<italic toggle="yes">n</italic> = 76)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six‐implant group (<italic toggle="yes">n</italic> = 99)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Mean (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.50 mm (0.37)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.52 mm (0.43)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.41 mm (0.37)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.70 mm (1.07)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">0–0.5 mm</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">64%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">60%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">75%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">66%</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">&gt;0.5–1.0 mm</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">21%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">19%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">14%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">11%</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">&gt;1.0–1.5 mm</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">12%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">12%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">7%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">9%</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">&gt;1.5–2.0 mm</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">7%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">3%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8%</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">&gt;2.0 mm</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">2%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">2%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1%</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">6%</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="jcpe13726-ntgp-0002">
+                  <fn id="jcpe13726-note-0003">
+                    <p><italic toggle="yes">Note</italic>: Differences between the study groups were tested with the independent Student's <italic toggle="yes">t</italic>‐test (<italic toggle="yes">p</italic> &lt; .05). The mean marginal bone loss did not differ significantly between the groups (<italic toggle="yes">p</italic> = .305 at 5 years; <italic toggle="yes">p</italic> = .274 at 10 years).</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>The 10‐year implant survival rate was 100% and 96.1% in the four‐implant and six‐implant groups, respectively. Four implants had failed in two patients from the six‐implant group (one implant during the osseointegration period and three implants due to peri‐implantitis between the 5‐ and 10‐year evaluation period). The 10‐year survival rate of the overdentures was 57.9% and 29.4% in the four‐implant and six‐implant group, respectively.</p>
+              <p>Very low plaque, calculus, gingiva and bleeding indices were seen, with no statistically significant differences between the treatment arms. Probing depths were stable in time (Table <xref rid="jcpe13726-tbl-0003" ref-type="table">3</xref>).</p>
+              <table-wrap position="float" id="jcpe13726-tbl-0003" content-type="TABLE">
+                <label>TABLE 3</label>
+                <caption>
+                  <p>Mean change from baseline to 5 and 10 years of follow‐up in the plaque index, calculus index, gingival index, bleeding index and probing depth</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Assessments</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Mean change from baseline to 5 years</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Mean change from baseline to 10 years</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">4‐implant group (<italic toggle="yes">n</italic> = 24)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">6‐implant group (<italic toggle="yes">n</italic> = 22)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">4‐implant group (<italic toggle="yes">n</italic> = 19)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">6‐implant group (<italic toggle="yes">n</italic> = 17)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <p>Plaque index (standard deviation [SD])</p>
+                        <p>Score 0–3</p>
+                      </td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.9)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.9)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <p>Calculus index (SD)</p>
+                        <p>Score 0–1</p>
+                      </td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <p>Gingival index (SD)</p>
+                        <p>Score 0–3</p>
+                      </td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.6)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">
+                        <p>Bleeding index (SD)</p>
+                        <p>Score 0–3</p>
+                      </td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.7)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.7)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Probing depth in mm (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">−0.4 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">−0.1 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0 (1.0)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.7 (1.1)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="jcpe13726-ntgp-0003">
+                  <fn id="jcpe13726-note-0004">
+                    <p><italic toggle="yes">Note</italic>: Differences between the study groups were tested with the independent Student's <italic toggle="yes">t</italic>‐test (<italic toggle="yes">p</italic> &lt; .05). No significant changes were observed between the groups.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>Incidence of peri‐implant mucositis at patient level was 52.6% and 52.9%, and of peri‐implantitis 10.5% and 23.5% in the four‐ and six‐implant groups, respectively.</p>
+              <p>Patient‐reported outcomes are important indicators of quality of care (Table <xref rid="jcpe13726-tbl-0004" ref-type="table">4</xref>).</p>
+              <table-wrap position="float" id="jcpe13726-tbl-0004" content-type="TABLE">
+                <label>TABLE 4</label>
+                <caption>
+                  <p>Mean score of five scales concerning the denture complaints (possible range 0–3), mean scores of chewing ability of soft, tough and hard food (possible range 0–2) and overall satisfaction score (possible range 1–10) before, and 5 and 10 years after treatment</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <col align="char" char="(" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Satisfaction assessments</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Pre‐treatment</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">5 years</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">10 years</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four implants group (<italic toggle="yes">n</italic> = 25)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six implants group (<italic toggle="yes">n</italic> = 25)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four implants group (<italic toggle="yes">n</italic> = 24)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six implants group (<italic toggle="yes">n</italic> = 22)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four implants group (<italic toggle="yes">n</italic> = 19)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six implants group (<italic toggle="yes">n</italic> = 17)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Functional complaints about upper denture (standard deviation [SD])</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.3 (0.7)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.5 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.1)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.2)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.1)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Functional complaints in general (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.1 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.2 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.2)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Facial aesthetics (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.1 (0.9)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.4 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.4)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">“Neutral Space” (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.6 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.8)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.5)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Aesthetics (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.1)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.1)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.2)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.2)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Soft food (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.5 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0 (0.0)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.2)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.0 (0.0)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Tough food (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.2 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.5 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.4)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.2 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.1 (0.1)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Hard food (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.8 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1.9 (0.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.3 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.5)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0.4 (0.5)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Overall satisfaction score (SD)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">4.3 (1.9)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">4.1 (1.6)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8.8 (1.3)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">9.0 (0.7)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8.7 (1.9)</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8.9 (0.7)</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="jcpe13726-ntgp-0004">
+                  <fn id="jcpe13726-note-0005">
+                    <p><italic toggle="yes">Note</italic>: Differences between study groups were tested with the independent Student's <italic toggle="yes">t</italic>‐test (<italic toggle="yes">p</italic> &lt; .05). No significant differences between the four‐ and six‐implant group were observed at all evaluation periods.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>Scores among patients in both treatment arms improved considerably on all parameters after treatment, but did not differ between the groups, even after 10 years.</p>
+              <p>Aftercare, both surgically and prosthetically, involved a small number of events and was predominantly confined to fracture of the denture base or loose or fractured denture teeth. However, a new overdenture had to be provided for 20 patients between the 5‐ and 10‐year observation period. Surgical interventions were limited to the removal of hyperplasia in a single patient (Table <xref rid="jcpe13726-tbl-0005" ref-type="table">5</xref>).</p>
+              <table-wrap position="float" id="jcpe13726-tbl-0005" content-type="TABLE">
+                <label>TABLE 5</label>
+                <caption>
+                  <p>Surgical and prosthetic aftercare (number of events) of the four‐implant group and the six‐implant group during two follow‐up periods (0–5 years and 5–10 years)</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <col align="char" char="." span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Aftercare</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">0–5 years</th>
+                      <th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">5–10 years</th>
+                    </tr>
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four‐implant group (<italic toggle="yes">n</italic> = 24)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six‐implant group (<italic toggle="yes">n</italic> = 22)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Four‐implant group (<italic toggle="yes">n</italic> = 19)</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1">Six‐implant group (<italic toggle="yes">n</italic> = 17)</th>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Removal of hyperplasia</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Surgical treatment of peri‐implantitis</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Clip repair</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Repair denture base/teeth</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">15</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">12</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Relining overdenture</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">1</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Readjustment occlusion</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">2</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">3</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">New bar</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">5</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">New overdenture</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">8</td>
+                      <td align="char" valign="top" rowspan="1" colspan="1">12</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+            </sec>
+            <sec sec-type="discussion" id="jcpe13726-sec-0018">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>Implants in the anterior maxillary region that support a bar‐retained maxillary overdentures have an excellent long‐term prognosis, regardless of whether they are supported by four or by six implants.</p>
+              <p>The results are in line with the cumulative 10‐year implant survival rates reported by Ferrigno et al. (<xref rid="jcpe13726-bib-0010" ref-type="bibr">2002</xref>) and by Sanna et al. (<xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>), also on anterior maxillary implants, but far more favourable then noted by Visser et al. (<xref rid="jcpe13726-bib-0036" ref-type="bibr">2009</xref>). In the former study, machined dental implants with a relatively smooth surface were used. However, these implants were placed in the posterior region in combination with a sinus floor elevation procedure. It resulted in a low survival rate of 86.1%. Possibly, osseointegration is less successful when relatively smooth implants are used in augmented posterior maxillary sites, as argued by Visser et al. (<xref rid="jcpe13726-bib-0036" ref-type="bibr">2009</xref>). Approximately 25 years ago, Watson et al. (<xref rid="jcpe13726-bib-0037" ref-type="bibr">1997</xref>) and Bergendal and Engquist (<xref rid="jcpe13726-bib-0001" ref-type="bibr">1998</xref>) reported 5‐year results of maxillary implant overdenture treatment with 72.4% and 79% implant survival rates, respectively, when using a similar implant type.</p>
+              <p>With respect to mean marginal bone loss, a comparison with the Ferrigno et al. (<xref rid="jcpe13726-bib-0010" ref-type="bibr">2002</xref>) and Visser et al. (<xref rid="jcpe13726-bib-0036" ref-type="bibr">2009</xref>) studies cannot be made because they did not report bone‐level changes or these could not be deduced. Sanna et al. (<xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>) calculated the bone‐level changes as frequencies, reporting an annual amount of bone loss of ≤0.15 mm in the vast majority of cases.</p>
+              <p>The mean plaque, calculus, gingiva and bleeding indices were favourable at the 10‐year follow‐up. Shallow probing depths were seen and showed no significant differences between the groups, in line with the observations by others (Sanna et al., <xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>). Although it could be hypothesized that patients from the six‐implant group would have to put an extra effort in performing daily hygiene tasks, this is not reflected in the results.</p>
+              <p>In the present study, the incidence of peri‐implant mucositis at the 10‐year evaluation was 52.6% among the four‐implant group and 52.9% in the six‐implant group, whereas Slot et al. (<xref rid="jcpe13726-bib-0029" ref-type="bibr">2016</xref>) found, respectively, 41.7% and 45.5% at the 5‐year evaluation. The incidence of peri‐implantitis at patient level after 10 years was 10.5% and 23.5% in the four‐ and six‐implant groups, respectively. After 5 years, it was only 8.3% and 4.5%, respectively (Slot et al., <xref rid="jcpe13726-bib-0029" ref-type="bibr">2016</xref>). This implies that the incidence of peri‐implant mucositis or peri‐implantitis increases over time and does not stabilize after many years: new cases occur. In many patients peri‐implantitis was seen at the 5‐year evaluation. These patients were treated non‐surgically with erythritol air polishing and hygiene reinstruction. At the 10‐year evaluation, with new radiographs, a new number of cases with peri‐implantitis was detected. These patients will be treated non‐surgically with erythritol air polishing and hygiene reinstruction and additionally, if the initial treatment is unsuccessful, with surgical treatment of peri‐implantitis. At the yearly control visits, no new cases of peri‐implantitis were detected, leading to the fact that during the 10‐year follow‐up period no surgical treatment of peri‐implantitis had taken place (Table <xref rid="jcpe13726-tbl-0005" ref-type="table">5</xref>). There are no studies covering 10 years on this particular outcome variable regarding the edentulous maxilla. Meijer et al. (<xref rid="jcpe13726-bib-0021" ref-type="bibr">2014</xref>) noted that 57.0% of the patients with mandibular overdentures had peri‐implant mucositis after 10 years and 29.7% of these fully edentulous patients suffered from peri‐implantitis. Hence, peri‐implant diseases occur in edentulous people and the importance of continuous professional supportive care should be emphasized in maintaining peri‐implant health (De Waal et al., <xref rid="jcpe13726-bib-0005" ref-type="bibr">2013</xref>). A paradox can be noted as very low mean bleeding scores and stable mean bone levels are found, whereas rather high numbers of peri‐implant mucositis and peri‐implantitis cases are calculated at both evaluation periods. This could be clarified by the fact that mean bleeding scores and mean bone‐level changes are presented at the implant level, whereas peri‐implant mucositis and peri‐implantitis have been presented at patient level. This means that bleeding and bone‐level change at one implant in a patient automatically results in a full score of peri‐implant mucositis or peri‐implantitis for that specific patient.</p>
+              <p>At the 5 and 10‐year follow‐up, patients from both treatment arms were very satisfied with their implant‐supported bar‐retained maxillary overdenture, in agreement with the findings by Sanna et al. (<xref rid="jcpe13726-bib-0027" ref-type="bibr">2009</xref>) regarding four‐implant overdentures after 10 years. Given the similarities in the position of the anteriorly placed implants and the use of bar retention on four implants, the study by Krennmair et al. (<xref rid="jcpe13726-bib-0014" ref-type="bibr">2008</xref>) is of interest. They reported that patients with a four‐implant overdenture showed a very high general satisfaction, measured using questionnaires, after 5 years. Apparently, a bar‐supported overdenture on four anteriorly placed implants provides enough stability in satisfied patients.</p>
+              <p>Four implants (in two patients) were lost in the six‐implant group. None of these patients needed new surgery because the overdenture functioned well on the remaining implants. Table <xref rid="jcpe13726-tbl-0005" ref-type="table">5</xref> reveals that there were only few complications that needed surgical intervention: in two patients, removal of hyperplasia was carried during the 10‐year follow‐up period. It must be acknowledged that technical complications do occur during a 10‐year follow‐up period. Analysis of the number of patients who are without any complications shows that this applies to 23% of the patients. Prosthetic complications included repair of the denture base and the need for replacement of teeth in few cases. In a study by Mangano et al. (<xref rid="jcpe13726-bib-0020" ref-type="bibr">2011</xref>), it was found that repair of the anchorage components connecting bar and overdenture was the most common complication. No clip repairs were recorded in this study. A cobalt chromium reinforcement structure with clips attached to it was integrated into the denture base, and apparently quite effective in minimizing prosthetic complications (Slot et al., <xref rid="jcpe13726-bib-0030" ref-type="bibr">2012</xref>). Moreover, between 5 and 10 years, more than 50% of the patients had new overdentures with also new bars in more 30% of the patients. Reasons for new overdentures were in all cases related to wear of the teeth and discoloration of acrylic components. Patients chose to have a new prosthesis instead of repair. It is advised to inform patients before treatment that after many years new costs could be expected due to technical complications.</p>
+              <p>A limitation of the 10‐year evaluation is the loss to follow‐up of a number of initial participants. From the initial power calculation, it was estimated that each treatment arm would require at least 21 patients to identify a potential statistically significant difference in marginal bone‐level change between the groups. Consequently, 25 patients per group had been included to allow for drop outs (Slot et al., <xref rid="jcpe13726-bib-0032" ref-type="bibr">2013</xref>). For reasons not related to the treatment outcome, 19 and 17 patients could be evaluated in the four‐ and six‐implant groups respectively, which impacted on the ability to detect potential marginal bone‐level changes after 10 years. In addition, external validity may be compromised by the fact that treatment was performed by experienced professionals and in carefully selected patients, which could imply that the obtained results may deviate from those that can be obtained in daily dental practice.</p>
+              <p>If four implants are a viable treatment option to retain a bar‐supported treatment option, it also seems worthwhile to explore the placement of three implants as described in the manuscript with 10 years of results and with different attachment systems of the authors Ma et al. (<xref rid="jcpe13726-bib-0019" ref-type="bibr">2016</xref>).</p>
+              <p>It can be concluded from this 10‐year follow‐up study that in edentulous patients with persistent maxillary denture complaints, similar, favourable outcomes are seen in bar‐supported maxillary overdentures on either four or six anteriorly placed implants.</p>
+            </sec>
+            <sec id="jcpe13726-sec-0019">
+              <title>FUNDING INFORMATION</title>
+              <p>Financial support for the initial 1‐year study was granted by Astra Tech AB, Mölndal, Sweden.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="jcpe13726-sec-0020">
+              <title>CONFLICT OF INTEREST</title>
+              <p>The authors declare no potential conflict of interest.</p>
+            </sec>
+          </body>
+          <back>
+            <sec sec-type="data-availability" id="jcpe13726-sec-0022">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available on request from the corresponding author. The data are not publicly available due to privacy or ethical restrictions.</p>
+            </sec>
+            <ref-list id="jcpe13726-bibl-0001" content-type="cited-references">
+              <title>REFERENCES</title>
+              <ref id="jcpe13726-bib-0001">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0001"><string-name><surname>Bergendal</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Engquist</surname>, <given-names>B.</given-names></string-name> (<year>1998</year>). <article-title>Implant‐supported overdentures: A longitudinal prospective study</article-title>. <source>The International Journal of Oral and Maxillofacial Implants</source>, <volume>13</volume>, <fpage>253</fpage>–<lpage>262</lpage>. <pub-id pub-id-type="doi">10.1111/joor.12241</pub-id>
+<pub-id pub-id-type="pmid">9581412</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0002">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0002"><string-name><surname>Bouhy</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Rompen</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Lamy</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Legros</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Lecloux</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Lambert</surname>, <given-names>F.</given-names></string-name> (<year>2020</year>). <article-title>Maxillary implant overdenture retained by four unsplinted attachments and opposed by a natural or fixed dentition: One‐year clinical outcomes</article-title>. <source>Clinical Oral Implants Research</source>, <volume>31</volume>, <fpage>747</fpage>–<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13623</pub-id>
+<pub-id pub-id-type="pmid">32497274</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0003">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0003"><string-name><surname>Boven</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2015</year>). <article-title>Improving masticatory performance, bite force, nutritional state and patient's satisfaction with implant overdentures: A systematic review of the literature</article-title>. <source>Journal of Oral Rehabilitation</source>, <volume>42</volume>, <fpage>220</fpage>–<lpage>233</lpage>. <pub-id pub-id-type="doi">10.1111/joor.12241</pub-id>
+<pub-id pub-id-type="pmid">25307515</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0004">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0004"><string-name><surname>Boven</surname>, <given-names>G. C.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name> (<year>2020</year>). <article-title>Maxillary implant overdentures retained by use of bars or locator attachments: 1‐year findings from a randomized controlled trial</article-title>. <source>Journal of Prosthodontic Research</source>, <volume>64</volume>, <fpage>26</fpage>–<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.jpor.2019.04.013</pub-id>
+<pub-id pub-id-type="pmid">31201036</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0005">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0005"><string-name><surname>De Waal</surname>, <given-names>Y. C. M.</given-names></string-name>, <string-name><surname>Van Winkelhoff</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, &amp; <string-name><surname>Winkel</surname>, <given-names>E. G.</given-names></string-name> (<year>2013</year>). <article-title>Differences in peri‐implant conditions between fully and partially edentulous subjects: A systematic review</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>40</volume>, <fpage>266</fpage>–<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12013</pub-id>
+<pub-id pub-id-type="pmid">23379540</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0006">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0006"><string-name><surname>Di Francesco</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>De Marco</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Capcha</surname>, <given-names>E. B.</given-names></string-name>, <string-name><surname>Lanza</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Cristache</surname>, <given-names>C. M.</given-names></string-name>, <string-name><surname>Vernal</surname>, <given-names>R.</given-names></string-name>, &amp; <string-name><surname>Cafferata</surname>, <given-names>E. A.</given-names></string-name> (<year>2021</year>). <article-title>Patient satisfaction and survival of maxillary overdentures supported by four or six splinted implants: A systematic review with meta‐analysis</article-title>. <source>BMC Oral Health</source>, <volume>21</volume>, <fpage>247</fpage>. <pub-id pub-id-type="doi">10.1186/s12903-021-01572-6</pub-id>
+<pub-id pub-id-type="pmid">33962612</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0007">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0007"><string-name><surname>Di Francesco</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>De Marco</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Sommella</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Lanza</surname>, <given-names>A.</given-names></string-name> (<year>2019</year>). <article-title>Splinting vs not splinting four implants supporting a maxillary overdenture: A systematic review</article-title>. <source>The International Journal of Prosthodontics</source>, <volume>32</volume>, <fpage>509</fpage>–<lpage>518</lpage>. <pub-id pub-id-type="doi">10.11607/ijp.6333</pub-id>
+<pub-id pub-id-type="pmid">31664267</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0008">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0008"><string-name><surname>Erdfelder</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Faul</surname>, <given-names>F.</given-names></string-name>, &amp; <string-name><surname>Buchner</surname>, <given-names>A.</given-names></string-name> (<year>1996</year>). <article-title>G*POWER: A general power analysis program</article-title>. <source>Behavior Research Methods, Instruments, &amp; Computers</source>, <volume>28</volume>, <fpage>1</fpage>–<lpage>11</lpage>.</mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0009">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0009"><string-name><surname>Esposito</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Hirsch</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Lekholm</surname>, <given-names>U.</given-names></string-name>, &amp; <string-name><surname>Thomsen</surname>, <given-names>P.</given-names></string-name> (<year>1998</year>). <article-title>Biological factors contributing to failures of osseointegrated oral implants. (I). Success criteria and epidemiology</article-title>. <source>European Journal of Oral Sciences</source>, <volume>106</volume>, <fpage>527</fpage>–<lpage>551</lpage>. <pub-id pub-id-type="doi">10.1046/j.0909-8836..t01-2-.x</pub-id>
+<pub-id pub-id-type="pmid">9527353</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0010">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0010"><string-name><surname>Ferrigno</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Laureti</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fanali</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Grippaudo</surname>, <given-names>G.</given-names></string-name> (<year>2002</year>). <article-title>A long‐term follow‐up study of non‐submerged ITI implants in the treatment of totally edentulous jaws. Part I: Ten‐year life table analysis of a prospective multicenter study with 1286 implants</article-title>. <source>Clinical Oral Implants Research</source>, <volume>13</volume>, <fpage>260</fpage>–<lpage>273</lpage>. <pub-id pub-id-type="doi">10.1034/j.1600-0501.2002.130305.x</pub-id>
+<pub-id pub-id-type="pmid">12010156</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0011">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0011"><string-name><surname>Fonteyne</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Burms</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Matthys</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Van Lierde</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>De Bruyn</surname>, <given-names>H.</given-names></string-name> (<year>2021</year>). <article-title>Four‐implant‐supported overdenture treatment in the maxilla. Part II: Speech‐ and oral health‐related quality of life in patients with implant‐supported overdentures in the maxilla‐a prospective 3‐year follow‐up</article-title>. <source>Clinical Implant Dentistry and Related Research</source>, <volume>23</volume>, <fpage>680</fpage>–<lpage>691</lpage>. <pub-id pub-id-type="doi">10.1111/cid.13034</pub-id>
+<pub-id pub-id-type="pmid">34378864</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0012">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0012"><string-name><surname>Kalk</surname>, <given-names>W. W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Jansma</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Boering</surname>, <given-names>G.</given-names></string-name> (<year>1996</year>). <article-title>Morbidity from iliac crest bone harvesting</article-title>. <source>Journal of Oral and Maxillofacial Surgery</source>, <volume>54</volume>, <fpage>1424</fpage>–<lpage>1429</lpage>. <pub-id pub-id-type="doi">10.1016/s0278-2391(96)90257-8</pub-id>
+<pub-id pub-id-type="pmid">8957121</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0013">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0013"><string-name><surname>Kappel</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Klotz</surname>, <given-names>A. L.</given-names></string-name>, <string-name><surname>Eberhard</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Lorenzo Bermejo</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Rammelsberg</surname>, <given-names>P.</given-names></string-name>, &amp; <string-name><surname>Giannakopoulos</surname>, <given-names>N. N.</given-names></string-name> (<year>2021</year>). <article-title>Maxillary implant overdentures on two or four implants. A prospective randomized cross‐over clinical trial of implant and denture success and survival</article-title>. <source>Clinical Oral Implants Research</source>, <volume>32</volume>, <fpage>1061</fpage>–<lpage>1071</lpage>. <pub-id pub-id-type="doi">10.1111/clr.13800</pub-id>
+<pub-id pub-id-type="pmid">34165835</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0014">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0014"><string-name><surname>Krennmair</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Krainhöfner</surname>, <given-names>M.</given-names></string-name>, &amp; <string-name><surname>Piehslinger</surname>, <given-names>E.</given-names></string-name> (<year>2008</year>). <article-title>Implant‐supported maxillary overdentures retained with milled bars: Maxillary anterior versus maxillary posterior concept. A retrospective study</article-title>. <source>The International Journal of Oral &amp; Maxillofacial Implants</source>, <volume>23</volume>, <fpage>343</fpage>–<lpage>352</lpage>.<pub-id pub-id-type="pmid">18548933</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0015">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0015"><string-name><surname>Lang</surname>, <given-names>N. P.</given-names></string-name>, <string-name><surname>Berglundh</surname>, <given-names>T.</given-names></string-name>, &amp; <collab collab-type="authors">Working Group 4 of the Seventh European Workshop on Periodontology</collab>
+. (<year>2011</year>). <article-title>Periimplant diseases: Where are we now?—Consensus of the Seventh European Workshop on Periodontology</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>38</volume>, <fpage>178</fpage>–<lpage>181</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2010.01674.x</pub-id>
+<pub-id pub-id-type="pmid">21323713</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0016">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0016"><string-name><surname>Leão</surname>, <given-names>R. S.</given-names></string-name>, <string-name><surname>Moraes</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Vasconcelos</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Lemos</surname>, <given-names>C.</given-names></string-name>, &amp; <string-name><surname>Pellizzer</surname>, <given-names>E. P.</given-names></string-name> (<year>2018</year>). <article-title>Splinted and unsplinted overdenture attachment systems: A systematic review and meta‐analysis</article-title>. <source>Journal of Oral Rehabilitation</source>, <volume>45</volume>, <fpage>647</fpage>–<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1111/joor.12651</pub-id>
+<pub-id pub-id-type="pmid">29761853</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0017">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0017"><string-name><surname>Lindhe</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Meyle</surname>, <given-names>J.</given-names></string-name> (<year>2008</year>). <article-title>Peri‐implant diseases: Consensus report of the sixth European workshop on periodontology</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>35</volume>(<issue>Suppl. 8</issue>), <fpage>282</fpage>–<lpage>285</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2008.01283.x</pub-id>
+<pub-id pub-id-type="pmid">18724855</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0018">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0018"><string-name><surname>Löe</surname>, <given-names>H.</given-names></string-name>, &amp; <string-name><surname>Silness</surname>, <given-names>J.</given-names></string-name> (<year>1963</year>). <article-title>Periodontal disease in pregnancy. II: Correlation between oral hygiene and periodontal condition</article-title>. <source>Acta Odontologica Scandinavica</source>, <volume>21</volume>, <fpage>533</fpage>–<lpage>551</lpage>. <pub-id pub-id-type="doi">10.3109/00016356408993968</pub-id>
+<pub-id pub-id-type="pmid">14121956</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0019">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0019"><string-name><surname>Ma</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Waddell</surname>, <given-names>J. N.</given-names></string-name>, <string-name><surname>Atieh</surname>, <given-names>M. A.</given-names></string-name>, <string-name><surname>Alsabeeha</surname>, <given-names>N. H.</given-names></string-name>, &amp; <string-name><surname>Payne</surname>, <given-names>A. G.</given-names></string-name> (<year>2016</year>). <article-title>Maxillary three‐implant overdentures opposing mandibular two‐implant overdentures: 10‐year prosthodontic outcomes</article-title>. <source>International Journal of Prosthodontics</source>, <volume>29</volume>, <fpage>327</fpage>–<lpage>336</lpage>. <pub-id pub-id-type="doi">10.11607/ijp.4631</pub-id>
+<pub-id pub-id-type="pmid">27479337</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0020">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0020"><string-name><surname>Mangano</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Mangano</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Shibli</surname>, <given-names>J. A.</given-names></string-name>, <string-name><surname>Ricci</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Sammons</surname>, <given-names>R. L.</given-names></string-name>, &amp; <string-name><surname>Figliuzzi</surname>, <given-names>M.</given-names></string-name> (<year>2011</year>). <article-title>Morse taper connection implants supporting “planned” maxillary and mandibular bar‐retained overdentures: A 5‐year prospective multicenter study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>22</volume>, <fpage>1117</fpage>–<lpage>1124</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2010.02079.x</pub-id>
+<pub-id pub-id-type="pmid">21251077</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0021">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0021"><string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>De Waal</surname>, <given-names>Y. C.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2014</year>). <article-title>Incidence of peri‐implant mucositis and peri‐implantitis in edentulous patients with an implant‐retained mandibular overdenture during a 10‐years' follow‐up period</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>41</volume>, <fpage>1178</fpage>–<lpage>1183</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12311</pub-id>
+<pub-id pub-id-type="pmid">25229397</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0022">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0022"><string-name><surname>Meijndert</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2004</year>). <article-title>A technique for standardized evaluation of soft and hard peri‐implant tissues in partially edentulous patients</article-title>. <source>Journal of Periodontology</source>, <volume>75</volume>, <fpage>646</fpage>–<lpage>651</lpage>. <pub-id pub-id-type="doi">10.1902/jop.2004.75.5.646</pub-id>
+<pub-id pub-id-type="pmid">15212345</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0023">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0023"><string-name><surname>Messias</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Nicolau</surname>, <given-names>P.</given-names></string-name>, &amp; <string-name><surname>Guerra</surname>, <given-names>F.</given-names></string-name> (<year>2021</year>). <article-title>Different interventions for rehabilitation of the edentulous maxilla with implant‐supported prostheses: An overview of systematic reviews</article-title>. <source>International Journal of Prosthodonics</source>, <volume>34</volume>, <fpage>63</fpage>–<lpage>84</lpage>. <pub-id pub-id-type="doi">10.11607/ijp.7162</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0024">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0024"><string-name><surname>Mombelli</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Van Oosten</surname>, <given-names>M. A. C.</given-names></string-name>, <string-name><surname>Schürch</surname>, <given-names>E.</given-names></string-name>, &amp; <string-name><surname>Lang</surname>, <given-names>N.</given-names></string-name> (<year>1987</year>). <article-title>The microbiota associated with successful or failing osseointegrated titanium implants</article-title>. <source>Oral Microbiology and Immunology</source>, <volume>2</volume>, <fpage>145</fpage>–<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1111/j.1399-302x.1987.tb00298.x</pub-id>
+<pub-id pub-id-type="pmid">3507627</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0025">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0025"><string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Slater</surname>, <given-names>J. J.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2014</year>). <article-title>A systematic review of implant‐supported overdentures in the edentulous maxilla, compared to the mandible: How many implants?</article-title>
+<source>European Journal of Oral Implantology</source>, <volume>7</volume>, <fpage>191</fpage>–<lpage>201</lpage>.</mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0026">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0026"><string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Schoen</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name>, <string-name><surname>Stellingsma</surname>, <given-names>K.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2003</year>). <article-title>Early loading of endosseous implants in the augmented maxilla: A 1‐year prospective study</article-title>. <source>Clinical Oral Implants Research</source>, <volume>14</volume>, <fpage>697</fpage>–<lpage>702</lpage>.<pub-id pub-id-type="pmid">15015944</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0027">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0027"><string-name><surname>Sanna</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Nuytens</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Naert</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Quirynen</surname>, <given-names>M.</given-names></string-name> (<year>2009</year>). <article-title>Successful outcome of splinted implants supporting a “planned” maxillary overdenture: A retrospective evaluation and comparison with fixed full dental prostheses</article-title>. <source>Clinical Oral Implants Research</source>, <volume>20</volume>, <fpage>406</fpage>–<lpage>413</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0501.2008.01664.x</pub-id>
+<pub-id pub-id-type="pmid">19298295</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0028">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0028"><string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I. L.</given-names></string-name>, &amp; <collab collab-type="authors">Working Group 4 of the VIII European Workshop on Periodontology</collab>
+. (<year>2012</year>). <article-title>Clinical research on peri‐implant diseases: Consensus report of Working Group 4</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>39</volume>(<issue>suppl. 12</issue>), <fpage>202</fpage>–<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2011.01837.x</pub-id>
+<pub-id pub-id-type="pmid">22533957</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0029">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0029"><string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Cune</surname>, <given-names>M. S.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2016</year>). <article-title>Maxillary overdentures supported by four or six implants in the anterior region. 5‐years results from a randomized controlled trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>43</volume>, <fpage>1180</fpage>–<lpage>1187</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12625</pub-id>
+<pub-id pub-id-type="pmid">27630092</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0030">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0030"><string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Van Dijk</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2012</year>). <article-title>Attachment of clips in a bar‐retained maxillary implant overdenture: A clinical report</article-title>. <source>Journal of Prosthetic Dentistry</source>, <volume>107</volume>, <fpage>353</fpage>–<lpage>357</lpage>. <pub-id pub-id-type="doi">10.1016/S0022-3913(12)60088-2</pub-id>
+<pub-id pub-id-type="pmid">22633590</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0031">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0031"><string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Huddleston Slater</surname>, <given-names>J. J.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name> (<year>2010</year>). <article-title>A systematic review of implant‐supported maxillary overdentures after a mean observation period of at least 1 year</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>37</volume>, <fpage>98</fpage>–<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2009.01493.x</pub-id>
+<pub-id pub-id-type="pmid">19995402</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0032">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0032"><string-name><surname>Slot</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2013</year>). <article-title>Maxillary overdentures supported by 4 or 6 implants in the anterior region; 1‐year results from a randomized controlled trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>40</volume>, <fpage>303</fpage>–<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12051</pub-id>
+<pub-id pub-id-type="pmid">23320877</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0033">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0033"><string-name><surname>Stellingsma</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Slagter</surname>, <given-names>A. P.</given-names></string-name>, <string-name><surname>Stegenga</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name> (<year>2005</year>). <article-title>Masticatory function in patients with an extremely resorbed mandible restored with mandibular implant‐retained overdentures: Comparison of three types of treatment protocols</article-title>. <source>Journal of Oral Rehabilitation</source>, <volume>32</volume>, <fpage>403</fpage>–<lpage>410</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2842.2005.01242.x</pub-id>
+<pub-id pub-id-type="pmid">15899018</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0034">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0034"><string-name><surname>Telleman</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Meijer</surname>, <given-names>H. J.</given-names></string-name> (<year>2013</year>). <article-title>Short implants with a nanometer‐sized CaP surface provided with either a platform‐switched or platform‐matched abutment connection in the posterior region: A randomized clinical trial</article-title>. <source>Clinical Oral Implants Research</source>, <volume>24</volume>, <fpage>1316</fpage>–<lpage>1324</lpage>. <pub-id pub-id-type="doi">10.1111/clr.12000</pub-id>
+<pub-id pub-id-type="pmid">22957911</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0035">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0035"><string-name><surname>Vervoorn</surname>, <given-names>J. M.</given-names></string-name>, <string-name><surname>Duinkerke</surname>, <given-names>A. S. H.</given-names></string-name>, <string-name><surname>Luteijn</surname>, <given-names>F.</given-names></string-name>, &amp; <string-name><surname>Van Der Poel</surname>, <given-names>A. C. M.</given-names></string-name> (<year>1988</year>). <article-title>Assessment of denture satisfaction</article-title>. <source>Community Dentistry and Oral Epidemiology</source>, <volume>16</volume>, <fpage>364</fpage>–<lpage>367</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0528.1988.tb00583.x</pub-id>
+<pub-id pub-id-type="pmid">3060310</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0036">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0036"><string-name><surname>Visser</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Raghoebar</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Meijer</surname>, <given-names>H. J. A.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2009</year>). <article-title>Implant‐retained maxillary overdentures on milled bar suprastructures: A 10‐year follow‐up of surgical and prosthetic care and aftercare</article-title>. <source>International Journal of Prosthodontics</source>, <volume>22</volume>, <fpage>181</fpage>–<lpage>192</lpage>.<pub-id pub-id-type="pmid">19418867</pub-id></mixed-citation>
+              </ref>
+              <ref id="jcpe13726-bib-0037">
+                <mixed-citation publication-type="journal" id="jcpe13726-cit-0037"><string-name><surname>Watson</surname>, <given-names>R. M.</given-names></string-name>, <string-name><surname>Jemt</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Chai</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Harnett</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Heath</surname>, <given-names>M. R.</given-names></string-name>, <string-name><surname>Hutton</surname>, <given-names>J. E.</given-names></string-name>, <string-name><surname>Johns</surname>, <given-names>R. B.</given-names></string-name>, <string-name><surname>Lithner</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>McKenna</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>McNamara</surname>, <given-names>D. C.</given-names></string-name>, <string-name><surname>Naert</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Taylor</surname>, <given-names>R.</given-names></string-name> (<year>1997</year>). <article-title>Prosthodontic treatment, patient response, and the need for maintenance of complete implant‐supported overdentures: An appraisal of 5 years of prospective study</article-title>. <source>International Journal of Prosthodontics</source>, <volume>10</volume>, <fpage>345</fpage>–<lpage>354</lpage>.<pub-id pub-id-type="pmid">9484045</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

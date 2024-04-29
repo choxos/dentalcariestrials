@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:39:26Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10946499" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10946499</identifier>
+        <datestamp>2024-03-19</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="jcpe13756" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="iso-abbrev">J Clin Periodontol</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1600-051X</journal-id>
+              <journal-id journal-id-type="publisher-id">JCPE</journal-id>
+              <journal-title-group>
+                <journal-title>Journal of Clinical Periodontology</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">0303-6979</issn>
+              <issn pub-type="epub">1600-051X</issn>
+              <publisher>
+                <publisher-name>Blackwell Publishing Ltd</publisher-name>
+                <publisher-loc>Oxford, UK</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10946499</article-id>
+              <article-id pub-id-type="pmcid">PMC10946499</article-id>
+              <article-id pub-id-type="pmc-uid">10946499</article-id>
+              <article-id pub-id-type="pmid">36415901</article-id>
+              <article-id pub-id-type="pmid">36415901</article-id>
+              <article-id pub-id-type="doi">10.1111/jcpe.13756</article-id>
+              <article-id pub-id-type="publisher-id">JCPE13756</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Therapy</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Outcomes of periodontal therapy in rheumatoid arthritis: The <styled-content style="fixed-case" toggle="no">OPERA</styled-content> feasibility randomized trial</article-title>
+                <alt-title alt-title-type="left-running-head"><styled-content style="fixed-case" toggle="no">de</styled-content> Pablo et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="jcpe13756-cr-0001" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>de Pablo</surname>
+                    <given-names>Paola</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2859-7147</contrib-id>
+                  <xref rid="jcpe13756-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                  <address>
+                    <email>p.depablo@bham.ac.uk</email>
+                  </address>
+                </contrib>
+                <contrib id="jcpe13756-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Serban</surname>
+                    <given-names>Stefan</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7911-688X</contrib-id>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Lopez‐Oliva</surname>
+                    <given-names>Isabel</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0965-8768</contrib-id>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0006" ref-type="aff">
+                    <sup>6</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Rooney</surname>
+                    <given-names>Joanna</given-names>
+                  </name>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0005" contrib-type="author">
+                  <name>
+                    <surname>Hill</surname>
+                    <given-names>Kirsty</given-names>
+                  </name>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>Raza</surname>
+                    <given-names>Karim</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1570-1232</contrib-id>
+                  <xref rid="jcpe13756-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0007" contrib-type="author">
+                  <name>
+                    <surname>Filer</surname>
+                    <given-names>Andrew</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8164-6249</contrib-id>
+                  <xref rid="jcpe13756-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                  <xref rid="jcpe13756-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0008" contrib-type="author">
+                  <name>
+                    <surname>Chapple</surname>
+                    <given-names>Iain</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2697-7082</contrib-id>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+                <contrib id="jcpe13756-cr-0009" contrib-type="author">
+                  <name>
+                    <surname>Dietrich</surname>
+                    <given-names>Thomas</given-names>
+                  </name>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2557-7645</contrib-id>
+                  <xref rid="jcpe13756-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="jcpe13756-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Rheumatology Research Group</named-content>
+                <institution>Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham</institution>
+                <city>Birmingham</city>
+                <country country="GB">UK</country>
+              </aff>
+              <aff id="jcpe13756-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Rheumatology</named-content>
+                <institution>Sandwell &amp; West Birmingham NHS Trust</institution>
+                <city>Birmingham</city>
+                <country country="GB">UK</country>
+              </aff>
+              <aff id="jcpe13756-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Rheumatology</named-content>
+                <institution>University Hospital Birmingham NHS Foundation Trust</institution>
+                <city>Birmingham</city>
+                <country country="GB">UK</country>
+              </aff>
+              <aff id="jcpe13756-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <institution>Periodontal Research Group, School of Dentistry, Institute of Clinical Sciences, University of Birmingham, and Birmingham Dental Hospital (Birmingham Community Healthcare Trust)</institution>
+                <city>Birmingham</city>
+                <country country="GB">UK</country>
+              </aff>
+              <aff id="jcpe13756-aff-0005">
+                <label>
+                  <sup>5</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Dental Public Health</named-content>
+                <institution>School of Dentistry, University of Leeds</institution>
+                <city>Leeds</city>
+                <country country="GB">UK</country>
+              </aff>
+              <aff id="jcpe13756-aff-0006">
+                <label>
+                  <sup>6</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Periodontology</named-content>
+                <institution>Institute of Dentistry, Barts and The London School of Medicine and Dentistry, Queen Mary University of London</institution>
+                <city>London</city>
+                <country country="GB">UK</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Paola de Pablo, Institute of Inflammation and Ageing, University of Birmingham, University of Birmingham Research Laboratories, Queen Elizabeth Hospital, Birmingham B15 2TT, UK.<break/>
+Email: <email>p.depablo@bham.ac.uk</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>16</day>
+                <month>12</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>3</month>
+                <year>2023</year>
+              </pub-date>
+              <volume>50</volume>
+              <issue seq="40">3</issue>
+              <issue-id pub-id-type="doi">10.1111/jcpe.v50.3</issue-id>
+              <fpage>295</fpage>
+              <lpage>306</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>01</day>
+                  <month>11</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>28</day>
+                  <month>6</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>20</day>
+                  <month>11</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--Copyright &#x000a9; 2023 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Journal of Clinical Periodontology</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:JCPE-50-295.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="jcpe13756-sec-0001">
+                  <title>Aim</title>
+                  <p>Periodontitis is independently associated with rheumatoid arthritis (RA); however, there is limited data on whether periodontal treatment improves overall RA disease activity. We conducted a pilot feasibility randomized controlled clinical trial to test whether intensive periodontal therapy reduces RA disease activity in patients with active RA and periodontitis.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0002">
+                  <title>Materials and Methods</title>
+                  <p>The following inclusion criteria were applied: patients with RA and periodontitis, aged 18+, stable on treatment with disease‐modifying anti‐rheumatic drugs for ≥3 months, disease activity score (DAS28) ≥3.2, and DAS28 &gt;5.1 only if patient unwilling to take biologics. Participants meeting the inclusion criteria were randomized to immediate intensive periodontal therapy or to delayed therapy (control group) administered by a dental hygienist in a secondary care setting. Data were collected at baseline and at 3 and 6 months of follow‐up. Participants randomized to the control group (delayed therapy) received the standard of care for the duration of the trial, including oral hygiene instructions delivered by a dental hygienist, and the same periodontal therapy as the intervention group after study completion (i.e., 6 months after randomization). The periodontal inflammation surface area was calculated using clinical attachment loss (CAL), periodontal probing pocket depth, and bleeding on probing. Cumulative probing depth was also measured. We examined the effect of periodontal therapy on periodontal outcomes and on clinical markers of disease activity in RA, as measured by the DAS28‐C‐reactive protein score as well as musculo‐skeletal ultrasound grey scale and power Doppler scores.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0003">
+                  <title>Results</title>
+                  <p>A total of 649 patients with RA were invited to participate in the study. Of these, 296 (46%) consented to participate in the screening visit. A sample of 201 patients was assessed for eligibility, of whom 41 (20%) did not meet the RA inclusion criteria and 100 (50%) did not meet the periodontal disease criteria. Among the 60 (30%) eligible participants, 30 were randomized to immediate periodontal therapy and 30 were allocated to the control group. The loss to follow‐up was 18% at the end of the trial. There were no major differences with regard to baseline characteristics between the groups. Periodontal therapy was associated with reduced periodontal inflamed surface area, cumulative probing depths, RA disease activity scores, and ultrasound scores over the course of the trial. There was no change in CAL.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0004">
+                  <title>Conclusions</title>
+                  <p>Overall, the trial was feasible and acceptable to the study participants. Recruitment to and satisfactory retention in a randomized controlled trial on the effect of periodontal treatment on RA patients is possible, albeit challenging. In this feasibility study of patients with RA and periodontitis, periodontal treatment resulted in significant improvements in periodontal disease outcomes and overall RA disease activity, although complete resolution of periodontal inflammation was difficult to achieve in some cases.</p>
+                </sec>
+              </abstract>
+              <kwd-group kwd-group-type="author-generated">
+                <kwd id="jcpe13756-kwd-0001">clinical trial</kwd>
+                <kwd id="jcpe13756-kwd-0002">epidemiology</kwd>
+                <kwd id="jcpe13756-kwd-0003">general health</kwd>
+                <kwd id="jcpe13756-kwd-0004">periodontal diseases</kwd>
+                <kwd id="jcpe13756-kwd-0005">therapy</kwd>
+              </kwd-group>
+              <funding-group>
+                <award-group id="funding-0001">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>National Institute for Health Research
+</institution>
+                      <institution-id institution-id-type="doi">10.13039/501100000272</institution-id>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>NIHR PDF‐2014‐07‐055</award-id>
+                  <award-id>PB‐PG‐0609‐19100</award-id>
+                </award-group>
+                <award-group id="funding-0002">
+                  <funding-source>European Union FP7‐PEOPLE</funding-source>
+                </award-group>
+                <award-group id="funding-0003">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>Arthritis Research UK
+</institution>
+                      <institution-id institution-id-type="doi">10.13039/501100000341</institution-id>
+                    </institution-wrap>
+                  </funding-source>
+                </award-group>
+                <award-group id="funding-0004">
+                  <funding-source>
+                    <institution-wrap>
+                      <institution>NIHR Birmingham Biomedical Research Centre at the University Hospitals Birmingham (UHB) NHS Foundation Trust and the University of Birmingham
+</institution>
+                      <institution-id institution-id-type="doi">10.13039/100016015</institution-id>
+                    </institution-wrap>
+                  </funding-source>
+                  <award-id>BRC‐1215‐20009</award-id>
+                </award-group>
+                <award-group id="funding-0005">
+                  <funding-source>Versus Arthritis Research into Inflammatory Arthritis Centre (RACE) Rheumatoid Arthritis Pathogenesis Centre of Excellence</funding-source>
+                  <award-id>20298</award-id>
+                </award-group>
+              </funding-group>
+              <counts>
+                <fig-count count="5"/>
+                <table-count count="1"/>
+                <page-count count="12"/>
+                <word-count count="7177"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>March 2023</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.9 mode:remove_FC converted:18.03.2024</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-9001"><string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Serban</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Lopez‐Oliva</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Rooney</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Hill</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Raza</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Filer</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name> (<year>2023</year>). <article-title>Outcomes of periodontal therapy in rheumatoid arthritis: The <styled-content style="fixed-case" toggle="no">OPERA</styled-content> feasibility randomized trial</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>50</volume>(<issue>3</issue>), <fpage>295</fpage>–<lpage>306</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.13756</pub-id>
+<pub-id pub-id-type="pmid">36415901</pub-id>
+</mixed-citation>
+              </p>
+              <fn-group>
+                <fn id="jcpe13756-note-1002">
+                  <p><bold>Funding information</bold> National Institute for Health Research, Grant/Award Numbers: NIHR PDF‐2014‐07‐055, PB‐PG‐0609‐19100; European Union FP7‐PEOPLE; Arthritis Research UK; NIHR Birmingham Biomedical Research Centre at the University Hospitals Birmingham (UHB) NHS Foundation Trust and the University of Birmingham, Grant/Award Number: BRC‐1215‐20009; Versus Arthritis Research into Inflammatory Arthritis Centre (RACE) Rheumatoid Arthritis Pathogenesis Centre of Excellence, Grant/Award Number: 20298</p>
+                </fn>
+              </fn-group>
+            </notes>
+          </front>
+          <body id="jcpe13756-body-0001">
+            <p>
+              <boxed-text position="anchor" content-type="box" id="jcpe13756-blkfxd-0001">
+                <caption>
+                  <title>Clinical Relevance</title>
+                </caption>
+                <p><italic toggle="yes">Scientific Rationale for Study</italic>: There are limited data on whether periodontal treatment improves RA disease activity. We conducted a feasibility randomised controlled trial (RCT) testing whether intensive periodontal therapy reduces disease activity in patients with active RA and periodontitis.</p>
+                <p><italic toggle="yes">Principal Findings</italic>: We successfully recruited and randomised patients with RA and periodontitis, with retention rates &gt;80% over the trial. Complete resolution of periodontal inflammation was difficult to achieve in some cases.</p>
+                <p><italic toggle="yes">Practical Implications</italic>: Recruitment and retention into a RCT on the effect of periodontal therapy on RA patients is possible. Apparent improvements in RA outcomes in this feasibility study suggest that a definitive trial is worthwhile.</p>
+              </boxed-text>
+            </p>
+            <sec id="jcpe13756-sec-0007">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>Rheumatoid arthritis (RA) is a common, chronic, immune‐mediated, inflammatory disease characterized by inflammation in the joints, ultimately leading to joint destruction and consequently functional impairment and disability (Smolen et al., <xref rid="jcpe13756-bib-0027" ref-type="bibr">2016</xref>). In addition, patients with RA are more likely to develop cardiovascular diseases such as heart disease and stroke and are therefore at an increased risk of premature death. Several studies indicate that periodontitis (Hajishengallis, <xref rid="jcpe13756-bib-0011" ref-type="bibr">2015</xref>), a common inflammatory disease of the gums surrounding the teeth and triggered by bacteria in the mouth, is associated with RA and can initiate and worsen inflammation in RA (de Pablo et al., <xref rid="jcpe13756-bib-0007" ref-type="bibr">2008</xref>; Lundberg et al., <xref rid="jcpe13756-bib-0020" ref-type="bibr">2008</xref>; de Pablo et al., <xref rid="jcpe13756-bib-0005" ref-type="bibr">2009</xref>; Chen et al., <xref rid="jcpe13756-bib-0004" ref-type="bibr">2013</xref>; de Pablo et al., <xref rid="jcpe13756-bib-0006" ref-type="bibr">2014</xref>; Mikuls et al., <xref rid="jcpe13756-bib-0021" ref-type="bibr">2014</xref>; Johansson et al., <xref rid="jcpe13756-bib-0014" ref-type="bibr">2016</xref>; Kharlamova et al., <xref rid="jcpe13756-bib-0015" ref-type="bibr">2016</xref>; Kindstedt et al., <xref rid="jcpe13756-bib-0016" ref-type="bibr">2018</xref>; Lopez‐Oliva et al., <xref rid="jcpe13756-bib-0019" ref-type="bibr">2018</xref>; Lopez‐Oliva et al., <xref rid="jcpe13756-bib-0017" ref-type="bibr">2019a</xref>, <xref rid="jcpe13756-bib-0018" ref-type="bibr">2019b</xref>; Gomez‐Banuelos et al., <xref rid="jcpe13756-bib-0010" ref-type="bibr">2020</xref>; Albrecht et al., <xref rid="jcpe13756-bib-0001" ref-type="bibr">2021</xref>; Hajishengallis &amp; Chavakis, <xref rid="jcpe13756-bib-0012" ref-type="bibr">2021</xref>). A limited number of small clinical studies in patients with RA have indicated that periodontal therapy aimed at reducing periodontal inflammation and the associated microbial burden can reduce systemic inflammation in patients with RA (summarized in Sun et al., <xref rid="jcpe13756-bib-0028" ref-type="bibr">2021</xref>). If effective, periodontal therapy in RA patients who also suffer from chronic periodontitis would constitute a non‐pharmacological therapy for RA patients, which could be added to existing disease‐modifying anti‐rheumatic drug (DMARD) therapy. However, there is no data from pivotal randomized clinical trials (RCTs) on whether periodontal treatment improves overall RA disease activity. We conducted a pilot feasibility randomized trial with parallel arms to evaluate the efficacy of intensive periodontal therapy in reducing RA disease activity in patients with RA and periodontitis. The main objective of this study was to assess the feasibility of the proposed study protocol, patient recruitment, and retention to gauge the acceptability of the intervention and study procedures to patients and to gather pilot data on the effect size and variability of the effect of the intervention.</p>
+            </sec>
+            <sec id="jcpe13756-sec-0008">
+              <label>2</label>
+              <title>PATIENTS AND METHODS</title>
+              <sec id="jcpe13756-sec-0009">
+                <label>2.1</label>
+                <title>Study sample</title>
+                <p>We recruited adults with RA according to established classification criteria for RA (Arnett et al., <xref rid="jcpe13756-bib-0003" ref-type="bibr">1988</xref>; Aletaha et al., <xref rid="jcpe13756-bib-0002" ref-type="bibr">2010</xref>) from outpatient rheumatology clinics in Birmingham (i.e. University Hospital Birmingham [UHB] and Heart of England [HEFT] NHS Foundation Trusts, and Sandwell &amp; West Birmingham [SWB] NHS Trust). Following written informed consent, patients were invited to participate in a separate screening visit at the Birmingham Dental Hospital (BDH) to assess the following eligibility criteria for the trial:</p>
+                <sec id="jcpe13756-sec-0010">
+                  <label>2.1.1</label>
+                  <title>Inclusion criteria</title>
+                  <p>Adults (18+ years) with RA on stable treatment with DMARDs for ≥3 months and with a disease activity score (DAS28) ≥3.2 or a DAS28 score &gt;5.1 only if unwilling to take biologics, and meeting criteria for generalized Stage II–IV periodontitis, defined as clinical attachment loss (CAL) ≥4 mm on at least two non‐adjacent teeth and cumulative probing depth ≥40 mm (Dietrich et al., <xref rid="jcpe13756-bib-0008" ref-type="bibr">2008</xref>; Papapanou et al., <xref rid="jcpe13756-bib-0023" ref-type="bibr">2018</xref>).</p>
+                </sec>
+                <sec id="jcpe13756-sec-0011">
+                  <label>2.1.2</label>
+                  <title>Exclusion criteria</title>
+                  <p>Patients were excluded if they had a history of any of the following:<list list-type="bullet" id="jcpe13756-list-0001"><list-item id="jcpe13756-li-0001"><p>Inflammatory rheumatic disease other than RA</p></list-item><list-item id="jcpe13756-li-0002"><p>Any surgical procedure within 3 months prior to baseline</p></list-item><list-item id="jcpe13756-li-0003"><p>Intra‐articular or parenteral glucocorticoids within 4 weeks prior to baseline</p></list-item><list-item id="jcpe13756-li-0004"><p>Periodontal treatment within 12 months prior to baseline</p></list-item><list-item id="jcpe13756-li-0005"><p>Significant concomitant disease, which would preclude study participation in the investigators' opinion</p></list-item><list-item id="jcpe13756-li-0006"><p>Any dental condition that would preclude study participation in the investigators' opinion</p></list-item></list>
+</p>
+                </sec>
+              </sec>
+              <sec id="jcpe13756-sec-0012">
+                <label>2.2</label>
+                <title>Study implementation</title>
+                <sec id="jcpe13756-sec-0013">
+                  <label>2.2.1</label>
+                  <title>Randomization</title>
+                  <p>Study participants were randomized to either immediate intensive periodontal therapy and maintenance administered by a dental hygienist in a secondary care setting (intervention group), or delayed treatment (control group). We used stratified randomization based on age, sex, and anti‐citrullinated protein auto‐antibodies (ACPA) status. Telephone randomization implemented by the Birmingham Clinical Trials Unit (BCTU) determined the treatment group allocation.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0014">
+                  <label>2.2.2</label>
+                  <title>Intervention group</title>
+                  <p>A research‐trained dental hygienist (J.R.), blinded to RA disease activity measures and ultrasound findings, carried out all the intervention and education sessions at BDH. The study hygienist was a very experienced clinician, with many years of experience in performing non‐surgical periodontal therapy routinely. The intervention consisted of non‐surgical periodontal therapy consisting of sub‐gingival professional mechanical plaque removal (PMPR), which was performed under local anaesthesia using ultrasonic scalers and hand instruments, in addition to coaching in oral hygiene. The dental hygienist completed the intervention in 2–3 sessions. All sites with probing depth (PD) ≥4 mm and bleeding on probing (BOP) at the 3‐ or 6‐months follow‐up visits were re‐instrumented.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0015">
+                  <label>2.2.3</label>
+                  <title>Control group (delayed periodontal therapy)</title>
+                  <p>Patients in the control group received an oral hygiene education session administered by the study dental hygienist at baseline. Patients were reviewed at 3 months and rescue treatment was planned for sites exhibiting CAL of more than 2 mm since baseline. After study completion at 6 months, patients received periodontal therapy outside the trial.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0016">
+                  <label>2.2.4</label>
+                  <title>RA management</title>
+                  <p>The treatment of RA was in line with the national clinical recommendations at the time of the study. We added the periodontal treatment to the existing background treatment in participants randomized to the intervention arm. RA treatment modifications were permitted by each participant's GP or rheumatologist.</p>
+                </sec>
+              </sec>
+              <sec id="jcpe13756-sec-0017">
+                <label>2.3</label>
+                <title>Data collection</title>
+                <p>We collected data on clinical markers of disease activity in RA, including ultrasound grey scale (USGS) and power Doppler scores, at baseline and at 3 and 6 months of follow‐up.</p>
+                <sec id="jcpe13756-sec-0018">
+                  <label>2.3.1</label>
+                  <title><styled-content style="fixed-case" toggle="no">RA</styled-content> disease activity</title>
+                  <p>The same clinical examiner who was trained and calibrated by a rheumatologist (P.d.P.) and was blinded to periodontal treatment allocation collected disease activity measures, including tender joint count (TJC), swollen joint count (SJC), patient global visual analogue scale (VAS), and inflammation biomarkers (erythrocyte sedimentation rate [ESR] and C‐reactive protein [CRP]) to compute the disease activity score based on 28 joints (DAS28) (Prevoo et al., <xref rid="jcpe13756-bib-0024" ref-type="bibr">1995</xref>). We report the results for DAS28‐CRP.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0019">
+                  <label>2.3.2</label>
+                  <title>Musculoskeletal ultrasound</title>
+                  <p>We obtained USGS and power Doppler scores from metacarpo‐phalangeal (MCP) joints 1–5 and dorsal wrists (worst case grading of radio‐carpal, inter‐carpal, or ulnar‐carpal recesses) on both sides. Musculoskeletal ultrasound (MSUS) scans were performed prior to the dental examination by the same examiner (S.S.) who was trained and calibrated by a musculo‐skeletal ultrasonographer (A.F.) and was blinded to periodontal treatment allocation. The presence of USGS synovial hypertrophy and ultrasound power Doppler (USPD) enhancement were graded on a 0–3 scale, as previously described (Filer et al., <xref rid="jcpe13756-bib-0009" ref-type="bibr">2011</xref>).</p>
+                </sec>
+                <sec id="jcpe13756-sec-0020">
+                  <label>2.3.3</label>
+                  <title>Periodontal measures</title>
+                  <p>All clinical periodontal assessments were carried out by the same dental surgeon throughout the study (ILO). For inclusion, volunteers needed to exhibit CAL ≥4 mm on at least two non‐adjacent teeth and cumulative PD ≥40 mm. For participants enrolled in the trial, periodontal examination was implemented at each study visit to monitor the periodontal response to therapy and to collect measures routinely used in practice including plaque and gingival indices, full‐mouth probing for periodontal probing depth (PPD), BOP, and CAL at six sites per tooth. We calculated the periodontal inflamed surface area (PISA) using CAL, PPD, and BOP. PISA is the surface area of the bleeding pocket epithelium in square millimetres, that is, it is a quantitative measure of the amount of inflamed periodontal tissue accounting for pocket probing depths (PPD) and number and size of affected teeth (Nesse et al., <xref rid="jcpe13756-bib-0022" ref-type="bibr">2008</xref>).</p>
+                </sec>
+                <sec id="jcpe13756-sec-0021">
+                  <label>2.3.4</label>
+                  <title>Biological measurements</title>
+                  <p>We obtained non‐fasting blood samples at every study visit and measured the ESR levels locally and CRP levels at a central laboratory. We also collected oral samples, including sub‐gingival dental plaque, gingival crevicular fluid, and saliva (Lopez‐Oliva et al., <xref rid="jcpe13756-bib-0019" ref-type="bibr">2018</xref>).</p>
+                </sec>
+                <sec id="jcpe13756-sec-0022">
+                  <label>2.3.5</label>
+                  <title>Sample size and statistical methods</title>
+                  <p>The targeted sample size was 60 randomized participants. This feasibility study also needed to establish that the periodontal treatment as delivered in this study achieved a minimum standard in terms of periodontal healing (PPD reduction at 3 and 6 months). A priori, we specified a standardized effect size of 1 for reduction of the mean PD as a reasonable minimum threshold criterion. The feasibility study had &gt;90% power to detect such an effect size, even allowing for 20% loss to follow‐up.</p>
+                  <p>Our primary aims were to assess the feasibility of an RCT of the efficacy of intensive periodontal therapy to reduce RA disease activity in patients with RA, to assess patient recruitment and retention, to gauge the acceptability of the intervention and study procedures to patients, and to gather pilot data on the effect size and variability of the effect of the intervention.</p>
+                  <p>We used descriptive statistics to establish the proportion of patients with RA who were willing to participate in the study and who satisfied the inclusion criteria.</p>
+                  <p>We used qualitative methods to gauge the acceptability of the study procedures and intervention as well as reasons for non‐participation (reported in Serban et al., <xref rid="jcpe13756-bib-0026" ref-type="bibr">2019</xref>).</p>
+                  <p>For randomized patients, we a priori specified a target minimum retention rate of 80% at 6 months.</p>
+                  <p>Our secondary objective was to collect pilot data regarding the efficacy and safety of subgingival PMPR to reduce periodontal parameters and disease activity for patients with RA and periodontitis. No adjunctive antimicrobials were employed by design. We calculated summary statistics as appropriate. Descriptive results are reported as mean (SD), unless otherwise stated.</p>
+                </sec>
+                <sec id="jcpe13756-sec-0023">
+                  <label>2.3.6</label>
+                  <title>Study oversight</title>
+                  <p>The OPERA trial protocol was approved by the National Research Ethics Service (NRES) Committee West Midlands—South Birmingham Research Ethics Committees (REC Number 11/WM/0235, protocol number RG_10‐138) and registered via the Integrated Research Application System (IRAS). All study participants provided written informed consent.</p>
+                  <p>The clinical trial was funded by the National Institute for Health Research (NIHR) Research for Patient Benefit (RfPB) programme (Reference number PB‐PG‐0609‐19100) and registered at the ISRCTN Register (registration number ISRCTN52833273; <ext-link xlink:href="http://www.controlled-trials.com" ext-link-type="uri">www.controlled-trials.com</ext-link>).</p>
+                </sec>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="jcpe13756-sec-0024">
+              <label>3</label>
+              <title>RESULTS</title>
+              <sec id="jcpe13756-sec-0025">
+                <label>3.1</label>
+                <title>Recruitment and retention</title>
+                <p>A total of 649 patients with RA were invited to participate in the study between January 2014 and December 2016. Of these, 353 (54%) declined the invitation for a variety of reasons, including unwillingness to participate in trials (33%), other health priorities and comorbidities (24%), complete tooth loss (11%), self‐reported good dental health (4%), phobia of dentists (1%), lack of time due to work commitments (2.6%), language barriers (2.3%), and other undisclosed reasons (22%).</p>
+                <p>A total of 296 RA patients consented to participate in the screening visit at the dental hospital, of whom 95 (32%) did not attend. We assessed 201 individuals for eligibility. Of these, 41 (20%) did not meet the RA inclusion criteria and 100 (50%) did not meet the periodontal disease criteria. A total of 60 out of 201 (30%) participants met the eligibility criteria and were randomized to the intervention group (immediate periodontal treatment) or the control group (delayed periodontal treatment). The CONSORT (Schulz, Altman, Moher, &amp; CONSORT Group, <xref rid="jcpe13756-bib-0025" ref-type="bibr">2010</xref>) trial flow diagram is presented in Figure <xref rid="jcpe13756-fig-0001" ref-type="fig">1</xref>.</p>
+                <fig position="float" fig-type="FIGURE" id="jcpe13756-fig-0001">
+                  <label>FIGURE 1</label>
+                  <caption>
+                    <p>OPERA trial flow diagram. *A total of 353 (54%) patients with rheumatoid arthritis (RA) declined the invitation to participate in the study for a variety of reasons, including unwillingness to participate in trials (33%), other health priorities and comorbidities (24%), complete tooth loss (11%), self‐reported good dental health (4%), phobia of dentists (1%), lack of time due to work commitments (2.6%), language barriers (2.3%), and for undisclosed reasons (22%). PD, periodontal disease.</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-50-295-g004" position="anchor" id="jats-graphic-1"/>
+                </fig>
+                <p>Of the total number of patients with RA initially approached, 31% attended the screening visit and 9.2% met the eligibility criteria. Study participants frequently cancelled or re‐booked appointments throughout the trial, making it difficult to adhere to a strict timeline for follow‐up visits. The overall loss to follow‐up was 18% at the end of the trial. There were more losses in the intervention group than in the control group at the 6‐month visit (23% vs. 13%, respectively).</p>
+              </sec>
+              <sec id="jcpe13756-sec-0026">
+                <label>3.2</label>
+                <title>Periodontal status</title>
+                <p>Overall, periodontal health characteristics at baseline were well balanced between the groups (Table <xref rid="jcpe13756-tbl-0001" ref-type="table">1</xref>). The number of sites with PPD ≥6 mm and PISA was slightly higher in the control group.</p>
+                <table-wrap position="float" id="jcpe13756-tbl-0001" content-type="TABLE">
+                  <label>TABLE 1</label>
+                  <caption>
+                    <p>Baseline characteristics</p>
+                  </caption>
+                  <table frame="hsides" rules="cols">
+                    <col align="left" span="1"/>
+                    <col align="char" char=" (" span="1"/>
+                    <col align="char" char=" (" span="1"/>
+                    <thead valign="bottom">
+                      <tr style="border-bottom:solid 1px #000000">
+                        <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Intervention group (immediate treatment)</th>
+                        <th align="left" valign="bottom" rowspan="1" colspan="1">Control group (delayed treatment)</th>
+                      </tr>
+                    </thead>
+                    <tbody valign="top">
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">
+                          <italic toggle="yes">n</italic>
+                        </td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">30</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">30</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Age, years</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">59</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">57</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Female subjects, %</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">67</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">83</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">Race, %</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">White</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">69</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">57</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">South‐Asian</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">19</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">33</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Afro‐Caribbean</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">10</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Other</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">6</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">0</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">Smoking, %</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Never smoker</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">37</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">54</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Former smoker</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">37</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">23</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Current smoker</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">26</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">23</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">No. of cigarettes, median (IQR)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">10 (6–12)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">15 (10–30)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">BMI, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">31 (8)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">29 (7)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Systolic BP, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">142 (21)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">135 (23)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">Diastolic BP, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">87 (15)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">85 (13)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">Oral health characteristics</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Number of teeth, median (IQR)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">22 (15–25)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">25 (20–26)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cumulative probing depth, median (IQR)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">64 (44–80)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">64 (56–90)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mean probing depth (mm), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">3.4 (0.7)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">2.6 (0.6)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Bleeding on probing, %</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">30 (22)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">17 (18)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Sites with PPD ≥6 mm, median (IQR)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">5.1 (1, 8)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">7 (1–9)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Periodontal inflamed surface (mm<sup>2</sup>), median (IQR)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">374 (180–745)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">390 (203–720)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">RA disease activity characteristics</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">CRP (mg/l), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">3.75 (0.71–8.82)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">3.73 (0.66–11)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">ESR (mm/h), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">18 (14)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">26 (18)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Tender joint count (0–28), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">12 (8)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">13 (8)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Swollen joint count (0–28), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">2 (2.8)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">3 (3.6)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Patient's global assessment (0–100), mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">56 (23)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">65 (18)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">DAS28, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">4.98 (1.17)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">5.32 (0.99)</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">Ultrasound global scores, mean (SD)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ultrasound grey scale score, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">10 (6.8)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">12.1 (9.7)</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Ultrasound power Doppler, mean (SD)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">5.2 (5.6)</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">7.2 (8.4)</td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" rowspan="1" colspan="1">ACPA positive, %</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">76</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">89</td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" align="left" valign="top" rowspan="1">Medications, %</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">DMARDs</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">37</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">57</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Biologics</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">33</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">33</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">NSAIDs</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">10</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">20</td>
+                      </tr>
+                      <tr>
+                        <td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Steroids</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">20</td>
+                        <td align="char" valign="top" rowspan="1" colspan="1">33</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table-wrap-foot id="jcpe13756-ntgp-0001">
+                    <fn id="jcpe13756-note-0001">
+                      <p>Abbreviations: ACPA, anti‐cyclic citrullinated peptide antibodies; BMI, body mass index; CRP, C‐reactive protein; DAS28, 28‐joint disease activity score (calculated using ESR); DMARDs, disease‐modifying anti‐rheumatic drugs; ESR, erythrocyte sedimentation rate; IQR, inter‐quartile range; NSAIDs, non‐steroidal anti‐inflammatory drugs; RA, rheumatoid arthritis; SD, standard deviation.</p>
+                    </fn>
+                  </table-wrap-foot>
+                </table-wrap>
+                <p>Except for CAL, all periodontal measures tended to improve after periodontal treatment in the intervention group compared with the comparator group over the course of the trial, including cumulative probing pocket depth (CPD), mean PPD, and BOP. Complete resolution of periodontal inflammation was not achieved, but there was a positive difference between groups at both 3 and 6 months in terms of cumulative PPD and PISA (Figure <xref rid="jcpe13756-fig-0002" ref-type="fig">2</xref>).</p>
+                <fig position="float" fig-type="FIGURE" id="jcpe13756-fig-0002">
+                  <label>FIGURE 2</label>
+                  <caption>
+                    <p>Periodontal disease measures. Periodontal inflammation surface area (PISA).</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-50-295-g003" position="anchor" id="jats-graphic-3"/>
+                </fig>
+              </sec>
+              <sec id="jcpe13756-sec-0027">
+                <label>3.3</label>
+                <title><styled-content style="fixed-case" toggle="no">RA</styled-content> status</title>
+                <p>There were no major differences in the baseline RA disease activity characteristics between the groups (Table <xref rid="jcpe13756-tbl-0001" ref-type="table">1</xref>). Compared with the intervention arm, the control group had more individuals with a DAS28 &gt;5.1 (41% vs. 57%, respectively). There were more smokers in the intervention group; however, the comparator group smokers tended to smoke more cigarettes than those in the intervention group. Participants in the control group tended to have slightly higher RA disease activity measures (except for CRP levels) and receive more conventional synthetic DMARDs (csDMARDS), steroids, and NSAIDs, but similar proportion of biologic DMARDs (bDMARDs) than those in the intervention group.</p>
+                <p>Both clinical and ultrasound measures of RA disease activity tended to improve in the intervention and control groups. This improvement was more pronounced in the intervention group, particularly over the first 3 months of the trial. There was a higher tender joint count and patient global VAS in the control group, while all of the disease activity components improved in the intervention group (Figure <xref rid="jcpe13756-fig-0003" ref-type="fig">3</xref>). Compared to the control group, the intervention group had improved disease activity scores (DAS28‐CRP) over the course of the study (Figure <xref rid="jcpe13756-fig-0004" ref-type="fig">4</xref>). MSUS scores also improved in the intervention group, particularly Doppler enhancement (Figure <xref rid="jcpe13756-fig-0005" ref-type="fig">5</xref>). There were no differences in the proportion of the medication changes between the groups during the study (17% and 20% in the intervention and control groups, respectively).</p>
+                <fig position="float" fig-type="FIGURE" id="jcpe13756-fig-0003">
+                  <label>FIGURE 3</label>
+                  <caption>
+                    <p>Rheumatoid arthritis disease activity measures</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-50-295-g001" position="anchor" id="jats-graphic-5"/>
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="jcpe13756-fig-0004">
+                  <label>FIGURE 4</label>
+                  <caption>
+                    <p>Rheumatoid arthritis disease activity score (DAS28)</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-50-295-g005" position="anchor" id="jats-graphic-7"/>
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="jcpe13756-fig-0005">
+                  <label>FIGURE 5</label>
+                  <caption>
+                    <p>Ultrasound disease activity measures. Ultrasound grey scale (USGS) and power Doppler (USPD) scores were obtained from all metacarpo‐phalangeal (MCP) joints and dorsal wrists on both sides. GSUS, greyscale ultrasound; binary GSUS, sum of greyscale data when converted to a binary variable, with joint involvement based on GS grade of at least 1; total ultrasound greyscale, sum of greyscale grades for all scanned joints; PDUS, power Doppler ultrasound; total USPD, sum of power Doppler grades for all scanned joints.</p>
+                  </caption>
+                  <graphic xlink:href="JCPE-50-295-g002" position="anchor" id="jats-graphic-9"/>
+                </fig>
+              </sec>
+            </sec>
+            <sec sec-type="discussion" id="jcpe13756-sec-0028">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>We have shown that recruitment into a randomized controlled trial on the effect of periodontal treatment on RA patients is possible and acceptable to participants, although challenging. Out of the total number of patients invited to participate in our study, about a third attended the screening visit, of whom approximately a third were randomized.</p>
+              <p>More than half of the RA patients invited to participate in the trial declined the invitation for a range of reasons, and a significant number did not attend the screening visit. Although we can only speculate on the reasons for this, a recognized barrier to recruitment and treatment may be related to life experiences such as being employed and/or psycho‐social factors such as dental anxiety (Hill et al., <xref rid="jcpe13756-bib-0013" ref-type="bibr">2013</xref>). Indeed, more than 10 million adults suffer from dental anxiety in the United Kingdom, and a 10‐year Office of National Statistics survey of adult dental health published by NHS Digital suggests that over a third (36%) have moderate dental anxiety and as many as 12% of adults may experience high dental anxiety, which results in avoidance of dental care (Hill et al., <xref rid="jcpe13756-bib-0013" ref-type="bibr">2013</xref>).</p>
+              <p>We have also shown that satisfactory retention (i.e., &gt;80%) in such a 6‐month trial is possible, although challenging, for several reasons. Among such factors, RA itself and its comorbidities represent a significant burden, not only in terms of the quality of life but also in terms of logistics (e.g., number of medical appointments and tests needed for this group of patients), which leaves oral health as a health issue of potentially lesser importance compared to other health issues. Indeed, some participants in our study sample received a periodontal assessment and periodontal treatment for the first time through this study despite having long‐standing RA.</p>
+              <p>The difference in retention between groups at the end of the trial is likely related to the completion of periodontal treatment in the intervention arm, with a resultant lack of interest in attending further study visits. This is a challenge that may lead to selection bias in such trials, and careful consideration needs to be given to incentives for retention.</p>
+              <p>The study was acceptable to all participants and, using semi‐structured interviews, we have identified several issues to consider that would facilitate retention in future trials (summarized in Serban et al., <xref rid="jcpe13756-bib-0026" ref-type="bibr">2019</xref>). The main issues, however, were related to attending several appointments at a site different from the rheumatology clinic site. Indeed, to achieve response, periodontal treatment involves multiple visits in addition to adherence to a regular oral hygiene regime at home.</p>
+              <p>While periodontal treatment resulted in a reduction in PISA, cumulative PPD, and inflammation markers in our study, the effectiveness of periodontal treatment and patient compliance with an oral hygiene regimen at home should be optimized.</p>
+              <p>With regard to the eligibility criteria, a small number of volunteers were not judged clinically to have severe periodontitis, although they satisfied the formal inclusion criteria, suggesting that periodontal inclusion criteria should be slightly modified in a definitive study. Some participants met the RA disease activity inclusion criteria with a high patient global VAS score, rather than with a high number of swollen or tender joint counts, raising concerns that in some individuals the disease activity score DAS28 was mainly driven by chronic pain rather than by active disease. Therefore, the inclusion criteria, both in terms of periodontitis and RA disease activity measures, need to be optimized in future studies, including a minimum number of swollen joints and/or imaging with sub‐clinical synovitis as evidence of active inflammation.</p>
+              <p>The trial duration of 6 months was acceptable to the participants. A study with a longer duration, which would allow the analysis of longer term outcomes, may be difficult to complete for some participants. In addition to contamination, treatment delays in the control group beyond 12 months appear unrealistic in terms of retention. However, based on our patient and public involvement (PPI) discussions, a delay of 6–12 months is acceptable and feasible.</p>
+              <p>Facilitating study participation is important, including transport issues and communication, and to make it as easy and convenient as possible for participants. In a definitive multi‐centre trial, this will require careful consideration for each site, and the optimal approach may be different for each centre depending upon the local circumstances (e.g., proximity between dental and rheumatology clinics, space, infrastructure at rheumatology clinics, etc.).</p>
+              <p>Our secondary objective was to collect pilot data regarding the efficacy and safety of intensive periodontal therapy to reduce disease activity for patients with RA and periodontitis. Our data suggest that periodontal therapy resulted in an improvement in RA disease activity measures, including DAS28, inflammation markers, and ultrasound measures. These findings are in line with previous studies, which suggest a beneficial effect of a periodontal intervention in RA disease activity and inflammation biomarkers (summarized in Sun et al., <xref rid="jcpe13756-bib-0028" ref-type="bibr">2021</xref>). Given the nature of periodontal treatment, blinding of the intervention was not done; however, we observed improvements in objective measures of both periodontitis and joints based on the MSUS scores obtained, both by blinded examiners. Further larger trials are needed to confirm these results, also including patients at earlier disease phases (e.g., at‐risk populations, clinically suspect arthralgia, unclassified inflammatory arthritis, and early RA).</p>
+              <p>Based on the key findings of our feasibility study, we suggest the following recommendations to be considered in the design of a future larger trial; however, it is important to note that the feasibility and success of these recommendations would have to be evaluated.</p>
+              <p>1.Dental screening should be performed in the rheumatology outpatient clinic or clinical research facility (CRF) to maximize capturing potentially eligible patients.</p>
+              <p>2.Baseline (pre‐randomization) visit should be at appointments separate from the screening visit. This can be at the dental hospital or, ideally, in a fully equipped dental chair near the rheumatology outpatient clinic to facilitate attendance. This also would ensure that participants are willing to attend a dental visit prior to randomization.</p>
+              <p>3.Having all study assessments (e.g., oral examination, ultrasound) in one place is essential. Ideally, this would be in the rheumatology unit or CRF, as this would expectedly maximize retention, but it has resource implications or may be challenging if recruitment occurs from multiple rheumatology units.</p>
+              <p>4.Compensation for research visits is strongly advised. Provision of transportation to the research unit for treatment and assessments can be essential depending on local circumstances (particularly if the dental care is in a hospital different from the rheumatology service centre).</p>
+              <p>5.Provision of other (restorative) dental care is important if patients have dental treatment needs in addition to periodontal treatment. It is recommended not to see a general dental practitioner (GDP) for additional treatment during the study, to improve recruitment and retention and to avoid contamination.</p>
+              <p>6.The number of treatment appointments should be minimized and, if possible, aligned with routine blood DMARD monitoring tests, provided that such tests are required.</p>
+              <p>7.A study rheumatology nurse/rheumatologist should be assigned who provides rheumatology care, in alignment with the treating consultant, to ensure protocol adherence and complete data collection with regard to treatment changes and reasons for such changes.</p>
+              <p>8.A dedicated line of communication should be provided that is easily accessible for all clinical and trial‐related concerns, as well as sending regular reminders to study participants about their upcoming dental appointments. Patients with multiple morbidities often require multiple different hospital appointments and it is important to send timely reminders to reduce the risk of failed appointments.</p>
+              <p>9.Periodontal treatment at every visit should be provided, and adjunctive use of (local) antibiotics and re‐treatment of all sites should be considered where there is no pocket resolution, with a strong emphasis on oral hygiene instructions and motivation.</p>
+              <p>10.Provision of an electric toothbrush and other oral hygiene devices, as appropriate, should be considered to enhance compliance with an oral hygiene regimen at home.</p>
+              <p>11. A sham intervention for the comparator group should be considered in future controlled trials.</p>
+              <p>12. Ways of strengthening the link between dental and medical care services should be considered as suggested by World Health Organization (<xref rid="jcpe13756-bib-0029" ref-type="bibr">2021</xref>) and taking advantage of the newly established Integrated Care Systems (ICSs) in England (House of Commons Library, <xref rid="jcpe13756-bib-0030" ref-type="bibr">2021</xref>), which present unique opportunities for moving towards greater horizontal service integration delivered by multidisciplinary teams, which include medical, dental, and wider healthcare teams, enabling them to deliver more person‐centred services (Watt &amp; Serban, <xref rid="jcpe13756-bib-0031" ref-type="bibr">2020</xref>).</p>
+            </sec>
+            <sec sec-type="conclusions" id="jcpe13756-sec-0029">
+              <label>5</label>
+              <title>CONCLUSION</title>
+              <p>In summary, through this feasibility study we demonstrated that recruitment and retention of RA patients with periodontitis in an RCT comparing immediate to delayed periodontal treatment is challenging but feasible. Satisfactory periodontal treatment outcomes are difficult to achieve in such a trial, and full resolution of periodontal inflammation may not be achievable in some patients. Logistical challenges are significant and require careful consideration, and site‐specific solutions may have to be implemented to keep patients motivated. However, while not powered to assess clinical outcomes, the apparent improvements in RA outcomes in this feasibility study suggest that a definitive trial is worthwhile.</p>
+            </sec>
+            <sec id="jcpe13756-sec-0030">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p>Paola de Pablo, Stefan Serban, Isabel Lopez‐Oliva, Joanna Rooney, and Thomas Dietrich undertook the project. Paola de Pablo, Iain L. Chapple, Karim Raza, Andrew Filer, and Thomas Dietrich contributed to the conception of the work and interpretation of the findings. Paola de Pablo drafted the manuscript. All authors critically revised the manuscript and approved the final version. The corresponding author attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted.</p>
+            </sec>
+            <sec id="jcpe13756-sec-0032">
+              <title>FUNDING INFORMATION</title>
+              <p>This work was supported by the National Institute for Health Research (NIHR) under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number PB‐PG‐0609‐19100). Paola de Pablo was supported by an NIHR personal fellowship (Grant Code: NIHR PDF‐2014‐07‐055). Stefan Serban was supported by European Union FP7‐PEOPLE funded ITN project (Project Number: RAPID‐290246). Andrew Filer was supported by Arthritis Research UK (Fellowship 18547). Andrew Filer and Karim Raza were supported by NIHR Birmingham Biomedical Research Centre at the University Hospitals Birmingham (UHB) NHS Foundation Trust and the University of Birmingham (Grant Reference Number BRC‐1215‐20009) and Versus Arthritis Research into Inflammatory Arthritis Centre (RACE) Rheumatoid Arthritis Pathogenesis Centre of Excellence (Grant 20298). The views expressed are those of the authors and not necessarily those of the National Health Service, the NIHR, or the Department of Health and Social Care.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="jcpe13756-sec-0033">
+              <title>CONFLICT OF INTEREST</title>
+              <p>The authors declare no conflicts of interest.</p>
+            </sec>
+          </body>
+          <back>
+            <ack id="jcpe13756-sec-0031">
+              <title>ACKNOWLEDGEMENTS</title>
+              <p>We thank Dr Paresh Jobanputra, Consultant Rheumatologist, University Hospitals Birmingham (UHB) NHS Foundation Trust, and all clinicians and nurses at the rheumatology outpatient clinics in Birmingham (i.e., UHB and Heart of England NHS Foundation Trusts, and the SWB NHS Trust) for providing support.</p>
+            </ack>
+            <sec sec-type="data-availability" id="jcpe13756-sec-0035">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>Research data are not shared.</p>
+            </sec>
+            <ref-list id="jcpe13756-bibl-0001" content-type="cited-references">
+              <title>REFERENCES</title>
+              <ref id="jcpe13756-bib-0001">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0001"><string-name><surname>Albrecht</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Eidner</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Hoese</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Wassenberg</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Zink</surname>, <given-names>A.</given-names></string-name>, &amp; <string-name><surname>Callhoff</surname>, <given-names>J.</given-names></string-name> (<year>2021</year>). <article-title>Association between RA disease activity and periodontitis defined by tooth loss: Longitudinal and cross‐sectional data from two observational studies</article-title>. <source>Arthritis Care &amp; Research</source>. <pub-id pub-id-type="doi">10.1002/acr.24799</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0002">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0002"><string-name><surname>Aletaha</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Neogi</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Silman</surname>, <given-names>A. J.</given-names></string-name>, <string-name><surname>Funovits</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Felson</surname>, <given-names>D. T.</given-names></string-name>, <string-name><surname>Bingham</surname>, <given-names>C. O.</given-names>, <suffix>3rd</suffix></string-name>, <string-name><surname>Birnbaum</surname>, <given-names>N. S.</given-names></string-name>, <string-name><surname>Burmester</surname>, <given-names>G. R.</given-names></string-name>, <string-name><surname>Bykerk</surname>, <given-names>V. P.</given-names></string-name>, <string-name><surname>Cohen</surname>, <given-names>M. D.</given-names></string-name>, <string-name><surname>Combe</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Costenbader</surname>, <given-names>K. H.</given-names></string-name>, <string-name><surname>Dougados</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Emery</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Ferraccioli</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Hazes</surname>, <given-names>J. M. W.</given-names></string-name>, <string-name><surname>Hobbs</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Huizinga</surname>, <given-names>T. W. J.</given-names></string-name>, <string-name><surname>Kavanaugh</surname>, <given-names>A.</given-names></string-name>, … <string-name><surname>Hawker</surname>, <given-names>G.</given-names></string-name> (<year>2010</year>). <article-title>2010 Rheumatoid arthritis classification criteria: An American College of Rheumatology/European League Against Rheumatism collaborative initiative</article-title>. <source>Arthritis and Rheumatism</source>, <volume>62</volume>(<issue>9</issue>), <fpage>2569</fpage>–<lpage>2581</lpage>. <pub-id pub-id-type="doi">10.1002/art.27584</pub-id>
+<pub-id pub-id-type="pmid">20872595</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0003">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0003"><string-name><surname>Arnett</surname>, <given-names>F. C.</given-names></string-name>, <string-name><surname>Edworthy</surname>, <given-names>S. M.</given-names></string-name>, <string-name><surname>Bloch</surname>, <given-names>D. A.</given-names></string-name>, <string-name><surname>McShane</surname>, <given-names>D. J.</given-names></string-name>, <string-name><surname>Fries</surname>, <given-names>J. F.</given-names></string-name>, <string-name><surname>Cooper</surname>, <given-names>N. S.</given-names></string-name>, <string-name><surname>Healey</surname>, <given-names>L. A.</given-names></string-name>, <string-name><surname>Kaplan</surname>, <given-names>S. R.</given-names></string-name>, <string-name><surname>Liang</surname>, <given-names>M. H.</given-names></string-name>, <string-name><surname>Luthra</surname>, <given-names>H. S.</given-names></string-name>, <string-name><surname>Medsger</surname>, <given-names>T. A.</given-names></string-name>, <string-name><surname>Mitchell</surname>, <given-names>D. M.</given-names></string-name>, <string-name><surname>Neustadt</surname>, <given-names>D. H.</given-names></string-name>, <string-name><surname>Pinals</surname>, <given-names>R. S.</given-names></string-name>, <string-name><surname>Schaller</surname>, <given-names>J. G.</given-names></string-name>, <string-name><surname>Sharp</surname>, <given-names>J. T.</given-names></string-name>, <string-name><surname>Wilder</surname>, <given-names>R. L.</given-names></string-name>, &amp; <string-name><surname>Hunder</surname>, <given-names>G. G.</given-names></string-name> (<year>1988</year>). <article-title>The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis</article-title>. <source>Arthritis and Rheumatism</source>, <volume>31</volume>(<issue>3</issue>), <fpage>315</fpage>–<lpage>324</lpage>. <pub-id pub-id-type="doi">10.1002/art.1780310302</pub-id>
+<pub-id pub-id-type="pmid">3358796</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0004">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0004"><string-name><surname>Chen</surname>, <given-names>H. H.</given-names></string-name>, <string-name><surname>Huang</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Chen</surname>, <given-names>Y. M.</given-names></string-name>, <string-name><surname>Chen</surname>, <given-names>T. J.</given-names></string-name>, <string-name><surname>Chou</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Lee</surname>, <given-names>Y. L.</given-names></string-name>, <string-name><surname>Chou</surname>, <given-names>Y. J.</given-names></string-name>, <string-name><surname>Lan</surname>, <given-names>J. L.</given-names></string-name>, <string-name><surname>Lai</surname>, <given-names>K. L.</given-names></string-name>, <string-name><surname>Lin</surname>, <given-names>C. H.</given-names></string-name>, &amp; <string-name><surname>Chen</surname>, <given-names>D. Y.</given-names></string-name> (<year>2013</year>). <article-title>Association between a history of periodontitis and the risk of rheumatoid arthritis: A nationwide, population‐based, case‐control study</article-title>. <source>Annals of the Rheumatic Diseases</source>, <volume>72</volume>(<issue>7</issue>), <fpage>1206</fpage>–<lpage>1211</lpage>. <pub-id pub-id-type="doi">10.1136/annrheumdis-2012-201593</pub-id>
+<pub-id pub-id-type="pmid">22941768</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0005">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0005"><string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I. L.</given-names></string-name>, <string-name><surname>Buckley</surname>, <given-names>C. D.</given-names></string-name>, &amp; <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name> (<year>2009</year>). <article-title>Periodontitis in systemic rheumatic diseases</article-title>. <source>Nature Reviews Rheumatology</source>, <volume>5</volume>(<issue>4</issue>), <fpage>218</fpage>–<lpage>224</lpage>. <pub-id pub-id-type="doi">10.1038/nrrheum.2009.28</pub-id>
+<pub-id pub-id-type="pmid">19337286</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0006">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0006"><string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I. L.</given-names></string-name>, <string-name><surname>Milward</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Chowdhury</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Charles</surname>, <given-names>P. J.</given-names></string-name>, <string-name><surname>Buckley</surname>, <given-names>C. D.</given-names></string-name>, &amp; <string-name><surname>Venables</surname>, <given-names>P. J.</given-names></string-name> (<year>2014</year>). <article-title>The autoantibody repertoire in periodontitis: A role in the induction of autoimmunity to citrullinated proteins in rheumatoid arthritis?</article-title>
+<source>Annals of the Rheumatic Diseases</source>, <volume>73</volume>(<issue>3</issue>), <fpage>580</fpage>–<lpage>586</lpage>. <pub-id pub-id-type="doi">10.1136/annrheumdis-2012-202701</pub-id>
+<pub-id pub-id-type="pmid">23434568</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0007">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0007"><string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>McAlindon</surname>, <given-names>T. E.</given-names></string-name> (<year>2008</year>). <article-title>Association of periodontal disease and tooth loss with rheumatoid arthritis in the US population</article-title>. <source>The Journal of Rheumatology</source>, <volume>35</volume>(<issue>1</issue>), <fpage>70</fpage>–<lpage>76</lpage>.<pub-id pub-id-type="pmid">18050377</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0008">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0008"><string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Jimenez</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Krall Kaye</surname>, <given-names>E. A.</given-names></string-name>, <string-name><surname>Vokonas</surname>, <given-names>P. S.</given-names></string-name>, &amp; <string-name><surname>Garcia</surname>, <given-names>R. I.</given-names></string-name> (<year>2008</year>). <article-title>Age‐dependent associations between chronic periodontitis/edentulism and risk of coronary heart disease</article-title>. <source>Circulation</source>, <volume>117</volume>(<issue>13</issue>), <fpage>1668</fpage>–<lpage>1674</lpage>. <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.711507</pub-id>
+<pub-id pub-id-type="pmid">18362228</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0009">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0009"><string-name><surname>Filer</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Allen</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Nightingale</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Jordan</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Jobanputra</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Bowman</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Buckley</surname>, <given-names>C. D.</given-names></string-name>, &amp; <string-name><surname>Raza</surname>, <given-names>K.</given-names></string-name> (<year>2011</year>). <article-title>Utility of ultrasound joint counts in the prediction of rheumatoid arthritis in patients with very early synovitis</article-title>. <source>Annals of the Rheumatic Diseases</source>, <volume>70</volume>(<issue>3</issue>), <fpage>500</fpage>–<lpage>507</lpage>. <pub-id pub-id-type="doi">10.1136/ard.2010.131573</pub-id>
+<pub-id pub-id-type="pmid">21115552</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0010">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0010"><string-name><surname>Gomez‐Banuelos</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Johansson</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Konig</surname>, <given-names>M. F.</given-names></string-name>, <string-name><surname>Lundquist</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Paz</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Buhlin</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Johansson</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Rantapää‐Dahlqvist</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Andrade</surname>, <given-names>F.</given-names></string-name> (<year>2020</year>). <article-title>Exposure to aggregatibacter actinomycetemcomitans before symptom onset and the risk of evolving to rheumatoid arthritis</article-title>. <source>Journal of Clinical Medicine</source>, <volume>9</volume>(<issue>6</issue>), 1906. <pub-id pub-id-type="doi">10.3390/jcm9061906</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0011">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0011"><string-name><surname>Hajishengallis</surname>, <given-names>G.</given-names></string-name> (<year>2015</year>). <article-title>Periodontitis: From microbial immune subversion to systemic inflammation</article-title>. <source>Nature Reviews. Immunology</source>, <volume>15</volume>(<issue>1</issue>), <fpage>30</fpage>–<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1038/nri3785</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0012">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0012"><string-name><surname>Hajishengallis</surname>, <given-names>G.</given-names></string-name>, &amp; <string-name><surname>Chavakis</surname>, <given-names>T.</given-names></string-name> (<year>2021</year>). <article-title>Local and systemic mechanisms linking periodontal disease and inflammatory comorbidities</article-title>. <source>Nature Reviews. Immunology</source>, <volume>21</volume>(<issue>7</issue>), <fpage>426</fpage>–<lpage>440</lpage>. <pub-id pub-id-type="doi">10.1038/s41577-020-00488-6</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0013">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0013"><string-name><surname>Hill</surname>, <given-names>K. B.</given-names></string-name>, <string-name><surname>Chadwick</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Freeman</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>O'Sullivan</surname>, <given-names>I.</given-names></string-name>, &amp; <string-name><surname>Murray</surname>, <given-names>J. J.</given-names></string-name> (<year>2013</year>). <article-title>Adult Dental Health Survey 2009: Relationships between dental attendance patterns, oral health behaviour and the current barriers to dental care</article-title>. <source>British Dental Journal</source>, <volume>214</volume>(<issue>1</issue>), <fpage>25</fpage>–<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1038/sj.bdj.2012.1176</pub-id>
+<pub-id pub-id-type="pmid">23306496</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0030">
+                <mixed-citation publication-type="miscellaneous" id="jcpe13756-cit-0030"><collab collab-type="authors">House of Commons Library</collab>
+. (<year>2021</year>). <article-title>Health and Care Bill 2021‐22</article-title>. Available from: <ext-link xlink:href="https://commonslibrary.parliament.uk/research-briefings/cbp-9232/" ext-link-type="uri">https://commonslibrary.parliament.uk/research-briefings/cbp-9232/</ext-link>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0014">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0014"><string-name><surname>Johansson</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Sherina</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Kharlamova</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Potempa</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Larsson</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Israelsson</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Potempa</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Rantapää‐Dahlqvist</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Lundberg</surname>, <given-names>K.</given-names></string-name> (<year>2016</year>). <article-title>Concentration of antibodies against <italic toggle="yes">Porphyromonas gingivalis</italic> is increased before the onset of symptoms of rheumatoid arthritis</article-title>. <source>Arthritis Research &amp; Therapy</source>, <volume>18</volume>, <fpage>201</fpage>. <pub-id pub-id-type="doi">10.1186/s13075-016-1100-4</pub-id>
+<pub-id pub-id-type="pmid">27605245</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0015">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0015"><string-name><surname>Kharlamova</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Jiang</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Sherina</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Potempa</surname>, <given-names>B.</given-names></string-name>, <string-name><surname>Israelsson</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Quirke</surname>, <given-names>A. M.</given-names></string-name>, <string-name><surname>Eriksson</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Yucel‐Lindberg</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Venables</surname>, <given-names>P. J.</given-names></string-name>, <string-name><surname>Potempa</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Lundberg</surname>, <given-names>K.</given-names></string-name> (<year>2016</year>). <article-title>Antibodies to <italic toggle="yes">Porphyromonas gingivalis</italic> indicate interaction between oral infection, smoking, and risk genes in rheumatoid arthritis etiology</article-title>. <source>Arthritis &amp; Rhematology</source>, <volume>68</volume>(<issue>3</issue>), <fpage>604</fpage>–<lpage>613</lpage>. <pub-id pub-id-type="doi">10.1002/art.39491</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0016">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0016"><string-name><surname>Kindstedt</surname>, <given-names>E.</given-names></string-name>, <string-name><surname>Johansson</surname>, <given-names>L.</given-names></string-name>, <string-name><surname>Palmqvist</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Koskinen Holm</surname>, <given-names>C.</given-names></string-name>, <string-name><surname>Kokkonen</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Johansson</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Rantapää Dahlqvist</surname>, <given-names>S.</given-names></string-name>, &amp; <string-name><surname>Lundberg</surname>, <given-names>P.</given-names></string-name> (<year>2018</year>). <article-title>Association between marginal jawbone loss and onset of rheumatoid arthritis and relationship to plasma levels of RANKL</article-title>. <source>Arthritis &amp; Rhematology</source>, <volume>70</volume>(<issue>4</issue>), <fpage>508</fpage>–<lpage>515</lpage>. <pub-id pub-id-type="doi">10.1002/art.40394</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0017">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0017"><string-name><surname>Lopez‐Oliva</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Chapple</surname>, <given-names>I.</given-names></string-name> (<year>2019a</year>). <article-title>Gums and joints: Is there a connection? Part one: Epidemiological and clinical links</article-title>. <source>British Dental Journal</source>, <volume>227</volume>(<issue>7</issue>), <fpage>605</fpage>–<lpage>609</lpage>. <pub-id pub-id-type="doi">10.1038/s41415-019-0722-8</pub-id>
+<pub-id pub-id-type="pmid">31605071</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0018">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0018"><string-name><surname>Lopez‐Oliva</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, &amp; <string-name><surname>Chapple</surname>, <given-names>I.</given-names></string-name> (<year>2019b</year>). <article-title>Gums and joints: Is there a connection? Part two: The biological link</article-title>. <source>British Dental Journal</source>, <volume>227</volume>(<issue>7</issue>), <fpage>611</fpage>–<lpage>617</lpage>. <pub-id pub-id-type="doi">10.1038/s41415-019-0723-7</pub-id>
+<pub-id pub-id-type="pmid">31605072</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0019">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0019"><string-name><surname>Lopez‐Oliva</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Paropkari</surname>, <given-names>A. D.</given-names></string-name>, <string-name><surname>Saraswat</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Serban</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Yonel</surname>, <given-names>Z.</given-names></string-name>, <string-name><surname>Sharma</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Raza</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Filer</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Grant</surname>, <given-names>M. M.</given-names></string-name>, <string-name><surname>Kumar</surname>, <given-names>P. S.</given-names></string-name>, &amp; <string-name><surname>Kumar</surname>, <given-names>P. S.</given-names></string-name> (<year>2018</year>). <article-title>Dysbiotic subgingival microbial communities in periodontally healthy patients with rheumatoid arthritis</article-title>. <source>Arthritis &amp; Rhematology</source>, <volume>70</volume>(<issue>7</issue>), <fpage>1008</fpage>–<lpage>1013</lpage>. <pub-id pub-id-type="doi">10.1002/art.40485</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0020">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0020"><string-name><surname>Lundberg</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Kinloch</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Fisher</surname>, <given-names>B. A.</given-names></string-name>, <string-name><surname>Wegner</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Wait</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Charles</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Mikuls</surname>, <given-names>T. R.</given-names></string-name>, &amp; <string-name><surname>Venables</surname>, <given-names>P. J.</given-names></string-name> (<year>2008</year>). <article-title>Antibodies to citrullinated alpha‐enolase peptide 1 are specific for rheumatoid arthritis and cross‐react with bacterial enolase</article-title>. <source>Arthritis and Rheumatism</source>, <volume>58</volume>(<issue>10</issue>), <fpage>3009</fpage>–<lpage>3019</lpage>. <pub-id pub-id-type="doi">10.1002/art.23936</pub-id>
+<pub-id pub-id-type="pmid">18821669</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0021">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0021"><string-name><surname>Mikuls</surname>, <given-names>T. R.</given-names></string-name>, <string-name><surname>Payne</surname>, <given-names>J. B.</given-names></string-name>, <string-name><surname>Yu</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Thiele</surname>, <given-names>G. M.</given-names></string-name>, <string-name><surname>Reynolds</surname>, <given-names>R. J.</given-names></string-name>, <string-name><surname>Cannon</surname>, <given-names>G. W.</given-names></string-name>, <string-name><surname>Markt</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>McGowan</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Kerr</surname>, <given-names>G. S.</given-names></string-name>, <string-name><surname>Redman</surname>, <given-names>R. S.</given-names></string-name>, <string-name><surname>Reimold</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Griffiths</surname>, <given-names>G.</given-names></string-name>, <string-name><surname>Beatty</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Gonzalez</surname>, <given-names>S. M.</given-names></string-name>, <string-name><surname>Bergman</surname>, <given-names>D. A.</given-names></string-name>, <string-name><surname>Hamilton</surname>, <given-names>B. C.</given-names>, <suffix>III</suffix></string-name>, <string-name><surname>Erickson</surname>, <given-names>A. R.</given-names></string-name>, <string-name><surname>Sokolove</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Robinson</surname>, <given-names>W. H.</given-names></string-name>, … <string-name><surname>O'Dell</surname>, <given-names>J. R.</given-names></string-name> (<year>2014</year>). <article-title>Periodontitis and <italic toggle="yes">Porphyromonas gingivalis</italic> in patients with rheumatoid arthritis</article-title>. <source>Arthritis &amp; Rhematology</source>, <volume>66</volume>(<issue>5</issue>), <fpage>1090</fpage>–<lpage>1100</lpage>. <pub-id pub-id-type="doi">10.1002/art.38348</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0022">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0022"><string-name><surname>Nesse</surname>, <given-names>W.</given-names></string-name>, <string-name><surname>Abbas</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>van der Ploeg</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>Spijkervet</surname>, <given-names>F. K.</given-names></string-name>, <string-name><surname>Dijkstra</surname>, <given-names>P. U.</given-names></string-name>, &amp; <string-name><surname>Vissink</surname>, <given-names>A.</given-names></string-name> (<year>2008</year>). <article-title>Periodontal inflamed surface area: Quantifying inflammatory burden</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>35</volume>(<issue>8</issue>), <fpage>668</fpage>–<lpage>673</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-051X.2008.01249.x</pub-id>
+<pub-id pub-id-type="pmid">18564145</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0023">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0023"><string-name><surname>Papapanou</surname>, <given-names>P. N.</given-names></string-name>, <string-name><surname>Sanz</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Buduneli</surname>, <given-names>N.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Feres</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Fine</surname>, <given-names>D. H.</given-names></string-name>, <string-name><surname>Flemmig</surname>, <given-names>T. F.</given-names></string-name>, <string-name><surname>Garcia</surname>, <given-names>R.</given-names></string-name>, <string-name><surname>Giannobile</surname>, <given-names>W. V.</given-names></string-name>, <string-name><surname>Graziani</surname>, <given-names>F.</given-names></string-name>, <string-name><surname>Greenwell</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Herrera</surname>, <given-names>D.</given-names></string-name>, <string-name><surname>Kao</surname>, <given-names>R. T.</given-names></string-name>, <string-name><surname>Kebschull</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Kinane</surname>, <given-names>D. F.</given-names></string-name>, <string-name><surname>Kirkwood</surname>, <given-names>K. L.</given-names></string-name>, <string-name><surname>Kocher</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Kornman</surname>, <given-names>K. S.</given-names></string-name>, <string-name><surname>Kumar</surname>, <given-names>P. S.</given-names></string-name>, … <string-name><surname>Tonetti</surname>, <given-names>M. S.</given-names></string-name> (<year>2018</year>). <article-title>Periodontitis: Consensus report of workgroup 2 of the 2017 world workshop on the classification of periodontal and peri‐implant diseases and conditions</article-title>. <source>Journal of Clinical Periodontology</source>, <volume>45</volume>(<issue>Suppl 20</issue>), <fpage>S162</fpage>–<lpage>S170</lpage>. <pub-id pub-id-type="doi">10.1111/jcpe.12946</pub-id>
+<pub-id pub-id-type="pmid">29926490</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0024">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0024"><string-name><surname>Prevoo</surname>, <given-names>M. L.</given-names></string-name>, <string-name><surname>Van'T Hof</surname>, <given-names>M.</given-names></string-name>, <string-name><surname>Kuper</surname>, <given-names>H. H.</given-names></string-name>, <string-name><surname>Van Leeuwen</surname>, <given-names>M. A.</given-names></string-name>, <string-name><surname>Van De Putte</surname>, <given-names>L. B.</given-names></string-name>, &amp; <string-name><surname>Van Riel</surname>, <given-names>P. L.</given-names></string-name> (<year>1995</year>). <article-title>Modified disease activity scores that include twenty‐eight‐joint counts. Development and validation in a prospective longitudinal study of patients with rheumatoid arthritis</article-title>. <source>Arthritis and Rheumatism</source>, <volume>38</volume>(<issue>1</issue>), <fpage>44</fpage>–<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1002/art.1780380107</pub-id>
+<pub-id pub-id-type="pmid">7818570</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0025">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0025"><string-name><surname>Schulz</surname>, <given-names>K. F.</given-names></string-name>, <string-name><surname>Altman</surname>, <given-names>D. G.</given-names></string-name>, <string-name><surname>Moher</surname>, <given-names>D.</given-names></string-name>, &amp; <collab collab-type="authors">CONSORT Group</collab>
+. (<year>2010</year>). <article-title>CONSORT 2010 statement: Updated guidelines for reporting parallel group randomised trials</article-title>. <source>BMC Medicine</source>, <volume>8</volume>, <elocation-id>18</elocation-id>. <pub-id pub-id-type="doi">10.1186/1741-7015-8-18</pub-id>
+<pub-id pub-id-type="pmid">20334633</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0026">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0026"><string-name><surname>Serban</surname>, <given-names>S.</given-names></string-name>, <string-name><surname>Dietrich</surname>, <given-names>T.</given-names></string-name>, <string-name><surname>Lopez‐Oliva</surname>, <given-names>I.</given-names></string-name>, <string-name><surname>de Pablo</surname>, <given-names>P.</given-names></string-name>, <string-name><surname>Raza</surname>, <given-names>K.</given-names></string-name>, <string-name><surname>Filer</surname>, <given-names>A.</given-names></string-name>, <string-name><surname>Chapple</surname>, <given-names>I. L.</given-names></string-name>, &amp; <string-name><surname>Hill</surname>, <given-names>K.</given-names></string-name> (<year>2019</year>). <article-title>Attitudes towards oral health in patients with rheumatoid arthritis: A qualitative study nested within a randomized controlled trial</article-title>. <source>JDR Clinical &amp; Translational Research</source>, <volume>4</volume>(<issue>4</issue>), <fpage>360</fpage>–<lpage>370</lpage>. <pub-id pub-id-type="doi">10.1177/2380084419833694</pub-id>
+<pub-id pub-id-type="pmid">31009578</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0027">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0027"><string-name><surname>Smolen</surname>, <given-names>J. S.</given-names></string-name>, <string-name><surname>Aletaha</surname>, <given-names>D.</given-names></string-name>, &amp; <string-name><surname>McInnes</surname>, <given-names>I. B.</given-names></string-name> (<year>2016</year>). <article-title>Rheumatoid arthritis</article-title>. <source>Lancet</source>, <volume>388</volume>(<issue>10055</issue>), <fpage>2023</fpage>–<lpage>2038</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(16)30173-8</pub-id>
+<pub-id pub-id-type="pmid">27156434</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0028">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0028"><string-name><surname>Sun</surname>, <given-names>J.</given-names></string-name>, <string-name><surname>Zheng</surname>, <given-names>Y.</given-names></string-name>, <string-name><surname>Bian</surname>, <given-names>X.</given-names></string-name>, <string-name><surname>Ge</surname>, <given-names>H.</given-names></string-name>, <string-name><surname>Wang</surname>, <given-names>J.</given-names></string-name>, &amp; <string-name><surname>Zhang</surname>, <given-names>Z.</given-names></string-name> (<year>2021</year>). <article-title>Non‐surgical periodontal treatment improves rheumatoid arthritis disease activity: A meta‐analysis</article-title>. <source>Clinical Oral Investigations</source>, <volume>25</volume>(<issue>8</issue>), <fpage>4975</fpage>–<lpage>4985</lpage>. <pub-id pub-id-type="doi">10.1007/s00784-021-03807-w</pub-id>
+<pub-id pub-id-type="pmid">33515120</pub-id>
+</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0031">
+                <mixed-citation publication-type="journal" id="jcpe13756-cit-0031"><collab collab-type="authors">Watt, R. G., &amp; Serban, S.</collab>
+(<year>2020</year>). <article-title>Multimorbidity: a challenge and opportunity for the dental profession</article-title>. <source>Br Dent J</source>, <volume>229</volume>(5), 282–286.</mixed-citation>
+              </ref>
+              <ref id="jcpe13756-bib-0029">
+                <mixed-citation publication-type="miscellaneous" id="jcpe13756-cit-0029"><collab collab-type="authors">World Health Organization (WHO).</collab>
+(<year>2021</year>). <article-title>Executive board resolution EB148/R1 for the the seventy‐fourth world health assembly</article-title>. Available from: <ext-link xlink:href="https://apps.who.int/gb/ebwha/pdf_files/EB148/B148_R1-en.pdf" ext-link-type="uri">https://apps.who.int/gb/ebwha/pdf_files/EB148/B148_R1-en.pdf</ext-link>
+</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

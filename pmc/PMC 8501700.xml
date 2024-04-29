@@ -1,0 +1,2483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:43:50Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:8501700" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:8501700</identifier>
+        <datestamp>2021-10-20</datestamp>
+        <setSpec>trials</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" article-type="research-article" dtd-version="1.3">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Trials</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Trials</journal-id>
+              <journal-title-group>
+                <journal-title>Trials</journal-title>
+              </journal-title-group>
+              <issn pub-type="epub">1745-6215</issn>
+              <publisher>
+                <publisher-name>BioMed Central</publisher-name>
+                <publisher-loc>London</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC8501700</article-id>
+              <article-id pub-id-type="pmcid">PMC8501700</article-id>
+              <article-id pub-id-type="pmc-uid">8501700</article-id>
+              <article-id pub-id-type="pmid">34627344</article-id>
+              <article-id pub-id-type="publisher-id">5647</article-id>
+              <article-id pub-id-type="doi">10.1186/s13063-021-05647-1</article-id>
+              <article-categories>
+                <subj-group subj-group-type="heading">
+                  <subject>Study Protocol</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Complementary feeding methods in the first year of life: a study protocol for a randomized clinical trial</article-title>
+              </title-group>
+              <contrib-group>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Nunes</surname>
+                    <given-names>Leandro Meirelles</given-names>
+                  </name>
+                  <address>
+                    <email>lmnunes@hcpa.edu.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff2">2</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Führ</surname>
+                    <given-names>Jordana</given-names>
+                  </name>
+                  <address>
+                    <email>jordanafuhr@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Belin</surname>
+                    <given-names>Christy Hannah Sanini</given-names>
+                  </name>
+                  <address>
+                    <email>christy.sbelin@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Moreira</surname>
+                    <given-names>Paula Ruffoni</given-names>
+                  </name>
+                  <address>
+                    <email>ruffonip@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                </contrib>
+                <contrib contrib-type="author" corresp="yes">
+                  <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3064-4109</contrib-id>
+                  <name>
+                    <surname>Neves</surname>
+                    <given-names>Renata Oliveira</given-names>
+                  </name>
+                  <address>
+                    <email>renataoliveiraneves@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>de Brito</surname>
+                    <given-names>Mariana Lopes</given-names>
+                  </name>
+                  <address>
+                    <email>mariana.lopesdebrito@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Morando</surname>
+                    <given-names>Lorenzo Andreazza</given-names>
+                  </name>
+                  <address>
+                    <email>lorenzoamorando@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Mariath</surname>
+                    <given-names>Adriela Azevedo Souza</given-names>
+                  </name>
+                  <address>
+                    <email>adrielamariath@gmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Gomes</surname>
+                    <given-names>Erissandra</given-names>
+                  </name>
+                  <address>
+                    <email>erifono@hotmail.com</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff4">4</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                  <name>
+                    <surname>Bernardi</surname>
+                    <given-names>Juliana Rombaldi</given-names>
+                  </name>
+                  <address>
+                    <email>juliana.bernardi@ufrgs.br</email>
+                  </address>
+                  <xref ref-type="aff" rid="Aff1">1</xref>
+                  <xref ref-type="aff" rid="Aff3">3</xref>
+                  <xref ref-type="aff" rid="Aff5">5</xref>
+                </contrib>
+                <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.8532.c</institution-id><institution-id institution-id-type="ISNI">0000 0001 2200 7498</institution-id><institution>Graduate Program in Child and Adolescent Health, </institution><institution>Universidade Federal do Rio Grande do Sul (UFRGS) Medical School, </institution></institution-wrap>Porto Alegre, Brazil </aff>
+                <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.414449.8</institution-id><institution-id institution-id-type="ISNI">0000 0001 0125 3761</institution-id><institution>Neonatology Section, </institution><institution>Hospital de Clínicas de Porto Alegre (HCPA), </institution></institution-wrap>Porto Alegre, Brazil </aff>
+                <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.8532.c</institution-id><institution-id institution-id-type="ISNI">0000 0001 2200 7498</institution-id><institution>Graduate Program in Food, Nutrition and Health, </institution><institution>Universidade Federal do Rio Grande do Sul (UFRGS) Nutrition Department, Medical School, </institution></institution-wrap>Porto Alegre, Brazil </aff>
+                <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.8532.c</institution-id><institution-id institution-id-type="ISNI">0000 0001 2200 7498</institution-id><institution>Department of Surgery and Orthopedics, </institution><institution>Universidade Federal do Rio Grande do Sul (UFRGS) Dentistry School, </institution></institution-wrap>Porto Alegre, Brazil </aff>
+                <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.8532.c</institution-id><institution-id institution-id-type="ISNI">0000 0001 2200 7498</institution-id><institution>Nutrition Department, </institution><institution>Universidade Federal do Rio Grande do Sul (UFRGS), Hospital de Clínicas de Porto Alegre (HCPA), </institution></institution-wrap>Porto Alegre, Brazil </aff>
+              </contrib-group>
+              <pub-date pub-type="epub">
+                <day>9</day>
+                <month>10</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="pmc-release">
+                <day>9</day>
+                <month>10</month>
+                <year>2021</year>
+              </pub-date>
+              <pub-date pub-type="collection">
+                <year>2021</year>
+              </pub-date>
+              <volume>22</volume>
+              <elocation-id>687</elocation-id>
+              <history>
+                <date date-type="received">
+                  <day>17</day>
+                  <month>3</month>
+                  <year>2021</year>
+                </date>
+                <date date-type="accepted">
+                  <day>20</day>
+                  <month>9</month>
+                  <year>2021</year>
+                </date>
+              </history>
+              <permissions>
+                <copyright-statement>© The Author(s) 2021</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+                </license>
+              </permissions>
+              <abstract id="Abs1">
+                <sec>
+                  <title>Background</title>
+                  <p id="Par1">The traditional spoon-feeding approach to introduction of solid foods during the complementary feeding period is supported by consensus in the scientific literature. However, a method called Baby-Led Introduction to SolidS (BLISS) has been proposed as an alternative, allowing infants to self-feed with no adult interference. To date, there have been no trials in the Brazilian population to evaluate the effectiveness of BLISS in comparison to the traditional approach.</p>
+                </sec>
+                <sec>
+                  <title>Methods/design</title>
+                  <p id="Par2">To evaluate and compare three different complementary feeding methods. Data on 144 mother-child pairs will be randomized into intervention groups by methods: (A) strict Parent-Led Weaning; (B) strict Baby-Led Introduction to SolidS; and (C) a mixed method. Prospective participants from Porto Alegre, Brazil, and nearby cities will be recruited through the Internet. The interventions will be performed by nutritionists and speech therapists, at 5.5 months of age of the child, at a private nutrition office equipped with a test kitchen where meals will be prepared according to the randomized method. The pairs will be followed up at 7, 9, and 12 months of age. Data will be collected through questionnaires designed especially for this study, which will include a 24h child food recall, questionnaires on the child’s and parents’ eating behavior, oral habits, eating difficulties, and choking prevalence. At 12 months of age, children will undergo blood collection to measure hemoglobin, ferritin, and C-reactive protein, saliva collection for analysis of genetic polymorphisms, and oral examination. Anthropometric parameters (child and maternal) will be measured at the baseline intervention, at a 9 month home visit, and at the end-of-study visit at the hospital. The primary outcome will be child growth and nutritional status <italic>z</italic>-scores at 12 months; secondary outcomes will include iron status, feeding behavior, acceptability of the methods, dietary variety, choking, eating behaviors, food preferences, acceptance of bitter and sweet flavors, suction, oral habits, oral hygiene behavior, dental caries, gingival health status, and functional constipation.</p>
+                </sec>
+                <sec>
+                  <title>Discussion</title>
+                  <p id="Par3">The trial intends to ascertain whether there are potential advantages to the BLISS complementary feeding method in this specific population, generating data to support families and healthcare providers.</p>
+                </sec>
+                <sec>
+                  <title>Trial registration</title>
+                  <p id="Par4">Brazilian Clinical Trials Registry (ReBEC): RBR- 229scm number <ext-link ext-link-type="uri" xlink:href="http://ensaiosclinicos.gov.br/rg/RBR-229scm/">U1111-1226-9516</ext-link>. Registered on September 24, 2019.</p>
+                </sec>
+              </abstract>
+              <kwd-group xml:lang="en">
+                <title>Keywords</title>
+                <kwd>Complementary feeding</kwd>
+                <kwd>Feeding behavior</kwd>
+                <kwd>Feeding preferences</kwd>
+                <kwd>Infant overweight</kwd>
+                <kwd>Iron deficiency anemia</kwd>
+                <kwd>Choking</kwd>
+                <kwd>constipation</kwd>
+                <kwd>Clinical trial</kwd>
+              </kwd-group>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>issue-copyright-statement</meta-name>
+                  <meta-value>© The Author(s) 2021</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+          </front>
+          <body>
+            <sec id="Sec1">
+              <title>Background</title>
+              <p id="Par24">Complementary feeding (CF) is the process of introducing solid and liquid foods other than breast milk or infant formula to an infant’s diet [<xref ref-type="bibr" rid="CR1">1</xref>]. The CF period represents the transition from milk feeding to solid foods [<xref ref-type="bibr" rid="CR2">2</xref>]. Over the past half-decade, researchers have started to conduct studies about specific approaches to CF [<xref ref-type="bibr" rid="CR3">3</xref>–<xref ref-type="bibr" rid="CR10">10</xref>]. In the last decade, an alternative approach named Baby-Led Weaning (BLW) which consists of allowing the infant to make their own food choices, deciding the quantity and sensory characteristics of food according to their own energy needs, has been widely disseminated through digital media [<xref ref-type="bibr" rid="CR11">11</xref>]. This method suggests offering food in pieces, strips, or sticks and claims that CF should not be influenced by the imposition of caregivers, who generally assume what and how much food the child needs and wants [<xref ref-type="bibr" rid="CR12">12</xref>]. Currently, the Brazilian guideline recommends traditional spoon-feeding based on responsive feeding and suggests that soft foods can be offered to the child to handle if they are large pieces, and that meals have their consistency gradually progressed until, at twelve months of age, they reach a food consistency used by the child family [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+              <p id="Par25">Considering several questions raised by parents and healthcare professionals regarding the BLW method, such as possible risks of choking and inadequate supply of iron and calories, a group of New Zealand professionals created a modified version of this approach, which they named Baby-Led Introduction to SolidS (BLISS). The BLISS recommendations are the same as those of the BLW method, with some additional advice, including offer food shaped in large pieces, which the infant can hold by himself; guarantee one source of iron-rich food at each meal; offer a high-calorie food at each meal; offer prepared foods in a texture that reduces the risk of choking, and avoid foods listed as high risk of aspiration; always try the food before offering it to the infant, to check it does not become solid in the oral cavity; avoid round or coin-shaped foods; and ensure that the infant is seated, erect, and under supervision of an adult. A study compared the BLW and BLISS approaches, where BLISS participants received two intervention visits, resources, and on-call support, while BLW participants received no intervention. Findings showed that the BLISS intervention allowed to increase the offerings and variety of iron-containing foods and to reduce the offering of high-choking-risk foods [<xref ref-type="bibr" rid="CR14">14</xref>].</p>
+              <p id="Par26">Although the Brazilian guideline for CF has been reviewed and republished recently, the conventional method, Parent-Led Weaning (PLW), is still advised, and there are no recommendations for a baby-guided approach in Brazil [<xref ref-type="bibr" rid="CR13">13</xref>]. Likewise, the current World Health Organization (WHO) guidance proposes pureed foods in the early stages of CF, with consistency progressing gradually along the first year of life [<xref ref-type="bibr" rid="CR15">15</xref>]. Within this context, the present study intends to contribute to the following outcomes:</p>
+              <sec id="Sec2">
+                <title>Growth faltering</title>
+                <p id="Par27">A nutritionally adequate diet is essential throughout childhood and especially crucial in the first 3 years of life, which are a critical period for growth faltering [<xref ref-type="bibr" rid="CR13">13</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. Previously known as failure to thrive, growth faltering is defined as a current weight or rate of weight gain lower when compared to those of average children of the same age and sex [<xref ref-type="bibr" rid="CR16">16</xref>]. It is related to many organic and nonorganic causes, including oral and motor function, which has raised concerns among healthcare professionals as to how efficiently an infant would be able to self-feed in terms of quantity as well as how motivated an infant would be to lead the feeding process [<xref ref-type="bibr" rid="CR17">17</xref>].</p>
+                <p id="Par28">It is still unclear whether a Baby-Led method would interfere with the growth process. The evidence available to date has not found any children with faltering growth, nor any significant differences in growth rate between the CF groups at 12 months, although recommendations about offering a high-calorie food with each meal were given [<xref ref-type="bibr" rid="CR18">18</xref>]. Another study was designed to analyze this outcome [<xref ref-type="bibr" rid="CR19">19</xref>], however, did not use the BLISS recommendations for energy intake, and assessed different ages. A case-controlled study examined children aged 20 to 78 months and found that spoon-fed ones appeared to be more obese (<italic>z</italic>-score &gt; + 3), while the incidence of underweight (<italic>z</italic>-score &lt; − 3) was higher in the BLW group [<xref ref-type="bibr" rid="CR9">9</xref>]. A year after this study, a longitudinal investigation of self-reported weight in a sample aged 18 to 24 months found that children weaned with the standard method were more likely to be overweight (19.12% versus 8.1% in the BLW group) [<xref ref-type="bibr" rid="CR20">20</xref>].</p>
+              </sec>
+              <sec id="Sec3">
+                <title>Iron deficiency</title>
+                <p id="Par29">Infants are vulnerable to anemia, especially iron-deficiency anemia (IDA), which represents a major public health problem with definite impacts on population health [<xref ref-type="bibr" rid="CR21">21</xref>]. The literature suggests that early eating practices play an important role in the prevalence of iron deficiency [<xref ref-type="bibr" rid="CR22">22</xref>]. Anemia is defined as the condition in which the blood hemoglobin concentration is two standard deviations below the reference for age, sex, and height [<xref ref-type="bibr" rid="CR23">23</xref>]; 50% of cases are due to iron deficiency. It is estimated that about 25% of Brazilian children under age 3 years have IDA, and the promotion of breastfeeding, healthy eating habits, and prophylactic iron supplementation have long been employed as strategies to prevent this condition [<xref ref-type="bibr" rid="CR24">24</xref>].</p>
+                <p id="Par30">BLISS method does not appear to increase the risk of iron deficiency in comparison to PLW when parents are advised to offer high-iron foods in each meal [<xref ref-type="bibr" rid="CR25">25</xref>]. Given the evidence of IDA in this age group and the scarcity of published studies on infant-guided feeding introduction methods (none in the Brazilian population), systematic investigation and evaluation of anemia in early childhood are particularly important.</p>
+              </sec>
+              <sec id="Sec4">
+                <title>Feeding behavior</title>
+                <p id="Par31">The feeding styles of caregivers and choice of CF method may influence the complex process of eating behavior [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR27">27</xref>]. Caregivers’ encouragement of healthy eating and the responsibility and supervision of feeding was associated with reasonable children’s eating behaviors, especially low children’s emotional eating, infrequent satiety responsiveness, and food fussiness behaviors [<xref ref-type="bibr" rid="CR27">27</xref>]. The authoritative style of parenting has a significant negative direct effect on children’s including emotional overeating and food fussiness [<xref ref-type="bibr" rid="CR28">28</xref>]. Additionally, high parent-centered feeding along with high child-centered feeding styles was associated with improved diet quality and the lowest percentage of overweight and obese children in a study of Latino families [<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+                <p id="Par32">A study of 565 parents with toddlers aged 12 to 36 months in the United Kingdom found that parents who were following a strict, predominantly BLW style used less instrumental feeding practices, exerted significantly less control over their toddler’s eating, used significantly less encouragement to increase food consumption, shared their mealtimes, and ate the same meals with their children [<xref ref-type="bibr" rid="CR30">30</xref>]. The food preferences developed at this age have a long-lasting impact. Combined with the stress surrounding infant feeding decisions, feeding advice for parents must be aligned with appropriate expectations regarding effects on eating behavior.</p>
+              </sec>
+              <sec id="Sec5">
+                <title>Dietary quality</title>
+                <p id="Par33">A Baby-Led approach to complementary feeding has been suggested to increase dietary variety and exposure to more textured foods at a young age. According to Morison et al. (2018), at 7 months of age, BLISS participants had greater total food variety with no difference in fruit and vegetable variety. However, at 24 months of age, BLISS children had greater variety in fruits and vegetables compared to traditionally spoon-fed children [<xref ref-type="bibr" rid="CR31">31</xref>].</p>
+                <p id="Par34">BLW researchers suggest that a baby-guided approach leads to healthier food choices, since there is greater fruit and vegetable exposure and variety, as well as greater participation in family meals [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]. However, few studies have investigated whether baby-guided approaches influence food variety [<xref ref-type="bibr" rid="CR3">3</xref>, <xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR33">33</xref>].</p>
+              </sec>
+              <sec id="Sec6">
+                <title>Feeding difficulties</title>
+                <p id="Par35">The prevalence of feeding difficulties in childhood ranges from 20 to 35% [<xref ref-type="bibr" rid="CR34">34</xref>] and represents a high-impact clinical problem for children and families alike [<xref ref-type="bibr" rid="CR35">35</xref>]. The consequences of these difficulties include growth faltering, malnutrition, lethargy, developmental delay, aspiration, invasive medical procedures (such as feeding tube placement), and hospitalization [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+                <p id="Par36">Children with feeding difficulties, such as food neophobia or picky eating, consume fewer fruits and vegetables, have a lower-variety diet, and weigh in at lower percentiles [<xref ref-type="bibr" rid="CR37">37</xref>]. In addition to their potential impact on physical well-being and development, eating problems are associated with parental stress, emotional well-being, and parent-child interactions [<xref ref-type="bibr" rid="CR38">38</xref>]. To the best of our knowledge, the evidence published to date has not yet analyzed the influence of different CF approaches on the prevalence of feeding difficulties.</p>
+              </sec>
+              <sec id="Sec7">
+                <title>Food preferences</title>
+                <p id="Par37">The strongest predictors of food preferences in childhood are whether the child likes how food tastes; how long they were breastfed, and, while breastfeeding, what their mothers were eating; and whether they were offered and ate these foods at an early age [<xref ref-type="bibr" rid="CR39">39</xref>]. Therefore, food choices are strongly associated with sensory properties, leading to acceptance or aversion to certain foods [<xref ref-type="bibr" rid="CR40">40</xref>]. The sensation of flavor is formed by a complex combination of taste, smell, and somatosensory information [<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+                <p id="Par38">Variations in taste perception among individuals can also shape flavor preferences, influencing dietary intake and long-term eating habits [<xref ref-type="bibr" rid="CR42">42</xref>]. Studies have demonstrated that genetic variations related to bitter taste, for instance, may be related to acceptance of feeding introduction [<xref ref-type="bibr" rid="CR43">43</xref>], to food selectivity [<xref ref-type="bibr" rid="CR44">44</xref>], and higher daily energy density from snacks in children aged 3 to 5 years [<xref ref-type="bibr" rid="CR45">45</xref>]. Regarding sweet taste, research has related the TAS1R2 and TAS1R3 receptors to changes in preference for sweet taste and eating behavior, higher risk of cavities, and greater consumption of carbohydrate-rich foods [<xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR46">46</xref>]. However, no studies have explored the impact of different forms of feeding introduction and environmental modulation on acceptance of specific flavors in childhood while analyzing associated genetic polymorphisms as well.</p>
+              </sec>
+              <sec id="Sec8">
+                <title>Oral habits</title>
+                <p id="Par39">The prevalence of dental caries in individuals up to 3 years of age in different Brazilian cities has been reported to range from 11 to 29% [<xref ref-type="bibr" rid="CR47">47</xref>, <xref ref-type="bibr" rid="CR48">48</xref>]. Sucrose is known to be an essential risk factor for the development of this disease [<xref ref-type="bibr" rid="CR49">49</xref>]. The age of onset of sucrose exposure appears essential; dietary factors observed before age 12 months are associated with severe early childhood caries (S-ECC) at preschool age [<xref ref-type="bibr" rid="CR50">50</xref>, <xref ref-type="bibr" rid="CR51">51</xref>]. Duration and type of breastfeeding also appear to influence the experience of dental caries [<xref ref-type="bibr" rid="CR51">51</xref>, <xref ref-type="bibr" rid="CR52">52</xref>].</p>
+                <p id="Par40">Otherwise, results of a study in which researchers used electromyography suggest that the muscle activity of infants who are breastfed exclusively renders them less likely to develop dysfunctional muscular patterns that might predispose bottle-fed infants to develop a malocclusion [<xref ref-type="bibr" rid="CR53">53</xref>].</p>
+                <p id="Par41">A study that compared baby-led weaning with the traditional method demonstrated that the former was associated with lower odds of exposure to sucrose and processed foods [<xref ref-type="bibr" rid="CR54">54</xref>], which could contribute to better oral outcomes. Therefore, our intention in evaluating oral habits is to investigate whether feeding methods could lead to different oral outcomes in our population. We are not aware of any published literature on the effects of baby-guided CF on dental caries or gingival inflammatory status.</p>
+              </sec>
+              <sec id="Sec9">
+                <title>Choking</title>
+                <p id="Par42">Parents, caregivers, and health professionals often express concern regarding the risk of choking associated with CF methods, especially the BLW. First, it is prudent to differentiate choking/asphyxiation from the gag reflex, which is a normal physiological condition. In a review that addressed the theme, there was no difference in the proportions of choking/asphyxiation between those who adhered to the BLW strategy and those exposed to traditional eating behavior, despite the fear in the discourse of parents and health professionals [<xref ref-type="bibr" rid="CR55">55</xref>]. Clinical studies also found no difference and reported a small number of severe choking/asphyxiation events in both groups [<xref ref-type="bibr" rid="CR56">56</xref>, <xref ref-type="bibr" rid="CR57">57</xref>]. Regardless of the CF method, it is important to emphasize that parents/caregivers should offer safe food in appropriate environments, as well as to know how to correctly manage babies in case of choking [<xref ref-type="bibr" rid="CR56">56</xref>].</p>
+              </sec>
+              <sec id="Sec10">
+                <title>Functional constipation</title>
+                <p id="Par43">Functional constipation (FC) is a frequent complaint in pediatric clinics, with a worldwide prevalence in children ranging from 0.5 to 32.3% [<xref ref-type="bibr" rid="CR58">58</xref>]. In addition to impacting the quality of life of these children and their families, the process of diagnosis and treatment of FC is financially demanding on health systems [<xref ref-type="bibr" rid="CR59">59</xref>]. Factors that can contribute to FC include pain, fever, dehydration, food and fluid intake, psychological issues, toilet training, medications, and family history of constipation [<xref ref-type="bibr" rid="CR60">60</xref>]. The lack of data in the literature on the impact of different CF methods on the amount of fiber ingested and the consequences of this intake for intestinal health makes the study of this outcome important to guide future recommendations.</p>
+              </sec>
+            </sec>
+            <sec id="Sec11">
+              <title>Methods/design</title>
+              <sec id="Sec12">
+                <title>Study design</title>
+                <p id="Par44">The study will consist of a three-arm controlled trial (Fig. <xref rid="Fig1" ref-type="fig">1</xref>), which will intend to randomize mothers and their respective infants into three different groups of CF: (A) strict Parent-Led Weaning (PLW), which is the control arm; (B) strict Baby-Led Introduction to SolidS (BLISS); and (C) mixed method: a combination of PLW and BLISS created especially for this study. Three interventions will be performed throughout the study, and measurement of the main outcomes is expected at 12 months of age. The framework expected to the outcomes is that BLISS and mixed methods will be superior to the PLW method.
+<fig id="Fig1"><label>Fig. 1</label><caption><p>Study design flow chart. PLW, Parent-Led Weaning; BLISS, Baby-Led Introduction to SolidS. Adapted from Daniels et al. (2015) [<xref ref-type="bibr" rid="CR18">18</xref>]</p></caption><graphic xlink:href="13063_2021_5647_Fig1_HTML" id="MO1"/></fig></p>
+                <p id="Par45">This study has been approved by Hospital de Clínicas de Porto Alegre (HCPA) Ethics Committee (under number 2019-0230, CAAE: 1537018500005327) and is currently registered in the Brazilian Clinical Trials Registry (ReBEC) with accession number RBR- 229SCM. The protocol was written according to SPIRIT guideline, and its checklist was carried out (Additional File).</p>
+                <p id="Par46">Written informed consent will be obtained from all responsible of the participants before randomization. This document specifies all steps carried out in the research, as well as the consent to publish the data and the confidentiality, making it clear that the results will be presented together, without identifying or naming the participants. The research team will clarify all participants’ questions about the research procedures before signing the consent form. The research will bring direct benefits of nutritional support to participant children, as well as clarify any doubts expressed by mothers at the start of the study and throughout the study period, until age 12 months. A survey will provide feedback on nutrition assessment results and laboratory tests, by e-mail or letter; in case of relevant changes, a copy will be forwarded to the referral health unit. If any nutritional deficit or excess is detected, the child will be referred to an appropriate health care provider.</p>
+              </sec>
+              <sec id="Sec13">
+                <title>Participants and recruitment</title>
+                <p id="Par47">Participants will consist of parents and their lactating children. Recruitment will take place by online invitation, through social networking pages, targeted mothers’ groups, and the HCPA bulletin board. The invitation letter will contain a phone number and an email address where parents can leave a message if they wish to participate. Once checked against the inclusion criteria, those found eligible will receive a standardized message explaining the study details, risks, and benefits, and any further questions will be answered by the researchers by phone or e-mail. After confirmation of interest, the consent form will be sent by email. Once the signed consent form is received back, the participant will be randomized to one of the groups.</p>
+              </sec>
+              <sec id="Sec14">
+                <title>Inclusion criteria</title>
+                <p id="Par48">Mothers living in Porto Alegre, Rio Grande do Sul, Brazil (population 1,483,771) [<xref ref-type="bibr" rid="CR61">61</xref>] or nearby cities, with healthy singleton infants born at term, with birth weight ≥ 3500 g, between 0 and 4 months of life and who have not yet started the CF process will be eligible to participate.</p>
+              </sec>
+              <sec id="Sec15">
+                <title>Exclusion criteria</title>
+                <p id="Par49">Children who develop neurological deficits or congenital abnormalities, or any food restriction (as indicated by their pediatrician) during the follow-up period will be excluded from the study.</p>
+              </sec>
+              <sec id="Sec16">
+                <title>Sample size</title>
+                <p id="Par50">The sample size was calculated using WinPepi® software version 11.65, based on previously published studies on the subject. Considering a unit standard deviation of 1, statistical power of 80%, and a significance level of 5% to detect a difference in BMI of 0.8 kg/m<sup>2</sup> [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR24">24</xref>], the sample calculation for a half standard deviation difference will consist of 48 mother-infant pairs for each of the three intervention groups, totaling 144 pairs of mothers and infants.</p>
+              </sec>
+              <sec id="Sec17">
+                <title>Randomization</title>
+                <p id="Par51">After signing the consent form, participants will be sequentially numbered and have their names entered into a randomization list of three blocks and equal numbers, previously computer-generated (<ext-link ext-link-type="uri" xlink:href="http://www.randomization.com">http://www.randomization.com</ext-link>) by blinded research staff.</p>
+                <p id="Par52">Only at the time of the first intervention will mothers be aware of their group allocation. Assessment data will be collected by a different researcher from the one responsible for the intervention, blinded to the allocation group, in a different room.</p>
+              </sec>
+              <sec id="Sec18">
+                <title>Study groups</title>
+                <p id="Par53">All participants will receive one of three interventions during the study. First, when infants are 5.5 months old, a dietary workshop at a private nutrition office equipped with the test kitchen, in which nutritionists will teach parents how to begin CF as appropriate for the group to which they were randomized. Participants and nutritionists will cook example meals together in real-time at the test kitchen (Table <xref rid="Tab1" ref-type="table">1</xref>).
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Interventions and outcome measures at specified time points</p></caption><graphic position="anchor" xlink:href="13063_2021_5647_Tab1_HTML" id="MO2"/><table-wrap-foot><p><italic>BLISS</italic>, Baby-led Introduction to SolidS; <italic>PLW</italic>, Parent-Led Weaning, <italic>CRC</italic>, Clinical Research Center; <italic>CRP</italic>, C-reactive protein; <italic>BEBQ</italic>, Baby Eating Behavior Questionnaire; <italic>CEBQ</italic>, Child Eating Behavior Questionnaire; <italic>CFSQ</italic>, Caregiver Feeding Style Questionnaire; <italic>DEBQ</italic>, Dutch Eating Behavior Questionnaire; <italic>MCH-FS</italic>, Montreal Children’s Hospital Eating Scale; <italic>SLP</italic>, Speech-Language Pathologists</p></table-wrap-foot></table-wrap></p>
+                <p id="Par54">At the same visit, speech therapists will advise on choking prevention, showing videos with examples of choking and gagging. All advice will be standardized; each group will have its own set of printed material of topics to be addressed by the professional, and each participant will receive a copy to take home. The major differences between the intervention groups are the consistency of foods and the level of adult participation during each meal. The basic information that every group will receive during the first intervention is:
+<list list-type="alpha-lower"><list-item><p id="Par55">Encouragement to breastfeed exclusively for 6 months and continue breastfeeding to at least 24 months or longer.</p></list-item><list-item><p id="Par56">Not to start CF until their infant is 6 months of age.</p></list-item><list-item><p id="Par57">Make sure the infant is always sitting upright and under adult supervision when they are eating.</p></list-item><list-item><p id="Par58">Specific food techniques to improve food bioavailability of iron and energy.</p></list-item><list-item><p id="Par59">Avoid offering honey, sugar, caffeine, juice, processed foods, and low-energy foods, such as soups, in the first 2 years of life.</p></list-item><list-item><p id="Par60">At age 6 months, offer a fruit at two different times plus one main meal (lunch) and, by 7 months, introduce a second main meal (dinner).</p></list-item><list-item><p id="Par61">Not to sift and/or liquefy any type of food.</p></list-item><list-item><p id="Par62">Not to offer hard foods such popcorn or nuts, nor any foods that might become sticky in the mouth, such as peanut butter.</p></list-item></list></p>
+                <p id="Par63">After the first intervention, every mother will receive a dietitian’s personal phone number to call if they have questions related to the study or the CF process.</p>
+                <p id="Par64">Second, a home visit at 9 months of age will serve to measure anthropometric parameters of the mother and child. At this time, questionnaires will also be administered and any extra individualized advice or support for the CF process will be provided, always appropriate for the approach to which each mother-child pair was allocated. The visits will be led by two blinded researchers; to avoid unblinding, one will obtain anthropometric measurements before the other applies the questionnaire, as some answers given might reveal the allocation group. The visit will end with a thank-you card, to motivate family engagement with the study.</p>
+                <p id="Par65">Finally, the last intervention will be conducted at the HCPA Clinical Research Center (CRC). Blood samples will be drawn for measurement of plasma ferritin, C-reactive protein (CRP), and a complete blood count, as well as saliva for genetic tests. Anthropometric measurements will be repeated, an intraoral examination will be performed, and the end-of-study questionnaires will be administered, as well as a flavor preference test. Mothers will then receive a booklet with advice on healthy nutrition and oral habits, such as nutritional assessment, oral evaluation, and oral hygiene guidance; blood test results; and nutritional guidelines for the child’s further years to come, encouraging them to continue to pay attention to healthy eating.</p>
+              </sec>
+              <sec id="Sec19">
+                <title>Parent-Led Weaning group</title>
+                <p id="Par66">Mothers allocated to the PLW group, besides the standard information described above, will be encouraged to spoon-feed pureed foods to their infants, following the traditional feeding method. Consistency should progress gradually until family meal texture is reached by 12 months of age. Mothers will be instructed not to mix or incorporate more than one food at a time, to ensure the child is capable of learning the difference between flavors.</p>
+              </sec>
+              <sec id="Sec20">
+                <title>BLISS group</title>
+                <p id="Par67">In addition to the standard information, participants from the BLISS group will be taught to prepare meals shaped into sticks, allowing the child to self-feed without adult interference. The ideal food consistency, size, and shape will be demonstrated during the workshop to guarantee the method is properly performed. Recipes for adaptation of foods such as beans will be given and explored. Although we will not expect the adult to feed the child, we intend to emphasize the difference between not interfering with the feeding process and supervising the child, with an emphasis on the advice to never leave the child alone during a meal.</p>
+              </sec>
+              <sec id="Sec21">
+                <title>Mixed group</title>
+                <p id="Par68">This group will be instructed to combine the two methods explored above according to the child’s wishes. In short, the mother would prepare meals in both consistencies and allow the child to both be spoon-fed and grab sticks of food concomitantly as they desire, without following a regular pattern. If the child prefers to eat certain types of foods as sticks and others mashed, that would be allowed, i.e., self-feed fruit sticks and then be spoon-fed dinner. All standard information would also be given to this group.</p>
+              </sec>
+              <sec id="Sec22">
+                <title>Adherence</title>
+                <p id="Par69">To ensure the families follow these instructions, a blinded researcher will conduct a phone call when the child is 7 months of age and ask some key questions (about food consistency when the child started to eat, and at 7 months; if the child takes food to mouth alone; and if the child receives food in spoon). A different researcher will analyze the answers and compare them with further data collected at the 9-month visit, in addition to a 24-h dietary record. These records will be collected during the home visit, by trained researchers. However, as some mothers might not be able to quantify food intake exactly, all participants will also be asked when they introduced a variety of different foods at the 9-month and 12-month visits. Questionnaires to assess adherence to self-feeding, breastfeeding practices, and introduction of complementary foods at 6 months will also be administered at the 9-month and 12-month visits. The rates of adherence will be analyzed. All participants will be included to the final analyses, regardless of having followed the method, since the analyzes will be made by intention-to-treat.</p>
+              </sec>
+              <sec id="Sec23">
+                <title>Outcome measures</title>
+                <p id="Par70"><italic>Z</italic>-scores of anthropometric measurements (weight for age, weight for length, length for age, and BMI for age <italic>z</italic>-scores) will be our primary outcome measure to investigate child growth and nutritional status. As secondary outcomes, we will analyze choking prevalence, dietary variety, food and flavor preference, child and parent feeding behavior, iron deficiency, oral hygiene behavior, dental caries, dental development, gingival health status, the prevalence of functional constipation, maternal perception of the CF methods, and prevalence of child eating disorders.</p>
+              </sec>
+              <sec id="Sec24">
+                <title>Anthropometric measures</title>
+                <p id="Par71">The first questionnaire, administered at 6 months, will inquire about birth weight, birth length, and head circumference. Mothers are expected to obtain these data from the child’s hospital records or vaccination card.</p>
+                <p id="Par72">At 6, 9, and 12 months of age, blinded researchers trained by the International Society for the Advancement of Kinanthropometry (ISAK) [<xref ref-type="bibr" rid="CR62">62</xref>] will obtain anthropometric measurements, double-checking and calculating a mean value for every assessment. Inter-observer technical error of measurement (TEM) [<xref ref-type="bibr" rid="CR63">63</xref>] and the coefficient of reliability will be calculated, and anthropometry standardization sessions will be conducted to monitor the measurement techniques and prevent error or bias. Teams will be retrained throughout the study as necessary.</p>
+                <p id="Par73">All infant participants will be weighed completely undressed and diaperless, in the laps of their mothers, who will be expected to wear light clothes only (no shoes, cellphone, wallets, or other accessories). The mothers will then be weighed alone, and the latter result subtracted from the former to obtain the child’s weight. We intend to use calibrated digital scales (Plenna®) with 0.1 kg resolution.</p>
+                <p id="Par74">Recumbent length will be measured to the nearest 0.1 cm using a portable length board. The same calibrated equipment will be used at every phase of the study to ensure accuracy. All measurements will be taken in duplicate and the average calculated. BMI (kg/m<sup>2</sup>) and BMI-for-age (<italic>z</italic>-score) at 6, 9, and 12 months of age, as well as weight-for-age, weight for length, and length for age <italic>z</italic>-scores, will be calculated using the WHO child growth standards [<xref ref-type="bibr" rid="CR16">16</xref>].</p>
+                <p id="Par75">Skinfolds (triceps and subscapular) will be measured with a calibrated adipometer (Lange®) in mothers and infants, as well as arm and waist circumference in mothers and head and arm circumference in children.</p>
+              </sec>
+              <sec id="Sec25">
+                <title>Questionnaires</title>
+                <p id="Par76">Upon study enrollment, mothers will complete a sociodemographic questionnaire for calculation of the Brazilian Index Score (ABIPEME criteria) [<xref ref-type="bibr" rid="CR64">64</xref>].</p>
+                <p id="Par77">At 9 and 12 months, we will investigate feeding practices and the presence of choking. Eating behaviors and intestinal habits will be inquired specifically at the 12-month visit, as will the acceptability of the allocated CF approach to parents, focusing on “mess”, convenience, and cost.</p>
+                <p id="Par78">Food intake will be assessed by a 24-h dietary recall. Data on oral hygiene habits will be collected through a questionnaire created for this study. Infant feeding behavior will be tested by the Baby Eating Behavior Questionnaire (BEBQ) [<xref ref-type="bibr" rid="CR65">65</xref>] and Children Eating Behavior Questionnaire (CEBQ) [<xref ref-type="bibr" rid="CR66">66</xref>]. Parental feeding perception will be assessed by the Caregiver Feeding Style Questionnaire (CFSQ) [<xref ref-type="bibr" rid="CR67">67</xref>], while parental eating behavior will be assessed by the Dutch Eating Behavior Questionnaire (DEBQ) [<xref ref-type="bibr" rid="CR68">68</xref>]. Finally, eating difficulties will be assessed with the Montreal Children’s Hospital Eating Scale (MCH-FS) [<xref ref-type="bibr" rid="CR69">69</xref>].</p>
+              </sec>
+              <sec id="Sec26">
+                <title>Choking</title>
+                <p id="Par79">At the 9-month and 12-month visits, choking and gagging will be assessed by specific questions regarding frequency, a description of which food or drink and consistency was involved, how many times it occurred and maneuvers used to resolve the episode. Researchers will be trained to make sure they are able to distinguish a gagging event from a choking event while applying the questionnaire. We also hope the video examples shown to participants during the first intervention will help them distinguish between the two when reporting events to the researchers.</p>
+              </sec>
+              <sec id="Sec27">
+                <title>Dietary assessment</title>
+                <p id="Par80">At the 9-month and 12-month visits, trained researchers will administer a 24-h dietary recall (referring to the preceding day) designed to estimate the quantity, type, brands, time of the day, and cooking methods (including a description of any recipes used, with amounts of raw ingredients) of all foods and drinks consumed by the infant. If the mother considers the previous day to have been atypical, she can substitute another day of the week that was more similar to the family’s eating routine.</p>
+                <p id="Par81">The consistency of the food or drink (puréed, mashed, diced or whole), who fed the child (parent, child, or both), iron supplementation (including type, brand, time of day offered, and the amount taken) will also be collected.</p>
+                <p id="Par82">All diet records will be entered into the dietary analysis in nutrition software to analyze energy, protein, fat, carbohydrate, iron intake and other micronutrients.</p>
+              </sec>
+              <sec id="Sec28">
+                <title>Biochemical assessment</title>
+                <p id="Par83">At the 12-month visit, 6 mL of blood will be drawn from each child by venipuncture, preferably from the cubital vein. Each aliquot will be divided into 3 different tubes for analysis, containing 3 mL of blood each: namely: blacktop with no gel, for ferritin; and lavender top, containing the chelating agent ethylenediaminetetraacetic acid (EDTA), for complete blood count.</p>
+                <p id="Par84">After blood collection, a pressure dressing will be placed at the puncture site and children will be instructed not to bear weight or apply force with the punctured arm for at least an hour [<xref ref-type="bibr" rid="CR39">39</xref>].</p>
+                <p id="Par85">If the child has an evident inflammatory or infectious condition at the time of collection, the procedure will be postponed to 14 days after remission of symptoms, in order to avoid possible momentary changes in laboratory parameters due to the disease.</p>
+                <sec id="Sec29">
+                  <title>Adverse events</title>
+                  <p id="Par86">We intend to monitor any adverse event caused by the trial participation. Presence of choking incidents will be identified in the questionnaires along with possible growth faltering, identified during the 9- and 12-month anthropometric measurement sessions. We will pay special attention to monitor multiple occurrences of adverse events in a specific participant as well as a high prevalence of any adverse event in multiple participants.</p>
+                </sec>
+              </sec>
+              <sec id="Sec30">
+                <title>Saliva collection and DNA extraction</title>
+                <p id="Par87">Total DNA will be extracted from samples of oral mucosal cells present in saliva, collected with a sterile swab. The samples will be stored at − 20 °C in their collection tubes until processing. DNA extraction will be performed with a QIAamp DNA Mini Kit, which produces samples with high purity and yield. Quantification will be performed in an L-Quant system (Loccus).</p>
+              </sec>
+              <sec id="Sec31">
+                <title>Analysis of polymorphisms</title>
+                <p id="Par88">Nine SNPs previously associated with feeding preferences will be analyzed: rs1726866, rs713598, and rs10246939, located in the candidate gene <italic>TAS2R38</italic>; rs1376251, located on <italic>TAS2R50</italic>; rs846672, located at <italic>TAS2R16</italic>; rs35874116 and rs9701796, located on <italic>TAS1R2</italic>; and rs307355 and rs35744813, located in <italic>TAS1R3</italic>. Real-time PCR analysis will be used to determine the genotypes and polymorphisms through TaqMan® SNP genotyping assays, using the QuantStudio 3 Real-Time PCR System.</p>
+              </sec>
+              <sec id="Sec32">
+                <title>Flavor acceptance test</title>
+                <p id="Par89">The test will be performed as proposed by Schwartz, Issanchou, and Nicklaus (2009). Children will be offered solutions tasting of each of the predominant basic flavors: sweet, salty, sour, bitter, and umami [<xref ref-type="bibr" rid="CR70">70</xref>]. The solutions will consist of mineral water and flavorings whose molecules can be easily found in the amniotic fluid during pregnancy, in breast milk, infant formula, or in complementary foods: lactose for sweet taste, sodium chloride for salty taste, urea for bitter taste, citric acid for sour taste, and monosodium glutamate for umami flavor.</p>
+                <p id="Par90">Concentrations will be titrated to generate moderate flavor intensity by diluting 3.42 g of lactose, 0.25 g of sodium chloride, 0.057 g citric acid, or 0.085 g monosodium glutamate in 50 mL of mineral water (0.16 g urea will be diluted in 15 mL of water). Parents will be instructed to offer milk or water to the child 1 h before the test, and no more food or drink thereafter, to limit the variability of thirst and hunger and its potential impact on the acceptance of different flavors. The solutions will be offered in a container to which the child is accustomed (bottle or glass), as follows: one solution will be offered for 45 s, followed by a 15-s break; another 45-s offer of solution, another 15-s pause; an offer of water, followed by a 1- to 2-min pause before the next solution is offered. The test will be filmed for later analysis on a hedonic scale.</p>
+                <p id="Par91">The solutions will be offered by a blinded researcher and weighed before and after the test. Flavor acceptance will be evaluated two ways: calculation of ingested volume and hedonic scale. The latter will be based on the child's facial and body reactions, on a scale of 5 points: (1) strong rejection, (3) mild rejection, (3) neutral reaction, (4) mild acceptance, and (5) strong acceptance.</p>
+              </sec>
+              <sec id="Sec33">
+                <title>Oral health evaluation</title>
+                <p id="Par92">At the 12-month visit, the visible biofilm and gingival bleeding will be recorded for each tooth surface [<xref ref-type="bibr" rid="CR71">71</xref>]. With a clean dental surface after professional toothbrushing, the dental caries assessment will be performed using the International Caries Detection and Assessment System to detect Early Childrenhood Caries [<xref ref-type="bibr" rid="CR72">72</xref>].</p>
+                <p id="Par93">Primary dentition development and occlusal pattern will be determined by two previously calibrated examiners and the following variables evaluated: presence or absence of deep overbite, open bite, anterior crossbite, posterior cross bite, and overjet [<xref ref-type="bibr" rid="CR73">73</xref>].</p>
+              </sec>
+              <sec id="Sec34">
+                <title>Quality control</title>
+                <p id="Par94">Each mother-child pair will receive a specific identification code number, corresponding to the questionnaires and examinations performed, to maintain the anonymity of the participants. To ensure the information provided to participants is standardized, the following procedures will be adopted:</p>
+                <p id="Par95">Standard operating procedures: all the initial information given to explain the study will be saved in a document to be forwarded to the interested mothers. A flowchart of interventions with topics to be followed will be provided to ensure that investigators always address the same subjects.</p>
+                <p id="Par96">Observed home visits: research staff will randomly be chosen to be accompanied by other investigators during some visits, to check for adherence to operating procedures.</p>
+                <p id="Par97">Training: periodically, researchers will be trained to apply food recalls, anthropometric measurements, and questionnaires.</p>
+                <p id="Par98">Data collection: 10% of the sample will be subject to a quality call to ascertain whether the interventions are being conducted as proposed. These preliminary results will be communicated to all researchers responsible for the interventions, in order to assess the needing to optimize the information-oriented interventions. If there is a need for improvement, this sample will receive reinforcement information regarding the complementary feeding method.</p>
+                <p id="Par99">Data audits: Inter-evaluator TEM which consists of repeated anthropometric measurements, will be calculated annually on a sample of 10 participants by the research staff who are responsible for obtaining anthropometric measurements.</p>
+                <p id="Par100">If any modification in the study protocol is necessary, a notice will be sent to the Ethics Committee of the HCPA and the Universidade Federal do Rio Grande do Sul (UFRGS), the ReBEC, as well as the researchers and the participant families.</p>
+                <p id="Par101">The researchers will carry out preliminary analyzes throughout the study period, informing the responsible professors about its progress. The professors will make the final decision to complete the trial, after the inclusion of all participants, according to the sample calculation. When applicable, study updates will be added to the Brazilian Clinical Trials Registry (REBeC). Any situation unexpected by the survey will be evaluated individually. All professors and researchers will be notified and, if necessary, the family will be referred to their health professional or pediatrician.</p>
+                <p id="Par102">The main results will be reported to the families at the end of the data collection, via email, and the trial results will be reported through presentations in congresses and seminars, and publications of articles.</p>
+              </sec>
+              <sec id="Sec35">
+                <title>Statistical analysis</title>
+                <p id="Par103">The database will be prepared in SPSS (Statistical Package for the Social Sciences) version 21.0, with double entry and validation. Descriptive analyses of continuous and categorical variables will be performed, in the isolated 10% quality assurance sample and in the total sample. Parametric data will be expressed as mean ± standard deviation. All analyses will be conducted by the intention-to-treat principle. The primary analysis will determine whether PLW, BLISS, or the mixed method results in differences in child growth <italic>z</italic>-scores at 12 months of age. Regression analyses will be used to analyze secondary outcomes, including iron intake and status. We will consider adjusting plasma ferritin where there is evidence of infection or inflammation, as indicated by elevated CRP. Statistical significance will be accepted at <italic>p</italic> &lt; 0.05.</p>
+              </sec>
+            </sec>
+            <sec id="Sec36">
+              <title>Discussion</title>
+              <p id="Par104">Adequate nutrition in early childhood has the potential to influence health consequences in later life. With growing recognition of the importance of nutrition in the early stages of life for health and discussion as to the best method for introducing complementary foods, investigation of best feeding practices at this stage should be a high priority. Although other authors have published studies of food introduction methods [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR52">52</xref>], none has been conducted in the Brazilian population with this approach. Furthermore, to the best of our knowledge, this is the first study that will use a test kitchen to give mothers the opportunity of experiencing, in real-time, meals being prepared according to the standardized CF method to which they will be allocated. Additional pioneering contributions of this study will be reporting on the potential association of food introduction practices with prevalence of functional constipation, eating difficulties, oral health, and flavor outcomes.</p>
+              <p id="Par105">Our findings will bridge the research gap on complementary feeding methods, with potential impact on short- and long-term health outcomes. Finally, we expect our findings will help further investigations and similar studies in this field.</p>
+            </sec>
+            <sec id="Sec37">
+              <title>Trial status</title>
+              <p id="Par106">Protocol version number: Brazilian Clinical Trials Registry (ReBEC): RBR- 229SCM number U1111-1226-9516. Date recruitment began: 14/03/2019. Approximate date when recruitment will be completed: 15/03/2022.</p>
+            </sec>
+          </body>
+          <back>
+            <glossary>
+              <title>Abbreviations</title>
+              <def-list>
+                <def-item>
+                  <term>BEBQ</term>
+                  <def>
+                    <p id="Par5">Baby Eating Behavior Questionnaire</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BLISS</term>
+                  <def>
+                    <p id="Par6">Baby-Led Introduction to SolidS</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>BLW</term>
+                  <def>
+                    <p id="Par7">Baby-Led Weaning</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CEBQ</term>
+                  <def>
+                    <p id="Par8">Children Eating Behavior Questionnaire</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CF</term>
+                  <def>
+                    <p id="Par9">Complementary feeding</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CFSQ</term>
+                  <def>
+                    <p id="Par10">Caregiver Feeding Style Questionnaire</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CRC</term>
+                  <def>
+                    <p id="Par11">Clinical Research Center</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>CRP</term>
+                  <def>
+                    <p id="Par12">C-reactive protein</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>DEBQ</term>
+                  <def>
+                    <p id="Par13">Dutch Eating Behavior Questionnaire</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>EDTA</term>
+                  <def>
+                    <p id="Par14">Ethylenediamine tetraacetic acid</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>FC</term>
+                  <def>
+                    <p id="Par15">Functional constipation</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>HCPA</term>
+                  <def>
+                    <p id="Par16">Hospital de Clínicas de Porto Alegre</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>IDA</term>
+                  <def>
+                    <p id="Par17">Iron deficiency anemia</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>MCH-FS</term>
+                  <def>
+                    <p id="Par18">Montreal Children Hospital Eating Scale</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>PLW</term>
+                  <def>
+                    <p id="Par19">Parent-Led Weaning</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>ReBEC</term>
+                  <def>
+                    <p id="Par20">Brazilian Clinical Trials Registry</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>SPSS</term>
+                  <def>
+                    <p id="Par21">Statistical Package for the Social Sciences</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>UFRGS</term>
+                  <def>
+                    <p id="Par22">Universidade Federal do Rio Grande do Sul</p>
+                  </def>
+                </def-item>
+                <def-item>
+                  <term>WHO</term>
+                  <def>
+                    <p id="Par23">World Health Organization</p>
+                  </def>
+                </def-item>
+              </def-list>
+            </glossary>
+            <fn-group>
+              <fn>
+                <p>
+                  <bold>Publisher’s Note</bold>
+                </p>
+                <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+              </fn>
+            </fn-group>
+            <ack>
+              <title>Acknowledgements</title>
+              <p>We express our gratitude to all the families participating in the study, for their availability and commitment.</p>
+            </ack>
+            <notes notes-type="author-contribution">
+              <title>Authors’ contributions</title>
+              <p>LMN is the Chief Investigator and along with JRB have conceived the study and led the proposal and protocol development and design. EG, MLB, and AASM contributed intellectually writing and reviewing this manuscript. JF, PRM, RON, CHSB, and LAM worked on the literature review, wrote the protocol as well as are working on data collection. All authors read and approved the final manuscript.</p>
+            </notes>
+            <notes notes-type="funding-information">
+              <title>Funding</title>
+              <p>The study will be funded by CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) and CNPQ (Conselho Nacional de Desenvolvimento Científico e Tecnológico), through master’s and doctorate grants; budget for doctoral students and FIPE (Fundo de Incentivo à Pesquisa e Eventos) of Hospital de Clínicas de Porto Alegre (HCPA), with assistance in English translation by a certified translator.</p>
+            </notes>
+            <notes notes-type="data-availability">
+              <title>Availability of data and materials</title>
+              <p>The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.</p>
+            </notes>
+            <notes>
+              <title>Declarations</title>
+              <notes id="FPar1">
+                <title>Ethics approval and consent to participate</title>
+                <p id="Par107">This study has been approved by Hospital de Clínicas de Porto Alegre (HCPA) Ethics Committee (under number 2019-0230, CAAE: 1537018500005327) and is currently registered in the Brazilian Clinical Trials Registry (ReBEC) with accession number RBR- 229SCM. Written informed consent will be obtained online from all the mothers or fathers of the participants before randomization, and physically before the intervention.</p>
+              </notes>
+              <notes id="FPar2">
+                <title>Consent for publication</title>
+                <p id="Par108">Not applicable.</p>
+              </notes>
+              <notes id="FPar3" notes-type="COI-statement">
+                <title>Competing interests</title>
+                <p id="Par109">The authors declare that they have no competing interests.</p>
+              </notes>
+            </notes>
+            <ref-list id="Bib1">
+              <title>References</title>
+              <ref id="CR1">
+                <label>1.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Verduci</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Bianchi</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Brambilla</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Calvani</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Egg introduction during complementary feeding according to allergic risk: not just for peanuts!</article-title>
+                  <source>Ital J Pediatr</source>
+                  <year>2018</year>
+                  <volume>44</volume>
+                  <issue>77</issue>
+                  <fpage>1</fpage>
+                  <lpage>3</lpage>
+                  <pub-id pub-id-type="doi">10.1186/s13052-018-0521-x</pub-id>
+                  <pub-id pub-id-type="pmid">29291737</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR2">
+                <label>2.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fewtrell</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Bronsky</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Campoy</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Domellöf</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Embleton</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Fidler Mis</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Hojsak</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Hulst</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Indrio</surname>
+                      <given-names>F</given-names>
+                    </name>
+                    <name>
+                      <surname>Lapillonne</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Molgaard</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Complementary feeding: a position paper by the European Society for Paediatric Gastroenterology, hepatology, and nutrition (ESPGHAN) committee on nutrition</article-title>
+                  <source>JPGN.</source>
+                  <year>2017</year>
+                  <volume>64</volume>
+                  <issue>1</issue>
+                  <fpage>119</fpage>
+                  <lpage>132</lpage>
+                  <?supplied-pmid 28027215?>
+                  <pub-id pub-id-type="pmid">28027215</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR3">
+                <label>3.</label>
+                <mixed-citation publication-type="other">Brown A, Lee M. Maternal control of child feeding during the weaning period: Differences between mothers following a baby-led or standard weaning approach. Maternal and Child Health Journal, 15(8), 1265–1271. 10.1007/s10995-010-0678-4</mixed-citation>
+              </ref>
+              <ref id="CR4">
+                <label>4.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Heath</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>How feasible is baby-led weaning as an approach to infant feeding? A review of the evidence</article-title>
+                  <source>Nutrients.</source>
+                  <year>2012</year>
+                  <volume>4</volume>
+                  <issue>11</issue>
+                  <fpage>1575</fpage>
+                  <lpage>1609</lpage>
+                  <pub-id pub-id-type="doi">10.3390/nu4111575</pub-id>
+                  <pub-id pub-id-type="pmid">23201835</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR5">
+                <label>5.</label>
+                <mixed-citation publication-type="other">Cameron S, Taylor RW, Heath ALML. Parent-led or baby-led? Associations between complementary feeding practices and health-related behaviours in a survey of New Zealand families. BMJ Open. 2013;3(12, e003946) 10.1136/bmjopen-2013-003946.</mixed-citation>
+              </ref>
+              <ref id="CR6">
+                <label>6.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Morison</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <name>
+                      <surname>Haszard</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Schramm</surname>
+                      <given-names>CJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Williams Erickson</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Fangupo</surname>
+                      <given-names>LJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>How different are baby-led weaning and conventional complementary feeding? A cross-sectional study of infants aged 6-8 months</article-title>
+                  <source>BMJ Open</source>
+                  <year>2016</year>
+                  <volume>6</volume>
+                  <issue>5</issue>
+                  <fpage>e010665</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmjopen-2015-010665</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR7">
+                <label>7.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rapley</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Forste</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Wright</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby-led weaning: A new frontier</article-title>
+                  <source>ICAN: Infant, child, &amp; Adolescent Nutrition</source>
+                  <year>2015</year>
+                  <volume>7</volume>
+                  <issue>2</issue>
+                  <fpage>77</fpage>
+                  <lpage>85</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR8">
+                <label>8.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rowan</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Harris</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby-led weaning and the family diet. A pilot study</article-title>
+                  <source>Appetite.</source>
+                  <year>2012</year>
+                  <volume>58</volume>
+                  <issue>3</issue>
+                  <fpage>1046</fpage>
+                  <lpage>1049</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.appet.2012.01.033</pub-id>
+                  <pub-id pub-id-type="pmid">22406580</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR9">
+                <label>9.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Townsend</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Pitchford</surname>
+                      <given-names>NJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby knows best? The impact of weaning style on food preferences and body mass index in early childhood in a case-controlled sample</article-title>
+                  <source>BMJ.</source>
+                  <year>2012</year>
+                  <volume>2</volume>
+                  <issue>1</issue>
+                  <fpage>e000298</fpage>
+                </element-citation>
+              </ref>
+              <ref id="CR10">
+                <label>10.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wright</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Tsiaka</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Parkinson</surname>
+                      <given-names>KN</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Is baby-led weaning feasible? When do babies first reach out for and eat finger foods?</article-title>
+                  <source>Maternal and Child Nutrition</source>
+                  <year>2011</year>
+                  <volume>7</volume>
+                  <issue>1</issue>
+                  <fpage>27</fpage>
+                  <lpage>33</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1740-8709.2010.00274.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR11">
+                <label>11.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rapley</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby-led weaning: transitioning to solid foods at the baby’s own pace</article-title>
+                  <source>Community Pract</source>
+                  <year>2011</year>
+                  <volume>84</volume>
+                  <issue>6</issue>
+                  <fpage>20</fpage>
+                  <lpage>23</lpage>
+                  <?supplied-pmid 21739856?>
+                  <pub-id pub-id-type="pmid">21739856</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR12">
+                <label>12.</label>
+                <mixed-citation publication-type="other">Rapley G, Murkett T. Baby-led weaning: Helping your baby to love good food. The Experiment. 2008;192.</mixed-citation>
+              </ref>
+              <ref id="CR13">
+                <label>13.</label>
+                <mixed-citation publication-type="other">Brasil. Ministério da Saúde. Guia Alimentar para Crianças Brasileiras Menores de 2 anos. Brasil; 2019.</mixed-citation>
+              </ref>
+              <ref id="CR14">
+                <label>14.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <name>
+                      <surname>Heath</surname>
+                      <given-names>ALM</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Development and pilot testing of Baby-Led Introduction to SolidS - a version of Baby-Led Weaning modified to address concerns about iron deficiency, growth faltering and choking</article-title>
+                  <source>BMC Pediatr</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <issue>1</issue>
+                  <fpage>1</fpage>
+                  <lpage>11</lpage>
+                  <pub-id pub-id-type="doi">10.1186/s12887-015-0422-8</pub-id>
+                  <pub-id pub-id-type="pmid">25626628</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR15">
+                <label>15.</label>
+                <mixed-citation publication-type="other">World Health Organization. WHO Global strategy for infant and young child feeding. World Health Organization, UNICEF; 2003.</mixed-citation>
+              </ref>
+              <ref id="CR16">
+                <label>16.</label>
+                <mixed-citation publication-type="other">World Health Organization. WHO Child Growth Standards: Length/Height-for-Age, Weight-for-Age, Weight-for-Length, Weight-for-Height and Body Mass Index-for-Age; World Health Organization: Geneva, Switzerland, 2006</mixed-citation>
+              </ref>
+              <ref id="CR17">
+                <label>17.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Heath</surname>
+                      <given-names>ALM</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Healthcare professionals’ and mothers’ knowledge of, attitudes to and experiences with, Baby-Led Weaning: a content analysis study</article-title>
+                  <source>BMJ Open</source>
+                  <year>2012</year>
+                  <volume>2</volume>
+                  <issue>6</issue>
+                  <fpage>e001542</fpage>
+                  <pub-id pub-id-type="doi">10.1136/bmjopen-2012-001542</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR18">
+                <label>18.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Daniels</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Heath</surname>
+                      <given-names>AL</given-names>
+                    </name>
+                    <name>
+                      <surname>Williams</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Cameron</surname>
+                      <given-names>SL</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleming</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Wheeler</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Gibson</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby-Led Introduction to SolidS (BLISS) study: a randomized controlled trial of a baby-led approach to complementary feeding</article-title>
+                  <source>BMC Pediatr</source>
+                  <year>2015</year>
+                  <volume>15</volume>
+                  <issue>1</issue>
+                  <fpage>179</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12887-015-0491-8</pub-id>
+                  <?supplied-pmid 26563757?>
+                  <pub-id pub-id-type="pmid">26563757</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR19">
+                <label>19.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Jones</surname>
+                      <given-names>SW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Rowan, Baby-Led Weaning: The Evidence to Date H</article-title>
+                  <source>Curr Nutr Rep</source>
+                  <year>2017</year>
+                  <volume>6</volume>
+                  <issue>2</issue>
+                  <fpage>148</fpage>
+                  <lpage>156</lpage>
+                  <pub-id pub-id-type="doi">10.1007/s13668-017-0201-2</pub-id>
+                  <pub-id pub-id-type="pmid">28596930</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR20">
+                <label>20.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>MD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Early influences on child satiety-responsiveness: the role of weaning style</article-title>
+                  <source>Pediatr Obes</source>
+                  <year>2013</year>
+                  <volume>10</volume>
+                  <issue>1</issue>
+                  <fpage>57</fpage>
+                  <lpage>66</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.2047-6310.2013.00207.x</pub-id>
+                  <pub-id pub-id-type="pmid">24347496</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR21">
+                <label>21.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mclean</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Cogswell</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Egli</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Wojdyla</surname>
+                      <given-names>D</given-names>
+                    </name>
+                    <name>
+                      <surname>de Benoist</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Worldwide prevalence of anaemia, WHO Vitamin and Mineral Nutrition Information System, 1993–2005</article-title>
+                  <source>Public Health Nutr</source>
+                  <year>2008</year>
+                  <volume>12</volume>
+                  <issue>4</issue>
+                  <fpage>444</fpage>
+                  <lpage>454</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S1368980008002401</pub-id>
+                  <pub-id pub-id-type="pmid">18498676</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR22">
+                <label>22.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Bortolini</surname>
+                      <given-names>GA</given-names>
+                    </name>
+                    <name>
+                      <surname>Vitolo</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Márcia Regina. Importância das práticas alimentares no primeiro ano de vida na prevenção da deficiência de ferro. Rev</article-title>
+                  <source>Nutr, Campinas</source>
+                  <year>2010</year>
+                  <volume>6</volume>
+                  <issue>23</issue>
+                  <fpage>1051</fpage>
+                  <lpage>1062</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR23">
+                <label>23.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <collab>World Health Organization, WHO</collab>
+                  </person-group>
+                  <source>Iron deficiency anemia: assessment, prevention and control: a guide programme manangers</source>
+                  <year>2001</year>
+                  <publisher-loc>Geneva</publisher-loc>
+                  <publisher-name>WHO</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR24">
+                <label>24.</label>
+                <mixed-citation publication-type="other">Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas e Estratégicas. Além da sobrevivência: práticas integradas de atenção ao parto, benéficas para a nutrição e a saúde de mães e crianças. Secretaria de Atenção à Saúde, Área Técnica de Saúde da Criança e Aleitamento Materno. – 1. ed., 1. reimp. – Brasília, 2013.</mixed-citation>
+              </ref>
+              <ref id="CR25">
+                <label>25.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Daniels</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <name>
+                      <surname>Williams</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Gibson</surname>
+                      <given-names>RS</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleming</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Wheeler</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Impact of a modified version of baby-led weaning on iron intake and status: a randomised controlled trial</article-title>
+                  <source>BMJ Open</source>
+                  <year>2018</year>
+                  <volume>6</volume>
+                  <issue>8</issue>
+                  <fpage>1</fpage>
+                  <lpage>10</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR26">
+                <label>26.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fu</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Conlon</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Haszard</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Beck</surname>
+                      <given-names>KL</given-names>
+                    </name>
+                    <name>
+                      <surname>Hurst</surname>
+                      <given-names>PR</given-names>
+                    </name>
+                    <name>
+                      <surname>Taylor</surname>
+                      <given-names>RW</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Food fussiness and early feeding characteristics of infants following Baby-Led Weaning and traditional spoon-feeding in New Zealand: An internet survey</article-title>
+                  <source>Appetite.</source>
+                  <year>2018</year>
+                  <volume>130</volume>
+                  <fpage>110</fpage>
+                  <lpage>116</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.appet.2018.07.033</pub-id>
+                  <pub-id pub-id-type="pmid">30077730</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR27">
+                <label>27.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Yuan</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>Y</given-names>
+                    </name>
+                    <name>
+                      <surname>Lu</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Xu</surname>
+                      <given-names>T</given-names>
+                    </name>
+                    <name>
+                      <surname>Zhang</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>Tan</surname>
+                      <given-names>Z</given-names>
+                    </name>
+                    <name>
+                      <surname>Yu</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Jiang</surname>
+                      <given-names>X</given-names>
+                    </name>
+                    <name>
+                      <surname>Shang</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Correlation between Children's eating behaviors and caregivers' feeding behaviors among preschool children in China</article-title>
+                  <source>Appetite.</source>
+                  <year>2019</year>
+                  <volume>138</volume>
+                  <fpage>146</fpage>
+                  <lpage>152</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.appet.2019.03.022</pub-id>
+                  <pub-id pub-id-type="pmid">30917942</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR28">
+                <label>28.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Goodman</surname>
+                      <given-names>LC</given-names>
+                    </name>
+                    <name>
+                      <surname>Roberts</surname>
+                      <given-names>LT</given-names>
+                    </name>
+                    <name>
+                      <surname>Musher-Eizenman</surname>
+                      <given-names>DR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mindful feeding: A pathway between parenting style and child eating behaviors</article-title>
+                  <source>Eat Behav</source>
+                  <year>2020</year>
+                  <volume>36</volume>
+                  <fpage>101335</fpage>
+                  <pub-id pub-id-type="doi">10.1016/j.eatbeh.2019.101335</pub-id>
+                  <pub-id pub-id-type="pmid">31760367</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR29">
+                <label>29.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Ip</surname>
+                      <given-names>EH</given-names>
+                    </name>
+                    <name>
+                      <surname>Marshall</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                    <name>
+                      <surname>Arcury</surname>
+                      <given-names>TA</given-names>
+                    </name>
+                    <name>
+                      <surname>Suerken</surname>
+                      <given-names>CK</given-names>
+                    </name>
+                    <name>
+                      <surname>Trejo</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Skelton</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Quandt</surname>
+                      <given-names>SA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Child feeding style and dietary outcomes in a cohort of Latino farmworker families</article-title>
+                  <source>J Acad Nutr Diet</source>
+                  <year>2018</year>
+                  <volume>118</volume>
+                  <issue>7</issue>
+                  <fpage>1208</fpage>
+                  <lpage>1219</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jand.2017.07.024</pub-id>
+                  <pub-id pub-id-type="pmid">28966049</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR30">
+                <label>30.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Komninou</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Halford</surname>
+                      <given-names>JCG</given-names>
+                    </name>
+                    <name>
+                      <surname>Harrold</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Differences in parental feeding styles and practices and toddler eating behaviour across complementary feeding methods: Managing expectations through consideration of effect size</article-title>
+                  <source>Appetite.</source>
+                  <year>2019</year>
+                  <volume>137</volume>
+                  <fpage>198</fpage>
+                  <lpage>206</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.appet.2019.03.001</pub-id>
+                  <pub-id pub-id-type="pmid">30853451</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR31">
+                <label>31.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Morison</surname>
+                      <given-names>BJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Heath</surname>
+                      <given-names>AM</given-names>
+                    </name>
+                    <name>
+                      <surname>Haszard</surname>
+                      <given-names>JJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Hein</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Fleming</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Daniels</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Impact of a Modified Version of Baby-Led Weaning on Dietary Variety and Food Preferences in Infants</article-title>
+                  <source>Nutrients.</source>
+                  <year>2018</year>
+                  <volume>10</volume>
+                  <issue>8</issue>
+                  <fpage>1092</fpage>
+                  <lpage>1114</lpage>
+                  <pub-id pub-id-type="doi">10.3390/nu10081092</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR32">
+                <label>32.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Rapley</surname>
+                      <given-names>G</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Baby-led weaning: The theory and evidence behind the approach</article-title>
+                  <source>J Health Visit</source>
+                  <year>2015</year>
+                  <volume>3</volume>
+                  <issue>3</issue>
+                  <fpage>144</fpage>
+                  <lpage>151</lpage>
+                  <pub-id pub-id-type="doi">10.12968/johv.2015.3.3.144</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR33">
+                <label>33.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A descriptive study investigating the use and nature of baby-led weaning in a UK sample of mothers</article-title>
+                  <source>Matern Child Nutr</source>
+                  <year>2011</year>
+                  <volume>7</volume>
+                  <issue>1</issue>
+                  <fpage>34</fpage>
+                  <lpage>47</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1740-8709.2010.00243.x</pub-id>
+                  <pub-id pub-id-type="pmid">21143584</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR34">
+                <label>34.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Fishbein</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Benton</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Struthers</surname>
+                      <given-names>W</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mealtime disruption and caregiver stress in referrals to an outpatient feeding clinic</article-title>
+                  <source>J Parenter Enteral Nutr</source>
+                  <year>2016</year>
+                  <volume>40</volume>
+                  <issue>5</issue>
+                  <fpage>636</fpage>
+                  <lpage>645</lpage>
+                  <pub-id pub-id-type="doi">10.1177/0148607114543832</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR35">
+                <label>35.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Thouyre</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Pados</surname>
+                      <given-names>BF</given-names>
+                    </name>
+                    <name>
+                      <surname>Park</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Estrem</surname>
+                      <given-names>H</given-names>
+                    </name>
+                    <name>
+                      <surname>McComish</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Hodges</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>The Pediatric Eating Assessment Tool: factor structure and psychometric properties</article-title>
+                  <source>J Pediatr Gastroenterol Nutr</source>
+                  <year>2018</year>
+                  <volume>66</volume>
+                  <issue>2</issue>
+                  <fpage>299</fpage>
+                  <lpage>305</lpage>
+                  <pub-id pub-id-type="doi">10.1097/MPG.0000000000001765</pub-id>
+                  <pub-id pub-id-type="pmid">28953526</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR36">
+                <label>36.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Berlin</surname>
+                      <given-names>KS</given-names>
+                    </name>
+                    <name>
+                      <surname>Davies</surname>
+                      <given-names>WH</given-names>
+                    </name>
+                    <name>
+                      <surname>Silverman</surname>
+                      <given-names>AH</given-names>
+                    </name>
+                    <name>
+                      <surname>Woods</surname>
+                      <given-names>DW</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>EA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rudolph</surname>
+                      <given-names>CD</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Assessing children's mealtime problems with the Mealtime Behavior Questionnaire</article-title>
+                  <source>Child Health Care</source>
+                  <year>2010</year>
+                  <volume>39</volume>
+                  <issue>2</issue>
+                  <fpage>142</fpage>
+                  <lpage>156</lpage>
+                  <pub-id pub-id-type="doi">10.1080/02739611003679956</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR37">
+                <label>37.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Howard</surname>
+                      <given-names>AJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Mallan</surname>
+                      <given-names>KM</given-names>
+                    </name>
+                    <name>
+                      <surname>Byrne</surname>
+                      <given-names>R</given-names>
+                    </name>
+                    <name>
+                      <surname>Magarey</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Daniels</surname>
+                      <given-names>LA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Toddlers’ food preferences. The impact of novel food exposure, maternal preferences and food neophobia</article-title>
+                  <source>Appetite.</source>
+                  <year>2012</year>
+                  <volume>59</volume>
+                  <issue>3</issue>
+                  <fpage>818</fpage>
+                  <lpage>825</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.appet.2012.08.022</pub-id>
+                  <?supplied-pmid 22940687?>
+                  <pub-id pub-id-type="pmid">22940687</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR38">
+                <label>38.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Aviram</surname>
+                      <given-names>I</given-names>
+                    </name>
+                    <name>
+                      <surname>Atzaba-Poria</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Pike</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>Meiri</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Yerushalmi</surname>
+                      <given-names>B</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Mealtime dynamics in child feeding disorder: The role of child temperament, parental sense of competence, and paternal involvement</article-title>
+                  <source>J Pediatr Psychol</source>
+                  <year>2014</year>
+                  <volume>40</volume>
+                  <issue>1</issue>
+                  <fpage>45</fpage>
+                  <lpage>54</lpage>
+                  <pub-id pub-id-type="doi">10.1093/jpepsy/jsu095</pub-id>
+                  <?supplied-pmid 25371550?>
+                  <pub-id pub-id-type="pmid">25371550</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR39">
+                <label>39.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Menella</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Ontogeny of taste preferences: basic biology and implications for health</article-title>
+                  <source>Am J Clin Nutr</source>
+                  <year>2014</year>
+                  <volume>99</volume>
+                  <issue>3</issue>
+                  <fpage>704</fpage>
+                  <lpage>711</lpage>
+                  <pub-id pub-id-type="doi">10.3945/ajcn.113.067694</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR40">
+                <label>40.</label>
+                <mixed-citation publication-type="other">Overberg J, Hummel T, Krude H, Wiegand S. Differences in taste sensitivity between obese and non-obese children and adolescents. BMJ openbehaviorsves of Disease in Childhood. 2012;97(12):1048-1052, DOI: 10.1136/archdischild-2011-301189.</mixed-citation>
+              </ref>
+              <ref id="CR41">
+                <label>41.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Neto</surname>
+                      <given-names>FXP</given-names>
+                    </name>
+                    <name>
+                      <surname>Targino</surname>
+                      <given-names>MN</given-names>
+                    </name>
+                    <name>
+                      <surname>Peixoto</surname>
+                      <given-names>VS</given-names>
+                    </name>
+                    <name>
+                      <surname>Alcântara</surname>
+                      <given-names>FB</given-names>
+                    </name>
+                    <name>
+                      <surname>Jesus</surname>
+                      <given-names>CC</given-names>
+                    </name>
+                    <name>
+                      <surname>Araujo</surname>
+                      <given-names>DC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Anormalidades sensoriais: olfato e paladar</article-title>
+                  <source>Arquivos Int Otorrinolaringol</source>
+                  <year>2011</year>
+                  <volume>15</volume>
+                  <issue>3</issue>
+                  <fpage>350</fpage>
+                  <lpage>358</lpage>
+                  <pub-id pub-id-type="doi">10.1590/S1809-48722011000300014</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR42">
+                <label>42.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Santos</surname>
+                      <given-names>MM</given-names>
+                    </name>
+                    <name>
+                      <surname>Marreiros</surname>
+                      <given-names>CS</given-names>
+                    </name>
+                    <name>
+                      <surname>Silva</surname>
+                      <given-names>HBS</given-names>
+                    </name>
+                    <name>
+                      <surname>Oliveira</surname>
+                      <given-names>ARS</given-names>
+                    </name>
+                    <name>
+                      <surname>Cruz</surname>
+                      <given-names>KJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Associations between taste sensitivity, preference for sweet and salty flavours, and nutritional status of adolescents from public schools</article-title>
+                  <source>Revista de Nutrição</source>
+                  <year>2017</year>
+                  <volume>30</volume>
+                  <issue>3</issue>
+                  <fpage>369</fpage>
+                  <lpage>375</lpage>
+                  <pub-id pub-id-type="doi">10.1590/1678-98652017000300009</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR43">
+                <label>43.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cont</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Paviotti</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Montico</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Paganin</surname>
+                      <given-names>GM</given-names>
+                    </name>
+                    <name>
+                      <surname>Trappan</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>TAS2R38 bitter taste genotype is associated with complementary feeding behavior in infants</article-title>
+                  <source>Genes Nutr</source>
+                  <year>2019</year>
+                  <volume>14</volume>
+                  <fpage>13</fpage>
+                  <pub-id pub-id-type="doi">10.1186/s12263-019-0640-z</pub-id>
+                  <pub-id pub-id-type="pmid">31073343</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR44">
+                <label>44.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cole</surname>
+                      <given-names>NC</given-names>
+                    </name>
+                    <name>
+                      <surname>Wang</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Donovan</surname>
+                      <given-names>SM</given-names>
+                    </name>
+                    <name>
+                      <surname>Lee</surname>
+                      <given-names>SY</given-names>
+                    </name>
+                    <name>
+                      <surname>Teran-Garcia</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Variants in chemosensory genes are associated with picky eating behavior in preschool-age children</article-title>
+                  <source>J Nutrigenet Nutrigenomics</source>
+                  <year>2017</year>
+                  <volume>10</volume>
+                  <issue>3-4</issue>
+                  <fpage>84</fpage>
+                  <lpage>92</lpage>
+                  <pub-id pub-id-type="doi">10.1159/000478857</pub-id>
+                  <?supplied-pmid 28858874?>
+                  <pub-id pub-id-type="pmid">28858874</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR45">
+                <label>45.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chamoun</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Hutchinson</surname>
+                      <given-names>JM</given-names>
+                    </name>
+                    <name>
+                      <surname>Krystia</surname>
+                      <given-names>O</given-names>
+                    </name>
+                    <name>
+                      <surname>Mirotta</surname>
+                      <given-names>JA</given-names>
+                    </name>
+                    <name>
+                      <surname>Mutch</surname>
+                      <given-names>DM</given-names>
+                    </name>
+                    <name>
+                      <surname>Buchholz</surname>
+                      <given-names>AC</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Single nucleotide polymorphisms in taste receptor genes are associated with snacking patterns of preschool-aged children in the Guelph Family Health Study: a pilot study</article-title>
+                  <source>Nutrients</source>
+                  <year>2018</year>
+                  <volume>10</volume>
+                  <issue>2</issue>
+                  <fpage>153</fpage>
+                  <pub-id pub-id-type="doi">10.3390/nu10020153</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR46">
+                <label>46.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Han</surname>
+                      <given-names>P</given-names>
+                    </name>
+                    <name>
+                      <surname>Keast</surname>
+                      <given-names>RSJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Roura</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Salivary leptin and TAS1R2/TAS1R3 polymorphisms are related to sweet taste sensitivity and carbohydrate intake from a buffet meal in healthy young adults</article-title>
+                  <source>Br J Nutr</source>
+                  <year>2017</year>
+                  <volume>118</volume>
+                  <issue>10</issue>
+                  <fpage>763</fpage>
+                  <lpage>770</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S0007114517002872</pub-id>
+                  <?supplied-pmid 29110749?>
+                  <pub-id pub-id-type="pmid">29110749</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR47">
+                <label>47.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Tomita</surname>
+                      <given-names>NE</given-names>
+                    </name>
+                    <name>
+                      <surname>Nilce</surname>
+                      <given-names>E</given-names>
+                    </name>
+                    <name>
+                      <surname>Bijella</surname>
+                      <given-names>VT</given-names>
+                    </name>
+                    <name>
+                      <surname>Lopes</surname>
+                      <given-names>ES</given-names>
+                    </name>
+                    <name>
+                      <surname>Franco</surname>
+                      <given-names>LJ</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Prevalência de cárie dentária em crianças da faixa etária de 0 a 6anos matriculadas em creches: importância de fatores socioeconômicos</article-title>
+                  <source>Rev SaúdePública</source>
+                  <year>1996</year>
+                  <volume>30</volume>
+                  <issue>5</issue>
+                  <fpage>413</fpage>
+                  <lpage>442</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR48">
+                <label>48.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Menoli</surname>
+                      <given-names>APV</given-names>
+                    </name>
+                    <name>
+                      <surname>Imparato</surname>
+                      <given-names>JC</given-names>
+                    </name>
+                    <name>
+                      <surname>Lazzarin</surname>
+                      <given-names>HC</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Incremento de cárie dental em crianças de 12 a 47 meses de idade: estudo longitudinal</article-title>
+                  <source>Odontol Clín-Cient</source>
+                  <year>2012</year>
+                  <volume>11</volume>
+                  <issue>3</issue>
+                  <fpage>233</fpage>
+                  <lpage>237</lpage>
+                </element-citation>
+              </ref>
+              <ref id="CR49">
+                <label>49.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Sheiham</surname>
+                      <given-names>A</given-names>
+                    </name>
+                    <name>
+                      <surname>James</surname>
+                      <given-names>WPT</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>A new understanding of the relationship between sugars, dental caries and fluoride use: implications for limits on sugars consumption</article-title>
+                  <source>Public Health Nutr</source>
+                  <year>2014</year>
+                  <volume>17</volume>
+                  <issue>10</issue>
+                  <fpage>2176</fpage>
+                  <lpage>2184</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S136898001400113X</pub-id>
+                  <?supplied-pmid 24892213?>
+                  <pub-id pub-id-type="pmid">24892213</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR50">
+                <label>50.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Chaffee</surname>
+                      <given-names>BW</given-names>
+                    </name>
+                    <name>
+                      <surname>Feldens</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodrigues</surname>
+                      <given-names>PH</given-names>
+                    </name>
+                    <name>
+                      <surname>Vıtolo</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Feeding practices in infancy associated with caries incidence in early childhood</article-title>
+                  <source>Community Dent Oral Epidemiol</source>
+                  <year>2015</year>
+                  <volume>43</volume>
+                  <issue>4</issue>
+                  <fpage>338</fpage>
+                  <lpage>348</lpage>
+                  <pub-id pub-id-type="doi">10.1111/cdoe.12158</pub-id>
+                  <pub-id pub-id-type="pmid">25753518</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR51">
+                <label>51.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Feldens</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Rodrigues</surname>
+                      <given-names>PH</given-names>
+                    </name>
+                    <name>
+                      <surname>Anastacio</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Vitolo</surname>
+                      <given-names>MR</given-names>
+                    </name>
+                    <name>
+                      <surname>Chaffee</surname>
+                      <given-names>BW</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Feeding Frequency in Infancy and Dental Caries in Childhood: A Prospective Cohort Study</article-title>
+                  <source>Int Dent J</source>
+                  <year>2018</year>
+                  <volume>68</volume>
+                  <issue>2</issue>
+                  <fpage>113</fpage>
+                  <lpage>121</lpage>
+                  <pub-id pub-id-type="doi">10.1111/idj.12333</pub-id>
+                  <pub-id pub-id-type="pmid">28868798</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR52">
+                <label>52.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Folayan</surname>
+                      <given-names>MO</given-names>
+                    </name>
+                    <name>
+                      <surname>Sowole</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Owotade</surname>
+                      <given-names>FJ</given-names>
+                    </name>
+                    <name>
+                      <surname>Sote</surname>
+                      <given-names>E</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Impact of Infant Feeding Practices on Caries Experience of Preschool Children</article-title>
+                  <source>J Clin Pediatr Dent</source>
+                  <year>2010</year>
+                  <volume>34</volume>
+                  <issue>4</issue>
+                  <fpage>297</fpage>
+                  <lpage>301</lpage>
+                  <pub-id pub-id-type="doi">10.17796/jcpd.34.4.pjp25217558072up</pub-id>
+                  <?supplied-pmid 20831129?>
+                  <pub-id pub-id-type="pmid">20831129</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR53">
+                <label>53.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Gomes</surname>
+                      <given-names>CF</given-names>
+                    </name>
+                    <name>
+                      <surname>Trezza</surname>
+                      <given-names>EM</given-names>
+                    </name>
+                    <name>
+                      <surname>Murade</surname>
+                      <given-names>EC</given-names>
+                    </name>
+                    <name>
+                      <surname>Padovani</surname>
+                      <given-names>CR</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Surface elec- tromyography of facial muscles during natural and artificial feeding of infants</article-title>
+                  <source>J Pediatr (Rio J)</source>
+                  <year>2006</year>
+                  <volume>82</volume>
+                  <issue>2</issue>
+                  <fpage>103</fpage>
+                  <lpage>109</lpage>
+                  <pub-id pub-id-type="doi">10.2223/JPED.1456</pub-id>
+                  <pub-id pub-id-type="pmid">16614763</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR54">
+                <label>54.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Alpers</surname>
+                      <given-names>B</given-names>
+                    </name>
+                    <name>
+                      <surname>Blackwell</surname>
+                      <given-names>V</given-names>
+                    </name>
+                    <name>
+                      <surname>Clegg</surname>
+                      <given-names>M</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Standard v. baby-led complementary feeding: a comparison of food and nutrient intakes in 6–12-month-old infants in the UK</article-title>
+                  <source>Public Health Nutr</source>
+                  <year>2019</year>
+                  <volume>22</volume>
+                  <issue>15</issue>
+                  <fpage>813</fpage>
+                  <lpage>822</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S136898001900082X</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR55">
+                <label>55.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Arantesa</surname>
+                      <given-names>ALA</given-names>
+                    </name>
+                    <name>
+                      <surname>Nevasa</surname>
+                      <given-names>FS</given-names>
+                    </name>
+                    <name>
+                      <surname>Camposa</surname>
+                      <given-names>AAL</given-names>
+                    </name>
+                    <name>
+                      <surname>Netto</surname>
+                      <given-names>MP</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Método <italic>Baby-Led Weaning</italic> (BLW) no Contexto da Alimentação Complementar: Uma Revisão</article-title>
+                  <source>Rev Paul Pediatr</source>
+                  <year>2018</year>
+                  <volume>36</volume>
+                  <issue>3</issue>
+                  <fpage>353</fpage>
+                  <lpage>363</lpage>
+                  <pub-id pub-id-type="doi">10.1590/1984-0462/;2018;36;3;00001</pub-id>
+                  <pub-id pub-id-type="pmid">29995141</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR56">
+                <label>56.</label>
+                <mixed-citation publication-type="other">Fangupo LJ, Heath AM, Williams SM, et al. A Baby-Led Approach to Eating Solids and Risk of Choking. Pediatrics. 2016;138(4) 10.1542/peds.2016-0772.</mixed-citation>
+              </ref>
+              <ref id="CR57">
+                <label>57.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Brown</surname>
+                      <given-names>A</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>No difference in self-reported frequency of choking between infants introduced to solid foods using a baby-led weaning or traditional spoon-feeding approach</article-title>
+                  <source>J Hum Nutr Diet</source>
+                  <year>2018</year>
+                  <volume>31</volume>
+                  <issue>4</issue>
+                  <fpage>496</fpage>
+                  <lpage>504</lpage>
+                  <pub-id pub-id-type="doi">10.1111/jhn.12528</pub-id>
+                  <pub-id pub-id-type="pmid">29205569</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR58">
+                <label>58.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>IJN</surname>
+                      <given-names>K</given-names>
+                    </name>
+                    <name>
+                      <surname>Vriesman</surname>
+                      <given-names>MH</given-names>
+                    </name>
+                    <name>
+                      <surname>Saps</surname>
+                      <given-names>M</given-names>
+                    </name>
+                    <name>
+                      <surname>Rajindrajith</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Xiaoxia</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>FSV</surname>
+                      <given-names>E-J</given-names>
+                    </name>
+                    <etal/>
+                  </person-group>
+                  <article-title>Prevalence of Functional Defecation Disorders in Children: A Systematic Review and Meta-Analysis</article-title>
+                  <source>Journal of Pediatrics</source>
+                  <year>2018</year>
+                  <volume>198</volume>
+                  <fpage>121</fpage>
+                  <lpage>130</lpage>
+                  <pub-id pub-id-type="doi">10.1016/j.jpeds.2018.02.029</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR59">
+                <label>59.</label>
+                <mixed-citation publication-type="other">Hyams JS, Lorenzo CD, Saps M, Shulman R, Staiano A, Tilburg MV, et al. Childhood Functional Gastrointestinal Disorders: Child/Adolescent. Gastroenterology. 2016;150(6) 10.1053/j.gastro.2016.02.015.</mixed-citation>
+              </ref>
+              <ref id="CR60">
+                <label>60.</label>
+                <mixed-citation publication-type="other">Diaz S, Bittar K, Mendez MD. Constipation. StatPearls Publishing. 2020; Available in <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK513291/">https://www.ncbi.nlm.nih.gov/books/NBK513291/</ext-link></mixed-citation>
+              </ref>
+              <ref id="CR61">
+                <label>61.</label>
+                <mixed-citation publication-type="other">IBGE INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Censo demográfico 2010, Área territorial brasileira. Rio de Janeiro: IBGE, 2011.</mixed-citation>
+              </ref>
+              <ref id="CR62">
+                <label>62.</label>
+                <mixed-citation publication-type="other">Silva VS, Vieira MFS. International Society for the Advancement of Kinanthropometry (ISAK) Global: international accreditation scheme of the competent anthropometrist. Rev. bras. Cineantropom e desempenho hum. 2020;22. 10.1590/1980-0037.2020v22e70517.</mixed-citation>
+              </ref>
+              <ref id="CR63">
+                <label>63.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <collab>World Health Organization (WHO) Multicentre Growth Reference Study Group</collab>
+                  </person-group>
+                  <article-title>Reliability of anthropometric measurements in the WHO Multicentre Growth Reference Study</article-title>
+                  <source>Acta Paediatr</source>
+                  <year>2006</year>
+                  <volume>450</volume>
+                  <fpage>38</fpage>
+                  <lpage>46</lpage>
+                  <pub-id pub-id-type="doi">10.1111/j.1651-2227.2006.tb02374.x</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR64">
+                <label>64.</label>
+                <mixed-citation publication-type="other">ABIPEME. Critério de Classificação Econômica. Associação Brasileira de Empresas de Pesquisas. Codes and Guides: Brazilian Economic Classification Criterion São Paulo: 2018.</mixed-citation>
+              </ref>
+              <ref id="CR65">
+                <label>65.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Lucion</surname>
+                      <given-names>MK</given-names>
+                    </name>
+                    <name>
+                      <surname>Kliemann</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Bernardi</surname>
+                      <given-names>RF</given-names>
+                    </name>
+                    <name>
+                      <surname>Loreto</surname>
+                      <given-names>BBL</given-names>
+                    </name>
+                    <name>
+                      <surname>Farias</surname>
+                      <given-names>BL</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>reis TM, et al. Tradução e Validação Semântica do “Baby Eating Behaviour Questionnaire” (Bebq), um Instrumento sobre Comportamento Alimentar de Lactentes. Subtítulo: Tradução e Validação Semântica do BEBQ. Publ. UEPG Ci. Biol</article-title>
+                  <source>Saúde.</source>
+                  <year>2017</year>
+                  <volume>23</volume>
+                  <issue>2</issue>
+                  <fpage>108</fpage>
+                  <lpage>117</lpage>
+                  <pub-id pub-id-type="doi">10.5212/Publ.Biologicas.v.23i2.0003</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR66">
+                <label>66.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Wardle</surname>
+                      <given-names>J</given-names>
+                    </name>
+                    <name>
+                      <surname>Guthrie</surname>
+                      <given-names>CA</given-names>
+                    </name>
+                    <name>
+                      <surname>Sanderson</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Rapoport</surname>
+                      <given-names>L</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Development of the children’s eating behaviour questionnaire</article-title>
+                  <source>J Child Psychol Psychiatry</source>
+                  <year>2001</year>
+                  <volume>42</volume>
+                  <issue>7</issue>
+                  <fpage>963</fpage>
+                  <lpage>970</lpage>
+                  <pub-id pub-id-type="doi">10.1111/1469-7610.00792</pub-id>
+                  <pub-id pub-id-type="pmid">11693591</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR67">
+                <label>67.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Cauduro</surname>
+                      <given-names>GN</given-names>
+                    </name>
+                    <name>
+                      <surname>Reppold</surname>
+                      <given-names>CT</given-names>
+                    </name>
+                    <name>
+                      <surname>Pacheco</surname>
+                      <given-names>JTB</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Adaptação Transcultural do Questionário de Estilos Parentais na Alimentação (QEPA)</article-title>
+                  <source>Revista Avaliação Psicológica</source>
+                  <year>2017</year>
+                  <volume>16</volume>
+                  <issue>3</issue>
+                  <fpage>293</fpage>
+                  <lpage>300</lpage>
+                  <pub-id pub-id-type="doi">10.15689/ap.2017.1603.12452</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR68">
+                <label>68.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Moreira</surname>
+                      <given-names>GSX</given-names>
+                    </name>
+                    <name>
+                      <surname>Mota</surname>
+                      <given-names>DCL</given-names>
+                    </name>
+                    <name>
+                      <surname>Lorenzato</surname>
+                      <given-names>L</given-names>
+                    </name>
+                    <name>
+                      <surname>Kakeshita</surname>
+                      <given-names>IS</given-names>
+                    </name>
+                    <name>
+                      <surname>Costa</surname>
+                      <given-names>TMB</given-names>
+                    </name>
+                    <name>
+                      <surname>Almeida</surname>
+                      <given-names>SS</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Transcultural adaptation procedures for the dutch eating behavior questionnaire (DEBQ) for Brazil</article-title>
+                  <source>Avaliação Psicológica</source>
+                  <year>2017</year>
+                  <volume>16</volume>
+                  <issue>4</issue>
+                  <fpage>426</fpage>
+                  <lpage>435</lpage>
+                  <pub-id pub-id-type="doi">10.15689/ap.2017.1604.12793</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR69">
+                <label>69.</label>
+                <element-citation publication-type="book">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Diniz</surname>
+                      <given-names>PB</given-names>
+                    </name>
+                  </person-group>
+                  <source>Adaptação transcultural e validação da escala Montreal Children´s Hospital Feeding Scale para o português falado no Brasil</source>
+                  <year>2018</year>
+                  <publisher-loc>Tese de Doutorado</publisher-loc>
+                  <publisher-name>Universidade Federal do Rio Grande do Sul, Programa de Pós-Graduação em Ciências Pneumológicas, Porto Alegre</publisher-name>
+                </element-citation>
+              </ref>
+              <ref id="CR70">
+                <label>70.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Schwartz</surname>
+                      <given-names>C</given-names>
+                    </name>
+                    <name>
+                      <surname>Issanchou</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>Nicklaus</surname>
+                      <given-names>S</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Developmental changes in the acceptance of the five basic tastes in the first year of life</article-title>
+                  <source>Br J Nutr</source>
+                  <year>2009</year>
+                  <volume>102</volume>
+                  <issue>9</issue>
+                  <fpage>1375</fpage>
+                  <lpage>1385</lpage>
+                  <pub-id pub-id-type="doi">10.1017/S0007114509990286</pub-id>
+                  <pub-id pub-id-type="pmid">19505346</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR71">
+                <label>71.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Mariath</surname>
+                      <given-names>AA</given-names>
+                    </name>
+                    <name>
+                      <surname>Haas</surname>
+                      <given-names>AN</given-names>
+                    </name>
+                    <name>
+                      <surname>Fischer</surname>
+                      <given-names>CM</given-names>
+                    </name>
+                    <name>
+                      <surname>de Araujo</surname>
+                      <given-names>FB</given-names>
+                    </name>
+                    <name>
+                      <surname>Rösing</surname>
+                      <given-names>CK</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Professional toothbrushing as a method for diagnosing gingivitis in 3- to 6-year-old preschool children</article-title>
+                  <source>Oral Health Prev Dent</source>
+                  <year>2009</year>
+                  <volume>7</volume>
+                  <issue>4</issue>
+                  <fpage>315</fpage>
+                  <lpage>321</lpage>
+                  <?supplied-pmid 20011748?>
+                  <pub-id pub-id-type="pmid">20011748</pub-id>
+                </element-citation>
+              </ref>
+              <ref id="CR72">
+                <label>72.</label>
+                <mixed-citation publication-type="other">Songur F, Simsek Derelioglu S, Yilmaz S, Koşan Z. Assessing the Impact of Early Childhood Caries on the Development of First Permanent Molar Decays. Front Public Health. 2019;7:186. Published 2019 Jul 9. doi:10.3389/fpubh.2019.00186.</mixed-citation>
+              </ref>
+              <ref id="CR73">
+                <label>73.</label>
+                <element-citation publication-type="journal">
+                  <person-group person-group-type="author">
+                    <name>
+                      <surname>Paolantonio</surname>
+                      <given-names>EG</given-names>
+                    </name>
+                    <name>
+                      <surname>Ludovici</surname>
+                      <given-names>N</given-names>
+                    </name>
+                    <name>
+                      <surname>Saccomanno</surname>
+                      <given-names>S</given-names>
+                    </name>
+                    <name>
+                      <surname>La Torre</surname>
+                      <given-names>G</given-names>
+                    </name>
+                    <name>
+                      <surname>Grippaudo</surname>
+                      <given-names>C</given-names>
+                    </name>
+                  </person-group>
+                  <article-title>Association between oral habits, mouth breathing and malocclusion in Italian preschoolers</article-title>
+                  <source>Eur J Paediatr Dent</source>
+                  <year>2019</year>
+                  <volume>20</volume>
+                  <issue>3</issue>
+                  <fpage>204</fpage>
+                  <lpage>208</lpage>
+                  <pub-id pub-id-type="doi">10.23804/ejpd.2019.20.03.07</pub-id>
+                  <?supplied-pmid 31489819?>
+                  <pub-id pub-id-type="pmid">31489819</pub-id>
+                </element-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

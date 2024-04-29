@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-04-29T00:38:52Z</responseDate>
+  <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:10092180" metadataPrefix="pmc">https:/www.ncbi.nlm.nih.gov/pmc/oai/oai.cgi</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>oai:pubmedcentral.nih.gov:10092180</identifier>
+        <datestamp>2023-04-13</datestamp>
+        <setSpec>blackwellopen</setSpec>
+        <setSpec>pmc-open</setSpec>
+      </header>
+      <metadata>
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.3/ https://jats.nlm.nih.gov/archiving/1.3/xsd/JATS-archivearticle1-3.xsd" dtd-version="1.3" id="cid13140" xml:lang="en" article-type="research-article">
+          <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+            <restricted-by>pmc</restricted-by>
+          </processing-meta>
+          <front>
+            <journal-meta>
+              <journal-id journal-id-type="nlm-ta">Clin Implant Dent Relat Res</journal-id>
+              <journal-id journal-id-type="iso-abbrev">Clin Implant Dent Relat Res</journal-id>
+              <journal-id journal-id-type="doi">10.1111/(ISSN)1708-8208</journal-id>
+              <journal-id journal-id-type="publisher-id">CID</journal-id>
+              <journal-title-group>
+                <journal-title>Clinical Implant Dentistry and Related Research</journal-title>
+              </journal-title-group>
+              <issn pub-type="ppub">1523-0899</issn>
+              <issn pub-type="epub">1708-8208</issn>
+              <publisher>
+                <publisher-name>John Wiley &amp; Sons, Inc.</publisher-name>
+                <publisher-loc>Hoboken, USA</publisher-loc>
+              </publisher>
+            </journal-meta>
+            <article-meta>
+              <article-id pub-id-type="accession">PMC10092180</article-id>
+              <article-id pub-id-type="pmcid">PMC10092180</article-id>
+              <article-id pub-id-type="pmc-uid">10092180</article-id>
+              <article-id pub-id-type="pmid">36190150</article-id>
+              <article-id pub-id-type="pmid">36190150</article-id>
+              <article-id pub-id-type="doi">10.1111/cid.13140</article-id>
+              <article-id pub-id-type="publisher-id">CID13140</article-id>
+              <article-categories>
+                <subj-group subj-group-type="overline">
+                  <subject>Original Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                  <subject>Original Articles</subject>
+                </subj-group>
+              </article-categories>
+              <title-group>
+                <article-title>Changes in implant stability using different site preparation techniques: Osseodensification drills versus piezoelectric surgery. A multi‐center prospective randomized controlled clinical trial</article-title>
+                <alt-title alt-title-type="left-running-head">Stacchi et al.</alt-title>
+              </title-group>
+              <contrib-group>
+                <contrib id="cid13140-cr-0001" contrib-type="author">
+                  <name>
+                    <surname>Stacchi</surname>
+                    <given-names>Claudio</given-names>
+                  </name>
+                  <degrees>DDS, MSc</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4017-4980</contrib-id>
+                  <xref rid="cid13140-aff-0001" ref-type="aff">
+                    <sup>1</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0002" contrib-type="author">
+                  <name>
+                    <surname>Troiano</surname>
+                    <given-names>Giuseppe</given-names>
+                  </name>
+                  <degrees>DDS, PhD</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5647-4414</contrib-id>
+                  <xref rid="cid13140-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0003" contrib-type="author">
+                  <name>
+                    <surname>Montaruli</surname>
+                    <given-names>Graziano</given-names>
+                  </name>
+                  <degrees>DDS, MSc</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4811-8174</contrib-id>
+                  <xref rid="cid13140-aff-0002" ref-type="aff">
+                    <sup>2</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0004" contrib-type="author">
+                  <name>
+                    <surname>Mozzati</surname>
+                    <given-names>Marco</given-names>
+                  </name>
+                  <degrees>MD, DDS</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2157-2721</contrib-id>
+                  <xref rid="cid13140-aff-0003" ref-type="aff">
+                    <sup>3</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0005" contrib-type="author" corresp="yes">
+                  <name>
+                    <surname>Lamazza</surname>
+                    <given-names>Luca</given-names>
+                  </name>
+                  <degrees>DDS, PhD</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4395-116X</contrib-id>
+                  <xref rid="cid13140-aff-0004" ref-type="aff">
+                    <sup>4</sup>
+                  </xref>
+                  <address>
+                    <email>luca.lamazza@uniroma1.it</email>
+                  </address>
+                </contrib>
+                <contrib id="cid13140-cr-0006" contrib-type="author">
+                  <name>
+                    <surname>Antonelli</surname>
+                    <given-names>Alessandro</given-names>
+                  </name>
+                  <degrees>DDS</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9557-3586</contrib-id>
+                  <xref rid="cid13140-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0007" contrib-type="author">
+                  <name>
+                    <surname>Giudice</surname>
+                    <given-names>Amerigo</given-names>
+                  </name>
+                  <degrees>MD, PhD</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5091-6979</contrib-id>
+                  <xref rid="cid13140-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+                <contrib id="cid13140-cr-0008" contrib-type="author">
+                  <name>
+                    <surname>Lombardi</surname>
+                    <given-names>Teresa</given-names>
+                  </name>
+                  <degrees>DDS</degrees>
+                  <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0334-6029</contrib-id>
+                  <xref rid="cid13140-aff-0005" ref-type="aff">
+                    <sup>5</sup>
+                  </xref>
+                </contrib>
+              </contrib-group>
+              <aff id="cid13140-aff-0001">
+                <label>
+                  <sup>1</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Medical, Surgical and Health Sciences</named-content>
+                <institution>University of Trieste</institution>
+                <city>Trieste</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <aff id="cid13140-aff-0002">
+                <label>
+                  <sup>2</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Clinical and Experimental Medicine</named-content>
+                <institution>University of Foggia</institution>
+                <city>Foggia</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <aff id="cid13140-aff-0003">
+                <label>
+                  <sup>3</sup>
+                </label>
+                <institution>Private Practice</institution>
+                <city>Turin</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <aff id="cid13140-aff-0004">
+                <label>
+                  <sup>4</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Oral and Maxillofacial Sciences</named-content>
+                <institution>Sapienza University of Rome</institution>
+                <city>Rome</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <aff id="cid13140-aff-0005">
+                <label>
+                  <sup>5</sup>
+                </label>
+                <named-content content-type="organisation-division">Department of Health Sciences</named-content>
+                <institution>Magna Græcia University</institution>
+                <city>Catanzaro</city>
+                <country country="IT">Italy</country>
+              </aff>
+              <author-notes>
+                <corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Luca Lamazza, Department of Oral and Maxillofacial Sciences, Sapienza University of Rome, Via Caserta 6, 00161 Rome, Italy.<break/>
+Email: <email>luca.lamazza@uniroma1.it</email>
+<break/>
+</corresp>
+              </author-notes>
+              <pub-date pub-type="epub">
+                <day>03</day>
+                <month>10</month>
+                <year>2022</year>
+              </pub-date>
+              <pub-date pub-type="ppub">
+                <month>2</month>
+                <year>2023</year>
+              </pub-date>
+              <volume>25</volume>
+              <issue seq="180">1</issue>
+              <issue-id pub-id-type="doi">10.1111/cid.v25.1</issue-id>
+              <fpage>133</fpage>
+              <lpage>140</lpage>
+              <history>
+                <date date-type="rev-recd">
+                  <day>19</day>
+                  <month>9</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="received">
+                  <day>10</day>
+                  <month>7</month>
+                  <year>2022</year>
+                </date>
+                <date date-type="accepted">
+                  <day>20</day>
+                  <month>9</month>
+                  <year>2022</year>
+                </date>
+              </history>
+              <permissions>
+                <!--&#x000a9; 2023 Wiley Periodicals LLC.-->
+                <copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Clinical Implant Dentistry and Related Research</italic> published by Wiley Periodicals LLC.</copyright-statement>
+                <license>
+                  <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+                  <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+                </license>
+              </permissions>
+              <self-uri content-type="pdf" xlink:href="file:CID-25-133.pdf"/>
+              <abstract>
+                <title>Abstract</title>
+                <sec id="cid13140-sec-0001">
+                  <title>Introduction</title>
+                  <p>Implant stability is influenced by bone density, implant design, and site preparation characteristics. Piezoelectric implant site preparation (PISP) has been demonstrated to improve secondary stability compared with conventional drilling techniques. Osseodensification drills (OD) have been recently introduced to enhance both bone density and implant secondary stability. The objective of the present multi‐center prospective randomized controlled trial was to monitor implant stability changes over the first 90 days of healing after implant bed preparation with OD or PISP.</p>
+                </sec>
+                <sec id="cid13140-sec-0002">
+                  <title>Methods</title>
+                  <p>Each patient received two identical, adjacent or contralateral implants in the posterior maxilla. Following randomization, test sites were prepared with OD and control sites with PISP. Resonance frequency analysis was performed immediately after implant placement and after 7, 14, 21, 28, 60, and 90 days. Implants were then restored with single screw‐retained metal‐ceramic crowns and followed for 12 months after loading.</p>
+                </sec>
+                <sec id="cid13140-sec-0003">
+                  <title>Results</title>
+                  <p>Twenty‐seven patients (15 males and 12 females; mean age 63.0 ± 11.8 years) were included in final analysis. Each patient received two identical implants in the posterior maxilla (total = 54 implants). After 1 year of loading, 53 implants were satisfactorily in function (one failure in test group 28 days after placement). Mean peak insertion torque (40.7 ± 12.3 Ncm and 39.5 ± 10.2 Ncm in test and control group, respectively) and mean implant stability quotient (ISQ) value at baseline (71.3 ± 6.9 and 69.3 ± 7.6 in test and control group, respectively) showed no significant differences between the two groups. After an initial slight stability decrease, a shift to increasing ISQ values occurred after 14 days in control group and after 21 days in test group, but with no significant differences in ISQ values between the two groups during the first 90 days of healing.</p>
+                </sec>
+                <sec id="cid13140-sec-0004">
+                  <title>Conclusion</title>
+                  <p>No significant differences in either primary or secondary stability or implant survival rate after 1 year of loading were demonstrated between implants inserted into sites prepared with OD and PISP.</p>
+                </sec>
+              </abstract>
+              <kwd-group kwd-group-type="author-generated">
+                <kwd id="cid13140-kwd-0001">implant site preparation</kwd>
+                <kwd id="cid13140-kwd-0002">implant stability</kwd>
+                <kwd id="cid13140-kwd-0003">osseodensification</kwd>
+                <kwd id="cid13140-kwd-0004">piezosurgery</kwd>
+                <kwd id="cid13140-kwd-0005">resonance frequency analysis</kwd>
+              </kwd-group>
+              <counts>
+                <fig-count count="4"/>
+                <table-count count="2"/>
+                <page-count count="8"/>
+                <word-count count="5367"/>
+              </counts>
+              <custom-meta-group>
+                <custom-meta>
+                  <meta-name>source-schema-version-number</meta-name>
+                  <meta-value>2.0</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>cover-date</meta-name>
+                  <meta-value>February 2023</meta-value>
+                </custom-meta>
+                <custom-meta>
+                  <meta-name>details-of-publishers-convertor</meta-name>
+                  <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.7 mode:remove_FC converted:12.04.2023</meta-value>
+                </custom-meta>
+              </custom-meta-group>
+            </article-meta>
+            <notes>
+              <p content-type="self-citation">
+                <mixed-citation publication-type="journal" id="cid13140-cit-9001"><string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Troiano</surname><given-names>G</given-names></string-name>, <string-name><surname>Montaruli</surname><given-names>G</given-names></string-name>, et al. <article-title>Changes in implant stability using different site preparation techniques: Osseodensification drills versus piezoelectric surgery. A multi‐center prospective randomized controlled clinical trial</article-title>. <source>Clin Implant Dent Relat Res</source>. <year>2023</year>;<volume>25</volume>(<issue>1</issue>):<fpage>133</fpage>‐<lpage>140</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cid.13140</pub-id>
+<pub-id pub-id-type="pmid">36190150</pub-id></mixed-citation>
+              </p>
+            </notes>
+          </front>
+          <body id="cid13140-body-0001">
+            <p>
+              <boxed-text position="anchor" content-type="box" id="cid13140-blk-0001">
+                <sec id="cid13140-sec-0006">
+                  <title>What is known</title>
+                  <p>
+                    <list list-type="bullet" id="cid13140-list-0101">
+                      <list-item id="cid13140-li-0101">
+                        <p>Implant stability tends to decrease in the first weeks after implant placement due to peri‐implant bone remodeling following surgical trauma.</p>
+                      </list-item>
+                      <list-item id="cid13140-li-0102">
+                        <p>Piezoelectric implant site preparation reduces stability decrease and favors earlier shifting from a decreasing to an increasing stability pattern, compared with conventional drilling.</p>
+                      </list-item>
+                      <list-item id="cid13140-li-0203">
+                        <p>Osseodensification is a recently introduced, non‐subtractive implant site preparation technique, aiming to increase both primary implant stability and percentage of bone at the implant surface, compared with conventional drilling.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                </sec>
+                <sec id="cid13140-sec-0007">
+                  <title>What this study adds</title>
+                  <p>
+                    <list list-type="bullet" id="cid13140-list-0201">
+                      <list-item id="cid13140-li-0201">
+                        <p>No significant differences in primary or secondary stability were demonstrated between implants inserted into sites prepared with osseodensification drills and sites prepared with piezoelectric surgery.</p>
+                      </list-item>
+                    </list>
+                  </p>
+                </sec>
+              </boxed-text>
+            </p>
+            <sec id="cid13140-sec-0008">
+              <label>1</label>
+              <title>INTRODUCTION</title>
+              <p>The early stage of bone repair response after dental implant insertion is a complex phenomenon in which the combined action of inflammatory cascade and immune system regulate new bone formation and neo‐angiogenesis.<xref rid="cid13140-bib-0001" ref-type="bibr"><sup>1</sup></xref> Among various factors influencing the healing process, excessive implant micro‐movement may compromise osseointegration by producing large interfacial strains which, especially in low‐quality bone, induce bone resorption and determine fibrous encapsulation of the fixture.<xref rid="cid13140-bib-0002" ref-type="bibr"><sup>2</sup></xref>, <xref rid="cid13140-bib-0003" ref-type="bibr"><sup>3</sup></xref>, <xref rid="cid13140-bib-0004" ref-type="bibr"><sup>4</sup></xref> Therefore, one of the main goals in implant surgery is the achievement of adequate primary stability, which is strictly related to both bone quality and quantity, implant design, and implant site preparation characteristics.<xref rid="cid13140-bib-0005" ref-type="bibr"><sup>5</sup></xref> Implant bed preparation should be performed with minimal trauma to the bone, avoiding overheating, and excessive compression of the cortical layer to prevent an excessive inflammatory phase potentially causing massive bone resorption, delayed healing or implant failure.<xref rid="cid13140-bib-0006" ref-type="bibr"><sup>6</sup></xref>, <xref rid="cid13140-bib-0007" ref-type="bibr"><sup>7</sup></xref>, <xref rid="cid13140-bib-0008" ref-type="bibr"><sup>8</sup></xref>
+</p>
+              <p>The progressive drilling technique has always been the conventional approach to implant osteotomy, using increasing‐diameter twist drills rotating clockwise from 600 to 2000 rpm under copious irrigation.</p>
+              <p>Piezoelectric implant site preparation (PISP) has been proposed as an alternative technique to improve surgical control, safety, and bone healing response. Piezoelectric devices for bone surgery exploit ultrasonic vibrations of specific tips with three main features: (1) micrometric cutting with easy operative control, (2) selective cutting action on hard tissues, and (3) enhanced surgical visibility due to the cavitation effect of cooling saline solution.<xref rid="cid13140-bib-0009" ref-type="bibr"><sup>9</sup></xref>, <xref rid="cid13140-bib-0010" ref-type="bibr"><sup>10</sup></xref>, <xref rid="cid13140-bib-0011" ref-type="bibr"><sup>11</sup></xref> Moreover, PISP seems to improve healing response resulting in a limited stability decrease during the first weeks after implant placement and in an earlier shifting from a decreasing to an increasing stability pattern, compared with conventional drilling.<xref rid="cid13140-bib-0012" ref-type="bibr"><sup>12</sup></xref>, <xref rid="cid13140-bib-0013" ref-type="bibr"><sup>13</sup></xref>, <xref rid="cid13140-bib-0014" ref-type="bibr"><sup>14</sup></xref>
+</p>
+              <p>Osseodensification drills (OD) is a recently introduced implant site preparation technique based on specially designed drills with large negative rake angles which, rotating counterclockwise, work as non‐cutting edges to expand the implant site and compact bone at the osteotomy walls.<xref rid="cid13140-bib-0015" ref-type="bibr"><sup>15</sup></xref> This non‐subtractive approach aims to increase primary stability and maintain secondary stability of dental implants inserted into low‐density bone compared with conventional drilling procedures.<xref rid="cid13140-bib-0016" ref-type="bibr"><sup>16</sup></xref>, <xref rid="cid13140-bib-0017" ref-type="bibr"><sup>17</sup></xref> Osseodensification protocols could help to obtain higher bone‐to‐implant contact and higher bone volume around implants.<xref rid="cid13140-bib-0018" ref-type="bibr"><sup>18</sup></xref>
+</p>
+              <p>However, most studies analyzing OD were conducted in vitro, ex vivo or on an animal model. Well‐designed clinical trials on human subjects are necessary to fully elucidate the potential of this novel technique as an alternative to conventional implant site preparation in daily clinical practice. Therefore, the objective of the present randomized clinical trial was to compare stability changes of implants inserted into sites prepared using OD with implants inserted into sites prepared with PISP during the first 90 days of healing.</p>
+            </sec>
+            <sec sec-type="materials-and-methods" id="cid13140-sec-0009">
+              <label>2</label>
+              <title>MATERIALS AND METHODS</title>
+              <sec id="cid13140-sec-0010">
+                <label>2.1</label>
+                <title>Study design</title>
+                <p>The present study was a multi‐center, randomized controlled clinical trial with simple randomization (1:1 allocation ratio), conducted by six experienced operators, who enrolled and treated patients from June 2020 to February 2021. The present trial was reported following CONsolidated Standards of Reporting Trials guidelines. The study protocol was designed in accordance with recommendations expressed in the Fortaleza revision (2013) of the Helsinki Declaration for investigations on human subjects. The study protocol was approved by the relevant ethical committee (Comitato Etico Regione Calabria—Sezione Area Centro n. 418/2020) and retrospectively recorded in a public registry of clinical trials (<ext-link xlink:href="https://clinicaltrials.gov" ext-link-type="uri">https://clinicaltrials.gov</ext-link>—NCT05410405). A calibration meeting was held among all the clinical centers prior to the study to discuss and standardize operative protocols. Each clinician received written instructions regarding collection of experimental parameters in order to obtain acceptable inter‐examiner consistency. All patients, after being thoroughly informed about the study protocol, the treatment plan with its alternatives and any potential risk related to the therapy, signed a written informed consent to participate in the study and authorized the use of their data for research purposes.</p>
+                <p>The present superiority trial tested the null hypothesis of no difference in primary stability between implants inserted into sites prepared with different devices (OD [test group] and piezoelectric surgery [control group]), against the alternative hypothesis of a difference.</p>
+              </sec>
+              <sec id="cid13140-sec-0011">
+                <label>2.2</label>
+                <title>Patient selection</title>
+                <p>All partially edentulous patients needing two adjacent or contralateral implants in pristine bone in the maxillary premolar area were screened at the clinical centers for potential participation in this trial.</p>
+                <p>General inclusion criteria were the following: (I) age &gt;18 years; (II) good general health; (III) absence of systemic disease affecting bone metabolism and wound healing; (IV) no regular medication consumption for at least 3 months prior to treatment; (V) patient willingness and capability to fully comply with the study protocol; (VI) signed written informed consent.</p>
+                <p>Local inclusion criteria were the following: (I) bone crest with a minimum of 6 mm width and 9 mm height above the maxillary sinus floor, with no concomitant or previous bone augmentation procedures; (II) healed bone crest (at least 6 months elapsed from tooth loss/extraction); (III) presence of opposing dentition.</p>
+                <p>Exclusion criteria were: (I) absolute medical contraindications to implant surgery<xref rid="cid13140-bib-0019" ref-type="bibr"><sup>19</sup></xref>; (II) uncontrolled diabetes (HBA1c &gt; 7.5%); (III) treated or under treatment with antiresorptives; (IV) irradiated in the head and/or neck area in the last 5 years; (V) patient pregnancy or lactating at any time during the study; (VI) poor oral hygiene and motivation (full mouth plaque score FMPS &gt;25%); (VII) untreated periodontal disease; (VIII) psychiatric problems; (IX) alcohol or drug abuse.</p>
+                <p>All patients received oral hygiene instruction and professional deplaquing 1 week prior to implant surgery.</p>
+              </sec>
+              <sec id="cid13140-sec-0012">
+                <label>2.3</label>
+                <title>Surgical procedure</title>
+                <p>After raising a minimally invasive full‐thickness flap under local anesthesia (articaine 4% with epinephrine 1:100000), an independent assessor opened the randomization sealed opaque envelope, and the assigned treatment was revealed to the surgeon. Test and control sites were prepared with the same final diameter for insertion of two identical implants (4.1 × 8 mm or 4.1 × 10 mm Volution, i‐Res) during the same intervention. Selected implants present double‐threaded conical shape, moderately rough surface treatment, platform‐switched internal connection and machined implant neck.</p>
+                <p>Test sites were prepared using osseodensification burs (Densah, Versah) at 1200 rpm in the following sequence: (I) pilot (clockwise); (II) WT1828 (counterclockwise), and (III) WT2838 (counterclockwise). These burs have a cutting chisel edge, a tapered shank and non‐cutting edges with four or more lands with a negative rake angle (Figure <xref rid="cid13140-fig-0001" ref-type="fig">1</xref>). Control sites were prepared using piezoelectric tips (Piezomed, W&amp;H) in the following sequence: I1, I2P, Z25P, I3P, Z35P. These tips are diamond‐coated (I1; Z25P; Z35P) or smooth (I2P; I3P), and oscillate at 22–35 kHz with automatic setting of the right frequency by the surgical device (Figure <xref rid="cid13140-fig-0002" ref-type="fig">2</xref>). Insertion torque (Ncm) was recorded by the surgical motor (Implantmed, W&amp;H) and implants were connected to 3 mm high, straight, multi‐unit abutments. A blinded operator measured implant stability at abutment level in mesio‐distal and bucco‐palatal directions using resonance frequency analysis (SmartPeg #A3, Osstell Beacon, Osstell) and implant stability quotient (ISQ) data were uploaded to a dedicated cloud‐based platform (Osstell Connect, Osstell). Flaps were sutured around multi‐unit abutment healing caps using the Sentineri technique<xref rid="cid13140-bib-0020" ref-type="bibr"><sup>20</sup></xref> and single stitches for unsubmerged healing using synthetic monofilament (Supramid 5/0, Butterfly Italia). Patients were prescribed antibiotics for 6 days (amoxicillin 1 g twice a day) and paracetamol 500 mg when needed.</p>
+                <fig position="float" fig-type="FIGURE" id="cid13140-fig-0001">
+                  <label>FIGURE 1</label>
+                  <caption>
+                    <p>Osseodensification drills (Densah, Versah) were used at 1200 rpm in the following sequence: from left to right (I) pilot (clockwise); (II) WT1828 (counterclockwise), and (III) WT2838 (counterclockwise).</p>
+                  </caption>
+                  <graphic xlink:href="CID-25-133-g004" position="anchor" id="jats-graphic-1"/>
+                </fig>
+                <fig position="float" fig-type="FIGURE" id="cid13140-fig-0002">
+                  <label>FIGURE 2</label>
+                  <caption>
+                    <p>Piezoelectric tips (Piezomed, W&amp;H) were used in the following sequence: from left to right (I) I1; (II) I2P; (III) Z25P; (IV) I3P, and (V) Z35P.</p>
+                  </caption>
+                  <graphic xlink:href="CID-25-133-g003" position="anchor" id="jats-graphic-3"/>
+                </fig>
+                <p>Sutures were removed 7 days after surgery. A blinded assessor measured ISQ following the previously described protocol at 7, 14, 21, 28, 60, and 90 days. Implants were evaluated at every visit for mobility, pain and signs of infection. At 4 months, implants were restored with screw‐retained single metal‐ceramic crowns and followed up for at least for 12 months after prosthetic loading.</p>
+              </sec>
+              <sec id="cid13140-sec-0013">
+                <label>2.4</label>
+                <title>Predictor and outcome variables</title>
+                <p>The primary predictor variable was implant site preparation technique (OD vs PISP).</p>
+                <p>Primary outcome measure:<list list-type="bullet" id="cid13140-list-0001"><list-item id="cid13140-li-0001"><p>implant primary stability (insertion torque and ISQ).</p></list-item></list>
+</p>
+                <p>Secondary outcome measures:<list list-type="bullet" id="cid13140-list-0002"><list-item id="cid13140-li-0002"><p>implant secondary stability pattern during the first 90 days after implant placement (ISQ);</p></list-item><list-item id="cid13140-li-0003"><p>implant survival after 1 year of prosthetic loading;</p></list-item><list-item id="cid13140-li-0004"><p>any complication or adverse event.</p></list-item></list>
+</p>
+              </sec>
+              <sec id="cid13140-sec-0014">
+                <label>2.5</label>
+                <title>Sample size and randomization</title>
+                <p>Sample size calculation was performed by means of a web‐based software (<ext-link xlink:href="https://app.sampsize.org.uk" ext-link-type="uri">https://app.sampsize.org.uk</ext-link>). As no previous studies comparing implant stability after OD or PISP are present in the literature, expected differences for sample size calculation were extrapolated from a recent randomized clinical trial comparing implant stability after OD or conventional drilling.<xref rid="cid13140-bib-0016" ref-type="bibr"><sup>16</sup></xref> A sample of seven patients from each group was required to detect significant differences (confidence level 5% with a statistical power of 90%), with an expected difference in implant primary stability of 19.0 ± 8.4 Ncm.</p>
+                <p>An investigator (GT), not involved in selection or treatment of patients, arranged a computer‐generated table using a balanced, randomly permuted block approach (<ext-link xlink:href="http://www.random.org" ext-link-type="uri">www.random.org</ext-link>) to assign the two implants of each patient to the different groups (test and control). Programmed implant sites assigned to test group had the implant bed prepared with OD, while implant sites assigned to control group had the osteotomy prepared with piezoelectric surgery. Randomization codes were enclosed in numbered, identical, sealed, opaque envelopes. Envelopes were opened after flap elevation. Treatment allocation was concealed to the two operators in charge of enrolling and treating the patients in this trial.</p>
+              </sec>
+              <sec id="cid13140-sec-0015">
+                <label>2.6</label>
+                <title>Statistical analysis</title>
+                <p>An independent investigator (GT) performed data analysis using STATA 16.0 software (StataCorp). Implant stability was described at each single time point with a single ISQ value (mean of mesio‐distal and bucco‐palatal measurements).</p>
+                <p>The Shapiro–Wilk test was performed to assess data normality. Intra‐group differences were longitudinally analyzed using ANOVA and Scheffé tests, while inter‐group comparisons were assessed using the two‐sample Wilcoxon rank‐sum test. The level of significance was set at a <italic toggle="yes">p</italic>‐value lower than 0.05.</p>
+              </sec>
+            </sec>
+            <sec sec-type="results" id="cid13140-sec-0016">
+              <label>3</label>
+              <title>RESULTS</title>
+              <p>Forty‐two consecutive patients were screened for eligibility and, after applying inclusion and exclusion criteria, 27 patients (15 males and 12 females; age range 45–92 years, mean 63.0 ± 11.8 years; 8 smokers, 19 non‐smokers) were included in the present study. Each patient received two identical implants in the posterior maxilla (total = 54 implants); 13 patients received two 8 mm‐long implants and 14 patients received two 10 mm‐long implants (Table <xref rid="cid13140-tbl-0001" ref-type="table">1</xref>). Surgeries were performed by six experienced operators (CS, <italic toggle="yes">n</italic> = 5 patients; GM, <italic toggle="yes">n</italic> = 5 patients; MM, <italic toggle="yes">n</italic> = 5 patients; LL, <italic toggle="yes">n</italic> = 3 patients; AG, <italic toggle="yes">n</italic> = 4 patients; TL, <italic toggle="yes">n</italic> = 5 patients). No drop‐outs were recorded during the entire study period.</p>
+              <table-wrap position="float" id="cid13140-tbl-0001" content-type="TABLE">
+                <label>TABLE 1</label>
+                <caption>
+                  <p>Baseline characteristics of the sample</p>
+                </caption>
+                <table frame="hsides" rules="cols">
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <tbody valign="top">
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Gender</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Male: 15 (55.6%)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Female: 12 (44.4%)</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Age</td>
+                      <td colspan="2" align="left" valign="top" rowspan="1">63.0 ± 11.8 years—range 45–92 years</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Smoking status</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">19 (70.4%) non‐smokers</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 (29.6%) smokers</td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" rowspan="1" colspan="1">Implant length</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">8 mm (13 patients—48.1%)</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1">10 mm (14 patients—51.9%)</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </table-wrap>
+              <p>Ninety days after insertion, 53 out of 54 implants resulted osseointegrated and were referred to the prosthodontist for subsequent rehabilitation (one failure was recorded in test group after 28 days). Two‐sample Wilcoxon rank‐sum test showed no significant differences (<italic toggle="yes">p</italic> = 0.82) between the two groups.</p>
+              <p>Except for the failed implant, no other local or systemic complications or adverse events were recorded at any site throughout the entire period of observation. At the last follow‐up (12 months of prosthetic loading), 53 implants were satisfactorily in function.</p>
+              <p>Mean peak insertion torque was 40.7 ± 12.3 Ncm (range 5–60 Ncm) in the test group and 39.5 ± 10.2 Ncm (range 19–60 Ncm) in the control group. Two‐sample Wilcoxon rank‐sum test showed no significant differences (<italic toggle="yes">p</italic> = 0.47) between the two groups (Figure <xref rid="cid13140-fig-0003" ref-type="fig">3</xref>).</p>
+              <fig position="float" fig-type="FIGURE" id="cid13140-fig-0003">
+                <label>FIGURE 3</label>
+                <caption>
+                  <p>Two‐sample Wilcoxon rank‐sum test showed no significant differences in mean peak insertion torque between the two groups. Insertion torque is expressed in Ncm. OD: osseodensification drills (test); Piezo: piezoelectric tips (control)</p>
+                </caption>
+                <graphic xlink:href="CID-25-133-g001" position="anchor" id="jats-graphic-5"/>
+              </fig>
+              <p>Mean ISQ values at baseline (primary stability) were 71.3 ± 6.9 and 69.3 ± 7.6 in the test and control group, respectively. Two‐sample Wilcoxon rank‐sum test showed no significant difference between the two groups (<italic toggle="yes">p</italic> = 0.48).</p>
+              <p>Implant stability decreased in both groups during the early healing period. The lowest peak was recorded 21 days after implant insertion for test group implants (mean ISQ 65.9 ± 7.8—7.6% decrease from mean primary stability) and 14 days after implant insertion for control group implants (mean ISQ 66.5 ± 6.7—4.9% decrease from mean primary stability).</p>
+              <p>After the third week, implant stability continued to increase constantly in both groups. However, only control group implants, at 60 and 90 days after implant insertion, showed ISQ values higher than at baseline (Figure <xref rid="cid13140-fig-0004" ref-type="fig">4</xref>).</p>
+              <fig position="float" fig-type="FIGURE" id="cid13140-fig-0004">
+                <label>FIGURE 4</label>
+                <caption>
+                  <p>Changes in mean implant stability quotient values of both groups during the first 90 days after implant insertion. The lowest peak was registered at 14 days for the control group and at 21 days for the test group. OD: osseodensification drills (test); Piezo: piezoelectric tips (control)</p>
+                </caption>
+                <graphic xlink:href="CID-25-133-g002" position="anchor" id="jats-graphic-7"/>
+              </fig>
+              <p>Inter‐group comparisons were performed using the two‐sample Wilcoxon rank‐sum test and showed no significant differences in ISQ values between the test and control group during the entire period of observation (Table <xref rid="cid13140-tbl-0002" ref-type="table">2</xref>).</p>
+              <table-wrap position="float" id="cid13140-tbl-0002" content-type="TABLE">
+                <label>TABLE 2</label>
+                <caption>
+                  <p>ISQ values at the different time points in the test and control group</p>
+                </caption>
+                <table frame="hsides" rules="groups">
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <col align="left" span="1"/>
+                  <thead valign="bottom">
+                    <tr style="border-bottom:solid 1px #000000">
+                      <th style="border-right:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1"/>
+                      <th style="border-right:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">OD</th>
+                      <th style="border-right:solid 1px #000000" align="left" valign="bottom" rowspan="1" colspan="1">PISP</th>
+                      <th align="left" valign="bottom" rowspan="1" colspan="1"/>
+                    </tr>
+                  </thead>
+                  <tbody valign="top">
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">Baseline</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">71.3 ± 6.9</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">69.3 ± 7.6</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.48</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">7 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">68.4 ± 6.3</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">67.3 ± 6.1</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.56</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">14 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">66.4 ± 8.5</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">66.5 ± 6.7</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.81</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">21 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">65.9 ± 7.8</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">67.1 ± 5.7</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.70</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">28 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">66.3 ± 6.8</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">67.8 ± 5.5</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.50</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">60 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">67.9 ± 5.4</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">69.7 ± 5.4</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.23</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">90 days</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">69.3 ± 5.4</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1">70.9 ± 4.5</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.30</td>
+                    </tr>
+                    <tr>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"/>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.06</td>
+                      <td style="border-right:solid 1px #000000" align="left" valign="top" rowspan="1" colspan="1"><italic toggle="yes">p</italic> = 0.07</td>
+                      <td align="left" valign="top" rowspan="1" colspan="1"/>
+                    </tr>
+                  </tbody>
+                </table>
+                <table-wrap-foot id="cid13140-ntgp-0001">
+                  <fn id="cid13140-note-0001">
+                    <p><italic toggle="yes">Note</italic>: No inter‐ or intra‐group significant differences were demonstrated at any time point (<italic toggle="yes">p</italic> &gt; 0.05). Data are expressed as mean ± standard deviation.</p>
+                  </fn>
+                  <fn id="cid13140-note-0002">
+                    <p>Abbreviations: OD, osseodensification drills; <italic toggle="yes">p</italic>, <italic toggle="yes">p</italic>‐value; PISP, piezoelectric implant site preparation.</p>
+                  </fn>
+                </table-wrap-foot>
+              </table-wrap>
+              <p>Intra‐group comparisons, analyzed using the Scheffé test, showed no significant differences in ISQ values at any time point both in test and in control group (<italic toggle="yes">p</italic> = 0.06 and <italic toggle="yes">p</italic> = 0.07, respectively).</p>
+            </sec>
+            <sec sec-type="discussion" id="cid13140-sec-0017">
+              <label>4</label>
+              <title>DISCUSSION</title>
+              <p>This multi‐center randomized clinical trial aims to compare primary and secondary stability of implants inserted into sites prepared with OD and piezoelectric tips. Being the very first analysis comparing OD and PISP, it was possible to examine and discuss only the available evidence on OD and PISP resulting from studies in which conventional drilling was used as comparator.</p>
+              <p>The present study was designed to control variables influencing implant primary stability, in order to highlight the impact of surgical technique on the healing process.<xref rid="cid13140-bib-0021" ref-type="bibr"><sup>21</sup></xref>, <xref rid="cid13140-bib-0022" ref-type="bibr"><sup>22</sup></xref> Each patient received two identical implants (same macrotopography, microtopography, diameter, and length) in sites with similar bone quality (adjacent or contralateral teeth in the upper premolar area) and implant site preparation was performed by experienced operators who underwent a calibration session prior to the study.</p>
+              <p>Primary stability was not significantly different between the test and control group either in terms of peak insertion torque (40.7 ± 12.3 Ncm in test group and 39.5 ± 10.2 Ncm in control group) or in ISQ (71.3 ± 6.9 and 69.3 ± 7.6 in test and control group, respectively). This outcome is indirectly confirmed by numerous studies on human subjects showing no significant difference in primary stability between implants inserted after conventional drilling when compared with PISP.<xref rid="cid13140-bib-0012" ref-type="bibr"><sup>12</sup></xref>, <xref rid="cid13140-bib-0023" ref-type="bibr"><sup>23</sup></xref>, <xref rid="cid13140-bib-0024" ref-type="bibr"><sup>24</sup></xref>, <xref rid="cid13140-bib-0025" ref-type="bibr"><sup>25</sup></xref>, <xref rid="cid13140-bib-0026" ref-type="bibr"><sup>26</sup></xref> Conversely, contrasting data are reported in clinical studies on OD for this topic. The majority of authors found no significant difference in implant primary stability between OD and conventional drilling,<xref rid="cid13140-bib-0027" ref-type="bibr"><sup>27</sup></xref>, <xref rid="cid13140-bib-0028" ref-type="bibr"><sup>28</sup></xref>, <xref rid="cid13140-bib-0029" ref-type="bibr"><sup>29</sup></xref> while one investigation highlighted the superiority of OD.<xref rid="cid13140-bib-0016" ref-type="bibr"><sup>16</sup></xref> This disagreement may be explained by inhomogeneity of implant design and differences in bone density among the cases of this latter study.<xref rid="cid13140-bib-0016" ref-type="bibr"><sup>16</sup></xref> Both of these factors can heavily influence implant primary stability.</p>
+              <p>In the context of the inflammatory response to surgical trauma, bone microdamage induces peri‐implant bone remodeling with definite steps (activation of osteoclast cutting cones, damaged bone removal by osteoclasts, pericytes recruitment and their differentiation into osteoblasts, and new bone formation by these osteoblasts).<xref rid="cid13140-bib-0030" ref-type="bibr"><sup>30</sup></xref> During the early phases of healing, osteoclastic activity reduces implant mechanical anchorage to the surrounding bone. Many studies have pointed out that, after conventional drilling preparation, implant stability tends to decrease significantly for the first 3 weeks after implant placement.<xref rid="cid13140-bib-0031" ref-type="bibr"><sup>31</sup></xref>, <xref rid="cid13140-bib-0032" ref-type="bibr"><sup>32</sup></xref>, <xref rid="cid13140-bib-0033" ref-type="bibr"><sup>33</sup></xref>, <xref rid="cid13140-bib-0034" ref-type="bibr"><sup>34</sup></xref>, <xref rid="cid13140-bib-0035" ref-type="bibr"><sup>35</sup></xref> In the present study, stability of implants inserted after PISP decreased for 14 days after placement (mean ISQ 66.5 ± 6.7–4.9% decrease from mean primary stability), in perfect accordance with previous clinical trials<xref rid="cid13140-bib-0012" ref-type="bibr"><sup>12</sup></xref>, <xref rid="cid13140-bib-0025" ref-type="bibr"><sup>25</sup></xref> and meta‐analyses.<xref rid="cid13140-bib-0036" ref-type="bibr"><sup>36</sup></xref>, <xref rid="cid13140-bib-0037" ref-type="bibr"><sup>37</sup></xref> Stability of implants inserted after OD decreased for 21 days after placement (mean ISQ 65.9 ± 7.8—7.6% decrease from mean primary stability), in accordance with a recent clinical study showing that the use of OD for implant site preparation does not prevent implant stability decrease during the first 3 weeks of healing.<xref rid="cid13140-bib-0038" ref-type="bibr"><sup>38</sup></xref> However, it should be underlined that ISQ value reductions recorded in the present study (both in test and control group) were very limited, without reaching statistical significance when compared to primary stability. In addition, inter‐group comparisons showed that also ISQ values measured in OD and PISP group resulted not significantly different during the entire period of observation. These results suggest that both techniques induce a very limited bone remodeling of the peri‐implant bone in comparison with conventional drilling preparation, in which significant loss of stability occurs during the first month after implant placement.<xref rid="cid13140-bib-0031" ref-type="bibr"><sup>31</sup></xref>, <xref rid="cid13140-bib-0032" ref-type="bibr"><sup>32</sup></xref>, <xref rid="cid13140-bib-0033" ref-type="bibr"><sup>33</sup></xref>, <xref rid="cid13140-bib-0034" ref-type="bibr"><sup>34</sup></xref>, <xref rid="cid13140-bib-0035" ref-type="bibr"><sup>35</sup></xref>
+</p>
+              <p>After 12 months of prosthetic loading, 53 out of 54 implants were satisfactorily in function. One implant failed in the OD group before loading (1/27; 96.2% survival rate), while no failures were recorded in the PISP group (0/27; 100% survival rate). Also for this outcome, no significant differences were demonstrated between the two groups, in accordance with previous clinical studies and meta‐analyses reporting similar survival rates for implants inserted with different implant site preparation techniques.<xref rid="cid13140-bib-0016" ref-type="bibr"><sup>16</sup></xref>, <xref rid="cid13140-bib-0036" ref-type="bibr"><sup>36</sup></xref>, <xref rid="cid13140-bib-0039" ref-type="bibr"><sup>39</sup></xref>, <xref rid="cid13140-bib-0040" ref-type="bibr"><sup>40</sup></xref>
+</p>
+              <p>It must be underlined that the findings of this multi‐center randomized clinical trial should be interpreted with caution due to some limitations of the present study. Factors including the limited numerosity of the sample, the selection of a specific surgical site (only lateral maxilla) and the use of a single implant type should be taken into consideration when generalizing the present results.</p>
+              <p>After analyzing data from the present study, it was not possible to reject the null hypothesis of this trial. In other words, no significant differences in implant stability were demonstrated between implants inserted into sites prepared with OD or piezoelectric surgery. Further, well‐designed preclinical studies and additional clinical trials are needed to better clarify the bone healing process after osseodensification procedures, and the possible benefits of this approach for dental implant therapy in low density bone.</p>
+            </sec>
+            <sec id="cid13140-sec-0018">
+              <title>AUTHOR CONTRIBUTIONS</title>
+              <p><bold>Claudio Stacchi:</bold> Concept/Design; data collection; data analysis/interpretation; drafting article; approval of article. <bold>Giuseppe Troiano:</bold> Statistics; data analysis/interpretation; drafting article; approval of article. <bold>Graziano Montaruli:</bold> Data collection; critical revision of article; approval of article. <bold>Marco Mozzati:</bold> Data collection; critical revision of article; approval of article. <bold>Luca Lamazza:</bold> Data collection; critical revision of article; approval of article. <bold>Alessandro Antonelli:</bold> Data collection; critical revision of article; approval of article. <bold>Amerigo Giudice:</bold> Data collection; critical revision of article; approval of article. <bold>Teresa Lombardi:</bold> Concept/Design; data collection; data analysis/interpretation; drafting article; approval of article.</p>
+            </sec>
+            <sec sec-type="COI-statement" id="cid13140-sec-0020">
+              <title>CONFLICT OF INTEREST</title>
+              <p>The authors declare no conflict of interest.</p>
+            </sec>
+          </body>
+          <back>
+            <ack id="cid13140-sec-0019">
+              <title>ACKNOWLEDGMENT</title>
+              <p>The present study was self‐funded. The authors wish to thank Richard de Roeck for linguistic revision. Open Access Funding provided by Universita degli Studi di Roma La Sapienza within the CRUI‐CARE Agreement.</p>
+            </ack>
+            <sec sec-type="data-availability" id="cid13140-sec-0022">
+              <title>DATA AVAILABILITY STATEMENT</title>
+              <p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p>
+            </sec>
+            <ref-list id="cid13140-bibl-0001" content-type="cited-references">
+              <title>REFERENCES</title>
+              <ref id="cid13140-bib-0001">
+                <label>1</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0001"><string-name><surname>Trindade</surname><given-names>R</given-names></string-name>, <string-name><surname>Albrektsson</surname><given-names>T</given-names></string-name>, <string-name><surname>Tengvall</surname><given-names>P</given-names></string-name>, <string-name><surname>Wennerberg</surname><given-names>A</given-names></string-name>. <article-title>Foreign body reaction to biomaterials: on mechanisms for buildup and breakdown of osseointegration</article-title>. <source>Clin Implant Dent Relat Res</source>. <year>2016</year>;<volume>18</volume>(<issue>1</issue>):<fpage>192</fpage>‐<lpage>203</lpage>.<pub-id pub-id-type="pmid">25257971</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0002">
+                <label>2</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0002"><string-name><surname>Martinez</surname><given-names>H</given-names></string-name>, <string-name><surname>Davarpanah</surname><given-names>M</given-names></string-name>, <string-name><surname>Missika</surname><given-names>P</given-names></string-name>, <string-name><surname>Celletti</surname><given-names>R</given-names></string-name>, <string-name><surname>Lazzara</surname><given-names>R</given-names></string-name>. <article-title>Optimal implant stabilization in low density bone</article-title>. <source>Clin Oral Implants Res</source>. <year>2001</year>;<volume>12</volume>(<issue>5</issue>):<fpage>423</fpage>‐<lpage>432</lpage>.<pub-id pub-id-type="pmid">11564101</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0003">
+                <label>3</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0003"><string-name><surname>Monje</surname><given-names>A</given-names></string-name>, <string-name><surname>Ravidà</surname><given-names>A</given-names></string-name>, <string-name><surname>Wang</surname><given-names>H‐L</given-names></string-name>, <string-name><surname>Helms</surname><given-names>JA</given-names></string-name>, <string-name><surname>Brunski</surname><given-names>JB</given-names></string-name>. <article-title>Relationship between primary/mechanical and secondary/biological implant stability</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2019</year>;<volume>34</volume>:<fpage>S7</fpage>‐<lpage>S23</lpage>.<pub-id pub-id-type="pmid">31116830</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0004">
+                <label>4</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0004"><string-name><surname>Coyac</surname><given-names>BR</given-names></string-name>, <string-name><surname>Leahy</surname><given-names>B</given-names></string-name>, <string-name><surname>Li</surname><given-names>Z</given-names></string-name>, et al. <article-title>Bone formation around unstable implants is enhanced by a WNT protein therapeutic in a preclinical in vivo model</article-title>. <source>Clin Oral Implants Res</source>. <year>2020</year>;<volume>31</volume>(<issue>11</issue>):<fpage>1125</fpage>‐<lpage>1137</lpage>.<pub-id pub-id-type="pmid">32881143</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0005">
+                <label>5</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0005"><string-name><surname>Javed</surname><given-names>F</given-names></string-name>, <string-name><surname>Ahmed</surname><given-names>HB</given-names></string-name>, <string-name><surname>Crespi</surname><given-names>R</given-names></string-name>, <string-name><surname>Romanos</surname><given-names>GE</given-names></string-name>. <article-title>Role of primary stability for successful osseointegration of dental implants: factors of influence and evaluation</article-title>. <source>Interv Med Appl Sci</source>. <year>2013</year>;<volume>5</volume>(<issue>4</issue>):<fpage>162</fpage>‐<lpage>167</lpage>.<pub-id pub-id-type="pmid">24381734</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0006">
+                <label>6</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0006"><string-name><surname>Rundle</surname><given-names>CH</given-names></string-name>, <string-name><surname>Wang</surname><given-names>H</given-names></string-name>, <string-name><surname>Yu</surname><given-names>H</given-names></string-name>, et al. <article-title>Microarray analysis of gene expression during the inflammation and endochondral bone formation stages of rat femur fracture repair</article-title>. <source>Bone</source>. <year>2006</year>;<volume>38</volume>(<issue>4</issue>):<fpage>521</fpage>‐<lpage>529</lpage>.<pub-id pub-id-type="pmid">16321582</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0007">
+                <label>7</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0007"><string-name><surname>Trisi</surname><given-names>P</given-names></string-name>, <string-name><surname>Berardini</surname><given-names>M</given-names></string-name>, <string-name><surname>Falco</surname><given-names>A</given-names></string-name>, <string-name><surname>Podaliri Vulpiani</surname><given-names>M</given-names></string-name>, <string-name><surname>Perfetti</surname><given-names>G</given-names></string-name>. <article-title>Insufficient irrigation induces peri‐implant bone resorption: an in vivo histologic analysis in sheep</article-title>. <source>Clin Oral Implants Res</source>. <year>2014</year>;<volume>25</volume>(<issue>6</issue>):<fpage>696</fpage>‐<lpage>701</lpage>.<pub-id pub-id-type="pmid">23421500</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0008">
+                <label>8</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0008"><string-name><surname>Barone</surname><given-names>A</given-names></string-name>, <string-name><surname>Alfonsi</surname><given-names>F</given-names></string-name>, <string-name><surname>Derchi</surname><given-names>G</given-names></string-name>, et al. <article-title>The effect of insertion torque on the clinical outcome of single implants: a randomized clinical trial</article-title>. <source>Clin Implant Dent Relat Res</source>. <year>2016</year>;<volume>18</volume>(<issue>3</issue>):<fpage>588</fpage>‐<lpage>600</lpage>.<pub-id pub-id-type="pmid">26043651</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0009">
+                <label>9</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0009"><string-name><surname>Vercellotti</surname><given-names>T</given-names></string-name>. <article-title>Technological characteristics and clinical indications of piezoelectric bone surgery</article-title>. <source>Minerva Stomatol</source>. <year>2004</year>;<volume>53</volume>(<issue>5</issue>):<fpage>207</fpage>‐<lpage>214</lpage>.<pub-id pub-id-type="pmid">15263877</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0010">
+                <label>10</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0010"><string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Berton</surname><given-names>F</given-names></string-name>, <string-name><surname>Turco</surname><given-names>G</given-names></string-name>, et al. <article-title>Micromorphometric analysis of bone blocks harvested with eight different ultrasonic and sonic devices for osseous surgery</article-title>. <source>J Craniomaxillofac Surg</source>. <year>2016</year>;<volume>44</volume>(<issue>9</issue>):<fpage>1143</fpage>‐<lpage>1151</lpage>.<pub-id pub-id-type="pmid">27527676</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0011">
+                <label>11</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0011"><string-name><surname>Otake</surname><given-names>Y</given-names></string-name>, <string-name><surname>Nakamura</surname><given-names>M</given-names></string-name>, <string-name><surname>Henmi</surname><given-names>A</given-names></string-name>, <string-name><surname>Takahashi</surname><given-names>T</given-names></string-name>, <string-name><surname>Sasano</surname><given-names>Y</given-names></string-name>. <article-title>Experimental comparison of the performance of cutting bone and soft tissue between piezosurgery and conventional rotary instruments</article-title>. <source>Sci Rep</source>. <year>2018</year>;<volume>8</volume>(<issue>1</issue>):<fpage>17154</fpage>.<pub-id pub-id-type="pmid">30464184</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0012">
+                <label>12</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0012"><string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Vercellotti</surname><given-names>T</given-names></string-name>, <string-name><surname>Torelli</surname><given-names>L</given-names></string-name>, <string-name><surname>Furlan</surname><given-names>F</given-names></string-name>, <string-name><surname>Di Lenarda</surname><given-names>R</given-names></string-name>. <article-title>Changes in implant stability using different site preparation techniques: twist drills versus piezosurgery. A single‐blinded, randomized, controlled clinical trial</article-title>. <source>Clin Implant Dent Relat Res</source>. <year>2013</year>;<volume>15</volume>(<issue>2</issue>):<fpage>188</fpage>‐<lpage>197</lpage>.<pub-id pub-id-type="pmid">21682844</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0013">
+                <label>13</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0013"><string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Lombardi</surname><given-names>T</given-names></string-name>, <string-name><surname>Baldi</surname><given-names>D</given-names></string-name>, et al. <article-title>Immediate loading of implant‐supported single crowns after conventional and ultrasonic implant site preparation: a multicenter randomized controlled clinical trial</article-title>. <source>Biomed Res Int</source>. <year>2018</year>;<volume>2018</volume>:<fpage>6817154</fpage>.<pub-id pub-id-type="pmid">30186865</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0014">
+                <label>14</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0014"><string-name><surname>Bassi</surname><given-names>F</given-names></string-name>, <string-name><surname>Cicciù</surname><given-names>M</given-names></string-name>, <string-name><surname>Di Lenarda</surname><given-names>R</given-names></string-name>, et al. <article-title>Piezoelectric bone surgery compared with conventional rotary instruments in oral surgery and implantology: summary and consensus statements of the International Piezoelectric Surgery Academy Consensus Conference 2019</article-title>. <source>Int J Oral Implantol (Berl)</source>. <year>2020</year>;<volume>13</volume>(<issue>3</issue>):<fpage>235</fpage>‐<lpage>239</lpage>.<pub-id pub-id-type="pmid">32879928</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0015">
+                <label>15</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0015"><string-name><surname>Trisi</surname><given-names>P</given-names></string-name>, <string-name><surname>Berardini</surname><given-names>M</given-names></string-name>, <string-name><surname>Falco</surname><given-names>A</given-names></string-name>, <string-name><surname>Podaliri Vulpiani</surname><given-names>M</given-names></string-name>. <article-title>New osseodensification implant site preparation method to increase bone density in low‐density bone: in vivo evaluation in sheep</article-title>. <source>Implant DentImplant Dent</source>. <year>2016</year>;<volume>25</volume>(<issue>1</issue>):<fpage>24</fpage>‐<lpage>31</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0016">
+                <label>16</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0016"><string-name><surname>Bergamo</surname><given-names>ETP</given-names></string-name>, <string-name><surname>Zahoui</surname><given-names>A</given-names></string-name>, <string-name><surname>Barrera</surname><given-names>RB</given-names></string-name>, et al. <article-title>Osseodensification effect on implants primary and secondary stability: multicenter controlled clinical trial</article-title>. <source>Clin Implant Dent Relat Res</source>. <year>2021</year>;<volume>23</volume>(<issue>3</issue>):<fpage>317</fpage>‐<lpage>328</lpage>.<pub-id pub-id-type="pmid">34047046</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0017">
+                <label>17</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0017"><string-name><surname>Gaspar</surname><given-names>J</given-names></string-name>, <string-name><surname>Proença</surname><given-names>L</given-names></string-name>, <string-name><surname>Botelho</surname><given-names>J</given-names></string-name>, et al. <article-title>Implant stability of osseodensification drilling versus conventional surgical technique: a systematic review</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2021</year>;<volume>36</volume>(<issue>6</issue>):<fpage>1104</fpage>‐<lpage>1110</lpage>.<pub-id pub-id-type="pmid">34919606</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0018">
+                <label>18</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0018"><string-name><surname>Mullings</surname><given-names>O</given-names></string-name>, <string-name><surname>Tovar</surname><given-names>N</given-names></string-name>, <string-name><surname>Abreu de Bortoli</surname><given-names>JP</given-names></string-name>, et al. <article-title>Osseodensification versus subtractive drilling techniques in bone healing and implant osseointegration: ex vivo histomorphologic/histomorphometric analysis in a low‐density bone ovine model</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2021</year>;<volume>36</volume>(<issue>5</issue>):<fpage>903</fpage>‐<lpage>909</lpage>.<pub-id pub-id-type="pmid">34698715</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0019">
+                <label>19</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0019"><string-name><surname>Hwang</surname><given-names>D</given-names></string-name>, <string-name><surname>Wang</surname><given-names>HL</given-names></string-name>. <article-title>Medical contraindications to implant therapy</article-title>. <source>Part I: Absolute Contraindications Implant Dent</source>. <year>2006</year>;<volume>15</volume>(<issue>4</issue>):<fpage>353</fpage>‐<lpage>360</lpage>.<pub-id pub-id-type="pmid">17172952</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0020">
+                <label>20</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0020"><string-name><surname>Sentineri</surname><given-names>R</given-names></string-name>, <string-name><surname>Lombardi</surname><given-names>T</given-names></string-name>, <string-name><surname>Berton</surname><given-names>F</given-names></string-name>, <string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>. <article-title>Laurell‐Gottlow suture modified by Sentineri for tight closure of a wound with a single line of sutures</article-title>. <source>Br J Oral Maxillofac Surg</source>. <year>2016</year>;<volume>54</volume>(<issue>1</issue>):<fpage>e18</fpage>‐<lpage>e19</lpage>.<pub-id pub-id-type="pmid">26336840</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0021">
+                <label>21</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0021"><string-name><surname>Sim</surname><given-names>CP</given-names></string-name>, <string-name><surname>Lang</surname><given-names>NP</given-names></string-name>. <article-title>Factors influencing resonance frequency analysis assessed by Osstell mentor during implant tissue integration: I. Instrument positioning, bone structure, implant length</article-title>. <source>Clin Oral Implants Res</source>. <year>2010</year>;<volume>21</volume>(<issue>6</issue>):<fpage>598</fpage>‐<lpage>604</lpage>.<pub-id pub-id-type="pmid">20666786</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0022">
+                <label>22</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0022"><string-name><surname>Han</surname><given-names>J</given-names></string-name>, <string-name><surname>Lulic</surname><given-names>M</given-names></string-name>, <string-name><surname>Lang</surname><given-names>NP</given-names></string-name>. <article-title>Factors influencing resonance frequency analysis assessed by Osstell mentor during implant tissue integration: II. Implant surface modifications and implant diameter</article-title>. <source>Clin Oral Implants Res</source>. <year>2010</year>;<volume>21</volume>(<issue>6</issue>):<fpage>605</fpage>‐<lpage>611</lpage>.<pub-id pub-id-type="pmid">20666787</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0023">
+                <label>23</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0023"><string-name><surname>Canullo</surname><given-names>L</given-names></string-name>, <string-name><surname>Peñarrocha</surname><given-names>D</given-names></string-name>, <string-name><surname>Peñarrocha</surname><given-names>M</given-names></string-name>, <string-name><surname>Rocio</surname><given-names>AG</given-names></string-name>, <string-name><surname>Penarrocha‐Diago</surname><given-names>M</given-names></string-name>. <article-title>Piezoelectric vs. conventional drilling in implant site preparation: pilot controlled randomized clinical trial with crossover design</article-title>. <source>Clin Oral Implants Res</source>. <year>2014</year>;<volume>25</volume>(<issue>12</issue>):<fpage>1336</fpage>‐<lpage>1343</lpage>.<pub-id pub-id-type="pmid">24147994</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0024">
+                <label>24</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0024"><string-name><surname>Makary</surname><given-names>C</given-names></string-name>, <string-name><surname>Rebaudi</surname><given-names>A</given-names></string-name>, <string-name><surname>Demircioglu</surname><given-names>A</given-names></string-name>, <string-name><surname>Lahoud</surname><given-names>P</given-names></string-name>, <string-name><surname>Naaman</surname><given-names>N</given-names></string-name>. <article-title>Standard drilling versus ultrasonic implant site preparation: a clinical study at 4 weeks after insertion of conical implants</article-title>. <source>Implant DentImplant Dent</source>. <year>2017</year>;<volume>26</volume>(<issue>4</issue>):<fpage>547</fpage>‐<lpage>552</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0025">
+                <label>25</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0025"><string-name><surname>Soheilifar</surname><given-names>S</given-names></string-name>, <string-name><surname>Bidgoli</surname><given-names>M</given-names></string-name>, <string-name><surname>Houshyar</surname><given-names>E</given-names></string-name>, <string-name><surname>Farhadian</surname><given-names>M</given-names></string-name>, <string-name><surname>Ghamari</surname><given-names>A</given-names></string-name>. <article-title>Comparing the effect of preparation of the implant sites with piezosurgery and conventional drilling on the stability of implants at 5‐months follow‐up</article-title>. <source>J Long Term Eff Med Implants</source>. <year>2018</year>;<volume>28</volume>(<issue>1</issue>):<fpage>1</fpage>‐<lpage>8</lpage>.<pub-id pub-id-type="pmid">29772986</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0026">
+                <label>26</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0026"><string-name><surname>Alattar</surname><given-names>AN</given-names></string-name>, <string-name><surname>Bede</surname><given-names>SYH</given-names></string-name>. <article-title>Does mixed conventional/piezosurgery implant site preparation affect implant stability?</article-title><source>J Craniofac Surg</source>. <year>2018</year>;<volume>29</volume>(<issue>5</issue>):<fpage>e472</fpage>‐<lpage>e475</lpage>.<pub-id pub-id-type="pmid">29561483</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0027">
+                <label>27</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0027"><string-name><surname>Sultana</surname><given-names>A</given-names></string-name>, <string-name><surname>Makkar</surname><given-names>S</given-names></string-name>, <string-name><surname>Saxena</surname><given-names>D</given-names></string-name>, <string-name><surname>Wadhawan</surname><given-names>A</given-names></string-name>, <string-name><surname>Kusum</surname><given-names>CK</given-names></string-name>. <article-title>To compare the stability and crestal bone loss of implants placed using osseodensification and traditional drilling protocol: a clinicoradiographical study</article-title>. <source>J Indian Prosthodont Soc</source>. <year>2020</year>;<volume>20</volume>(<issue>1</issue>):<fpage>45</fpage>‐<lpage>51</lpage>.<pub-id pub-id-type="pmid">32089598</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0028">
+                <label>28</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0028"><string-name><surname>Wang</surname><given-names>L</given-names></string-name>, <string-name><surname>Wu</surname><given-names>Y</given-names></string-name>, <string-name><surname>Perez</surname><given-names>KC</given-names></string-name>, et al. <article-title>Effects of condensation on peri‐implant bone density and remodeling</article-title>. <source>J Dent Res</source>. <year>2017</year>;<volume>96</volume>(<issue>4</issue>):<fpage>413</fpage>‐<lpage>420</lpage>.<pub-id pub-id-type="pmid">28048963</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0029">
+                <label>29</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0029"><string-name><surname>Almutairi</surname><given-names>AS</given-names></string-name>, <string-name><surname>Walid</surname><given-names>MA</given-names></string-name>, <string-name><surname>Alkhodary</surname><given-names>MA</given-names></string-name>. <article-title>The effect of osseodensification and different thread designs on the dental implant primary stability</article-title>. <source>F1000Res</source>. <year>2018</year>;<volume>7</volume>:<fpage>1898</fpage>.<pub-id pub-id-type="pmid">31131085</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0030">
+                <label>30</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0030"><string-name><surname>Brunski</surname><given-names>JB</given-names></string-name>. <article-title>In vivo bone response to biomechanical loading at the bone/dental‐implant interface</article-title>. <source>Adv Dent Res</source>. <year>1999</year>;<volume>13</volume>(<issue>1</issue>):<fpage>99</fpage>‐<lpage>119</lpage>.<pub-id pub-id-type="pmid">11276755</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0031">
+                <label>31</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0031"><string-name><surname>Barewal</surname><given-names>RM</given-names></string-name>, <string-name><surname>Oates</surname><given-names>TW</given-names></string-name>, <string-name><surname>Meredith</surname><given-names>N</given-names></string-name>, <string-name><surname>Cochran</surname><given-names>DL</given-names></string-name>. <article-title>Resonance frequency measurements of implant stability in vivo on implants with a sandblasted and acid‐etched surface</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2003</year>;<volume>18</volume>(<issue>5</issue>):<fpage>641</fpage>‐<lpage>651</lpage>.<pub-id pub-id-type="pmid">14579951</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0032">
+                <label>32</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0032"><string-name><surname>Abrahamsson</surname><given-names>I</given-names></string-name>, <string-name><surname>Berglundh</surname><given-names>T</given-names></string-name>, <string-name><surname>Linder</surname><given-names>E</given-names></string-name>, <string-name><surname>Lang</surname><given-names>NP</given-names></string-name>, <string-name><surname>Lindhe</surname><given-names>J</given-names></string-name>. <article-title>Early bone formation adjacent to rough and turned endosseous implant surfaces. An experimental study in the dog</article-title>. <source>Clin Oral Implants Res</source>. <year>2004</year>;<volume>15</volume>(<issue>4</issue>):<fpage>381</fpage>‐<lpage>392</lpage>.<pub-id pub-id-type="pmid">15248872</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0033">
+                <label>33</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0033"><string-name><surname>Raghavendra</surname><given-names>S</given-names></string-name>, <string-name><surname>Wood</surname><given-names>MC</given-names></string-name>, <string-name><surname>Taylor</surname><given-names>TD</given-names></string-name>. <article-title>Early wound healing around endosseous implants: a review of the literature</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2005</year>;<volume>20</volume>(<issue>3</issue>):<fpage>425</fpage>‐<lpage>431</lpage>.<pub-id pub-id-type="pmid">15973954</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0034">
+                <label>34</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0034"><string-name><surname>Valderrama</surname><given-names>P</given-names></string-name>, <string-name><surname>Oates</surname><given-names>TW</given-names></string-name>, <string-name><surname>Jones</surname><given-names>AA</given-names></string-name>, <string-name><surname>Simpson</surname><given-names>J</given-names></string-name>, <string-name><surname>Schoolfield</surname><given-names>JD</given-names></string-name>, <string-name><surname>Cochran</surname><given-names>DL</given-names></string-name>. <article-title>Evaluation of two different resonance frequency devices to detect implant stability: a clinical trial</article-title>. <source>J Periodontol</source>. <year>2007</year>;<volume>78</volume>(<issue>2</issue>):<fpage>262</fpage>‐<lpage>272</lpage>.<pub-id pub-id-type="pmid">17274715</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0035">
+                <label>35</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0035"><string-name><surname>Huwiler</surname><given-names>MA</given-names></string-name>, <string-name><surname>Pjetursson</surname><given-names>BE</given-names></string-name>, <string-name><surname>Bosshardt</surname><given-names>DD</given-names></string-name>, <string-name><surname>Salvi</surname><given-names>GE</given-names></string-name>, <string-name><surname>Lang</surname><given-names>NP</given-names></string-name>. <article-title>Resonance frequency analysis in relation to jawbone characteristics and during early healing of implant installation</article-title>. <source>Clin Oral Implants Res</source>. <year>2007</year>;<volume>18</volume>(<issue>3</issue>):<fpage>275</fpage>‐<lpage>280</lpage>.<pub-id pub-id-type="pmid">17355357</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0036">
+                <label>36</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0036"><string-name><surname>Li</surname><given-names>X</given-names></string-name>, <string-name><surname>Lin</surname><given-names>X</given-names></string-name>, <string-name><surname>Guo</surname><given-names>J</given-names></string-name>, <string-name><surname>Wang</surname><given-names>Y</given-names></string-name>. <article-title>The stability and survival rate of dental implants after preparation of the site by piezosurgery vs conventional drilling: a systematic review and meta‐analysis</article-title>. <source>Int J Oral Maxillofac Implants</source>. <year>2020</year>;<volume>35</volume>(<issue>3</issue>):<fpage>e51</fpage>‐<lpage>e56</lpage>.</mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0037">
+                <label>37</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0037"><string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Bassi</surname><given-names>F</given-names></string-name>, <string-name><surname>Troiano</surname><given-names>G</given-names></string-name>, et al. <article-title>Piezoelectric bone surgery for implant site preparation compared with conventional drilling techniques: a systematic review, meta‐analysis and trial sequential analysis</article-title>. <source>Int J Oral Implantol (Berl)</source>. <year>2020</year>;<volume>13</volume>(<issue>2</issue>):<fpage>141</fpage>‐<lpage>158</lpage>.<pub-id pub-id-type="pmid">32424381</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0038">
+                <label>38</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0038"><string-name><surname>Hindi</surname><given-names>AR</given-names></string-name>, <string-name><surname>Bede</surname><given-names>SY</given-names></string-name>. <article-title>The effect of osseodensification on implant stability and bone density: a prospective observational study</article-title>. <source>J Clin Exp Dent</source>. <year>2020</year>;<volume>12</volume>(<issue>5</issue>):<fpage>e474</fpage>‐<lpage>e478</lpage>.<pub-id pub-id-type="pmid">32509230</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0039">
+                <label>39</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0039"><string-name><surname>Vercellotti</surname><given-names>T</given-names></string-name>, <string-name><surname>Stacchi</surname><given-names>C</given-names></string-name>, <string-name><surname>Russo</surname><given-names>C</given-names></string-name>, et al. <article-title>Ultrasonic implant site preparation using piezosurgery: a multicenter case series study analyzing 3,579 implants with a 1‐ to 3‐year follow‐up</article-title>. <source>Int J Periodontics Restorative Dent</source>. <year>2014</year>;<volume>34</volume>(<issue>1</issue>):<fpage>11</fpage>‐<lpage>18</lpage>.<pub-id pub-id-type="pmid">24396835</pub-id></mixed-citation>
+              </ref>
+              <ref id="cid13140-bib-0040">
+                <label>40</label>
+                <mixed-citation publication-type="journal" id="cid13140-cit-0040"><string-name><surname>Tretto</surname><given-names>PHW</given-names></string-name>, <string-name><surname>Fabris</surname><given-names>V</given-names></string-name>, <string-name><surname>Cericato</surname><given-names>GO</given-names></string-name>, <string-name><surname>Sarkis‐Onofre</surname><given-names>R</given-names></string-name>, <string-name><surname>Bacchi</surname><given-names>A</given-names></string-name>. <article-title>Does the instrument used for the implant site preparation influence the bone‐implant interface? A systematic review of clinical and animal studies</article-title>. <source>Int J Oral Maxillofac Surg</source>. <year>2019</year>;<volume>48</volume>(<issue>1</issue>):<fpage>97</fpage>‐<lpage>107</lpage>.<pub-id pub-id-type="pmid">29703665</pub-id></mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>
